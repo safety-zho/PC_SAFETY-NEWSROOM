@@ -145,8 +145,8 @@ def parse_naver(payload: dict) -> list[dict]:
     return out
 
 
-def fetch_google(query: str) -> list[dict]:
-    q = urllib.parse.quote(f"{query} when:1d")
+def fetch_google(query: str, days: int = 1) -> list[dict]:
+    q = urllib.parse.quote(f"{query} when:{days}d")
     raw = http_get(f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko")
     return parse_google(raw)
 
@@ -327,13 +327,16 @@ def collect(cfg: dict) -> list[dict]:
     pool: dict[str, dict] = {}
     found_by: dict[str, set[str]] = {}
     errors = 0
+    watch_days = int((cfg.get("watch") or {}).get("lookback_days", 30))
     groups = [(c["id"], c["queries"]) for c in cfg["categories"]]
     if cfg.get("watch", {}).get("queries"):
         groups.append(("watch", cfg["watch"]["queries"]))
     for cat_id, queries in groups:
         for q in queries:
             try:
-                items = fetch_naver(q, cid, secret) if use_naver else fetch_google(q)
+                # 우리 회사 검색은 매번 최근 30일치를 가져와 30일 칸이 늘 채워지게 함 (중복은 자동으로 건너뜀)
+                days = watch_days if cat_id == "watch" else 1
+                items = fetch_naver(q, cid, secret) if use_naver else fetch_google(q, days)
             except Exception as e:
                 errors += 1
                 log(f"  ! '{q}' 실패: {e}")
@@ -352,9 +355,12 @@ def collect(cfg: dict) -> list[dict]:
         raise SystemExit("모든 검색이 실패했습니다. 네트워크나 API 키를 확인하세요.")
 
     cutoff = now_kst() - timedelta(days=cfg.get("max_age_days", 3))
+    watch_cutoff = now_kst() - timedelta(days=watch_days + 1)
     out = []
     for key, art in pool.items():
-        if datetime.fromisoformat(art["published"]) < cutoff:
+        pub = datetime.fromisoformat(art["published"])
+        is_watch = "watch" in found_by[key] and bool(watch_hits(art, cfg))
+        if pub < (watch_cutoff if is_watch else cutoff):
             continue
         if not relevant(art, cfg):
             continue
