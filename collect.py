@@ -12,6 +12,7 @@ config.json의 검색어로 기사를 모아, 키워드 규칙으로 분류하�
 사용법
   python collect.py            # 수집 후 data/news.json 갱신
   python collect.py --dry-run  # 저장하지 않고 결과만 출력
+  python collect.py --clean-only  # 새로 검색하지 않고 보관 기사만 현재 기준으로 정리
 """
 from __future__ import annotations
 
@@ -47,7 +48,7 @@ SOURCE_NAMES = {
     "labortoday.co.kr": "매일노동뉴스", "safetynews.co.kr": "안전신문", "safety1stnews.com": "세이프티퍼스트닷뉴스",
     "anjunj.com": "안전저널", "kbs.co.kr": "KBS", "imbc.com": "MBC", "sbs.co.kr": "SBS", "ytn.co.kr": "YTN",
     "jtbc.co.kr": "JTBC", "mbn.co.kr": "MBN", "ichannela.com": "채널A", "tvchosun.com": "TV조선",
-    "korea.kr": "정책브리핑", "moel.go.kr": "고용노동부", "kosha.or.kr": "안전보건공단", "lawtimes.co.kr": "법률신문",
+    "korea.kr": "정책브리핑", "daum.net": "다음뉴스", "moel.go.kr": "고용노동부", "kosha.or.kr": "안전보건공단", "lawtimes.co.kr": "법률신문",
     "dailian.co.kr": "데일리안", "nocutnews.co.kr": "노컷뉴스", "busan.com": "부산일보", "kookje.co.kr": "국제신문",
     "imaeil.com": "매일신문", "kado.net": "강원도민일보", "kwnews.co.kr": "강원일보", "kyeongin.com": "경인일보",
     "joongboo.com": "중부일보", "cnews.co.kr": "건설경제", "conslove.co.kr": "건설타임즈", "energy-news.co.kr": "에너지신문",
@@ -145,7 +146,7 @@ def parse_naver(payload: dict) -> list[dict]:
 
 
 def fetch_google(query: str) -> list[dict]:
-    q = urllib.parse.quote(f"{query} when:2d")
+    q = urllib.parse.quote(f"{query} when:1d")
     raw = http_get(f"https://news.google.com/rss/search?q={q}&hl=ko&gl=KR&ceid=KR:ko")
     return parse_google(raw)
 
@@ -159,6 +160,10 @@ def parse_google(raw: bytes) -> list[dict]:
         source = clean(src_el.text) if src_el is not None and src_el.text else ""
         if source and title.endswith(" - " + source):
             title = title[: -len(source) - 3].strip()
+        for _ in range(2):
+            title = re.sub(r"\s+-\s+[^-]{1,15}$", "", title)  # 제목 끝의 ' - 조선비즈' 같은 언론사 꼬리표
+        if "." in source:  # 언론사 이름 대신 주소가 온 경우
+            source = source_from_url("https://" + source)
         try:
             pub = to_kst(parsedate_to_datetime(it.findtext("pubDate", "")))
         except Exception:
@@ -177,6 +182,24 @@ def parse_google(raw: bytes) -> list[dict]:
 
 def contains_any(text: str, words: list[str]) -> bool:
     return any(w.lower() in text for w in words)
+
+
+def watch_hits(art: dict, cfg: dict) -> list[str]:
+    """config의 watch.names(우리 회사·계열사 이름) 중 기사에 나온 이름 목록."""
+    w = cfg.get("watch") or {}
+    text = (art["title"] + " " + art.get("summary", "")).lower()
+    return [n for n in w.get("names", []) if n.lower() in text]
+
+
+def relevant(art: dict, cfg: dict) -> bool:
+    text = (art["title"] + " " + art.get("summary", "")).lower()
+    if contains_any(text, cfg["exclude_if_any"]):
+        return False
+    if contains_any(text, cfg["must_include_any"]):
+        return True
+    # 우리 회사 이름이 나온 기사는 기준을 넓혀 안전·노동 관련 단어 하나만 있어도 통과
+    w = cfg.get("watch") or {}
+    return bool(watch_hits(art, cfg)) and contains_any(text, w.get("must_include_any", []))
 
 
 def classify(art: dict, found_by: set[str], cfg: dict) -> str:
@@ -205,11 +228,19 @@ def bigrams(s: str) -> set[str]:
     return {s[i:i + 2] for i in range(len(s) - 1)}
 
 
-def similar(a: str, b: str, threshold: float = 0.45) -> bool:
+def similar(a: str, b: str) -> bool:
+    """제목 두 개가 같은 사건을 다루는지 대략 판단한다.
+
+    글자 두 개씩 끊은 조각이 전체의 45% 이상 겹치거나(비슷한 길이의 제목),
+    짧은 쪽 제목 조각의 55% 이상이 긴 쪽에 들어 있으면(한쪽이 요약형 제목) 같은 사건으로 본다.
+    """
     A, B = bigrams(a), bigrams(b)
     if not A or not B:
         return False
-    return len(A & B) / len(A | B) >= threshold
+    inter = len(A & B)
+    if inter / len(A | B) >= 0.45:
+        return True
+    return inter >= 9 and inter / min(len(A), len(B)) >= 0.55
 
 
 def norm_url(u: str) -> str:
@@ -245,13 +276,15 @@ def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
                 host = cand
                 break
         if host:
-            if art["source"] != host["source"] and all(r["source"] != art["source"] for r in host.get("related", [])):
-                host.setdefault("related", []).append({"source": art["source"], "url": art["url"], "title": art["title"]})
+            rel = host.setdefault("related", [])
+            for r in [{"source": art["source"], "url": art["url"], "title": art["title"]}] + art.get("related", []):
+                if r["source"] != host["source"] and all(x["source"] != r["source"] for x in rel):
+                    rel.append(r)
             if not host.get("summary") and art.get("summary"):
                 host["summary"] = art["summary"]
             continue
-        art["id"] = art_id(art["url"])
-        art["related"] = []
+        art.setdefault("id", art_id(art["url"]))
+        art.setdefault("related", [])
         art["day"] = day
         by_id[art["id"]] = art
         added += 1
@@ -294,8 +327,11 @@ def collect(cfg: dict) -> list[dict]:
     pool: dict[str, dict] = {}
     found_by: dict[str, set[str]] = {}
     errors = 0
-    for cat in cfg["categories"]:
-        for q in cat["queries"]:
+    groups = [(c["id"], c["queries"]) for c in cfg["categories"]]
+    if cfg.get("watch", {}).get("queries"):
+        groups.append(("watch", cfg["watch"]["queries"]))
+    for cat_id, queries in groups:
+        for q in queries:
             try:
                 items = fetch_naver(q, cid, secret) if use_naver else fetch_google(q)
             except Exception as e:
@@ -305,9 +341,9 @@ def collect(cfg: dict) -> list[dict]:
             for it in items:
                 key = norm_url(it["url"])
                 pool.setdefault(key, it)
-                found_by.setdefault(key, set()).add(cat["id"])
+                found_by.setdefault(key, set()).add(cat_id)
             time.sleep(0.2)
-    total_queries = sum(len(c["queries"]) for c in cfg["categories"])
+    total_queries = sum(len(q) for _, q in groups)
     if errors == total_queries and use_naver:
         log("네이버 검색이 모두 실패해 구글 뉴스 RSS로 다시 수집합니다. API 키와 신청한 API를 확인하세요.")
         os.environ.pop("NAVER_CLIENT_ID", None)
@@ -318,12 +354,9 @@ def collect(cfg: dict) -> list[dict]:
     cutoff = now_kst() - timedelta(days=cfg.get("max_age_days", 3))
     out = []
     for key, art in pool.items():
-        text = (art["title"] + " " + art["summary"]).lower()
         if datetime.fromisoformat(art["published"]) < cutoff:
             continue
-        if contains_any(text, cfg["exclude_if_any"]):
-            continue
-        if not contains_any(text, cfg["must_include_any"]):
+        if not relevant(art, cfg):
             continue
         art["cat"] = classify(art, found_by[key], cfg)
         out.append(art)
@@ -338,17 +371,35 @@ def main(argv: list[str]) -> int:
         raise SystemExit("config.json을 찾을 수 없습니다.")
     data = load_json(DATA_PATH, {"articles": []})
 
-    fresh = collect(cfg)
-    articles, added = merge(data.get("articles", []), fresh)
+    # 보관 중인 기사에도 지금의 config 기준을 다시 적용하고 같은 사건 기사를 다시 묶는다.
+    # (config.json을 고치면 다음 수집 때 예전 기사까지 정리됨)
+    stored = [a for a in data.get("articles", []) if relevant(a, cfg)]
+    for a in stored:  # 예전 수집분의 주소형 출처 이름 정리
+        for x in [a] + a.get("related", []):
+            if "." in x.get("source", ""):
+                x["source"] = source_from_url("https://" + x["source"])
+    stored, _ = merge([], stored)
+    removed = len(data.get("articles", [])) - len(stored)
+    if removed:
+        log(f"보관 기사 정리: {removed}건 제외 또는 같은 사건으로 묶음")
+
+    fresh = [] if "--clean-only" in argv else collect(cfg)
+    articles, added = merge(stored, fresh)
 
     keep_from = (now_kst() - timedelta(days=cfg.get("keep_days", 90))).date().isoformat()
     articles = [a for a in articles if a["day"] >= keep_from]
     articles.sort(key=lambda a: a["published"], reverse=True)
+    for a in articles:  # 우리 회사 관련 표시 (config를 바꾸면 전체 기사에 다시 적용)
+        hits = watch_hits(a, cfg)
+        for r in a.get("related", []):
+            hits += [n for n in (cfg.get("watch") or {}).get("names", []) if n.lower() in r.get("title", "").lower() and n not in hits]
+        a["watch"] = hits
 
     today = now_kst().date().isoformat()
     result = {
         "updatedAt": now_kst().isoformat(timespec="minutes"),
         "categories": [{"id": c["id"], "label": c["label"]} for c in cfg["categories"]],
+        "watchLabel": (cfg.get("watch") or {}).get("label", "우리 회사"),
         "highlights": build_highlights(articles, today),
         "articles": articles,
     }
