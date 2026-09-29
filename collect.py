@@ -54,6 +54,43 @@ SOURCE_NAMES = {
     "joongboo.com": "중부일보", "cnews.co.kr": "건설경제", "conslove.co.kr": "건설타임즈", "energy-news.co.kr": "에너지신문",
 }
 
+# 네이버 API는 언론사 이름을 주지 않아 기사 주소로 판단 (자주 보이는 곳 위주, 필요하면 추가)
+SOURCE_NAMES.update({
+    "businesspost.co.kr": "비즈니스포스트", "4th.kr": "포쓰저널", "newstomato.com": "뉴스토마토", "newsclaim.co.kr": "뉴스클레임",
+    "gukjenews.com": "국제뉴스", "newsfreezone.co.kr": "뉴스프리존", "hidomin.com": "경북도민일보", "kyongbuk.co.kr": "경북일보",
+    "segye.com": "세계일보", "mediatoday.co.kr": "미디어오늘", "livesnews.com": "라이브뉴스", "kgnews.co.kr": "경기신문",
+    "huffingtonpost.kr": "허프포스트코리아", "imbc.com": "MBC", "straightnews.co.kr": "스트레이트뉴스", "pointdaily.co.kr": "포인트데일리",
+    "newsprime.co.kr": "프라임경제", "mydaily.co.kr": "마이데일리", "insight.co.kr": "인사이트", "koscaj.com": "대한전문건설신문",
+    "hankooki.com": "한국아이닷컴", "ziksir.com": "직썰", "christiandaily.co.kr": "기독일보", "newsway.co.kr": "뉴스웨이",
+    "bizwatch.co.kr": "비즈워치", "thebell.co.kr": "더벨", "etnews.com": "전자신문", "zdnet.co.kr": "지디넷코리아",
+    "inews24.com": "아이뉴스24", "ddaily.co.kr": "디지털데일리", "bloter.net": "블로터", "sisajournal.com": "시사저널",
+    "sisain.co.kr": "시사IN", "newdaily.co.kr": "뉴데일리", "mediapen.com": "미디어펜", "ebn.co.kr": "EBN",
+    "econovill.com": "이코노믹리뷰", "ekn.kr": "에너지경제", "kbiznews.co.kr": "중소기업뉴스", "incheonilbo.com": "인천일보",
+    "kihoilbo.co.kr": "기호일보", "joongdo.co.kr": "중도일보", "daejonilbo.com": "대전일보", "ccdailynews.com": "충청일보",
+    "jbnews.com": "중부매일", "kwangju.co.kr": "광주일보", "jnilbo.com": "전남일보", "jjan.kr": "전북일보",
+    "domin.co.kr": "전북도민일보", "idomin.com": "경남도민일보", "knnews.co.kr": "경남신문", "gndomin.com": "경남도민신문",
+    "ksilbo.co.kr": "경상일보", "iusm.co.kr": "울산매일", "ulsanpress.net": "울산신문", "yeongnam.com": "영남일보",
+    "idaegu.com": "대구신문", "ihalla.com": "한라일보", "jejunews.com": "제주일보", "jejusori.net": "제주의소리",
+    "kukinews.com": "쿠키뉴스", "dt.co.kr": "디지털타임스", "asiatoday.co.kr": "아시아투데이", "viva100.com": "브릿지경제",
+    "nspna.com": "NSP통신", "newscj.com": "천지일보", "breaknews.com": "브레이크뉴스", "wikitree.co.kr": "위키트리",
+    "wowtv.co.kr": "한국경제TV", "polinews.co.kr": "폴리뉴스", "lawissue.co.kr": "로이슈", "safetimes.co.kr": "세이프타임즈",
+    "hkbs.co.kr": "환경일보", "ikld.kr": "국토일보", "hansbiz.co.kr": "한스경제", "womaneconomy.co.kr": "여성경제신문",
+    "sisaweek.com": "시사위크", "newswork.co.kr": "뉴스워커", "beyondpost.co.kr": "비욘드포스트", "todayenergy.kr": "투데이에너지",
+    "gasnews.com": "가스신문", "fntimes.com": "한국금융신문", "bizhankook.com": "비즈한국", "news2day.co.kr": "뉴스투데이",
+    "mhns.co.kr": "문화뉴스", "pinpointnews.co.kr": "핀포인트뉴스", "g-enews.com": "글로벌이코노믹", "enewstoday.co.kr": "이뉴스투데이",
+    "sentv.co.kr": "서울경제TV", "sportsseoul.com": "스포츠서울", "dailyan.com": "데일리안", "stardailynews.co.kr": "스타데일리뉴스",
+    "ngetnews.com": "뉴스저널리즘", "cstimes.com": "컨슈머타임스", "consumernews.co.kr": "소비자가만드는신문", "smarttoday.co.kr": "스마트투데이",
+    "thepublic.kr": "더퍼블릭", "ajunews.com": "아주경제", "e2news.com": "이투뉴스", "kpinews.kr": "KPI뉴스",
+    "sedaily.com": "서울경제", "bizwnews.com": "비즈월드", "newsis.com": "뉴시스", "mbn.co.kr": "MBN", "cbs.co.kr": "CBS",
+    "tbs.seoul.kr": "TBS", "obsnews.co.kr": "OBS", "ksmnews.co.kr": "경상매일신문", "kbmaeil.com": "경북매일",
+    "gjdream.com": "광주드림", "namdonews.com": "남도일보", "mdilbo.com": "무등일보", "ggilbo.com": "금강일보",
+    "cctoday.co.kr": "충청투데이", "dynews.co.kr": "동양일보", "inews365.com": "충북일보", "kado.net": "강원도민일보",
+    "kyeongin.com": "경인일보", "joongboo.com": "중부일보", "suwonilbo.kr": "수원일보", "kjdaily.com": "광주매일신문",
+    "newsian.co.kr": "뉴시안", "seoulwire.com": "서울와이어", "fetv.co.kr": "FETV", "ntoday.co.kr": "시사오늘",
+    "kmaeil.com": "경인매일", "sisaon.co.kr": "시사온", "thefairnews.co.kr": "더페어", "dailypharm.com": "데일리팜",
+    "medicaltimes.com": "메디칼타임즈", "docdocdoc.co.kr": "청년의사", "kormedi.com": "코메디닷컴",
+})
+
 
 def log(*a):
     print(*a, file=sys.stderr, flush=True)
@@ -185,21 +222,46 @@ def contains_any(text: str, words: list[str]) -> bool:
 
 
 def watch_hits(art: dict, cfg: dict) -> list[str]:
-    """config의 watch.names(우리 회사·계열사 이름) 중 기사에 나온 이름 목록."""
+    """우리 회사·계열사 이름 중 기사 '제목'에 나온 이름 목록.
+
+    네이버 요약문에는 기사 본문 일부가 들어가 계열사 이름이 스치듯 언급되는 경우가 많아
+    제목만 본다. 'SPC'처럼 다른 뜻(특수목적법인 등)으로도 쓰이는 이름은
+    config의 watch.names에서 'SPC그룹', 'SPC삼립'처럼 구체적으로 적는다.
+    """
     w = cfg.get("watch") or {}
-    text = (art["title"] + " " + art.get("summary", "")).lower()
-    return [n for n in w.get("names", []) if n.lower() in text]
+    title = art["title"].lower()
+    return [n for n in w.get("names", []) if n.lower() in title]
+
+
+def count_terms(text: str, words: list[str]) -> int:
+    return sum(1 for w in words if w.lower() in text)
 
 
 def relevant(art: dict, cfg: dict) -> bool:
-    text = (art["title"] + " " + art.get("summary", "")).lower()
-    if contains_any(text, cfg["exclude_if_any"]):
+    """안전보건 기사인지 판단.
+
+    제목에 핵심어가 있으면 통과. 제목에 없으면 요약문에 서로 다른 핵심어가 2개 이상 있어야 통과
+    (요약문에 '산업안전보건법'이 한 번 스친 정치 기사 등을 거르기 위함).
+    """
+    title = art["title"].lower()
+    desc = art.get("summary", "").lower()
+    both = title + " " + desc
+    if contains_any(both, cfg["exclude_if_any"]):
         return False
-    if contains_any(text, cfg["must_include_any"]):
-        return True
-    # 우리 회사 이름이 나온 기사는 기준을 넓혀 안전·노동 관련 단어 하나만 있어도 통과
     w = cfg.get("watch") or {}
-    return bool(watch_hits(art, cfg)) and contains_any(text, w.get("must_include_any", []))
+    if watch_hits(art, cfg):
+        # 우리 회사 기사: 제목에 안전·노동 관련 단어가 있거나, 요약문에 사고·산재 같은 강한 단어가 있으면 통과
+        if contains_any(both, w.get("exclude_if_any", [])):
+            return False
+        if contains_any(title, w.get("must_include_any", [])) or contains_any(desc, w.get("strong_in_summary", [])):
+            return True
+    must = cfg["must_include_any"]
+    if contains_any(title, must):
+        return True
+    # 제목에 핵심어가 없으면 요약문에 서로 다른 핵심어 3개 이상 + 제목이 정치·증시 기사가 아닐 때만 통과
+    if contains_any(title, cfg.get("block_title_if_summary_only", [])):
+        return False
+    return count_terms(desc, must) >= 3
 
 
 def classify(art: dict, found_by: set[str], cfg: dict) -> str:
