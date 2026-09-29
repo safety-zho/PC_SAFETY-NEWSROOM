@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T18:17+09:00",
+ "updatedAt": "2026-09-29T18:25+09:00",
  "categories": [
   {
    "id": "acc",
@@ -18,6 +18,7 @@
    "label": "업계·기술 동향"
   }
  ],
+ "watchLabel": "SPC그룹",
  "highlights": [
   {
    "id": "235ca567640a",
@@ -26,34 +27,7 @@
    "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-09-29",
-   "count": 8
-  },
-  {
-   "id": "571ce60a4620",
-   "title": "HD현대중공업·고용부·안전공단, 울산 본사서 ‘민관 합동 안전캠페인’ 실시",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FWkg5Z0hXMURYNXhXN2JQLUlYYmRtbmxhU29vem8xT1VZNVgwUFBGZS1XUW9MMmJfMldzQjgxNm9rb1E2aTFuS1JkTlNneXMwRDYzbVRCWnRmZDZrU01NWnBWUHA?oc=5",
-   "source": "베타뉴스",
-   "cat": "law",
-   "day": "2026-09-29",
-   "count": 7
-  },
-  {
-   "id": "85417d5c47bf",
-   "title": "고상백 보건산업진흥원장 \"중장기 연구·정책 기능 강화할 것\"",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTVVQM3BHU1kxSGZhdjJPMGpxQjlCbEx2YUVnbENKQTBrWVp1TFduN2xoRW5DWHJXaGR0Rk93VmlORU9HbmNfdWNGeGNkb2hBN1NXMWVxSlJxZ0ZJSklqMA?oc=5",
-   "source": "뉴시스",
-   "cat": "hlt",
-   "day": "2026-09-29",
-   "count": 3
-  },
-  {
-   "id": "f6bd5c836478",
-   "title": "철원군, 유해인자 노출 종사자 대상 특수건강진단 실시",
-   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObVE0MFFNODhNd180SHgwbmg4TzJiYU9tQ1l0aklfQlhrakV3NGNuQ1ppc2g0c01fV3RKcUlVX3BQR0FVMzJ4RkFsVTJGcXRtVFpKSFU1SmM2cVo1RE9kWWtoSjNlTFZ6b01JZ1dqQXBCenVaSUNwTmsxVW5ERUM2MV9zY3ZUbHVpSzR2eEJGZTE2VmlsSUhfTQ?oc=5",
-   "source": "mediatoday.asia",
-   "cat": "hlt",
-   "day": "2026-09-29",
-   "count": 3
+   "count": 9
   },
   {
    "id": "8344eaef654f",
@@ -62,20 +36,60 @@
    "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-09-29",
-   "count": 3
+   "count": 6
+  },
+  {
+   "id": "74d1637c81af",
+   "title": "진천 농다리·미르309출렁다리에 스마트 안전관리시스템 구축",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kenNGV1Y0WVRuTjhaZEEtMEp4U2JhMTdCV1V1TlJ3SDY4M1ZYV0R1U1lRcGhNX2NyR1oybWt5b1lMazFkcmNzd3U4cWtWTDJiWHpnR0J6OUJNcFRuZVJZYtIBYEFVX3lxTE5kenNGV1Y0WVRuTjhaZEEtMEp4U2JhMTdCV1V1TlJ3SDY4M1ZYV0R1U1lRcGhNX2NyR1oybWt5b1lMazFkcmNzd3U4cWtWTDJiWHpnR0J6OUJNcFRuZVJZYg?oc=5",
+   "source": "연합뉴스",
+   "cat": "tech",
+   "day": "2026-09-29",
+   "count": 6
+  },
+  {
+   "id": "7a396c07f6e5",
+   "title": "원주서 중대재해예방 합동 워크숍…강원도·시군 등 50여명 참여",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JVEE0TjJab3ZpNzZjVFUydlZ1ZHoyVE5VWGlSUndMd2hQVlZIa1RYMmRMYkhEQjZFcmJFWlJPVnd6dXJsbGF3Q0hjRS1sTkJVS3E5YXN6TXBRbW9oSTJBbdIBYEFVX3lxTE9JVEE0TjJab3ZpNzZjVFUydlZ1ZHoyVE5VWGlSUndMd2hQVlZIa1RYMmRMYkhEQjZFcmJFWlJPVnd6dXJsbGF3Q0hjRS1sTkJVS3E5YXN6TXBRbW9oSTJBbQ?oc=5",
+   "source": "연합뉴스",
+   "cat": "acc",
+   "day": "2026-09-29",
+   "count": 4
+  },
+  {
+   "id": "6280e96c92bb",
+   "title": "안전보건공단, 내년 서비스 예정 ‘기업 안전보건현황 공개 시스템’ 점검",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1PTGM1NTktY2NYdGNxMWtTZld3RkJtS255WllUVmpVeWdzUDc5eEpaa2hCUWNSNjJYd0lwYjVPX05HMXpsNmViRFA0MU5QTUJZMGZpRURHTQ?oc=5",
+   "source": "헤럴드경제",
+   "cat": "tech",
+   "day": "2026-09-29",
+   "count": 4
   }
  ],
  "articles": [
   {
-   "title": "사망사고 내고도 반복 입찰... 중대재해업체, 도로공사 공사 추가 수주",
+   "title": "건설업 붕괴사고는 왜 반복되는가",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRVZrYXVoSGoyc2xoMVVvdU9rTzVlOWxJUHFBR19uUDBobVpTSVJhZEpkWVdZOFd4dDdzN0E1blFNOU9HeVp5R1NmdDRhS1E?oc=5",
-   "source": "v.daum.net",
-   "published": "2026-09-29T18:06+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44QzkxOW5IY0NnN1FiVTNnbGFRWkVVSTJXdUQ5enlqTjZjcXNQcnpZY3kxOTkyZDdKSTZIVWpzWXhRcWRRQ2wwSXZxYVBxWjRiMnJ4X1RTanFkY2NHRUMwcEJZUzQydkk?oc=5",
+   "source": "안전저널",
+   "published": "2026-09-29T18:14+09:00",
    "cat": "acc",
-   "id": "51f1f279e4c9",
+   "id": "b2340897e7e5",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "'작은 위험요인도 꼼꼼히 살핀다'...함안군, 산업안전보건위원회 첫 회의 개최",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tTzE4X0pFaFN2MTNxcm4ybXNuUnNoMHVUTUtfQi1MbEVTYks0ZDNIeGJQbENLY3Z0TnV3ODhXdW91Q1J5M3pWTUV5aDVQOVF6QU45RFJvTTRiU2ZSa045dU5mRnlZYXUwZS12V293?oc=5",
+   "source": "newfilenews.com",
+   "published": "2026-09-29T17:58+09:00",
+   "cat": "hlt",
+   "id": "8a817ed7e4fb",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "가스공사, AI로 안전관리 강화…‘안전 최우선’ 선언",
@@ -86,35 +100,8 @@
    "cat": "tech",
    "id": "d2ff72b5b0f3",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "임미애 의원, 농작업재해 예방 제정법 발의…국가 책임 강화",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HcFFYTVA2VnRkdzJ1c2prQURoUTY1V05INl9FTGs5TjFtV3J6Zi1PNVlsVE82bmJnSHBpZ19CZE9lZEtWNUdEVXhSNV9mdi1tT2l5SUNLMjVsc3g3dmhXZWdiTm83QQ?oc=5",
-   "source": "푸드투데이",
-   "published": "2026-09-29T17:45+09:00",
-   "cat": "law",
-   "id": "1361b1910a61",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보건산업진흥원장 “R&D 관리 넘어 바이오헬스 정책 플랫폼으로” - 조선비즈",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRS1JNFc4Wi12T3JrdWt0VWlIbUttTFpxeF9tUmkwR0o1M0V5aUNCLTF1Y21vZGxXS21ubG40ZmNzQlU5YjJLeENFeUdJZDgxQmJ3TFlVWHVJa2xValk0OWxFY2duVTRHQ09WUlFpdndqdWZTS18xcGFJaXEwTXZOdHZHYXJMa3BvdUFqck9iRTFHQWVDTVBv0gGrAUFVX3lxTE5ZUFJqaWYzN3B3b2hQZkxZdkt3ZTFXdl9VaTRBb2pLVFM2aE5fTTVCLXBtcGxlZGpLalduWVdLWlpwVWJGOTlxOE1mb3h0Ri1oeFVldG5qRmMtVzI4RzRRTXNfWmx0OVdKc1pQc0lTUXZ5MThmN19EclczSlo3RS04X2tKaTJpaFFJVi0zNHBSY0NWYjRRRTc5YXNiZG1kTk0wcEE0ZkljLThyMA?oc=5",
-   "source": "Chosunbiz",
-   "published": "2026-09-29T17:22+09:00",
-   "cat": "hlt",
-   "id": "84ac03e064b2",
-   "related": [
-    {
-     "source": "데일리안",
-     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQc0YxWkY3Vlp6aEo5ZTB0bzZUam9qbk5kSk5XelFXd2hyYzBvRDBCRXZOd0xfb2pJTy1xcXFzSEhnSnNocjR5QjBqWlRlaXc5TjM2cnowVTk1anI4RE5lUjd0eU9JdDBUQzMza1hNRTZzNUZ3QlczaG9scE0wQmtmTXBUYkZnMUNkd0NES3pNUlp4Z0NNZlRlYkd0TElXbEFwM295MUY3SEw4LXNrb2lTOGF3MUpKZTlWYW5pSkFEZXVwXzN0WDQ1cEc5VGVQUzNvZ2w3UzBUbm55NmtTMWRheHZZYUpaa3U5Z1RPWmN6NE5kb2NvSjBLSWpad2NIRlp4WVp0cHpvNlpialRUaTNhQ1hSVi1HZHI2STZhbzNiWnljSXRvbFBIOFEtc1BiUQ?oc=5",
-     "title": "고상백 보건산업진흥원장 \"바이오헬스 혁신정책 플랫폼 역할 확대\""
-    }
-   ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "⑥ 보건사회부 노동청이 노동부로 승격되다",
@@ -125,7 +112,8 @@
    "cat": "hlt",
    "id": "f6ddb9268c78",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "UPA, 항만운송 관계자 100여명 대상 안전관리 교육",
@@ -136,7 +124,8 @@
    "cat": "law",
    "id": "37c2825affde",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "안전보건공단, 사업 투명성 강화 · 제도 개선 집중 점검",
@@ -147,62 +136,62 @@
    "cat": "tech",
    "id": "4a5737b84ec4",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "고용노동부, 가을 지붕 공사 '추락주의보'… 안전시설 비용 최대 90% 지원",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15U3hqQ01POXJOd0taLWt3NU10T2x3Zm1EWVpvaDdvajRiNTNtblVSZ2R2NTJtT05FNFlpYzJ4d0pLRWtYMXRJUUI4ZlF4TURYN2trcmRGN2tLeGE5aUE?oc=5",
+   "source": "커넥트이천",
+   "published": "2026-09-29T17:03+09:00",
+   "cat": "acc",
+   "id": "43bfd91d55be",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "\"왜 맘대로 바꿔\"…외국인 근로자 박치기한 공장 관리자, 벌금 400만원",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZWd2RTJSVUhyWno5djBjVUZMWnVJMXFvWTN6NjVPYWNURDZ6eUFFU1IwQ0xXUGU5TlRJOFhDQ1Y3WWFpV2x4MGhJZHNsTnVDNDM2TW9lbkVBMU0?oc=5",
+   "source": "경기일보",
+   "published": "2026-09-29T16:53+09:00",
+   "cat": "acc",
+   "id": "644e419301db",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "‘건폭’ 몰이에 분신해 숨진 고 양회동씨 유족, 3년만에 산재 신청",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52cEo1VlREczRkSlNTTWZoVWJXcEJjZ2Qtb1BsQW41ampCM0NfanllbVRGUG0xZHQ5TFhXRGcxU2RfWW9YMjFuNnV5V24zUmM?oc=5",
-   "source": "v.daum.net",
+   "source": "다음뉴스",
    "published": "2026-09-29T16:52+09:00",
    "cat": "acc",
    "id": "6ebae080f7e3",
-   "related": [],
-   "day": "2026-09-29"
+   "related": [
+    {
+     "source": "한겨레",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmVEhOc2pjTVhJdGl4MjZ3U2VoS19GSEg0VXh2OUlZNWJaWGhuOTJ2QS1Sb2RKSjBDQUhWM0pRa1RSRjBTUTlTNWtBeEhmSEluZzZBY3RGWGticGlTd2l5NGpxQWI?oc=5",
+     "title": "‘건폭’ 몰이에 분신해 숨진 고 양회동씨 유족, 3년만에 산재 신청"
+    }
+   ],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "산업안전공단, 내년 기업 안전보건현황 공개 앞두고 제도 점검",
+   "title": "건설노조, 고성 출신 고 양회동 씨 산재 신청…“노조 활동 관련 수사로 정신적 고통”",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUFFHU0ZFbEFZSHVHcE05YkxiUGdYUVpCckRrX0ZrdmZLMjJwNXBZUy11ckp5YWE0NHdCYm5KdkFIdl9aaFhyS0Zza3VNZDdSdVhkMkNVZTdvQQ?oc=5",
-   "source": "브릿지경제",
-   "published": "2026-09-29T16:52+09:00",
-   "cat": "law",
-   "id": "39d75c7f3618",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현대중공업, 연휴 끝난 출근길에 ‘안전 메시지’",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5mV1c4UTR1cGVNYmNsWVhzVGIzSTZkX3hITHoyd1lId0FraWRwQldmQ1NkVV9aVURlVUpjTFI3WmpWVlJ2cVd2a3loTDEwRlZ4UXBEdEdTYzJSaXYyVDJUX1d4WlI?oc=5",
-   "source": "매일일보",
-   "published": "2026-09-29T16:43+09:00",
-   "cat": "law",
-   "id": "68e55c483359",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "‘안전 경영’ 내건 금석호 HD현대중공업 대표, 출근길 ‘안전캠페인’",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uTzJtcFF2NFFDY3hRNHotWVNLZlZHSXA0QzBWb1FRZWg1SHpOS3hIOVZTNmtyQXZtZ3NyZWo1LVV0RzJOZXJrV3BfYldLNk9RNFNvRkJoaWMwN2thbFU0MEFjamxxcm5USUZBRA?oc=5",
-   "source": "아시아투데이",
-   "published": "2026-09-29T16:39+09:00",
-   "cat": "law",
-   "id": "130c4c9c2d57",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "“사망사고 내고도 한국도로공사 공사 또 따냈다”… 최근 5년간 도공 중대재해발생 업체 5곳, 사고 후 추가 8건 수주",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xbXZUbWpyTDJRd1pPSDNPclM2TDVoMk1KWkVvTU56NzA3UFcwV3E5c1lBaUpDTldoc3RraXRSYS1fV2I4cDVfMXVldC1WczViWU5LNGg1Yk4xSHVGZEdCaDJEbGo?oc=5",
-   "source": "국제일보",
-   "published": "2026-09-29T16:31+09:00",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hd09ZaEV1ZDg0RTFoRVF1T2dlOXlraFp6TlJ2Z25xbi1RbU5EREg1ME1PNlYtTGRibVM2NzdLYVE5QUo1MlFLQjBkZXNJWUdqdzBGV2pCcFpDX3lQWnhaaDM4Zlo1VlpJ?oc=5",
+   "source": "강원도민일보",
+   "published": "2026-09-29T16:37+09:00",
    "cat": "acc",
-   "id": "dd43312a3b4c",
+   "id": "81702417e111",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "[인터뷰] 건설 중대재해... 김주영 의원 \"안전비용과 책임이 아래로 전가되는 구조를 함께 바꿔야\"",
@@ -213,46 +202,20 @@
    "cat": "law",
    "id": "cef9ca87a138",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "울산항만공사, 항만안전 합동 교육 실시",
+   "title": "전원 차단·무전압 확인 빠지면 치명적…사천 배수장 감전사고로 본 SIF 위험",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WN3lQeUZPU1RScHB1WlhKRlVQVnNuNTFPclNRUklzay1SMnZicHl2c29vazFKR2ZQdnhHT1h2S1pZd2Y3aXdhSUpiNWJSd2ZZLUhLcG01ZTlRQU8zaUJTMzBKejlqVG1QVzNfdXpB?oc=5",
-   "source": "울산종합일보",
-   "published": "2026-09-29T16:18+09:00",
-   "cat": "law",
-   "id": "fc99ad34eaf3",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "김정재 의원 \"사망사고 낸 건설사, 한국도로공사 공사 또 땄다\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYjNCb09SdG80VVZKWTNYMnU4ZWVGc3Q0OXBvNUlZZHpKMzRqUUpldlR2bFc0U3duYlB5ZHlQTm1aMnktRjFBM3pSQjVTdHhBd2E1VXJicU9mX2tHMmhOelB2WXU5NUVtRW1hd3V30gFzQVVfeXFMTUt2UVU0ZVo3N3BYMWpVY1FyanhlQnVROHN2SGMzbWw0Yjl3b19XdnhjNEJIaG9jSVBiNUJVR0ZVX1AwR1Rud0pyU3BwODVLVnVVbzNFNUQ1WWpWd1lId3RlV0xyd2lKSGttdkpNeXZQdGJtYw?oc=5",
-   "source": "한국일보",
-   "published": "2026-09-29T16:15+09:00",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96SGIzVzJkS1Q0MXB0X29uT2NQd3hHRUJSd2ZqVjJBeWhNR1ZWMGxPZ0FFSTY4emZCU0ZxQlR4RXFFb01oTFNwZW1GeW1icm9tVDk2eXBPSHZ4OThZNUdKcXlDU1hGc0ItV09HdW5xOA?oc=5",
+   "source": "세이프티퍼스트닷뉴스",
+   "published": "2026-09-29T16:11+09:00",
    "cat": "acc",
-   "id": "24619d0069f1",
+   "id": "66cb38940ed3",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "강원특별자치도, 중대재해 예방 합동 워크숍 개최",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zX2pRNlBaRTRBVWxUaklGeWRDUGNLbnBCckZmbmdoUF9GVXJaQmNMQnU5NUstMkNlTHNNX3FRYWRyNW1HcVZkOV9hUVdoQWt1MjYyMEFoeFQ2clNka1JGbU0zRlA2RDFVeFc4YXBFenRJUQ?oc=5",
-   "source": "웹이코노미",
-   "published": "2026-09-29T16:04+09:00",
-   "cat": "acc",
-   "id": "91cac99def98",
-   "related": [
-    {
-     "source": "영서신문",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmdDQ4WHBjT0c1Vy16VE50djVRcVdxZFRlMUFSVjRxYm1WMnNocUFwMFR4N1VaNXRzMXhZeVI2czZnMHpjY0xxeVRiT0hFem9hbE5ZVVA5R1hMYk5vUUV3cDg0YTBpNm03Q3ZN?oc=5",
-     "title": "강원특별자치도, 중대재해 예방 합동 워크숍 열어"
-    }
-   ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "안전보건공단, 옴부즈만 회의 통해 제도개선 과제 논의",
@@ -263,7 +226,8 @@
    "cat": "tech",
    "id": "fc274079bb07",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "로봇 점검 작업 중대재해 발생… 어떻게 막나",
@@ -274,29 +238,8 @@
    "cat": "acc",
    "id": "6c28f8e5fc33",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "국감·사법 리스크 동시 직면 가스공사, ‘AI 안전 선포’로 방어선 구축",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yS1VNWmE3UDFxNDRPR2s4M2NtYnRibkZtUHhIbm5jVFlrYlNVdFVxY24xOXg3dklVdnVCQmw0OFF1NzhwSVZRdVRfTlJQS0tNWVlHbk5md0VUOU9y?oc=5",
-   "source": "supple.kr",
-   "published": "2026-09-29T15:45+09:00",
-   "cat": "tech",
-   "id": "99f8a705cb1c",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현대중공업·노동부·산업안전공단, 울산서 안전캠페인",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sY1lfaThLc3Fjc3VVd3FuYlQ0WkN0Yjl5TkU3eHNlcTcySWREbG56V200SXZMbU5pUEhKM1BSX0QyakM4R2tuQ1dkdDA4YjFwVjV3dldVQVRqZ0ExVXp3UmlDMHMxQlNDZzJiTkVB0gFyQVVfeXFMUG8yRTZ6bkJxdHB3V2ppQXVaM0xSU1FVaEJ2RHV3SV9WWVVQSVBDa0xDMlZ1aHdBOWg5UmhUdG1TSldGZWtIcjBMWVFuaGVRVmVoZE0xLXBIU3llN3hFVTFINVYwNF9XV2xuVEhqLWpMOUF3?oc=5",
-   "source": "딜라이트닷넷",
-   "published": "2026-09-29T15:45+09:00",
-   "cat": "law",
-   "id": "7f1a4d6a2fee",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "중대재해 없는 안전 강원…도·시군·고용부 한자리에 모였다",
@@ -307,7 +250,8 @@
    "cat": "acc",
    "id": "10671f52a420",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "안전보건공단 울산지역본부, 여천산단 대정비 사업장 중대산업사고 예방교육",
@@ -324,7 +268,8 @@
      "title": "안전보건공단 울산본부, 여천산단 대정비 사업장 안전관리 강화"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "노동자 생명 위협하는 사업주 흑마술, 어떻게 막나",
@@ -335,18 +280,8 @@
    "cat": "hlt",
    "id": "e087f9cb5603",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "한국가스공사 안전 최우선 경영방침",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43cktZMl83eDNDeG5Nc0RQZXdRb2FfdUhwdW9FMWNTZVVkNFdPWjR0M0p1WU9fb3BDaGdrV0FBWlFSQnJNYlp4d0lRSWNDNmZobWlaVzBBbXMxeklCZW55N3pQTkQxYVgzNHBr0gFvQVVfeXFMT0FCQ3RzS2FEdUlUQnBVRDY4VWxxa1U1Z3pEbFpCYnFzN3l3N00tTTJjdmZWVldEV0hDcEFhRXlfSFFDQ0hfbUtZcFFLY003dnZjaVptZHJ6QTB0cVN6OUh0c3JCeFh3Qm5sRXBkQTZN?oc=5",
-   "source": "한스경제",
-   "published": "2026-09-29T15:18+09:00",
-   "cat": "tech",
-   "id": "6ad89c7fb22f",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "중대재해 3건에 사상자 12명…도로공사 현장, 2025년에 피해 집중",
@@ -357,95 +292,8 @@
    "cat": "acc",
    "id": "0f98fe4a3009",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보건산업진흥원장 “바이오헬스, 기술 넘어 국민 체감하는 문제 해결해야”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB5ZDBWWjNXVmdBQXQ5UFdla1gweEd4M3BWS3MtOE1hakxId1RpSzBteWJSY1J6Q0U1Qld3RG1vUEdNUkJEQ1V2MEN4eXhvRDB0YzFYUw?oc=5",
-   "source": "이투데이",
-   "published": "2026-09-29T15:05+09:00",
-   "cat": "hlt",
-   "id": "03a398283cc0",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보산진 원장 “보건산업, 기술 넘어 필수의료·돌봄 해법 돼야”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE00NW16VUdCTnlKQ0NhVUFULW9WMTJqWkpyX3hkWXJUQXNWbGVkQ25ZbzliM24xX3JJRzhFaVltZGE2MDA2R0JxMWU2OUpudw?oc=5",
-   "source": "전자신문",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "0a4f3d1d5d14",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "보건산업진흥원장 \"AI, 보건산업과 접목해 국민 건강문제 해결\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIZHVKd2VsT0Zja2txZUlEQU9lZHRCZ1l4QmxUVzNzTXBpZTNzLU1EcXBqQmUtejdsVFRIM3BIZUxMWXRTYWh6TldhUWh0UmYzQ1FQaFFIeHdzcmPSAWBBVV95cUxPZzBFWjZDeTh1RXBFNVlHa1RKWU55OUQzYlJMSlZtV29Ob2VHSmhjckhZaF9wZVg2eWlySTNJNWZEeEc3ZTJLbzJrNnFacVlsMHFjemRUd195c3JHWjJEY3A?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "7516a22232d4",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보건산업진흥원장 \"국가 바이오헬스 혁신정책 플랫폼 역할 확대\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EaDNZT3RsVXRnaHhLUEotb2VQS1daZWU5QlJwZ0VjRXpNZVZ2ckFWMklHNkhTZ2VhMWNnVzNReWd2WF85YlNxZnFzSHRoMGpEbkhHSDNjNzdkcDVLWV8tSTAyNjFNd9IBZkFVX3lxTE1EaDNZT3RsVXRnaHhLUEotb2VQS1daZWU5QlJwZ0VjRXpNZVZ2ckFWMklHNkhTZ2VhMWNnVzNReWd2WF85YlNxZnFzSHRoMGpEbkhHSDNjNzdkcDVLWV8tSTAyNjFNdw?oc=5",
-   "source": "뉴스1",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "07fde6d467b1",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보건산업진흥원장 \"중장기 연구·정책 기능 강화할 것\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kTVVQM3BHU1kxSGZhdjJPMGpxQjlCbEx2YUVnbENKQTBrWVp1TFduN2xoRW5DWHJXaGR0Rk93VmlORU9HbmNfdWNGeGNkb2hBN1NXMWVxSlJxZ0ZJSklqMA?oc=5",
-   "source": "뉴시스",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "85417d5c47bf",
-   "related": [
-    {
-     "source": "edaily.co.kr",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUHlSTG1CaDdma1JIaFhYSmhUZDlfM2QwbHFsckQzUDE3Nm5QaUd1enpvSEJGZ0tMNHk2cmZwZTdCeXpObUlLNW51LWtwN0s4dXA5WFdxODRwS3hlU1dNaWhuOGo5MFFrZTR2Z2hveGxtQ1lRdXZGMFRnejNZdTRmbA?oc=5",
-     "title": "고상백 보건산업진흥원장 “연구·정책 기능 강화 위해 조직 개편”"
-    },
-    {
-     "source": "아시아경제",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VMEZqRzB6eklfMEU5czFTUVQ2eVo4MlRyUEhmcGlmVEdsNWJFX1FydHpLdkhBblBsMHA1dlA5QTVvWW5vR3laMEVnaldrWnpkRkN3d2VLakxjcWZXbzBkdQ?oc=5",
-     "title": "고상백 보건산업진흥원장 \"연구·정책 기능 강화해 바이오헬스 혁신정책 마련할 것\""
-    }
-   ],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "고상백 보건산업진흥원장 \"투자형 R&D, 바이오헬스 플랫폼 확대 추진\" - 머니투데이",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDeFQ1NzNiLWRneXNWek9Gd0Z6S3JsZ0R0QmJFbTZiZDNxTmh4OFk2c1pMS21xSXdoZzl3U1NaOVdCTHhwdS05azVhTGZJcE93Z1hZaEJwV25Uc3ZRSHhNd05VQkZqTjV0eUJvdXN1V2dHV1VwVXJV0gF8QVVfeXFMTnhkdi1XNXpuU0VQd1U0S2dESXFsYzlkdTROZmpXbUJMSFItN3p4QVdOOFRaX1RGdlVpdW80NnEzWV92NUxQNXdabFg2MTdIUDFFSzVaUE1Ia1drNXowQ1ZrMnUtMWtXMW1lS0xiV0RsZlNuVW12WHRMM2NNaA?oc=5",
-   "source": "머니투데이",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "94fc5a8677e6",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "보건산업진흥원 '바이오헬스 혁신 전문기관'으로 거듭난다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNlNRN1NWVm8yb2N4MnVrdmR4RXdyUWF6WGZpdTk2dGsxTlNSZVE4SW9XY3ZIcTNicG5rdzlJWm5iQV95dExRS0poY1NDNTh2RkRJMWJvcm1vVlgwdmJOZjR3ME1SZV9iZmc?oc=5",
-   "source": "의학신문",
-   "published": "2026-09-29T15:00+09:00",
-   "cat": "hlt",
-   "id": "271b1d96bd55",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "대한산업안전협회, 노동부 안전보건실무자 맞춤교육 실시",
@@ -456,18 +304,20 @@
    "cat": "law",
    "id": "5207ac8d072b",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "HD현대중공업 170억 추가 투자 스마트 안전 체계 구축",
+   "title": "‘안전관리 선도’라더니… 20대 건설사, 5년간 121명 목숨 잃었다",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DS3lGZHZ6U21HSTFQLUluNXloangwRUZvOUVQbFM1QjBpZjJ2SEtlRXhLa0laMTBCSGFqLWR4WVNKY3NJbXc?oc=5",
-   "source": "매일경제",
-   "published": "2026-09-29T14:48+09:00",
-   "cat": "law",
-   "id": "52c3426ee6f2",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FdllQYTFjRENjQmNGQlFpLUxyV3VuTDg5RHFHUWcxdVNhaS1wSGNmNVV6b0xPQ0lZZkw3Q0R4U3dHQk5iM3ZDSFlTZFZiUUt3S1I5anF6UEdEUQ?oc=5",
+   "source": "브릿지경제",
+   "published": "2026-09-29T14:51+09:00",
+   "cat": "acc",
+   "id": "37c5945479d9",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "'배민 라이더' 산재 4년째 1위 불명예 … 6년간 2179건 신청",
@@ -478,7 +328,20 @@
    "cat": "law",
    "id": "88895f725f70",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "6명 사상 서소문 고가차도 붕괴사고 조사 2개월 연장",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rLUFIemRjUUJWVW9IeVprQWMzZ016eWxXM0NVczlGM3BaeWtpWEJOc0Q2VXljczMxLV9pSDh2RGVKVERIOG1vaXJER0lwWWt1UVRKbWZHOWR4Qm5FMTBJeXhuMXJsTVNZZzNfYkg4VEdiSTZDVWRWLdIBeEFVX3lxTE5rLUFIemRjUUJWVW9IeVprQWMzZ016eWxXM0NVczlGM3BaeWtpWEJOc0Q2VXljczMxLV9pSDh2RGVKVERIOG1vaXJER0lwWWt1UVRKbWZHOWR4Qm5FMTBJeXhuMXJsTVNZZzNfYkg4VEdiSTZDVWRWLQ?oc=5",
+   "source": "뉴시스",
+   "published": "2026-09-29T14:28+09:00",
+   "cat": "acc",
+   "id": "bef80d829b9a",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "대전세종충남경총-대덕구, ‘기업지원·중대재해 예방’ 협력",
@@ -489,18 +352,8 @@
    "cat": "acc",
    "id": "71497ccae703",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "직장내괴롭힘 우울증 자살, 보험사가 거절한 재해사망보험금 1억 원 전액 인정 성공사례",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5WbzF5OW40Y0ZsWFFvTmx0NlQteG5sczZfOWRjeV82ZjBHT1NYSXZjdlktb2tNOTZGZTZuNGROT1JtTHdSalhtanhFZ0ZkdEdnVF9FRnktMlk3UWhhX3RaSHI3OWYxcFBWSkVFSms1TmxwSE9LczdQNjZzOWhQQU0?oc=5",
-   "source": "네이버 프리미엄콘텐츠",
-   "published": "2026-09-29T14:25+09:00",
-   "cat": "acc",
-   "id": "ab58c7d4cdf4",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "강원도·고용부, 중대재해처벌법 실무 역량 강화 합동 워크숍 개최",
@@ -511,7 +364,8 @@
    "cat": "acc",
    "id": "29f84d73fdf5",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "한국도로공사 중대재해 업체, 사고 이후에도 공사 수주 이어져",
@@ -522,7 +376,8 @@
    "cat": "acc",
    "id": "1b49721daec4",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "원주서 중대재해예방 합동 워크숍…강원도·시군 등 50여명 참여",
@@ -537,9 +392,20 @@
      "source": "매일경제 마켓",
      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0N1BiT3NqMDNrUVhuQnF6Zkg0TkhrQmlBZkxxeTU4WkxveEpqTkJEWkxZNkxnc1FCeFBCUWt5NFlLSXBheVBURXV6SVpyOWlkV3c?oc=5",
      "title": "원주서 중대재해예방 합동 워크숍…강원도·시군 등 50여명 참여"
+    },
+    {
+     "source": "웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zX2pRNlBaRTRBVWxUaklGeWRDUGNLbnBCckZmbmdoUF9GVXJaQmNMQnU5NUstMkNlTHNNX3FRYWRyNW1HcVZkOV9hUVdoQWt1MjYyMEFoeFQ2clNka1JGbU0zRlA2RDFVeFc4YXBFenRJUQ?oc=5",
+     "title": "강원특별자치도, 중대재해 예방 합동 워크숍 개최"
+    },
+    {
+     "source": "영서신문",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmdDQ4WHBjT0c1Vy16VE50djVRcVdxZFRlMUFSVjRxYm1WMnNocUFwMFR4N1VaNXRzMXhZeVI2czZnMHpjY0xxeVRiT0hFem9hbE5ZVVA5R1hMYk5vUUV3cDg0YTBpNm03Q3ZN?oc=5",
+     "title": "강원특별자치도, 중대재해 예방 합동 워크숍 열어"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "도로공사 소관 중대재해 12건…15명 숨져",
@@ -550,18 +416,8 @@
    "cat": "acc",
    "id": "6d932adc3b39",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "[2026 국감 레이더⑧] 정몽원 증인 신청에 HL만도 '긴장'…원·하청 안전법 위반 138건",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pSlpsY3IzcGN2MGE0ckxqaDhueS1meXd0eDQ1NVZLN3VvQTl1dThsWkhRdEFaUW5HeW56bnpVVHJiZEd4UGRvejdfbXY3cVExSmhqSWRON3JtSkl4ZjJ1T1U4MTFNcU5sN0VUNW9mb29BSkNy0gF0QVVfeXFMTWlKWmxjcjNwY3YwYTRyTGpoOG55LWZ5d3R4NDU1Vks3dW9BOXV1OGxaSFF0QVpRbkd5bnpuelVUcmJkR3hQZG96N19tdjdxUTFKaGpJZE43cm1KSXhmMnVPVTgxMU1xTmw3RVQ1b2Zvb0FKQ3I?oc=5",
-   "source": "뉴스워커",
-   "published": "2026-09-29T13:57+09:00",
-   "cat": "law",
-   "id": "94482fc197f0",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "철원군, 유해인자 노출 종사자 대상 특수건강진단 실시",
@@ -578,12 +434,13 @@
      "title": "철원군, 유해인자 노출 종사자 보호 특수건강진단 실시"
     },
     {
-     "source": "v.daum.net",
+     "source": "다음뉴스",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdGRZeWdKWDZhZEZ6NTRKTklkd1hqUC1ReW1tTmNQM0lsb1pGVElyS3pIN1NtWUdHSFVNaDN0djh1QmFGZ2RFdWNsalJFT1E?oc=5",
      "title": "철원군, 유해인자 노출 종사자 대상 특수건강진단 실시"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "강남구, 중대재해 예방 시설관리자 실무교육 강화",
@@ -594,29 +451,20 @@
    "cat": "acc",
    "id": "4f9864fb1a51",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "HD현대중공업, 추석 연휴 뒤 현장 안전 고삐…민관 합동 캠페인",
+   "title": "건설 사망사고 가장 큰 원인은 근로자 부주의?... “시대착오적 모델 적용”",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZYWdURl81VmJzNkRuZUQxanU2WGRQMW94VWJseHNhbnhYZzV0aUVVUFJSYW9Ncy1yMk1SSXNqb2hFcmFsallQMkFlQkhvVHlfUlo3Mm5wQkJIOERFQ3B5cXZILW12bE9Mb09SWXFaRVJhaWvSAXNBVV95cUxOWWFnVEZfNVZiczZEbmVEMWp1NlhkUDFveFVibHhzYW54WGc1dGlFVVBSUmFvTXMtcjJNUklzam9oRXJhbGpZUDJBZUJIb1R5X1JaNzJucEJCSDhERUNweXF2SC1tdmxPTG9PUllxWkVSYWlr?oc=5",
-   "source": "화이트페이퍼",
-   "published": "2026-09-29T13:21+09:00",
-   "cat": "law",
-   "id": "b387dfc120f1",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93MjlKWnhOVDdCTTZrdEppRy1Cam5RczNLWVg3SUNuRFRHa3lvOUhwdmhjNU5yR0lkM1l5ZzNmY2luRFZBb19ReUppNmVPUENGdzM0STZkWHdTVWxwVnVBQ1VkR2FLSnQ5ZHd1eWJzb0M?oc=5",
+   "source": "안전신문",
+   "published": "2026-09-29T13:07+09:00",
+   "cat": "acc",
+   "id": "93c971886981",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현대重, 연휴 뒤 느슨해진 안전 고삐 다시 죈다… 울산 야드 현장 점검",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DVlY2RzNhMmZQdXB5akhQRE9kbDZBT1JuS2d3U1lDUFE2N1lORE5SblIySDBDSmxxY3VqRWVlbmxwSlZpZllXYXVJT0tvNlJhTVN1QmtFcE9ONmNuTWROWnF4R0V6ZC1GMFo1REtVOTNHSlhS?oc=5",
-   "source": "파이낸셜포스트",
-   "published": "2026-09-29T13:18+09:00",
-   "cat": "law",
-   "id": "18d45f4d6ea4",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "'노동자 4명 사망'…검찰, 세아베스틸 전 대표에 징역 5년 구형",
@@ -628,7 +476,7 @@
    "id": "235ca567640a",
    "related": [
     {
-     "source": "v.daum.net",
+     "source": "다음뉴스",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OSUJ2RjJzZUtzc3o1bFJNVzlaNjBxNzhDX2tmY1hDU2YxYXMyZWJ1WUtYZ05fVDBqZ2RibUhtNTJWZ0d6OVI3VFV6cHdBbUE?oc=5",
      "title": "'노동자 4명 사망'…검찰, 세아베스틸 전 대표에 징역 5년 구형"
     },
@@ -661,9 +509,15 @@
      "source": "포쓰저널",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hNmd1S0RyRWNkMUxudEw3SWU5RVd1N2VWMmJkSldldy05WWhPZ2t3MGlkcW1MUW1SMUZMQmRONVBMMTRYblRsVjk1LURlWlhFZElnV1YwZHVSZFlRQTh2amFmX1g?oc=5",
      "title": "‘노동자 4명 사망’ 세아베스틸 전 대표 징역 5년 구형"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKc1c3S1pXZjBIX053VDJXWVQxbHRMV1d2Q2hKeEpncXRvTnhQY1FsNVpNR1RkNDFDblhtLTVpRlIzOTRGMllweWZtNzlybF95QUJMZzRUZXJvenZHd2xfVnA3a1hzejhfb3RDcUd1UUNRVk52R2E3edIBeEFVX3lxTFBKc1c3S1pXZjBIX053VDJXWVQxbHRMV1d2Q2hKeEpncXRvTnhQY1FsNVpNR1RkNDFDblhtLTVpRlIzOTRGMllweWZtNzlybF95QUJMZzRUZXJvenZHd2xfVnA3a1hzejhfb3RDcUd1UUNRVk52R2E3eQ?oc=5",
+     "title": "검찰, '중처법 이후 5명 사망' 세아베스틸 전 대표 징역 5년 구형"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "김정재 “사망사고 내고도 공사 또 따내”…중대재해 입찰제도 손질 촉구",
@@ -674,7 +528,8 @@
    "cat": "acc",
    "id": "2b56e893f11b",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "충주시, 산림사업 현장 근로자 대상 '산업안전보건교육' 실시",
@@ -691,18 +546,8 @@
      "title": "충주시, 산림사업 현장 근로자 대상 ′산업안전보건교육′ 실시"
     }
    ],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "철도 ‘입환작업’ 안전 확 바꾼다…화차 외부 탑승 줄이고 AI·후방카메라 도입",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jaHZ0YnVKTnZNY1VKX1E1ak56Zm5PY1huckNQb1dudGxNNFdZR3BFczlTQnluOXRjaWlDdmV3S05va19xaDJmVWJiM2M3QXhnUzJuQU80ZkRkOENGQmc?oc=5",
-   "source": "한국재난안전뉴스",
-   "published": "2026-09-29T12:10+09:00",
-   "cat": "tech",
-   "id": "86c646920d3d",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "300인 이상 기업 노동자 592만명…기간제·단시간 비중 동반 상승",
@@ -713,29 +558,8 @@
    "cat": "acc",
    "id": "df43d1939723",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "사망사고 내고도 도공 공사 또 수주…안전평가 ‘구멍’",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB1R1hvYTU5Q2JyRXc2RUtHdFI0Q0llVFRReFJFRUswdGhFbHJ2Zm1xek9Rd3IzbUV5a2U1QW1mVkN2WFBJemp1Rl9SVHI3TlFCbXpHanhJNGVZclJramR3?oc=5",
-   "source": "경상매일신문",
-   "published": "2026-09-29T11:59+09:00",
-   "cat": "acc",
-   "id": "698c906e78ac",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현중, 170억 안전대책 발표 이어 고용부와 현장 안전캠페인",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4tS3RZTXFta2hELVRSdUNNV3FhNzhIR2VQcWEwYTlRMVE1ZFR0TEd6bG9CLU44LWFjWTZDMVctcnhxbi1YYXZ6VXJlRGFVRHJEanFvaDJEeE5Rc3lFcXVYMWp4UkQ?oc=5",
-   "source": "포쓰저널",
-   "published": "2026-09-29T11:47+09:00",
-   "cat": "law",
-   "id": "a529f2ff96b3",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "함영준 ‘안전경영’ 강조했는데 ···오뚜기 자회사서 도급 노동자 사망",
@@ -746,7 +570,8 @@
    "cat": "tech",
    "id": "4198848b7efb",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "건설노조, 故양회동씨 사망 산재 신청…\"명예 회복해달라\"",
@@ -763,12 +588,28 @@
      "title": "건설노조, 고 양회동 씨 사망 산재 신청…“명예 회복해달라”"
     },
     {
-     "source": "v.daum.net",
+     "source": "다음뉴스",
      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5mV2pOUlJNeXJLX1BVbnA3RHctVEp6V19xbmRSQldIOVlJN0F2T09UX3VZLXJTQmF6M0cxbk1oRFZ6TUZ3YzRPa2tHZw?oc=5",
      "title": "건설노조, 고 양회동 씨 사망 산재 신청…“명예 회복해달라”"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE01MUNZano3aTZoZEpfQ3hSV2hLQ2xXVGRBRjdrS1FlX1g1ZUJLSFhkLUhqUkxWcU9BcmlBaXRMS3F0d3dRQTNsM1RjR2ZMYk9BdVZlc21XeVgzUXlBTHFYOGwxSzhSdWJNcUHSAWpBVV95cUxNNTFDWWp6N2k2aGRKX0N4UldoS0NsV1RkQUY3a0tRZV9YNWVCS0hYZC1IalJMVnFPQXJpQWl0TEtxdHd3UUEzbDNUY0dmTGJPQXVWZXNtV3lYM1F5QUxxWDhsMUs4UnViTXFB?oc=5",
+     "title": "건설노조, '건폭몰이' 항의 분신 노동자 산재 신청 \"명예 회복해야\""
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9saGZ6dnJJb3pLTFhSMkxqTWJuZVBuUEFZQkNmYWNPcGxLRjB5d1JCNVRBcTdmYU5rYVdyMm9GTGdMZjgzY0htd25UdGNKdWFibTN4Q0tfUlllSFdyMGI5MUlHMEVOYzJMb09yQnBidGFWaTFmcmRsT9IBeEFVX3lxTE9saGZ6dnJJb3pLTFhSMkxqTWJuZVBuUEFZQkNmYWNPcGxLRjB5d1JCNVRBcTdmYU5rYVdyMm9GTGdMZjgzY0htd25UdGNKdWFibTN4Q0tfUlllSFdyMGI5MUlHMEVOYzJMb09yQnBidGFWaTFmcmRsTw?oc=5",
+     "title": "건설노조, 故양회동 산재 신청…\"명예 회복해야\""
+    },
+    {
+     "source": "뉴스토마토",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DOEpwOGFzTkV5eTM2c21WZXpuQnVXdTV6d3BBajUyZFNWbVZYOTN0Zm51X0Z4aHllQmNTajcwbjB2czRRdUlneXlLSnZrWlVKc1FEV2g0YnlBVFdfV2ZoXw?oc=5",
+     "title": "건설노조, '분신 양회동' 산재 신청…\"'건폭몰이' 명예회복\""
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "개정된 명예산업안전감독관 제도, 현장 정착 위해 '노동조합 역할' 중요",
@@ -779,7 +620,8 @@
    "cat": "law",
    "id": "7942f9b44b31",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "“사람 죽어도 또 따냈다…중대재해 업체, 도로공사 336번 입찰·8건 수주”",
@@ -790,7 +632,8 @@
    "cat": "acc",
    "id": "a84011bfd224",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "'배민' 4년 연속 청년 산재 1위···쿠팡 계열사 2~4위 싹쓸이",
@@ -801,7 +644,8 @@
    "cat": "law",
    "id": "d3b4d70b06fc",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "충주시, 산림 현장 '중대재해 제로화' 총력",
@@ -812,18 +656,8 @@
    "cat": "acc",
    "id": "23deb7c08d7d",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "금석호 HD현대중공업 대표 “안전은 모두가 함께 지켜야 할 약속”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FRDhrcGtSdkMwczBBOEFsbzJyV0YyUG9nLXhrbExBMkVZcEtTWTVNZktQLVNSUkpMZFNyRmtyYUhSeGNGQzJPd3kxQ2psd3FhaUpoYnBiMzFwSFRfaXA1ZncxU0oxRDFG?oc=5",
-   "source": "ebn.co.kr",
-   "published": "2026-09-29T11:12+09:00",
-   "cat": "law",
-   "id": "cbebbb9888b8",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "'우아한형제들' 청년 산재 신청 건수 1위, 쿠팡 계열사 2·3·4위 휩쓸었다 : 민주당 박지혜 \"사고예방 책임 라이더에게 미뤄\"",
@@ -834,35 +668,8 @@
    "cat": "law",
    "id": "0f01ceca301b",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "연휴 끝, 다시 ‘안전모’ 조인다…HD현대중공업, 민관 합동 캠페인 펼쳐",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tZFMyMm5ZaTNwSXIwcUlUanloLTFWYVNpcndDM20xaHpGUnB5NDA5U3ZQR3Brai1Hc1dGbGZ1Q1VJSUpqQ3hoYXVzbGFTb3FOUVc1QmY1R1dUbXBSVnZ6MDhBSW5jdTM4bHVOYl9n?oc=5",
-   "source": "이투데이",
-   "published": "2026-09-29T11:01+09:00",
-   "cat": "law",
-   "id": "8c1cf30325a6",
-   "related": [
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16UHpRWnRyOF9NQ3VFaUI3RENDOUYxS1RNRTYzdzN0M1R5S3pST092bkpJNnRFQ3ZlMmRQaDFldVVvamtYWVl6WndBam4xZFdrVFdYaw?oc=5",
-     "title": "연휴 끝, 다시 ‘안전모’ 조인다…HD현대중공업, 민관 합동 캠페인 펼쳐"
-    }
-   ],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "K-도로안전 기술, 캐나다 혹한·악천후 뚫고 북미시장 도전",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtMk5FNFpFblZ0OU40UHZWaTBadHh4cHJ4R0pVTnBBcHhmd2YxM3dEZHhOWm11SmpHeHR4TU5RUHdvLW00ZmZ0aGt0QllwblByY3BwNm1taEpwcGRVT2pVYkNzMTNfZw?oc=5",
-   "source": "건설이코노미뉴스",
-   "published": "2026-09-29T11:00+09:00",
-   "cat": "tech",
-   "id": "356d4a32c0ac",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "[단독] 야외 노동자 체감 ‘복사열 온도’ 유용한데…예보에 안 쓰는 기상청",
@@ -873,63 +680,8 @@
    "cat": "hlt",
    "id": "c8ced3088d53",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "\"안전한 일터 조성\"…HD현대중공업, 민관 합동 안전캠페인 전개",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4xc2dIbG9raENFV05kQ1E1bDgyYTNCck4zMDB0M2hmdEdkaGJuZjdiT2dGRHc4WncweUlzdUVoUVZHUzU2RUdZN2NMczZPX0lWWmg1blFDSVloaGM2?oc=5",
-   "source": "뉴스핌",
-   "published": "2026-09-29T10:55+09:00",
-   "cat": "law",
-   "id": "707d9e672bff",
-   "related": [
-    {
-     "source": "뉴스1",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHbXpleTRFeDdPSGtlS1lacTB3TGVhVFIxeFNvd3ItUUs0VWlEaDBGcHNfZGxXdkJvRllRNkNUVDlSQ3FjSGxxYkZuQVVkWlBsUE9HY19lRdIBV0FVX3lxTFBHbXpleTRFeDdPSGtlS1lacTB3TGVhVFIxeFNvd3ItUUs0VWlEaDBGcHNfZGxXdkJvRllRNkNUVDlSQ3FjSGxxYkZuQVVkWlBsUE9HY19lRQ?oc=5",
-     "title": "HD현대중·고용부·안전공단 '안전한 일터 조성' 민관 합동 캠페인"
-    }
-   ],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현대중공업, 민관 합동 안전캠페인으로 현장 안전 문화 정착 힘쓴다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1TUkQ2bHpfYXNyQnJIT3o4Y2FEb3ptRFNVVkR3VEdQR25OanNjMldvTDhqNlljbU9vdTZHQ1BPcXY5Y0NtU1FDVnN4NXIzajg5LUZ0OVUybmJ6eWpkcUxvV1dhbmlJd28?oc=5",
-   "source": "ucinews.kr",
-   "published": "2026-09-29T10:53+09:00",
-   "cat": "law",
-   "id": "7abb7db4d7ed",
-   "related": [
-    {
-     "source": "이코노미사이언스",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9CdGhLMG56OENTMjExalRPbnZlRXF3dXQ0dHhaUkUxZlVnbm5xQVV5YUJPcFFjekFnMDNUODJTNFFzZXZpbTUtN2htWlVGTmRxMDAxV3VYV09yRDgzbUJQTVNyUV9kOE1HMWY0bVVPWQ?oc=5",
-     "title": "HD현대중공업, 민관 합동 안전캠페인…현장 안전수칙 준수 강조"
-    }
-   ],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "에이아이리스, KES 2026서 현장 관제·업무 자동화 'AIRIS ONE' 선보여… \"현장 데이터와 업무를 잇는다\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoSThJa1I1ZlUxbmJQZVdHanlhUjN3cmI4emZ3RVdLajJISTBFUGtLZE5hdHZjYVUzYy1KR2FqNzQ3OXpyeVZmYVp4VUhsSnVScUZfTmhKc1NHMHFGMndlNFROODdVLTA?oc=5",
-   "source": "에이빙",
-   "published": "2026-09-29T10:50+09:00",
-   "cat": "tech",
-   "id": "bac10387f3c2",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "잇단 사고 겪은 HD현대중공업, 고용부·안전공단과 ‘안전한 일터’ 캠페인",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LSUFWQ2xBaU56WUtGd3NKQXB5aHNyRk1zT0RvX29QanY2OTZXT2Z2bXpSc1RHek1uVnZHWHczNEN2XzBLYklJMHRsTXp6eHYzdE5oMHVGMUduZWFSZklKY3J3WEgxQ19fOTJz?oc=5",
-   "source": "해사신문",
-   "published": "2026-09-29T10:46+09:00",
-   "cat": "acc",
-   "id": "27bcb8362e03",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "제주시, 하반기 작업환경측정 실시로 현장중심 안전보건 강화",
@@ -940,18 +692,8 @@
    "cat": "hlt",
    "id": "d5f480d78e27",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "사망사고 업체, 한국도로공사 공사 추가 수주…최근 5년간 8건",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1BUjJibDd4ZHJ6d0RQcTJyYjh2TWFYRGNnSVdqZVFtV2tTd0pYV0xjLVBBNnBpNm40YmR0akNzLThfRzlZYWd1NTJFbGJkWkJYYjJLS3Z4Ykl5MldwVXBzbC1tOEZCcWp0dXRyWGxB?oc=5",
-   "source": "ilyoeconomy.com",
-   "published": "2026-09-29T10:38+09:00",
-   "cat": "acc",
-   "id": "6aeac83c6f14",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "학교 승강기 고치던 30대, ‘끼임 사고’로 심정지",
@@ -968,7 +710,8 @@
      "title": "학교 승강기 고치던 30대 수리 기사, ‘끼임 사고’로 심정지 이송"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "HD현대중·노동부·안전공단, '안전한 일터 조성' 캠페인",
@@ -978,8 +721,15 @@
    "published": "2026-09-29T10:36+09:00",
    "cat": "law",
    "id": "951f62d46e07",
-   "related": [],
-   "day": "2026-09-29"
+   "related": [
+    {
+     "source": "딜라이트닷넷",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sY1lfaThLc3Fjc3VVd3FuYlQ0WkN0Yjl5TkU3eHNlcTcySWREbG56V200SXZMbU5pUEhKM1BSX0QyakM4R2tuQ1dkdDA4YjFwVjV3dldVQVRqZ0ExVXp3UmlDMHMxQlNDZzJiTkVB0gFyQVVfeXFMUG8yRTZ6bkJxdHB3V2ppQXVaM0xSU1FVaEJ2RHV3SV9WWVVQSVBDa0xDMlZ1aHdBOWg5UmhUdG1TSldGZWtIcjBMWVFuaGVRVmVoZE0xLXBIU3llN3hFVTFINVYwNF9XV2xuVEhqLWpMOUF3?oc=5",
+     "title": "HD현대중공업·노동부·산업안전공단, 울산서 안전캠페인"
+    }
+   ],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "“AI가 위험 먼저 발견”… 부산시설공단, 윤산터널 지능형 안전관리 운영",
@@ -990,29 +740,8 @@
    "cat": "tech",
    "id": "9878869ef3b8",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "“사망사고 내고도 한국도로공사 공사 또 따냈다”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JeW9WVlhtSlQyVE9nSVJUazZ6Y2podDFydlZZRmpDU005c2xvZ0tFVHZpNTNfSzkyWUduMmMxaEpxZlR6ZndPTEVuelBDTWExdGo0bjlB?oc=5",
-   "source": "위키트리",
-   "published": "2026-09-29T10:34+09:00",
-   "cat": "acc",
-   "id": "12df7003f2fa",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "통신 끊기는 선박 안까지 잡는다…HD현대重, ‘스마트 안전’ 현장 확대",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GOWczQW9WQmpua0ZHYmV3OGRKWE5iNDRmbVhGSnRkQm9EX0s0T3hiOVpHQ0c5bl9hT1BoV29XQ0c2bUdJX2loRzRtbjZ0bGFsMGhqcE4yb0dwVkdDTUVvaXdFQQ?oc=5",
-   "source": "쿠키뉴스",
-   "published": "2026-09-29T10:32+09:00",
-   "cat": "tech",
-   "id": "5e1e56c1d5c0",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "안전보건공단, 내년 서비스 예정 ‘기업 안전보건현황 공개 시스템’ 점검",
@@ -1032,9 +761,15 @@
      "source": "국토일보",
      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE96bTVKSlR0aThHazN3ek5rWEtUOHpFS2RnSDYyMVQ0cHBSVVhiTU43MXdtUTYzel9iSlpURmRyU0c3M1FxT2tBVzBaYV9UY0w4eDJRWHFQSkRaZHZMQ1ZmRFJJMA?oc=5",
      "title": "안전보건공단, ‘기업 안전보건현황 공개 시스템’ 구축 점검"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBTUFFHU0ZFbEFZSHVHcE05YkxiUGdYUVpCckRrX0ZrdmZLMjJwNXBZUy11ckp5YWE0NHdCYm5KdkFIdl9aaFhyS0Zza3VNZDdSdVhkMkNVZTdvQQ?oc=5",
+     "title": "산업안전공단, 내년 기업 안전보건현황 공개 앞두고 제도 점검"
     }
    ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "기업 안전관리 수준 한눈에 본다…안전보건현황 공개시스템 내년 가동",
@@ -1045,49 +780,8 @@
    "cat": "hlt",
    "id": "5be63943f7b2",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "HD현대중공업·고용부·안전공단, 울산 본사서 ‘민관 합동 안전캠페인’ 실시",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9FWkg5Z0hXMURYNXhXN2JQLUlYYmRtbmxhU29vem8xT1VZNVgwUFBGZS1XUW9MMmJfMldzQjgxNm9rb1E2aTFuS1JkTlNneXMwRDYzbVRCWnRmZDZrU01NWnBWUHA?oc=5",
-   "source": "베타뉴스",
-   "published": "2026-09-29T10:29+09:00",
-   "cat": "law",
-   "id": "571ce60a4620",
-   "related": [
-    {
-     "source": "에너지코리아뉴스",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5YWg1dW5nTjE4cTVPQUlyV000QWRuRjlMNDdmT2U2MGFkY2ttYUJlX2FhS0tkbmh1WXlZLXN6Y29Gcklyb3ppbC0zcUFab3c5cnh5SXJuM1NES0VJeG1fRnZLektrYXdmbHhNcDc2bXY?oc=5",
-     "title": "HD현대중공업·고용부·안전공단, 울산 본사서 '민관 합동 안전캠페인' 전개"
-    },
-    {
-     "source": "울산종합일보",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE83YW00UjRKSHNhV3ZhWE0zVWRDdHpvWlcwRmpSVUt3aklPdkZ1RmpGcHVwU25VRS1ESTR2SXRPdjN3Y0xxaWZMdGotaC1SQkY1ZkFwMHJoSFRURFFUN0c0OWM2bFJWWUtlTU5Nbzdn?oc=5",
-     "title": "HD현대重·고용부·안전공단, 민관 합동 안전캠페인 전개"
-    },
-    {
-     "source": "컨슈머타임스",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4zMGpMXzdjSzNBcVJxQ3hVVEk3WVh0ZkJLcjhPYmp4TWR5bGw1VDhzb0EyQU8wcW5YbTFyX1RTNW0yazRPTzNiREJKVHNmbnlvb1UxLWpwbHp0Xy11WWdUUzFKTUphSXlDNHc?oc=5",
-     "title": "HD현대중공업, 고용부·안전공단과 민관 합동 안전캠페인 실시"
-    },
-    {
-     "source": "뉴시스",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wUzcwVW5icTVTTXB6NjgzcG9jYWxCZnMwdUVNWnJIUDdURUxSejJVMEl5SE5JRm5FaGt1eWdiakJJUjZtODJqMWYyTUg5VXE5V0hjUkw3cXZ4S0dZc09QMHl0Y2E5MW91emE2N21lTF9lUU0wZ0R5RNIBeEFVX3lxTE5wUzcwVW5icTVTTXB6NjgzcG9jYWxCZnMwdUVNWnJIUDdURUxSejJVMEl5SE5JRm5FaGt1eWdiakJJUjZtODJqMWYyTUg5VXE5V0hjUkw3cXZ4S0dZc09QMHl0Y2E5MW91emE2N21lTF9lUU0wZ0R5RA?oc=5",
-     "title": "HD현대중공업, 고용부·안전공단과 출근길 '안전캠페인'"
-    },
-    {
-     "source": "뉴스포스트",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHWThmaS1YZlZWeXZ5b2FJakhQazJIdTV4QVRtcGhuU3NYV3oyTFVRcW9BdEViNGlxV3F2bW53REh1ZXNRWW9sSE14R3BfVUkwbm9QVWZQUHlCanRkTmJKZXpBRlRYRTRn?oc=5",
-     "title": "HD현대중공업, 고용부·안전공단과 출근길 '안전캠페인' 실시"
-    },
-    {
-     "source": "핀포인트뉴스",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aV3RDWUl1dnZhSkV1X215Z3cwNk5KcTBBYlYzMzlEOEYxQlBBZVdZZGR4Zm90WE5VYUMtVE53YVU2VWc5X2tPQ1RuWGpUbjZ1ZjVaTkdjWVNzUEtxS0ZnSjkyc3FROEE1ZE54X2Y3Q0dWRkhPRWg40gF3QVVfeXFMTVpXdENZSXV2dmFKRXVfbXlndzA2TkpxMEFiVjMzOUQ4RjFCUEFlV1lkZHhmb3RYTlVhQy1UTndhVTZVZzlfa09DVG5YalRuNnVmNVpOR2NZU3NQS3FLRmdKOTJzcVE4QTVkTnhfZjdDR1ZGSE9FaDg?oc=5",
-     "title": "HD현대重, 고용부·안전공단과 민관 합동 안전캠페인 진행"
-    }
-   ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "cpbc News : 우아한청년들 청년 산재 신청 4년 연속 1위…쿠팡 계열사도 잇따라",
@@ -1098,35 +792,20 @@
    "cat": "law",
    "id": "65bffdfe5e9d",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "[2026 국정감사] 현대건설 이한우 또 국감 서나…철근 누락에 사망사고 쟁점",
+   "title": "[산업안전 뉴스] 안전모·안전대 안 지키면 과태료…노동부, 전국 1000개 사업장 집중점검",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FQWNqS3hFVUtNRnFTSXFJTVlHaTlkczlVLVQzblNZdmhhaGFZS25UYWlnZUVmXzFYMDYwb3A2blVUazdJd3pnTkctNE1LSVB3UlVJTFR6b255Z0dZV0h4aWhSX2JfR2w3VTRpQmQ3NHo?oc=5",
-   "source": "비즈중앙",
-   "published": "2026-09-29T09:57+09:00",
-   "cat": "acc",
-   "id": "befe9e1364ab",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBra3VRdVdhSDZDY3pHSVM5UXV5YmRKNmVQZVE3M3Z6VF9GaDJxZFNINFd6Q1JURDlzOERYd2ZzZ0dIa0JPeVlVclV5OFIzTmhodnJDREFydndzMzNrU3RLYnQ4VkVVdEo4eUUzNmVyN2J0QQ?oc=5",
+   "source": "아웃소싱타임스",
+   "published": "2026-09-29T09:42+09:00",
+   "cat": "law",
+   "id": "3e38437ca6c5",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "제주 공장·창고 1235동 화재안전 조사... \"초고위험 42곳부터\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5wcnhCYkU0UEkxMHllU2J1Z251ZWVPcWRqV0d2dGIzbzdXRkdyYlA0eXNvbjItWkZidEVwLW5fN21UWlFPYTVaOXllOXlZVjNWekVtVTRNM0lYSUZmeUJyejNqV2N4alo5RGVMddIBcEFVX3lxTE1aNFpXYU5KMkZreFl5N01BWWZNSEY5YWMxQlRGM0drcmxkM1kxako2YlZzMlBzTU9IYkJQTFNfRDI3dm5hOVdQM3dMTFRTOTl3UVc0VzdJVjFuc2xGZXdVOEJOSFl0N2VGWXQxX2RhcHU?oc=5",
-   "source": "미디어제주",
-   "published": "2026-09-29T09:45+09:00",
-   "cat": "acc",
-   "id": "408a590de3dd",
-   "related": [
-    {
-     "source": "제주뉴스",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12ajNBaXlNdnJnenlmTE5GSm5URVFrQjl0ZWJ1a0k5Y0hvMUd3MVdpNkJYMG0xM0gwWTZiTnFHMHF5X09LZ2d1TzlzX1c1eldMb21GczZIaXpUTllQa3ZmNUpESHMwMEQ2NGw0QjdB0gFuQVVfeXFMTXZqM0FpeU12cmd6eWZMTkZKblRFUWtCOXRlYnVrSTljSG8xR3cxV2k2QlgwbTEzSDBZNmJOcUcwcXlfT0tnZ3VPOXNfVzV6V0xvbUZzNkhpelROWVBrdmY1SkRIczAwRDY0bDRCN0E?oc=5",
-     "title": "제주 공장·창고 1235동 화재안전 전수조사…초고위험 42곳 '화재취약점' 먼저 살핀다"
-    }
-   ],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "경남 고성 오뚜기SF 로봇 팔에 40대 사망…중대재해 수사",
@@ -1137,29 +816,8 @@
    "cat": "acc",
    "id": "9978046ae230",
    "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "백은미 한보총 회장 “건설현장 건강 사각지대, 밀착형 지원체계로 해소해야”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sVmFLVWdjVmFXQ2wzdXF3X0EzbmpvRU4wakU5bC1ITDY1MjlSTTVpcW5Fejc0QUF5VndxVjBLWFhtN28wbzdTZUNrQVBSY2ZKUHNDdTVCeEg0TGx5Um9KSkFzdTB5OTllZGluc0xKdE4?oc=5",
-   "source": "안전신문",
-   "published": "2026-09-29T09:41+09:00",
-   "cat": "hlt",
-   "id": "8cf867937d2c",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "예선테크, KES 2026서 배터리 화재 지연 소재 'Flame Barrier' 선보여… \"열 확산 늦추는 안전소재\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85UFVqaXVSQlozX2dHQWZzejZnc2NYWmZ2R0hTWTFjWlA3SXFkLXlJYW5nNnY0LUh6cndOYzU1Zjlodm5BeHVsMXpIcXZ1cl9pcnVMMnc5eERYdVFnWXdGWUo4MTVfMDg?oc=5",
-   "source": "에이빙",
-   "published": "2026-09-29T09:41+09:00",
-   "cat": "acc",
-   "id": "c454fd08058f",
-   "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "[윤종우 노무사의 이로운 산재 지식] 재택근무 중 다치면 산재일까…장소보다 중요한 ‘업무 연관성’",
@@ -1170,7 +828,8 @@
    "cat": "hlt",
    "id": "23c722fa6d95",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "달비계 작업 늘어나는 가을철…추락 주의",
@@ -1181,7 +840,8 @@
    "cat": "acc",
    "id": "51a11a189b54",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "[노무사 칼럼] 위험은 높게, 산재보상은 낮게? 억울한 건설 노동자들②",
@@ -1192,18 +852,20 @@
    "cat": "hlt",
    "id": "693a78b6c7f2",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "오뚜기SF 고성공장서 로봇 설비 끼임 사고… 40대 하청 노동자 끝내 사망",
+   "title": "진천군, 'AI·IoT 농다리 스마트안전관리' 2027년 준공 목표",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IT2FaS29IX0lXZEFtTGxiU2RGQVJxVjMwRXBKSmk4RjBKeFpRT1l5ZllISHBRSjU1TXBOemJ0RmRwZU5yNnljd0U4MjNhdHNNdHRPcXFBSlZucEs5Tk82ZVItMkEyS192cTlN?oc=5",
-   "source": "안전정보",
-   "published": "2026-09-29T09:16+09:00",
-   "cat": "acc",
-   "id": "5bfbf9578bd3",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5KMG1NTmc1cnphUXR5Z2JxYV84ZnBmb2RCcUFfcjhtUG8wU1liNE5jNFBPRFZyb29tNFhScmloNVpDeUdSTmVJY3RRUy1PQTBYNFhxVVMzZjRwTXdJRzlZTkV4c05EY0IxbnBHZ2pR?oc=5",
+   "source": "gukjenews.com",
+   "published": "2026-09-29T09:06+09:00",
+   "cat": "tech",
+   "id": "74e7e8dad8bd",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "미스릴, 삼표피앤씨와 건설현장 AI 안전관리 PoC 계약 체결 - 조선비즈",
@@ -1214,18 +876,58 @@
    "cat": "tech",
    "id": "814761d45534",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "시진핑, 검·경 소집해 사회안전망도 AI 적극 활용 촉구",
+   "title": "서울 강동구, 산업재해 예방을 위한 정기 위험성 평가 실시",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rMXNzOVNkektJRnRtQkNJMFlyMHRsMDRPWFdSZVVMV0pkWjRyVTUxcl9QbkxJYlktWXFNbS1XNDFvcjhUN0FBYmRSakp0X25UaGJibTFEaF_SAVhBVV95cUxPazFzczlTZHpLSUZ0bUJDSTBZcjB0bDA0T1hXUmVVTFdKZFo0clU1MXJfUG5MSWJZLVlxTW0tVzQxb3I4VDdBQWJkUmpKdF9uVGhiYm0xRGhf?oc=5",
-   "source": "아주경제",
-   "published": "2026-09-29T08:54+09:00",
-   "cat": "tech",
-   "id": "24169b84c2db",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QQkFhUmNUREJDYXRjQUxhYmQ2SU9oclZzUmtSYmNqZlZrNmZzSXFmWTUyWUoxMmo4N3dFNzF5YzREOUdpRTkwa1lGYUFlUlluc1ljVmRacW1KaEc1TjE3VDRnMXFCMG53QlBPY2xDTQ?oc=5",
+   "source": "여성종합뉴스",
+   "published": "2026-09-29T08:52+09:00",
+   "cat": "law",
+   "id": "125d9de54b56",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "진천 농다리·미르309출렁다리에 스마트 안전관리시스템 구축",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kenNGV1Y0WVRuTjhaZEEtMEp4U2JhMTdCV1V1TlJ3SDY4M1ZYV0R1U1lRcGhNX2NyR1oybWt5b1lMazFkcmNzd3U4cWtWTDJiWHpnR0J6OUJNcFRuZVJZYtIBYEFVX3lxTE5kenNGV1Y0WVRuTjhaZEEtMEp4U2JhMTdCV1V1TlJ3SDY4M1ZYV0R1U1lRcGhNX2NyR1oybWt5b1lMazFkcmNzd3U4cWtWTDJiWHpnR0J6OUJNcFRuZVJZYg?oc=5",
+   "source": "연합뉴스",
+   "published": "2026-09-29T08:41+09:00",
+   "cat": "tech",
+   "id": "74d1637c81af",
+   "related": [
+    {
+     "source": "매일경제 마켓",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93YmxWaE1xWVpnbDVSVFVhdVhBOUM5N0gxTnlmeFpGV0dDWndjRGNaYzRSYVhCWVNGbXVmYWpEQjZYeHZfT3dHRWFrR3FfUHY1M3c?oc=5",
+     "title": "진천 농다리·미르309출렁다리에 스마트 안전관리시스템 구축"
+    },
+    {
+     "source": "다음뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1LWmdhSkF4REhOenprekpwWC1CRERwMFJSdWVMNTJjZDVnVHNWSjgtMmtwdkpJQUIxREl6d1M0S1NySW9Lc2lOV2U4TXhKWTE3WWEzOQ?oc=5",
+     "title": "진천 농다리·미르309출렁다리에 스마트 안전관리시스템 구축"
+    },
+    {
+     "source": "nsenior.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tUXlhNnBEb3ZFNEltTXFMVkVWdmwteWl1QlV0RUdrRWhaNEp0WkRtTTNTQ0c3SEMzZk5qSHV0bEQ4eVBGLVh1RHBSdWcteWpfbVZ2eWlwRldqbl9wWXE3cTRqcw?oc=5",
+     "title": "진천군, ‘농다리 스마트안전관리시스템’ 구축…AI·IoT로 관광객 안전 강화"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1EeGNIZEd1cjhkMzdyMVAycm1Wcm5JU21lWWFuWm5XdzRKQVJSb2xuOGpsdVhmNDQ0OEhjVUc2dHNLMEZjRW5zLVVvMnJEdlpOUElMZ1k3ckVQSjI2bmx4c0hRWEVJQlFVSndZNlRHeEN2X0N6bXJJU9IBeEFVX3lxTE1EeGNIZEd1cjhkMzdyMVAycm1Wcm5JU21lWWFuWm5XdzRKQVJSb2xuOGpsdVhmNDQ0OEhjVUc2dHNLMEZjRW5zLVVvMnJEdlpOUElMZ1k3ckVQSjI2bmx4c0hRWEVJQlFVSndZNlRHeEN2X0N6bXJJUw?oc=5",
+     "title": "진천 농다리, AI가 지킨다…'스마트안전관리시스템' 구축"
+    },
+    {
+     "source": "뉴스티앤티",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9LclIwdTZIYmI3cGx1NHFiTjRCa3NWQVdBRlJPSXh6RGdwdFJIVHRWaElzelk2TklEajhCc1E2NTh3YWppNk5ySkp0eDJQUXJsMG8tOFR3MlRxYXRCRnlORExSSG1mLTJuT3c?oc=5",
+     "title": "진천군, 농다리에 AI·IoT 스마트안전관리시스템 구축"
+    }
+   ],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "건설현장 ‘익숙한 위험’… 중장비 충돌·구조물 붕괴 등 유사 사고 반복",
@@ -1236,7 +938,8 @@
    "cat": "acc",
    "id": "a0bb6cebec9f",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "[단독] 산재·자동차보험은 치료기간 중 15회였다…관리급여는 같은 숫자를 1년에 묶었다",
@@ -1247,57 +950,32 @@
    "cat": "hlt",
    "id": "67df8aa87281",
    "related": [],
-   "day": "2026-09-29"
+   "day": "2026-09-29",
+   "watch": []
   },
   {
-   "title": "위생방역본부, ISO 45001 갱신심사 ‘적합’… 4년간 안전보건체계 유지",
+   "title": "‘안전모 제대로 착용했나’ 노동부 1천곳 점검",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfX2ZvbTJ5QW5yVUhBZ3FvcHNBRlJGWU9mNEM4T1hzWWJUTHM0VVN0anN2WDJKUUp5WTFpQ19FUXQzaC0wY25tMHlpWGQ3ZEFYcmd0LTJlVmlSdXFVZHVvbmtwclBrYklWZ1RnYtIBbEFVX3lxTFBfX2ZvbTJ5QW5yVUhBZ3FvcHNBRlJGWU9mNEM4T1hzWWJUTHM0VVN0anN2WDJKUUp5WTFpQ19FUXQzaC0wY25tMHlpWGQ3ZEFYcmd0LTJlVmlSdXFVZHVvbmtwclBrYklWZ1RnYg?oc=5",
-   "source": "한돈뉴스",
-   "published": "2026-09-29T06:46+09:00",
-   "cat": "hlt",
-   "id": "087cd84675a9",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "가스公, 현장 중심 ‘안전 최우선’ 전사적 경영방침 선포",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHVjd3d2M2WWJmUWZZUEhqaUtLUXRVMGJCcFNWMVZBWHdQVzdDdUVYVlVlenRSRTA5dU1Sby0zNGxkN1FXRmMtV3BXMEpxdXVTZWkwQ2V2UUk4Q0lEaE1uTlZQRzRWd1hGLVJj0gFrQVVfeXFMUEdWN3d3YzZZYmZRZllQSGppS0tRdFUwYkJwU1YxVkFYd1BXN0N1RVhWVWV6dFJFMDl1TVJvLTM0bGQ3UVdGYy1XcFcwSnF1dVNlaTBDZXZRSThDSURoTW5OVlBHNFZ3WEYtUmM?oc=5",
-   "source": "이투뉴스",
-   "published": "2026-09-29T01:19+09:00",
-   "cat": "tech",
-   "id": "91dea68ce246",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "[공직자의 창] 현장의 변화를 ‘되돌릴 수 없는 대세’로",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHBqQmV5NWdkNGVLOVQteTJxa0ZmdXZzeFhzZWpMbERiVUEzdlFCaktqcWJtX3dURDZWaWtrbmt1X245ZEVKSFlCejRhUkR3RC1DWlZ3LUUySy1OelhjWFE3Um5oQTIxemx4TDBNa01oTHF0TkxoVGg1TzNzRnJmNmZVWjVDWmgwQTRvWGhLRzFaLW0xaUFZcWUyNE43bk96RHc?oc=5",
-   "source": "서울신문",
-   "published": "2026-09-29T00:15+09:00",
-   "cat": "law",
-   "id": "fea275ff3bf4",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "대형 건설사 현장에서 5년간 121명 사망",
-   "summary": "김주영 의원이 노동부 자료를 분석한 결과 2022년~2026년 6월 20대 건설사 현장에서 111건의 사망사고로 121명이 숨짐. 떨어짐 사고가 41건으로 가장 많았고, 대우건설 현장 사망자가 15명으로 최다.",
-   "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271172",
-   "source": "오마이뉴스",
-   "published": "2026-09-29T00:00+09:00",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeTdCcTkwSG12SGJLT2s2dDN4WUd0dDVTVHpjUnl1LUVpcnJIWjcxVU9acGZHeDNSdUluQ2tCZ3dZa19UQi14NEJwMFVYcWY5TjJXSWlROW14R3dNa1U2YnBUOW44V0E4dVJ6OTByMlA?oc=5",
+   "source": "매일노동뉴스",
+   "published": "2026-09-29T06:30+09:00",
    "cat": "acc",
-   "id": "4744244478e5",
-   "related": [
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84aVExOVh2YVdTVTB0dGs0enpPQzhEWVozN3U2b3pDSlQ2cThoZjZPYW9sMHZpckduMkJmWGtlZC1nVmIxcGcxckxNUGlkV0JCU291NA?oc=5",
-     "title": "대형 건설사 현장에서 5년간 121명 사망"
-    }
-   ],
-   "day": "2026-09-29"
+   "id": "8f68c590fc72",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "오뚜기 자회사 하청노동자 사망… 책임론 함영준 회장 '국감' 불려갈까?",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BYVFqaTlZYWJkSEF1UkZTWUNSRUp6Q1JZRnZjMk42TlJQV3dsWTZMdnJWckpjRE1FUXluXy1HM2hyLTBqN0U4Y0x3RGdPNVdaQXZzeFJLNFN6ZEpPM3NET3MtT01Jd2IzbHVnWdIBbEFVX3lxTE9BYVFqaTlZYWJkSEF1UkZTWUNSRUp6Q1JZRnZjMk42TlJQV3dsWTZMdnJWckpjRE1FUXluXy1HM2hyLTBqN0U4Y0x3RGdPNVdaQXZzeFJLNFN6ZEpPM3NET3MtT01Jd2IzbHVnWQ?oc=5",
+   "source": "뉴스W",
+   "published": "2026-09-29T00:46+09:00",
+   "cat": "law",
+   "id": "d18a3bab3e0d",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "김정재 의원 \"중대재해발생 업체, 사망사고 내고도 도로공사 발주 추가 수주\"",
@@ -1307,19 +985,20 @@
    "published": "2026-09-29T00:00+09:00",
    "cat": "acc",
    "id": "dd87feaccabe",
-   "related": [],
-   "day": "2026-09-29"
-  },
-  {
-   "title": "오뚜기SF 공장서 로보타이저 압착 사고' 참변' …40대 노동자 숨져 : 사회",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUGVBdkV5SlFqVV9tRy1iZVRTaW91YzBjYzdLelhkRFk3bmtMeEZZT0M5T3hKSVFJYlYyWTZhcTJ6Mi1RWXM1MUVKaw?oc=5",
-   "source": "재경일보",
-   "published": "2026-09-28T23:21+09:00",
-   "cat": "acc",
-   "id": "aa45d69c776a",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "국제일보",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8xbXZUbWpyTDJRd1pPSDNPclM2TDVoMk1KWkVvTU56NzA3UFcwV3E5c1lBaUpDTldoc3RraXRSYS1fV2I4cDVfMXVldC1WczViWU5LNGg1Yk4xSHVGZEdCaDJEbGo?oc=5",
+     "title": "“사망사고 내고도 한국도로공사 공사 또 따냈다”… 최근 5년간 도공 중대재해발생 업체 5곳, 사고 후 추가 8건 수주"
+    },
+    {
+     "source": "다음뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sRVZrYXVoSGoyc2xoMVVvdU9rTzVlOWxJUHFBR19uUDBobVpTSVJhZEpkWVdZOFd4dDdzN0E1blFNOU9HeVp5R1NmdDRhS1E?oc=5",
+     "title": "사망사고 내고도 반복 입찰... 중대재해업체, 도로공사 공사 추가 수주"
+    }
+   ],
+   "day": "2026-09-29",
+   "watch": []
   },
   {
    "title": "가스공사, AI 기반 안전경영으로 중대재해 막는다",
@@ -1330,7 +1009,8 @@
    "cat": "tech",
    "id": "542065611be4",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "울산지역 잇단 추락사 사고에 산업현장 안전점검 강화",
@@ -1341,40 +1021,20 @@
    "cat": "acc",
    "id": "c019bb76420a",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
-   "title": "부산시, 안전·환경·창업 잇는 도시 경쟁력 강화",
+   "title": "강동구, 정기 위험성평가 실시해 일터 곳곳 위험 요인 찾아 개선한다!",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Qd1M4Vm8xSERFNlBBWWhLQTFaTkpiSlFMTnBPOTVGWk5nWXNhS0xRZDEzamo1TmR0elhQdE5jY1VMXy03YktmRUJQemtYcFdGTTdTLXJqNmFSWnNoZ2tpZ0RMOEZnYUFvaFNFNHNRaDFRUQ?oc=5",
-   "source": "인더스트리뉴스",
-   "published": "2026-09-28T22:23+09:00",
-   "cat": "tech",
-   "id": "c74265666ab4",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BdVZqd2RxV05FM3BSclBSTTlfT1pkZDh6NWNiZlVqMlY5LXRsT09udHU0OTlCamxIeDJMRUZWbFhqYmFoejdIWDUzOU9HWEI4b2ZjZl9oSlJXTXpXSnZDNThjd21vSk5R?oc=5",
+   "source": "서울자치신문",
+   "published": "2026-09-28T22:39+09:00",
+   "cat": "law",
+   "id": "f8700ac49b28",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "고성 ‘오뚜기SF’ 40대 노동자 기계에 끼여 숨져",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9NUlVQT3lXV1RlWVFGZUw5TkhLT0tIdmdZOHBEWDFTYTFiSXY2NlNMMmUtZV9IQmMwRnVLSG55RjZ3RW9sQndCLXlJVnROZG9UbS11cGwtblloWEZsX2hXdnNiZHRJQQ?oc=5",
-   "source": "KBS 뉴스",
-   "published": "2026-09-28T22:08+09:00",
-   "cat": "acc",
-   "id": "7df827650d60",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "도로공사·LH·코레일 현장서 지난해 ‘10명 사망’…안전등급도 '미흡' 강등",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1yUGFWN0pDTm9mNjlkVHUwSWhnQUpfWHhMeFZWc1RQX0JsdENycFdybEhQZFNuU1ltbTlWazFweVhyQXEwRFV5OEFLMTlydTJWWHcwWWM2QmEydUF3T3RBaTFGR2pVZGdw?oc=5",
-   "source": "녹색경제신문",
-   "published": "2026-09-28T21:57+09:00",
-   "cat": "acc",
-   "id": "4af25ab9356c",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "무안군, 중대재해 예방 생활화...구내식당도 ‘안전교육장’으로",
@@ -1385,7 +1045,20 @@
    "cat": "acc",
    "id": "b79dfe9be8e3",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
+  },
+  {
+   "title": "성남도시개발공사, 안전보건경영시스템(KOSHA MS) 사후심사 적합",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xVUl2SThpVkNYUzJ5andUaDlCQUVvd3E1X2RwZ2YyVkJzUVhRWDdJSDRkclVfRnJNS1ZENUZtdjJEbDY1Zk5Edl9EMmthU1ZPYXl5dUs4Q0FiS2dDSFRNZktHR1VuUl9CWExB0gFrQVVfeXFMTXFVSXZJOGlWQ1hTMnlqd1RoOUJBRW93cTVfZHBnZjJWQnNRWFFYN0lINGRyVV9Gck1LVkQ1Rm12MkRsNjVmTkR2X0Qya2FTVk9heXl1SzhDQWJLZ0NIVE1mS0dHVW5SX0JYTEE?oc=5",
+   "source": "서울매일",
+   "published": "2026-09-28T19:46+09:00",
+   "cat": "tech",
+   "id": "d0144ec1969d",
+   "related": [],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[최종국 칼럼] 중대재해 예방, ‘위험성평가’부터 다시 점검해야 한다!",
@@ -1396,29 +1069,20 @@
    "cat": "acc",
    "id": "8c8a3e460a61",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
-   "title": "고성 오뚜기 계열사 공장서 중대재해…40대 노동자 로봇에 끼여 숨져",
+   "title": "세종도시교통공사 김재원 처장, 기술사 이어 산업안전지도사까지‘2관왕’",
    "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KeHROczR5TGZaY1dva0N5cThVTml6Vk1Wc1BRN2c2VklpV2RuUFVrNEo5RUs5a0xGUERDTXBTaUxkNE91OEtVMHd0d2J6UzlqWHdWNG81Tk9kXzhySE1zUjFjNkdJY200NXc?oc=5",
-   "source": "경남도민일보",
-   "published": "2026-09-28T19:26+09:00",
-   "cat": "acc",
-   "id": "b89d4ff2880d",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YdXMtdmZlT1JTZGhFazVZaUN1S0xKcG5NSWtfMGlkenllSzZzX19BWTZySGpEcXhLSUNiUVhxMVdwbGxmRHhhZ3ZXQllwTklpY3dEOUpuaVktZkk5SlJzYUM4S3dtanJ1QkluSjVfZDM?oc=5",
+   "source": "모빅경제",
+   "published": "2026-09-28T19:31+09:00",
+   "cat": "tech",
+   "id": "b0961413de74",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "주거지원은 복지일까, 안전 투자일까?",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5KVzlXckkxRy1KM203aDFvdE9QSVA4WHBwZ3ZQMldyMWVkSWhVS3dTSVVxWlgwQjNRUzJtU05zSkhGLW9mVEM1Mlk2NjVKZDdMYU53RXIxVUNqOGlidDR1WjQ5ZjF4UU1xcVNndEtBbw?oc=5",
-   "source": "세이프티퍼스트닷뉴스",
-   "published": "2026-09-28T19:18+09:00",
-   "cat": "law",
-   "id": "b0c8e5858688",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "복기왕 의원, “한 해 10명 사망…국토부 ‘빅3’ 공기업, 안전등급 동반 추락”",
@@ -1429,62 +1093,8 @@
    "cat": "acc",
    "id": "ab39e02c8dd2",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "강남구, 공중이용시설 시설관리자 대상 재해예방 교육",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE53dXVVcTZTeE13ck5hQTRmRTNqOEg4N3lOTWVWa2xlRjdaQ3JYWjVva056elNGQ1RXcEp4d1A1dWZmVHhPbnNaWXpMX0pDWDBkdXowYW9B?oc=5",
-   "source": "헤럴드경제",
-   "published": "2026-09-28T18:50+09:00",
-   "cat": "acc",
-   "id": "c85ad335dc32",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사 안전경영 새판…AI·디지털 기반 예방체계 구축",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFAtd1hKRFBIbUpqcnpRVjRxejhTRXIzQkJlbzltNFBCRVZJdUxUcVFRZFFidVVjUVdIVVpBVU5mVU1xRGRXU1NGQ3dua05WRmhYbUV4elpxOUxKQV9BbV9YdlVuTVRYQ3MxNlFvbQ?oc=5",
-   "source": "에너지타임즈",
-   "published": "2026-09-28T18:44+09:00",
-   "cat": "tech",
-   "id": "a280d3722a08",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "고성 오뚜기 관계사 공장서 노동자 끼임 사망 사고…경찰 등 조사",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03dURDYjdTVExfYVI0Vy01WTY3ODZuZEpwNFJVaTB6dUgzOU1MYzN5YVdzRERxWFZMd0thanBJaC1WWmZ1aUJfdFdOSkdWRFJodzk3Rmg0SEN2emVNRkFKdTRRME9rRXFSLWxkY0dTUC1uUEZ4eURHdkxGMA?oc=5",
-   "source": "서울신문",
-   "published": "2026-09-28T18:24+09:00",
-   "cat": "acc",
-   "id": "7f6f8a638e4b",
-   "related": [
-    {
-     "source": "서울Pn",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ2RUNDNHb3lNN0FXTFc5TldRUTJyZHV3MmQ1UnBod3hRZ2NVelkwSEJtbTZtVmNkNnRWb2FpQUZZeUx5a19UbGhLcERwOFk1RTJLLXpnLUFuNlptZkxETllGUC1YMGZPbzlLa3JQeGlLT2lLbmdycw?oc=5",
-     "title": "고성 오뚜기 관계사 공장서 노동자 끼임 사망 사고…경찰 등 조사"
-    },
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBib3VSLUZGMGhGdzJlc244RW44cmROcEFJRS1tNzY1UzZYNkVSX3RkWWxKSTgwSlBsRXFCRFBEYXdVYTBtVHVSS2x5N2k3UWs?oc=5",
-     "title": "오뚜기 관계사 공장서 40대 노동자 끼임 사고로 사망"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "K-보건산업, 해외 조달 新지평…423만 달러 결실 : 책",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1hSUxLX3pCTFczbERsUTN2UVhJZWh6NWpMVHl3QnZTNmtZbUdIcmJDdHFRRkk2SDItN2JQVWRxNVB4WF9DVU5GRTJfTHZyU1B4NG9RcA?oc=5",
-   "source": "의약일보",
-   "published": "2026-09-28T18:23+09:00",
-   "cat": "hlt",
-   "id": "2afdc31d1d6a",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "HD현중, 잇단 사망사고에 안전관리 전면 개편…170억원 추가 투입",
@@ -1495,68 +1105,20 @@
    "cat": "acc",
    "id": "b41c1bc6e164",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "오뚜기SF 공장서 40대 근로자 사망…안전사고 반복",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XU29HVlpGU2J5dC1ZbmRDMUdELVFZX21yYTlyZ1NVM01sU3BGblZVR0ZTQ0JSNzlPUGYyQmdiaEtyTExEdzJWNFZseTF6dTBlU0Jkd2NKTmVJakRpdlhhYS1IV2xJRUtNOVpCODRFUFI?oc=5",
-   "source": "1코노미뉴스",
-   "published": "2026-09-28T18:13+09:00",
-   "cat": "acc",
-   "id": "4b55a0f0f3f6",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "지아 라이는 학위 및 자격증 소지 근로자 비율을 높였습니다.",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPXzJEZUhKS25POWNGQm9rNkhtcGNBUWRXQ0xXMzAxNmtEWkFzcXNUdF90MEIzNWs1a3FvSHdlVmYyeTBsMHFYekJrNFRnX1ludW5ma0pxN2VTOFNQR3IyZUo0NEhsRi1oNE1reWhVUE9WUVk1SlhHOUR4M0RvRmRJYQ?oc=5",
-   "source": "Vietnam.vn",
+   "source": "vietnam.vn",
    "published": "2026-09-28T18:12+09:00",
    "cat": "hlt",
    "id": "f9a94bdf3056",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "오뚜기SF 공장서 40대 노동자 로봇 설비에 끼여 사망…중대재해법 조사",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZTkJYdVNhc3lvbDY2alYzeGZrVmhxNlVwX2FFM3YyalpvU2NZNjZ3U2xYYXJTcnZhSkVPbFFEUFhNdy1vTVVrWlFVbzZFN1c3eHd1NVNqSmxxYXhwTi1hanBWcTBhQQ?oc=5",
-   "source": "mydaily.co.kr",
-   "published": "2026-09-28T18:11+09:00",
-   "cat": "acc",
-   "id": "84ec4d497bcb",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "[나눔의 발자취]안전점검부터 물품 지원까지…안전보건공단 경기남부지사, 진위 지역아동센터 찾아",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Mdnd2WEpZb1ZRdGFhMk0yeUJVc1JfMFJHMGdxTno1MlVpNHFTd0lhaG1lUlBZOVB6by1JRFoxN01uOFZ5V19KMjE2em4wMnd4ci01ZWJkTHpSQS1zWC00Vw?oc=5",
-   "source": "NSP통신",
-   "published": "2026-09-28T18:10+09:00",
-   "cat": "tech",
-   "id": "38518d7a8675",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, KOGAS 안전보건환경 경영방침 선포식…5대 실천방향 제시",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51N2s1aDVBeVkxbHNmTmxTLXh5QkpNUWRmbVI0RkVLUE5ZWk1yTXZBWGx5M0hqdWRDa0o0Y09HUWJGQVVvRkVLTUoxY3EwYW5YTWVXTHlCSmhwR0x2VlREUndtNWRlWnFBbnRZ0gFrQVVfeXFMTnU3azVoNUF5WTFsc2ZObFMteHlCSk1RZGZtUjRGRUtQTllaTXJNdkFYbHkzSGp1ZENrSjRjT0dRYkZBVW9GRUtNSjFjcTBhblhNZVdMeUJKaHBHTHZWVERSd201ZGVacUFudFk?oc=5",
-   "source": "SR타임스",
-   "published": "2026-09-28T17:40+09:00",
-   "cat": "hlt",
-   "id": "ba3ef2f1898c",
-   "related": [
-    {
-     "source": "데일리한국",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqbjdTcTB4UC1jRjE4MEJzcWctU1NiWU5xaTFhQjd1RlBGaWVKdnBpLS0tRHZ4SEJBdUVJa1c4R0xUR3RwVjMwUHNnVTBaSFdLY0Y1R0swaGZwRmRQLThoU0w5Sk5SenIyNWpPbXBiMNIBc0FVX3lxTE1DY1AtRHFTc2lqWXFPREVReTZJOE1OUDFJTFliNWRaSGJmNF9kNFQyc2o5cmRaREJkSG5LS0Jmdk51MEZXUUpmTDhSUUF5bXg1WWxNMWsxQU1LcklKRGdYSXRncGRGWWI5Mkx5RE5VSnhXZDA?oc=5",
-     "title": "가스공사, 안전보건환경 경영방침 선포식 개최"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "이주노동자 덮친 '후진국형' 죽음의 덫...추락·깔림·끼임사가 73%, 경북 13명",
@@ -1567,40 +1129,8 @@
    "cat": "acc",
    "id": "3698f9a8aad5",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "조달청·보건산업진흥원, 53억달러 UN 보건조달시장 공략 힘 모은다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDdlAwZlMwWHBUSk5ZazNhMDVFbVNkVlFoZ0ltWnl6Y0ZjVE83ZENfQ1FST2dXdDZIMm5wU2JyR2Y3OWQzY1JTSUJUTXhJTmlXMEJRNm9yaGMydTJrSUJXUVV0WkhBdDRVMWFWR2dNdnQ?oc=5",
-   "source": "비즈트리뷴",
-   "published": "2026-09-28T17:33+09:00",
-   "cat": "hlt",
-   "id": "379b5f145ad0",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 안전 투자 위해 170억 추가 집행",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE41ZF9uRnRoNFhMU1JsVFoyZjY2VlVldl9JZm04aEM0cHpkcXFTWFJJSTFiMTFmX2h0TnF6T0Fnel8yc0F4cVQ4R2NTM1VaSUxpSVcyZtIBVEFVX3lxTE41ZF9uRnRoNFhMU1JsVFoyZjY2VlVldl9JZm04aEM0cHpkcXFTWFJJSTFiMTFmX2h0TnF6T0Fnel8yc0F4cVQ4R2NTM1VaSUxpSVcyZg?oc=5",
-   "source": "더팩트",
-   "published": "2026-09-28T17:31+09:00",
-   "cat": "tech",
-   "id": "60a8100942df",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "미스릴, 한국전자전 공동홍보관 참가…산업 현장에 바로 적용되는 제조 AX 선보인다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1ODJJX3VtS2hiblQzWlEyWkRIN0FlSUpSMERBaEZ6SHBPdFBHUl9oX0FhRzIwd1JsZEFxUFoyTl9oVnphWGZaV081SjFiYVIxSmJvS0lNVmtGdnpQcVlURTg2WldPVmPSAWtBVV95cUxOZUp4YUVKamlNOUdHUnlBRFRycFlhSjNPcUlxZ05lVGgxVEVTR3BtMW9OMUMtLS1wUThPZWlqMlNuRnY5WlZsYU5SU1pveGMtUEdYVm1BRXFpaHBXc1UtQXZsS2VNSXN1OW1mSQ?oc=5",
-   "source": "에이빙",
-   "published": "2026-09-28T17:30+09:00",
-   "cat": "tech",
-   "id": "461cd78546b2",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기SF 고성공장서 40대 근로자 압착사...중대재해법 조사",
@@ -1610,19 +1140,20 @@
    "published": "2026-09-28T17:27+09:00",
    "cat": "acc",
    "id": "090e6a34edff",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "부산교통공사, 사장 직무대행 체제 돌입···철도 안전·경영 공백 차단 총력",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlTGRRajNwQnBTbHAxcXJvNzdYbkJHVXJ6Q0p4M2xjeHh6NjBCWllpdXJEYVdXNjJJbkRWdmtLa0JHVWdHOUxFUWNDaWxJenIyZUNHLVdmbkEtT2FqSE1PdlgxdEVfQk80YkE?oc=5",
-   "source": "포인트경제",
-   "published": "2026-09-28T17:26+09:00",
-   "cat": "tech",
-   "id": "7e427093c2c8",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "mydaily.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ZTkJYdVNhc3lvbDY2alYzeGZrVmhxNlVwX2FFM3YyalpvU2NZNjZ3U2xYYXJTcnZhSkVPbFFEUFhNdy1vTVVrWlFVbzZFN1c3eHd1NVNqSmxxYXhwTi1hanBWcTBhQQ?oc=5",
+     "title": "오뚜기SF 공장서 40대 노동자 로봇 설비에 끼여 사망…중대재해법 조사"
+    },
+    {
+     "source": "1코노미뉴스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XU29HVlpGU2J5dC1ZbmRDMUdELVFZX21yYTlyZ1NVM01sU3BGblZVR0ZTQ0JSNzlPUGYyQmdiaEtyTExEdzJWNFZseTF6dTBlU0Jkd2NKTmVJakRpdlhhYS1IV2xJRUtNOVpCODRFUFI?oc=5",
+     "title": "오뚜기SF 공장서 40대 근로자 사망…안전사고 반복"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "산업현장 중대재해 막아라···노동부, 1000곳 집중점검",
@@ -1633,29 +1164,8 @@
    "cat": "acc",
    "id": "1532ceff87bb",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "홍의락 한국가스공사 사장 \"안전, 결코 타협할 수 없어\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZaUlid0RGRXpJWjlUSkJ2ZXhUSFZkb1hYeXFFdEdaLVdod2pqS1o3aXVla19tYnpLeTZXSWl0VFlwaWtTNnFndW82YVMyNmJ5anFtaDltNzNhYVBVODc1TWszZVR6QlhLNlBydlJhRC1wVk5l?oc=5",
-   "source": "파이낸셜포스트",
-   "published": "2026-09-28T17:11+09:00",
-   "cat": "tech",
-   "id": "ccbb67bc227c",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "건설연 악천우 대응 교통안전기술, 캐나다 현지에 실증한다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XbHhRNXQ5a2FlWmpVZDVSTzRBNlRma3FNSEdRejFaU1BsS0tYWGtCNF9UUkRxZXI4OTVLVHVyTVpTaFV4em9zeUdoS2pwSUhKb1Rndlg3V244bzZQRW9DYk80ZTRGWTZienc?oc=5",
-   "source": "헬로디디",
-   "published": "2026-09-28T17:10+09:00",
-   "cat": "tech",
-   "id": "915114173397",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기, 손가락 절단사고에 이어 이번엔 노동자 사망...노동부, 중대재해처벌법 적용 여부 조사",
@@ -1666,7 +1176,8 @@
    "cat": "acc",
    "id": "c37cd0231f8d",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "담합·산재부터 ‘신약 접근성’까지…국감 앞둔 식품·제약바이오 '정조준'",
@@ -1677,18 +1188,8 @@
    "cat": "law",
    "id": "a03ea4237e29",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "“안전 최우선 경영” 가스공사, AI·디지털 기반 5대 방향 제시",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01VjVvUV9jOEtxZzlUZmhOenRQeTZwZTE2QzFHbjdTdWFSUERNSGJZZlRUaFVJV19oVE1ENGtoaVFOXzZCVkpyY3pPX21tVjQxazdNUURXZ2xlako3UmYtTGlIR08?oc=5",
-   "source": "서울경제TV",
-   "published": "2026-09-28T17:02+09:00",
-   "cat": "tech",
-   "id": "66fd7302459f",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "출퇴근 길 사고로 인한 ‘산재 사망’ 승인 건수, 매년 100건 넘는다",
@@ -1699,116 +1200,8 @@
    "cat": "acc",
    "id": "9adcd9ca46f4",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "구리시, 건설현장 24시간 'CCTV 눈'…사고 제로화 오늘부터! : 사회",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1zOE9ZdERKV1BtLUFmX0JxQklQbkZFQk5IVnlBTWpwdGMxcXNGX3pQTjhPWUxINW1wTGt2VWdsem5qMndKNUVjakFB?oc=5",
-   "source": "재경일보",
-   "published": "2026-09-28T16:56+09:00",
-   "cat": "tech",
-   "id": "46b2d0f3269b",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "오뚜기 관계사 공장서 40대 노동자 사망사고…중대재해 조사",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hbFlvMS1peVFfVlB2NlRsV211WUlzTFFCNGVQajk3R3N6ckpqYUpiTS15bGlCRUNsZVJNMTF2a1VnTGpVWnNsWnNfR3RTU2pmdlFmVnBFclhyQ0R5b2N4dll4N1lLc0d2Zmc?oc=5",
-   "source": "월요신문",
-   "published": "2026-09-28T16:55+09:00",
-   "cat": "acc",
-   "id": "8b16eed04399",
-   "related": [
-    {
-     "source": "딜사이트",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iWXBTNTM0OHlfOExCRHZRbk16LTYwTlVZOVdwcXdVeFN2aTRFT3JoaTNnZUVHb1VkbjduUWltd3YtOGx0a1hiOE9HUXBpOVk?oc=5",
-     "title": "오뚜기 관계사 공장서 40대 노동자 사망…중대재해법 조사"
-    },
-    {
-     "source": "S저널",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LMVpHaVUtUDQxbTB5Y1doeWtYYXc4MnNaMGFXOXNvSjNqTEFOSHN1RXdrVUxvakJRUDN3N2hyVW1fVVBleVcyTzNCSTN3RUJLSThYZVM0NkpuSWwyZ3VyVV9ldkszcDMzbzBQdlVR?oc=5",
-     "title": "오뚜기 관계사, 공장서 40대 노동자 압착 사고로 숨져… \"중대재해법 적용 대상 사업장\""
-    },
-    {
-     "source": "부산일보",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wUy0tNHdyMzktQjFOT2x5cnVBRXVIaWNuMktMNE9zS25yWThFaXpMSm1ka0tXRHBqbnp0TmVDdlMzNmpndnBKaG56RFBhNVVyZFJoQ3dOYmVTS214aG03eVZrWHRTcmIwNC00SEMyNWluYzJP?oc=5",
-     "title": "경남 고성 오뚜기 관계사 공장서 40대 노동자 압착 사고…오뚜기 “조사 협조”"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대重, 스마트 기술·핀셋 체계로 ‘안전 혁신’",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qY29MMkJhc0lsaFJ3SFBNLWE0WVU2RmxZbmdyTVNkZVkyMS1VTnAtX0ZfQ3EzS2tKUXV1RG9NZkxfZWlER3lIS0k1ZVItdEhGWjZIckpWNldoMkZpN0dKX2NwUFPSAWhBVV95cUxPVWF3c1dLQk1xZmJkMExYU1BvMDdUR0F4RnFiZjlUcE42Nm5aSjliUkFUOG9GeXdGeE5sdDk2MEtjbGs1b2RjRjlpT3M1aU9zOTMxM3Y5N1g0UDQ1QnV0SFRreXN3Ui1FVg?oc=5",
-   "source": "매일일보",
-   "published": "2026-09-28T16:50+09:00",
-   "cat": "tech",
-   "id": "40b3221036d1",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "미국·러시아, 유엔 AI 무기 협약서 '인간 감독' 안전장치 삭제",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWcHVWZmJtNmdCT3pWM1lReHA1dEpwbEFsM01zOV9pVDR2ZVlyT294OFhLbXozSjdQRWtyQmYzWjE0MGJsbDd3Qk5HODI3X3JPQUtBYS1yTFBwUmtyRW93OEplQ1hUR1pvTkE?oc=5",
-   "source": "AI타임스",
-   "published": "2026-09-28T16:48+09:00",
-   "cat": "law",
-   "id": "9a7ed76880ff",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, AI 기반 안전관리 등 5대 방향 제시",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10UjBiLWVQcWxHNl9QTDBGREtsa2R4UzIwZmxwcHJDd0tsdmlZNlRFbGRkSS1hb0ZiR0R0OEpuczAyRFJNR3NiNUV6QTNwWGMzZWJ4WXE4X3RwLWk1WmE2SEhMcU56cmZhUWFuanNnOXQtXzjSAXdBVV95cUxNR2cxYlRwTi1JQnFmRnFpMzA5SnFWSmtSVWdoOVpaMTdJR0tYUzRXV2YwOWFjZldMdVpRbkQ4RWZBVWNJU3NZTXNKdHJ5eWxuNDBZcG1rUDVkWEx2a2hSNE5MVXRGamJoWTNKUzNscGdNUUl2bjNqRQ?oc=5",
-   "source": "핀포인트뉴스",
-   "published": "2026-09-28T16:43+09:00",
-   "cat": "tech",
-   "id": "5b850b0f24db",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "[건설업계 8월 동향] DL이앤씨, 안전경영·사회공헌 집중 추진",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14clFfNFFYT2Z1cnBzckx0TERfSDdVUklCR3JVTUtfektPWEFmUE05Mmo5bXIzN3VYMXI2TlRxWFQwMTJ4RTY3amkzbUtfRzNzX1pvakF0b3pnZWFkT1pBbmV1aTBEZw?oc=5",
-   "source": "여성소비자신문",
-   "published": "2026-09-28T16:42+09:00",
-   "cat": "tech",
-   "id": "dfb396f3cde6",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "평택시자원봉사센터-한국산업안전보건공단 경기남부지사, 아동복지시설에 안전진단 및 물품 기부",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMmtQeDNXU0pyck9iNzNZMDRNV0JrU1I0REVEWlRJLWJGalpYOEQ5Q2JEZTlVaUxTaEhoZ193MkZkUnRvcU13QWZxamRjYmxMbUptd1laR3djUFZBODIxVzlVakFEZWNsbWM2ajl5NU5lQQ?oc=5",
-   "source": "웹이코노미",
-   "published": "2026-09-28T16:35+09:00",
-   "cat": "tech",
-   "id": "f49f778e62cf",
-   "related": [
-    {
-     "source": "경기중앙신문",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYm91U25EZnkxMjdlOXR5RnJRYzMxV05naVZhajBiNHYxQ2l6SE56NlhQX2lHVGJ5YzdhRnVfRDlqc29rYm5ZMG1wVExNUE1tTjVRN2dIcmtvV2JWVHYzaTJpcktYaTBj?oc=5",
-     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천"
-    },
-    {
-     "source": "thekorea.kr",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MWngyMDJlc3pzeWpIRnh0akRfYVlLbU44ck8ydVNzMk9JenFZLVFkX0hlQnRJZVBxbXVrODZYOVVPSGhUbnBiOVlSNTNkRkc4VC10ZVRYMkhhWjRCWV9fQ0w5ZW5CSHVTMkNmVXVDekw?oc=5",
-     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천 > 뉴스"
-    },
-    {
-     "source": "경인경제",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZLS1DTTZ2R0tMY1d2WVdjQlFRbTBTbkRNZEhOWWZFYWtyYXM5SmhZcTMzQVJxd3oxd2ZqLUJIRmlCWEdWSGFCRDlUSHliaXVFVU5lYmJtYVFmNGprRGZXNVdacXBrUEpZ?oc=5",
-     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "영주시, 산업안전보건위원회 정기회의 개최",
@@ -1818,36 +1211,15 @@
    "published": "2026-09-28T16:32+09:00",
    "cat": "hlt",
    "id": "b09eab285034",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, AI 기반 안전관리 강화…중대재해 근절 추진",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4N2VGdWZJN0lVX1p6Z2lYbEZoaGl3alZ1aEp4TGdMaFpwb0lWODJLdnUzZGVGa3NUQmpaZlNGRnh0RFkwUWNXbVV6QXdObEtiV3M3SzBRNUFOVWZEcVVva0pRUDNQekZsY19aZzFwOFnSAXRBVV95cUxOY21TLS1qdWplYm9Bb05XVk5kY1EzVUpqa05rQ1dyMTB3cEJYTXlJZkRvc3RKcWMwRWNmWEFqS0twMUU0YVJ6cXF6NHlWSEs2dzlzd3FBTlZQZUxPZExJYk1YeF8tOXczN1BiWUJLWVlkR1pRdA?oc=5",
-   "source": "weekly.hankooki.com",
-   "published": "2026-09-28T16:26+09:00",
-   "cat": "acc",
-   "id": "71ac5f40211f",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "전기안전공사, AI 재난상황관리 시스템 ‘케스코-사이렌’ 구축",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB5UXVCQWxIMzAweERLR0w2VUJPNElhZ2VsMDB3VnhfV0M4aWg0NjJuWWxvS2pfamVHTlItVlJuRDdPQ2VKYmVFQk9nOWZaZDR5SHAwb3lpbmJ4SzNYRTBUUWtYcjhUTlpnT3V4VdIBcEFVX3lxTE44c0xQRFVCWlk0ZDQxUTlENHk4V3BEOWhjUmk0RU5zRlQyNVcxR0hHcFZmdHdkQlpVZXY5Tk9HVHgxMHFHanI2a2lRYzhySXNnWWJRb3RkMjRJUFJZYWJQOGdHN3cyR3dQcUdXLV9QbG0?oc=5",
-   "source": "전기신문",
-   "published": "2026-09-28T16:25+09:00",
-   "cat": "tech",
-   "id": "3fb7fb7ebae0",
    "related": [
     {
-     "source": "부산일보",
-     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xSkVTSzlKQ2h5QWxLX1BnbUN1WENnZzB4THNQUFFjbnJ4SXowbE1Jem1HYW1MTnlyYXd6dDg1WjRkVVpHYzNxNHh6WDU1OG55b1NlY1ZJU2Y0OEFuLUN3R0Y2d0NuMEtROG9JNG4zcmhISHNvZHpzbjVTdGE?oc=5",
-     "title": "흩어진 재난정보 한눈에…전기안전공사, ‘AI 재난상황관리 시스템’ 개발"
+     "source": "엔디엔뉴스",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeGVzVmMxZndjSy1NT3c0QS1rZ2xPcUNKdjlnTzlBbVVyRm5GOXlpSTBVbnJSbERDU1FPZVgwNy1pMkgweGRZcDlrSkp0QXdPWDVjWlBtODZvZEhKTmdRR3J1UlozZXNwbjUzZHQ4Q2s5QdIBckFVX3lxTE1GeGVzVmMxZndjSy1NT3c0QS1rZ2xPcUNKdjlnTzlBbVVyRm5GOXlpSTBVbnJSbERDU1FPZVgwNy1pMkgweGRZcDlrSkp0QXdPWDVjWlBtODZvZEhKTmdRR3J1UlozZXNwbjUzZHQ4Q2s5QQ?oc=5",
+     "title": "원주시, 3분기 산업안전보건위원회 개최"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "중대재해 막을 학교 안전망 UP",
@@ -1858,24 +1230,14 @@
    "cat": "acc",
    "id": "9d708229f2cb",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "보건산업 中企, 유엔·해외 공공조달시장 판로 넓힌다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11cjhmZWhlbTY3a1hzQmYwbmtCZ0JwWHRRLXVHSENEZm9kSktLT0FZMEpvUUUzSVVhUDRqbzBoMUFwVzh1VnlFVXFQY09ucHFQLVpNOTJLVUluNGxqemotSTlfYm5yZGp20gFsQVVfeXFMUHBnTWNUVk1rWVUzSUNlQWxNTThYZUZETWw1MjFmeEsxU0NUZGdhWlZ0MUxrOWNrZTFYTVEybkZzZTRwbUpTaXlzNVJPcEFndWRyWWxvVnJlOWF0Z3czanZHd1dTYmJ0WEtyZ3Yt?oc=5",
-   "source": "중소기업투데이",
-   "published": "2026-09-28T16:20+09:00",
-   "cat": "hlt",
-   "id": "a23ad1a9e4d3",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기 관계사 공장서 도급업체 노동자 끼임 사고로 숨져",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkxPTWNrT1FpbTFSMy1oOUE3cmNCSDB2eWdkV0RUNm9PV2lESm9iSEg2Zk1wekRjR2FESGFXZFNfbUJQbDkyLURHNFRzVW54MXFaWGZKVk9zTXctb0Z5UTN2R20zelNHeHdVamtLR3M0Q21rOWl6aXNEUVNrYUh2Zg?oc=5",
-   "source": "edaily.co.kr",
+   "source": "이데일리",
    "published": "2026-09-28T16:14+09:00",
    "cat": "acc",
    "id": "b0b29877eda6",
@@ -1884,37 +1246,31 @@
      "source": "뉴스토마토",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92TW91bHU2VDRuMkRpU1pnTW42Zk1lOW91RS03UHdkbGF6LVlMZnlEU21ZcENobG4za3ZYUklkek9vblQxMDNXbGpqd2M0aUs1WnVmQWxWUi1KclMxelBFaw?oc=5",
      "title": "오뚜기SF 공장서 도급업체 노동자 끼임 사고…나흘만에 숨져"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03dURDYjdTVExfYVI0Vy01WTY3ODZuZEpwNFJVaTB6dUgzOU1MYzN5YVdzRERxWFZMd0thanBJaC1WWmZ1aUJfdFdOSkdWRFJodzk3Rmg0SEN2emVNRkFKdTRRME9rRXFSLWxkY0dTUC1uUEZ4eURHdkxGMA?oc=5",
+     "title": "고성 오뚜기 관계사 공장서 노동자 끼임 사망 사고…경찰 등 조사"
+    },
+    {
+     "source": "서울Pn",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9UZ2RUNDNHb3lNN0FXTFc5TldRUTJyZHV3MmQ1UnBod3hRZ2NVelkwSEJtbTZtVmNkNnRWb2FpQUZZeUx5a19UbGhLcERwOFk1RTJLLXpnLUFuNlptZkxETllGUC1YMGZPbzlLa3JQeGlLT2lLbmdycw?oc=5",
+     "title": "고성 오뚜기 관계사 공장서 노동자 끼임 사망 사고…경찰 등 조사"
+    },
+    {
+     "source": "다음뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBib3VSLUZGMGhGdzJlc244RW44cmROcEFJRS1tNzY1UzZYNkVSX3RkWWxKSTgwSlBsRXFCRFBEYXdVYTBtVHVSS2x5N2k3UWs?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 끼임 사고로 사망"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "K-도로안전기술 ‘KOSMOS’, 캐나다 현지 실증",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1uc0NLd0UzaUIwU3lBNWNmeHg2UUVjcl9STWxtWU1ubU9QMmpWZm5lWmhEYzZmTXl4NHdsRG5hc2NJZWkyUkVkR0hUWFQ2cEpOYzJoOEdMaUxSQTJrbG4yOGNGNVV2S2htajZEYQ?oc=5",
-   "source": "ER 이코노믹리뷰",
-   "published": "2026-09-28T16:13+09:00",
-   "cat": "tech",
-   "id": "3183b41f28c3",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "오뚜기 공장에서 40대 노동자 로봇에 끼어 사망",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VWdwbE9JRkhWNUNjZlFuMVBpVThsUl91dDMxeDZ3VVdIYXlBLVlsMGg1WkhEaFZKaENyaldMdDk1ZGZDSkpvYllWcUVPZkdKb3lWd2ZNS2hGUkgzX3VZUmFIXzJ4aDRsN2RuR2lR?oc=5",
-   "source": "데일리브리프",
-   "published": "2026-09-28T16:09+09:00",
-   "cat": "acc",
-   "id": "8088ab12ae1e",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[단독] 중대재해법 시행에도…20대 건설사 현장서 5년간 121명 사망",
-   "summary": "",
+   "summary": "김주영 의원이 노동부 자료를 분석한 결과 2022년~2026년 6월 20대 건설사 현장에서 111건의 사망사고로 121명이 숨짐. 떨어짐 사고가 41건으로 가장 많았고, 대우건설 현장 사망자가 15명으로 최다.",
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VUjByTXZ4cGVEdHJJeklLYzFwRnhjOVM3X3MyalBjSzhsN1JkYXJGSHU3dS1mem5SZnp6a1dTY1NYem5rNHc?oc=5",
-   "source": "v.daum.net",
+   "source": "다음뉴스",
    "published": "2026-09-28T16:06+09:00",
    "cat": "acc",
    "id": "dc10ac4b8965",
@@ -1928,20 +1284,15 @@
      "source": "포커스경제",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBIXzJUVGVOenpWV0xaSlNoMXpZM3E3OXhkZU9jWG1UOWw4N1hWLTczM1d5bE1OTTdHOHlnRVFWMy1uWS1TSFZIbXdPOXhKV0ZTN2o0cl9tNU44cXZ2UVJkRF94ZWN4UGNMcFJCOEF30gFwQVVfeXFMUGxmZEZjRHVDQ2pLTmh0LW03N3huTW5TYk5JU05mdWVaTUVKZE9hWUdqcHhuYkpJVUlzcFNKU2hqVWhsMnp3TUFZVndGczhlVTZBOWFzYVhBYzZ5UjhqWFY0LVBEczRxaXlremVodFdIRA?oc=5",
      "title": "20대 건설사 현장서 5년간 121명 사망…추락 등 ‘반복 사고’ 여전"
+    },
+    {
+     "source": "오마이뉴스",
+     "url": "https://ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271172",
+     "title": "대형 건설사 현장에서 5년간 121명 사망"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "[기고] ‘안전워싱(Safety Washing)’의 종말과 지속가능경영",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OMG9QVWZ5Q0toS3VhbTgteEJRY1Rwa1N3MURuNGxxTUNlN3c5NlczTnZiaElWYXpBc0RyMEtaemluTVpPbGVQcUlmVmlJV09JZ2lXMg?oc=5",
-   "source": "v.daum.net",
-   "published": "2026-09-28T16:05+09:00",
-   "cat": "tech",
-   "id": "9c0d5afc1440",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "HD현대重 \"안전관리 체질 바꾼다\"…170억원 추가 집행 - 머니투데이",
@@ -1952,18 +1303,8 @@
    "cat": "tech",
    "id": "8111bcea5f24",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스公, '안전 경영 최우선' 선포…홍의락 사장 \"중대재해 근절\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dXdHQ1JvRkFjLXNhdUsxWWsyUGV0VWhVMlFoRE1JZ0tGeUFDX0hwaTA4QThza3pqRU5Ib3JCVnNhLTFlbTVVOERjLVpVdkxvRFU2LTdEVG5rYTBkbXIyMTdXVjFNWS1rV2V4dThINFo?oc=5",
-   "source": "연합인포맥스",
-   "published": "2026-09-28T16:00+09:00",
-   "cat": "acc",
-   "id": "f696f906efa0",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "멈춘 로봇 재가동하며 안 확인…오뚜기 관계사 공장서 40대 노동자 압착사망",
@@ -1983,70 +1324,40 @@
      "source": "한국아이닷컴",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrRjVWelRDLWxLMUJvalVHd2xYNW10WDNlS0szREZCNmhjWTJ3LU50SmJFejhSZHVDbGFSaE9XeFRrVTQwWU40ZVJPcmJjRXVsaFRDaWZlNmZ0dXhOZ3p6Vm1DSWIxcUZsMnpJ0gFvQVVfeXFMTm5abEtOX0xzLTdHVFZWYUtENDlrN2hRLUhfQXIwYnBwcVBxZWRBaTFVYS1wZEJYWjFIVHFlTUVDMlh1enR2cHFYd2NMUkJIRGtTd1F6bWN2OEJJeE05VWtyODJtaVJtcmlPVTVCUEFF?oc=5",
      "title": "오뚜기 관계사 공장서 40대 노동자 압착 사망…중대재해 조사"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "산재로 숨진 이주노동자 78%…50인 미만 사업장서 나왔다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbkF6c2o2TDFldkFjZ3lBaE5jR3NaVjUwQ2I0YkpxQ1FjRUNXRmRTcmZjWUVFZkhFaExXb1dCam9mTXNPR2JsTlpxckdlcmc?oc=5",
-   "source": "v.daum.net",
-   "published": "2026-09-28T15:59+09:00",
-   "cat": "acc",
-   "id": "a1870594a33f",
-   "related": [
-    {
-     "source": "매일노동뉴스",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVTh3TlQwQ25PcFpDQ0lKRFZ3OXdkVHMwU2hlcDNuWWpQZ3gxQzh6S1g0RXNPNHdZbW01R0lXMEIzX243QTU5M3lUVmVOQ29meGNER0diS0I1NE5aODV5QlhnMnBEN2NFMDRfZ2h1RnI?oc=5",
-     "title": "산재로 숨진 이주노동자 78% 50명 미만 사업장서 일해"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, AI·디지털로 ‘사고 전 예방’ 강화…전사 안전경영 체계 재정비",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WOWdzUlFwOXd0ZDdEUWFJUk1JYkgxb2FXM3F4eEtYbEsyYVFCTDFyZGtfcm5oajVZTDZmTDdpbXV2MHFaYkVkSmJua1lnQzEwWXRYa3Z0X0JKMFB6Wng0clQ4eHJibDJaMkJkd3N0ODlfUQ?oc=5",
-   "source": "에너지데일리",
-   "published": "2026-09-28T15:56+09:00",
-   "cat": "tech",
-   "id": "54ac538da4de",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "보건산업진흥원-조달청, 보건의료 해외조달시장 진출 맞손",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yRUZDdDBiM1dkZ2EyQ24xXzdLeHRmalBLME9ZRnk1cFJzSHZOeEpIV0Y0VWoyd0duai1FQmNLODNzbEFrRDRIRmNucDIwcEZVUmMtbFFXakVYSUpPcFFraG1vQUdGZlI4Z1ZNQ05WQmI1eEnSAXdBVV95cUxNb3pnY1Z5SDRJMVJObGJjREhrajJPUk42TjlGUzRoZXhja0M4MlJFcWxlcGFCZVYyRnlUa085Y21hdU4yaUlVbi02bHl0MjN6Yl9uV0xNYlJxcElTZ2Y5Z2hzOXhVRWtFQ1hoeGV5b2pua05CQkdMdw?oc=5",
-   "source": "핀포인트뉴스",
-   "published": "2026-09-28T15:55+09:00",
-   "cat": "hlt",
-   "id": "171c1709cb25",
-   "related": [
-    {
-     "source": "사이언스엠디뉴스",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OTkVleWtwRVZFSG1iZEc2R1NaWUY3QlZVYVNlSG1JMnlQLWM2bEw3d2c3R2dYUk1RSWNBNE5YR0JKQzZ6bzNmTndBbHhDa1BpVHVwV3BzUFN3bFE?oc=5",
-     "title": "한국보건산업진흥원-조달청, 보건의료분야 해외조달시장 진출 위해 맞손"
     },
     {
-     "source": "대전일보",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1eUdfN1N6SnRZOFFYaGxZekEtWWExckRfRzNmNVFPQ0JYdTMxQUFkMFpraEdXM1hSUC02SW9RUFdHYVFrRFU0bU43c0JnSkY4WlFMLUtLSU1rZDFCZmVFcElLUkYzWl8zNkZQTm1USdIBc0FVX3lxTE9NUURaaUVXb0xnNWJCbU9vRTRfcFd1Q1VYUHBndDQtbzh1SGFCSU9SRTBfYmtabTBjWUR3akFPM3I4bE53V1F4RG1zR18xUlRaMm5HLUU1U0Vrb1dRZGtIc1pPOXZTZkFsYVBZSDNHTjhVUzA?oc=5",
-     "title": "조달청-보건산업진흥원 해외조달시장 진출 업무협약"
+     "source": "데일리브리프",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE50VWdwbE9JRkhWNUNjZlFuMVBpVThsUl91dDMxeDZ3VVdIYXlBLVlsMGg1WkhEaFZKaENyaldMdDk1ZGZDSkpvYllWcUVPZkdKb3lWd2ZNS2hGUkgzX3VZUmFIXzJ4aDRsN2RuR2lR?oc=5",
+     "title": "오뚜기 공장에서 40대 노동자 로봇에 끼어 사망"
+    },
+    {
+     "source": "월요신문",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hbFlvMS1peVFfVlB2NlRsV211WUlzTFFCNGVQajk3R3N6ckpqYUpiTS15bGlCRUNsZVJNMTF2a1VnTGpVWnNsWnNfR3RTU2pmdlFmVnBFclhyQ0R5b2N4dll4N1lLc0d2Zmc?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 사망사고…중대재해 조사"
+    },
+    {
+     "source": "딜사이트",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iWXBTNTM0OHlfOExCRHZRbk16LTYwTlVZOVdwcXdVeFN2aTRFT3JoaTNnZUVHb1VkbjduUWltd3YtOGx0a1hiOE9HUXBpOVk?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 사망…중대재해법 조사"
+    },
+    {
+     "source": "S저널",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9LMVpHaVUtUDQxbTB5Y1doeWtYYXc4MnNaMGFXOXNvSjNqTEFOSHN1RXdrVUxvakJRUDN3N2hyVW1fVVBleVcyTzNCSTN3RUJLSThYZVM0NkpuSWwyZ3VyVV9ldkszcDMzbzBQdlVR?oc=5",
+     "title": "오뚜기 관계사, 공장서 40대 노동자 압착 사고로 숨져… \"중대재해법 적용 대상 사업장\""
+    },
+    {
+     "source": "부산일보",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wUy0tNHdyMzktQjFOT2x5cnVBRXVIaWNuMktMNE9zS25yWThFaXpMSm1ka0tXRHBqbnp0TmVDdlMzNmpndnBKaG56RFBhNVVyZFJoQ3dOYmVTS214aG03eVZrWHRTcmIwNC00SEMyNWluYzJP?oc=5",
+     "title": "경남 고성 오뚜기 관계사 공장서 40대 노동자 압착 사고…오뚜기 “조사 협조”"
+    },
+    {
+     "source": "이슈밸리",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0RnVWRFFpLTdGT3V0cjQzS1o0RDdXYXZLSHFLREY4cmdWenVNRkk2Q3NvcEVFTnlwRUhhZnB2bk5oQzJCaEtueTNMNndBWGNtZWF1QVIxZjJ0WGVkd1E4Z1QteGcxdnVEVE1zNkJB?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 숨져…노동부 수사"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "해양박물관, 국제 안전보건경영시스템 ‘ISO45001’ 인증 획득",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWHMwY2d5bUlRZU5PSWREQTNxcGNldjd0Zk9OV0lyanRKSnJuNWx4OFRxU2lRckFuRHdDYnRYQXUwN3JFbjZoTzE0M08zSV9ndTIwWHJrNWFKWGljWDNnWUtneWFQNnhCNnhlMUFSbWNxTWFJRzR5bXBtVy1Pdm9LdkhScFZyQU82UU5NU191U2IxLVZoeU44dHlXSEt2bE15SmZhNWFpSkZwaVVYdmZ4RkJFMmtqT2FoRWlseGlsYm8wLXB2S1R3OWFKN3JLX1J0YjZmR3lhZWJhcFFpV0lPaHA5WFRyR2xDbndaTzdEb2VqdGtPYmM3S1N4eFJQTnAxYUk1NmhqTF9NZmFXcHcwdDBlTk9pTjh6aExwRHh6dGNSVHNBWjMxV3BMMGNidw?oc=5",
-   "source": "데일리안",
-   "published": "2026-09-28T15:55+09:00",
-   "cat": "tech",
-   "id": "37ff38941752",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "구리시, 건설 현장 CCTV 상시 모니터링으로 안전사고 차단",
@@ -2057,34 +1368,8 @@
    "cat": "tech",
    "id": "db3e40e9da41",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "오뚜기 자회사 공장서 40대 노동자 끼임사고로 사망",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdkpHNllWaGw3RVdYNlExdXhuQzNLMl82ODl2VlRJQllzUWt4R242QmM4UzdQZ3RzT2ctUHg1a1l0bS03TDZfXzNSOWprSFplajdjbVA3b2kyR09CeF92TlZtbUZiMy12?oc=5",
-   "source": "문화투데이",
-   "published": "2026-09-28T15:51+09:00",
-   "cat": "acc",
-   "id": "4f9eb678bc00",
-   "related": [
-    {
-     "source": "컨슈머타임스",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUnlVVW41bkg5c3pWUDlVdjloT0NVWkV0ZEJrb3d6WGxNVENxSFlqSTY3WnBDMm1CRmhDR3lnYkJLMW5vRDNQN0xqWkRWSHRBQ3Q4SE04dFFLQkRCNktRYW1GUm15d1MyRWc?oc=5",
-     "title": "오뚜기 관계사 공장서 40대 노동자 압착 사고로 사망…\"조사 적극 협조\""
-    },
-    {
-     "source": "비즈니스포스트",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0QmZ4bWV5Sms1VHFSYWE3UURxUks1Z0JkbEZxNmxaWkpRT0FKZnItV0xRWnNtQ2dvNXVIbFR1SmFySTB4QU9LSTViYS1FdHF0RU1GUVdPOHlNOGR2VmZlNmVheUVjbG9fZUVXU2o3dHdOZ2M?oc=5",
-     "title": "오뚜기 자회사 공장서 40대 노동자 끼임 사고로 사망, 노동부 중대재해법 조사"
-    },
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqX2UzSFAwajdPV2FOcWVtRERXblRRTmlOblF3RnpsRTlfa0dBUDJwLXJKOERlaXVWUlpWZVZYaEFtUnVaY0dFNTBUTDE2RWRrOXdlUw?oc=5",
-     "title": "오뚜기 관계사 공장서 40대 노동자 끼임 사고로 사망"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "첨단 ICT 기술과 핀셋 체계의 결합… 조선업 ‘스마트 안전관리’ 가시화",
@@ -2095,40 +1380,8 @@
    "cat": "tech",
    "id": "3758fc0b2247",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "홍의락 가스공사 사장 “안전은 모든 경영활동의 출발점…모두가 안전의 주체”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tNnpiN2pZNmlzTnhSd0pBOWVnZl83OVBRWUNBUThia0hVOE1ZTVU2bl9udmZsNG1UempqOU9VX1VnLUtCRHEtREtuQU50V3E0dmZtMjYzb0RuaUlONTlWRFRVRVdNU3k1Q05zakdB?oc=5",
-   "source": "ilyoeconomy.com",
-   "published": "2026-09-28T15:50+09:00",
-   "cat": "tech",
-   "id": "e5f6e4282aa9",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "홍의락 가스공사 사장, 취임 두달 만에 안전경영 구체화… AI·디지털 전면에",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kNDd6aV9OdHpfUnhoY1M2a2NTZjlPakJ0cGUyY2NKMVVTTWZxTkxjNU9qVGhOUW0zNVZFRDFDcDIzYkI0d25XdEQ5dDU2LW1LcWM0OUFWLVZXUFZyajEwYThPNXhWNVA1VFdqSzdpQ2Y?oc=5",
-   "source": "비즈트리뷴",
-   "published": "2026-09-28T15:46+09:00",
-   "cat": "tech",
-   "id": "f4e041edc6d1",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, 'AI·디지털 안전관리' 본격화…\"안전 최우선 경영\" 선포",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zLTRjUGNKXzRwQWRROTN6MS1jZDhXWGUtMnhjMjZWUXZxSDVhMk1RU1FhYllkaG1WODM0dWx2ekEtcmFSUlYzaVNOam9KMlhpWmJvajM2Y1Yzd9IBWkFVX3lxTE0zLTRjUGNKXzRwQWRROTN6MS1jZDhXWGUtMnhjMjZWUXZxSDVhMk1RU1FhYllkaG1WODM0dWx2ekEtcmFSUlYzaVNOam9KMlhpWmJvajM2Y1Yzdw?oc=5",
-   "source": "뉴스1",
-   "published": "2026-09-28T15:45+09:00",
-   "cat": "tech",
-   "id": "0602956133dd",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "가스공사, AI 기반 선제적 안전관리 추진…현장 중심 경영 강화",
@@ -2139,7 +1392,8 @@
    "cat": "tech",
    "id": "8829078d11f9",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "이주노동자 온열질환 죽음",
@@ -2150,18 +1404,8 @@
    "cat": "hlt",
    "id": "3a31392be454",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "무안군, 구내식당서 ‘생활 속 안전문화’ 확산",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pOGdhM0JrUG1iMHotNjQ2aEFraVBENVUydVZZRlVkS3JWMmFKTzZtd3dZQUVieXFJSUpYdGp5bHlRUXdiOHJEdkN2eVVuZzR2dVFocEItdzZEdDlhN3hBVGxrbjBhUnlVNzFMWEd30gFuQVVfeXFMTWk4Z2EzQmtQbWIwei02NDZoQWtpUEQ1VTJ1VllGVWRLclYyYUpPNm13d1lBRWJ5cUlJSlh0anlseVFRd2I4ckR2Q3Z5VW5nNHZ1UWhwQi13NkR0OWE3eEFUbGtuMGFSeVU3MUxYR3c?oc=5",
-   "source": "무안신문",
-   "published": "2026-09-28T15:35+09:00",
-   "cat": "acc",
-   "id": "91f5d6841cfc",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "한국가스공사 홍의락 사장, '안전보건환경 경영방침' 선포식 개최",
@@ -2201,9 +1445,15 @@
      "source": "gukjenews.com",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01R09vcDctcC0zT0ZfQ3dEWjlkd01QY0R0OTdYR1prWXpydkQ2UDg0TDF1a1pLdTRZZU1BdHlMT2IwZWN2MEs3cXRXeldETDIzelA1aGRfam83ekZqS3ctUGxzRFgwRWFTYV9LQ1FR?oc=5",
      "title": "한국가스공사, '안전보건환경 경영방침' 선포… \"안전 최우선 경영 강화\""
+    },
+    {
+     "source": "SR타임스",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51N2s1aDVBeVkxbHNmTmxTLXh5QkpNUWRmbVI0RkVLUE5ZWk1yTXZBWGx5M0hqdWRDa0o0Y09HUWJGQVVvRkVLTUoxY3EwYW5YTWVXTHlCSmhwR0x2VlREUndtNWRlWnFBbnRZ0gFrQVVfeXFMTnU3azVoNUF5WTFsc2ZObFMteHlCSk1RZGZtUjRGRUtQTllaTXJNdkFYbHkzSGp1ZENrSjRjT0dRYkZBVW9GRUtNSjFjcTBhblhNZVdMeUJKaHBHTHZWVERSd201ZGVacUFudFk?oc=5",
+     "title": "가스공사, KOGAS 안전보건환경 경영방침 선포식…5대 실천방향 제시"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "속초시시설관리공단, 안전보건경영시스템 인증 확보...국제 표준 부합",
@@ -2214,7 +1464,8 @@
    "cat": "tech",
    "id": "d3092c052ca9",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "가스공사, AI·디지털 기반 안전관리 강화… 새 경영방침 선포",
@@ -2244,9 +1495,25 @@
      "source": "파이낸셜신문",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44aFJhbHkzcjZWZmpsSklSaXhWQWRIRDczSHBhb0h0d1MxYkV3NmtVTVk4amRRbDdvSldRaU0xZHR3N1ViVkZxZ0sxajNiSmphOVVtQm5kYzY3QzRFY1BqYzVXN1lVbDB6Wm0w?oc=5",
      "title": "가스공사, '안전 최우선' 경영방침 선포…AI·디지털 기반 안전관리 강화"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zLTRjUGNKXzRwQWRROTN6MS1jZDhXWGUtMnhjMjZWUXZxSDVhMk1RU1FhYllkaG1WODM0dWx2ekEtcmFSUlYzaVNOam9KMlhpWmJvajM2Y1Yzd9IBWkFVX3lxTE0zLTRjUGNKXzRwQWRROTN6MS1jZDhXWGUtMnhjMjZWUXZxSDVhMk1RU1FhYllkaG1WODM0dWx2ekEtcmFSUlYzaVNOam9KMlhpWmJvajM2Y1Yzdw?oc=5",
+     "title": "가스공사, 'AI·디지털 안전관리' 본격화…\"안전 최우선 경영\" 선포"
+    },
+    {
+     "source": "weekly.hankooki.com",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4N2VGdWZJN0lVX1p6Z2lYbEZoaGl3alZ1aEp4TGdMaFpwb0lWODJLdnUzZGVGa3NUQmpaZlNGRnh0RFkwUWNXbVV6QXdObEtiV3M3SzBRNUFOVWZEcVVva0pRUDNQekZsY19aZzFwOFnSAXRBVV95cUxOY21TLS1qdWplYm9Bb05XVk5kY1EzVUpqa05rQ1dyMTB3cEJYTXlJZkRvc3RKcWMwRWNmWEFqS0twMUU0YVJ6cXF6NHlWSEs2dzlzd3FBTlZQZUxPZExJYk1YeF8tOXczN1BiWUJLWVlkR1pRdA?oc=5",
+     "title": "가스공사, AI 기반 안전관리 강화…중대재해 근절 추진"
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10UjBiLWVQcWxHNl9QTDBGREtsa2R4UzIwZmxwcHJDd0tsdmlZNlRFbGRkSS1hb0ZiR0R0OEpuczAyRFJNR3NiNUV6QTNwWGMzZWJ4WXE4X3RwLWk1WmE2SEhMcU56cmZhUWFuanNnOXQtXzjSAXdBVV95cUxNR2cxYlRwTi1JQnFmRnFpMzA5SnFWSmtSVWdoOVpaMTdJR0tYUzRXV2YwOWFjZldMdVpRbkQ4RWZBVWNJU3NZTXNKdHJ5eWxuNDBZcG1rUDVkWEx2a2hSNE5MVXRGamJoWTNKUzNscGdNUUl2bjNqRQ?oc=5",
+     "title": "가스공사, AI 기반 안전관리 등 5대 방향 제시"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기SF 고성공장서 40대 도급 노동자 끼임 사고…치료 중 사망",
@@ -2261,48 +1528,30 @@
      "source": "newsprime.co.kr",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6YmN4WmxaQ1hPcmFNWUthTEtwLVRSUWhEdWk2c3BPby04NUxuMktPeTFOMGplVmFmZzMwWU1kMmxxVk5NdDdyRVJDdFhLUmZQNERnZk9oZ1VJcGoxMERMTTlVT1VUNnU1aVJMRWZyMl92UQ?oc=5",
      "title": "오뚜기SF 고성공장서 노동자 끼임 사망…경찰·노동부 조사"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "가스공사, ‘안전 경영 최우선 실천’ 선포",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1SZXRTV04xRlN5ZW41bC05UFVSTHdMNFlBQ2NDWnhTSnVJc2NTdkJoV1ZERmpwaF85MGZ3d3J1dlJwNVA1TmZSZXVCTXdIWm1pNUF6N1pWSTNaWXJxbVBv?oc=5",
-   "source": "경상매일신문",
-   "published": "2026-09-28T15:16+09:00",
-   "cat": "tech",
-   "id": "48d8ddede76d",
-   "related": [
+    },
     {
-     "source": "에너지신문",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zTmZCdkdDT2lvanFvUnI2M3hNLVZJcGtIdEI1RDJ1bnV3enRjakVVV29RRndpMFZTNzZzdnRYWEU1SXVKMVBjNHhZVVg1ZWdIQ2EzQWZtUnlnVjI2YVZDVkFaWnBEZU52b0pIekFsQXI?oc=5",
-     "title": "가스공사, ‘안전 최우선’ 경영 선포"
+     "source": "문화투데이",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxdkpHNllWaGw3RVdYNlExdXhuQzNLMl82ODl2VlRJQllzUWt4R242QmM4UzdQZ3RzT2ctUHg1a1l0bS03TDZfXzNSOWprSFplajdjbVA3b2kyR09CeF92TlZtbUZiMy12?oc=5",
+     "title": "오뚜기 자회사 공장서 40대 노동자 끼임사고로 사망"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8yUnlVVW41bkg5c3pWUDlVdjloT0NVWkV0ZEJrb3d6WGxNVENxSFlqSTY3WnBDMm1CRmhDR3lnYkJLMW5vRDNQN0xqWkRWSHRBQ3Q4SE04dFFLQkRCNktRYW1GUm15d1MyRWc?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 압착 사고로 사망…\"조사 적극 협조\""
+    },
+    {
+     "source": "비즈니스포스트",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA0QmZ4bWV5Sms1VHFSYWE3UURxUks1Z0JkbEZxNmxaWkpRT0FKZnItV0xRWnNtQ2dvNXVIbFR1SmFySTB4QU9LSTViYS1FdHF0RU1GUVdPOHlNOGR2VmZlNmVheUVjbG9fZUVXU2o3dHdOZ2M?oc=5",
+     "title": "오뚜기 자회사 공장서 40대 노동자 끼임 사고로 사망, 노동부 중대재해법 조사"
+    },
+    {
+     "source": "다음뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBqX2UzSFAwajdPV2FOcWVtRERXblRRTmlOblF3RnpsRTlfa0dBUDJwLXJKOERlaXVWUlpWZVZYaEFtUnVaY0dFNTBUTDE2RWRrOXdlUw?oc=5",
+     "title": "오뚜기 관계사 공장서 40대 노동자 끼임 사고로 사망"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "조달청·KHIDI, 보건산업 분야 기업 해외조달시장 진출 지원 손잡아",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rU1hDUl9wcWpiNFVDVUQzbnIzSTdRQnQ4dTU2VmpOQXlLZzkwaTF3elRsR3Z1Y2xOcTFJbXhlYzRpU1VHTVIxeWVMZzd0ZHNzX1HSAVNBVV95cUxNc2NpNlB6ODdOdzh2dU02ZVptZjB3WEcxZ2YzazJOTkM1UFJBSHRwSkFHd1RVS0gzYjlhUW1PZHhmVTlmWllHaHRXRUJtcTR1REc5UQ?oc=5",
-   "source": "sedaily.com",
-   "published": "2026-09-28T15:12+09:00",
-   "cat": "hlt",
-   "id": "641740d51629",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "외국인 산재 사망 10명 중 3명 재외동포…안전교육은 '사각지대'",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zYmM0SHBOcDlSb3Y1aF9MYkJvU3hFWWFYSkNwSnRLNVNIMVNPUXFPTlFPeENqRExfZmhQaDV5bjRqY0p2S1daS3NHT1pzTnNkal9tQ2VPR2NaTlJKMmlOX0dHb0NEUnZkdXNacA?oc=5",
-   "source": "메디컬투데이",
-   "published": "2026-09-28T15:11+09:00",
-   "cat": "acc",
-   "id": "bf51f03c4023",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "속초시시설관리공단, ISO 45001 최초인증·ISO 22301 갱신심사 통과 안전보건 및 업무연속성 관리체계 강화",
@@ -2313,7 +1562,8 @@
    "cat": "tech",
    "id": "d54392d8c0a8",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "가스公, ‘안전 최우선’ 경영방침 선포… 중대재해 근절 다짐",
@@ -2358,20 +1608,15 @@
      "source": "천지일보",
      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBWN3oyd1hGSmZxdWRxYllUeENOcmZwUThoYS1vRW0wWkI3aGNqSC1uMXlWZDVHb0RhQV9neGtSVGx2MTYzdUNPcVg4enpNUzd6RXpyWlNBajI5UFFLdC1MUEVFMHYtRmgxS1E?oc=5",
      "title": "가스공사 ‘안전 최우선’ 경영방침 선포… “중대재해 없는 일터”"
+    },
+    {
+     "source": "연합인포맥스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dXdHQ1JvRkFjLXNhdUsxWWsyUGV0VWhVMlFoRE1JZ0tGeUFDX0hwaTA4QThza3pqRU5Ib3JCVnNhLTFlbTVVOERjLVpVdkxvRFU2LTdEVG5rYTBkbXIyMTdXVjFNWS1rV2V4dThINFo?oc=5",
+     "title": "가스公, '안전 경영 최우선' 선포…홍의락 사장 \"중대재해 근절\""
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "하이로컬, 대우건설과 협업 확대...AI 통번역 ‘하이워커’ 현장 실증",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiMURKU25jNG1kbHBOX1VhTzltRnBlS2p3R3U2TFVSWGxjQWhFb2RWTXpaNklrVjN4dG1CLUV4ZmI4c1JNaE9ReGh1aUpfV3BMMk5EampwUlDSAWhBVV95cUxPLVdLUHh4Nzl2ZklaTHU1Sm1DeGU3TGVmNnNxckhyc3hvRU16OVlnWmlGX2xjTDY1UnlpS2I2aUVkNDZydUlYTUN2MExyVGxkenpBWVRoS0xGZTh4S1gzZXpxYnhscG1jdA?oc=5",
-   "source": "매일안전신문",
-   "published": "2026-09-28T15:03+09:00",
-   "cat": "tech",
-   "id": "14c9256ade76",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "노동부 충주지청, 작업장 기초 안전수칙 집중점검",
@@ -2381,8 +1626,15 @@
    "published": "2026-09-28T15:00+09:00",
    "cat": "acc",
    "id": "7cae7eb48246",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "퍼블릭뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yWkhmbW83RlFaWHZrNWVwcV94RDM0LW9wZWJNZjhCeFVIREJ1bzFlanNuY2VlOUJYRVJ0UHZyV0N2X1Q0TjRiMzVQS0RCY2xZdmx3dkIxUXRUbTlvSlhsSkN6bkEwM3h2UlVF?oc=5",
+     "title": "[이슈 & 뉴스] 고용노동부 충주지청, 10월 6일부터 '3+1 기초 안전수칙' 집중점검"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "한국산업안전보건공단 경기남부지사, 진위해밀i지역아동센터 안전진단",
@@ -2392,8 +1644,40 @@
    "published": "2026-09-28T14:58+09:00",
    "cat": "hlt",
    "id": "b974ac821584",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "웹이코노미",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMmtQeDNXU0pyck9iNzNZMDRNV0JrU1I0REVEWlRJLWJGalpYOEQ5Q2JEZTlVaUxTaEhoZ193MkZkUnRvcU13QWZxamRjYmxMbUptd1laR3djUFZBODIxVzlVakFEZWNsbWM2ajl5NU5lQQ?oc=5",
+     "title": "평택시자원봉사센터-한국산업안전보건공단 경기남부지사, 아동복지시설에 안전진단 및 물품 기부"
+    },
+    {
+     "source": "경기중앙신문",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aYm91U25EZnkxMjdlOXR5RnJRYzMxV05naVZhajBiNHYxQ2l6SE56NlhQX2lHVGJ5YzdhRnVfRDlqc29rYm5ZMG1wVExNUE1tTjVRN2dIcmtvV2JWVHYzaTJpcktYaTBj?oc=5",
+     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천"
+    },
+    {
+     "source": "thekorea.kr",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MWngyMDJlc3pzeWpIRnh0akRfYVlLbU44ck8ydVNzMk9JenFZLVFkX0hlQnRJZVBxbXVrODZYOVVPSGhUbnBiOVlSNTNkRkc4VC10ZVRYMkhhWjRCWV9fQ0w5ZW5CSHVTMkNmVXVDekw?oc=5",
+     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천 > 뉴스"
+    },
+    {
+     "source": "경인경제",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZLS1DTTZ2R0tMY1d2WVdjQlFRbTBTbkRNZEhOWWZFYWtyYXM5SmhZcTMzQVJxd3oxd2ZqLUJIRmlCWEdWSGFCRDlUSHliaXVFVU5lYmJtYVFmNGprRGZXNVdacXBrUEpZ?oc=5",
+     "title": "한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천"
+    },
+    {
+     "source": "NSP통신",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Mdnd2WEpZb1ZRdGFhMk0yeUJVc1JfMFJHMGdxTno1MlVpNHFTd0lhaG1lUlBZOVB6by1JRFoxN01uOFZ5V19KMjE2em4wMnd4ci01ZWJkTHpSQS1zWC00Vw?oc=5",
+     "title": "[나눔의 발자취]안전점검부터 물품 지원까지…안전보건공단 경기남부지사, 진위 지역아동센터 찾아"
+    },
+    {
+     "source": "뉴스 따옴",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zdzdUQ2NjTkE5SmhQcFoyTklDSXdmQzRvTXl6OEw4aXc0UFpoOGRicFFEbFNET1ppNlB1RWJOOHRJMEtvNktvZXJ1cHV2amNZZjlONHFCTFRRSFNxT25QYllOOFlGb3d0dFNCSHF1elVXZ9IBckFVX3lxTE9zdzdUQ2NjTkE5SmhQcFoyTklDSXdmQzRvTXl6OEw4aXc0UFpoOGRicFFEbFNET1ppNlB1RWJOOHRJMEtvNktvZXJ1cHV2amNZZjlONHFCTFRRSFNxT25QYllOOFlGb3d0dFNCSHF1elVXZw?oc=5",
+     "title": "평택시자원봉사센터, 한국산업안전보건공단 경기남부지사, 아동복지시설에 따뜻한 나눔 실천"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "국립해양박물관, 안전보건경영 국제인증 취득",
@@ -2410,7 +1694,7 @@
      "title": "국립해양박물관, 안전보건경영 국제인증 취득"
     },
     {
-     "source": "v.daum.net",
+     "source": "다음뉴스",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9nOEw4ZjJ1R2xndWJ2ODJBRWZZakRDa09KczFONUVFellQUGZmVkh5bnU4QzVndTdqM1N6Q040RnRqUFZMWlRxdXd1UU0xQXptRU1HSQ?oc=5",
      "title": "국립해양박물관, 안전보건경영 국제인증 취득"
     },
@@ -2420,51 +1704,8 @@
      "title": "국립해양박물관, 안전보건경영 국제표준 인증 취득"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "경남 고성 식품 공장서 끼임 사고…40대 사망 중대재해",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NWZLVlk4a242Vl9ZU3ltaTRuYXJhUjg1eVdNTi0wTFptVXpVSjFKem9ZbGNrNDFhSXJuUE1VR2QxdVhyT3JIMW80X0w1UEpHX0E?oc=5",
-   "source": "노컷뉴스",
-   "published": "2026-09-28T14:55+09:00",
-   "cat": "acc",
-   "id": "0c9181c4c80d",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "진폐증으로 우울증 악화돼 사망했다면… 법원 “업무상 재해”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55TVJSWnplWGE5QklGZ1VtY1MzSWo0emZJcGJ2elBlbmlfV2htMVJhUE16NWN6MWozUzN4czNoOUpra1prVVJEV3NPWEdHcDlZU3E5Y2hxLXBiQWhBWHZNU0JvdjFQczBuemc?oc=5",
-   "source": "천지일보",
-   "published": "2026-09-28T14:53+09:00",
-   "cat": "hlt",
-   "id": "e0fc526d423b",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "조달청·보건산업진흥원, 보건기업 해외조달 진출 지원 '맞손'",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmRU1FcFViUGI1N2xnSTdCdnNzNldLYzkyaTJ3Q3ZIQ29CNUhhdVhwVzF5X0FFeUE4UFRvMV83RlA2Y1pJNk5JRDVJWXJRM2l1Z183SDdzcXNDZw?oc=5",
-   "source": "파이낸셜뉴스",
-   "published": "2026-09-28T14:50+09:00",
-   "cat": "hlt",
-   "id": "df85cca47054",
-   "related": [
-    {
-     "source": "파이낸셜포스트",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBxU0JyYWlxTUt5TTJ5RzRSbVUwRUpHdVd6R3BBdko5QWxmeklZSGhibXdyVW8xQzF0LVFrM0JIem1GNEhnYXFGOUtUbFBhX3E2V1VzTUpoc0RJNHViSnNDWGRmUVBWZ0lMNURlamI5QW1wLXJo?oc=5",
-     "title": "보건산업진흥원·조달청, 보건의료기업 해외조달시장 진출 지원"
-    },
-    {
-     "source": "의학신문",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBFV3RfWVZEWkxqeGNFcnlxUzBJWVduclQwTHU3SEdfZ0ZiTUFNRDJqZHpmZEkyc2ZoRGhRNUZySXdoWktDQjBkY3doYVR3YXJRVTdFX092alk3aHdNMkNoNG1MVVNveDVpSFE?oc=5",
-     "title": "진흥원-조달청, 보건산업 해외조달시장 진출 지원"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "스토리지 속 AI 검색 칩부터 산업안전 관리까지, 프라이머 28기 데모데이에 9개 팀",
@@ -2475,7 +1716,8 @@
    "cat": "tech",
    "id": "f062e620a461",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기에스에프 고성공장서 중대재해…작업자 1명 사망",
@@ -2492,7 +1734,8 @@
      "title": "[공시] 오뚜기 자회사 고성공장서 중대재해…1명 사망"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "공공기관 내 ‘산업안전지도사’ 속속… “사회적 책무 시작 위한 문턱에 불과”",
@@ -2503,7 +1746,8 @@
    "cat": "hlt",
    "id": "734415c19711",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "가을철 지붕공사 늘자 추락사고 비상…노동부, 현장 안전관리 강화",
@@ -2514,18 +1758,8 @@
    "cat": "acc",
    "id": "445cd3a3a102",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 안전에 170억 더 쓴다...스마트 기술 전면 확대",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YTzkzUHBLcnZMYlkxQmt2X09NY0dNMmlaT3l0cW5pdFhzLXdxX0ZySmlfTzBZYmJfQWxILV9mNVJrN2lJQ0NmQUZId01qUWJkQVZubHdBcmdUcUZicHFvZ0hhSnA?oc=5",
-   "source": "ppss.kr",
-   "published": "2026-09-28T14:30+09:00",
-   "cat": "tech",
-   "id": "829441acb7d1",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[2026 국감이슈] 외국인 산재 사망자 3명 중 1명 ‘F-4’…안전교육 사각지대",
@@ -2535,8 +1769,15 @@
    "published": "2026-09-28T14:20+09:00",
    "cat": "acc",
    "id": "56fc2476c866",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "메디컬투데이",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1zYmM0SHBOcDlSb3Y1aF9MYkJvU3hFWWFYSkNwSnRLNVNIMVNPUXFPTlFPeENqRExfZmhQaDV5bjRqY0p2S1daS3NHT1pzTnNkal9tQ2VPR2NaTlJKMmlOX0dHb0NEUnZkdXNacA?oc=5",
+     "title": "외국인 산재 사망 10명 중 3명 재외동포…안전교육은 '사각지대'"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기, 계열사에서 중대재해…로봇에 끼여 사망자 발생",
@@ -2546,36 +1787,15 @@
    "published": "2026-09-28T14:17+09:00",
    "cat": "acc",
    "id": "3d6d712c549f",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 스마트 안전체계 구축 속도",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXZEVxMTN3a1k0R1RZSW9HcmhSZVB6dEI2a0ZPWmM3MWZVcVZIUUNFc2xWQUFGYl9FS3VpckREXzdFRVdBd0hOQ0VhMGlkSWZlSXNrUHdXd00zNTNHZHlWRnNGdkxGSFlyLTFKRFNGalN1M3VB?oc=5",
-   "source": "파이낸셜포스트",
-   "published": "2026-09-28T14:14+09:00",
-   "cat": "tech",
-   "id": "bfbe78e430ae",
    "related": [
     {
-     "source": "울산제일일보",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2MHYzZnNqN3pEUGN3VWxjUjU0MTRmSjJtQTRVZVhVa2hLejBXdUtaUGFWMGZwUEh1SmlVU3J2NkZiYVZmMnU2NE1zNGNWTE9xWUUyS29OWUlGZWNFczMybm1FMXYtQQ?oc=5",
-     "title": "HD현대重, 스마트 안전체계 강화"
+     "source": "경남도민일보",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KeHROczR5TGZaY1dva0N5cThVTml6Vk1Wc1BRN2c2VklpV2RuUFVrNEo5RUs5a0xGUERDTXBTaUxkNE91OEtVMHd0d2J6UzlqWHdWNG81Tk9kXzhySE1zUjFjNkdJY200NXc?oc=5",
+     "title": "고성 오뚜기 계열사 공장서 중대재해…40대 노동자 로봇에 끼여 숨져"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "국가가 발주한 일터에서 10명 숨졌다…도로공사·LH 안전등급도 하락",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91LTFGX25FNklyalFPMllnZ2JCSno3VEgtUlZsd2VjTGVfWDVxU0xRRTNsV044V3JndE5tTkxHV01pbU9JNFdBenpNRmhybmZRbFNHMFUtVnJKUlZHcDd1ZlhXbllBTkt5UmFZ?oc=5",
-   "source": "충청시사신문",
-   "published": "2026-09-28T14:12+09:00",
-   "cat": "acc",
-   "id": "31ed2446c396",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[2026 국감] 이주노동자 산재사망 78%는 영세 사업장서…안전 사각지대 여전",
@@ -2586,46 +1806,8 @@
    "cat": "acc",
    "id": "ffdb71cc7ae7",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "조달청, 한국보건산업진흥원과 협력 강화 ′보건산업 기업′ 해외 조달시장으로 판로 넓힌다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQd3liWXEyNUpTdEVBdWw1M3c5bGlYa2VRa1pkUUpEVEdyYUpJWGpMOE9abVNlVUg4T0laYUIxVnR1SThpSTlPNi1jREJ2ZUVneW9lMWVUcGRYclBxNTY1WnM3UmZVcktCZmlBOGtTNjFmUQ?oc=5",
-   "source": "프레스뉴스",
-   "published": "2026-09-28T13:55+09:00",
-   "cat": "hlt",
-   "id": "b0e9e540fa6f",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "IPARK현대산업개발, 안전·품질 관리에 AI·DX 활용 확대",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFByN3MwZGlzUEhpT2FCdEZ2ZWhWQWdYOXhEQWExczJWeEVheUJqdHFzTllwaFdxYk8wNEUxR2JRVmRPZHN4b21ieHQ5SW5hdTFXTmQ5OEFyVnJVLXdqU1lz0gFfQVVfeXFMUHI3czBkaXNQSGlPYUJ0RnZlaFZBZ1g5eERBYTFzMlZ4RWF5Qmp0cXNOWXBoV3FiTzA0RTFHYlFWZE9kc3hvbWJ4dDlJbmF1MVdOZDk4QXJWclUtd2pTWXM?oc=5",
-   "source": "경향신문",
-   "published": "2026-09-28T13:51+09:00",
-   "cat": "tech",
-   "id": "7dcebd3694c8",
-   "related": [
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtakFTU0FBczl0WndWVWE5ckNIWFhyWkVyVGZFME15eFFoeWJFRG11R0ctNXNfdWxWNUhJbF9mSXJUU1VrcHhObXVrREFiOXc?oc=5",
-     "title": "IPARK현대산업개발, 안전·품질 관리에 AI·DX 활용 확대"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "서울광역본부, '서울안전한마당'서 일상 속 안전 알리다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mZnk5NmV3Rm55dkFleXJ3MmlGdUF2WUE5NXppUVhPcjQyWlZKdWE0NC1ET2VjaGxFQnotMEpDb1ZxS0w2OVY3SUo3SHhzSVlKVWM2V21kOTAtaXhfSjlWZWRDRHRNTU9kRl9V?oc=5",
-   "source": "안전정보",
-   "published": "2026-09-28T13:46+09:00",
-   "cat": "tech",
-   "id": "2fc59ac6fd6b",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "무안군, 생활밀착형 안전문화 운동으로 중대재해 예방 적극 홍보 > 뉴스",
@@ -2647,18 +1829,8 @@
      "title": "무안군, 생활밀착형 안전문화 운동으로 중대재해 예방 홍보"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 안전에 170억원 추가 투입…'스마트 조선소' 고도화",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ESGlRYnZDOW5SYThTcmVzRFl1d3ZadEFHY1Z3bDZHWDlqc1lSWGpaSWVzLUkzb1F0dmhXZ1NYOV9xcHpQUUpsSGo1aUkyUmtnaE9UMFNaUEY5QkJlTC1INFp4ZnFQX0liclN4YlZQTVRMZ2PSAXNBVV95cUxNREhpUWJ2QzluUmE4U3Jlc0RZdXd2WnRBR2NWd2w2R1g5anNZUlhqWkllcy1JM29RdHZoV2dTWDlfcXB6UFFKbEhqNWlJMlJrZ2hPVDBTWlBGOUJCZUwtSDRaeGZxUF9JYnJTeGJWUE1UTGdj?oc=5",
-   "source": "화이트페이퍼",
-   "published": "2026-09-28T13:21+09:00",
-   "cat": "tech",
-   "id": "5267bb29b144",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "북부지방산림청, 3분기 산업안전보건위원회 개최",
@@ -2680,51 +1852,8 @@
      "title": "원주시, 3분기 산업안전보건위원회 개최"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 현장 안전관리 체질 바꾼다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ekZmNWlRR1QxV0JaWF94QV9ORVR5dEQwZWpJSFRVeFdhVUw5YVBaUUF5c1Q5YXRKRC1FckFXYkNUT1hEcHliLVFJSDZLdmZFdmxXX3BlS0JQTEM1bzFkUFRTUFN4R0hyOGZtYWZJYnNaS0txVkHSAXZBVV95cUxPNXpGZjVpUUdUMVdCWlhfeEFfTkVUeXREMGVqSUhUVXhXYVVMOWFQWlFBeXNUOWF0SkQtRXJBV2JDVE9YRHB5Yi1RSUg2S3ZmRXZsV19wZUtCUExDNW8xZFBUU1BTeEdIcjhmbWFmSWJzWktLcVZB?oc=5",
-   "source": "에너지타임뉴스",
-   "published": "2026-09-28T13:08+09:00",
-   "cat": "tech",
-   "id": "a4baec2cb11b",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "멈춘 로봇 점검하다 압착…식품공장 40대 노동자 숨져",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTjdid3pIZHlGZDJVMXhmb1I3UFBzcjQ0NjR6YmN3ZXdLQzJZSjl5RWltZ1RUNUxXR0VHdnVTeFBURkg2TS10YnI5Z2dVNE05cVJDbXo4NW80QXdHNU1YeDg5ZzV4YUo1NldicjgtbEU?oc=5",
-   "source": "비즈중앙",
-   "published": "2026-09-28T12:50+09:00",
-   "cat": "acc",
-   "id": "692b952b7ea7",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "올해 지붕 보수 작업 중 연이어 사망사고 발생해 경각심 촉구",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9VSlFOUUNMaFExTlhDbVlzSm5jbHcxX3YyRkZEdE9rOEZrdmpkZVRQUVdBR3ZoamtPQV9OLXotdTZGcFlBQWJSbktKQVVjS2lhbWtaaHRwajhZQWFWNkM0N2N2UDBfTElWUjNFbzVsM3IxNV9j0gF0QVVfeXFMT1VKUU5RQ0xoUTFOWENtWXNKbmNsdzFfdjJGRkR0T2s4Rmt2amRlVFBRV0FHdmhqa09BX04tei11NkZwWUFBYlJuS0pBVWNLaWFta1podHBqOFlBYVY2QzQ3Y3ZQMF9MSVZSM0VvNWwzcjE1X2M?oc=5",
-   "source": "sisayonhapnews.com",
-   "published": "2026-09-28T12:48+09:00",
-   "cat": "acc",
-   "id": "15be2f572bd2",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 170억 원 추가 투입해 현장 안전 체계 강화",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aUUo4TVlxbWhjZFJuUmZWLWw2NS1GNzRxWmx1Y3RydUo2N1J5cy15ejBTc0EwQmFjZFpsSWJNZlk1NS1sUjYwaHZxWktTbzlWVWRhS211blZCbjdlNnhvRE45X3N1UkR2?oc=5",
-   "source": "2news.co.kr",
-   "published": "2026-09-28T12:41+09:00",
-   "cat": "tech",
-   "id": "9a00ac1dfb7f",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "이용우 의원, 외국인 산재 30% 재외동포 F-4 비자 안전교육 사각지대 지적",
@@ -2735,18 +1864,8 @@
    "cat": "law",
    "id": "3a6736e0bed9",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "고용노동부, \"작업 전 안전모-안전대-안전띠 착용... 사다리 안전수칙 꼭 지켜주세요\" |",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzX2VJQWctYjY5YkljYkhMbDBiMS1qaEZnMnhvVHpNeC1aY0NkR1VYR2FyR0FlV3p4VHBBM2JKaEdoZVNIMXFyUDVjNW5NWVlUQzRXQWJnbTdIQi1ISXkyOVdETk5ZNGJIcE1XNl9n?oc=5",
-   "source": "아시아뉴스전북",
-   "published": "2026-09-28T12:36+09:00",
-   "cat": "law",
-   "id": "ec8b906d085a",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "추락·깔림 사망 반복…노동부, ‘3+1 안전수칙’ 집중점검",
@@ -2757,7 +1876,8 @@
    "cat": "acc",
    "id": "7629cdc52873",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "도봉구공단, VR 기술 접목한 재난훈련… 현장 근로자 안전사고 예방 총력",
@@ -2768,29 +1888,20 @@
    "cat": "tech",
    "id": "545dac227b0c",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "롯데건설, 자율주행 로봇으로 건설현장 자동화 확대…스마트건설 기술 고도화",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2R1VsUkNFMEZTS2NULWRVU2F0WV95WFFtQ2c1WW5FQTUtSUdONTQ4OU1ZNmhqeE9DLUdCcE52YlBjTWlROHZqbzhuak9BWWE0RXBVVzJMOTE2ZWpCMDFyN0N6RmxibFM1YXRzRE1KYVk?oc=5",
-   "source": "Korea IT Times",
-   "published": "2026-09-28T12:11+09:00",
-   "cat": "tech",
-   "id": "c47adac96f2d",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "잘라이, 학위 및 자격증 노동자 비율 상향 조정",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdklOUWpyU01mTkdqSm9VSnY0Z3k1SEYwazAxTlAxTlZhM05DOTJKZlQ2Wm5rREZuYTZlV0l0T1JFN0FzRzVvcGk4QnpPakpGdGlZR21lOGVqV21VNENLaE9zSDNoYjFFX2lkdzVWbzBuUEJsVHYxT0NXMy1fYTRMcnlhQm1Qd2U5UGp4YnZwZzR0djVYVUs5UA?oc=5",
-   "source": "Laodong.vn",
+   "source": "laodong.vn",
    "published": "2026-09-28T12:00+09:00",
    "cat": "hlt",
    "id": "8a9d61602740",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "영주시, 3분기 산업안전보건위 개최…근로환경 개선 집중 논의",
@@ -2805,9 +1916,25 @@
      "source": "웹이코노미",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1sS3lNcGpFU0tBSkg1QTg4aHI1VHBTdlJ2QzNLdGNFR2FIM2xQamlsTmw1Zk9tQVg2YjR4Xy1wMjVyalNvVUFjcFhVNGdINDhPUWpLamRPUDhqWlJfNFVsbVZQZ01xRUxmdUdoSlBIOV9BZw?oc=5",
      "title": "영주시, 산업안전보건위원회 개최…근로환경 개선 방안 논의"
+    },
+    {
+     "source": "시사뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zdThWU2VnUU45ekMwbzc4QXZqMlpqY2hMeEtOalloNWxDSTN1bjYzdWZreHgzaE5IeUZYcUpTYVVKODkyNEUxNWlDMEgtdmFFaVZIb2hvSmdDWTJnQ2RjcDlmQQ?oc=5",
+     "title": "영주시, 산업안전보건위원회 열고 근로환경 개선 논의"
+    },
+    {
+     "source": "검경일보",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1yaWZ6ekMyR3c2RVlIcDZuWkxpX3dVVjNibzB1LVRXV01TYUVaRFdOVmt2eWwzR2loZjNUZHhVNHBrLV8xMWNTaDFhVU9xT0Z3ZTF6VFcyWEs5ZjdFMW1OS0x3dVNpQQ?oc=5",
+     "title": "영주시, 산업안전보건위원회 열고 근로환경 개선 논의"
+    },
+    {
+     "source": "reporternside.com",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Cbmh6Qjg4aDRJSkJBdUpPMTF3cHd2N19SaEpwVW81U0FXelRpbl80dWdpTkJRVk9UMmQ5WmpXVHhhbDRBNjdrUmRlZmJBNVhCQ2IxdlgtZThVNnZNX3h0bFdLOVRya2hiSHBjS3ZRRTY5QQ?oc=5",
+     "title": "원주시, 3분기 산업안전보건위원회 개최"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "고성 식품공장서 로봇 끼임 사고…40대 노동자 숨져",
@@ -2819,7 +1946,7 @@
    "id": "53388e4bdadf",
    "related": [
     {
-     "source": "v.daum.net",
+     "source": "다음뉴스",
      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52SlJmVDJmNjcyNlQwdkJVbEVZdzlFUjJqZWJLbzVzXzZXZnhZRXl4LW54Q0VEckt0YVlnc2FrWEQxemNaNks1Wmh2SnZ2SGs?oc=5",
      "title": "고성 식품공장서 로봇 끼임 사고…40대 노동자 숨져"
     },
@@ -2827,9 +1954,35 @@
      "source": "LG헬로비전",
      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MQWg4OUx0dEhqYy1QODhrVi03TEp3dG56akJjOTlwZUEycHhNZmZFLXlRMkxETllxX1cyeEFCR0hnd3NiVzZ4Qmp5QTluRC1EdzlLaGFEUFBOcVlpNVgzQmstdmZmS0dEakZEeldYWmRad9IBdkFVX3lxTE9CX1hkbzZneDhtcGxETEQ0R1hWOXo4VWlnellhUU95em9VeTh3TDVhR0VyRXpJbnFWbGpBenhXV2tmZlRub0VLRWdhbE95NGpYdmpycVBCT1htemdtQjc5UEJOMTQ5aEpsZG5vNHBVbHFkbC1WTFE?oc=5",
      "title": "고성 식품공장서 로봇 끼임 사고…40대 노동자 숨져"
+    },
+    {
+     "source": "비즈중앙",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QTjdid3pIZHlGZDJVMXhmb1I3UFBzcjQ0NjR6YmN3ZXdLQzJZSjl5RWltZ1RUNUxXR0VHdnVTeFBURkg2TS10YnI5Z2dVNE05cVJDbXo4NW80QXdHNU1YeDg5ZzV4YUo1NldicjgtbEU?oc=5",
+     "title": "멈춘 로봇 점검하다 압착…식품공장 40대 노동자 숨져"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA4NWZLVlk4a242Vl9ZU3ltaTRuYXJhUjg1eVdNTi0wTFptVXpVSjFKem9ZbGNrNDFhSXJuUE1VR2QxdVhyT3JIMW80X0w1UEpHX0E?oc=5",
+     "title": "경남 고성 식품 공장서 끼임 사고…40대 사망 중대재해"
+    },
+    {
+     "source": "재경일보",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzUGVBdkV5SlFqVV9tRy1iZVRTaW91YzBjYzdLelhkRFk3bmtMeEZZT0M5T3hKSVFJYlYyWTZhcTJ6Mi1RWXM1MUVKaw?oc=5",
+     "title": "오뚜기SF 공장서 로보타이저 압착 사고' 참변' …40대 노동자 숨져 : 사회"
+    },
+    {
+     "source": "안전정보",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IT2FaS29IX0lXZEFtTGxiU2RGQVJxVjMwRXBKSmk4RjBKeFpRT1l5ZllISHBRSjU1TXBOemJ0RmRwZU5yNnljd0U4MjNhdHNNdHRPcXFBSlZucEs5Tk82ZVItMkEyS192cTlN?oc=5",
+     "title": "오뚜기SF 고성공장서 로봇 설비 끼임 사고… 40대 하청 노동자 끝내 사망"
+    },
+    {
+     "source": "더경남뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TY0U3STM2OERiUGdFS3hTa0FwYWQ4amE2RnBjS2t4ZzlzTlBfelk1eDhvdmZYZ0tsbWhHemE4UFNrZTJXOFpYcWNuam85ekJWMlVTdg?oc=5",
+     "title": "\"구역 내 작업자 못 보고 재가동\"···오뚜기 계열사 경남 고성 공장서 로봇 설비 낀 40대 노동자 숨져"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "양산시, 단계별 체계적 안전교육 ‘중대재해 Zero’ 총력",
@@ -2840,68 +1993,8 @@
    "cat": "acc",
    "id": "9aa4042d2f53",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "고용부, 전국 1000개 사업장 집중점검…“안전모·안전대·안전띠 제대로 착용”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE03Uml3d0FMc3oxekQzTGIxU2w2Z1BBWUJmZk1sZ3hZZ09rVXlOSWlZanZwaDJwYnVZR0JmbWE0SmNiNTBiX2VxMGhKMjc2dVZSeExtRTQ2ZmJLckNRUXc?oc=5",
-   "source": "한국재난안전뉴스",
-   "published": "2026-09-28T11:18+09:00",
-   "cat": "acc",
-   "id": "1f2e2f89ccbc",
-   "related": [
-    {
-     "source": "아웃소싱타임스",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBra3VRdVdhSDZDY3pHSVM5UXV5YmRKNmVQZVE3M3Z6VF9GaDJxZFNINFd6Q1JURDlzOERYd2ZzZ0dIa0JPeVlVclV5OFIzTmhodnJDREFydndzMzNrU3RLYnQ4VkVVdEo4eUUzNmVyN2J0QQ?oc=5",
-     "title": "[산업안전 뉴스] 안전모·안전대 안 지키면 과태료…노동부, 전국 1000개 사업장 집중점검"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "5년간 산재로 이주노동자 463명 사망...78%는 50인 미만 사업장",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjM2FMTnBjNGhGN3NGQ0RuRHZqVDlKendmSVVjamFHWmNBUkU5cDRZMWM1OVJ3S3d1YUFPNXZucjlCMWJZZjFsNG5fektuQjF4UERHNw?oc=5",
-   "source": "JTBC",
-   "published": "2026-09-28T11:17+09:00",
-   "cat": "acc",
-   "id": "549b30b3ed44",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "강남구, 공중이용시설 관리자 140명 ‘중대시민재해’ 대응력 높인다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9sM1VKaC15NGFwY19aT0tVb2pUQm5RYktGdGFmWGg4Rm5odFJzZDF6aHhqaDE2MkVMUkVpTm0tSHJHUE81Vy1Yc2dGeGJhdVRtVWRyblNqZnZuNHFmUVIxb3UxdE16MGUyU21WOWVB0gFyQVVfeXFMTkFVSXhXV0R2MkZ6cVZURGpGQlJETnVCN25fS0gxQVpQaWk3UE9OaFFsZGtER2FfYlpKX0Rqa2MwWE9RNVpjNHE4YUNoQTJMdl9pVkRvNHdrUF9WLW5JWnhTOWRIbHAwNnRRaGdnLXBYN2Vn?oc=5",
-   "source": "잡포스트",
-   "published": "2026-09-28T11:11+09:00",
-   "cat": "acc",
-   "id": "1546325fb3e5",
-   "related": [
-    {
-     "source": "강남내일신문",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sTHpodDFKeTRqbW10Q1BCdGhBWDdCbnVmTG9GSHZQWV9FRlRERHlfM1ZBVnhHZndsaUdEQjRWeE9XZjJsbU9aRUJuSm5JaFFiRHF3MjRTRkhaS21KMWxkOE5QV01aQ0U?oc=5",
-     "title": "중대시민재해 현장 대응력 높인다, 시설관리자 140명 집중교육"
-    },
-    {
-     "source": "gukjenews.com",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sU1RHdW8zSXMzM0MzLTk4MS1zNHNFX1N5MFQtSHNPQnFnUm5zaEVoYngzUVplUmdCWTNVT1BoRGZLbWpFTFFQYVlnUGJqMHNWRFlzcE1oSU5QWEhVX1g0N3ZBaXdVcWR1SlpNdmx3?oc=5",
-     "title": "강남구, 공중이용시설 관리자 140명 대상 중대재해 예방 교육 실시"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "37년 진폐증 투병 끝에 스스로 목숨 끊은 광부…법원 “업무상 재해”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xSlJLWEJXbDdrQXNnVW5Ud0lORHBVZXYtSW1zOVRoZlNfODJHbUhTdHRzX1A2UjJCMWQySEtjc0ZEa3l5emxGVm9XMGNVUFdqMkJXZFZETFJiNkEya2hTSXNwQzVRcDBvQkFVSUtvY1ZMUQ?oc=5",
-   "source": "한겨레",
-   "published": "2026-09-28T11:10+09:00",
-   "cat": "hlt",
-   "id": "78c72236c22a",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "박해철 의원, 외국인 노동자 중대재해 분석...경기 외국인 산재 사망 34명으로 가장 많아",
@@ -2912,18 +2005,8 @@
    "cat": "acc",
    "id": "b0c8107dfd05",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "“안개·폭설 알아서 감지”…K-도로안전기술, 혹한의 캐나다 뚫는다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkSE5HRTdOb05ZVlppZDFKSnRPSEZ3YWNjMkZsMWZaUGZqNFp5b1RlQ2c4d2tlekpkYnZ2OWpCWUVSMkxaWm5nei00Nko3UHdzT0Y2ellR?oc=5",
-   "source": "헤럴드경제",
-   "published": "2026-09-28T11:07+09:00",
-   "cat": "tech",
-   "id": "be070c3d7297",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "경남교육청, 현업업무종사자 대상 '찾아가는 안전보건교육' 실시",
@@ -2934,18 +2017,8 @@
    "cat": "hlt",
    "id": "3c185343e67b",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "이주노동자 산재 사망 78.2%가 50인 미만 사업장에 집중…최기상 의원, 사각지대 해소 촉구",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nM1pHU0lnVm8wbG9PVGFTUzU0VXB4enhJczRYNGVuUjRuSFBuaWtmQWVJbmIzY2psSGFKeGNoSVphV0VmRUJTWTNWaW9EVDJlZ2VFR0JSV1JTdHJsajcwRG9Kb3ZFbG1F?oc=5",
-   "source": "창업일보",
-   "published": "2026-09-28T11:05+09:00",
-   "cat": "acc",
-   "id": "4b77f60a33d5",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "외국인 노동자 무덤된 영세 사업장... 산재 사망 30% 휩쓴 재외동포",
@@ -2956,24 +2029,8 @@
    "cat": "acc",
    "id": "3c72dfb0076a",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 170억 추가 투자…스마트 안전체계·비전센서 도입 박차",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9wempFNTU5dDZjSjlhck9jWk9PYU9VR2pYcUhneXVocm8yZ09CcVl5TnhmVUdkaTVGaTVQQlZuT0JMSVl5dzZiZkdlRHp2OXFwbERoSl9ha3c4NnhKbVQ1WXB1RVVORFNjMUx5LVlB?oc=5",
-   "source": "gukjenews.com",
-   "published": "2026-09-28T11:04+09:00",
-   "cat": "tech",
-   "id": "83f4fd2b1d7d",
-   "related": [
-    {
-     "source": "딜라이트닷넷",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pbjlsTnBXT0JqR1QtNURnLWlhZ0wyckR0anlGemJZb1JiLTREaVFBb1pxTDB2LUxqWm9JVTdDZ1RGbFdTLWR1T2lKVHVqNVdUb2JWek5WZE5COWlwMVcxMXpPT0FzWUxySFdXTk1uWkZ4Z9IBckFVX3lxTE1pbjlsTnBXT0JqR1QtNURnLWlhZ0wyckR0anlGemJZb1JiLTREaVFBb1pxTDB2LUxqWm9JVTdDZ1RGbFdTLWR1T2lKVHVqNVdUb2JWek5WZE5COWlwMVcxMXpPT0FzWUxySFdXTk1uWkZ4Zw?oc=5",
-     "title": "HD현대중공업, 170억원 추가 투입…현장 스마트 안전체계 강화"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "가을철 지붕 공사 사망사고 잇따라…정부 '추락주의보' 발령",
@@ -2984,24 +2041,8 @@
    "cat": "acc",
    "id": "60410124939e",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "조선소 위험, AI·센서로 잡는다…HD현대重, 안전에 170억원 추가 투자",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wU0FaWXdkNFpSR0NORWRMOU9wU3BsU01fVW9wSE01MFZFTDViT1NxMC1KWHBJTnlxdHhtSDRHYUw1TVpmUDV1TkpiWDJzNTBEVi1LaA?oc=5",
-   "source": "이투데이",
-   "published": "2026-09-28T11:02+09:00",
-   "cat": "tech",
-   "id": "091ad14dd267",
-   "related": [
-    {
-     "source": "v.daum.net",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBraDlkOEtMUzVBUzNRTl9HVUtTNDRxUU5jQ0h2ZHNLRks0M2xxTjBuNUdDR2MwUEZYRVFiYVpIWmd6YkhIa0J5YkRlYw?oc=5",
-     "title": "조선소 위험, AI·센서로 잡는다…HD현대重, 안전에 170억원 추가 투자"
-    }
-   ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[ESG 현장점검] 두산밥캣 \"AI로 건설현장 바꾼다···'작업자 숙련도' 낮추고 생산성 높여\"",
@@ -3012,29 +2053,8 @@
    "cat": "tech",
    "id": "3f77cfcc079f",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "韓 도로안전 기술, 캐나다 로키산맥 혹한 환경서 실증",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oX0xYYnM3MHZUQzQwREp6V1ZrcTlXYVJOcVR6QlN6RTQyYUFibnhIblNRMm5vSzRNNlJmQjktcHRnRmpqTjVZbWp6dlE4Y1FST1ptMQ?oc=5",
-   "source": "DongA Science",
-   "published": "2026-09-28T11:00+09:00",
-   "cat": "tech",
-   "id": "7e8a94b2b1f0",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "K-도로안전기술, 혹한의 캐나다 북미시장 진출...현지형 솔루션 구축",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82MHhPQ2hOb2RYMUE2dFNqbmdKb2hFSHN3UnZTTXdObzJLRzFUdE1sV3NDVzFMRllTdlh1SEN2a2VVZFhMYmVlRlhwYUlfZUkxbHFWWmZsMlFrd0V4THdLazAwT3RnMF9lQU1yM9IBb0FVX3lxTE9GUUQzMUFVQTJfNDA4VXhUMzdNcnhaZ1k2MVVrSjBxekdydEVQUEMtZGZQUzhRZEpZdTNmZ1FCdklHWGpTZURwczU3cU9BMG9mYTU4eFhZaVZaYVNHV3g2bnpWUDdTVEtSaHp6QndLOA?oc=5",
-   "source": "중앙뉴스",
-   "published": "2026-09-28T11:00+09:00",
-   "cat": "tech",
-   "id": "46e2d06be513",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "추락·깔림 사고 차단…전국 1000곳 집중점검",
@@ -3045,35 +2065,8 @@
    "cat": "acc",
    "id": "af0b2394d401",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중공업, 170억 투자로 스마트 안전 기술 강화한다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vMGYzdVBvc0FxVVQ1LVBkSmVwcFBIZjVhR3dTenMydzVrRUVWa0ZJR3hjTGJXUXdEeURDanloQkRXdEZZNHJRNXJ4X0pOaXlSbXlaazNIUG9sT3lCeHRFdkFGZms1U0k?oc=5",
-   "source": "공감신문",
-   "published": "2026-09-28T10:51+09:00",
-   "cat": "tech",
-   "id": "94a52d770eb2",
-   "related": [
-    {
-     "source": "울산신문",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zUnBTaDBXSmVKcmdCUk9STUpaMFFyMHdzMk1PUXp1RDFIMjhYN3dEOXFjQTZhbjE5WFpISVhjb29lb004emNPbzVkcDlaUmJWTC1wdUpkWlVpUzJ2bHJUX0ZuVUFDWERReXlWbmZmY1FMQdIBckFVX3lxTE0zUnBTaDBXSmVKcmdCUk9STUpaMFFyMHdzMk1PUXp1RDFIMjhYN3dEOXFjQTZhbjE5WFpISVhjb29lb004emNPbzVkcDlaUmJWTC1wdUpkWlVpUzJ2bHJUX0ZuVUFDWERReXlWbmZmY1FMQQ?oc=5",
-     "title": "HD현대중, 170억 투자로 스마트 안전 기술 강화"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "경제수준 대비 높은 사고사망률... ‘안전 미스매치’의 원인은?",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5KQTRDVVNqREpZcUxjSlFVcE02cTNrX3RfbzJnZVdTUTRGR3FFdnRBamg5X3ZlVGFYdmw2UU4tS3FTVU80TlRfaVpIOE1hcEJETWJKZ3pTbWNpX190WWFIS19uSTJNdUVzSElnTmFTMHQ?oc=5",
-   "source": "안전신문",
-   "published": "2026-09-28T10:46+09:00",
-   "cat": "acc",
-   "id": "37fb3fc7fce4",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "노동부, 가을철 지붕·태양광 공사 추락사고 예방점검 실시…\"지붕 위 안전 확보 후 작업해야\"",
@@ -3083,19 +2076,15 @@
    "published": "2026-09-28T10:45+09:00",
    "cat": "law",
    "id": "d5e7d1a83d71",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "37년 진폐증 투병 끝 극단선택한 광부…법원 \"업무상 재해, 유족연금 지급하라\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBodHR3cmRtZTNiTlpncHIta3V6M3dSY2tLM09hczVHX2NwcThISUR2Wk1GM0I3SnA4SGVwNlZnTWNSOUJienp0LVltVXZTLXE0QjZfeGVIeTQ?oc=5",
-   "source": "뉴스법률",
-   "published": "2026-09-28T10:42+09:00",
-   "cat": "hlt",
-   "id": "1e444a16fed3",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "안전저널",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5MUxsaEtWQjkzRF9OZmNpYVVaM2hOd196ckllR0RIRWhBNy1XZ29lajFHVlV1R05TVW1kMkx5Q0dJZnE2MlFHNUNWS3JGa2YxeXZpOEN0VGNVMWoxSnVTdmh4NExzZ00?oc=5",
+     "title": "\"가을철 지붕·태양광 공사 시 추락사 주의하세요\""
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "강남구, '중대재해처벌법 5년차' 시설관리자 맞춤형 집중교육 실시",
@@ -3137,7 +2126,8 @@
      "title": "강남구, '중대재해처벌법 5년차' 시설관리자 맞춤형 집중교육 실시"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "중대재해처벌법위반죄에 대한 양형기준안 공개",
@@ -3148,7 +2138,8 @@
    "cat": "acc",
    "id": "0bd0f0865a1d",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "진폐증 투병 중 극단선택 탄광근로자…법원 “업무와 사망 인과관계”",
@@ -3159,7 +2150,8 @@
    "cat": "hlt",
    "id": "0e5dae08a39d",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "작년과 분위기 다르다…건설사 CEO '국감' 소환 핵심 중대재해 살펴보니",
@@ -3170,7 +2162,8 @@
    "cat": "acc",
    "id": "c14b20c7666c",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "오뚜기 자회사에서 로봇팔 점검하던 40대 노동자, 기계에 끼여 숨져",
@@ -3181,7 +2174,8 @@
    "cat": "acc",
    "id": "b3934029811f",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "올해 1분기 이주노동자 산재 사망 30명…28명은 50인 미만 사업장",
@@ -3192,7 +2186,8 @@
    "cat": "acc",
    "id": "ce46a25ddeda",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "5년간 이주노동자 463명 산재 사망…50인 미만에 78% ‘집중’ 사각지대",
@@ -3202,8 +2197,15 @@
    "published": "2026-09-28T10:36+09:00",
    "cat": "acc",
    "id": "372de0c7d122",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "창업일보",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nM1pHU0lnVm8wbG9PVGFTUzU0VXB4enhJczRYNGVuUjRuSFBuaWtmQWVJbmIzY2psSGFKeGNoSVphV0VmRUJTWTNWaW9EVDJlZ2VFR0JSV1JTdHJsajcwRG9Kb3ZFbG1F?oc=5",
+     "title": "이주노동자 산재 사망 78.2%가 50인 미만 사업장에 집중…최기상 의원, 사각지대 해소 촉구"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "HD현대중공업, 스마트 안전관리 체계 고도화 추진…170억 원 투입",
@@ -3248,53 +2250,15 @@
      "source": "경상일보",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45aEZNRDljc18tQlFyNThqamJKSkhuckF6OVo3RGZtTlhiQkc4Q1dQVnNkbm9xNGs5X3l0NlAwN21od1I4aS1aSjlEZU1OSHFpVGJZM18zb1pVdkg3bmZib0xKMV8zU192Qm1rdg?oc=5",
      "title": "HD현대중공업, 현장 안전관리 체계 고도화"
-    }
-   ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대重 현장서 즉시 작동하는 스마트 안전체계 구축 나서",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5yQV9Ra3NhRDVuUHc5NDV0aHdHcUJaNl9kcENLT2RsOHZ4cmIyWnVFanFfRDlRbFllczYyWjZ5VFlUd3hYdlkzOUhSYTV6aG85aW1ZQnFiTGZhM3AxclkzcEJvSmUwNDhHYnp3RmF6ckUxbDjSAXdBVV95cUxQdmdGZEY5c29KdUpxamF5TWFMNWZuOW03RllUNTlzWHNNNEtxOGsxMTFDRTRBVC1vRjljUlAzbUptbVJNRmF6NUJNeFhHUUx5ZEI4Ukh0OW1vMU03V0RjYnc1Smd2eDl1V2Q4b25UU1I1aDdyekU5TQ?oc=5",
-   "source": "핀포인트뉴스",
-   "published": "2026-09-28T10:31+09:00",
-   "cat": "tech",
-   "id": "43610260ced4",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "HD현대중, 현장 안전기술 확대 적용…올해 170억원 추가 투입",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9GSUlNRWROX0IwZko3TVU3cVFSZU5BdDNSS1JfT1NocjN6bGpwcDF2MUFXT01GVjRhQWwyblllS1dROFZVTjgyZE9WQ0U2WC14elVOdmpnWUVjZm_SAWBBVV95cUxPeVhvbkYzd0V5Z2NzR0RPYkFaU1FsVnN3QnpXNmdENnViYlVNSXBlb3FkQlBEakltc0F3dUhSRS1LcVFHVXBUUHdUUXpzSnRNaHQtWnhlWk9kRGdmMXFkTFk?oc=5",
-   "source": "연합뉴스",
-   "published": "2026-09-28T10:21+09:00",
-   "cat": "tech",
-   "id": "5870abcca467",
-   "related": [
-    {
-     "source": "ziksir.com",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE52V3ZQSG9aanZCZER5eTg3RzFoT1FLeFV5LU1INWVoV3hlNEJxODhjcTNzMXQ2d2p5V1NxVFBlczlBWUdwcVNkbGlfcnZOWXhlYlJweFZtWU5SZ0pBdVNTZ1FGQVB5N1RC0gFsQVVfeXFMTXQ4SmJnbWwzSHc1Tkw0clVtVFd2Vk9tenpzRkJoSzd2N1hQOEdsOWlaX0lkVk9wSldQR2hIdGUtTkc3SG12TmlXSkZLUWYxSlNhdkVQSVAtSnZ1TmhsSm85M0FnZXJBLWJCTEt1?oc=5",
-     "title": "HD현대중공업, 현장 안전기술 확대…올해 170억원 추가 투입"
     },
     {
-     "source": "한국경제",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5pTG4xUW14VmNRYUJaR09vSGtFQ3RuemtsR19HVWxzdVpsLVpXc1B6Ui1YdzE5bnZ4WHBzcVJDZEt1UzhBSS1NeUIwUUNZLTJKa1U1a3BFemlRUQ?oc=5",
-     "title": "HD현대중, 현장 안전기술 확대 적용…올해 170억원 추가 투입"
+     "source": "에너지타임뉴스",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81ekZmNWlRR1QxV0JaWF94QV9ORVR5dEQwZWpJSFRVeFdhVUw5YVBaUUF5c1Q5YXRKRC1FckFXYkNUT1hEcHliLVFJSDZLdmZFdmxXX3BlS0JQTEM1bzFkUFRTUFN4R0hyOGZtYWZJYnNaS0txVkHSAXZBVV95cUxPNXpGZjVpUUdUMVdCWlhfeEFfTkVUeXREMGVqSUhUVXhXYVVMOWFQWlFBeXNUOWF0SkQtRXJBV2JDVE9YRHB5Yi1RSUg2S3ZmRXZsV19wZUtCUExDNW8xZFBUU1BTeEdIcjhmbWFmSWJzWktLcVZB?oc=5",
+     "title": "HD현대중공업, 현장 안전관리 체질 바꾼다"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "안전모·안전대·안전띠에 ‘사다리’까지… 전국 1000곳 집중점검",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3YzJWMy1RMUxqTG5JNU9DcUxTRXhpMkRnVm8yemVlTHVKSktxRkhvcXFpR2YtTWM5UUZNaFYzZmx6Y05PWDRPWXVRZjJNYnBMTGxzMlZjajYtVXlIbzdxVVpLVTZwVFRwNVRwaTNQWUM?oc=5",
-   "source": "안전신문",
-   "published": "2026-09-28T10:17+09:00",
-   "cat": "law",
-   "id": "27608f37e2b5",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "반복 중대재해에 창사 첫 파업까지…장인화 포스코 회장, 연임 먹구름",
@@ -3305,7 +2269,8 @@
    "cat": "acc",
    "id": "43391d6ad0c1",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "대구 첨단요양병원, 'ISO' 안전보건경영시스템 인증 획득",
@@ -3315,19 +2280,15 @@
    "published": "2026-09-28T09:57+09:00",
    "cat": "tech",
    "id": "5eb8103764bf",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "금강주택, 안전경영·반부패경영 국제 인증 취득",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZQ1lfVFVnRzBjNGhmakVvc014bmRncjRfdk9iQzE3enVSUVNHRzBXWHZ0cFFFQnBlX2huLVg4YVhFZnZDVzU4QnJpc0VUNDRfb3MzS2lLOFhtUURWemhBdw?oc=5",
-   "source": "아시아경제",
-   "published": "2026-09-28T09:51+09:00",
-   "cat": "tech",
-   "id": "434d12c3e21d",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "데일리안",
+     "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQWHMwY2d5bUlRZU5PSWREQTNxcGNldjd0Zk9OV0lyanRKSnJuNWx4OFRxU2lRckFuRHdDYnRYQXUwN3JFbjZoTzE0M08zSV9ndTIwWHJrNWFKWGljWDNnWUtneWFQNnhCNnhlMUFSbWNxTWFJRzR5bXBtVy1Pdm9LdkhScFZyQU82UU5NU191U2IxLVZoeU44dHlXSEt2bE15SmZhNWFpSkZwaVVYdmZ4RkJFMmtqT2FoRWlseGlsYm8wLXB2S1R3OWFKN3JLX1J0YjZmR3lhZWJhcFFpV0lPaHA5WFRyR2xDbndaTzdEb2VqdGtPYmM3S1N4eFJQTnAxYUk1NmhqTF9NZmFXcHcwdDBlTk9pTjh6aExwRHh6dGNSVHNBWjMxV3BMMGNidw?oc=5",
+     "title": "해양박물관, 국제 안전보건경영시스템 ‘ISO45001’ 인증 획득"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "산재 사망했는데.. 수사 하세월",
@@ -3338,7 +2299,8 @@
    "cat": "acc",
    "id": "9df31262c7cc",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "방역본부, ISO 45001 갱신…안전보건경영체계 3년 연장",
@@ -3348,8 +2310,15 @@
    "published": "2026-09-28T09:42+09:00",
    "cat": "hlt",
    "id": "b93cc6f8030e",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "한돈뉴스",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfX2ZvbTJ5QW5yVUhBZ3FvcHNBRlJGWU9mNEM4T1hzWWJUTHM0VVN0anN2WDJKUUp5WTFpQ19FUXQzaC0wY25tMHlpWGQ3ZEFYcmd0LTJlVmlSdXFVZHVvbmtwclBrYklWZ1RnYtIBbEFVX3lxTFBfX2ZvbTJ5QW5yVUhBZ3FvcHNBRlJGWU9mNEM4T1hzWWJUTHM0VVN0anN2WDJKUUp5WTFpQ19FUXQzaC0wY25tMHlpWGQ3ZEFYcmd0LTJlVmlSdXFVZHVvbmtwclBrYklWZ1RnYg?oc=5",
+     "title": "위생방역본부, ISO 45001 갱신심사 ‘적합’… 4년간 안전보건체계 유지"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "환경미화원 산재 사망, 5년간 400명···대구·경북은 33명",
@@ -3366,18 +2335,8 @@
      "title": "환경미화원 산재 사망 5년간 400명, 경기·서울·경남 순"
     }
    ],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "스마트 도로안전 기술 '코스모스', 캐나다서 실증 착수",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOMW56dHJFeFFYeHdtYjBtbXotTHBWd0VkY3M0SUs3UnJKVkNkNU5JUnJWYnRwWGdnRjlXWDFvYkZXQXJVTlVIakN1YmViS0dEY1RXMkU5WjVPOXh1ZWoyZEtmTUJRbVRrbjNr?oc=5",
-   "source": "kscnews.co.kr",
-   "published": "2026-09-28T09:25+09:00",
-   "cat": "tech",
-   "id": "0aa2a1afefc3",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "아이에스동서, 안전관리자 신입·경력사원 채용",
@@ -3388,40 +2347,8 @@
    "cat": "tech",
    "id": "2b3d6bae8afb",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "“더 나은 삶 위한 로봇이 지향점… ‘엑스블 숄더’ 철저히 현장 중심”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45RTBEdGtIQlNoNU50TjBXZ1hnQW5VSk00b3pLdGFnbVlqVks3eWY5UENMdGxXNjYtZU9pdTM3c1RmTU96V2MzYk5CT3lBOElJ?oc=5",
-   "source": "문화일보",
-   "published": "2026-09-28T09:16+09:00",
-   "cat": "hlt",
-   "id": "dcbe8b62d134",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "‘K-해체산업’ 미래 조망… 첨단기술·안전해법 한자리에",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kcnMwMmpnLWh2cjhrS1g2ajEtb3FPbXRXYm1Ub1JUSmx6RGNHNk9TazRlRFA0alJDQkxMM2t2T3Z4aHV4U05VYjctcXZsZGlkV3kxMl9YMzZ3ZE44Nml6eEE5YWs?oc=5",
-   "source": "국토일보",
-   "published": "2026-09-28T09:12+09:00",
-   "cat": "tech",
-   "id": "55d73293d839",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "‘K-도로안전기술’, 캐나다 현지 실증 본격화… 북미시장 진출한다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51SndXNl9hTHFGdE9jbkpLN0R5QkpTUXpMRExrRUZ3Y1BtekpGblY1QXMzS1JqLXpfWFhBb1poWm0xSldfTWxyUUM2WDBLMm1wdVJZeWs3RWhSSWY2SlBmdXk1TQ?oc=5",
-   "source": "국토일보",
-   "published": "2026-09-28T09:08+09:00",
-   "cat": "tech",
-   "id": "d44194ff31ee",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "이주노동자 산재 사망 78% 소규모 사업장 집중…5년간 362명",
@@ -3432,7 +2359,8 @@
    "cat": "acc",
    "id": "e807c035961b",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "안전모·안전대·안전띠·사다리…노동부, 안전수칙 집중점검",
@@ -3442,8 +2370,15 @@
    "published": "2026-09-28T09:00+09:00",
    "cat": "acc",
    "id": "ac12b680a58a",
-   "related": [],
-   "day": "2026-09-28"
+   "related": [
+    {
+     "source": "아시아뉴스전북",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzX2VJQWctYjY5YkljYkhMbDBiMS1qaEZnMnhvVHpNeC1aY0NkR1VYR2FyR0FlV3p4VHBBM2JKaEdoZVNIMXFyUDVjNW5NWVlUQzRXQWJnbTdIQi1ISXkyOVdETk5ZNGJIcE1XNl9n?oc=5",
+     "title": "고용노동부, \"작업 전 안전모-안전대-안전띠 착용... 사다리 안전수칙 꼭 지켜주세요\" |"
+    }
+   ],
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "추락·끼임 사고 막는다…노동부, 전국 1000개 사업장 집중점검",
@@ -3454,18 +2389,8 @@
    "cat": "acc",
    "id": "ce544f1b3f62",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "탄광서 얻은 진폐증 앓다 우울증으로 사망한 광부 … 法 \"업무상 재해\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOFlZczQzNi1NZ2Q4OV9tYlltR2ZKWUpIb21NYllzVkQ0Yy1XcTRuR3BLdHlzTmdDZDNRZncxZjZLZVlKWk5rNjc4RDdReVEtVlNiSGt3MkZsS1ZHZHY0YVB3NjE3WjZYbkEwWWhXYnNNLUtzcWJtRUFKdHdudjJERNIBgAFBVV95cUxPOFlZczQzNi1NZ2Q4OV9tYlltR2ZKWUpIb21NYllzVkQ0Yy1XcTRuR3BLdHlzTmdDZDNRZncxZjZLZVlKWk5rNjc4RDdReVEtVlNiSGt3MkZsS1ZHZHY0YVB3NjE3WjZYbkEwWWhXYnNNLUtzcWJtRUFKdHdudjJERA?oc=5",
-   "source": "뉴데일리",
-   "published": "2026-09-28T08:47+09:00",
-   "cat": "hlt",
-   "id": "282a5c438e7c",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "이주노동자 산재 사망 463명 중 362명, 50인 미만 사업장서 발생",
@@ -3497,7 +2422,8 @@
      "title": "이주노동자 산재 사망 463명…78%가 50인 미만 사업장"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "진폐증 고통 극단선택, 법원 '업무상 재해' 인정…직업병 재해 범위 새 지평 : 책",
@@ -3508,18 +2434,8 @@
    "cat": "hlt",
    "id": "4f6a2aee792e",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "진폐증 37년 투병 끝 극단 선택…법원, '업무상 재해' 인정 : 건강",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyU0dEM05ZZU1yOGhkamh5a3oxRW1EWXZKUGNzOEM4eEdTS0h1eDBtUGZneS03c2Y0eU9CQ2d4bEtIVkoxVGVKSFp3?oc=5",
-   "source": "재경일보",
-   "published": "2026-09-28T07:30+09:00",
-   "cat": "hlt",
-   "id": "84b964cade97",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[와글와글 플러스] \"출퇴근길 매년 노동자 100명 넘게 사망\"",
@@ -3530,29 +2446,8 @@
    "cat": "acc",
    "id": "e14952001223",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "[판결] 폐 질환으로 우울증 악화돼 숨진 광부… 법원 “업무상 재해”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nWDRQWU1mRXlNR05CNDIwWTlaYUt4dzc5SWhsU2owUm1BX0lFSVlsalhOX2Y2elBfNnZPQ1IwVl9DT0FubXRRbTVZMDVaN1NvdHNaQkh1aU5DYXFZa21Fbjkzc2t3eFpwaXhKMkdR0gFyQVVfeXFMTzl6MXkySXN3MVVoM3o5aE1odDNUWl9STm5ldEM1em1GZHVwNkFlNVEtRlNZdm1ON1lVZDdoNmNhZXBRLXg5U3VjdkxVMk13MWx3VlNSRXVmd3VBMlJPa21VM2xDcE42eUpTSTI4WVZJRzFR?oc=5",
-   "source": "법률신문",
-   "published": "2026-09-28T07:05+09:00",
-   "cat": "acc",
-   "id": "57ea4070e456",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "\"작업하다 바지가 자꾸 찢어져요\"…한마디에 탄생한 '특별한 바지'",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBxdFNSUE95WWdRb19lMG81eDRsQ3J1RjJYR2lBUjM4TGRuMDZTVG16bU9ITk54SEs5bERuam9CeGVScmRDOWdrc2F0a0lNTU9jWTFfeDU1NzM0UW9vX0ZEQg?oc=5",
-   "source": "아시아경제",
-   "published": "2026-09-28T07:04+09:00",
-   "cat": "acc",
-   "id": "785b9a69c2c4",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "진폐증 요양 중 극단선택한 탄광 근로자…법원 \"유족연금 지급\"",
@@ -3563,62 +2458,20 @@
    "cat": "hlt",
    "id": "cdcc794315bb",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "탄광서 진폐증 얻고 37년 후 극단 선택…法 \"업무상 재해\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WMWk3SHB2eGtuQjBaNkMyeE5nLUlacTRZQ25nN0RVMVo4d21JcDViVnFkVTJ4VXdDVFNWVUZKUDg0SzdIWlFwYW1DN2h2akhoYm14QTZpMi1nOGxNQXNTa3hiU0piZlFwWl9Nb1lpV0d1cUwxNWVWadIBeEFVX3lxTE9WMWk3SHB2eGtuQjBaNkMyeE5nLUlacTRZQ25nN0RVMVo4d21JcDViVnFkVTJ4VXdDVFNWVUZKUDg0SzdIWlFwYW1DN2h2akhoYm14QTZpMi1nOGxNQXNTa3hiU0piZlFwWl9Nb1lpV0d1cUwxNWVWaQ?oc=5",
-   "source": "뉴시스",
-   "published": "2026-09-28T07:00+09:00",
-   "cat": "hlt",
-   "id": "b519868fc610",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "진폐증 장기 투병하다 극단 선택한 광부…法 “업무상 재해”",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2bENITGMyMkhhd2JKN1BFZ1I1OV9nbW5HbE1GQ3E2ckZJQmZ5aUhqWUJFRmtCV1ZqLUxydXRuRHE2eDVmc3Q0bW5fcjFGNk1CQ3fSAVNBVV95cUxPbmhjNkJlYjRWRUJiQWp5cDlxVEJjai0wdEs1bHJpVFN0OVBMT0Qyc3pXNWVndTFod2NaZHAxSEJBZkpnMEhaRXBtZXN6QVdBaWVhMA?oc=5",
-   "source": "sedaily.com",
-   "published": "2026-09-28T07:00+09:00",
-   "cat": "hlt",
-   "id": "c08a58d8bc36",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "탄광서 진폐증 얻은 뒤 스스로 목숨 끊어… 법원 \"업무상 재해\"",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFJVRnVzdHJlY2NReUkxQ1dYRU0zVnp4aHNLSVlBN3o0VlctVE8yTkU1cTQ5eWVhdUY0TlVYZVFWWUNVWlpINnZoT1p4S2lBYnB0VFA3cmlzM1hxYktQWVhUeW5sMkZnNmo2Z2J4RWt2bkNWX0tYbFpGUVBRWHFsTA?oc=5",
-   "source": "edaily.co.kr",
-   "published": "2026-09-28T07:00+09:00",
-   "cat": "hlt",
-   "id": "c8dc6293db49",
-   "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "한·베 협력사업단, 베트남서 ‘K-스마트 건설안전’ 간담회",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1jS0xlaEUxUVVJeFRaSnk2VFd1c2hLX1d6U3lUVWU0WmJPYUZJLUt2MjgweWdUdDZiUEdoM2lqUXd1ZllRNkt2R0lOY091YVBGYVlxeTdGOHMwVEF2TTA1SjdSd3Rob3lVdVR4b2lITWJFeXFn?oc=5",
-   "source": "대한경제",
-   "published": "2026-09-28T06:00+09:00",
-   "cat": "tech",
-   "id": "d4a99368a76c",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "[단독]외국인도 한국인도 아닌 '그 사이'…산재 사망 1위는 동포",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBISXMzTjNaNjBnMm44VHRoRGpxOGpOMnpnUUZGWDV4V2pzV2pPMnFBRHJOSWY5UDhRRVBJR3NrT3hRSG11YVZmaml0NGJxOVE?oc=5",
-   "source": "v.daum.net",
+   "source": "다음뉴스",
    "published": "2026-09-28T05:03+09:00",
    "cat": "acc",
    "id": "9873882bc119",
    "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "말뿐인 안전은 부족! 중대재해처벌법에 대해 알아봅시다",
@@ -3629,18 +2482,8 @@
    "cat": "acc",
    "id": "f11157af6cc9",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "2026 한국건설·안전박람회서 AI 기반 3D 모션평가 솔루션 선보인다",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0xOVBTS1JyYkRQZ1E1VjBkY0dYQkhtd1Q0dHZDQ3U0dE11STlaRzY2eFd3XzdnOXA4QVpuQWxEZmh0N0xxcHU4cmNQTmJGUGNjbTJjZFY1U3p1UHRncTZsSlBIbHpSWjVjX3FpWnRR?oc=5",
-   "source": "koreasprint.com",
-   "published": "2026-09-28T01:22+09:00",
-   "cat": "tech",
-   "id": "d5409219069b",
-   "related": [],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "5년간 산업재해로 숨진 이주노동자 463명…10명 중 8명은 50인 미만 사업장",
@@ -3665,9 +2508,30 @@
      "source": "safetoday.kr",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rQmdOam1jd3V0TVRTOEdTcEoyMC1lODdGX0dsOERrZjBsYTUtT05tcEV3azFGaUxUTF9hdTFZNU1zRzRRRmRCUDlHM2R4ZUl2Q1pWUFJGQVlWWHZqU0diVUVIUzNOQm9UQmt1bHFn0gFuQVVfeXFMTmtCZ05qbWN3dXRNVFM4R1NwSjIwLWU4N0ZfR2w4RGtmMGxhNS1PTm1wRXdrMUZpTFRMX2F1MVk1TXNHNFFGZEJQOUczZHhlSXZDWlZQUkZBWVZYdmpTR2JVRUhTM05Cb1RCa3VscWc?oc=5",
      "title": "최기상 의원 “5년간 산업재해로 숨진 이주노동자 463명”"
+    },
+    {
+     "source": "JTBC",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBjM2FMTnBjNGhGN3NGQ0RuRHZqVDlKendmSVVjamFHWmNBUkU5cDRZMWM1OVJ3S3d1YUFPNXZucjlCMWJZZjFsNG5fektuQjF4UERHNw?oc=5",
+     "title": "5년간 산재로 이주노동자 463명 사망...78%는 50인 미만 사업장"
+    },
+    {
+     "source": "다음뉴스",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YbkF6c2o2TDFldkFjZ3lBaE5jR3NaVjUwQ2I0YkpxQ1FjRUNXRmRTcmZjWUVFZkhFaExXb1dCam9mTXNPR2JsTlpxckdlcmc?oc=5",
+     "title": "산재로 숨진 이주노동자 78%…50인 미만 사업장서 나왔다"
+    },
+    {
+     "source": "매일노동뉴스",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MVTh3TlQwQ25PcFpDQ0lKRFZ3OXdkVHMwU2hlcDNuWWpQZ3gxQzh6S1g0RXNPNHdZbW01R0lXMEIzX243QTU5M3lUVmVOQ29meGNER0diS0I1NE5aODV5QlhnMnBEN2NFMDRfZ2h1RnI?oc=5",
+     "title": "산재로 숨진 이주노동자 78% 50명 미만 사업장서 일해"
+    },
+    {
+     "source": "아시아뉴스통신",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uUG5sNEc2d3dwMDZoU3BNX3V2VjFwUlZ3Mk51MWtWQVQ5Sm02UEZmLUE3WnM0Y1dKU3FEdHZBQWdMTUduc285eEY2THp2NXFLcWhrekZaQm9Tc29Bdm1DNHRrOVdqTlktLWlveGk3dTdNQU9B?oc=5",
+     "title": "5년간 산업재해로 숨진 이주노동자 463명…10명 중 8명은 50인 미만 사업장서 발생"
     }
    ],
-   "day": "2026-09-28"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "외국인 노동자 중대재해 사망 102명 중 73%가 추락·깔림·끼임",
@@ -3678,18 +2542,8 @@
    "cat": "acc",
    "id": "98a8b001e526",
    "related": [],
-   "day": "2026-09-28"
-  },
-  {
-   "title": "[상생경영 특집] 17년째 ‘어린이 교통안전’ 투명우산 나눔",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QMGJXZzUwUG9mX0JqXzJHaUxPSFZXeE0tbktxbXprcjNEanNoajFZNHdmTnVtazd3dW5DR01Ka1Z1djg1bUFCNUl1UWdMemRROG1xddIBVEFVX3lxTE9QMGJXZzUwUG9mX0JqXzJHaUxPSFZXeE0tbktxbXprcjNEanNoajFZNHdmTnVtazd3dW5DR01Ka1Z1djg1bUFCNUl1UWdMemRROG1xdQ?oc=5",
-   "source": "세계일보",
-   "published": "2026-09-27T23:45+09:00",
-   "cat": "tech",
-   "id": "079e547fca37",
-   "related": [],
-   "day": "2026-09-27"
+   "day": "2026-09-28",
+   "watch": []
   },
   {
    "title": "울산 남구, 산업 근로자 안전보건위",
@@ -3700,7 +2554,8 @@
    "cat": "hlt",
    "id": "b570065325db",
    "related": [],
-   "day": "2026-09-27"
+   "day": "2026-09-27",
+   "watch": []
   },
   {
    "title": "좋은땅출판사 ‘재난안전관리론’ 출간",
@@ -3711,7 +2566,8 @@
    "cat": "law",
    "id": "8efb8925daac",
    "related": [],
-   "day": "2026-09-27"
+   "day": "2026-09-27",
+   "watch": []
   },
   {
    "title": "퇴직 소방공무원도 특수건강진단 지원하나…경기도 조례 제정 논의",
@@ -3722,29 +2578,8 @@
    "cat": "hlt",
    "id": "df32dc9623c6",
    "related": [],
-   "day": "2026-09-27"
-  },
-  {
-   "title": "[기고] 사각지대 메우는 부산형 현장 안전망",
-   "summary": "",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fcVVNRV9fOEFGUHdndERXUHU3NVVtU1VKaG1LRjFoWmNkZ3RibXdzQW02MFdBcWhSVUNZUG5KMGp2RTR5ME1xc3pPWHV6YnlsR0F4MXpXMWd2X2dOSFg1UlJueklvaUp5N3pfRWpfSHBMSzJl?oc=5",
-   "source": "부산일보",
-   "published": "2026-09-27T18:12+09:00",
-   "cat": "acc",
-   "id": "079e7267d5c7",
-   "related": [],
-   "day": "2026-09-27"
-  },
-  {
-   "title": "건설 현장 AI CCTV값, 올해부터 산안비로 100% 쓴다",
-   "summary": "고시 개정으로 스마트 안전장비 구입·임대비 인정 비율이 70%에서 100%로, 사용 한도는 산안비 총액의 10%에서 20%로 확대.",
-   "url": "https://kmjournal.net/news/articleView.html?idxno=13613",
-   "source": "KMJ",
-   "published": "2026-09-26T00:00+09:00",
-   "cat": "tech",
-   "id": "8feaa012f2ef",
-   "related": [],
-   "day": "2026-09-26"
+   "day": "2026-09-27",
+   "watch": []
   },
   {
    "title": "‘중대재해 사망사고’ 최대 징역 15년…첫 양형기준 나왔다",
@@ -3761,7 +2596,8 @@
      "title": "“중대재해 사망사고 최대 징역 15년”… 대법원, 첫 양형기준 마련"
     }
    ],
-   "day": "2026-09-22"
+   "day": "2026-09-22",
+   "watch": []
   },
   {
    "title": "[2026 대경 스마트건설대상] 안전대상 에스아이네트",
@@ -3772,7 +2608,8 @@
    "cat": "tech",
    "id": "1a8935007fad",
    "related": [],
-   "day": "2026-09-16"
+   "day": "2026-09-16",
+   "watch": []
   },
   {
    "title": "하이테크 건설현장 스마트안전기술 한자리에…10월 15일 스마트안전테크데이",
@@ -3783,7 +2620,8 @@
    "cat": "tech",
    "id": "e9b9b145aad0",
    "related": [],
-   "day": "2026-09-15"
+   "day": "2026-09-15",
+   "watch": []
   },
   {
    "title": "고용노동부 2026년 하반기 업무추진방향의 주요 내용 및 시사점",
@@ -3794,7 +2632,8 @@
    "cat": "law",
    "id": "323caf0df7d7",
    "related": [],
-   "day": "2026-09-04"
+   "day": "2026-09-04",
+   "watch": []
   },
   {
    "title": "산재는 반복되고 감독관은 급증, 원청교섭은 혼선…2026 국감 노동 3대 쟁점",
@@ -3805,7 +2644,8 @@
    "cat": "law",
    "id": "849a9383c465",
    "related": [],
-   "day": "2026-09-04"
+   "day": "2026-09-04",
+   "watch": []
   },
   {
    "title": "위험성평가 중심으로 화학물질 관리 체계 전환…노동부, 세미나 개최",
@@ -3816,7 +2656,8 @@
    "cat": "hlt",
    "id": "ec4672354b1b",
    "related": [],
-   "day": "2026-07-24"
+   "day": "2026-07-24",
+   "watch": []
   }
  ]
 }
