@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-29T18:25+09:00",
+ "updatedAt": "2026-09-29T18:30+09:00",
  "categories": [
   {
    "id": "acc",
@@ -225,7 +225,13 @@
    "published": "2026-09-29T15:58+09:00",
    "cat": "tech",
    "id": "fc274079bb07",
-   "related": [],
+   "related": [
+    {
+     "source": "ekn.kr",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE80SlNDMmVSWk9pam9qWmZ0OEtyZm8zTll5RkN0ajE1RmlBTE5reW9qQ1MtMktwanZ1R1Iwb3VzWV9RNzdhc21nR0xEUmRaRmhRaVpvemVldGpMVnR3Smx2d2FESQ?oc=5",
+     "title": "안전보건공단, 옴부즈만 회의 통해 제도개선 과제 논의"
+    }
+   ],
    "day": "2026-09-29",
    "watch": []
   },
@@ -1013,6 +1019,18 @@
    "watch": []
   },
   {
+   "title": "오뚜기 자회사 고성공장서 로봇 끼임 사고···작업자 1명 숨져",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oYTc3M2dtVEVfQU9uUWx3ZFFBbWVBeHZsM1lkdS1ZWUR1cjU2cUtud3lOSzRJVmZMbnNtaFNPcFRzQlBZeFdMMWFRWVJMemUxS2prVkhfbl9XZGFhbTVCZG9SQVFGTTRjR1NJ0gFrQVVfeXFMTWhhNzczZ21URV9BT25RbHdkUUFtZUF4dmwzWWR1LVlZRHVyNTZxS253eU5LNElWZkxuc21oU09wVHNCUFl4V0wxYVFZUkx6ZTFLamtWSF9uX1dkYWFtNUJkb1JBUUZNNGNHU0k?oc=5",
+   "source": "현대경제신문",
+   "published": "2026-09-28T23:17+09:00",
+   "cat": "acc",
+   "id": "95fb5d17762c",
+   "related": [],
+   "day": "2026-09-28",
+   "watch": []
+  },
+  {
    "title": "울산지역 잇단 추락사 사고에 산업현장 안전점검 강화",
    "summary": "",
    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWMnBodnBuMmxtLXEzRXctUzg2R003QmFNbFdyd21BOEdMQWlkRXl6eUhQUTVpdnJmSHdqN2tNRDdZb1ZuNXdUZXluWllPNHB3TUpSUjNpZ3g4czl6WDZNc3pVUkhYdVVpdFhsbW9KSTlSZ9IBckFVX3lxTFBWMnBodnBuMmxtLXEzRXctUzg2R003QmFNbFdyd21BOEdMQWlkRXl6eUhQUTVpdnJmSHdqN2tNRDdZb1ZuNXdUZXluWllPNHB3TUpSUjNpZ3g4czl6WDZNc3pVUkhYdVVpdFhsbW9KSTlSZw?oc=5",
@@ -1068,7 +1086,13 @@
    "published": "2026-09-28T19:41+09:00",
    "cat": "acc",
    "id": "8c8a3e460a61",
-   "related": [],
+   "related": [
+    {
+     "source": "fntoday.co.kr",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56X0xuekd4NW1hMEJnNW9XVjcyeXNSM2JFYUNqbHBPZlRUakNBUXp1QVZQVVlpWllWRlhvWTU5WllrR3V3cXZicENHQ1l4WC1ncHdLeWxNUGREWmlybjBvczhIY1RPU0owdWpvYw?oc=5",
+     "title": "[최종국 칼럼] 중대재해 예방, ‘위험성평가’부터 다시 점검해야 한다!"
+    }
+   ],
    "day": "2026-09-28",
    "watch": []
   },
@@ -1450,6 +1474,11 @@
      "source": "SR타임스",
      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51N2s1aDVBeVkxbHNmTmxTLXh5QkpNUWRmbVI0RkVLUE5ZWk1yTXZBWGx5M0hqdWRDa0o0Y09HUWJGQVVvRkVLTUoxY3EwYW5YTWVXTHlCSmhwR0x2VlREUndtNWRlWnFBbnRZ0gFrQVVfeXFMTnU3azVoNUF5WTFsc2ZObFMteHlCSk1RZGZtUjRGRUtQTllaTXJNdkFYbHkzSGp1ZENrSjRjT0dRYkZBVW9GRUtNSjFjcTBhblhNZVdMeUJKaHBHTHZWVERSd201ZGVacUFudFk?oc=5",
      "title": "가스공사, KOGAS 안전보건환경 경영방침 선포식…5대 실천방향 제시"
+    },
+    {
+     "source": "프레시안",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XdTUySEZYMHdvSXBqRllBQ0NfMXprSnJ6b0NwUDAzbkhRalNyMHVWUkdMNlBmNVptQzFtN29abVpuNUlaT1paQVAxZEhza0RBLWhCMDBEQnRJb0NZN3cxanJKa1MzQzBWQ25J?oc=5",
+     "title": "한국가스공사, 'KOGAS 안전보건환경 경영방침' 선포"
     }
    ],
    "day": "2026-09-28",
@@ -1613,6 +1642,11 @@
      "source": "연합인포맥스",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52dXdHQ1JvRkFjLXNhdUsxWWsyUGV0VWhVMlFoRE1JZ0tGeUFDX0hwaTA4QThza3pqRU5Ib3JCVnNhLTFlbTVVOERjLVpVdkxvRFU2LTdEVG5rYTBkbXIyMTdXVjFNWS1rV2V4dThINFo?oc=5",
      "title": "가스公, '안전 경영 최우선' 선포…홍의락 사장 \"중대재해 근절\""
+    },
+    {
+     "source": "뉴스후플러스",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBibzRlUGdyUFRlRTk0eEg1VlZMY0liak9va21hUlgtakhLSkVVUlZneU9vRXA3X0QwanQzR1czVnRxZU5LZW9PVmVSYUIxWnVnMV9BeWxmWmNocWlxZVBKMkxvcXpBSjZad2hZemlR?oc=5",
+     "title": "가스공사, ‘안전 최우선’ 경영방침 선포…중대재해 근절 다짐"
     }
    ],
    "day": "2026-09-28",
@@ -1852,6 +1886,18 @@
      "title": "원주시, 3분기 산업안전보건위원회 개최"
     }
    ],
+   "day": "2026-09-28",
+   "watch": []
+  },
+  {
+   "title": "낡은 채광창·슬레이트 밟았다가…가을철 지붕공사 ‘추락주의보’",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKS3VUYlpnbFNHWWdYYWgxVlBvOUdoR29VNzRWaWRHX3p0d2dGbEFXdkZJX0FDSk5Cc1hiNFlwM1pZUHBuRHduUUpEMTRfVE1yYVNULXBENDRnQnAt?oc=5",
+   "source": "supple.kr",
+   "published": "2026-09-28T12:52+09:00",
+   "cat": "acc",
+   "id": "902e0d0fca6a",
+   "related": [],
    "day": "2026-09-28",
    "watch": []
   },
@@ -2600,6 +2646,36 @@
    "watch": []
   },
   {
+   "title": "[2026 국감] 1000억 안전투자 약속했는데 또 사고…허영인 SPC 회장 국감 증인대 오르나",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFByU2dtZ2NFTkxkUzczbV9Jc2dUcFJ6dm5pQXF4ZGctS1Y3R1VTRnpNb25uVlNjOUJYRExRZTROZ3gweHJ4TWx1RGQxby01ZEliTTM4NlpmVzR1aU5WcEhtay1OVDdDVzhxQTBmYU5MTERZSHRoNUk4?oc=5",
+   "source": "하이뉴스",
+   "published": "2026-09-21T17:15+09:00",
+   "cat": "law",
+   "id": "3b2c9aac1bc7",
+   "related": [],
+   "day": "2026-09-21",
+   "watch": [
+    "SPC",
+    "허영인"
+   ]
+  },
+  {
+   "title": "[2026 국감] 허영인 SPC 회장, ‘안전 1000억’ 약속…1155억 쓰고도 산재 반복",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE90cFNFdnVaUTJKS1I3SUFlSG5qd0QxbHFsVU50b2FYLWFBWnZKN0dSeU9mdzNOYXJhR2Itb1RRTzhqVWxkd1FrNUE1ZUkyWV9xblRTWWFBdDRSWlAtSE4ySG80dVY?oc=5",
+   "source": "livesnews.com",
+   "published": "2026-09-17T16:36+09:00",
+   "cat": "law",
+   "id": "d2f96e34efc3",
+   "related": [],
+   "day": "2026-09-17",
+   "watch": [
+    "SPC",
+    "허영인"
+   ]
+  },
+  {
    "title": "[2026 대경 스마트건설대상] 안전대상 에스아이네트",
    "summary": "공사현장 안전관리 업무를 온라인으로 처리하는 현장안전관리프로그램이 스마트안전대상을 수상. 300여 건설사가 활용 중.",
    "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202609120143480230705",
@@ -2624,6 +2700,20 @@
    "watch": []
   },
   {
+   "title": "[K-기업, 가치를 잇다] 모두의 행복과 건강 추구하는 상미당홀딩스, 나눔 실천부터 인재 육성까지 ‘꽉’잡아",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIU25lczZGNjA5TGFQSGE0UFpON3pQYUJuMlk4UWduVHNPRDBaSWdnQjNnOFBsal9lRElaaE13clgtMmJFTGlxcTdhTkdKRDlMNGZpOVpRTlFaMEFrYXhfMy1GUnZady1uVVVMRTMyR04?oc=5",
+   "source": "투데이코리아",
+   "published": "2026-09-07T16:00+09:00",
+   "cat": "acc",
+   "id": "3a056d4f9b4f",
+   "related": [],
+   "day": "2026-09-07",
+   "watch": [
+    "상미당"
+   ]
+  },
+  {
    "title": "고용노동부 2026년 하반기 업무추진방향의 주요 내용 및 시사점",
    "summary": "동일유형 재해가 반복된 183개 기업을 7월부터 밀착관리하고, 재발 시 특별감독 수준 점검. 작업중지권 요건 완화, 원·하청 공동 산업안전보건위원회 확대 등 법 개정도 연내 추진.",
    "url": "https://www.lawtimes.co.kr/news/articleView.html?idxno=225837",
@@ -2646,6 +2736,21 @@
    "related": [],
    "day": "2026-09-04",
    "watch": []
+  },
+  {
+   "title": "SPC그룹 허영인 오너 일가 산업안전투자 무시하고 적자기업에서 배당 잔치 : 노동자 안전보다 승계가 우선",
+   "summary": "",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90Z3NjbmRvVk45Z2ZUdW9hZWp0eEtNMjg3dzREWmotTjRWa1NpVDJwSHNjMEpkYzVnUzVKWWVtcjVQRVphUGZXY09KWDFHLURneGh5YUxzSQ?oc=5",
+   "source": "허프포스트코리아",
+   "published": "2026-09-01T16:00+09:00",
+   "cat": "acc",
+   "id": "d55250f59a63",
+   "related": [],
+   "day": "2026-09-01",
+   "watch": [
+    "SPC",
+    "허영인"
+   ]
   },
   {
    "title": "위험성평가 중심으로 화학물질 관리 체계 전환…노동부, 세미나 개최",
