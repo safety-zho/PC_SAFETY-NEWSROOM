@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T09:24+09:00",
+ "updatedAt": "2026-09-30T10:17+09:00",
  "categories": [
   {
    "id": "acc",
@@ -27,7 +27,7 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 12
+   "count": 18
   },
   {
    "id": "3640af1da079",
@@ -36,19 +36,100 @@
    "source": "뉴시스",
    "cat": "law",
    "day": "2026-09-30",
+   "count": 4
+  },
+  {
+   "id": "fd717d5e8b32",
+   "title": "디에이치 클래스트서 중대재해..낙하물에 맞아 사망",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
+   "source": "스마트투데이",
+   "cat": "acc",
+   "day": "2026-09-30",
    "count": 3
   },
   {
-   "id": "d9c933f5e580",
-   "title": "작년 산재 신청 18만5천건 역대최다…60세이상 승인율 70%대 그쳐",
-   "url": "https://www.yna.co.kr/view/AKR20260929169000001?input=1195m",
-   "source": "연합뉴스",
-   "cat": "hlt",
+   "id": "0509deb03f9c",
+   "title": "수익성 챙기기 승부수…정인호 삼립 대표 “2030년 영업익 1700억 달성한...",
+   "url": "https://theviewers.co.kr/View.aspx?No=4246078",
+   "source": "theviewers.co.kr",
+   "cat": "tech",
+   "day": "2026-09-30",
+   "count": 2
+  },
+  {
+   "id": "425c8c005a9e",
+   "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장",
+   "url": "https://www.news1.kr/industry/general-industry/6305464",
+   "source": "뉴스1",
+   "cat": "law",
    "day": "2026-09-30",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "삼립·던킨, 글로벌 사업 확대 추진·가맹사업 상생경영 강화...성장세 ...",
+   "summary": "삼립의 2026년 1~8월 누적 재해율은 0.48%로 식품업계 평균 재해율인 0.99%(2025년 기준, 한국산업안전보건공단 자료)보다 낮은 수준으로 나타났다. 삼립은 안전관리 체계를 지속 고도화해 안전경영을 더욱 강화해 나갈...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=318946",
+   "source": "wsobi.com",
+   "published": "2026-09-30T10:12+09:00",
+   "cat": "tech",
+   "id": "be8a2a85689c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": [
+    "삼립",
+    "던킨"
+   ]
+  },
+  {
+   "title": "충북도, 10월 산업재해 예방 맞춤교육…위험성평가-안전관리 집중",
+   "summary": "충북도는 10월 6일부터 산업재해 예방과 안전한 근무 환경 조성을 목표로 맞춤형 안전·보건교육을 진행한다고 밝혔다. 이번 교육은 위험성평가 실무 담당자, 도급·용역·위탁사업 담당자, 현업업무 작업을 관리·감독하는...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708993",
+   "source": "국제뉴스",
+   "published": "2026-09-30T09:50+09:00",
+   "cat": "law",
+   "id": "714d9a343c24",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "박해철 의원, ‘산재 다발’ 사업장 들여다보니… 배민·쿠팡 계열사 줄...",
+   "summary": "있는지 국정감사에서 철저히 살펴보겠다”고 밝혔다. 산재 승인율이 높다는 사실만으로 개별 기업의 안전관리 부실을 단정하기는 어렵다. 사업장 규모와 고용 형태, 업무 특성, 산재 신청 활성화 정도 등도 함께...",
+   "url": "https://www.dailyt.co.kr/newsView/dlt202609300007",
+   "source": "dailyt.co.kr",
+   "published": "2026-09-30T09:50+09:00",
+   "cat": "law",
+   "id": "d9ba24aef319",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "박해철 \"고령 노동자 산재신청 7만건 돌파...승인율은 77%대로 급락\"",
+   "summary": "또한, 산재 사망자 대부분이 고령층인 현실을 고려할 때 현행 산재 인정체계가 고령 노동자의 노동환경과 직업성 질환을 제대로 반영하지 못하고 있다고 지적했다.사진=국제뉴스DB 박해철 더불어민주당 의원은 고령...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708969",
+   "source": "국제뉴스",
+   "published": "2026-09-30T09:44+09:00",
+   "cat": "acc",
+   "id": "38bd3cc7f81d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대구시 서구청, 올해 하반기 작업환경측정 실시...근로자 건강 보호 강...",
+   "summary": "작업환경측정은 산업안전보건법 제125조에 따라 소음, 분진, 화학물질 등 작업 중 발생할 수 있는 유해인자에... 고용노동부 평가 A등급 이상 전문 작업환경측정 기관이 주요 유해인자에 대한 노출 수준을 분석할 예정이다....",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708952",
+   "source": "국제뉴스",
+   "published": "2026-09-30T09:26+09:00",
+   "cat": "hlt",
+   "id": "bdc7fb6c4309",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "울산항 사망재해 작업관리 부실 42.95%... 울산항만공사·울산해수청 항...",
    "summary": "이번 교육은 항만안전특별법과 중대재해처벌법 시행에 맞춰 항만 현장의 산업재해를 예방하고 안전관리... 사망재해 원인을 분석하고, 2026년 위험성평가 제도 개정 내용과 현장 안전관리 개선 사례를 소개했다. 이...",
@@ -81,7 +162,13 @@
    "published": "2026-09-30T09:18+09:00",
    "cat": "tech",
    "id": "0509deb03f9c",
-   "related": [],
+   "related": [
+    {
+     "source": "newsinside.kr",
+     "url": "https://www.newsinside.kr/news/articleView.html?idxno=5012946",
+     "title": "정인호 삼립 대표 \"향후 18개월이 전환점\"…2030년 영업익 1700억 목표"
+    }
+   ],
    "day": "2026-09-30",
    "watch": [
     "삼립"
@@ -107,7 +194,13 @@
    "published": "2026-09-30T09:15+09:00",
    "cat": "law",
    "id": "425c8c005a9e",
-   "related": [],
+   "related": [
+    {
+     "source": "아이뉴스24",
+     "url": "http://www.inews24.com/view/2010233",
+     "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -143,7 +236,13 @@
    "published": "2026-09-30T09:00+09:00",
    "cat": "law",
    "id": "2249eadaea1f",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/09/30/AV6AZUSCJJBNNCAXFLA5D7DYEE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "노동부, 신규 화학물질 63종 공표…22종 유해·위험성 확인"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -165,6 +264,11 @@
      "source": "데일리안",
      "url": "https://www.dailian.co.kr/news/view/1696006/?sc=Naver",
      "title": "신규화학물질 63종 중 22종서 유해성 확인…환기·보호구 조치"
+    },
+    {
+     "source": "쿠키뉴스",
+     "url": "https://www.kukinews.com/article/view/kuk202609300027",
+     "title": "신규화학물질 63종 중 22종 유해성 확인…노동부, 사업장 보호조치 통보"
     }
    ],
    "day": "2026-09-30",
@@ -178,7 +282,13 @@
    "published": "2026-09-30T09:00+09:00",
    "cat": "hlt",
    "id": "a7183a7b81aa",
-   "related": [],
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/603730?ref=naver",
+     "title": "신규화학물질 63종 유해성·위험성 공표"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -259,6 +369,36 @@
      "source": "전자신문",
      "url": "https://www.etnews.com/20260930000035",
      "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
+    },
+    {
+     "source": "아시아경제",
+     "url": "https://view.asiae.co.kr/article/2026093009412190618",
+     "title": "㈜한진, 노동부 출신 최종석 신임 정책기획 부사장 선임"
+    },
+    {
+     "source": "디지털데일리",
+     "url": "https://www.ddaily.co.kr/page/view/2026093009215663273",
+     "title": "한진, 부사장직 신설…최종석 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "ksg.co.kr",
+     "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148160",
+     "title": "한진, 최종석 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20260930048200030?input=1195m",
+     "title": "한진, 정책기획담당 부사장 신설…최종석 전 안전보안실장 선임"
+    },
+    {
+     "source": "newsquest.co.kr",
+     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301766",
+     "title": "한진, 신임 정책기획담당 부사장에 최종석 선임…대내외 환경 대응 역량..."
+    },
+    {
+     "source": "thebigdata.co.kr",
+     "url": "https://www.thebigdata.co.kr/view.php?ud=2026093010005192360ecbf9426b_23",
+     "title": "한진, 정책기획담당 부사장 신설…최종석 전 CSO 선임"
     }
    ],
    "day": "2026-09-30",
@@ -320,7 +460,18 @@
    "published": "2026-09-30T07:44+09:00",
    "cat": "acc",
    "id": "fd717d5e8b32",
-   "related": [],
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03086486645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "‘디에이치 클래스트’ 현장서 중대재해…낙하물에 노동자 사망"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://news.tf.co.kr/read/economy/2371123.htm",
+     "title": "현대건설, '디에이치 클래스트' 현장서 중대재해 발생"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -558,6 +709,18 @@
    "watch": []
   },
   {
+   "title": "9월 5주 주요 제조업 전망",
+   "summary": "29일 중대재해처벌법 위반(산업재해치사) 혐의로 기소된 김철희 전 대표와 산업안전보건법 위반 등 혐의를 받는 전 군산공장장과 세아베스틸에 대한 결심 공판을 함. 결심 공판에서 검찰은 김철희 전 대표에 징역...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41564",
+   "source": "laborplus.co.kr",
+   "published": "2026-09-29T22:52+09:00",
+   "cat": "acc",
+   "id": "67e54abf19f8",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
    "title": "서초 아파트 공사장서 콘크리트 떨어져 노동자 사망…중처법 위반 여부...",
    "summary": "사고가 난 현장은 중대재해처벌법 적용 대상으로 시공사는 현대건설입니다. 참고인 조사를 시작한 경찰은 업무상 과실치사 혐의 적용 가능성 등을 검토하고, 고용노동부는 중대재해처벌법 위반 여부 등을 수사할...",
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775568&plink=ORI&cooper=NAVER",
@@ -661,6 +824,11 @@
      "source": "포쓰저널",
      "url": "http://www.4th.kr/news/articleView.html?idxno=2118876",
      "title": "현대건설 서초구 아파트 현장 노동자 사망…중대재해법 위반 수사"
+    },
+    {
+     "source": "meconomynews.com",
+     "url": "https://www.meconomynews.com/news/articleView.html?idxno=202073",
+     "title": "서초구 아파트 건설 현장서 사망사고... 중대재해법 조사"
     }
    ],
    "day": "2026-09-29",
@@ -679,6 +847,11 @@
      "source": "뉴스토마토",
      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315181&inflow=N",
      "title": "서초구 공사현장서 콘크리트 붕괴…30대 노동자 사망"
+    },
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065572682059287",
+     "title": "서울 서초구 아파트 공사장서 천장 콘크리트 붕괴…작업자 1명 사망"
     }
    ],
    "day": "2026-09-29",
@@ -697,6 +870,11 @@
      "source": "MBC",
      "url": "https://imnews.imbc.com/news/2026/society/article/6854841_36918.html",
      "title": "서초구 아파트 건설현장서 30대 외국인 노동자 사망‥중대재해 조사"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20260930000226",
+     "title": "반포 아파트 현장서 외국인 노동자 낙하물 맞아 사망"
     }
    ],
    "day": "2026-09-29",
@@ -710,7 +888,13 @@
    "published": "2026-09-29T21:20+09:00",
    "cat": "acc",
    "id": "e232893204e0",
-   "related": [],
+   "related": [
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=134416",
+     "title": "서초구 건설현장서 중대재해 발생...노동자 1명 사망"
+    }
+   ],
    "day": "2026-09-29",
    "watch": []
   },
