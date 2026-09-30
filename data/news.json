@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T11:16+09:00",
+ "updatedAt": "2026-09-30T12:18+09:00",
  "categories": [
   {
    "id": "acc",
@@ -27,7 +27,16 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 25
+   "count": 26
+  },
+  {
+   "id": "02a434d9eeb2",
+   "title": "HJ중공업 건설부문, 협력사 CEO 30곳 초청 안전보건 간담회 개최",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366332",
+   "source": "ftoday.co.kr",
+   "cat": "acc",
+   "day": "2026-09-30",
+   "count": 8
   },
   {
    "id": "fd717d5e8b32",
@@ -39,15 +48,6 @@
    "count": 6
   },
   {
-   "id": "02a434d9eeb2",
-   "title": "HJ중공업 건설부문, 협력사 CEO 30곳 초청 안전보건 간담회 개최",
-   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366332",
-   "source": "ftoday.co.kr",
-   "cat": "acc",
-   "day": "2026-09-30",
-   "count": 4
-  },
-  {
    "id": "3640af1da079",
    "title": "신규화학물질 22종서 유해성 확인…노동부, 명칭 공표",
    "url": "https://www.newsis.com/view/NISX20260930_0003808022",
@@ -57,16 +57,138 @@
    "count": 4
   },
   {
-   "id": "425c8c005a9e",
-   "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장",
-   "url": "https://www.news1.kr/industry/general-industry/6305464",
-   "source": "뉴스1",
-   "cat": "law",
+   "id": "cce8c688594d",
+   "title": "서초 현대건설 디에이치 클래스트 건설 현장서 근로자 1명 사망",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437009",
+   "source": "einfomax.co.kr",
+   "cat": "acc",
    "day": "2026-09-30",
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "민주당, 내일 산안법·도시정비법 처리…\"필리버스터 종결 안 해\"",
+   "summary": "민주당이 내일 처리를 추진하는 산업안전보건법 개정안은 연간 3명 이상 사망사고가 발생한 기업에 영업이익의 최대 5%를 과징금으로 부과하는 내용을, 도시 및 주거환경정비법 개정안은 민간 재건축·재개발 사업의...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109462",
+   "source": "bbsi.co.kr",
+   "published": "2026-09-30T12:10+09:00",
+   "cat": "law",
+   "id": "88f5bf84a91a",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "HJ중공업, 협력사 30곳과 안전보건 간담회…'건설기계 체크리스트'도 전...",
+   "summary": "이번 간담회는 회사의 안전보건 정책과 중점 추진 방향을 협력사와 공유하고 현장 중대재해 예방을 위한 협력체계를 강화하기 위해 마련됐다. 협력사 CEO 안전보건 간담회 사진.[사진=HJ중공업 제공] 행사는 1·2부로 나눠...",
+   "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=318949",
+   "source": "updownnews.co.kr",
+   "published": "2026-09-30T12:02+09:00",
+   "cat": "acc",
+   "id": "25e5cd99282c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대구 서구, 근로자 작업환경 유해요인 살핀다",
+   "summary": "산업안전보건법 제125조에 따라 작업환경측정은 소음과 분진, 화학물질 등 유해인자에 대한 근로자 노출... 고용노동부 평가 A등급 이상 전문 기관이 유해인자 노출 수준을 분석한다. 서구는 측정 결과에 따라 작업환경...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=868951",
+   "source": "한스경제",
+   "published": "2026-09-30T12:02+09:00",
+   "cat": "law",
+   "id": "a34b5c4cb9ae",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "노동자 1명 쓰는 데 월 668만원…기업 규모 간 격차 다시 커졌다",
+   "summary": "식사비용이 9만 2천 원(30.5%)으로 가장 많았고, 교통·통신지원비용 3만 1천 원(10.2%), 건강·보건비용 2만 2천 원(7.4%) 순이었다. 산업별로는 금융 및 보험업의 1인당 노동비용이 1210만 원으로 가장 많았다. 이어...",
+   "url": "https://www.nocutnews.co.kr/news/6584987?utm_source=naver&utm_medium=article&utm_campaign=20260930120059",
+   "source": "노컷뉴스",
+   "published": "2026-09-30T12:01+09:00",
+   "cat": "hlt",
+   "id": "593151f18bba",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한국청소년활동진흥원, 직원 12명이 AX 도구 12종 개발…AI로 위험성평가...",
+   "summary": "내부 'AX 리더'는 행정안전부와 한국지능정보사회KYWA(NIA)이 추진하는 'AI 챔피언' 블루 인증을 받은 직원 3명으로 구성됐다. 리더 1명이 챌린저 4명을 맡아 기술과 데이터 관련 문제 해결을 돕는다. 지난 8월 사전...",
+   "url": "https://www.newspim.com/news/view/20260930000103",
+   "source": "뉴스핌",
+   "published": "2026-09-30T12:00+09:00",
+   "cat": "tech",
+   "id": "720d68cea96d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "예산군, 2026년 3분기 산업안전보건위원회 정기회의 개최",
+   "summary": "▲ 2026년 3분기 산업안전보건위원회 정기회의 모습 충남 예산군은 지난 9월 29일 군 소속 근로자의 산업재해... 주요 심의안건으로는 △예산군 안전보건관리체계 및 안전보건관리규정 개정안 △관리감독자 지정체계...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2443814",
+   "source": "충청일보",
+   "published": "2026-09-30T11:46+09:00",
+   "cat": "law",
+   "id": "dc6410231c95",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "경복대 산업안전보건학과, 자격·실습·디지털 역량으로 취업 성과 잇따...",
+   "summary": "생성형 AI와 디지털 도구를 활용해 산업보건관리 비서와 연간 로드맵 자동화 대시보드를 기획·제작한 경험도 갖췄다. 이번 취업 성과는 안전관리 직무가 현장 점검과 법정 서류 관리에 머물지 않고, 위험을 미리 찾아...",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855159",
+   "source": "newsworks.co.kr",
+   "published": "2026-09-30T11:40+09:00",
+   "cat": "hlt",
+   "id": "00e14074d6ef",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[굿모닝! 30일 식품업계 소식] 대상·롯데웰푸드·농심·삼립·서울우유",
+   "summary": "기존 HACCP 관리체계를 기반으로 위해요소 관리뿐 아니라, 고의적·의도적인 식품안전사고를 예방하기 위해 식품방어, 식품사기 예방, 식품안전문화 및 식품안전경영 등의 항목을 포함해 관리하는 시스템이다. 인증을...",
+   "url": "https://www.goodkyung.com/news/articleView.html?idxno=291871",
+   "source": "goodkyung.com",
+   "published": "2026-09-30T11:38+09:00",
+   "cat": "tech",
+   "id": "60bcc1064a26",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": [
+    "삼립"
+   ]
+  },
+  {
+   "title": "HJ중공업, 협력사와 현장 안전관리 강화…중대재해 예방 총력",
+   "summary": "HJ중공업 건설부문이 주요 협력사와 중대재해 예방을 위한 안전보건 관리 강화에 나섰다. HJ중공업은 서울 남영사옥에서 주요 협력사 30개사 CEO를 초청해 '2026년도 협력사 CEO 안전보건 간담회'를 개최했다고 30일 밝혔다....",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=320552",
+   "source": "더퍼블릭",
+   "published": "2026-09-30T11:30+09:00",
+   "cat": "acc",
+   "id": "ca2911b8ad9b",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "2년 새 노동자 4명 숨졌는데 \"인과관계 없다\"…징역 5년 구형받은 세아...",
+   "summary": "중대재해처벌법 위반 혐의다. 법인에는 벌금 5억 5천만 원, 산업안전보건법 위반 등으로 재판에 넘겨진 당시 군산공장장에게는 징역 3년을 구형했다. 선고는 11월 24일 오전 열린다. 2년 사이 세 번의 사고, 4명이 숨졌다...",
+   "url": "https://lawtalknews.co.kr/article/35K1W2A2YGQI",
+   "source": "lawtalknews.co.kr",
+   "published": "2026-09-30T11:22+09:00",
+   "cat": "acc",
+   "id": "da4c3687889a",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "박해철 의원 \"산재 반복 사업장, 작업환경·안전관리 체계 점검해야\"",
    "summary": "중요한 것은 애초에 노동자가 다치지 않도록 만드는 것\"이라며 \"산재가 반복되는 사업장에 대해서는 원인을 제대로 분석하고 실효성 있는 예방 대책이 작동하고 있는지 국정감사에서 철저히 살펴보겠다\"고 밝혔다.",
@@ -123,7 +245,13 @@
    "published": "2026-09-30T11:01+09:00",
    "cat": "acc",
    "id": "2d75a90d5d84",
-   "related": [],
+   "related": [
+    {
+     "source": "smarttimes.co.kr",
+     "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49341",
+     "title": "현대건설 반포 '디에이치 클래스트'서 노동자 사망…이달 두 번째 중대..."
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -234,6 +362,26 @@
      "source": "뉴스1",
      "url": "https://www.news1.kr/realestate/general/6305789",
      "title": "HJ중공업, 협력사 CEO와 안전보건 간담회…중대재해 예방 협력"
+    },
+    {
+     "source": "smarttimes.co.kr",
+     "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49339",
+     "title": "HJ중공업 건설부문, 협력사 30곳 CEO와 안전보건 간담회 개최"
+    },
+    {
+     "source": "100ssd.co.kr",
+     "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=213125",
+     "title": "HJ중공업 건설부문, 협력사 CEO 초청 '안전보건 간담회' 실시"
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://www.mt.co.kr/estate/2026/09/30/2026093011125546798",
+     "title": "HJ중공업, 협력사 CEO 안전보건 간담회…중대재해 예방 협력"
+    },
+    {
+     "source": "한국경제",
+     "url": "https://www.hankyung.com/article/202609304407i",
+     "title": "HJ중공업, 협력사 30곳 CEO와 안전보건 간담회"
     }
    ],
    "day": "2026-09-30",
@@ -659,6 +807,11 @@
      "source": "financialpost.co.kr",
      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278009",
      "title": "한진, '정책기획담당 부사장' 신설… 최종석 전 안전보안실장 선임"
+    },
+    {
+     "source": "ilyoseoul.co.kr",
+     "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523158",
+     "title": "한진, 최종석 부사장 선임... 정책 대응 컨트롤타워 세운다"
     }
    ],
    "day": "2026-09-30",
@@ -677,6 +830,16 @@
      "source": "비즈니스포스트",
      "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448252",
      "title": "현대건설 중대재해 발생, 디에이치 클래스트 건설 현장서 노동자 1명 사..."
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491388",
+     "title": "현대건설 디에이치 클래스트 현장서 근로자 사망…올해 세 번째 중대재..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://www.newsis.com/view/NISX20260930_0003808683",
+     "title": "현대건설, '반포 디에이치 클래스트' 현장서 작업자 1명 사망"
     }
    ],
    "day": "2026-09-30",
