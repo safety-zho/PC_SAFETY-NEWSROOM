@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T08:20+09:00",
+ "updatedAt": "2026-09-30T09:24+09:00",
  "categories": [
   {
    "id": "acc",
@@ -21,43 +21,273 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "cff4175eff5d",
-   "title": "산재 신청 60세 이상 최다…승인율은 77.5% ‘하락’",
-   "url": "https://www.segye.com/newsView/20260930502915?OutUrl=naver",
-   "source": "세계일보",
-   "cat": "hlt",
-   "day": "2026-09-30",
-   "count": 1
-  },
-  {
-   "id": "5ff3151c8870",
-   "title": "외국인 노동자 사망, 현대건설 아파트 현장서 발생한 충격적 사고 원인...",
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=879971",
-   "source": "gokorea.kr",
-   "cat": "acc",
-   "day": "2026-09-30",
-   "count": 1
-  },
-  {
-   "id": "6ba9889ac9fc",
-   "title": "임미애 의원, 산재 사각지대 농업인 안전·재해 예방체계 마련...첫 제정...",
-   "url": "https://www.newspim.com/news/view/20260930000052",
-   "source": "뉴스핌",
+   "id": "4ab0ca6bc1df",
+   "title": "한진, 최종석 신임 정책기획담당 부사장 선임⋯정책 대응 강화",
+   "url": "https://www.etoday.co.kr/news/view/2630670",
+   "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 1
+   "count": 12
   },
   {
-   "id": "68ccc2e855bb",
-   "title": "고소 점검·철거 작업도 로봇이 ‘척척’… 인간 작업자 사고 위험 노출...",
-   "url": "https://www.viva100.com/article/20260916500698",
-   "source": "브릿지경제",
-   "cat": "tech",
+   "id": "3640af1da079",
+   "title": "신규화학물질 22종서 유해성 확인…노동부, 명칭 공표",
+   "url": "https://www.newsis.com/view/NISX20260930_0003808022",
+   "source": "뉴시스",
+   "cat": "law",
    "day": "2026-09-30",
-   "count": 1
+   "count": 3
+  },
+  {
+   "id": "d9c933f5e580",
+   "title": "작년 산재 신청 18만5천건 역대최다…60세이상 승인율 70%대 그쳐",
+   "url": "https://www.yna.co.kr/view/AKR20260929169000001?input=1195m",
+   "source": "연합뉴스",
+   "cat": "hlt",
+   "day": "2026-09-30",
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "울산항 사망재해 작업관리 부실 42.95%... 울산항만공사·울산해수청 항...",
+   "summary": "이번 교육은 항만안전특별법과 중대재해처벌법 시행에 맞춰 항만 현장의 산업재해를 예방하고 안전관리... 사망재해 원인을 분석하고, 2026년 위험성평가 제도 개정 내용과 현장 안전관리 개선 사례를 소개했다. 이...",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=106766",
+   "source": "newskr.kr",
+   "published": "2026-09-30T09:20+09:00",
+   "cat": "law",
+   "id": "07c7053bd028",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "그들의 싸움이 우리에게 도착했다… 산재·직업병 알린 원진레이온에서...",
+   "summary": "그동안 ‘중풍’으로 여겼던 병이 이황화탄소 중독에서 비롯된 직업병일 수 있음을 알게 된 것이다. 긴... 누가 직업병 환자인지를 두고 다시 싸워야 했다. ‘비유해부서’에서 일했던 김봉환씨가 산재요양 신청조차 하지...",
+   "url": "https://h21.hani.co.kr/arti/society/society_general/59964.html",
+   "source": "한겨레",
+   "published": "2026-09-30T09:20+09:00",
+   "cat": "hlt",
+   "id": "07a9a46ddeaf",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "수익성 챙기기 승부수…정인호 삼립 대표 “2030년 영업익 1700억 달성한...",
+   "summary": "삼립의 2026년 1~8월 누적 재해율은 0.48%로 식품업계 평균 재해율인 0.99%(2025년 기준, 한국산업안전보건공단 자료)보다 낮은 수준으로 나타났다. 삼립은 안전관리 체계를 지속 고도화해 안전경영을 더욱 강화해 나갈...",
+   "url": "https://theviewers.co.kr/View.aspx?No=4246078",
+   "source": "theviewers.co.kr",
+   "published": "2026-09-30T09:18+09:00",
+   "cat": "tech",
+   "id": "0509deb03f9c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": [
+    "삼립"
+   ]
+  },
+  {
+   "title": "[이상홍의 원전 없는 나라] 송영길 의원은 선을 넘지 마시라",
+   "summary": "온 국민이 지켜보는 가운데 대통령이 산재 사망사고를 직접 챙기는 모습이 여러 번 있었고, 민주노총 위원장 출신의 노동부 장관은 직을 걸겠다고 다짐했다. 2025년 한 해에만 605명의 노동자가 산업재해로 사망했으니...",
+   "url": "https://vop.co.kr/A00001696912.html",
+   "source": "vop.co.kr",
+   "published": "2026-09-30T09:16+09:00",
+   "cat": "acc",
+   "id": "693bf41d4b8b",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장",
+   "summary": "행정고시에 합격해 고용노동부 사무관으로 공직을 시작했으며 대통령실 고용노사비서관실 행정관... 정책기획담당도 겸직하며 사내 안전보건 체계 구축과 대내외 경영 전략 기획 업무를 맡아왔다. 한진은 최 부사장이...",
+   "url": "https://www.news1.kr/industry/general-industry/6305464",
+   "source": "뉴스1",
+   "published": "2026-09-30T09:15+09:00",
+   "cat": "law",
+   "id": "425c8c005a9e",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "살충제 속 화학물질 수백 종, 유방암 위험 높일 수 있어",
+   "summary": "아울러 이번 데이터가 대기오염이나 살충제 비산으로 유방암 위험 화학물질에 많이 노출되는 노동자나 지역주민을 대상으로 한 후속 연구를 설계하는 데에도 활용될 수 있으며, 여성 인력이 이러한 화학물질에...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=616770",
+   "source": "mdtoday.co.kr",
+   "published": "2026-09-30T09:14+09:00",
+   "cat": "hlt",
+   "id": "c974fbff4810",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[기고-신유림]로봇은 인증받았는데 로봇셀은 안전한가",
+   "summary": "그러나 세계 최고 수준의 로봇 보급이 곧 세계 최고 수준의 안전을 의미하지는 않는다. 2026년 4월 고용노동부의 재해 승인 통계를 인용해 보도한 내용에 따르면 2014년부터 2024년까지 산업용 로봇을 기인물로 한 산업재해...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250781",
+   "source": "안전신문",
+   "published": "2026-09-30T09:12+09:00",
+   "cat": "law",
+   "id": "b2b4291711af",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "노동부, 신규화학물질 63종 공개…22종서 급성독성·피부과민성 등 확인",
+   "summary": "산업안전보건법에 따르면 신규화학물질을 제조하거나 수입하려는 사업자는 원칙적으로 제조·수입 30일 전까지 노동부에 유해성·위험성 조사보고서를 내야 한다. 제조·수입량이 1t 미만이면 제출기한은 14일...",
+   "url": "https://www.ajunews.com/view/20260930084704306",
+   "source": "아주경제",
+   "published": "2026-09-30T09:00+09:00",
+   "cat": "law",
+   "id": "2249eadaea1f",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "신규화학물질 22종서 유해성 확인…노동부, 명칭 공표",
+   "summary": "고용노동부는 2026년 3분기 신규화학물질 63종의 명칭과 유해성·위험성, 노동자 건강장해 예방을 위한 사업장 조치사항 등을 30일 공표했다. 현행 산업안전보건법에 따르면 신규화학물질을 제조하거나 수입하려는...",
+   "url": "https://www.newsis.com/view/NISX20260930_0003808022",
+   "source": "뉴시스",
+   "published": "2026-09-30T09:00+09:00",
+   "cat": "law",
+   "id": "3640af1da079",
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://biz.heraldcorp.com/article/10888326?ref=naver",
+     "title": "신규화학물질 63종 중 22종 유해성 확인…노동부, 보호조치 통보"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://www.dailian.co.kr/news/view/1696006/?sc=Naver",
+     "title": "신규화학물질 63종 중 22종서 유해성 확인…환기·보호구 조치"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "노동부, 신규화학물질 63종 유해·위험성 공표…안전조치 통보",
+   "summary": "오영민 노동부 안전보건감독국장은 \"노동자 건강보호를 위해 신규화학물질의 유해성·위해성 정보에 대한 인지와 선제적 안전보건 조치가 필수적\"이라며 \"사업주는 예방 조치를 준수하고 노동자 역시 기본 수칙을...",
+   "url": "https://www.yna.co.kr/view/AKR20260929153100530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-09-30T09:00+09:00",
+   "cat": "hlt",
+   "id": "a7183a7b81aa",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "정인호 대표 \"삼립, 향후 18개월 체질개선 승부\"…D-커머스·냉동생지 키...",
+   "summary": "및 독립적 검증 강화 등 4대 영역 10대 핵심과제를 연내 완료할 계획이다. 올해 1~8월 누적 재해율은 0.48%로, 식품업계 평균 재해율 0.99%(2025년 기준, 한국산업안전보건공단 자료)보다 낮은 수준이라고 삼립은 밝혔다.",
+   "url": "https://www.newspim.com/news/view/20260930000183",
+   "source": "뉴스핌",
+   "published": "2026-09-30T08:52+09:00",
+   "cat": "tech",
+   "id": "b3d002b56be0",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": [
+    "삼립"
+   ]
+  },
+  {
+   "title": "한진, 최종석 신임 정책기획담당 부사장 선임⋯정책 대응 강화",
+   "summary": "대외 유관기관과의 네트워크 강화와 안전보건 체계 고도화, 상생적 노사관계 구축 등 ESG 경영 관련 업무도... 행정고시 합격 후 고용노동부 사무관으로 공직을 시작해 대통령실 고용노사비서관실 행정관...",
+   "url": "https://www.etoday.co.kr/news/view/2630670",
+   "source": "이투데이",
+   "published": "2026-09-30T08:42+09:00",
+   "cat": "law",
+   "id": "4ab0ca6bc1df",
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://biz.heraldcorp.com/article/10888333?ref=naver",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임…“대내외 환경 대응력 강..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://www.newsis.com/view/NISX20260930_0003808140",
+     "title": "한진, 신임 정책기획담당 최종석 부사장 선임…\"대외 환경 대응할 전문..."
+    },
+    {
+     "source": "FETV",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=310973",
+     "title": "한진, 정책기획담당 부사장 신설…최종석 전 CSO 선임"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20260930500159",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "businesskorea.co.kr",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=277871",
+     "title": "한진, 부사장직 신설 최종석 정책기획담당 선임"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410665",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=868867",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20260930000222",
+     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
+    },
+    {
+     "source": "economist.co.kr",
+     "url": "https://economist.co.kr/article/view/ecn202609300002",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임…“대내외 환경 대응력 강..."
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://www.mt.co.kr/industry/2026/09/30/2026093009122991516",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "전자신문",
+     "url": "https://www.etnews.com/20260930000035",
+     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "서초 현대건설 디에이치 클래스트 건설 현장서 근로자 1명 사망",
+   "summary": "현대건설 계동 사옥[출처: 연합뉴스 자료 사진] 서초구 현대건설[000720] 디에이치 클래스트 현장에서 근로자 1명이 숨지는 중대재해가 발생했다. 현대건설은 디에이치 클래스트 현장에서 근로자 1명이 사망했다고 30일...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437009",
+   "source": "einfomax.co.kr",
+   "published": "2026-09-30T08:38+09:00",
+   "cat": "acc",
+   "id": "cce8c688594d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "서울 공사현장서 중대재해…콘크리트 잔재물 낙하에 1명 사망",
+   "summary": "com 디에이치 클래스트 [사진=현대건설 제공] 현대건설이 시공하는 공사 현장에서 콘크리트 잔재물이 낙하해 근로자 1명이 사망하는 중대재해가 발생했다. 30일 금융감독원 전자공시시스템에 따르면 현대건설은 이날 서울...",
+   "url": "https://www.ajunews.com/view/20260930073754095",
+   "source": "아주경제",
+   "published": "2026-09-30T08:24+09:00",
+   "cat": "acc",
+   "id": "90020275acda",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "산재 신청 60세 이상 최다…승인율은 77.5% ‘하락’",
    "summary": "유형별로는 ‘업무상 질병’의 승인 문턱이 높아졌다. 60세 이상의 업무상 질병 승인율은 2022년 60.7%에서 지난해 56.7%로 떨어졌고, 불승인 건수만 1만4522건에 달했다. 고령 노동자의 경우 업무상 사고보다...",
@@ -246,7 +476,13 @@
    "published": "2026-09-30T05:00+09:00",
    "cat": "hlt",
    "id": "d9c933f5e580",
-   "related": [],
+   "related": [
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=551450",
+     "title": "작년 산재 신청 18만5000건 '역대 최다'…60세 이상 승인율은 77%로 하락"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -420,6 +656,11 @@
      "source": "babytimes.co.kr",
      "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74244",
      "title": "현대건설 서초구 아파트 공사장서 30대 노동자 사망 '중대재해'"
+    },
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2118876",
+     "title": "현대건설 서초구 아파트 현장 노동자 사망…중대재해법 위반 수사"
     }
    ],
    "day": "2026-09-29",
@@ -433,7 +674,13 @@
    "published": "2026-09-29T21:48+09:00",
    "cat": "acc",
    "id": "a9848611630d",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스토마토",
+     "url": "http://www.newstomato.com/ReadNews.aspx?no=1315181&inflow=N",
+     "title": "서초구 공사현장서 콘크리트 붕괴…30대 노동자 사망"
+    }
+   ],
    "day": "2026-09-29",
    "watch": []
   },
@@ -1650,6 +1897,11 @@
      "source": "KBS",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674112&ref=A",
      "title": "검찰, ‘노동자 4명 사망’ 세아베스틸 전 대표 징역 5년 구형"
+    },
+    {
+     "source": "프레시안",
+     "url": "https://www.pressian.com/pages/articles/2026092913513325974?utm_source=naver&utm_medium=search",
+     "title": "2년간 4명 노동자 사망한 세아베스틸 전 대표에 검찰 징역 5년 구형"
     }
    ],
    "day": "2026-09-29",
@@ -1950,6 +2202,11 @@
      "source": "울산신문",
      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=583857",
      "title": "울산서 '안전한 일터 조성' 캠페인"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708840",
+     "title": "HD현대중공업·고용노동부·안전공단, '민관 합동 안전캠페인' 실시"
     }
    ],
    "day": "2026-09-29",
