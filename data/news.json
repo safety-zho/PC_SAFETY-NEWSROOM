@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T17:19+09:00",
+ "updatedAt": "2026-09-30T18:17+09:00",
  "categories": [
   {
    "id": "acc",
@@ -27,7 +27,7 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 35
+   "count": 36
   },
   {
    "id": "02a434d9eeb2",
@@ -36,7 +36,7 @@
    "source": "ftoday.co.kr",
    "cat": "acc",
    "day": "2026-09-30",
-   "count": 23
+   "count": 24
   },
   {
    "id": "80d1d279b60c",
@@ -45,7 +45,7 @@
    "source": "discoverynews.kr",
    "cat": "tech",
    "day": "2026-09-30",
-   "count": 13
+   "count": 14
   },
   {
    "id": "cce8c688594d",
@@ -67,6 +67,186 @@
   }
  ],
  "articles": [
+  {
+   "title": "육군 유류시험실 개선 예산 미반영···장병 안전 우려",
+   "summary": "현재 춘천 유류시험실은 일반사무실을 시험공간으로 활용해 산업안전보건법상 작업환경 기준을 충족하지 못하고 있다. 육군은 이에 따라 486㎡ 규모의 신규 시험실 건립을 요구했다. 신규 시설에는 환기설비와...",
+   "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=561074",
+   "source": "idaegu.co.kr",
+   "published": "2026-09-30T18:14+09:00",
+   "cat": "hlt",
+   "id": "cd79e5588fa0",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사, 대학생들에 '에너지저장장치 안전관리' 현장교육",
+   "summary": "한국전기안전공사가 30일 한성대학교 경영 참여단을 대상으로 전북 완주에 위치한 본사와 에너지저장장치 안전성평가센터에서 안전관리 교육을 시행했다. 사진=한국전기안전공사 한국전기안전공사는 한성대학교 대학생...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7186758",
+   "source": "한국아이닷컴",
+   "published": "2026-09-30T18:14+09:00",
+   "cat": "tech",
+   "id": "0b51aeba6d19",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "노란봉투법 반년, 사용자성 인정돼도 교섭 불응 원청 6곳 입건…“노동...",
+   "summary": "노동자들이 원청을 고소하는 데 이르기 전에 고용노동부가 적극적인 행정지도 등으로 교섭을 유도해야... 조경숙 플랜트건설노조 선전국장은 “플랜트건설노조는 안전시설 보강 등 산업안전 의제에 대해 교섭을 요청해...",
+   "url": "https://www.hani.co.kr/arti/society/labor/1280236.html",
+   "source": "한겨레",
+   "published": "2026-09-30T18:10+09:00",
+   "cat": "law",
+   "id": "b5db6705fe2b",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "아에르웍스, 제전·난연·방한 기능성 FW 워크웨어 제품군 출시",
+   "summary": "고용노동부 통계에 따르면 올해 상반기 제조업 산재 사망자는 92명으로 전년 동기 대비 37.3%(25명) 증가했다. 화재·폭발 사고 발생이 주요 증가 원인으로 파악됐다. 작업 환경 변화에 맞춰 워크웨어 업계도 동절기 제품군...",
+   "url": "https://www.gosiweek.com/article/1065592635952280",
+   "source": "gosiweek.com",
+   "published": "2026-09-30T18:06+09:00",
+   "cat": "acc",
+   "id": "7a3e14ff2947",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "강남구도시관리공단, 지방공공기관 혁신 '최우수상' 수상",
+   "summary": "이 같은 다각적인 안전 혁신을 통해 공단의 안전사고 발생 건수는 9건에서 6건, 다시 2건으로 지속적으로 감소했으며 중대재해 'ZERO'도 달성했다. 고광윤 이사장은 \"이번 최우수상 수상은 구민과 근로자의 안전을 최우선...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475820",
+   "source": "이뉴스투데이",
+   "published": "2026-09-30T17:55+09:00",
+   "cat": "tech",
+   "id": "3b54fb1a1b76",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "경기 용인 공사 현장에서 철골 구조물 쓰러져...60대 작업자 사망",
+   "summary": "경찰은 산업현장에서 발생한 사망 사고인 만큼 기초 조사를 마치는 대로 사건을 관할 용인동부경찰서에서 경기남부경찰청 중대재해수사팀으로 이관할 예정입니다. 노동당국도 사고 발생 후 현장에 작업 중지 조치를...",
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20260930175325Z2G",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-09-30T17:54+09:00",
+   "cat": "acc",
+   "id": "709a9edaf03e",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "국정감사 내달 막 오른다…건설안전·공사비 쟁점 부상",
+   "summary": "추락 73명, 끼임 3명, 부딪힘 19명 등 이른바 '3대 재래식 사고'로 숨진 건설근로자는 95명으로 건설업 산재 사망자의 39.1%를 차지했다. 이에 따라 올해 국감에서는 개별 건설현장의 시공·안전관리 문제와 함께 적정...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52076",
+   "source": "kmecnews.co.kr",
+   "published": "2026-09-30T17:50+09:00",
+   "cat": "acc",
+   "id": "2bdf0b8b52a9",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "현대건설 왜 이러나? 잇단 사망사고…이한우 대표 '안전경영' 시험대",
+   "summary": "경찰과 노동당국은 사고 경위를 조사하고 있으며 노동부는 산업안전보건법과 중대재해처벌법 위반 여부를 들여다보고 있다. 중대재해처벌법상 경영책임자의 처벌 여부는 사망사고 자체만으로 결정되지 않는다. 안전...",
+   "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115942",
+   "source": "thedailypost.kr",
+   "published": "2026-09-30T17:46+09:00",
+   "cat": "acc",
+   "id": "936f712d0ab4",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "'노란봉투법' 시행 후 첫 파열음…한화오션 하청노동자 고공농성",
+   "summary": "노조는 \"고용노동부가 원청교섭을 보장하지 않으면 투쟁에 나설 수밖에 없다\"며 \"노동삼권 실현을 위한 이번... 반면 한화오션 측은 \"사법부의 최종 판단 전 강행된 고공농성은 정당성 없는 불법행위\"라며 \"안전을...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=576968",
+   "source": "newsgn.com",
+   "published": "2026-09-30T17:44+09:00",
+   "cat": "law",
+   "id": "fcfa83f0f5de",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 - 하이트진로(주) 마산공장30만병에 새긴 안전메시지, 일...",
+   "summary": "이번 홍보활동은 고용노동부 창원지청과 안전보건공단 경남지역본부가 추진하는 안전문화실천추진단 활동의 일환으로, 국민이 일상에서 자주 접하는 생활밀착형 매체를 활용해 산업재해예방의 중요성을 알리기 위해...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=576953",
+   "source": "newsgn.com",
+   "published": "2026-09-30T17:42+09:00",
+   "cat": "law",
+   "id": "2942316c4d90",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "미추홀구, 직원 대상 중대재해 예방교육 실시",
+   "summary": "미추홀구는 지난 30일 구청 대회의실에서 소속 직원을 대상으로 '2026년 하반기 중대재해 예방 교육'을 실시했다. / 미추홀구 미추홀구가 현장에서 발생할 수 있는 위험요인을 사전에 점검하고 중대재해 예방을 위한...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717272",
+   "source": "newstown.co.kr",
+   "published": "2026-09-30T17:37+09:00",
+   "cat": "acc",
+   "id": "11d9173b1ec8",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "민주당, 지역 예산협의…\"국민의힘, 민생법안 처리 협조해야\"",
+   "summary": "\" 한편 민주당은 내일 본회의에서 산업재해를 막기 위한 산업안전보건법과 주택공급에 속도를 내기 위한 도시정비법 개정안 등을 처리할 계획이라고 밝혔습니다. 만약 국민의힘이 또 무제한 토론에 나선다면 주택을...",
+   "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514358",
+   "source": "natv.go.kr",
+   "published": "2026-09-30T17:30+09:00",
+   "cat": "law",
+   "id": "023beaa3b814",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한국산업단지공단·한국기술교육대, 산업단지 안전관리 및 인력양성 업...",
+   "summary": "산업단지 중소기업의 안전관리 인력 부족 문제를 해결하기 위해 한국산업단지공단과 한국기술교육대학교가... 지원하는 산업통상자원부 산하 공공기관이며, 한국기술교육대학교는 고용노동부가 설립해 공학 실습 및...",
+   "url": "https://www.ekn.kr/web/view.php?key=20260930026540682",
+   "source": "에너지경제",
+   "published": "2026-09-30T17:30+09:00",
+   "cat": "law",
+   "id": "5ba99025c8d1",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "동서발전, 울산 본사서 '인권경영 실무회의'·'수소산업 포럼' 연속 개최",
+   "summary": "한국동서발전(사장 권명호)은 30일 오후 1시 울산 중구 본사에서 근로복지공단, 한국산업안전보건공단, 한국산업인력공단, 한국석유공사 등 울산혁신도시 내 4개 공공기관과 함께 '울산혁신도시 공공기관 인권경영...",
+   "url": "https://www.pressman.kr/news/articleView.html?idxno=103841",
+   "source": "pressman.kr",
+   "published": "2026-09-30T17:30+09:00",
+   "cat": "tech",
+   "id": "745ee2586e67",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대구 서구청, 상반기 이어 하반기 작업환경측정 완수… 산업재해 예방 ...",
+   "summary": "법정 의무 절차인 작업환경측정은 '산업안전보건법' 제125조에 의거해 작업 과정에서 발생하는 소음, 분진... 특히 이번 측정은 신뢰도를 높이기 위해 고용노동부 평가 A등급 이상의 작업환경측정 전문기관과 합동으로...",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762283",
+   "source": "문화뉴스",
+   "published": "2026-09-30T17:28+09:00",
+   "cat": "law",
+   "id": "3fc47d5b164c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "민주, 쟁점법안 숨고르기…국감 앞 '민생 올인'",
    "summary": "산업안전보건법 개정안은 산업재해로 연간 3명 이상 사망한 기업에 영업이익의 최대 5%를 과징금으로 부과하는 내용을 담았다. 도시정비법 개정안에는 민간 재건축·재개발 용적률 상향 등의 내용이 포함됐다. [신아일보]",
@@ -241,6 +421,21 @@
      "source": "gokorea.kr",
      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880096",
      "title": "용인 신축 공사 현장서 H빔 붕괴, 60대 작업자 사망…산업안전 수칙 위..."
+    },
+    {
+     "source": "KBS",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674693&ref=A",
+     "title": "용인 상가 신축현장서 H빔 넘어져 60대 작업자 숨져"
+    },
+    {
+     "source": "서울경제",
+     "url": "https://www.sedaily.com/article/20096724?ref=naver",
+     "title": "용인 상가 신축현장서 H빔 넘어져…60대 작업자 사망"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://www.kyeonggi.com/article/20260930580426",
+     "title": "용인 신축 공사장서 철골 구조물 넘어져…60대 작업자 사망"
     }
    ],
    "day": "2026-09-30",
@@ -807,6 +1002,11 @@
      "source": "핀포인트뉴스",
      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491553",
      "title": "동서발전, 울산혁신도시 인권경영 실무회의 개최"
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017671",
+     "title": "동서발전, 울산혁신도시 공공기관 인권경영 실무회의 개최"
     }
    ],
    "day": "2026-09-30",
@@ -825,6 +1025,11 @@
      "source": "뉴시스",
      "url": "https://www.newsis.com/view/NISX20260930_0003808940",
      "title": "고속도로 유지보수 산재 공사 10곳 중 8곳 안전관리자 없이 작업"
+    },
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=913556",
+     "title": "강득구 국회의원 \"고속도로 유지보수 산재 10곳 중 8곳, 안전관리자 없..."
     }
    ],
    "day": "2026-09-30",
@@ -1053,6 +1258,11 @@
      "source": "e-platform.net",
      "url": "http://www.e-platform.net/news/articleView.html?idxno=105803",
      "title": "전기안전공사, 한성대 학생과 ESS 안전관리 현장 선보여…활동 실적 공..."
+    },
+    {
+     "source": "jeollailbo.com",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=812551",
+     "title": "한국전기안전공사, 한성대 ESG 참여단과 전력설비 안전관리 현장 견학"
     }
    ],
    "day": "2026-09-30",
@@ -1232,7 +1442,18 @@
    "published": "2026-09-30T11:46+09:00",
    "cat": "law",
    "id": "dc6410231c95",
-   "related": [],
+   "related": [
+    {
+     "source": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=576933",
+     "title": "거창군, 2026년 3분기 산업안전보건위원회 정기회의 개최"
+    },
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=491228",
+     "title": "거창군, 2026년 3분기 산업안전보건위원회 정기회의 개최"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -1340,6 +1561,18 @@
    "published": "2026-09-30T11:08+09:00",
    "cat": "acc",
    "id": "95df14bdc8fa",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한진, 노동·정책 전문가 최종석 부사장 선임…대외 대응력 높인다",
+   "summary": "행정고시 합격 후 고용노동부 사무관으로 공직생활을 시작해 대통령실 고용노사비서관실 행정관... 한진에서는 안전보건 체계 구축을 맡는 동시에 정책기획담당을 겸직하며 대내외 경영전략 수립 업무를 담당했다....",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067245",
+   "source": "shinailbo.co.kr",
+   "published": "2026-09-30T11:04+09:00",
+   "cat": "law",
+   "id": "9f7b09cdca97",
    "related": [],
    "day": "2026-09-30",
    "watch": []
@@ -1609,6 +1842,11 @@
      "source": "delighti.co.kr",
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122602",
      "title": "HJ중공업, 협력사 30곳 CEO 초청 안전보건 간담회 개최"
+    },
+    {
+     "source": "로이슈",
+     "url": "http://www.lawissue.co.kr/view.php?ud=202609301806559365f4ab64559d_12",
+     "title": "HJ중공업 건설부문, 협력사 CEO 안전보건 간담회 개최"
     }
    ],
    "day": "2026-09-30",
@@ -2100,6 +2338,11 @@
      "source": "미디어펜",
      "url": "https://www.mediapen.com/news/view/1127026",
      "title": "한진, 정책기획담당 부사장에 최종석 전 CSO 선임…대외 대응력 강화"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20260930160006026",
+     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
     }
    ],
    "day": "2026-09-30",
@@ -2440,6 +2683,11 @@
      "source": "joongangenews.com",
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551450",
      "title": "작년 산재 신청 18만5000건 '역대 최다'…60세 이상 승인율은 77%로 하락"
+    },
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=536015",
+     "title": "작년 산재 신청 18만5천건 역대최다…60세이상 승인율 70%대 머물러"
     }
    ],
    "day": "2026-09-30",
