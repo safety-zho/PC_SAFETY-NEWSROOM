@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T13:18+09:00",
+ "updatedAt": "2026-09-30T14:17+09:00",
  "categories": [
   {
    "id": "acc",
@@ -27,7 +27,7 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 28
+   "count": 30
   },
   {
    "id": "02a434d9eeb2",
@@ -36,16 +36,7 @@
    "source": "ftoday.co.kr",
    "cat": "acc",
    "day": "2026-09-30",
-   "count": 12
-  },
-  {
-   "id": "fd717d5e8b32",
-   "title": "디에이치 클래스트서 중대재해..낙하물에 맞아 사망",
-   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
-   "source": "스마트투데이",
-   "cat": "acc",
-   "day": "2026-09-30",
-   "count": 6
+   "count": 14
   },
   {
    "id": "cce8c688594d",
@@ -54,7 +45,16 @@
    "source": "einfomax.co.kr",
    "cat": "acc",
    "day": "2026-09-30",
-   "count": 5
+   "count": 9
+  },
+  {
+   "id": "fd717d5e8b32",
+   "title": "디에이치 클래스트서 중대재해..낙하물에 맞아 사망",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
+   "source": "스마트투데이",
+   "cat": "acc",
+   "day": "2026-09-30",
+   "count": 7
   },
   {
    "id": "3640af1da079",
@@ -67,6 +67,216 @@
   }
  ],
  "articles": [
+  {
+   "title": "한화오션 하청노동자 6명 또 고공농성…\"원청교섭 218일째 제자리\"",
+   "summary": "노조는 고용노동부에도 책임 있는 조치를 요구했다. 정부가 개정 노조법 시행을 앞두고 시행령 등을 통해 원... 강씨는 조선소 하청노동자가 원청의 생산계획과 공정, 안전관리, 작업환경 등에 직접적인 영향을 받으면서도...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2118928",
+   "source": "포쓰저널",
+   "published": "2026-09-30T14:10+09:00",
+   "cat": "law",
+   "id": "e4f9b94c2a9d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "\"신약 등재에만 28개월…중증·희귀질환 치료접근성 붕괴위기\"",
+   "summary": "김윤 국회의원이 주최하고 한국희귀난치성질환연합회와 한국환자단체연합회, 한국글로별의약산업협회... 필수적\"이라며 \"이제는 보건 의료 정책이 '보호에서 경쟁으로', '특혜성 우대에서 공정한 성과 기반 보상'으로...",
+   "url": "http://www.medisobizanews.com/news/articleView.html?idxno=142712",
+   "source": "medisobizanews.com",
+   "published": "2026-09-30T14:08+09:00",
+   "cat": "law",
+   "id": "dc600267acba",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[100세 정보] 일하다 다쳐도 나이 탓?…산재 승인율 73%까지 추락",
+   "summary": "지난해 산재를 신청한 노동자 10명 가운데 4명이 60세 이상이었지만 이들의 산재 승인율은 70%대로... 반면 근골격계 질환이나 심뇌혈관계 질환 등은 오랜 기간 누적된 노동과 노화, 개인 질환 등이 함께 작용할 수 있어...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=301805",
+   "source": "newsquest.co.kr",
+   "published": "2026-09-30T14:08+09:00",
+   "cat": "hlt",
+   "id": "448cc1bc1474",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "정전기·화재·동상 동시 차단… 아에르웍스, FW 워크웨어 라인업 선보...",
+   "summary": "고용노동부 통계 조사 결과 올해 상반기 제조업 산재 사고 사망자는 92명으로 전년 동기 대비 37.3%(25명) 늘어났다. 연속 발생한 대규모 화재와 폭발 사고가 사망자 증가에 영향을 미쳤다. 현장 위험 통제 수요가 높아짐에...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880057",
+   "source": "gokorea.kr",
+   "published": "2026-09-30T14:02+09:00",
+   "cat": "acc",
+   "id": "dd73c320349c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "충주국유림관리소, 안전보건협의체 개최",
+   "summary": "산업안전보건법 제64조에 따라 열린 이번 회의에서는 현장 위험성 평가와 안전사고 재발 방지 대책이 집중 논의됐다. 위급 상황에 대비한 심폐소생술 등 맞춤형 안전보건 교육도 함께 병행됐다. 특히, 관리소는 임업인의...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102477",
+   "source": "ccdn.co.kr",
+   "published": "2026-09-30T14:01+09:00",
+   "cat": "hlt",
+   "id": "1fba9893962a",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "국가재난원, 30일 '지자체장 재난안전관리 교육' 실시",
+   "summary": "특히 산불과 대형화재·중대산업재해 등 발생 시 지자체장의 역할과 책임을 중심으로 실제 재난대응 사례를 공유하고 소통하는 방식을 채택해 눈길을 끌 것으로 보인다.",
+   "url": "https://www.public25.com/news/articleView.html?idxno=55610",
+   "source": "public25.com",
+   "published": "2026-09-30T14:00+09:00",
+   "cat": "acc",
+   "id": "c23e5b410baf",
+   "related": [
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2630799",
+     "title": "행안부, 2026년 지자체장 재난안전관리 교육 시행"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "창원시설공단, AI 기반 스마트 안전관리체계 시범 도입",
+   "summary": "AI 기반 스마트 안전관리체계가 실내수영장 탈의실에서 쓰러진 시민을 감지하는 화면. 사진=창원시설공단 제공 창원시설공단이 인공지능(AI) 기술을 활용해 안전관리 위험요인을 사전에 감지하고 신속하게 대응할 수...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410832",
+   "source": "한국아이닷컴",
+   "published": "2026-09-30T14:00+09:00",
+   "cat": "tech",
+   "id": "00c13381add3",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "HJ중공업, 협력사 30곳과 안전관리 강화…AI 통번역 도입",
+   "summary": "이번 간담회는 HJ중공업의 안전보건 정책과 중점 추진 방향을 협력사와 공유하고 현장 중대재해 예방을 위한 협력체계를 강화하기 위해 마련됐다. 간담회에는 권태성 서울지방고용노동청장이 참석해 정부의 안전보건...",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03965526645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-09-30T13:56+09:00",
+   "cat": "tech",
+   "id": "2654304e4be3",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "천안 대원산업 참사 한 달…유족 \"원인·안전관리 의혹 규명해야\"",
+   "summary": "충남 천안 대원산업 폭발·화재 참사 유족과 지원 단체들이 사고 한 달을 맞아 진상 규명과 재발 방지 대책을 촉구했습니다. 피해자 가족 지원 모임은 오늘(30일) 고용노동부 천안지청 앞에서 기자회견을 열고, 정확한 사고...",
+   "url": "http://www.yonhapnewstv.co.kr/news/AKR20260930134843qR6",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-09-30T13:49+09:00",
+   "cat": "law",
+   "id": "24b2bdc9d53f",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대전 중구, '중대재해 예방에 AI 접목'... 96명 실무 역량 강화",
+   "summary": "이번 교육은 기술의 급격한 발전에 따른 스마트 행정 수요에 발맞추어 중대재해 예방의 핵심적 뼈대를 이루는 위험성평가 전 과정에 첨단 인공지능(AI) 기술을 접목함으로써 안전보건 행정의 효율성을 극대화하고자...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=506510",
+   "source": "newsworker.co.kr",
+   "published": "2026-09-30T13:46+09:00",
+   "cat": "tech",
+   "id": "3bcddc67e386",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대구 서구, 근로자 유해인자 노출 실태 점검",
+   "summary": "작업환경측정은 '산업안전보건법' 제125조에 따른 것으로, 작업 과정에서 발생하는 소음·분진·화학물질 등... 고용노동부 평가 A등급 이상 전문기관이 주요 유해인자의 노출 수준을 분석할 예정이다.측정 결과에 따라...",
+   "url": "https://www.kbsm.net/news/view.php?idx=536073",
+   "source": "kbsm.net",
+   "published": "2026-09-30T13:44+09:00",
+   "cat": "law",
+   "id": "040504f9f928",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사-한성대 ESG경영참여단, 안전관리 현장견학",
+   "summary": "한국전기안전공사는 '한성대학교 대학생 환경·사회·투명 경영 참여단'에게 에너지 저장장치(ESS·Energy Storage System) 안전관리 현장 견학 활동을 진행했다고 30일 밝혔다. 몇 년 전부터 화두가 되고 있는 기업 경영의...",
+   "url": "https://www.newsis.com/view/NISX20260930_0003808848",
+   "source": "뉴시스",
+   "published": "2026-09-30T13:43+09:00",
+   "cat": "tech",
+   "id": "698bbdfc5f8c",
+   "related": [
+    {
+     "source": "e-platform.net",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=105803",
+     "title": "전기안전공사, 한성대 학생과 ESS 안전관리 현장 선보여…활동 실적 공..."
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "박승흡 근로복지공단 이사장 “산재 노동자 회복 끝까지 지원”",
+   "summary": "박 이사장은 취임사에서 “비정규 노동자와 임금체불 노동자에 대한 보호를 확대할 것”이라며 “업무상질병을 빠르고 공정하게 판정하고, 산재 의료·재활·일터 복귀를 긴밀하게 연결해 산재 노동자의 회복을 끝까지...",
+   "url": "https://www.mk.co.kr/article/12164775",
+   "source": "매일경제",
+   "published": "2026-09-30T13:40+09:00",
+   "cat": "hlt",
+   "id": "223dcbffb215",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[클린룸을 오가는 사람들: 물류작업자 서안숙 이야기] ② 하다 보니까 ...",
+   "summary": "반도체 직업병 피해자들의 산재를 신청하면서 기록의 필요성을 절감해 생애사 기록을 시작했습니다. 아픔과 고통뿐만 아니라 개인의 꿈과 행복에 대해 인터뷰했고, 재해경위서, 진술서가 아닌 삶을 담은 글을 적었습니다....",
+   "url": "https://newscham.net/articles/117252",
+   "source": "newscham.net",
+   "published": "2026-09-30T13:34+09:00",
+   "cat": "hlt",
+   "id": "dbdbccfb2ebe",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "박승흡 전 전태일재단 이사장, 근로복지공단 이사장 취임",
+   "summary": "산재보험과 관련해서는 업무상 질병을 보다 신속하고 공정하게 판정하고 산재의료·재활·일터복귀를 긴밀하게 연계하겠다는 방침이다. 박 이사장은 “산재노동자의 회복을 끝까지 뒷받침하는 산재보험을 만들어가겠다”...",
+   "url": "https://www.viva100.com/article/20260930500901",
+   "source": "브릿지경제",
+   "published": "2026-09-30T13:32+09:00",
+   "cat": "hlt",
+   "id": "64b0163c6923",
+   "related": [
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109469",
+     "title": "근로복지공단 '제11대 이사장'에 박승흡... 전 전태일재단 이사장 취임"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "켐토피아-에코시안, EHS·ESG 디지털 솔루션 공동사업 추진",
+   "summary": "이를 통해 산업안전 및 환경 관련 데이터를 통합 관리할 수 있는 플랫폼의 상용화를 추진한다. 화학안전 분야에서는 켐토피아의 화학물질 규제 데이터베이스 'Dr. ChemDB' 및 물질안전보건자료(MSDS) 솔루션과 에코시안의...",
+   "url": "https://magazine.hankyung.com/money/article/202609304577c",
+   "source": "한국경제",
+   "published": "2026-09-30T13:30+09:00",
+   "cat": "tech",
+   "id": "9898b690b712",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "천안 대원산업 화재 유족·지원단체 \"진상규명과 관련자 처벌\" 촉구",
    "summary": "민주노총 세종충남본부와 아산이주노동자센터 등 대원산업중대재해피해자가족지원모임은 30일 고용노동부 천안지청 앞에서 기자회견을 열고 \"사고 발생 한달이 넘도록 정확한 화재 원인과 법위반 여부는 확인되지 않고...",
@@ -159,7 +369,13 @@
    "published": "2026-09-30T12:00+09:00",
    "cat": "tech",
    "id": "720d68cea96d",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709171",
+     "title": "한국청소년활동진흥원, 'AI 기반 위험성평가 시스템' 도입"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -443,6 +659,16 @@
      "source": "핀포인트뉴스",
      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=491415",
      "title": "HJ중공업, 협력사 CEO들과 안전보건 간담회 개최…안전정책 공유·우수사..."
+    },
+    {
+     "source": "smartbizn.com",
+     "url": "https://www.smartbizn.com/news/articleView.html?idxno=155218",
+     "title": "HJ중공업, 협력사 CEO 초청 '안전보건 간담회' 개최"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://www.mk.co.kr/article/12164781",
+     "title": "HJ중공업, 협력사 CEO 30명과 안전보건 간담회"
     }
    ],
    "day": "2026-09-30",
@@ -883,6 +1109,16 @@
      "source": "gokorea.kr",
      "url": "https://www.gokorea.kr/news/articleView.html?idxno=880031",
      "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://www.dailian.co.kr/news/view/1696036/?sc=Naver",
+     "title": "한진, 최종석 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "서울경제",
+     "url": "https://www.sedaily.com/article/20096573?ref=naver",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
     }
    ],
    "day": "2026-09-30",
@@ -916,6 +1152,26 @@
      "source": "디지털데일리",
      "url": "https://www.ddaily.co.kr/page/view/2026093012422772939",
      "title": "현대건설 반포 재건축 현장서 근로자 1명 사망"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475597",
+     "title": "서울 서초구 '디에이치 클래스트'서 근로자 사망"
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122579",
+     "title": "현대건설의 반포 재건축 '디에이치 클래스트' 공사장서 작업자 1명 사망"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067356",
+     "title": "현대건설, '디에이치 클래스트' 현장서 작업자 1명 사망"
+    },
+    {
+     "source": "디지털타임스",
+     "url": "https://www.dt.co.kr/article/12086657?ref=naver",
+     "title": "현대건설 ‘반포 디에이치 클래스트’ 현장서 근로자 1명 사망"
     }
    ],
    "day": "2026-09-30",
@@ -990,6 +1246,11 @@
      "source": "fntoday.co.kr",
      "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394174",
      "title": "현대건설, '디에이치 클래스트' 현장서 중대재해 발생… 1명 사망"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000100403",
+     "title": "현대건설 ‘디에이치 클래스트’서 중대재해…근로자 1명 숨져"
     }
    ],
    "day": "2026-09-30",
@@ -1514,6 +1775,11 @@
      "source": "울산신문",
      "url": "https://www.ulsanpress.net/news/articleView.html?idxno=583896",
      "title": "UPA·울산해수청, 항만 안전 관리 교육"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709331",
+     "title": "울산항만공사-울산해수청, '울산항 항만운송 참여자 합동 안전교육' 실..."
     }
    ],
    "day": "2026-09-29",
