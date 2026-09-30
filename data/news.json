@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T10:17+09:00",
+ "updatedAt": "2026-09-30T11:16+09:00",
  "categories": [
   {
    "id": "acc",
@@ -27,7 +27,25 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 18
+   "count": 25
+  },
+  {
+   "id": "fd717d5e8b32",
+   "title": "디에이치 클래스트서 중대재해..낙하물에 맞아 사망",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
+   "source": "스마트투데이",
+   "cat": "acc",
+   "day": "2026-09-30",
+   "count": 6
+  },
+  {
+   "id": "02a434d9eeb2",
+   "title": "HJ중공업 건설부문, 협력사 CEO 30곳 초청 안전보건 간담회 개최",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366332",
+   "source": "ftoday.co.kr",
+   "cat": "acc",
+   "day": "2026-09-30",
+   "count": 4
   },
   {
    "id": "3640af1da079",
@@ -39,34 +57,226 @@
    "count": 4
   },
   {
-   "id": "fd717d5e8b32",
-   "title": "디에이치 클래스트서 중대재해..낙하물에 맞아 사망",
-   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
-   "source": "스마트투데이",
-   "cat": "acc",
-   "day": "2026-09-30",
-   "count": 3
-  },
-  {
-   "id": "0509deb03f9c",
-   "title": "수익성 챙기기 승부수…정인호 삼립 대표 “2030년 영업익 1700억 달성한...",
-   "url": "https://theviewers.co.kr/View.aspx?No=4246078",
-   "source": "theviewers.co.kr",
-   "cat": "tech",
-   "day": "2026-09-30",
-   "count": 2
-  },
-  {
    "id": "425c8c005a9e",
    "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장",
    "url": "https://www.news1.kr/industry/general-industry/6305464",
    "source": "뉴스1",
    "cat": "law",
    "day": "2026-09-30",
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "박해철 의원 \"산재 반복 사업장, 작업환경·안전관리 체계 점검해야\"",
+   "summary": "중요한 것은 애초에 노동자가 다치지 않도록 만드는 것\"이라며 \"산재가 반복되는 사업장에 대해서는 원인을 제대로 분석하고 실효성 있는 예방 대책이 작동하고 있는지 국정감사에서 철저히 살펴보겠다\"고 밝혔다.",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=653125",
+   "source": "경인매일",
+   "published": "2026-09-30T11:14+09:00",
+   "cat": "law",
+   "id": "3f9c748d68dd",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "HJ중공업, 협력사 CEO와 ‘중대재해 예방’ 머리 맞댔다",
+   "summary": "HJ중공업 건설부문이 주요 협력사 대표들과 안전보건 정책을 공유하고 현장 중대재해 예방을 위한 협력 강화에 나섰다. HJ중공업 건설부문은 서울 남영사옥에서 주요 협력사 30개사 최고경영자(CEO)를 초청해 ‘2026년도...",
+   "url": "https://biz.heraldcorp.com/article/10888771?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-09-30T11:08+09:00",
+   "cat": "acc",
+   "id": "97373691f5f9",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "현대건설 서초 현장 노동자 사망…작업중지 후 사고 조사",
+   "summary": "노동당국은 천장 콘크리트가 떨어진 경위를 파악하고 중대재해처벌법 위반 여부를 조사하고 있다. 이번 조사는 고용노동부 서울지방고용노동청 중대재해수사과와 건설산재예방감독과가 맡았다. 두 부서는 사고 발생...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137159",
+   "source": "newslock.co.kr",
+   "published": "2026-09-30T11:08+09:00",
+   "cat": "acc",
+   "id": "95df14bdc8fa",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "안전인력 2500명인데 \"29일 또 사망\"…현대건설 '비상체제'는 무엇을 막...",
+   "summary": "현대건설과 하청업체의 안전조치 이행 여부, 산업안전보건법과 중대재해처벌법 위반 여부 등이 조사 대상이다. 같은 사업구역에서 세 차례 죽음…반복된 위험 사망사고가 집중된 샤힌프로젝트는 에쓰오일이 약...",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=90984",
+   "source": "the-today.com",
+   "published": "2026-09-30T11:02+09:00",
+   "cat": "acc",
+   "id": "1dc831ea9e77",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "현대건설, 반포 ‘디에이치 클래스트’서 작업자 사망… 이달 두 번째 ...",
+   "summary": "30일 금융감독원 전자공시시스템에 따르면 현대건설은 전날 디에이치 클래스트 현장에서 중대재해가 발생했다고 공시했다. 사고는 세대 내부 천장의 콘크리트 잔재물을 제거하는 과정에서 발생했다. 현대건설에 따르면...",
+   "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/30/O5W6BZEENNDLXMM6TTU2EALAHU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-09-30T11:01+09:00",
+   "cat": "acc",
+   "id": "2d75a90d5d84",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "천안 대원산업 화재 유가족·지원모임 \"원인 규명 제대로 해야\"",
+   "summary": "민주노총 세종충남지역본부, 대전충청이주인권연대, 아산이주노동자센터 등으로 구성된 대원산업 중대재해 피해자 가족 지원모임은 이날 오전 고용노동부 천안지청 앞에서 기자회견을 열고 \"참사 한 달이 지났지만...",
+   "url": "https://www.yna.co.kr/view/AKR20260930077800063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-09-30T11:00+09:00",
+   "cat": "acc",
+   "id": "afa1e80e9bb5",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "당진시, 산업전환·AX 대응 본격화…노사 상생·산업안전 강화",
+   "summary": "협의회는 내년도 주요 사업으로 △일터혁신 컨설팅 △공동안전관리자 지원사업 △노사민정협의회 파트너십 강화 △중대재해 ZERO 만들기 △지역 노사민정 상생협력 지원사업 등 5개 안건을 심의하고 구체적인 추진...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2001029",
+   "source": "m-i.kr",
+   "published": "2026-09-30T10:54+09:00",
+   "cat": "acc",
+   "id": "0e77b6e42f5d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한진, 최종석 정책기획 부사장 선임···노동·안전 경력으로 대외 현안...",
+   "summary": "최 부사장은 행정고시 합격 후 고용노동부 사무관으로 공직을 시작했다. 대통령실 고용노사비서관실... 부사장 선임 후에는 시장과 정책 변화가 회사 경영에 미치는 영향을 분석하고, 안전보건과 노사관계 관련 업무를...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155181",
+   "source": "smartbizn.com",
+   "published": "2026-09-30T10:52+09:00",
+   "cat": "law",
+   "id": "e9b8216e90cb",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "㈜한진, 부사장식 신설 … 노동부·언론 출신 최종석 정책기획담당 선임",
+   "summary": "행정고시 합격 후 고용노동부 사무관으로 시작해 대통령실 고용노사비서관실 행정관, 서울지방노동위원회... 이후 한국경제신문 편집국 전문위원을 거쳐 한진의 안전보안실장(CSO)으로 재직하며 사내 안전보건 체계를...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/30/2026093000118.html",
+   "source": "뉴데일리",
+   "published": "2026-09-30T10:50+09:00",
+   "cat": "law",
+   "id": "fd33a0ad3076",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "삼척시, 산업재해 예방 위한 노사 협력 강화",
+   "summary": "이번 회의에서는 산업재해 재발방지대책을 비롯해 산업안전보건교육 실시 결과, 명예산업안전감독관 위촉 관련 사항 등을 공유하고 현장 안전관리 강화 방안을 논의했다. 특히 산업재해가 반복되지 않도록 예방대책을...",
+   "url": "https://www.ajunews.com/view/20260930104304902",
+   "source": "아주경제",
+   "published": "2026-09-30T10:48+09:00",
+   "cat": "law",
+   "id": "dd446773f285",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "박해철 의원 \"산재 신청 18만 5천 건 '최다'… 고령 노동자 산재 승인율...",
+   "summary": "유형별로는 ‘업무상 질병’의 승인율 하락이 전체적인 승인율 저하를 주도했다. 고령 노동자의 경우 업무상 사고보다 질병에서 업무 관련성을 인정받기가 더욱...",
+   "url": "http://www.breaknews.com/1239929",
+   "source": "브레이크뉴스",
+   "published": "2026-09-30T10:46+09:00",
+   "cat": "hlt",
+   "id": "6754f6104ee9",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[탐방] 삼천리, 스마트안전관리로 도시가스 안전 강화",
+   "summary": "첨단기술을 접목한 스마트 안전관리 체계 고도화에도 나선다. 통합시설물관리시스템(GIS)을 기반으로 공급권역 내 가스시설을 24시간 모니터링하고 있다. 특히 국내 최초로 구축한 사물인터넷(IoT) 기반...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303634",
+   "source": "투데이에너지",
+   "published": "2026-09-30T10:44+09:00",
+   "cat": "tech",
+   "id": "f6aa60bc6ce7",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "HJ중공업 건설부문, 협력사 CEO 30곳 초청 안전보건 간담회 개최",
+   "summary": "회사의 안전보건 정책과 중점 추진 방향을 협력사와 공유하고, 상생 협력을 바탕으로 현장 중대재해를 근절하기 위해 마련한 자리다. 1부에서는 송경한 HJ중공업 대표이사의 인사말에 이어 권태성...",
+   "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366332",
+   "source": "ftoday.co.kr",
+   "published": "2026-09-30T10:30+09:00",
+   "cat": "acc",
+   "id": "02a434d9eeb2",
+   "related": [
+    {
+     "source": "betanews.net",
+     "url": "https://www.betanews.net/article/view/beta202609300021",
+     "title": "HJ중공업 건설부문, 협력사 CEO 초청 안전보건 간담회 개최"
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=341522",
+     "title": "HJ중공업 건설부문, 30개 협력사 대상 CEO 안전보건 간담회 실시"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://www.news1.kr/realestate/general/6305789",
+     "title": "HJ중공업, 협력사 CEO와 안전보건 간담회…중대재해 예방 협력"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "81년 삼립, 대한민국 넘어 세계로",
+   "summary": "삼립의 2026년 1~8월 누적 재해율은 0.48%로 식품업계 평균 재해율인 0.99%(2025년 기준, 한국산업안전보건공단 자료)보다 낮은 수준으로 나타났다. 정인호 대표이사는 \"앞으로 18개월은 삼립이 수익성 중심의 체질 개선과...",
+   "url": "http://www.bokuennews.com/news/article.html?no=284879",
+   "source": "bokuennews.com",
+   "published": "2026-09-30T10:28+09:00",
+   "cat": "tech",
+   "id": "b166c73bcad1",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": [
+    "삼립"
+   ]
+  },
+  {
+   "title": "위험물 안전, 예방 중심 관리체계로 전환...“안전사회 위한 법안개선”",
+   "summary": "국내 유사 규정인 고용노동부의 ‘산업안전보건법 안전보건관리규정·PSM’이나... 이에 앞서 2024년 6월 전문업자 정기점검 의무화를 담은 위험물안전관리법 개정안...",
+   "url": "http://www.breaknews.com/1239917",
+   "source": "브레이크뉴스",
+   "published": "2026-09-30T10:22+09:00",
+   "cat": "law",
+   "id": "4b47b2f0d609",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "당진 노사민정, 산업전환·중대재해 대응 강화",
+   "summary": "협의회가 심의한 내년도 사업은 일터혁신 컨설팅, 공동안전관리자 지원, 노사민정협의회 파트너십 강화, 중대재해 ZERO 만들기, 지역 노사민정 상생협력 지원 등 5개다. 협의회는 이날 '안전과 쉼이 보장되고 산업전환과...",
+   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=415587",
+   "source": "ccnnews.co.kr",
+   "published": "2026-09-30T10:20+09:00",
+   "cat": "acc",
+   "id": "0addfc6df759",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "삼립·던킨, 글로벌 사업 확대 추진·가맹사업 상생경영 강화...성장세 ...",
    "summary": "삼립의 2026년 1~8월 누적 재해율은 0.48%로 식품업계 평균 재해율인 0.99%(2025년 기준, 한국산업안전보건공단 자료)보다 낮은 수준으로 나타났다. 삼립은 안전관리 체계를 지속 고도화해 안전경영을 더욱 강화해 나갈...",
@@ -199,6 +409,11 @@
      "source": "아이뉴스24",
      "url": "http://www.inews24.com/view/2010233",
      "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장"
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20260930500025",
+     "title": "한진, 부사장직 신설…최종석 전 안전보안실장 선임"
     }
    ],
    "day": "2026-09-30",
@@ -241,6 +456,11 @@
      "source": "조선일보",
      "url": "https://biz.chosun.com/topics/topics_social/2026/09/30/AV6AZUSCJJBNNCAXFLA5D7DYEE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "title": "노동부, 신규 화학물질 63종 공표…22종 유해·위험성 확인"
+    },
+    {
+     "source": "뉴스저널리즘",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=553863",
+     "title": "노동부, 신규화학물질 63종 유해·위험성 공개"
     }
    ],
    "day": "2026-09-30",
@@ -287,6 +507,11 @@
      "source": "naeil.com",
      "url": "https://www.naeil.com/news/read/603730?ref=naver",
      "title": "신규화학물질 63종 유해성·위험성 공표"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090078.html",
+     "title": "노동부, 신규화학물질 63종 유해·위험성 공표…안전조치 통보"
     }
    ],
    "day": "2026-09-30",
@@ -399,6 +624,41 @@
      "source": "thebigdata.co.kr",
      "url": "https://www.thebigdata.co.kr/view.php?ud=2026093010005192360ecbf9426b_23",
      "title": "한진, 정책기획담당 부사장 신설…최종석 전 CSO 선임"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://www.fnnews.com/news/202609300959383151",
+     "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장 선임"
+    },
+    {
+     "source": "whitepaper.co.kr",
+     "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=267341",
+     "title": "한진, 부사장직 신설…최종석 정책기획담당 선임"
+    },
+    {
+     "source": "dailylog.co.kr",
+     "url": "http://www.dailylog.co.kr/news/articleView.html?idxno=26780",
+     "title": "한진, 최종석 정책기획담당 부사장 선임"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://biz.chosun.com/industry/company/2026/09/30/XXIEEXPXUNE2VAEDS3OS4HGD5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "한진, 신임 정책기획담당 부사장에 고용노동부 출신 최종석 CSO 선임"
+    },
+    {
+     "source": "블로터",
+     "url": "https://www.bloter.net/news/articleView.html?idxno=674693",
+     "title": "한진, 정책기획담당 부사장직 신설…노동부 출신 최종석 선임"
+    },
+    {
+     "source": "이코노믹리뷰",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=752250",
+     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
+    },
+    {
+     "source": "financialpost.co.kr",
+     "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=278009",
+     "title": "한진, '정책기획담당 부사장' 신설… 최종석 전 안전보안실장 선임"
     }
    ],
    "day": "2026-09-30",
@@ -412,7 +672,13 @@
    "published": "2026-09-30T08:38+09:00",
    "cat": "acc",
    "id": "cce8c688594d",
-   "related": [],
+   "related": [
+    {
+     "source": "비즈니스포스트",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448252",
+     "title": "현대건설 중대재해 발생, 디에이치 클래스트 건설 현장서 노동자 1명 사..."
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -470,6 +736,21 @@
      "source": "tf.co.kr",
      "url": "https://news.tf.co.kr/read/economy/2371123.htm",
      "title": "현대건설, '디에이치 클래스트' 현장서 중대재해 발생"
+    },
+    {
+     "source": "seoulfn.com",
+     "url": "https://www.seoulfn.com/news/articleView.html?idxno=638994",
+     "title": "서초 '디에이치 클래스트' 현장서 중대재해 발생··· 노동자 1명 사망"
+    },
+    {
+     "source": "asiatime.co.kr",
+     "url": "https://www.asiatime.co.kr/article/20260930500065",
+     "title": "현대건설, 올해 세 번째 중대재해…'디에이치 클래스트'서 사망자 발생"
+    },
+    {
+     "source": "fntoday.co.kr",
+     "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=394174",
+     "title": "현대건설, '디에이치 클래스트' 현장서 중대재해 발생… 1명 사망"
     }
    ],
    "day": "2026-09-30",
@@ -560,6 +841,18 @@
    "watch": []
   },
   {
+   "title": "[데스크 칼럼] 5명의 죽음 앞 \"최선 다했다\"는 궤변… 세아베스틸의 기...",
+   "summary": "중대재해처벌법 시행 이후 무려 5명의 노동자가 목숨을 잃은 세아베스틸 군산공장 참사와 관련해, 검찰이... 세아베스틸에서는 지게차 사고 이후에도 2022년 9월(끼임 사망), 2023년 3월(분진 화상 2명 사망), 심지어 올해 4월...",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025416",
+   "source": "nbntv.co.kr",
+   "published": "2026-09-30T06:10+09:00",
+   "cat": "acc",
+   "id": "589bca6822f1",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
    "title": "[ESG HOW]중대재해 HL만도, 안전 손놓은 정몽원",
    "summary": "구체적으로 안전보건 규칙 위반 78건, 중대재해 예방 규칙 위반 52건, 하청 노동자 산재 예방 조치 소홀 3건 등이 적발됐다. 이번 감독은 7월 22일 평택공장에서 설비 정비를 위한 사전 확인 중 협력업체 소속 작업자가...",
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=868608",
@@ -591,6 +884,30 @@
    "published": "2026-09-30T06:02+09:00",
    "cat": "tech",
    "id": "68ccc2e855bb",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "(포스코 장인화 3년)“안전 최우선” 외쳤지만…작업관리체계 ‘구멍투...",
+   "summary": "지난해 1월 김해 신문1지구 공동주택 현장에서 갱폼간 이동 중이던 노동자가 추락해 사망했고, 4월에는 신안산선 5-2공구 터널 붕괴 매몰로 1명이 숨지고 1명이 다쳤습니다. 같은 4월 대구 사일동 주상복합 현장에서...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1315037&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-09-30T06:02+09:00",
+   "cat": "acc",
+   "id": "1389be76b10c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "(포스코 장인화 3년)(단독)전문가로 꾸린다던 안전자회사…전문인력 ‘...",
+   "summary": "김영훈 고용노동부 장관은 8월 포스코이앤씨의 반복되는 중대재해를 두고 “근본적 결함의 징표”라며 “기본 중의 기본을 안 지킨 것”이라고 공개 비판하기도 했습니다. 정부의 강한 경고와 대책 요구 직후, 안전...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1314913&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-09-30T06:02+09:00",
+   "cat": "law",
+   "id": "01d94837cec5",
    "related": [],
    "day": "2026-09-30",
    "watch": []
@@ -1104,6 +1421,11 @@
      "source": "KBS",
      "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673825&ref=A",
      "title": "민주당 “10월 1일 본회의서 산안법·도정법 상정…조작기소 특검법은 ..."
+    },
+    {
+     "source": "einfomax.co.kr",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437103",
+     "title": "與 \"1일 산안법·도정법 상정 계획…조작기소 특검법은 국감 이후\""
     }
    ],
    "day": "2026-09-29",
