@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-09-30T15:21+09:00",
+ "updatedAt": "2026-09-30T16:19+09:00",
  "categories": [
   {
    "id": "acc",
@@ -36,7 +36,16 @@
    "source": "ftoday.co.kr",
    "cat": "acc",
    "day": "2026-09-30",
-   "count": 18
+   "count": 22
+  },
+  {
+   "id": "80d1d279b60c",
+   "title": "동서발전, 울산혁신도시 공공기관 간 인권경영 협력 강화",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102947",
+   "source": "discoverynews.kr",
+   "cat": "tech",
+   "day": "2026-09-30",
+   "count": 12
   },
   {
    "id": "cce8c688594d",
@@ -46,15 +55,6 @@
    "cat": "acc",
    "day": "2026-09-30",
    "count": 11
-  },
-  {
-   "id": "80d1d279b60c",
-   "title": "동서발전, 울산혁신도시 공공기관 간 인권경영 협력 강화",
-   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1102947",
-   "source": "discoverynews.kr",
-   "cat": "tech",
-   "day": "2026-09-30",
-   "count": 9
   },
   {
    "id": "fd717d5e8b32",
@@ -67,6 +67,216 @@
   }
  ],
  "articles": [
+  {
+   "title": "고소작업차 업체 대표, 끼임 사고로 사망…중대재해는 미적용",
+   "summary": "경찰은 사고 발생한 장소가 개인 업장인 점을 토대로 산업재해 법규나 중대재해처벌법 등은 적용되지 않는 것으로 보고, CCTV 등 분석과 현장 감식을 통해 정확한 사고 경위를 파악할 방침이다.",
+   "url": "https://www.nocutnews.co.kr/news/6585267?utm_source=naver&utm_medium=article&utm_campaign=20260930041300",
+   "source": "노컷뉴스",
+   "published": "2026-09-30T16:13+09:00",
+   "cat": "acc",
+   "id": "2cd6d05846c3",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "오뚜기SF 노동자 사망에 진보당 경남도당 \"노동자 안전기술도 강화해야...",
+   "summary": "논평에서는 7월 HL만도에서 설비를 점검하던 하청노동자가 끼임사고로 숨진 사례도 언급했다. 도당은 사고 이후 노동부 감독에서 끼임 위험과 관련한 안전보건규칙 위반 26건이 적발됐다며 비슷한 사고가 반복되는 점을...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016001",
+   "source": "경남도민일보",
+   "published": "2026-09-30T16:12+09:00",
+   "cat": "acc",
+   "id": "cb8f4b6ad884",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "충남교육청, 현장 중심 위험성평가로 학교 안전관리 강화",
+   "summary": "주요 내용으로는 학교 현장 맞춤형 위험 요인 감소 대책, 우수 개선 조치 사례, 산업안전보건법 의무 이행 사항 등이 다뤄졌다. 충남교육청은 위험성평가를 위험요인 발굴에 그치지 않고 개선 조치로 연결하는 데 중점을...",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=720866",
+   "source": "newstnt.com",
+   "published": "2026-09-30T16:08+09:00",
+   "cat": "hlt",
+   "id": "587a0944fbde",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[굿모닝! 30일 건설업계 소식] DL이앤씨·GS건설·HJ중공업·호반그룹·L...",
+   "summary": "HJ중공업은 주요 협력사 30개사와 현장 안전관리 방안을 공유하고 중대재해 예방을 위한 '2026년도 협력사 CEO 안전보건 간담회'를 개최했다. HJ중공업은 참석 협력사에 정부의 공식 법령 해석을 담은 '중대재해처벌법...",
+   "url": "https://www.goodkyung.com/news/articleView.html?idxno=291882",
+   "source": "goodkyung.com",
+   "published": "2026-09-30T16:06+09:00",
+   "cat": "acc",
+   "id": "9cf7b62b031f",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "현대로템, 항공우주 생산기지 청사진…'AI·로봇' 스마트팩토리로 승부",
+   "summary": "AI 기반 스마트팩토리 기술을 항공우주 생산공정에 적용해 품질과 안전관리 역량을 높이고 고위험 공정을 자동화한다는 계획이다. 작업자의 위험 노출을 줄이는 동시에 안전사고로 인한 개발·생산 차질을 예방하는 데도...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260930010010820",
+   "source": "아시아투데이",
+   "published": "2026-09-30T16:06+09:00",
+   "cat": "tech",
+   "id": "9931f51ac82d",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "아에르웍스, 산업현장 화재·한랭질환 예방 FW 안전복 출시",
+   "summary": "고용노동부 통계에 따르면 올해 상반기 제조업 산재 사망자는 92명으로 전년 동기 대비 37.3%(25명) 늘었다. 연속된 화재·폭발 재해가 주요 사유로 지목됐다. 산업계 안전 경각심이 고조되면서 워크웨어 업계도 동절기 방호...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202609301404269899aeda69934_30",
+   "source": "비욘드포스트",
+   "published": "2026-09-30T16:02+09:00",
+   "cat": "acc",
+   "id": "b4a003e18d0c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "3명 숨진 대원산업 화재 조사 한 달째 감감… 유족·지원모임 진상 규명...",
+   "summary": "민주노총 세종충남본부, 대전충청이주인권운동연대, 충남노동건강인권센터 등으로 구성된 ‘대원산업 중대재해 피해자 가족 지원모임’(이하 지원모임)은 30일 오전 고용노동부 천안지청 앞에서 기자회견을 열어...",
+   "url": "https://www.hani.co.kr/arti/area/chungcheong/1280171.html",
+   "source": "한겨레",
+   "published": "2026-09-30T16:00+09:00",
+   "cat": "acc",
+   "id": "5c1b29d2722f",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "롯데웰푸드, 국내 7개 공장 ‘글로벌 해썹’ 인증…수출 식품 안전관리...",
+   "summary": "기존 HACCP 체계가 식품 제조 과정에서 발생할 수 있는 위해요소 관리에 초점을 맞췄다면 글로벌 해썹은 식품방어와 식품사기 예방, 식품안전문화, 식품안전경영 등까지 관리 범위를 확대했다. 고의적이거나 의도적인...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065595840452098",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-09-30T15:52+09:00",
+   "cat": "tech",
+   "id": "437a6b52ccb9",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "\"군포산업진흥원과 수원병원, 금속가공 소상공인 작업환경 개선",
+   "summary": "개선, 직업병 조기 발견을 위한 ‘통합 건강 보건 지원사업‘으로 산업재해 위험도를 44.8% 감소시키는 성과를 거뒀다. 진흥원과 경기도 노동자건강증진센터는 2023년부터 금속가공 소상공인의 산업재해 및 직업병 예방을...",
+   "url": "https://www.viva100.com/article/20260930501256",
+   "source": "브릿지경제",
+   "published": "2026-09-30T15:48+09:00",
+   "cat": "hlt",
+   "id": "69246cfe4df3",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[산업 브리핑] HD현대중공업·HJ중공업·삼성중공업",
+   "summary": "산업안전상생재단은 협력사 산업안전보건 지원사업을 안내했다. HJ중공업은 이달부터 전국 현장에 인공지능(AI) 실시간 통번역 프로그램을 도입해 외국인 근로자를 대상으로 한 작업 전 안전점검 회의와 안전교육에...",
+   "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=91172",
+   "source": "niceeconomy.co.kr",
+   "published": "2026-09-30T15:42+09:00",
+   "cat": "tech",
+   "id": "d172f048c374",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "충남교육청, 1·2차 현장점검으로 안전망 강화…맞춤형 대책 논의",
+   "summary": "위험성평가는 관내 학교를 대상으로 1·2차 현장점검이 이뤄졌으며, 이를 바탕으로 학교별 맞춤형 위험 요인 감소 대책, 우수 개선 사례, 산업안전보건법 의무 이행 사항 등이 보고회에서 공유됐다. 조성구 안전총괄과장은...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3709571",
+   "source": "국제뉴스",
+   "published": "2026-09-30T15:40+09:00",
+   "cat": "law",
+   "id": "fe5d48b97fdf",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[포토뉴스] 동부지방산림청, 국유림영림단 대상 안전보건교육",
+   "summary": "동부지방산림청(청장:남송희)은 30일 정선군 임계면 백두대간생태수목원에서 29개 국유림영림단 단장들을 대상으로 산업재해 예방을 위한 안전보건교육과 소통간담회를 실시했다.",
+   "url": "https://www.kwnews.co.kr/article/20260930500968",
+   "source": "강원일보",
+   "published": "2026-09-30T15:40+09:00",
+   "cat": "hlt",
+   "id": "a50e116eb7e4",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "한국청소년활동진흥원, AI로 현장 위험요인 분석…안전관리 방식 개선 ...",
+   "summary": "행정안전부와 한국지능정보사회진흥원(NIA)의 ‘AI 챔피언’ 블루 인증을 받은 직원 3명이 ‘AX 리더’로 참여해 각각 챌린저 4명의 기술·데이터 관련 문제 해결을 돕는다. AX 관련 스타트업 현업 팀장과 최고데이터책임자...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026093015363153646cf2d78c68_30",
+   "source": "비욘드포스트",
+   "published": "2026-09-30T15:40+09:00",
+   "cat": "tech",
+   "id": "e83382bada82",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대형 건설사 사망사고 3건 중 2건은 상위 7개사···5년간 121명 사망",
+   "summary": "노동자도 최근 3년간 3명에 달했습니다. 김주영 의원은 \"안전을 선도해야 할 대형 건설사 현장에서 추락과 붕괴 같은 사고가 해마다 반복되고 있다는 점을 무겁게 받아들여야 한다\"며 \"특히 같은 기업에서 사망사고...",
+   "url": "https://dgmbc.com/NewsArticle/864647",
+   "source": "dgmbc.com",
+   "published": "2026-09-30T15:36+09:00",
+   "cat": "acc",
+   "id": "338784c670a7",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "울산혁신도시 공공기관, 인권경영 실무회의…내년 운영계획 수립",
+   "summary": "회의에는 동서발전과 근로복지공단, 한국산업안전보건공단, 한국산업인력공단, 한국석유공사의 인권경영 실무담당자 11명이 참석했다. 참석자들은 기관별 올해 인권 분야 운영 사례를 발표하고 개선 방안을 논의해...",
+   "url": "https://www.news1.kr/local/ulsan/6306276",
+   "source": "뉴스1",
+   "published": "2026-09-30T15:35+09:00",
+   "cat": "tech",
+   "id": "7c3a405448c1",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://www.newsis.com/view/NISX20260930_0003809110",
+     "title": "울산혁신도시 5개 공공기관, 인권경영 계획 머리 맞댔다"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "대전 중구, AI로 위험성평가 고도화…직원 96명 실무교육",
+   "summary": "이번 교육은 급변하는 업무 환경에 대응해 행정 효율성을 높이고, 중대재해 예방의 핵심 절차인 위험성평가에 AI 기술을 접목하기 위해 마련됐다. 재난안전과 안전관리자가 진행한 집체교육에서는 △작업내용을 활용한...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102589",
+   "source": "ccdn.co.kr",
+   "published": "2026-09-30T15:30+09:00",
+   "cat": "acc",
+   "id": "6ea20b6cc656",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "새 화학물질서 ‘급성독성·눈 손상’ 위험…노동자 노출 주의",
+   "summary": "고용노동부는 오늘(30일) 신규화학물질 63종의 유해성과 위험성을 공표하고 해당 물질을 취급하는... 노동부는 신규 화학물질이 산업현장에 사용되기 전에 유해성과 위험성을 파악하고 이에 맞는 안전수칙을 지키는 것이...",
+   "url": "https://biz.sbs.co.kr/article_hub/20000337562?division=NAVER",
+   "source": "SBS",
+   "published": "2026-09-30T15:24+09:00",
+   "cat": "law",
+   "id": "27422845f318",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
   {
    "title": "60세 이상 산재 신청 늘지만 승인율 하락…3년 새 7.3%p↓",
    "summary": "유형별로는 업무상 질병의 승인율 하락이 전체 승인율 감소에 영향을 미친 것으로 나타났다. 고령 노동자의 경우 업무상 사고보다 질병에서 업무 관련성을 인정받는 비율이 낮았다. 박해철 의원은 \"고령 노동자의...",
@@ -307,6 +517,21 @@
      "source": "이뉴스투데이",
      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2475682",
      "title": "동서발전 등 울산 공공기관 5곳, 인권경영 협력 강화"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1410918",
+     "title": "동서발전 등 울산혁신도시 공공기관, 인권 경영 현황 종합 점검"
+    },
+    {
+     "source": "paxetv.com",
+     "url": "http://www.paxetv.com/news/articleView.html?idxno=283020",
+     "title": "한국동서발전, 울산 공공기관과 인권경영 협력 강화"
+    },
+    {
+     "source": "KPI뉴스",
+     "url": "https://www.kpinews.kr/newsView/1065595366374171",
+     "title": "동서발전, 울산혁신도시 공공기관 인권경영협의체 주관"
     }
    ],
    "day": "2026-09-30",
@@ -446,6 +671,24 @@
    "published": "2026-09-30T14:00+09:00",
    "cat": "tech",
    "id": "00c13381add3",
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017620",
+     "title": "창원시설공단, AI 활용 스마트 안전관리체계 10월 시범 도입"
+    }
+   ],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "전국 지자체장 다시 모아 재난교육…산불·대형화재 대응 집중",
+   "summary": "교육은 김광용 행안부 재난안전관리본부장의 국가재난관리체계 특강을 시작으로 산림청장과 소방청장, 고용노동부 등 주요 재난 대응기관의 교육으로 이어진다. 산불과 대형화재, 중대산업재해가 발생했을 때...",
+   "url": "https://www.news1.kr/local/moi/6305352",
+   "source": "뉴스1",
+   "published": "2026-09-30T14:00+09:00",
+   "cat": "law",
+   "id": "f892bbada825",
    "related": [],
    "day": "2026-09-30",
    "watch": []
@@ -739,6 +982,16 @@
      "source": "asiatime.co.kr",
      "url": "https://www.asiatime.co.kr/article/20260930500263",
      "title": "HJ중공업, 협력사 30곳과 안전관리 강화 방안 공유"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=551694",
+     "title": "[ESG] HJ중공업, 협력사 30곳과 안전관리 강화...중대재해 예방 총력"
+    },
+    {
+     "source": "thefirstmedia.net",
+     "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=209797",
+     "title": "HJ중공업, 협력사 30곳과 안전관리 강화…AI 통번역으로 현장 예방 체계..."
     }
    ],
    "day": "2026-09-30",
@@ -1015,6 +1268,26 @@
      "source": "브릿지경제",
      "url": "https://www.viva100.com/article/20260930501123",
      "title": "HJ중공업 건설부문, 2026년도 협력사 CEO 안전보건 간담회 개최"
+    },
+    {
+     "source": "FETV",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311023",
+     "title": "HJ중공업 건설부문, 협력사 CEO 30명과 '중대재해 제로' 머리 맞대"
+    },
+    {
+     "source": "asiaa.co.kr",
+     "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=264663",
+     "title": "HJ중공업, 협력사 CEO 간담회 개최...현장 안전관리 논의"
+    },
+    {
+     "source": "국제신문",
+     "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260930.99099009880",
+     "title": "HJ중공업 건설부문, 협력사 CEO와 안전보건 강화"
+    },
+    {
+     "source": "todaykorea.co.kr",
+     "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406655",
+     "title": "HJ중공업 건설부문, 협력사 CEO 안전보건 간담회 개최"
     }
    ],
    "day": "2026-09-30",
