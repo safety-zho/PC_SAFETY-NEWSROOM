@@ -167,7 +167,10 @@ def fetch_naver(query: str, cid: str, secret: str) -> list[dict]:
 def parse_naver(payload: dict) -> list[dict]:
     out = []
     for it in payload.get("items", []):
-        url = it.get("originallink") or it.get("link") or ""
+        orig = it.get("originallink") or it.get("link") or ""
+        link = it.get("link") or ""
+        # 네이버 뉴스에 실린 기사는 네이버 뉴스 화면으로, 아니면 언론사 원문으로 연결
+        url = link if "n.news.naver.com" in link else orig
         try:
             pub = to_kst(parsedate_to_datetime(it.get("pubDate", "")))
         except Exception:
@@ -176,7 +179,8 @@ def parse_naver(payload: dict) -> list[dict]:
             "title": clean(it.get("title", "")),
             "summary": clean(it.get("description", "")),
             "url": url,
-            "source": source_from_url(url),
+            "orig": orig,
+            "source": source_from_url(orig),
             "published": pub.isoformat(timespec="minutes"),
         })
     return out
@@ -318,16 +322,28 @@ def art_id(url: str) -> str:
 def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
     """새 기사를 기존 목록에 합친다. 같은 사건(제목 유사) 기사는 related로 묶는다."""
     by_id = {a["id"]: a for a in existing}
-    seen_urls = {norm_url(a["url"]) for a in existing}
+    seen_urls = {norm_url(a["url"]) for a in existing} | {norm_url(a["orig"]) for a in existing if a.get("orig")}
     for a in existing:
         for r in a.get("related", []):
             seen_urls.add(norm_url(r["url"]))
+            if r.get("orig"):
+                seen_urls.add(norm_url(r["orig"]))
+    by_link = {}
+    for a in existing:
+        for x in [a] + a.get("related", []):
+            by_link[norm_url(x.get("orig") or x["url"])] = x
     added = 0
     for art in sorted(fresh, key=lambda x: x["published"]):
         nu = norm_url(art["url"])
-        if nu in seen_urls:
+        no = norm_url(art["orig"]) if art.get("orig") else nu
+        if nu in seen_urls or no in seen_urls:
+            # 예전에 언론사 주소로 저장된 기사가 다시 잡히면 네이버 뉴스 주소로 바꿔 둔다
+            obj = by_link.get(no)
+            if obj is not None and "n.news.naver.com" in art["url"] and "n.news.naver.com" not in obj["url"]:
+                obj["orig"] = obj.get("orig") or obj["url"]
+                obj["url"] = art["url"]
             continue
-        seen_urls.add(nu)
+        seen_urls.update({nu, no})
         nt = norm_title(art["title"])
         day = art["published"][:10]
         host = None
@@ -339,7 +355,7 @@ def merge(existing: list[dict], fresh: list[dict]) -> tuple[list[dict], int]:
                 break
         if host:
             rel = host.setdefault("related", [])
-            for r in [{"source": art["source"], "url": art["url"], "title": art["title"]}] + art.get("related", []):
+            for r in [{"source": art["source"], "url": art["url"], "orig": art.get("orig", ""), "title": art["title"]}] + art.get("related", []):
                 if r["source"] != host["source"] and all(x["source"] != r["source"] for x in rel):
                     rel.append(r)
             if not host.get("summary") and art.get("summary"):
