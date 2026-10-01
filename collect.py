@@ -268,11 +268,31 @@ def relevant(art: dict, cfg: dict) -> bool:
     return count_terms(desc, must) >= 3
 
 
-def classify(art: dict, found_by: set[str], cfg: dict) -> str:
+def category_allowed(art: dict, cat: dict) -> bool:
+    req = cat.get("require_in_title")
+    if not req:
+        return True
     title = art["title"].lower()
-    desc = art["summary"].lower()
+    if not contains_any(title, req):
+        return False
+    if contains_any(title, cat.get("not_if_title_has", [])) and not contains_any(title, cat.get("hard_in_title", [])):
+        return False
+    return True
+
+
+def classify(art: dict, found_by: set[str], cfg: dict) -> str:
+    """분류 점수: 그 분류 검색어로 찾은 기사 +2, 분류 키워드가 제목에 있으면 +2, 요약에만 있으면 +1.
+    가장 점수가 높은 분류로 간다(동점이면 config 순서가 앞인 쪽).
+
+    단, 'require_in_title'이 있는 분류(중대재해·사고)는 제목에 실제 사고·피해·수사 표현이 있을 때만 후보가 된다.
+    제목에 예방·교육·간담회 같은 말만 있고 사망·부상·기소 같은 '확실한 사고 표현'이 없으면 후보에서 빠진다.
+    """
+    title = art["title"].lower()
+    desc = art.get("summary", "").lower()
     best, best_score = None, -1
     for cat in cfg["categories"]:
+        if not category_allowed(art, cat):
+            continue
         score = 2 if cat["id"] in found_by else 0
         for kw in cat["keywords"]:
             k = kw.lower()
@@ -280,9 +300,9 @@ def classify(art: dict, found_by: set[str], cfg: dict) -> str:
                 score += 2
             elif k in desc:
                 score += 1
-        if score > best_score:  # 동점이면 config 순서(앞쪽)가 이김
+        if score > best_score:
             best, best_score = cat["id"], score
-    return best or cfg["categories"][0]["id"]
+    return best or cfg.get("default_category", cfg["categories"][-1]["id"])
 
 
 def norm_title(t: str) -> str:
@@ -462,6 +482,10 @@ def main(argv: list[str]) -> int:
         for x in [a] + a.get("related", []):
             if "." in x.get("source", ""):
                 x["source"] = source_from_url("https://" + x["source"])
+    for a in stored:  # 분류 조건(require_in_title 등)을 더 이상 만족하지 않는 보관 기사는 다시 분류
+        cat = next((c for c in cfg["categories"] if c["id"] == a.get("cat")), None)
+        if cat is None or not category_allowed(a, cat):
+            a["cat"] = classify(a, set(), cfg)
     stored, _ = merge([], stored)
     removed = len(data.get("articles", [])) - len(stored)
     if removed:
