@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T10:17+09:00",
+ "updatedAt": "2026-10-01T11:16+09:00",
  "categories": [
   {
    "id": "acc",
@@ -21,6 +21,24 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "49cbc5fc37e9",
+   "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
+   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-01",
+   "count": 4
+  },
+  {
+   "id": "90569eded323",
+   "title": "국회 오늘 본회의…민주당, 산안법·도정법 처리 예고",
+   "url": "http://www.joseilbo.com/news/news_read.php?uid=576628&class=32&grp=",
+   "source": "joseilbo.com",
+   "cat": "law",
+   "day": "2026-10-01",
+   "count": 4
+  },
+  {
    "id": "ee26ecac5be9",
    "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
    "url": "https://www.newsis.com/view/NISX20260930_0003809493",
@@ -30,13 +48,13 @@
    "count": 3
   },
   {
-   "id": "90569eded323",
-   "title": "국회 오늘 본회의…민주당, 산안법·도정법 처리 예고",
-   "url": "http://www.joseilbo.com/news/news_read.php?uid=576628&class=32&grp=",
-   "source": "joseilbo.com",
-   "cat": "law",
+   "id": "04d50c9dc1d2",
+   "title": "동원F&B·하림·하이트진로, 4년째 식품공장 산재 상위권...\"반복 사고 막...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=134603",
+   "source": "popcornnews.net",
+   "cat": "acc",
    "day": "2026-10-01",
-   "count": 3
+   "count": 2
   },
   {
    "id": "dc389d7c8a64",
@@ -46,27 +64,213 @@
    "cat": "acc",
    "day": "2026-10-01",
    "count": 2
-  },
-  {
-   "id": "3a0dc8965107",
-   "title": "사업주 잘못으로 출국 위기? 권익위 \"외국인 노동자 구제하라\"",
-   "url": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809",
-   "source": "노컷뉴스",
-   "cat": "hlt",
-   "day": "2026-10-01",
-   "count": 2
-  },
-  {
-   "id": "26e44319899f",
-   "title": "직업계고 현장실습 사고 5년 새 3.4배…10건 중 7건 '산재 미처리'",
-   "url": "https://www.news1.kr/society/education/6306884",
-   "source": "뉴스1",
-   "cat": "law",
-   "day": "2026-10-01",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "\"전두환도 내란 아냐\" 김태규에 화난 민주당 \"선 넘었다\"",
+   "summary": "그는 이어 \"오늘 오후 본회의에서 노동자 생명을 지키는 산업안전보건법 개정을 비롯해 수많은 민생 법안이 기다리는데, 국민의힘은 거리로 나가겠다고 한다\"며 \"국회 문은 언제나 열려있는데 왜 거리로 나가는 건가....",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271792&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-01T11:11+09:00",
+   "cat": "law",
+   "id": "8dfb32243302",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "완주군시설관리공단, 근로자 경미 부상 치료비 지원",
+   "summary": "3분기 산업안전보건위원회'를 열고 안전보건 관리체계 정비와 직원 보호 대책을 논의했다. 이날... 건, 안전보건관리규정 개정에 관한 건 등 상정된 안건 3건을 심의해 노사 합의로 모두 원안 가결했다. 특히 이번...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=812597",
+   "source": "jeollailbo.com",
+   "published": "2026-10-01T11:10+09:00",
+   "cat": "law",
+   "id": "b64f4531812c",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "진주시, 산림사업 근로자 3분기 산업안전보건교육",
+   "summary": "진주시는 지난 9월 29일 월아산 숲속의 진주 달음홀에서 산림사업 공무직·기간제근로자 123명을 대상으로 3분기 산업안전보건교육을 실시했다. 이번 교육에 참석한 공무직·기간제근로자는 임도·등산로 관리원...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=577035",
+   "source": "newsgn.com",
+   "published": "2026-10-01T11:06+09:00",
+   "cat": "hlt",
+   "id": "1a2f9b4c8712",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "與 \"오늘 본회의서 도정법 처리 않기로…산안법 등 60여개 민생법안 처...",
+   "summary": "대신, 민주당은 산업재해 예방을 골자로 하는 산업안전보건법 개정안(산안법)을 비롯한 민생 법안 60여건을 이날 본회의에서 처리하기로 했다. 이 원내대변인은 \"저희는 산안법 (처리를) 미룰 생각이 없고 국민의힘 주장은...",
+   "url": "https://www.newsis.com/view/NISX20261001_0003810463",
+   "source": "뉴시스",
+   "published": "2026-10-01T11:01+09:00",
+   "cat": "law",
+   "id": "b83ecf776abf",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "사고 사례를 점검표로 바꾼 세종시설공단 안전교육",
+   "summary": "고용노동부 근로감독관은 실제 산업재해와 중대재해, 과태료 부과 사례를 중심으로 강의를 이끌었다. 안전보건 업무 수행자가 갖춰야 할 책임과 사업장에서 확인할 주요 항목, 조치 방법을 사례에 맞춰 짚었다. 공단은...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2444132",
+   "source": "충청일보",
+   "published": "2026-10-01T11:00+09:00",
+   "cat": "law",
+   "id": "a137b67aec2b",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "정읍시, 노사 함께 사업장 안전 점검…위험요인 33건 개선 확인",
+   "summary": "산업안전보건위원회 개최…휴게시설 개선·우수 현업 사업장 포상 기준 등 논의 이로운넷 = 곽시형 기자 전북 정읍시가 노사가 함께 사업장 안전관리 실태를 점검하고 현장에서 확인된 유해·위험요인의 개선 조치 결과를...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=91351",
+   "source": "eroun.net",
+   "published": "2026-10-01T10:56+09:00",
+   "cat": "hlt",
+   "id": "a0f18207101f",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국회 본회의 열어 산안안전보건법 처리…도시정비법은 추가 논의키로",
+   "summary": "일터에서 최근 1년 안에 노동자가 3명 이상 숨진 기업에 대해 영업이익의 5% 이내 과징금을 부과할 수 있는 내용의 산업안전보건법(산안법)이 국회 본회의에 오른다. 1일 국회는 본회의를 열어 산안법 등 포함해 본회의...",
+   "url": "https://view.asiae.co.kr/article/2026100110422716702",
+   "source": "아시아경제",
+   "published": "2026-10-01T10:56+09:00",
+   "cat": "law",
+   "id": "340fd1c00502",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "與 \"도정법 본회의 상정 순연…산안법은 처리 예정\"",
+   "summary": "민주당은 산업재해로 최근 1년 이내 3명의 사망자가 발생했을 때 영업이익의 5% 이내 과징금을 부과할 수 있도록 하는 산업안전보건법 개정안 본회의 의결을 추진하고 있다. 국민의힘은 영업이익의 5%는 과다한 수준이기...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437328",
+   "source": "einfomax.co.kr",
+   "published": "2026-10-01T10:52+09:00",
+   "cat": "law",
+   "id": "38552b2d3c11",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산업안전보건연구원 \"지역안전지수에 '산업안전' 항목 추가해야\"",
+   "summary": "1일 산업안전보건연구원의 오시리뷰 제 2026-4호에 따르면 지역안전지수(행정안전부) 내 산업재해 분야 지표 신설 방안에 대한 연구가 진행된다. 행정안전부는 2015년부터 지역별 안전수준과 안전의식을 진단·분석한...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250809",
+   "source": "안전신문",
+   "published": "2026-10-01T10:52+09:00",
+   "cat": "hlt",
+   "id": "a1938f997c77",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "“다친 곳에서 또 다친다”… 식품 대기업 ‘반복적 산재’ 속 박해철 ...",
+   "summary": "[세종=위키트리 양완영 기자] 국내 대표 식품·음료 대기업 생산 현장에서 산업재해가 매년 반복적으로... 미국의 직업안전위생국(OSHA)이나 유럽연합(EU)의 사업장 안전보건관리체계(OSHMS)는 사고 발생 시 작업자 행동을...",
+   "url": "https://www.wikitree.co.kr/articles/1163231",
+   "source": "위키트리",
+   "published": "2026-10-01T10:50+09:00",
+   "cat": "hlt",
+   "id": "aeda26e505cd",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[해경의 하루] 새벽 바다서 11명 전원 구조…150명 탄 항공기 추락 가정...",
+   "summary": "훈련에는 영종구청과 영종구보건소, 영종소방서, 인천국제공항공사, 인천해역방어사령부, 육군 제17사단 제3경비단, 해양환경관리공단 인천지사, 어선안전조업국, 해양재난구조대 등이 참여했다. 각 기관은 해상 수색과...",
+   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96344",
+   "source": "뉴시안",
+   "published": "2026-10-01T10:48+09:00",
+   "cat": "acc",
+   "id": "46f7a040cb06",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산재 과징금 ‘영업익 5%’ vs ‘최대 50억원’…오늘 국회 본회의서 격...",
+   "summary": "안전·보건 조치 위반으로 1년간 근로자 3명 이상이 사망한 기업에 영업이익의 최대 5%를 과징금으로... 노동부의 산재 예방 정책 측면에서는 경제적 제재가 기업의 안전 투자와 재발 방지 조치를 얼마나 유도할 수...",
+   "url": "https://biz.heraldcorp.com/article/10890187?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-01T10:43+09:00",
+   "cat": "law",
+   "id": "d04b5d9410e7",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "李대통령, 지뢰폭발에 北 언급 없이 “불의의 사고, 마음 아프다”",
+   "summary": "우리 기술로 만든 핵추진 잠수함 건조까지 성공적으로 이뤄낼 것”이라고 했다. 이 대통령은 “돌이켜보면... 재설계해 ‘스마트 정예 강군’으로 도약하겠다고 했다. 또 미래전에 대비해 국군사관학교를 창설해 세계 일류...",
+   "url": "https://www.chosun.com/politics/politics_general/2026/10/01/SRBRP3Q3HJCMLJLY7VINS42M2Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "조선일보",
+   "published": "2026-10-01T10:37+09:00",
+   "cat": "tech",
+   "id": "974d4ecb5928",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[아유경제_사회] 노무법인 권리 이정윤 과장 \"산재는 사고 이후 초기 대...",
+   "summary": "특히 산재보험 신청부터 업무상 재해 입증, 근로복지공단의 사실관계 확인과 보완 요구 대응까지 초기 절차를... 이어 \"특히 업무상 사고뿐 아니라 근골격계 질환, 뇌심혈관질환, 직업성 암 등 업무상 질병의 경우에는...",
+   "url": "http://www.areyou.co.kr/news/articleView.html?idxno=95605",
+   "source": "areyou.co.kr",
+   "published": "2026-10-01T10:36+09:00",
+   "cat": "hlt",
+   "id": "5eaea733395e",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "부산시 부산진구, 중대산업재해 예방 전문가 특강 개최",
+   "summary": "부산시 부산진구가 최근 구청 공무원과 현업 근로자들을 대상으로 중대산업재해를 예방하기 위한 전문가 특강을 실시했습니다. 이번 특강에서는 광범위하고 개념이 어려운 물질안전보건자료를 비롯한 각종...",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=556900",
+   "source": "lghellovision.net",
+   "published": "2026-10-01T10:32+09:00",
+   "cat": "acc",
+   "id": "5634a51af8d1",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "세종시설공단, 중대재해 사례 중심 '안전보건 실무교육' 실시",
+   "summary": "교육에는 고용노동부 근로감독관이 강사로 참여해 실제 사고와 중대재해, 과태료 부과사례를 바탕으로 안전보건 업무 수행자별 역할과 책임을 설명했다. 또 사업장에서 확인해야 할 주요 점검사항과 조치 방법을 실무...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3710238",
+   "source": "국제뉴스",
+   "published": "2026-10-01T10:28+09:00",
+   "cat": "acc",
+   "id": "92f729db0d5a",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "연휴에도 무급 출근? 직원 1명 차이로 갈리는 '노동자 운명'",
+   "summary": "특히 2024년 산업재해 사망자의 4분의 1(526명)도 5인 미만 사업장에서 나왔다. 자영업자를 뺀 236만 명의 5인... 이 가운데 산재보험(151만 명)이나 고용보험(91만 명) 적용은 소수에 그친다. 게다가 고용보험 자격을 잃은 뒤...",
+   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-01T10:22+09:00",
+   "cat": "acc",
+   "id": "02a47164b5e0",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "노무제공자 산재 신청 866→1만5804건…7년 만에 18배 폭증",
    "summary": "골프 카트 사고나 타구 사고, 근골격계 질환 등 개인 책임으로 전가되던 사고들이 제도를 통해 수면 위로 가시화된 영향으로 풀이된다. 박 의원은 “노무제공자 산재 신청이 크게 증가한 것은 산재보험 적용 직종이...",
@@ -87,7 +291,13 @@
    "published": "2026-10-01T09:58+09:00",
    "cat": "acc",
    "id": "04d50c9dc1d2",
-   "related": [],
+   "related": [
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869307",
+     "title": "'사고 뒤 또 사고'...동원F&B·하림, 산재 반복 '상위'"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -380,6 +590,16 @@
      "source": "헤럴드경제",
      "url": "https://biz.heraldcorp.com/article/10889740?ref=naver",
      "title": "검찰 지휘 벗어나는 노동감독관…변호사·노무사 자격 보유 17명"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/01/2026100190094.html",
+     "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=551870",
+     "title": "검찰 지휘 사라지는 노동감독관… 전문자격 보유자 고작 17명"
     }
    ],
    "day": "2026-10-01",
@@ -492,6 +712,11 @@
      "source": "shinailbo.co.kr",
      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067629",
      "title": "국회 오늘 본회의…산안법·도정법 놓고 여야 이견"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109699",
+     "title": "국회, 오늘 오후 본회의…산안법·도정법 등 처리 예정"
     }
    ],
    "day": "2026-10-01",
@@ -955,7 +1180,13 @@
    "published": "2026-09-30T17:30+09:00",
    "cat": "law",
    "id": "5ba99025c8d1",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017750",
+     "title": "한국산업단지공단, '산업단지 안전관리ㆍ인력 양성 협력' 업무협약 체결"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
