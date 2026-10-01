@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T15:23+09:00",
+ "updatedAt": "2026-10-01T16:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "뉴스1",
    "cat": "sev",
    "day": "2026-10-01",
-   "count": 10
+   "count": 13
   },
   {
    "id": "6d5c7b8a8ade",
@@ -40,16 +40,7 @@
    "source": "뉴스핌",
    "cat": "sev",
    "day": "2026-10-01",
-   "count": 9
-  },
-  {
-   "id": "f759c2d7556b",
-   "title": "산업안전공단-한국ESG학회, 산업안전보건 가치 표준화 협력",
-   "url": "https://n.news.naver.com/mnews/article/001/0016350764?sid=102",
-   "source": "연합뉴스",
-   "cat": "tech",
-   "day": "2026-10-01",
-   "count": 4
+   "count": 10
   },
   {
    "id": "41a017e4ea70",
@@ -58,19 +49,380 @@
    "source": "KPI뉴스",
    "cat": "hlt",
    "day": "2026-10-01",
+   "count": 5
+  },
+  {
+   "id": "535bf6f0c0c9",
+   "title": "[속보] 산업안전보건법 개정안, 여당 주도 국회 본회의 통과",
+   "url": "https://n.news.naver.com/mnews/article/016/0002704476?sid=100",
+   "source": "헤럴드경제",
+   "cat": "law",
+   "day": "2026-10-01",
    "count": 4
   },
   {
-   "id": "adc7e8a9c356",
-   "title": "폭발사고 반복된 한화에어로…산안법 위반 473건 적발",
-   "url": "https://news.cpbc.co.kr/article/1176079?division=NAVER",
-   "source": "cpbc.co.kr",
+   "id": "e9ba6470532e",
+   "title": "‘산재 반복 시 최대 영업익 5% 과징금’ 산안법 개정안 국회 본회의 통...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001195673?sid=100",
+   "source": "조선일보",
    "cat": "law",
    "day": "2026-10-01",
    "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "8년간 13명 사망 한화에어로…중대재해처벌법 적용 받나",
+   "summary": "지난 8년간 13명의 사망자가 발생하면서 지적된 법 위반사항은 모두 1041건.중대재해처벌법 제정 이전부터 폭발·화재 사고가 발생했지만, 여전히 동일한 안전보건규칙 위반 사항이 지적되고 있습니다.때문에 반복 위험...",
+   "url": "https://news.mtn.co.kr/news-detail/2026100114440878290",
+   "orig": "https://news.mtn.co.kr/news-detail/2026100114440878290",
+   "source": "mtn.co.kr",
+   "published": "2026-10-01T16:14+09:00",
+   "cat": "sev",
+   "id": "aebd6f0b1fa6",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "경총, 산안법 국회 통과에 우려 “산재사망 과징금 과도”",
+   "summary": "(사진=연합뉴스) 산업재해 사망사고 발생 기업에 영업이익의 최대 5%를 과징금으로 부과하는 산업안전보건법... 경총은 최근 수년간 산업안전보건법 전부 개정과 중대재해처벌법 제정 등 사업주 처벌을 강화하는 입법이...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006378813?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=05051206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-01T16:14+09:00",
+   "cat": "sev",
+   "id": "21057490f40d",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정안 국회 통과에 \"과도하고 비현실적…매우 우려\"",
+   "summary": "산업재해가 반복적으로 일어난 기업에 영업이익의 최대 5%를 과징금으로 부과할 수 있는 산업안전보건법 개정... 실질적인 안전관리 역량 제고를 지원하는 합리적 입법 논의가 추진되기를 요구한다\"며 \"정부 역시 이번 법...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204539?sid=101",
+   "orig": "https://www.news1.kr/industry/general-industry/6307918",
+   "source": "뉴스1",
+   "published": "2026-10-01T16:14+09:00",
+   "cat": "law",
+   "id": "b4db3499e673",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "한기대, AI 직업훈련 혁신 넘어 산업현장 안전·인재양성까지",
+   "summary": "한편 산업단지 중소기업의 안전관리와 인력양성 지원에도 나선다. 한기대 직업능력심사평가원은 9월 30일 서울 중구 포스트타워에서 고용노동부와 훈련기관 관계자 등 100여 명이 참석한 가운데 '2026년 직업훈련 혁신...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1184832",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1184832",
+   "source": "금강일보",
+   "published": "2026-10-01T16:10+09:00",
+   "cat": "tech",
+   "id": "33c286e86b47",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "'상습 산재 철퇴법' 통과…영업익 최대 5% 과징금",
+   "summary": "국회는 이날 본회의를 열고 산업안전보건법 개정안 등 법률안 63건을 의결했다. 산안법 개정안은 재석 219명 중 찬성 161명, 반대 52명, 기권 6명으로 가결됐다. 국민의힘은 과징금 수준이 과도하다며 반대했으나 필리버스터...",
+   "url": "https://n.news.naver.com/mnews/article/417/0001159845?sid=100",
+   "orig": "https://www.sidae.com/article/2026100114550858390",
+   "source": "sidae.com",
+   "published": "2026-10-01T16:09+09:00",
+   "cat": "law",
+   "id": "0544b3b24bfc",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "‘영업이익 5% 과징금’ 산안법 본회의 통과…‘외국인 상호주의’ 국민...",
+   "summary": "이상이 사망하면 사업주에게 영업이익 5% 이내에서 과징금을 부과하는 내용이 핵심이다. 일정 기간에 지속적 안전사고를 일으킨 기업에 경제적 불이익을 줘 산업재해 예방을 유도하겠다는 취지다. 중대재해가 반복...",
+   "url": "https://www.etoday.co.kr/news/view/2631608",
+   "orig": "https://www.etoday.co.kr/news/view/2631608",
+   "source": "이투데이",
+   "published": "2026-10-01T16:08+09:00",
+   "cat": "law",
+   "id": "133a79e4d125",
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003471787?sid=100",
+     "orig": "https://www.etnews.com/20261001000430",
+     "title": "'반복 산재 땐 영업이익 5% 과징금'…산안법, 野 반대에도 본회의 통과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국회, '산재 반복땐 영업이익 5% 과징금' 산안법 등 60여건 처리",
+   "summary": "이번 개정안엔 최근 1년 이내 3명 이상이 사망하는 중대 산업재해가 발생한 기업에 영업이익의 5% 이내의 과징금을 부과하는 내용이 담겼다. 국민의힘은 과징금 수준이 과도하다며 이에 캡(cap)을 씌워야 한다고 주장하고...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005823677?sid=100",
+   "orig": "https://view.asiae.co.kr/article/2026100116073405875",
+   "source": "아시아경제",
+   "published": "2026-10-01T16:07+09:00",
+   "cat": "law",
+   "id": "e57f70131cb6",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "유연석·이정현도 땄다…20대부터 60대까지 몰리는 선호도 1위 자격증",
+   "summary": "고용노동부와 한국산업인력공단의 2023년 통계에서는 지게차운전기능사가 남성 청년이 가장 많이 취득한... 필기에서는 지게차 주행과 화물 적재·운반·하역, 안전관리 등을 평가하고, 실기에서는 실제 지게차를 이용해...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004163350?sid=102",
+   "orig": "https://www.segye.com/newsView/20261001511141?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-01T16:06+09:00",
+   "cat": "law",
+   "id": "1a9f23161236",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정안, '중복 제재' 현장 우려 속 與 주도 본회의 통과",
+   "summary": "산업재해 사망자 발생 사업장 규제를 강화하는 내용의 산업안전보건법 개정안이 국회를 통과했다. 1일 오후... 형사처벌하는 중대재해처벌법이 시행되고 있지만 산재 감소 효과가 없는 상황\"이라며 \"또다시 경제 제재를...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005421149?sid=102",
+   "orig": "https://www.mt.co.kr/society/2026/10/01/2026100115560142974",
+   "source": "머니투데이",
+   "published": "2026-10-01T16:03+09:00",
+   "cat": "law",
+   "id": "37f508595eef",
+   "related": [
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068023",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068023",
+     "title": "산안법 개정안, 野 반대 토론 속 본회의 통과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "통과되는 산업안전보건법 일부개정법률안",
+   "summary": "1일 오후 서울 여의도 국회에서 열린 제439회(정기회) 제10차 본회의에서 산업안전보건법 일부개정법률안이 통과되고 있다. 2026.10.01. ks@newsis.com",
+   "url": "https://n.news.naver.com/mnews/article/003/0014228017?sid=100",
+   "orig": "https://www.newsis.com/view/NISI20261001_0021470943",
+   "source": "뉴시스",
+   "published": "2026-10-01T16:02+09:00",
+   "cat": "law",
+   "id": "1028e34af17b",
+   "related": [
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261001001230",
+     "orig": "https://www.newspim.com/news/view/20261001001230",
+     "title": "산업안전보건법 일부개정법률안 가결"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "여야, 10월 첫 본회의서 '민생협치'…산안법은 이견",
+   "summary": "쟁점 법안인 산업안전보건법(산안법) 개정안도 국민의힘이 반대토론에 나섰지만 필리버스터(무제한 토론)는 하지 않으면서, 법안 처리는 예정대로 진행됐다. 산안법 개정안은 연간 3명 이상의 산업재해 사고가 발생하는...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2001934",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2001934",
+   "source": "m-i.kr",
+   "published": "2026-10-01T16:02+09:00",
+   "cat": "law",
+   "id": "fa765f898562",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[속보] 산업안전보건법 개정안, 여당 주도 국회 본회의 통과",
+   "summary": "1일 서울 여의도 국회에서 열린 제439회국회(정기회) 제10차 본회의에서 산업재해 예방을 골자로 하는 산업안전보건법 개정안(산안법)이 통과되고 있다. 2026.10.01. jhope@newsis.com",
+   "url": "https://n.news.naver.com/mnews/article/016/0002704476?sid=100",
+   "orig": "https://biz.heraldcorp.com/article/10890819?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-01T16:01+09:00",
+   "cat": "law",
+   "id": "535bf6f0c0c9",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014228014?sid=100",
+     "orig": "https://www.newsis.com/view/NISI20261001_0021470945",
+     "title": "산업안전보건법 개정안 통과"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009204501?sid=100",
+     "orig": "https://www.news1.kr/photos/8137859",
+     "title": "산업안전보건법 개정안 본회의 통과"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003138669?sid=100",
+     "orig": "https://www.dailian.co.kr/news/view/1696993/?sc=Naver",
+     "title": "'산업안전보건법 일부개정법률안(대안)', 국회 본회의 통과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "‘산재 반복 시 최대 영업익 5% 과징금’ 산안법 개정안 국회 본회의 통...",
+   "summary": "응급의료법 개정안 등 법안 64건 처리 농어촌구조개선 특별회계법 개정안은 부결 산업재해가 반복해서 발생하는 기업에 최대 영업이익 5% 과징금을 부과하는 산업안전보건법 개정안이 국회 본회의를 통과했다. 국회는...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001195673?sid=100",
+   "orig": "https://biz.chosun.com/policy/politics/assembly/2026/10/01/44BQ2J6RZVHPJFVBT7O7YW2SXA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-01T16:00+09:00",
+   "cat": "law",
+   "id": "e9ba6470532e",
+   "related": [
+    {
+     "source": "todaykorea.co.kr",
+     "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406708",
+     "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=406708",
+     "title": "[속보] 산안법 개정안, 국회 본회의서 가결"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261001001203",
+     "orig": "https://www.newspim.com/news/view/20261001001203",
+     "title": "경총 \"산안법 개정안 우려…영업익 5% 과징금 과도\""
+    },
+    {
+     "source": "newsworks.co.kr",
+     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855345",
+     "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=855345",
+     "title": "[속보] '산재 반복 시 영업익 5% 과징금' 산안법 개정안 본회의 통과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[입법레이더] '산재 과징금' 산업안전법, 사고 예방 실효성은?",
+   "summary": "사진/챗GPT | 서울=한스경제 신보경 기자 | 산업재해가 반복되는 기업에 영업이익의 최대 5%를 과징금으로 부과하는 내용의 산업안전보건법 개정안이 본격적인 시행을 앞두고 있다. 산안법 개정안은 사고가 발생한 뒤 책임을...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869334",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=869334",
+   "source": "한스경제",
+   "published": "2026-10-01T16:00+09:00",
+   "cat": "law",
+   "id": "e7e2450af3bd",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[속보] 산재 반복 사업장에 영업이익 5% 과징금 부과 산안법, 국회 통과",
+   "summary": "산안법 개정안은 최근 1년 이내 3명 이상 사망자가 발생한 사업장에 영업이익 5% 이내 과징금 부과가 핵심 쟁점이었다. 국민의힘은 영업이익의 5%는 과도하다며 50억 원의 과징금 상한(캡)을 씌울 것을 대안으로...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000957154?sid=100",
+   "orig": "https://www.hankookilbo.com/news/article/A2026100115400003025?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-01T15:59+09:00",
+   "cat": "law",
+   "id": "60280d61988b",
+   "related": [
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005583810?sid=100",
+     "orig": "https://www.fnnews.com/news/202610011512443974",
+     "title": "다수·반복 산재 시 영업이익 5% 과징금...산안법 개정안 국회 통과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산안법, 국회 본회의 통과",
+   "summary": "1일 오후 서울 여의도 국회에서 열린 제439회국회(정기회) 제10차 본회의에서 산업안전보건법 일부개정법률안(대안)이 가결되고 있다. 2026.10.1/뉴스1",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204449?sid=100",
+   "orig": "https://www.news1.kr/photos/8137835",
+   "source": "뉴스1",
+   "published": "2026-10-01T15:59+09:00",
+   "cat": "law",
+   "id": "baa8e979f03a",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[속보]산업안전보건법 野 반대 속 국회 통과",
+   "summary": "반면 이용우 더불어민주당 의원은 중대재해처벌법 시행 이후에도 사고사망률이 높은 수준이라며 현행 제도의 한계를 보완하기 위한 법이라고 설명했다. 특히 작업중지권 요건을 완화하고 하청 노동자도 원청에...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006378790?sid=100",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=04946246645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-01T15:58+09:00",
+   "cat": "law",
+   "id": "fdf572c92365",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016351233?sid=100",
+     "orig": "https://www.yna.co.kr/view/PYH20261001248600013?input=1196m",
+     "title": "산업안전보건법 개정안 여권 주도 국회 통과"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009204505?sid=100",
+     "orig": "https://www.news1.kr/photos/8137860",
+     "title": "야당 반대 속 본회의 통과하는 산업안전보건법 개정안"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[속보] 연간 3명 이상 산재 사망시 '영업익 5%' 과징금…산안법 국회 통...",
+   "summary": "1일 국회 본회의.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204433?sid=100",
+   "orig": "https://www.news1.kr/politics/assembly/6307613",
+   "source": "뉴스1",
+   "published": "2026-10-01T15:56+09:00",
+   "cat": "sev",
+   "id": "32c50723c421",
+   "related": [
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005421136?sid=100",
+     "orig": "https://www.mt.co.kr/politics/2026/10/01/2026100115563463821",
+     "title": "[속보]'산재 사망시 영업이익 5% 과징금' 산안법 개정안, 국회 통과"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261001001228",
+     "orig": "https://www.newspim.com/news/view/20261001001228",
+     "title": "연간 3명 이상 산재 사망시 '영업익 5%' 과징금… '산안법 가결'"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "방폭기기도 없었다…5명 숨진 한화에어로 안전위반 수두룩",
+   "summary": "[기자] 한화에어로 대전사업장에서는 지난 6월 폭발 사고로 노동자 5명이 숨지고 2명이 다쳤는데요. 이에... 또 추락·끼임·감전 등 기본적인 안전조치가 지켜지지 않은 사례도 93건에 달했습니다. [앵커] 한화에어로의...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000535870?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000337863?division=NAVER",
+   "source": "SBS",
+   "published": "2026-10-01T15:48+09:00",
+   "cat": "sev",
+   "id": "a39d36e5c23b",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, ESG학회와 맞손…ESG경영·상생모델 구축 협력",
+   "summary": "한국산업안전보건공단이 환경·사회·지배구조(ESG) 경영 확산에 나선다. 안전보건공단은 1일 한국ESG학회와 1일 공단 서울광역본부에서 '산업안전보건 분야 상생 및 ESG 경영 확산을 위한 업무협약'을 체결했다. 사회 분야...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005583783?sid=101",
+   "orig": "https://www.fnnews.com/news/202610011006394828",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-01T15:30+09:00",
+   "cat": "tech",
+   "id": "0471ee37c9cc",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "野 \"대형 국정공백 사태…본회의서 산안법 반대토론\"",
    "summary": "국회 본회의에선 여야 합의가 안 된 산업안전보건법이 상정된 데 대해 반대 토론을 하기로 했다. 정점식 원내대표는 이날 오후 의원총회에서 \"법무부 장관, 공소청장, 중대범죄수사처장, 경찰청장 전원이 공석\"이라며...",
@@ -242,7 +594,14 @@
    "published": "2026-10-01T14:26+09:00",
    "cat": "acc",
    "id": "e28b2f37ae43",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스투데이",
+     "url": "https://www.news2day.co.kr/article/20261001500228",
+     "orig": "https://www.news2day.co.kr/article/20261001500228",
+     "title": "고용노동부, 한화에어로스페이스 대전사업장 특별감독결과 발표... 법 위..."
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -476,6 +835,12 @@
      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250817",
      "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250817",
      "title": "국토안전관리원, 건설현장 비상대응체계 실전 점검"
+    },
+    {
+     "source": "snmnews.com",
+     "url": "http://www.snmnews.com/news/articleView.html?idxno=575379",
+     "orig": "http://www.snmnews.com/news/articleView.html?idxno=575379",
+     "title": "한국비계기술원·국토안전관리원 영남본부, 건설현장 비상대응 합동훈..."
     }
    ],
    "day": "2026-10-01",
@@ -619,7 +984,14 @@
    "published": "2026-10-01T12:04+09:00",
    "cat": "sev",
    "id": "40305134ac78",
-   "related": [],
+   "related": [
+    {
+     "source": "동아일보",
+     "url": "https://n.news.naver.com/mnews/article/020/0003752089?sid=102",
+     "orig": "https://www.donga.com/news/Society/article/all/20261001/134768182/1",
+     "title": "‘7명 사상 폭발사고’ 한화에어로 대전사업장에 과태료 5억"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -730,6 +1102,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014226899?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261001_0003810719",
      "title": "울산항만공사, 소규모 사업장 안전보건체계 구축 지원"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004194855?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6585973?utm_source=naver&utm_medium=article&utm_campaign=20261001040312",
+     "title": "울산항만공사, 소규모 사업장 안전보건관리체계 구축 지원"
     }
    ],
    "day": "2026-10-01",
@@ -769,7 +1147,14 @@
    "published": "2026-10-01T12:01+09:00",
    "cat": "law",
    "id": "7ba7d00a9848",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100293.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100293.html",
+     "title": "폭발사고 난 한화에어로 대전사업장, 고용부 특별감독서 473건 위반 적발..."
+    }
+   ],
    "day": "2026-10-01",
    "watch": [],
    "orig": "https://imnews.imbc.com/news/2026/society/article/6855173_36918.html"
@@ -848,6 +1233,24 @@
      "url": "https://n.news.naver.com/mnews/article/138/0002243375?sid=101",
      "orig": "https://www.ddaily.co.kr/page/view/2026100115063960944",
      "title": "5명 숨진 한화에어로 대전사업장…'폭발·화재' 안전위반 무더기 적발"
+    },
+    {
+     "source": "대전일보",
+     "url": "https://n.news.naver.com/mnews/article/656/0000188313?sid=102",
+     "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2304627",
+     "title": "한화에어로 대전사업장, 폭발·화재 안전조치 위반 무더기 적발"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137290",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137290",
+     "title": "'5명 사망' 한화에어로 대전사업장...특별감독서 안전조치 위반 확인"
+    },
+    {
+     "source": "tfmedia.co.kr",
+     "url": "https://www.tfmedia.co.kr/news/article.html?no=207639",
+     "orig": "https://www.tfmedia.co.kr/news/article.html?no=207639",
+     "title": "고용부, '폭발 사망사고' 한화에어로 대전사업장서 473건 위반사항 적발"
     }
    ],
    "day": "2026-10-01",
@@ -910,6 +1313,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2001787",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2001787",
      "title": "'7명 사상' 한화에어로, 안전 문제 심각 수준…법 위반 473건"
+    },
+    {
+     "source": "tjb.co.kr",
+     "url": "https://www.tjb.co.kr/news05/bodo/view/id/104299",
+     "orig": "https://www.tjb.co.kr/news05/bodo/view/id/104299",
+     "title": "[자막뉴스]'7명 사상' 한화에어로, 노동부 감독서 법 위반 473건 적발"
     }
    ],
    "day": "2026-10-01",
@@ -1226,7 +1635,14 @@
    "published": "2026-10-01T10:43+09:00",
    "cat": "law",
    "id": "d04b5d9410e7",
-   "related": [],
+   "related": [
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003555153?sid=100",
+     "orig": "https://www.joongang.co.kr/article/25466398",
+     "title": "[속보]‘영업익 5%’ 산재 과징금법 국회 본회의 통과"
+    }
+   ],
    "day": "2026-10-01",
    "watch": [],
    "orig": "https://biz.heraldcorp.com/article/10890187?ref=naver"
@@ -1275,7 +1691,14 @@
    "published": "2026-10-01T10:28+09:00",
    "cat": "law",
    "id": "92f729db0d5a",
-   "related": [],
+   "related": [
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2001866",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2001866",
+     "title": "세종시설관리공단, 사고 사례 중심 안전보건 실무교육 실시"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -2426,7 +2849,20 @@
    "published": "2026-09-30T16:56+09:00",
    "cat": "hlt",
    "id": "e67254c04ae7",
-   "related": [],
+   "related": [
+    {
+     "source": "bokuennews.com",
+     "url": "http://www.bokuennews.com/news/article.html?no=284996",
+     "orig": "http://www.bokuennews.com/news/article.html?no=284996",
+     "title": "축산물품질평가원, 3분기 산업안전보건위원회 개최"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000125740?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261001580406",
+     "title": "연천군, 2026년 3분기 산업안전보건위원회 개최"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
