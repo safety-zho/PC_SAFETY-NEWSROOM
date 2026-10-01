@@ -273,7 +273,10 @@ def category_allowed(art: dict, cat: dict) -> bool:
     if not req:
         return True
     title = art["title"].lower()
-    if not contains_any(title, req):
+    # require_in_title 중 하나가 있거나, require_all_groups의 모든 묶음에서 하나씩 있으면 통과
+    groups = cat.get("require_all_groups")
+    ok = contains_any(title, req) or (bool(groups) and all(contains_any(title, g) for g in groups))
+    if not ok:
         return False
     if contains_any(title, cat.get("not_if_title_has", [])) and not contains_any(title, cat.get("hard_in_title", [])):
         return False
@@ -290,6 +293,10 @@ def classify(art: dict, found_by: set[str], cfg: dict) -> str:
     title = art["title"].lower()
     desc = art.get("summary", "").lower()
     best, best_score = None, -1
+    for cat in cfg["categories"]:
+        # priority 분류(중대재해)는 조건만 맞으면 점수와 관계없이 우선 배정
+        if cat.get("priority") and category_allowed(art, cat):
+            return cat["id"]
     for cat in cfg["categories"]:
         if not category_allowed(art, cat):
             continue
@@ -484,7 +491,8 @@ def main(argv: list[str]) -> int:
                 x["source"] = source_from_url("https://" + x["source"])
     for a in stored:  # 분류 조건(require_in_title 등)을 더 이상 만족하지 않는 보관 기사는 다시 분류
         cat = next((c for c in cfg["categories"] if c["id"] == a.get("cat")), None)
-        if cat is None or not category_allowed(a, cat):
+        prio = [c["id"] for c in cfg["categories"] if c.get("priority") and category_allowed(a, c)]
+        if cat is None or not category_allowed(a, cat) or (prio and a.get("cat") != prio[0]):
             a["cat"] = classify(a, set(), cfg)
     stored, _ = merge([], stored)
     removed = len(data.get("articles", [])) - len(stored)
