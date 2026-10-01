@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T12:18+09:00",
+ "updatedAt": "2026-10-01T12:46+09:00",
  "categories": [
   {
    "id": "acc",
@@ -32,7 +32,7 @@
   {
    "id": "49cbc5fc37e9",
    "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
-   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016348749?sid=102",
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-01",
@@ -41,7 +41,7 @@
   {
    "id": "ee26ecac5be9",
    "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
-   "url": "https://www.newsis.com/view/NISX20260930_0003809493",
+   "url": "https://n.news.naver.com/mnews/article/003/0014225311?sid=100",
    "source": "뉴시스",
    "cat": "law",
    "day": "2026-10-01",
@@ -50,7 +50,7 @@
   {
    "id": "90569eded323",
    "title": "국회 오늘 본회의…민주당, 산안법·도정법 처리 예고",
-   "url": "http://www.joseilbo.com/news/news_read.php?uid=576628&class=32&grp=",
+   "url": "https://n.news.naver.com/mnews/article/123/0002391106?sid=100",
    "source": "joseilbo.com",
    "cat": "law",
    "day": "2026-10-01",
@@ -67,6 +67,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "문경레저타운, 골프장 안전관리 강화...지역 아동 위한 나눔도 지속",
+   "summary": "문경레저타운이 골프장과 리조트 내 안전관리 강화와 지역사회 상생을 위한 나눔 활동에 적극 나서고 있다.문경레저타운은 중대재해 예방을 위해 골프장과 리조트 내 안전사고 우려가 있는 시설과 요인을 전면 점검하고...",
+   "url": "https://www.kbsm.net/news/view.php?idx=536220",
+   "orig": "https://www.kbsm.net/news/view.php?idx=536220",
+   "source": "kbsm.net",
+   "published": "2026-10-01T12:42+09:00",
+   "cat": "acc",
+   "id": "1566e568d487",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "오후 본회의...D-1 중수청.공소청 출범 공방",
+   "summary": "여야는 산업안전보건법 개정안을 비롯한 민생 법안 60여 건을 처리할 방침입니다. 산업재해로 연간 3명 이상 사고가 발생한 기업에 영업이익의 최대 5％ 과징금을 부과하도록 하는 내용의 산업안전보건법 개정안에는 여야...",
+   "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514363",
+   "orig": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514363",
+   "source": "natv.go.kr",
+   "published": "2026-10-01T12:40+09:00",
+   "cat": "law",
+   "id": "d30f1d2ed92b",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국힘 임종득 \"유해물질 노출 위험 개선 예산 미반영\"...장병·군무원 안...",
+   "summary": "육군에 따르면 춘천지역 유류시험실은 기존 일반사무실을 시험공간으로 활용하는데 현 시설은 산업안전보건법상 요구되는 작업환경 기준을 충족하지 못하고 있어 관련 법령을 준수하고 근무자의 안전을 확보하기 위해...",
+   "url": "https://www.kbsm.net/news/view.php?idx=536197",
+   "orig": "https://www.kbsm.net/news/view.php?idx=536197",
+   "source": "kbsm.net",
+   "published": "2026-10-01T12:38+09:00",
+   "cat": "hlt",
+   "id": "b1d9a1e9e9b2",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "논산시 안전문화 확산을 위한 캠페인 전개",
+   "summary": "최근 산업현장 내 사고가 빈번하게 발생함에 따라 논산시는 안전문화 확산과 안전보건 관리체계 구축 등을 통해 근로자들의 인식을 높이고 안전한 작업환경을 조성하기 위한 노력을 지속하고 있다. 캠페인에서는...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930291",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=930291",
+   "source": "cctimes.kr",
+   "published": "2026-10-01T12:38+09:00",
+   "cat": "hlt",
+   "id": "14854bf196e2",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[기자수첩] 자유로운 노동이라는 속삭임",
+   "summary": "이현주 참여연대 민생희망본부 간사는 \"현재 국회에는 야간작업을 하루 최대 10시간, 주당 최대 48시간으로 제한하는 내용의 산업안전보건법 개정안이 발의된 상황\"이라며 \"노동자와 국회 한 축에서는 야간 노동을 수행하는...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2001715",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2001715",
+   "source": "m-i.kr",
+   "published": "2026-10-01T12:34+09:00",
+   "cat": "law",
+   "id": "53f49d1373e0",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "'7명 사상' 한화에어로 473건 적발...\"안전장치 없이 위험 노출\"",
+   "summary": "이 사업장에서는 지난 6월, 세척공실에서 로켓용 고체 추진제를 닦아내던 중 폭발이 일어나 노동자 5명이... 이 외에도 화학물질 안전자료를 게시하지 않거나 작업자 특별교육을 빠뜨린 행위 등에 대해 과태료 5억여 원을...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002413350?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0115_202610011233445827",
+   "source": "YTN",
+   "published": "2026-10-01T12:33+09:00",
+   "cat": "hlt",
+   "id": "977f07d3667a",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "안전보건공단 대구광역본부, 어린이 대상 산업안전 체험교육",
    "summary": "안전보건공단 대구광역본부가 지난 30일 북구 옻골동산에서 열린 ‘2026년 하반기 어린이 안전체험 캠프’에서 어린이 대상 산업안전 체험교육을 진행했다.이번 교육은 어린이들이 평소 접하기 어려운 산업현장의...",
@@ -130,26 +208,28 @@
   {
    "title": "오후 본회의에 산안법 상정…野 필버에 반대 토론으로 대응",
    "summary": "산안법 개정안은 최근 1년 이내 3명 이상의 사망자가 발생한 사업장에 영업이익의 5% 이내에서 과징금을... 하는지 산재 유가족 앞에서도 똑같이 말할 수 있는지 답해야 한다\"고 했다. 한편 김승수 국민의힘...",
-   "url": "https://www.news1.kr/politics/assembly/6307426",
+   "url": "https://n.news.naver.com/mnews/article/421/0009203290?sid=100",
    "source": "뉴스1",
    "published": "2026-10-01T12:02+09:00",
    "cat": "law",
    "id": "6059604c03f4",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.news1.kr/politics/assembly/6307426"
   },
   {
    "title": "7명 사상 한화에어로 ‘안전보건규칙 위반’ 184건…과태료 5억",
    "summary": "지난 6월1일 폭발 사고로 5명의 사망자, 2명의 부상자가 발생한 한화에어로스페이스 대전사업장에 대한... 노동부는 안전보건규칙 위반과 하청 노동자 보호조치가 미진했던 5건까지 총 189건에 대해 즉시 사법처리하고, 총...",
-   "url": "https://www.hani.co.kr/arti/society/labor/1280371.html",
+   "url": "https://n.news.naver.com/mnews/article/028/0002825502?sid=102",
    "source": "한겨레",
    "published": "2026-10-01T12:02+09:00",
    "cat": "acc",
    "id": "20332ed93e50",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.hani.co.kr/arti/society/labor/1280371.html"
   },
   {
    "title": "한화에어로 대전사업장, 산안법령 473건 위반…189건 사법처리·과태료...",
@@ -162,8 +242,9 @@
    "related": [
     {
      "source": "세계일보",
-     "url": "https://www.segye.com/newsView/20261001506394?OutUrl=naver",
-     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반 5억원 과태료"
+     "url": "https://n.news.naver.com/mnews/article/022/0004163275?sid=102",
+     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반 5억원 과태료",
+     "orig": "https://www.segye.com/newsView/20261001506394?OutUrl=naver"
     }
    ],
    "day": "2026-10-01",
@@ -177,45 +258,55 @@
    "published": "2026-10-01T12:01+09:00",
    "cat": "hlt",
    "id": "41a017e4ea70",
-   "related": [],
+   "related": [
+    {
+     "source": "betanews.net",
+     "url": "https://www.betanews.net/article/view/beta202610010053",
+     "orig": "https://www.betanews.net/article/view/beta202610010053",
+     "title": "[로컬 게시판/울산항만공사] 소규모 사업장 안전보건관리체계 구축 지원"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
   {
    "title": "세 차례 폭발·화재로 13명 숨졌는데…한화에어로 대전사업장 안전위반...",
    "summary": "사망사고 유형인 폭발·화재와 업종 특성에 따른 위험물질 누출 방지조치, 유해물질 관리, 공정안전보고서... 하청 노동자 보호와 관련해서는 작업장 순회점검, 위험물질 특별교육, 안전보건협의체 운영 등을 이행하지...",
-   "url": "https://biz.heraldcorp.com/article/10890163?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/016/0002704336?sid=101",
    "source": "헤럴드경제",
    "published": "2026-10-01T12:01+09:00",
    "cat": "acc",
    "id": "1d3836fed2a6",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://biz.heraldcorp.com/article/10890163?ref=naver"
   },
   {
    "title": "5명 숨진 한화에어로 대전공장, 정부 감독 결과 폭발 사고 '구멍'",
    "summary": "지난 6월 폭발 사고로 5명이 숨진 한화에어로스페이스 대전사업장에서 폭발·화재 관련 안전 위반이 46건... 추락·끼임·감전 관련 위반이다. 하청 노동자 보호조치 위반도 5건 적발됐다. 작업장 순회점검 미실시...",
-   "url": "https://www.nocutnews.co.kr/news/6585676?utm_source=naver&utm_medium=article&utm_campaign=20261001120011",
+   "url": "https://n.news.naver.com/mnews/article/079/0004194679?sid=102",
    "source": "노컷뉴스",
    "published": "2026-10-01T12:01+09:00",
    "cat": "acc",
    "id": "e82536cd812c",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.nocutnews.co.kr/news/6585676?utm_source=naver&utm_medium=article&utm_campaign=20261001120011"
   },
   {
    "title": "대전 한화에어로, 노동부 특별감독서 473건 위반 적발‥폭발·화재·누출...",
    "summary": "노동부는 오늘 한화에어로스페이스 대전사업장에 대한 특별감독 결과를 발표했습니다. 감독 결과 확인된... 등 산업안전을 위한 기반이 충분히 확보되지 못했다고 판단했습니다. 노동부는 위반사항에 대한 엄정 조치와...",
-   "url": "https://imnews.imbc.com/news/2026/society/article/6855173_36918.html",
+   "url": "https://n.news.naver.com/mnews/article/214/0001526720?sid=102",
    "source": "MBC",
    "published": "2026-10-01T12:01+09:00",
    "cat": "law",
    "id": "7ba7d00a9848",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://imnews.imbc.com/news/2026/society/article/6855173_36918.html"
   },
   {
    "title": "[국감, 핀셋] 인천·경기지역 환경미화원 산업재해 '심각'",
@@ -232,7 +323,7 @@
   {
    "title": "'5명 사망' 한화에어로 대전사업장, 안전 위반 473건 무더기 적발",
    "summary": "등 추락·끼임·감전 관련 위반도 93건 적발됐다. △작업장 순회점검 미실시 △안전보건협의체 미운영 등 하청 노동자 보호조치 위반도 5건 나왔다. 과태료 부과 대상 284건 중에서는 물질안전보건자료(MSDS) 위반이 56건...",
-   "url": "https://www.news1.kr/economy/employment-labor/6306886",
+   "url": "https://n.news.naver.com/mnews/article/421/0009203271?sid=101",
    "source": "뉴스1",
    "published": "2026-10-01T12:00+09:00",
    "cat": "acc",
@@ -240,12 +331,14 @@
    "related": [
     {
      "source": "전자신문",
-     "url": "https://www.etnews.com/20261001000202",
-     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반…과태료 5억"
+     "url": "https://n.news.naver.com/mnews/article/030/0003471611?sid=100",
+     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반…과태료 5억",
+     "orig": "https://www.etnews.com/20261001000202"
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.news1.kr/economy/employment-labor/6306886"
   },
   {
    "title": "'7명 사상' 한화에어로 과태료 5억 부과…법 위반 473건 적발",
@@ -258,23 +351,27 @@
    "related": [
     {
      "source": "뉴시스",
-     "url": "https://www.newsis.com/view/NISX20261001_0003810389",
-     "title": "'7명 사상' 한화에어로, 법 위반 473건 적발…과태료 5억"
+     "url": "https://n.news.naver.com/mnews/article/003/0014226611?sid=102",
+     "title": "'7명 사상' 한화에어로, 법 위반 473건 적발…과태료 5억",
+     "orig": "https://www.newsis.com/view/NISX20261001_0003810389"
     },
     {
      "source": "데일리안",
-     "url": "https://www.dailian.co.kr/news/view/1696554/?sc=Naver",
-     "title": "5명 숨진 대전 한화에어로서 안전위반 473건 적발…과태료 5억원 부과"
+     "url": "https://n.news.naver.com/mnews/article/119/0003138491?sid=102",
+     "title": "5명 숨진 대전 한화에어로서 안전위반 473건 적발…과태료 5억원 부과",
+     "orig": "https://www.dailian.co.kr/news/view/1696554/?sc=Naver"
     },
     {
      "source": "tf.co.kr",
-     "url": "https://news.tf.co.kr/read/life/2371850.htm",
-     "title": "'7명 사상' 한화에어로 법위반 473건 적발…과태료 5억원"
+     "url": "https://n.news.naver.com/mnews/article/629/0000538525?sid=102",
+     "title": "'7명 사상' 한화에어로 법위반 473건 적발…과태료 5억원",
+     "orig": "https://news.tf.co.kr/read/life/2371850.htm"
     },
     {
      "source": "이데일리",
-     "url": "https://www.edaily.co.kr/News/Read?newsId=03657206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-     "title": "한화에어로, 폭발 관리 위반 대거 적발…과태료 5억 부과"
+     "url": "https://n.news.naver.com/mnews/article/018/0006378459?sid=102",
+     "title": "한화에어로, 폭발 관리 위반 대거 적발…과태료 5억 부과",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=03657206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
     }
    ],
    "day": "2026-10-01",
@@ -283,14 +380,15 @@
   {
    "title": "‘폭발 사고로 5명 사망’ 한화에어로, 노동부 감독서 안전 위반 사항 ...",
    "summary": "노동부는 모두 473건의 위반 사항을 적발하고 안전보건 규칙 위반 184건, 하청 노동자 보호조치 위반 5건은 즉시 사법처리했습니다. 구체적으로 보면 폭발·화재 관련 46건, 위험물질 및 누출 관련 45건, 추락ㆍ끼임ㆍ감전...",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675564&ref=A",
+   "url": "https://n.news.naver.com/mnews/article/056/0012266217?sid=101",
    "source": "KBS",
    "published": "2026-10-01T12:00+09:00",
    "cat": "acc",
    "id": "7b3b996d3ac5",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675564&ref=A"
   },
   {
    "title": "폭발사고 반복된 한화에어로…산안법 위반 473건 적발",
@@ -303,13 +401,15 @@
    "related": [
     {
      "source": "연합뉴스",
-     "url": "https://www.yna.co.kr/view/AKR20261001090100530?input=1195m",
-     "title": "'7명 사상 폭발사고' 한화에어로, 법위반 473건…189건 사법처리"
+     "url": "https://n.news.naver.com/mnews/article/001/0016349943?sid=102",
+     "title": "'7명 사상 폭발사고' 한화에어로, 법위반 473건…189건 사법처리",
+     "orig": "https://www.yna.co.kr/view/AKR20261001090100530?input=1195m"
     },
     {
      "source": "조선일보",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/10/01/DQTOKN5H6ZAEFAKY3USMT4O4PM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "title": "‘폭발 사망사고’ 한화에어로, 법 위반 473건…사법처리 189건·과태료..."
+     "url": "https://n.news.naver.com/mnews/article/366/0001195587?sid=102",
+     "title": "‘폭발 사망사고’ 한화에어로, 법 위반 473건…사법처리 189건·과태료...",
+     "orig": "https://biz.chosun.com/topics/topics_social/2026/10/01/DQTOKN5H6ZAEFAKY3USMT4O4PM/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
    ],
    "day": "2026-10-01",
@@ -330,14 +430,15 @@
   {
    "title": "與, 1일 본회의서 산업안전보건법만 처리… 국민의힘은 필버 없이 반대...",
    "summary": "당초 더불어민주당과 국민의힘 입장이 달라 야당이 무제한 토론(필리버스터)까지 검토했던 산업안전보건법 개정안도 필리버스터 없이 처리하기로 합의했다. 민주당 천준호 원내운영수석부대표는 이날 국회에서...",
-   "url": "https://www.segye.com/newsView/20261001509095?OutUrl=naver",
+   "url": "https://n.news.naver.com/mnews/article/022/0004163270?sid=100",
    "source": "세계일보",
    "published": "2026-10-01T11:49+09:00",
    "cat": "law",
    "id": "544c8794425a",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.segye.com/newsView/20261001509095?OutUrl=naver"
   },
   {
    "title": "산업안전에도 '법 읽는AI' 등장, 현장 대응 정교해진다",
@@ -378,14 +479,15 @@
   {
    "title": "DMZ 지뢰폭발 사고...청와대 \"진상규명 후 조치\" [뉴스퀘어10]",
    "summary": "한국만 지금 중립국감독위원회가 있거든요. 이들이 굉장히 객관적입니다. 절대로 한국 편 들어주고 그런 게... 박정희 대통령께서는 소총 한 자루부터 우리 손으로 만들자며 방위산업의 첫 삽을 떴습니다. 노무현...",
-   "url": "https://www.ytn.co.kr/_ln/0101_202610011128444664",
+   "url": "https://n.news.naver.com/mnews/article/052/0002413328?sid=100",
    "source": "YTN",
    "published": "2026-10-01T11:28+09:00",
    "cat": "law",
    "id": "675dc4fbdc90",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ytn.co.kr/_ln/0101_202610011128444664"
   },
   {
    "title": "박해철 \"식품업계 산재 승인 상위 기업에 동원 F&B 104 건 최다…CJ 제일...",
@@ -402,7 +504,7 @@
   {
    "title": "국립부산과학관, 품질·환경·안전보건 국제인증 3종 획득",
    "summary": "과학관은 품질경영시스템(ISO 9001), 환경경영시스템(ISO 14001), 안전보건경영시스템(ISO 45001) 통합인증을 받았다고 1일 밝혔다. 이번 인증은 기관의 운영 실적보다 업무 절차와 관리체계가 국제표준에 부합하는지를...",
-   "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018912&cp=nv",
+   "url": "https://n.news.naver.com/mnews/article/005/0001876128?sid=102",
    "source": "국민일보",
    "published": "2026-10-01T11:22+09:00",
    "cat": "tech",
@@ -410,24 +512,27 @@
    "related": [
     {
      "source": "전자신문",
-     "url": "https://www.etnews.com/20261001000255",
-     "title": "국립부산과학관, 품질·환경·안전보건경영 ISO 3개 통합인증 획득"
+     "url": "https://n.news.naver.com/mnews/article/030/0003471620?sid=102",
+     "title": "국립부산과학관, 품질·환경·안전보건경영 ISO 3개 통합인증 획득",
+     "orig": "https://www.etnews.com/20261001000255"
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000018912&cp=nv"
   },
   {
    "title": "\"전두환도 내란 아냐\" 김태규에 화난 민주당 \"선 넘었다\"",
    "summary": "그는 이어 \"오늘 오후 본회의에서 노동자 생명을 지키는 산업안전보건법 개정을 비롯해 수많은 민생 법안이 기다리는데, 국민의힘은 거리로 나가겠다고 한다\"며 \"국회 문은 언제나 열려있는데 왜 거리로 나가는 건가....",
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271792&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "url": "https://n.news.naver.com/mnews/article/047/0002530852?sid=100",
    "source": "오마이뉴스",
    "published": "2026-10-01T11:11+09:00",
    "cat": "law",
    "id": "8dfb32243302",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271792&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
   },
   {
    "title": "완주군시설관리공단, 근로자 경미 부상 치료비 지원",
@@ -456,7 +561,7 @@
   {
    "title": "與 \"오늘 본회의서 도정법 처리 않기로…산안법 등 60여개 민생법안 처...",
    "summary": "대신, 민주당은 산업재해 예방을 골자로 하는 산업안전보건법 개정안(산안법)을 비롯한 민생 법안 60여건을 이날 본회의에서 처리하기로 했다. 이 원내대변인은 \"저희는 산안법 (처리를) 미룰 생각이 없고 국민의힘 주장은...",
-   "url": "https://www.newsis.com/view/NISX20261001_0003810463",
+   "url": "https://n.news.naver.com/mnews/article/003/0014226337?sid=100",
    "source": "뉴시스",
    "published": "2026-10-01T11:01+09:00",
    "cat": "law",
@@ -469,7 +574,8 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.newsis.com/view/NISX20261001_0003810463"
   },
   {
    "title": "사고 사례를 점검표로 바꾼 세종시설공단 안전교육",
@@ -558,14 +664,15 @@
   {
    "title": "산재 과징금 ‘영업익 5%’ vs ‘최대 50억원’…오늘 국회 본회의서 격...",
    "summary": "안전·보건 조치 위반으로 1년간 근로자 3명 이상이 사망한 기업에 영업이익의 최대 5%를 과징금으로... 노동부의 산재 예방 정책 측면에서는 경제적 제재가 기업의 안전 투자와 재발 방지 조치를 얼마나 유도할 수...",
-   "url": "https://biz.heraldcorp.com/article/10890187?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/016/0002704184?sid=101",
    "source": "헤럴드경제",
    "published": "2026-10-01T10:43+09:00",
    "cat": "law",
    "id": "d04b5d9410e7",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://biz.heraldcorp.com/article/10890187?ref=naver"
   },
   {
    "title": "李대통령, 지뢰폭발에 北 언급 없이 “불의의 사고, 마음 아프다”",
@@ -618,14 +725,15 @@
   {
    "title": "연휴에도 무급 출근? 직원 1명 차이로 갈리는 '노동자 운명'",
    "summary": "특히 2024년 산업재해 사망자의 4분의 1(526명)도 5인 미만 사업장에서 나왔다. 자영업자를 뺀 236만 명의 5인... 이 가운데 산재보험(151만 명)이나 고용보험(91만 명) 적용은 소수에 그친다. 게다가 고용보험 자격을 잃은 뒤...",
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "url": "https://n.news.naver.com/mnews/article/047/0002530843?sid=102",
    "source": "오마이뉴스",
    "published": "2026-10-01T10:22+09:00",
    "cat": "acc",
    "id": "02a47164b5e0",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
   },
   {
    "title": "노무제공자 산재 신청 866→1만5804건…7년 만에 18배 폭증",
@@ -672,14 +780,15 @@
   {
    "title": "사업주 실수로 '출국 위기'…\"외국인 근로자 구제 필요\"",
    "summary": "현행법상 업무상 재해·질병 등 귀책 사유가 없는 경우 기간을 연장해주는 규정이 있는 만큼 외국인 근로자 본인의 책임이 아닌 사유로 기간이 지난 경우 구제할 필요성이 인정된다는 것이다. 또 사업주의 과실로...",
-   "url": "https://view.asiae.co.kr/article/2026100108571096848",
+   "url": "https://n.news.naver.com/mnews/article/277/0005823296?sid=102",
    "source": "아시아경제",
    "published": "2026-10-01T09:54+09:00",
    "cat": "hlt",
    "id": "b576392a2521",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://view.asiae.co.kr/article/2026100108571096848"
   },
   {
    "title": "정읍시, 노동현장 안전관리 강화",
@@ -696,7 +805,7 @@
   {
    "title": "직업계고 실습 안전사고 5년간 3.4배↑…“대형 참사 예방을”",
    "summary": "하지만 이주영 의원은 “교육부가 제출한 산재 미처리 사고 자료에는 단순 타박·찰과상 등 경미한 부상 외에도 다리 골절이나 크레인 H빔 낙하 상처처럼 자칫 중대재해로 이어질 수 있는 아찔한 사고도 포함된 것으로...",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03070086645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "url": "https://n.news.naver.com/mnews/article/018/0006378308?sid=102",
    "source": "이데일리",
    "published": "2026-10-01T09:50+09:00",
    "cat": "acc",
@@ -709,19 +818,21 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03070086645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
   },
   {
    "title": "여야, '북 지뢰' 대응 갑론을박...본회의 앞 막판 협상",
    "summary": "그중 하나인 도시정비법 개정안은 공공 재개발 사업자가 법정 용적률 1.3배까지 건축할 수 있단 내용인데... 다른 하나는 산재로 연 3명 이상 사고가 발생하는 기업에 영업이익 최대 5% 과징금을 부과한다는 산업안전보건법...",
-   "url": "https://www.ytn.co.kr/_ln/0101_202610010946046806",
+   "url": "https://n.news.naver.com/mnews/article/052/0002413260?sid=100",
    "source": "YTN",
    "published": "2026-10-01T09:46+09:00",
    "cat": "law",
    "id": "8e5dddcd957d",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ytn.co.kr/_ln/0101_202610010946046806"
   },
   {
    "title": "송민호 병역법 위반 사건, 오늘 1심 선고 外",
@@ -738,14 +849,15 @@
   {
    "title": "[단독] 손가락 끼고 안구 관통상까지… 현장 실습생들 산재 신청 10년 새...",
    "summary": "학생들이 배치된 사업장의 안전관리도 허술했다. 고용노동부가 2023년부터 2025년까지 현장실습 산업체를 별도로 점검한 결과, 392개 사업장 가운데 208곳에서 모두 611건의 법 위반 사항이 확인됐다. 안전난간 설치...",
-   "url": "https://www.hankookilbo.com/news/article/A2026093014280000637?did=NA",
+   "url": "https://n.news.naver.com/mnews/article/469/0000957038?sid=102",
    "source": "한국일보",
    "published": "2026-10-01T09:30+09:00",
    "cat": "law",
    "id": "55a67eb0b625",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.hankookilbo.com/news/article/A2026093014280000637?did=NA"
   },
   {
    "title": "HJ중공업, 주요 협력사와 안전보건 관리 현안 공유",
@@ -774,19 +886,20 @@
   {
    "title": "죽음의 이유를 모른 채 애도할 수 있을까? [취재파일]",
    "summary": "탄원서에는 항소심 판결에 중대재해처벌법과 산업안전보건 관계 법령의 취지에 어긋나는 법리오해가 없는지 살피고, 박순관 대표에게 23명의 죽음에 상응하는 책임을 물을 수 있도록 판단해 달라는 요구가 담겼다....",
-   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774554&plink=ORI&cooper=NAVER",
+   "url": "https://n.news.naver.com/mnews/article/055/0001392327?sid=102",
    "source": "SBS",
    "published": "2026-10-01T09:00+09:00",
    "cat": "acc",
    "id": "7e0774fff716",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774554&plink=ORI&cooper=NAVER"
   },
   {
    "title": "사업주 잘못으로 출국 위기? 권익위 \"외국인 노동자 구제하라\"",
    "summary": "다만 업무상 재해나 질병, 임신, 출산 등의 사유로 근무처 변경 허가를 받지 못한 경우에는 해당 사유가 없어진 날부터 기간을 계산하도록 하고 있는 예외를 두고 있다. 권익위는 이 규정을 둔 취지가 외국인 노동자의...",
-   "url": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809",
+   "url": "https://n.news.naver.com/mnews/article/079/0004194525?sid=103",
    "source": "노컷뉴스",
    "published": "2026-10-01T08:49+09:00",
    "cat": "hlt",
@@ -794,12 +907,14 @@
    "related": [
     {
      "source": "뉴스1",
-     "url": "https://www.news1.kr/politics/pm-bai-comm/6307158",
-     "title": "사업주 착오로 하루 늦어 출국 위기…권익위, 외국인 근로자 구제 의견"
+     "url": "https://n.news.naver.com/mnews/article/421/0009202599?sid=100",
+     "title": "사업주 착오로 하루 늦어 출국 위기…권익위, 외국인 근로자 구제 의견",
+     "orig": "https://www.news1.kr/politics/pm-bai-comm/6307158"
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809"
   },
   {
    "title": "직업계고 현장실습 사고 5년 새 3.4배…10건 중 7건 '산재 미처리'",
@@ -846,14 +961,15 @@
   {
    "title": "5000명 중 전문자격자는 17명뿐…檢 없이 노동감독도 '비상'",
    "summary": "1일 국회 기후에너지환경노동위원회 소속 김위상 국민의힘 의원실이 고용노동부에서 받은 자료에 따르면 지난 8월 말 기준 근로·산업안전 감독관을 포함한 노동감독관 정원은 5131명이다. 이 가운데 변호사 또는...",
-   "url": "https://www.hankyung.com/article/202610016198H",
+   "url": "https://n.news.naver.com/mnews/article/015/0005337929?sid=102",
    "source": "한국경제",
    "published": "2026-10-01T07:42+09:00",
    "cat": "law",
    "id": "a07aa03558f6",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.hankyung.com/article/202610016198H"
   },
   {
    "title": "국회 오늘 본회의…산재 과징금·재개발 용적률 놓고 여야 충돌",
@@ -870,19 +986,20 @@
   {
    "title": "[단독]직장 내 성희롱 신고 처리 73일 소요…4년새 32.2% 늘어",
    "summary": "1일 국회 기후에너지환경노동위원회 소속 박수민 국민의힘 의원실이 고용노동부로부터 받은... 반면 최근 5년간 산업재해 신고·조사 등을 다루는 산업안전 분야 사건의 평균 처리기간은 감소했다....",
-   "url": "https://www.newsis.com/view/NISX20260929_0003806743",
+   "url": "https://n.news.naver.com/mnews/article/003/0014225420?sid=102",
    "source": "뉴시스",
    "published": "2026-10-01T07:01+09:00",
    "cat": "law",
    "id": "f261bcfd1980",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.newsis.com/view/NISX20260929_0003806743"
   },
   {
    "title": "고객·환자·학생에게 맞는다…폭력행위 산재 62% '폭증'",
    "summary": "30일 김위상 국민의힘 의원실이 고용노동부로부터 제출받은 ‘폭력행위 산업재해 현황’에 따르면... 노동자의 안전을 담보할 수 있도록 실효성 있는 보호 장치와 강력한 근절 대책을 마련해야 한다”라고...",
-   "url": "https://www.hankyung.com/article/202609304101i",
+   "url": "https://n.news.naver.com/mnews/article/015/0005337920?sid=102",
    "source": "한국경제",
    "published": "2026-10-01T07:01+09:00",
    "cat": "law",
@@ -895,7 +1012,8 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.hankyung.com/article/202609304101i"
   },
   {
    "title": "특사경 수사지휘 폐지, 노동부 수사심의위 설치·운영한다",
@@ -936,7 +1054,7 @@
   {
    "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
    "summary": "1일 국회 기후에너지환경노동위원회 소속 국민의힘 김위상 의원실이 고용노동부로부터 받은 자료에 따르면, 지난 8월 31일 기준 근로감독 및 산업안전감독관을 포함한 노동감독관 정원은 총 5천131명이다. 이들은 노동부...",
-   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016348749?sid=102",
    "source": "연합뉴스",
    "published": "2026-10-01T06:07+09:00",
    "cat": "law",
@@ -944,13 +1062,15 @@
    "related": [
     {
      "source": "헤럴드경제",
-     "url": "https://biz.heraldcorp.com/article/10889740?ref=naver",
-     "title": "검찰 지휘 벗어나는 노동감독관…변호사·노무사 자격 보유 17명"
+     "url": "https://n.news.naver.com/mnews/article/016/0002704015?sid=101",
+     "title": "검찰 지휘 벗어나는 노동감독관…변호사·노무사 자격 보유 17명",
+     "orig": "https://biz.heraldcorp.com/article/10889740?ref=naver"
     },
     {
      "source": "TV조선",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/10/01/2026100190094.html",
-     "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐"
+     "url": "https://n.news.naver.com/mnews/article/448/0000642436?sid=102",
+     "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/01/2026100190094.html"
     },
     {
      "source": "joongangenews.com",
@@ -959,7 +1079,8 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m"
   },
   {
    "title": "우기홍 대한항공 대표, 인재·안전·상생 강화[2026 ESG 리더]",
@@ -976,14 +1097,15 @@
   {
    "title": "조재천 현대엘리 대표, 인권경영·여성인재 지원 및 안전보건 구축[2026...",
    "summary": "특히 중대산업재해 예방을 ESG 핵심 과제로 인식하고, 사업본부를 중심으로 중대재해예방TF를 운영하며 현장 중심의 예방활동을 강화하고 있다. 예컨대 2025년 12월 기준 안전지표 미달 지사 및 사고발생 조직을 포함해...",
-   "url": "https://magazine.hankyung.com/business/article/202609304617b",
+   "url": "https://n.news.naver.com/mnews/article/050/0000111471?sid=101",
    "source": "한국경제",
    "published": "2026-10-01T06:02+09:00",
    "cat": "acc",
    "id": "d437b07e3151",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://magazine.hankyung.com/business/article/202609304617b"
   },
   {
    "title": "상임위 안 가린다…'국감 동네북' 된 쿠팡·배민",
@@ -1012,7 +1134,7 @@
   {
    "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
    "summary": "산업안전보건법 개정안에 담긴 반복적 산재 기업에 대한 과징금 부과 규모 등을 두고 국민의힘에서 과도하다는 지적이 나온다. 도시정비법 개정안을 두고도 용적률 문제 등에서 여야 간 이견이 남아 있다. 한병도 민주당...",
-   "url": "https://www.newsis.com/view/NISX20260930_0003809493",
+   "url": "https://n.news.naver.com/mnews/article/003/0014225311?sid=100",
    "source": "뉴시스",
    "published": "2026-10-01T05:00+09:00",
    "cat": "law",
@@ -1030,17 +1152,19 @@
     },
     {
      "source": "조선일보",
-     "url": "https://biz.chosun.com/policy/politics/assembly/2026/10/01/TOONP2XCCVCZHEVOKLI2EZSMWQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "title": "與, 오늘 본회의서 산업안전보건법 개정안 처리 예고"
+     "url": "https://n.news.naver.com/mnews/article/366/0001195564?sid=100",
+     "title": "與, 오늘 본회의서 산업안전보건법 개정안 처리 예고",
+     "orig": "https://biz.chosun.com/policy/politics/assembly/2026/10/01/TOONP2XCCVCZHEVOKLI2EZSMWQ/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.newsis.com/view/NISX20260930_0003809493"
   },
   {
    "title": "국회, 오늘 본회의…도정법·산업안전보건법 처리 여부 주목",
    "summary": "산업안전보건법 개정안은 산업재해로 연간 3명 이상 사고가 발생하는 기업에 영업이익의 최대 5% 과징금을 부과하도록 하고 있다. 국민의힘은 도정법안에 대해선 민간 사업자가 재개발·재건축 사업을 할 때도 법적 상한의...",
-   "url": "https://www.yna.co.kr/view/AKR20260930180600001?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016348685?sid=100",
    "source": "연합뉴스",
    "published": "2026-10-01T05:00+09:00",
    "cat": "law",
@@ -1053,12 +1177,13 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260930180600001?input=1195m"
   },
   {
    "title": "국회 오늘 본회의…민주당, 산안법·도정법 처리 예고",
    "summary": "국회는 1일 본회의를 열고 산업안전보건법과 도시정비법, 기타 60~70여 개의 비쟁점 법안 처리에 나선다.... 민간 재건축·재개발 용적률 상향 등을 규정한 도시정비법 개정안은 공공 재개발 사업 시행자의 법적 상한...",
-   "url": "http://www.joseilbo.com/news/news_read.php?uid=576628&class=32&grp=",
+   "url": "https://n.news.naver.com/mnews/article/123/0002391106?sid=100",
    "source": "joseilbo.com",
    "published": "2026-10-01T04:51+09:00",
    "cat": "law",
@@ -1081,31 +1206,34 @@
     }
    ],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "http://www.joseilbo.com/news/news_read.php?uid=576628&class=32&grp="
   },
   {
    "title": "오늘 국회 본회의 개최…민주당, 산안법 등 처리 전망",
    "summary": "더불어민주당은 이번 본회의에서 민생 법안과 함께 국민의힘이 반대하고 있는 산업안전보건법과 도시정비법 개정안 등도 함께 처리하는 방안을 검토하고 있습니다. 다만 민주당이 본회의 처리를 예고했던 도시정비법...",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675144&ref=A",
+   "url": "https://n.news.naver.com/mnews/article/056/0012265937?sid=100",
    "source": "KBS",
    "published": "2026-10-01T01:00+09:00",
    "cat": "law",
    "id": "2a225273557c",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675144&ref=A"
   },
   {
    "title": "원주서 중장년 취업 문 활짝…채용박람회 성료",
    "summary": "원주시와 고용노동부 원주지청, 강원중장년내일센터, 한국폴리텍대학 원주캠퍼스가 공동 주관한 이번... 취업상담, 산업안전체험 등 구직자의 역량 강화와 안전의식 향상을 위한 부대행사를 운영됐다. 박신옥 원주고용센...",
-   "url": "https://www.kado.net/news/articleView.html?idxno=2075824",
+   "url": "https://n.news.naver.com/mnews/article/654/0000203333?sid=102",
    "source": "강원도민일보",
    "published": "2026-10-01T00:08+09:00",
    "cat": "law",
    "id": "3c461e484a8d",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2075824"
   },
   {
    "title": "노동감독관 수사권 독립…인력난속 책임 가중",
@@ -1122,14 +1250,15 @@
   {
    "title": "민주, 본회의서 산안법·도시정비법 등 처리 추진...필버 대치 가능성",
    "summary": "더불어민주당은 산업재해 발생 기업에 영업이익의 5% 수준 과징금을 부과하는 '산업안전보건법'과 공공 재개발·재건축 용적률을 완화하는 '도시정비법' 개정안을 비롯해 60여 개 법안 처리를 목표로 하고 있습니다. 다만...",
-   "url": "https://www.ytn.co.kr/_ln/0101_202610010000106455",
+   "url": "https://n.news.naver.com/mnews/article/052/0002413162?sid=100",
    "source": "YTN",
    "published": "2026-10-01T00:00+09:00",
    "cat": "law",
    "id": "5a7e563f2b83",
    "related": [],
    "day": "2026-10-01",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ytn.co.kr/_ln/0101_202610010000106455"
   },
   {
    "title": "경복대, 현장 감각·AI 융합 역량 갖춘 안전보건전문가' 배출",
@@ -1176,14 +1305,15 @@
   {
    "title": "[단독] 배터리 작업장서 납 기준치 5.5배 검출…DN오토 역학조사 착수",
    "summary": "직원들을 대상으로 한 특수건강진단에서도 직업병 유소견자가 없었습니다. KBS가 확보한 한국산업안전보건공단의 정밀 측정 결과는 다릅니다. 납 분말을 가공한 전극판을 쌓아 올리는 적재 공정에서 기준치 5배를 넘는...",
-   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674959&ref=A",
+   "url": "https://n.news.naver.com/mnews/article/056/0012265799?sid=102",
    "source": "KBS",
    "published": "2026-09-30T21:30+09:00",
    "cat": "hlt",
    "id": "6999ddb50820",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674959&ref=A"
   },
   {
    "title": "산재 신청 늘었지만, 고령 노동자 승인율 73%로 '뚝'...박해철 의원",
@@ -1314,14 +1444,15 @@
   {
    "title": "\"삼성전자 하청노동자가 노조하는 게 얼마나 어렵냐면요…\"",
    "summary": "어디가 이렇게 부러진다거나 그러면은, 현장 내에서 조금 가다가 삐끗해가지고 그런 거, 뭐 대차 충돌해가지고 어디를 다쳤다든가 이런 거는 바로 산재가 되는데 근골격계 질환으로 해가지고는 산재 승인받기가 쉽지 않은...",
-   "url": "https://www.pressian.com/pages/articles/2026093014192308587?utm_source=naver&utm_medium=search",
+   "url": "https://n.news.naver.com/mnews/article/002/0002459004?sid=102",
    "source": "프레시안",
    "published": "2026-09-30T18:59+09:00",
    "cat": "hlt",
    "id": "cebd537609bb",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.pressian.com/pages/articles/2026093014192308587?utm_source=naver&utm_medium=search"
   },
   {
    "title": "전남광주 노동단체 \"대불산단 중대재해 반복…특별감독 해야\"",
@@ -1350,14 +1481,15 @@
   {
    "title": "檢지휘 대신 '지도'받는 특사경… 조언 범위가 관건",
    "summary": "경찰이, 산업안전보건법·중대재해처벌법 위반 혐의는 특사경인 근로감독관이 주로 수사한다. 그동안 근로감독관은 검사의 지휘를 받았지만 앞으로는 지휘 없이 독자적으로 수사를 개시·진행할 수 있다. 대신 개정법은...",
-   "url": "https://www.fnnews.com/news/202609301833464673",
+   "url": "https://n.news.naver.com/mnews/article/014/0005583240?sid=102",
    "source": "파이낸셜뉴스",
    "published": "2026-09-30T18:35+09:00",
    "cat": "law",
    "id": "f73b1035f42c",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.fnnews.com/news/202609301833464673"
   },
   {
    "title": "겨울철 배달사고 예방 나선 쿠팡이츠…전국 19곳서 이륜차 무상점검",
@@ -1715,14 +1847,15 @@
   {
    "title": "‘첫 노동운동가 출신’ 박승흡 복지공단 이사장… 첫 과제는 산재 승인",
    "summary": "불필요한 절차와 지연을 줄이고, 업무상 질병 조사와 판정 역량을 끌어올리겠습니다.” 30일 제11대 근로복지공단 이사장으로 취임한 박승흡 신임 이사장이 취임 일성으로 산재 승인 제도 개선을 제시했다. 공단 설립...",
-   "url": "https://www.sedaily.com/article/20096678?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/011/0004666921?sid=102",
    "source": "서울경제",
    "published": "2026-09-30T16:48+09:00",
    "cat": "hlt",
    "id": "cbcd732f77dc",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.sedaily.com/article/20096678?ref=naver"
   },
   {
    "title": "[2026 국감 프리뷰⑤] HD현대중공업 끊이지 않는 중대재해, 정기선표 '안...",
@@ -1837,14 +1970,15 @@
   {
    "title": "진보당 경남도당, 오뚜기SF 공장 끼임 사고 철저 조사 촉구",
    "summary": "또 \"지난 7월 HL만도에서도 설비를 점검하던 하청노동자가 끼임사고로 숨지고 이후 노동부 감독에서는 끼임 위험 관련 안전보건규칙 위반만 26건이 적발됐다. 비슷한 사고가 반복되고 있다\"며 \"AI와 자동화 기술을...",
-   "url": "https://www.newsis.com/view/NISX20260930_0003809280",
+   "url": "https://n.news.naver.com/mnews/article/003/0014224705?sid=102",
    "source": "뉴시스",
    "published": "2026-09-30T16:26+09:00",
    "cat": "acc",
    "id": "04cc9d11f151",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.newsis.com/view/NISX20260930_0003809280"
   },
   {
    "title": "사후 처벌에 갇힌 땜질식 산재 대책…면피용 ‘안전 서류’만 수북",
@@ -1861,14 +1995,15 @@
   {
    "title": "“다친 곳에서 또 다친다”…동원·하림 ‘산재 지뢰밭’",
    "summary": "식료품 제조업 산재 승인 건수는 동원F&B에 이어 CJ제일제당(92건), 삼구에프에스(85건), 하림(79건), 하이트진로(73건), 롯데제과(62건), 푸드웨어(49건), 파리크라상(48건), SPC삼립(30건) 순으로 많았다. 동원F&B의 산재...",
-   "url": "https://www.dt.co.kr/article/12086720?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/029/0003050757?sid=101",
    "source": "디지털타임스",
    "published": "2026-09-30T16:20+09:00",
    "cat": "acc",
    "id": "4e820f5c0ad0",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.dt.co.kr/article/12086720?ref=naver"
   },
   {
    "title": "고소작업차 업체 대표, 끼임 사고로 사망…중대재해는 미적용",
@@ -2035,14 +2170,15 @@
   {
    "title": "대형 건설사 사망사고 3건 중 2건은 상위 7개사···5년간 121명 사망",
    "summary": "노동자도 최근 3년간 3명에 달했습니다. 김주영 의원은 \"안전을 선도해야 할 대형 건설사 현장에서 추락과 붕괴 같은 사고가 해마다 반복되고 있다는 점을 무겁게 받아들여야 한다\"며 \"특히 같은 기업에서 사망사고...",
-   "url": "https://dgmbc.com/NewsArticle/864647",
+   "url": "https://n.news.naver.com/mnews/article/657/0000055837?sid=102",
    "source": "dgmbc.com",
    "published": "2026-09-30T15:36+09:00",
    "cat": "acc",
    "id": "338784c670a7",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://dgmbc.com/NewsArticle/864647"
   },
   {
    "title": "울산혁신도시 공공기관, 인권경영 실무회의…내년 운영계획 수립",
@@ -2082,14 +2218,15 @@
   {
    "title": "새 화학물질서 ‘급성독성·눈 손상’ 위험…노동자 노출 주의",
    "summary": "고용노동부는 오늘(30일) 신규화학물질 63종의 유해성과 위험성을 공표하고 해당 물질을 취급하는... 노동부는 신규 화학물질이 산업현장에 사용되기 전에 유해성과 위험성을 파악하고 이에 맞는 안전수칙을 지키는 것이...",
-   "url": "https://biz.sbs.co.kr/article_hub/20000337562?division=NAVER",
+   "url": "https://n.news.naver.com/mnews/article/374/0000535603?sid=101",
    "source": "SBS",
    "published": "2026-09-30T15:24+09:00",
    "cat": "law",
    "id": "27422845f318",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://biz.sbs.co.kr/article_hub/20000337562?division=NAVER"
   },
   {
    "title": "60세 이상 산재 신청 늘지만 승인율 하락…3년 새 7.3%p↓",
@@ -2232,14 +2369,15 @@
   {
    "title": "수사지휘 대신 '직권 조언'…'중대재해' 등 특사경에 검사 관여 어디까...",
    "summary": "중대재해처럼 특사경과 검사의 협업이 잦았던 분야에서는 '지도·조언'이 어느 범위에서 이뤄지느냐에 따라 수사 실무에도 상당한 영향을 미칠 전망이다. 30일 법조계에 따르면 다음달 2일 시행되는 개정 형사소송법은...",
-   "url": "https://www.fnnews.com/news/202609301421598046",
+   "url": "https://n.news.naver.com/mnews/article/014/0005583004?sid=102",
    "source": "파이낸셜뉴스",
    "published": "2026-09-30T14:48+09:00",
    "cat": "acc",
    "id": "cba29edb92d4",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.fnnews.com/news/202609301421598046"
   },
   {
    "title": "[뉴스워커_HJ중공업] 전국 건설현장에 'AI 통번역'…협력사와 안전관리...",
@@ -2381,8 +2519,9 @@
     },
     {
      "source": "중앙일보",
-     "url": "https://www.joongang.co.kr/article/25466302",
-     "title": "동서발전 등 울산 공공기관 5곳, 인권경영 협력 강화"
+     "url": "https://n.news.naver.com/mnews/article/025/0003555067?sid=101",
+     "title": "동서발전 등 울산 공공기관 5곳, 인권경영 협력 강화",
+     "orig": "https://www.joongang.co.kr/article/25466302"
     }
    ],
    "day": "2026-09-30",
@@ -2399,8 +2538,9 @@
    "related": [
     {
      "source": "뉴시스",
-     "url": "https://www.newsis.com/view/NISX20260930_0003808940",
-     "title": "고속도로 유지보수 산재 공사 10곳 중 8곳 안전관리자 없이 작업"
+     "url": "https://n.news.naver.com/mnews/article/003/0014224252?sid=102",
+     "title": "고속도로 유지보수 산재 공사 10곳 중 8곳 안전관리자 없이 작업",
+     "orig": "https://www.newsis.com/view/NISX20260930_0003808940"
     },
     {
      "source": "경기신문",
@@ -2570,7 +2710,7 @@
   {
    "title": "HJ중공업, 협력사 30곳과 안전관리 강화…AI 통번역 도입",
    "summary": "이번 간담회는 HJ중공업의 안전보건 정책과 중점 추진 방향을 협력사와 공유하고 현장 중대재해 예방을 위한 협력체계를 강화하기 위해 마련됐다. 간담회에는 권태성 서울지방고용노동청장이 참석해 정부의 안전보건...",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03965526645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "url": "https://n.news.naver.com/mnews/article/018/0006377703?sid=101",
    "source": "이데일리",
    "published": "2026-09-30T13:56+09:00",
    "cat": "tech",
@@ -2578,12 +2718,14 @@
    "related": [
     {
      "source": "뉴시스",
-     "url": "https://www.newsis.com/view/NISX20260930_0003808906",
-     "title": "HJ중공업, 협력사 30곳 CEO와 안전간담회…AI 통번역 전 현장 도입"
+     "url": "https://n.news.naver.com/mnews/article/003/0014224230?sid=101",
+     "title": "HJ중공업, 협력사 30곳 CEO와 안전간담회…AI 통번역 전 현장 도입",
+     "orig": "https://www.newsis.com/view/NISX20260930_0003808906"
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03965526645585368&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
   },
   {
    "title": "천안 대원산업 참사 한 달…유족 \"원인·안전관리 의혹 규명해야\"",
@@ -2647,14 +2789,15 @@
   {
    "title": "박승흡 근로복지공단 이사장 “산재 노동자 회복 끝까지 지원”",
    "summary": "박 이사장은 취임사에서 “비정규 노동자와 임금체불 노동자에 대한 보호를 확대할 것”이라며 “업무상질병을 빠르고 공정하게 판정하고, 산재 의료·재활·일터 복귀를 긴밀하게 연결해 산재 노동자의 회복을 끝까지...",
-   "url": "https://www.mk.co.kr/article/12164775",
+   "url": "https://n.news.naver.com/mnews/article/009/0005741937?sid=102",
    "source": "매일경제",
    "published": "2026-09-30T13:40+09:00",
    "cat": "hlt",
    "id": "223dcbffb215",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.mk.co.kr/article/12164775"
   },
   {
    "title": "[클린룸을 오가는 사람들: 물류작업자 서안숙 이야기] ② 하다 보니까 ...",
@@ -2689,8 +2832,9 @@
     },
     {
      "source": "강원도민일보",
-     "url": "https://www.kado.net/news/articleView.html?idxno=2075656",
-     "title": "철원 출신 박승흡 신임 근로복지공단 이사장 취임…노동운동가 출신 첫..."
+     "url": "https://n.news.naver.com/mnews/article/654/0000203185?sid=100",
+     "title": "철원 출신 박승흡 신임 근로복지공단 이사장 취임…노동운동가 출신 첫...",
+     "orig": "https://www.kado.net/news/articleView.html?idxno=2075656"
     },
     {
      "source": "eroun.net",
@@ -2919,7 +3063,7 @@
   {
    "title": "HJ중공업, 협력사 CEO와 ‘중대재해 예방’ 머리 맞댔다",
    "summary": "HJ중공업 건설부문이 주요 협력사 대표들과 안전보건 정책을 공유하고 현장 중대재해 예방을 위한 협력 강화에 나섰다. HJ중공업 건설부문은 서울 남영사옥에서 주요 협력사 30개사 최고경영자(CEO)를 초청해 ‘2026년도...",
-   "url": "https://biz.heraldcorp.com/article/10888771?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/016/0002703617?sid=101",
    "source": "헤럴드경제",
    "published": "2026-09-30T11:08+09:00",
    "cat": "acc",
@@ -2932,7 +3076,8 @@
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://biz.heraldcorp.com/article/10888771?ref=naver"
   },
   {
    "title": "현대건설 서초 현장 노동자 사망…작업중지 후 사고 조사",
@@ -3161,8 +3306,9 @@
     },
     {
      "source": "파이낸셜뉴스",
-     "url": "https://www.fnnews.com/news/202609301249378819",
-     "title": "HJ중공업, 협력사 CEO 안전보건 간담회 개최…선제적 예방 활동 나서"
+     "url": "https://n.news.naver.com/mnews/article/014/0005582925?sid=101",
+     "title": "HJ중공업, 협력사 CEO 안전보건 간담회 개최…선제적 예방 활동 나서",
+     "orig": "https://www.fnnews.com/news/202609301249378819"
     },
     {
      "source": "핀포인트뉴스",
@@ -3365,14 +3511,15 @@
   {
    "title": "그들의 싸움이 우리에게 도착했다… 산재·직업병 알린 원진레이온에서...",
    "summary": "그동안 ‘중풍’으로 여겼던 병이 이황화탄소 중독에서 비롯된 직업병일 수 있음을 알게 된 것이다. 긴... 누가 직업병 환자인지를 두고 다시 싸워야 했다. ‘비유해부서’에서 일했던 김봉환씨가 산재요양 신청조차 하지...",
-   "url": "https://h21.hani.co.kr/arti/society/society_general/59964.html",
+   "url": "https://n.news.naver.com/mnews/article/036/0000054253?sid=102",
    "source": "한겨레",
    "published": "2026-09-30T09:20+09:00",
    "cat": "hlt",
    "id": "07a9a46ddeaf",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://h21.hani.co.kr/arti/society/society_general/59964.html"
   },
   {
    "title": "수익성 챙기기 승부수…정인호 삼립 대표 “2030년 영업익 1700억 달성한...",
@@ -3474,8 +3621,9 @@
    "related": [
     {
      "source": "조선일보",
-     "url": "https://biz.chosun.com/topics/topics_social/2026/09/30/AV6AZUSCJJBNNCAXFLA5D7DYEE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "title": "노동부, 신규 화학물질 63종 공표…22종 유해·위험성 확인"
+     "url": "https://n.news.naver.com/mnews/article/366/0001195209?sid=102",
+     "title": "노동부, 신규 화학물질 63종 공표…22종 유해·위험성 확인",
+     "orig": "https://biz.chosun.com/topics/topics_social/2026/09/30/AV6AZUSCJJBNNCAXFLA5D7DYEE/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
      "source": "뉴스저널리즘",
@@ -3489,7 +3637,7 @@
   {
    "title": "신규화학물질 22종서 유해성 확인…노동부, 명칭 공표",
    "summary": "고용노동부는 2026년 3분기 신규화학물질 63종의 명칭과 유해성·위험성, 노동자 건강장해 예방을 위한 사업장 조치사항 등을 30일 공표했다. 현행 산업안전보건법에 따르면 신규화학물질을 제조하거나 수입하려는...",
-   "url": "https://www.newsis.com/view/NISX20260930_0003808022",
+   "url": "https://n.news.naver.com/mnews/article/003/0014222505?sid=102",
    "source": "뉴시스",
    "published": "2026-09-30T09:00+09:00",
    "cat": "law",
@@ -3497,13 +3645,15 @@
    "related": [
     {
      "source": "헤럴드경제",
-     "url": "https://biz.heraldcorp.com/article/10888326?ref=naver",
-     "title": "신규화학물질 63종 중 22종 유해성 확인…노동부, 보호조치 통보"
+     "url": "https://n.news.naver.com/mnews/article/016/0002703465?sid=101",
+     "title": "신규화학물질 63종 중 22종 유해성 확인…노동부, 보호조치 통보",
+     "orig": "https://biz.heraldcorp.com/article/10888326?ref=naver"
     },
     {
      "source": "데일리안",
-     "url": "https://www.dailian.co.kr/news/view/1696006/?sc=Naver",
-     "title": "신규화학물질 63종 중 22종서 유해성 확인…환기·보호구 조치"
+     "url": "https://n.news.naver.com/mnews/article/119/0003137763?sid=102",
+     "title": "신규화학물질 63종 중 22종서 유해성 확인…환기·보호구 조치",
+     "orig": "https://www.dailian.co.kr/news/view/1696006/?sc=Naver"
     },
     {
      "source": "쿠키뉴스",
@@ -3512,12 +3662,13 @@
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.newsis.com/view/NISX20260930_0003808022"
   },
   {
    "title": "노동부, 신규화학물질 63종 유해·위험성 공표…안전조치 통보",
    "summary": "오영민 노동부 안전보건감독국장은 \"노동자 건강보호를 위해 신규화학물질의 유해성·위해성 정보에 대한 인지와 선제적 안전보건 조치가 필수적\"이라며 \"사업주는 예방 조치를 준수하고 노동자 역시 기본 수칙을...",
-   "url": "https://www.yna.co.kr/view/AKR20260929153100530?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016345468?sid=102",
    "source": "연합뉴스",
    "published": "2026-09-30T09:00+09:00",
    "cat": "hlt",
@@ -3530,12 +3681,14 @@
     },
     {
      "source": "TV조선",
-     "url": "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090078.html",
-     "title": "노동부, 신규화학물질 63종 유해·위험성 공표…안전조치 통보"
+     "url": "https://n.news.naver.com/mnews/article/448/0000642202?sid=102",
+     "title": "노동부, 신규화학물질 63종 유해·위험성 공표…안전조치 통보",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/09/30/2026093090078.html"
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260929153100530?input=1195m"
   },
   {
    "title": "정인호 대표 \"삼립, 향후 18개월 체질개선 승부\"…D-커머스·냉동생지 키...",
@@ -3647,8 +3800,9 @@
     },
     {
      "source": "파이낸셜뉴스",
-     "url": "https://www.fnnews.com/news/202609300959383151",
-     "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장 선임"
+     "url": "https://n.news.naver.com/mnews/article/014/0005582787?sid=101",
+     "title": "한진, 정책기획담당 부사장에 최종석 전 안전보안실장 선임",
+     "orig": "https://www.fnnews.com/news/202609300959383151"
     },
     {
      "source": "whitepaper.co.kr",
@@ -3662,13 +3816,15 @@
     },
     {
      "source": "조선일보",
-     "url": "https://biz.chosun.com/industry/company/2026/09/30/XXIEEXPXUNE2VAEDS3OS4HGD5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-     "title": "한진, 신임 정책기획담당 부사장에 고용노동부 출신 최종석 CSO 선임"
+     "url": "https://n.news.naver.com/mnews/article/366/0001195250?sid=101",
+     "title": "한진, 신임 정책기획담당 부사장에 고용노동부 출신 최종석 CSO 선임",
+     "orig": "https://biz.chosun.com/industry/company/2026/09/30/XXIEEXPXUNE2VAEDS3OS4HGD5E/?utm_source=naver&utm_medium=original&utm_campaign=biz"
     },
     {
      "source": "블로터",
-     "url": "https://www.bloter.net/news/articleView.html?idxno=674693",
-     "title": "한진, 정책기획담당 부사장직 신설…노동부 출신 최종석 선임"
+     "url": "https://n.news.naver.com/mnews/article/293/0000091047?sid=101",
+     "title": "한진, 정책기획담당 부사장직 신설…노동부 출신 최종석 선임",
+     "orig": "https://www.bloter.net/news/articleView.html?idxno=674693"
     },
     {
      "source": "이코노믹리뷰",
@@ -3687,8 +3843,9 @@
     },
     {
      "source": "SBS",
-     "url": "https://biz.sbs.co.kr/article_hub/20000337531?division=NAVER",
-     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임"
+     "url": "https://n.news.naver.com/mnews/article/374/0000535569?sid=103",
+     "title": "한진, 정책기획담당 부사장직 신설…최종석 전 CSO 선임",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000337531?division=NAVER"
     },
     {
      "source": "gokorea.kr",
@@ -3697,13 +3854,15 @@
     },
     {
      "source": "데일리안",
-     "url": "https://www.dailian.co.kr/news/view/1696036/?sc=Naver",
-     "title": "한진, 최종석 정책기획담당 부사장 선임"
+     "url": "https://n.news.naver.com/mnews/article/119/0003137994?sid=101",
+     "title": "한진, 최종석 정책기획담당 부사장 선임",
+     "orig": "https://www.dailian.co.kr/news/view/1696036/?sc=Naver"
     },
     {
      "source": "서울경제",
-     "url": "https://www.sedaily.com/article/20096573?ref=naver",
-     "title": "한진, 최종석 신임 정책기획담당 부사장 선임"
+     "url": "https://n.news.naver.com/mnews/article/011/0004666838?sid=101",
+     "title": "한진, 최종석 신임 정책기획담당 부사장 선임",
+     "orig": "https://www.sedaily.com/article/20096573?ref=naver"
     },
     {
      "source": "소비자가만드는신문",
@@ -3817,14 +3976,15 @@
   {
    "title": "산재 신청 60세 이상 최다…승인율은 77.5% ‘하락’",
    "summary": "유형별로는 ‘업무상 질병’의 승인 문턱이 높아졌다. 60세 이상의 업무상 질병 승인율은 2022년 60.7%에서 지난해 56.7%로 떨어졌고, 불승인 건수만 1만4522건에 달했다. 고령 노동자의 경우 업무상 사고보다...",
-   "url": "https://www.segye.com/newsView/20260930502915?OutUrl=naver",
+   "url": "https://n.news.naver.com/mnews/article/022/0004162872?sid=102",
    "source": "세계일보",
    "published": "2026-09-30T07:52+09:00",
    "cat": "hlt",
    "id": "cff4175eff5d",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.segye.com/newsView/20260930502915?OutUrl=naver"
   },
   {
    "title": "외국인 노동자 사망, 현대건설 아파트 현장서 발생한 충격적 사고 원인...",
@@ -3932,14 +4092,15 @@
   {
    "title": "산재 신청 10건 중 4건 고령층…승인율은 70%대로 하락",
    "summary": "고령층은 특히 업무상 질병에서 낮은 승인율을 보였다. 60세 이상 노동자의 업무상 질병 승인율은 2022년 60.7%에서 지난해 56.7%로 4.0%포인트 떨어졌다. 지난해 이 연령대의 업무상 질병 불승인 건수는 1만4522건에...",
-   "url": "https://biz.heraldcorp.com/article/10888185?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/016/0002703385?sid=101",
    "source": "헤럴드경제",
    "published": "2026-09-30T06:38+09:00",
    "cat": "hlt",
    "id": "0358035b45e0",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://biz.heraldcorp.com/article/10888185?ref=naver"
   },
   {
    "title": "형식적 의무 이행임에도, 중대재해처벌법 열네 번째 무죄 판결",
@@ -3956,14 +4117,15 @@
   {
    "title": "2cm 자석·땜질 청테이프… 7명의 사망은 부주의가 아니었다 [양종곤의...",
    "summary": "중대재해 발생 초기 작성되는 수사 기록과 통계에는 ‘작업자 부주의’, ‘발 헛딤’, ‘조작 미숙’ 등 개인의 과실을 지목하는 문구가 빈번하게 쓰인다. 그러나 일반에 드러난 한국산업안전보건공단 직원의...",
-   "url": "https://www.sedaily.com/article/20096206?ref=naver",
+   "url": "https://n.news.naver.com/mnews/article/011/0004666639?sid=102",
    "source": "서울경제",
    "published": "2026-09-30T06:31+09:00",
    "cat": "acc",
    "id": "58b82a70bd19",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.sedaily.com/article/20096206?ref=naver"
   },
   {
    "title": "[데스크 칼럼] 5명의 죽음 앞 \"최선 다했다\"는 궤변… 세아베스틸의 기...",
@@ -4064,7 +4226,7 @@
   {
    "title": "작년 산재 신청 18만5천건 역대최다…60세이상 승인율 70%대 그쳐",
    "summary": "유형별로는 '업무상 질병'의 승인 문턱이 높아졌다. 60세 이상의 업무상 질병 승인율은 2022년 60.7%에서 지난해 56.7%로 떨어졌고, 불승인 건수만 1만4천522건에 달했다. 이는 고령 노동자의 경우 업무상 사고보다...",
-   "url": "https://www.yna.co.kr/view/AKR20260929169000001?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016345165?sid=102",
    "source": "연합뉴스",
    "published": "2026-09-30T05:00+09:00",
    "cat": "hlt",
@@ -4082,7 +4244,8 @@
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260929169000001?input=1195m"
   },
   {
    "title": "울산항만공사·울산해수청, 울산항 산재예방 합동 안전교육",
@@ -4664,14 +4827,15 @@
   {
    "title": "진폐증 얻고 우울증 앓다 극단 선택…법원, 산재 인정한 이유는 [디케의...",
    "summary": "재판부는 A씨가 업무상 질병인 진폐증으로 발생한 우울증 등 정신질환이 악화되면서 정신적 억제력이 결여되거나 현저히 저하됐고, 합리적인 판단을 기대하기 어려운 상황에서 자살에 이른 것으로 볼 수 있다고 판단했다....",
-   "url": "https://www.dailian.co.kr/news/view/1695822/?sc=Naver",
+   "url": "https://n.news.naver.com/mnews/article/119/0003137603?sid=102",
    "source": "데일리안",
    "published": "2026-09-29T17:11+09:00",
    "cat": "hlt",
    "id": "58fe32401de7",
    "related": [],
    "day": "2026-09-29",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.dailian.co.kr/news/view/1695822/?sc=Naver"
   },
   {
    "title": "UPA, 항만운송 관계자 100여명 대상 안전관리 교육",
@@ -5361,8 +5525,9 @@
     },
     {
      "source": "연합뉴스",
-     "url": "https://www.yna.co.kr/view/AKR20260929119000062?input=1195m",
-     "title": "철원군, 유해인자 노출 종사자 대상 특수건강진단 실시"
+     "url": "https://n.news.naver.com/mnews/article/001/0016343933?sid=102",
+     "title": "철원군, 유해인자 노출 종사자 대상 특수건강진단 실시",
+     "orig": "https://www.yna.co.kr/view/AKR20260929119000062?input=1195m"
     }
    ],
    "day": "2026-09-29",
@@ -5454,14 +5619,15 @@
   {
    "title": "'근로자 5명 사망' 김철희 전 세아베스틸 대표 실형 구형",
    "summary": "검찰이 중대재해처벌 등에 관한 법률 위반 혐의로 기소된 김철희 세아베스틸 전 대표에 대해 실형을 구형했다. 29일 김 전 대표(61)와 전 공장장 A 씨(53)에 대한 결심 공판이 전주지법 군산지원 형사2단독(이유영...",
-   "url": "https://www.news1.kr/local/jeonbuk/6304511",
+   "url": "https://n.news.naver.com/mnews/article/421/0009197635?sid=102",
    "source": "뉴스1",
    "published": "2026-09-29T12:50+09:00",
    "cat": "acc",
    "id": "dd63f339bf9d",
    "related": [],
    "day": "2026-09-29",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.news1.kr/local/jeonbuk/6304511"
   },
   {
    "title": "'노동자 4명 사망'…검찰, 세아베스틸 전 대표에 징역 5년 구형",
@@ -5514,8 +5680,9 @@
     },
     {
      "source": "yonhapnewstv.co.kr",
-     "url": "http://www.yonhapnewstv.co.kr/news/AKR20260929132832wd6",
-     "title": "검찰, 세아베스틸 전 대표에 징역 5년 구형…\"노동자 4명 사망\""
+     "url": "https://n.news.naver.com/mnews/article/422/0000910758?sid=102",
+     "title": "검찰, 세아베스틸 전 대표에 징역 5년 구형…\"노동자 4명 사망\"",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20260929132832wd6"
     },
     {
      "source": "iminju.net",
@@ -5524,8 +5691,9 @@
     },
     {
      "source": "노컷뉴스",
-     "url": "https://www.nocutnews.co.kr/news/6584494?utm_source=naver&utm_medium=article&utm_campaign=20260929023747",
-     "title": "2년간 4명 사망…세아베스틸 전 대표 징역 5년 구형"
+     "url": "https://n.news.naver.com/mnews/article/079/0004193839?sid=102",
+     "title": "2년간 4명 사망…세아베스틸 전 대표 징역 5년 구형",
+     "orig": "https://www.nocutnews.co.kr/news/6584494?utm_source=naver&utm_medium=article&utm_campaign=20260929023747"
     },
     {
      "source": "jmbc.co.kr",
@@ -5559,13 +5727,15 @@
     },
     {
      "source": "KBS",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674112&ref=A",
-     "title": "검찰, ‘노동자 4명 사망’ 세아베스틸 전 대표 징역 5년 구형"
+     "url": "https://n.news.naver.com/mnews/article/056/0012265176?sid=102",
+     "title": "검찰, ‘노동자 4명 사망’ 세아베스틸 전 대표 징역 5년 구형",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674112&ref=A"
     },
     {
      "source": "프레시안",
-     "url": "https://www.pressian.com/pages/articles/2026092913513325974?utm_source=naver&utm_medium=search",
-     "title": "2년간 4명 노동자 사망한 세아베스틸 전 대표에 검찰 징역 5년 구형"
+     "url": "https://n.news.naver.com/mnews/article/002/0002458797?sid=102",
+     "title": "2년간 4명 노동자 사망한 세아베스틸 전 대표에 검찰 징역 5년 구형",
+     "orig": "https://www.pressian.com/pages/articles/2026092913513325974?utm_source=naver&utm_medium=search"
     }
    ],
    "day": "2026-09-29",
@@ -8600,7 +8770,7 @@
   {
    "title": "'책임경영' 외치며 귀환한 SPC그룹 오너 3세, 법적 책임은?",
    "summary": "SPC그룹은 지난해 5월 산재 사망 사고 이후 같은 해 9월부터 기존 2조 2교대제(주·야간 각 12시간 근무)에서 3조 3교대제를 도입하며 근로시간을 단축했고, 휴일 및 야간수당 상향 등으로 연간 약 330억원의 추가 비용이...",
-   "url": "https://www.sisajournal.com/news/articleView.html?idxno=386671",
+   "url": "https://n.news.naver.com/mnews/article/586/0000138102?sid=101",
    "source": "시사저널",
    "published": "2026-09-14T10:00+09:00",
    "cat": "acc",
@@ -8609,7 +8779,8 @@
    "day": "2026-09-14",
    "watch": [
     "SPC그룹"
-   ]
+   ],
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=386671"
   },
   {
    "title": "(단독)SPC삼립, 노동자 '과로 산재' 핵심자료 미제출…결국 '산재 불승인...",
