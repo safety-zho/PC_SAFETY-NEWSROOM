@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T09:25+09:00",
+ "updatedAt": "2026-10-01T10:17+09:00",
  "categories": [
   {
    "id": "acc",
@@ -39,16 +39,160 @@
    "count": 3
   },
   {
-   "id": "49cbc5fc37e9",
-   "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
-   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
-   "source": "연합뉴스",
+   "id": "dc389d7c8a64",
+   "title": "직업계고 실습 안전사고 5년간 3.4배↑…“대형 참사 예방을”",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03070086645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "cat": "acc",
+   "day": "2026-10-01",
+   "count": 2
+  },
+  {
+   "id": "3a0dc8965107",
+   "title": "사업주 잘못으로 출국 위기? 권익위 \"외국인 노동자 구제하라\"",
+   "url": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809",
+   "source": "노컷뉴스",
+   "cat": "hlt",
+   "day": "2026-10-01",
+   "count": 2
+  },
+  {
+   "id": "26e44319899f",
+   "title": "직업계고 현장실습 사고 5년 새 3.4배…10건 중 7건 '산재 미처리'",
+   "url": "https://www.news1.kr/society/education/6306884",
+   "source": "뉴스1",
    "cat": "law",
    "day": "2026-10-01",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "노무제공자 산재 신청 866→1만5804건…7년 만에 18배 폭증",
+   "summary": "골프 카트 사고나 타구 사고, 근골격계 질환 등 개인 책임으로 전가되던 사고들이 제도를 통해 수면 위로 가시화된 영향으로 풀이된다. 박 의원은 “노무제공자 산재 신청이 크게 증가한 것은 산재보험 적용 직종이...",
+   "url": "https://www.kukinews.com/article/view/kuk202610010044",
+   "source": "쿠키뉴스",
+   "published": "2026-10-01T09:58+09:00",
+   "cat": "hlt",
+   "id": "bac5964b6139",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "동원F&B·하림·하이트진로, 4년째 식품공장 산재 상위권...\"반복 사고 막...",
+   "summary": "이어 CJ제일제당 92건, 삼구에프에스 85건, 하림 79건, 하이트진로 73건, 롯데제과 62건, 푸드웨어 49건, 파리크라상 48건, SPC삼립 30건 순으로 나타났다. 업종을 세분화하면 특정 기업의 반복적인 산재 발생은 더욱 두드러졌다....",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=134603",
+   "source": "popcornnews.net",
+   "published": "2026-10-01T09:58+09:00",
+   "cat": "acc",
+   "id": "04d50c9dc1d2",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[1일 화성시] 민간·공공협력 결핵 관리 체계 구축 등",
+   "summary": "하반기 중대재해 예방 고위험작업 안전보건 특별교육 실시 근로자 및 관계자들이 전문강사의 중대재해예방 강의를 듣고 있다. 화성시가 지난 9월30일 고위험작업 담당자와 근로자를 대상으로 ‘2026년 하반기 중대재해...",
+   "url": "https://www.asiatime.co.kr/article/20261001500075",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-01T09:54+09:00",
+   "cat": "acc",
+   "id": "9e347aed3ae3",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "사업주 실수로 '출국 위기'…\"외국인 근로자 구제 필요\"",
+   "summary": "현행법상 업무상 재해·질병 등 귀책 사유가 없는 경우 기간을 연장해주는 규정이 있는 만큼 외국인 근로자 본인의 책임이 아닌 사유로 기간이 지난 경우 구제할 필요성이 인정된다는 것이다. 또 사업주의 과실로...",
+   "url": "https://view.asiae.co.kr/article/2026100108571096848",
+   "source": "아시아경제",
+   "published": "2026-10-01T09:54+09:00",
+   "cat": "hlt",
+   "id": "b576392a2521",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "정읍시, 노동현장 안전관리 강화",
+   "summary": "정읍시는 지난달 30일 시 소속 노동자의 안전과 보건에 관한 의견을 공유하고 산업재해 예방 방안을 논의하기 위해 3분기 산업안전보건위원회를 개최했다. 이날 회의에는 사용자 위원 9명과 근로자 위원 10명 등 모두 19명이...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=812568",
+   "source": "jeollailbo.com",
+   "published": "2026-10-01T09:52+09:00",
+   "cat": "hlt",
+   "id": "d95dce127177",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "직업계고 실습 안전사고 5년간 3.4배↑…“대형 참사 예방을”",
+   "summary": "하지만 이주영 의원은 “교육부가 제출한 산재 미처리 사고 자료에는 단순 타박·찰과상 등 경미한 부상 외에도 다리 골절이나 크레인 H빔 낙하 상처처럼 자칫 중대재해로 이어질 수 있는 아찔한 사고도 포함된 것으로...",
+   "url": "https://www.edaily.co.kr/News/Read?newsId=03070086645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-01T09:50+09:00",
+   "cat": "acc",
+   "id": "dc389d7c8a64",
+   "related": [
+    {
+     "source": "unn.net",
+     "url": "https://news.unn.net/news/articleView.html?idxno=598135",
+     "title": "직업계고 현장실습 안전사고, 최근 5년간 3.4배 증가… \"안전관리·보상..."
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "여야, '북 지뢰' 대응 갑론을박...본회의 앞 막판 협상",
+   "summary": "그중 하나인 도시정비법 개정안은 공공 재개발 사업자가 법정 용적률 1.3배까지 건축할 수 있단 내용인데... 다른 하나는 산재로 연 3명 이상 사고가 발생하는 기업에 영업이익 최대 5% 과징금을 부과한다는 산업안전보건법...",
+   "url": "https://www.ytn.co.kr/_ln/0101_202610010946046806",
+   "source": "YTN",
+   "published": "2026-10-01T09:46+09:00",
+   "cat": "law",
+   "id": "8e5dddcd957d",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "송민호 병역법 위반 사건, 오늘 1심 선고 外",
+   "summary": "고용노동부는 임금체불과 산업안전 사건 등의 수사 과정에 혼선이 없도록 새로운 업무 절차와 지원체계를 점검하고 있습니다. 모바일신분증 개선 아이디어 오늘부터 공모 행정안전부가 모바일 주민등록증과...",
+   "url": "https://www.newsinside.kr/news/articleView.html?idxno=5013841",
+   "source": "newsinside.kr",
+   "published": "2026-10-01T09:32+09:00",
+   "cat": "law",
+   "id": "f1f58eac05ac",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[단독] 손가락 끼고 안구 관통상까지… 현장 실습생들 산재 신청 10년 새...",
+   "summary": "학생들이 배치된 사업장의 안전관리도 허술했다. 고용노동부가 2023년부터 2025년까지 현장실습 산업체를 별도로 점검한 결과, 392개 사업장 가운데 208곳에서 모두 611건의 법 위반 사항이 확인됐다. 안전난간 설치...",
+   "url": "https://www.hankookilbo.com/news/article/A2026093014280000637?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-01T09:30+09:00",
+   "cat": "law",
+   "id": "55a67eb0b625",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "HJ중공업, 주요 협력사와 안전보건 관리 현안 공유",
+   "summary": "HJ중공업은 참석한 협력사에 '중대재해처벌법 질의응답집'과 '건설기계 체크리스트 36종'도 전달했다. 현장에서 관련 법령과 안전 점검 사항을 확인하는 데 활용할 수 있도록 마련한 자료다. 현장 안전관리와 관련한 추가...",
+   "url": "https://www.handmk.com/news/articleView.html?idxno=43729",
+   "source": "handmk.com",
+   "published": "2026-10-01T09:24+09:00",
+   "cat": "acc",
+   "id": "95dc7948255f",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "현장실습 학생 33% 줄 때 안전사고는 3배로…직업계고 ‘안전 역주행’",
    "summary": "특히 지난해 발생한 안전사고 10건 중 7건은 산업재해로 처리되지 않은 것으로 파악됐다. 1일 국회... 확인·감독하도록 하고 있다. 하지만 교육부는 기업 자체 보상으로 처리된 진료비 세부 내역까지는 관리하지 않아...",
@@ -81,7 +225,13 @@
    "published": "2026-10-01T08:49+09:00",
    "cat": "hlt",
    "id": "3a0dc8965107",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://www.news1.kr/politics/pm-bai-comm/6307158",
+     "title": "사업주 착오로 하루 늦어 출국 위기…권익위, 외국인 근로자 구제 의견"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -93,7 +243,13 @@
    "published": "2026-10-01T08:27+09:00",
    "cat": "law",
    "id": "26e44319899f",
-   "related": [],
+   "related": [
+    {
+     "source": "cpbc.co.kr",
+     "url": "https://news.cpbc.co.kr/article/1176076?division=NAVER",
+     "title": "직업계고 현장실습 사고 5년간 3.4배 증가… 산재 미처리 급증"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -165,7 +321,13 @@
    "published": "2026-10-01T07:01+09:00",
    "cat": "law",
    "id": "0fdf5c51e715",
-   "related": [],
+   "related": [
+    {
+     "source": "인사이트",
+     "url": "https://www.insight.co.kr/news/576049",
+     "title": "고객·환자·학생에게 맞고 일한다... 폭력 산재 5년 새 62%나 늘었다"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -302,7 +464,13 @@
    "published": "2026-10-01T05:00+09:00",
    "cat": "law",
    "id": "6446aa700da8",
-   "related": [],
+   "related": [
+    {
+     "source": "로이슈",
+     "url": "http://www.lawissue.co.kr/view.php?ud=202610010958166796b3279dfb36_12",
+     "title": "국회, 오늘 본회의… 도정법·산업안전보건법 처리 여부 주목"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -594,6 +762,18 @@
    "watch": []
   },
   {
+   "title": "檢지휘 대신 '지도'받는 특사경… 조언 범위가 관건",
+   "summary": "경찰이, 산업안전보건법·중대재해처벌법 위반 혐의는 특사경인 근로감독관이 주로 수사한다. 그동안 근로감독관은 검사의 지휘를 받았지만 앞으로는 지휘 없이 독자적으로 수사를 개시·진행할 수 있다. 대신 개정법은...",
+   "url": "https://www.fnnews.com/news/202609301833464673",
+   "source": "파이낸셜뉴스",
+   "published": "2026-09-30T18:35+09:00",
+   "cat": "law",
+   "id": "f73b1035f42c",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
    "title": "겨울철 배달사고 예방 나선 쿠팡이츠…전국 19곳서 이륜차 무상점검",
    "summary": "고용노동부와 국토교통부, 경찰청은 올해 5월 쿠팡이츠를 포함한 8개 배달 플랫폼사와 안전보건 협약을... CES 역시 차량 점검 외 안전교육을 강화하고 있다. 한국도로교통공단과 협력해 올해 4월부터 12월까지 전국 주요...",
    "url": "http://www.4th.kr/news/articleView.html?idxno=2118943",
@@ -721,6 +901,18 @@
    "published": "2026-09-30T17:42+09:00",
    "cat": "law",
    "id": "2942316c4d90",
+   "related": [],
+   "day": "2026-09-30",
+   "watch": []
+  },
+  {
+   "title": "[참사의 재구성에서 내일의 안전으로] ① 학동 참사 그 후 5년…강화된...",
+   "summary": "건설현장 점검이 강화됐고 위험성평가와 노동자 참여 제도도 확대됐다. 기업들은 인공지능(AI)과 스마트 안전장비를 도입하고 원·하청 공동 안전관리에도 나섰다. 그러나 대형 사고는 다시 발생했다. 남도일보는 '그 사건...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=924872",
+   "source": "남도일보",
+   "published": "2026-09-30T17:38+09:00",
+   "cat": "tech",
+   "id": "5c8b08f75ea2",
    "related": [],
    "day": "2026-09-30",
    "watch": []
@@ -1897,6 +2089,11 @@
      "source": "강원도민일보",
      "url": "https://www.kado.net/news/articleView.html?idxno=2075656",
      "title": "철원 출신 박승흡 신임 근로복지공단 이사장 취임…노동운동가 출신 첫..."
+    },
+    {
+     "source": "eroun.net",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=91321",
+     "title": "'첫 노동계 출신' 박승흡 근로복지공단 이사장 취임… 양대노총·ESG업계..."
     }
    ],
    "day": "2026-09-30",
