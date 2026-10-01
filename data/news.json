@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T13:54+09:00",
+ "updatedAt": "2026-10-01T14:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,16 +31,7 @@
    "source": "뉴스핌",
    "cat": "sev",
    "day": "2026-10-01",
-   "count": 7
-  },
-  {
-   "id": "41a017e4ea70",
-   "title": "울산항만공사, 소규모 사업장 안전보건관리 지원사업 공모",
-   "url": "https://www.kpinews.kr/newsView/1065579409973948",
-   "source": "KPI뉴스",
-   "cat": "hlt",
-   "day": "2026-10-01",
-   "count": 4
+   "count": 8
   },
   {
    "id": "80b4555fc15a",
@@ -48,6 +39,15 @@
    "url": "https://n.news.naver.com/mnews/article/421/0009203271?sid=101",
    "source": "뉴스1",
    "cat": "sev",
+   "day": "2026-10-01",
+   "count": 5
+  },
+  {
+   "id": "41a017e4ea70",
+   "title": "울산항만공사, 소규모 사업장 안전보건관리 지원사업 공모",
+   "url": "https://www.kpinews.kr/newsView/1065579409973948",
+   "source": "KPI뉴스",
+   "cat": "hlt",
    "day": "2026-10-01",
    "count": 4
   },
@@ -71,6 +71,97 @@
   }
  ],
  "articles": [
+  {
+   "title": "늦어지는 원인 규명 한화에어로, 경찰·국과수 발표는 언제?",
+   "summary": "고용노동부는 1일 한화에어로스페이스 대전사업장 폭발 사고와 관련한 특별감독 결과, 총 473건의 법 위반을... 포함)에서는 산업안전보건법 등 473건의 위반사항이 적발됐다. 노동부는 안전보건규칙 위반 184건과 하청...",
+   "url": "https://n.news.naver.com/mnews/article/243/0000103740?sid=101",
+   "orig": "https://economist.co.kr/article/view/ecn202610010022",
+   "source": "economist.co.kr",
+   "published": "2026-10-01T14:13+09:00",
+   "cat": "law",
+   "id": "b070c3b44cdc",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "화성특례시, 중대재해 예방 교육",
+   "summary": "화성특례시가 고위험작업을 담당하는 현장 근로자들을 대상으로 산업재해를 선제적으로 예방하고 현장 실무 역량을 강화하기 위한 안전보건 특별교육을 실시했다....",
+   "url": "http://www.breaknews.com/1240384",
+   "orig": "http://www.breaknews.com/1240384",
+   "source": "브레이크뉴스",
+   "published": "2026-10-01T14:08+09:00",
+   "cat": "tech",
+   "id": "805b8dc8d233",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "배민·쿠팡 안전관리 더 조인다...\"재해율 해마다 감소 추세\"",
+   "summary": "우아한청년들 제공 청년 산업재해 인정 건수 최다 기업을 차지한 배달의민족과 쿠팡이 산재 예방과... 안전 보건을 최우선으로 고려한 운영을 실시하고 있다\"며 \"이런 노력으 산재보험 적용 근로자 100명당 재해자 수는...",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=351210",
+   "orig": "https://www.greened.kr/news/articleView.html?idxno=351210",
+   "source": "greened.kr",
+   "published": "2026-10-01T14:00+09:00",
+   "cat": "tech",
+   "id": "adceefca7da1",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "방폭 인증 없는 장비에 누출 경보도 없었다…한화에어로 대전사업장, 법...",
+   "summary": "사법처리 대상 189건 가운데 184건은 안전보건규칙 위반이고, 나머지 5건은 하청 노동자 보호조치 위반이다.... 나머지 93건은 추락, 끼임, 감전을 막는 일반 재해 예방조치 위반이었다. 구체적으로 보면, 폭발 우려가 있는...",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=351234",
+   "orig": "https://www.greened.kr/news/articleView.html?idxno=351234",
+   "source": "greened.kr",
+   "published": "2026-10-01T13:59+09:00",
+   "cat": "acc",
+   "id": "87935bba96f2",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "현대건설 '디에이치 클래스트' 또 중대재해…30대 외국인 노동자 콘크리...",
+   "summary": "이번 사고는 현대건설에서 불과 한 달 사이 발생한 두 번째 사망 중대재해라는 점에서도 주목된다. 지난 9월 3일에는 현대건설이 시공하는 울산 '샤힌 프로젝트 패키지1' 현장에서 하청업체 소속 50대 도장공이 약 10m 높이...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=320808",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=320808",
+   "source": "더퍼블릭",
+   "published": "2026-10-01T13:56+09:00",
+   "cat": "law",
+   "id": "89a3495978bb",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "한화오션 하청노동자 또 크레인 올랐다…원청교섭 놓고 노사 정면충돌",
+   "summary": "노동자들의 산업안전과 작업환경 관련 의제에 대해서는 노동조합법상 사용자에 해당한다고 판단했다.... 하청지회는 \"고용노동부가 원청교섭을 강제하지 못한다면 하청노동자가 원청교섭 쟁취와 승리를 위해 투쟁에 나설...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=320828",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=320828",
+   "source": "더퍼블릭",
+   "published": "2026-10-01T13:56+09:00",
+   "cat": "law",
+   "id": "f4aeee4abd09",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "직업계고 현장실습생 줄었는데 안전사고 3.4배 ↑",
+   "summary": "지난해 발생한 안전사고 10건 중 7건은 산업재해로 처리되지 않았고 이 가운데 절반가량은 치료비 지급... 확인·감독하도록 규정하고 있다. 이에 산재 미처리 사고의 치료비 지급 주체와 실제 보상 여부까지 관리할...",
+   "url": "https://www.hangyo.com/news/article.html?no=109484",
+   "orig": "https://www.hangyo.com/news/article.html?no=109484",
+   "source": "hangyo.com",
+   "published": "2026-10-01T13:56+09:00",
+   "cat": "law",
+   "id": "f595fd0b4f9b",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "한화에어로, 폭발·화재 안전수칙 위반 무더기 적발…과태료 5억",
    "summary": "추락과 끼임 등 기본 안전조치 위반도 93건 적발됐다. 작업발판 끝단에 안전난간을 설치하지 않거나 모터 구동축에 덮개를 두지 않은 사례가 확인됐다. 하청 노동자 보호조치 위반도 5건 지적됐다. 과태료 대상은 총...",
@@ -184,7 +275,14 @@
    "published": "2026-10-01T12:58+09:00",
    "cat": "tech",
    "id": "f64bedb0b7f1",
-   "related": [],
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250817",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250817",
+     "title": "국토안전관리원, 건설현장 비상대응체계 실전 점검"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -505,6 +603,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=551953",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=551953",
      "title": "한화에어로 대전사업장 '안전 구멍'...473건 적발·189건 사법처리"
+    },
+    {
+     "source": "newsworks.co.kr",
+     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855305",
+     "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=855305",
+     "title": "'5명 사망' 한화에어로, 법 위반 473건 적발…과태료 5억"
     }
    ],
    "day": "2026-10-01",
@@ -555,6 +659,12 @@
      "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246983",
      "orig": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246983",
      "title": "한화에어로스페이스 473건 법 위반 적발, 5억원 과태료 부과"
+    },
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000957102?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026100111130002907?did=NA",
+     "title": "'7명 사상' 한화에어로 사고...안전규칙 위반 473건, 과태료 5억 원"
     }
    ],
    "day": "2026-10-01",
@@ -1919,6 +2029,12 @@
      "source": "kyosu.net",
      "url": "https://www.kyosu.net/news/articleView.html?idxno=210799",
      "title": "한기대-한국산업단지공단, 산업단지 안전관리·인력양성 맞손"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004194720?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6585780?utm_source=naver&utm_medium=article&utm_campaign=20261001015912",
+     "title": "한국기술교육대·산업단지공단, 산단 안전관리 및 인재양성 '맞손'"
     }
    ],
    "day": "2026-09-30",
@@ -2764,6 +2880,12 @@
      "source": "경기신문",
      "url": "https://www.kgnews.co.kr/news/article.html?no=913556",
      "title": "강득구 국회의원 \"고속도로 유지보수 산재 10곳 중 8곳, 안전관리자 없..."
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1240377",
+     "orig": "http://www.breaknews.com/1240377",
+     "title": "고속도로 유지보수공사 산재 10곳 중 8곳 안전관리자 미선임"
     }
    ],
    "day": "2026-09-30",
