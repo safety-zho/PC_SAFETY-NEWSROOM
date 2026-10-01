@@ -1,9 +1,13 @@
 {
- "updatedAt": "2026-10-01T13:18+09:00",
+ "updatedAt": "2026-10-01T13:54+09:00",
  "categories": [
   {
+   "id": "sev",
+   "label": "중대재해"
+  },
+  {
    "id": "acc",
-   "label": "중대재해·사고"
+   "label": "산업사고"
   },
   {
    "id": "law",
@@ -15,7 +19,7 @@
   },
   {
    "id": "tech",
-   "label": "업계·기술 동향"
+   "label": "업계·예방 활동"
   }
  ],
  "watchLabel": "SPC그룹",
@@ -25,36 +29,9 @@
    "title": "'7명 사상' 한화에어로 과태료 5억 부과…법 위반 473건 적발",
    "url": "https://www.newspim.com/news/view/20261001000500",
    "source": "뉴스핌",
-   "cat": "acc",
+   "cat": "sev",
    "day": "2026-10-01",
-   "count": 6
-  },
-  {
-   "id": "49cbc5fc37e9",
-   "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
-   "url": "https://n.news.naver.com/mnews/article/001/0016348749?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-01",
-   "count": 4
-  },
-  {
-   "id": "ee26ecac5be9",
-   "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
-   "url": "https://n.news.naver.com/mnews/article/003/0014225311?sid=100",
-   "source": "뉴시스",
-   "cat": "law",
-   "day": "2026-10-01",
-   "count": 4
-  },
-  {
-   "id": "90569eded323",
-   "title": "국회 오늘 본회의…민주당, 산안법·도정법 처리 예고",
-   "url": "https://n.news.naver.com/mnews/article/123/0002391106?sid=100",
-   "source": "joseilbo.com",
-   "cat": "law",
-   "day": "2026-10-01",
-   "count": 4
+   "count": 7
   },
   {
    "id": "41a017e4ea70",
@@ -63,10 +40,115 @@
    "source": "KPI뉴스",
    "cat": "hlt",
    "day": "2026-10-01",
-   "count": 3
+   "count": 4
+  },
+  {
+   "id": "80b4555fc15a",
+   "title": "'5명 사망' 한화에어로 대전사업장, 안전 위반 473건 무더기 적발",
+   "url": "https://n.news.naver.com/mnews/article/421/0009203271?sid=101",
+   "source": "뉴스1",
+   "cat": "sev",
+   "day": "2026-10-01",
+   "count": 4
+  },
+  {
+   "id": "adc7e8a9c356",
+   "title": "폭발사고 반복된 한화에어로…산안법 위반 473건 적발",
+   "url": "https://news.cpbc.co.kr/article/1176079?division=NAVER",
+   "source": "cpbc.co.kr",
+   "cat": "law",
+   "day": "2026-10-01",
+   "count": 4
+  },
+  {
+   "id": "4ec6608c711e",
+   "title": "국립부산과학관, 품질·환경·안전보건 국제인증 3종 획득",
+   "url": "https://n.news.naver.com/mnews/article/005/0001876128?sid=102",
+   "source": "국민일보",
+   "cat": "tech",
+   "day": "2026-10-01",
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "한화에어로, 폭발·화재 안전수칙 위반 무더기 적발…과태료 5억",
+   "summary": "추락과 끼임 등 기본 안전조치 위반도 93건 적발됐다. 작업발판 끝단에 안전난간을 설치하지 않거나 모터 구동축에 덮개를 두지 않은 사례가 확인됐다. 하청 노동자 보호조치 위반도 5건 지적됐다. 과태료 대상은 총...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255686",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=255686",
+   "source": "insightkorea.co.kr",
+   "published": "2026-10-01T13:50+09:00",
+   "cat": "acc",
+   "id": "ad5e8543a4ca",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "무버힐 웰니스, 근골격계 예방교육 '직무 맞춤형'으로…산업보건 관리체...",
+   "summary": "무버힐 웰니스가 사무직·제조·물류·현장직 등 직무별 신체 부담과 근무환경을 반영한 맞춤형 근골격계 예방관리 프로그램을 통해 기업 산업보건 관리체계 강화에 나선다고 1일 밝혔다. 한국산업안전보건공단이 2025년...",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278047",
+   "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278047",
+   "source": "businesskorea.co.kr",
+   "published": "2026-10-01T13:40+09:00",
+   "cat": "tech",
+   "id": "16189c1ca945",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "민주당, 공공 재개발 용적률 완화법 처리 순연…산안법은 처리 예고",
+   "summary": "이어 \"산업안전보건법 개정안은 저희로서는 이 법을 미룰 생각이 없고 국민의힘 주장이 과징금에 캡(상한)을 씌우자는 것인데, 이에 해당하는 기업이 얼마되지 않고 10여개가 안되는 기업을 보호하자고 이를 미루자는 것이...",
+   "url": "http://www.metroseoul.co.kr/article/20261001500265",
+   "orig": "http://www.metroseoul.co.kr/article/20261001500265",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-01T13:38+09:00",
+   "cat": "law",
+   "id": "a64632c05a51",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "경남 안전보건공단·고용노동부, 참이슬 30만 병에 산업재해 예방 메시...",
+   "summary": "안전보건공단 경남지역본부와 고용노동부 창원지청, 하이트진로 마산공장이 참이슬 30만 병에 산업재해 예방 메시지를 담았다. 이들은 참이슬 보조 라벨에 안전 메시지를 인쇄해 제품을 통해 안전 문화 홍보에 나섰다....",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016090",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016090",
+   "source": "경남도민일보",
+   "published": "2026-10-01T13:36+09:00",
+   "cat": "tech",
+   "id": "ab1ac17b945a",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "울산과학대학교 조원준 학생, 전국 앵커 AI 경진대회 대상",
+   "summary": "조원준 학생이 제안한 '울산형 중대재해 사전 예측·예방 플랫폼(Ulsan SafeGuard AI)'은 울산의 산업재해 사망이 전국 추세와 다르게 늘어난 문제를 겨냥했다. 조 학생이 한국산업안전보건공단의 산업재해 현황 2022~2025년...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068681",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068681",
+   "source": "경상일보",
+   "published": "2026-10-01T13:30+09:00",
+   "cat": "tech",
+   "id": "b30d28551fa1",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "손예주 강사, 서귀포의료원 관리감독자 대상 \"병원 관리감독자 교육\" 특...",
+   "summary": "특히 병원 현장에서 실제 마주할 수 있는 위험요인을 중심으로 산업안전보건법, 관리감독자의 역할, 위험예지훈련, 위험성평가, TBM(작업 전 안전점검회의) 등을 참여형 활동으로 구성돼 교육생들의 높은 몰입과 호응을...",
+   "url": "https://www.lecturernews.com/news/articleView.html?idxno=211406",
+   "orig": "https://www.lecturernews.com/news/articleView.html?idxno=211406",
+   "source": "lecturernews.com",
+   "published": "2026-10-01T13:26+09:00",
+   "cat": "law",
+   "id": "6ff702077fb1",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "논산시, 일터 안전 챙기기 캠페인 이어간다",
    "summary": "한편 논산시는 최근 산업현장 사고가 잇따르자 안전문화 확산과 안전보건 관리체계 구축 등으로 근로자 인식을 높이고 안전한 작업환경을 조성하는 노력을 이어가고 있다.",
@@ -139,7 +221,7 @@
    "orig": "https://www.kbsm.net/news/view.php?idx=536220",
    "source": "kbsm.net",
    "published": "2026-10-01T12:42+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "1566e568d487",
    "related": [],
    "day": "2026-10-01",
@@ -204,7 +286,7 @@
    "orig": "https://www.ytn.co.kr/_ln/0115_202610011233445827",
    "source": "YTN",
    "published": "2026-10-01T12:33+09:00",
-   "cat": "hlt",
+   "cat": "sev",
    "id": "977f07d3667a",
    "related": [],
    "day": "2026-10-01",
@@ -228,7 +310,7 @@
    "url": "https://news.mtn.co.kr/news-detail/2026100109302717961",
    "source": "mtn.co.kr",
    "published": "2026-10-01T12:04+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "40305134ac78",
    "related": [],
    "day": "2026-10-01",
@@ -289,7 +371,7 @@
    "url": "https://n.news.naver.com/mnews/article/028/0002825502?sid=102",
    "source": "한겨레",
    "published": "2026-10-01T12:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "20332ed93e50",
    "related": [],
    "day": "2026-10-01",
@@ -335,6 +417,12 @@
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3710423",
      "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3710423",
      "title": "울산항만공사, 소규모 사업장 안전보건관리체계 구축 지원…7일까지 신..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014226899?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261001_0003810719",
+     "title": "울산항만공사, 소규모 사업장 안전보건체계 구축 지원"
     }
    ],
    "day": "2026-10-01",
@@ -346,7 +434,7 @@
    "url": "https://n.news.naver.com/mnews/article/016/0002704336?sid=101",
    "source": "헤럴드경제",
    "published": "2026-10-01T12:01+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "1d3836fed2a6",
    "related": [],
    "day": "2026-10-01",
@@ -359,7 +447,7 @@
    "url": "https://n.news.naver.com/mnews/article/079/0004194679?sid=102",
    "source": "노컷뉴스",
    "published": "2026-10-01T12:01+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "e82536cd812c",
    "related": [],
    "day": "2026-10-01",
@@ -385,7 +473,7 @@
    "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333266",
    "source": "인천일보",
    "published": "2026-10-01T12:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "cc56afe1fee7",
    "related": [],
    "day": "2026-10-01",
@@ -397,7 +485,7 @@
    "url": "https://n.news.naver.com/mnews/article/421/0009203271?sid=101",
    "source": "뉴스1",
    "published": "2026-10-01T12:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "80b4555fc15a",
    "related": [
     {
@@ -411,6 +499,12 @@
      "url": "http://www.iminju.net/news/articleView.html?idxno=170243",
      "orig": "http://www.iminju.net/news/articleView.html?idxno=170243",
      "title": "한화에어로, '7명 사상' 대전사업장서 법 위반 473건 적발…189건 사법처..."
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=551953",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=551953",
+     "title": "한화에어로 대전사업장 '안전 구멍'...473건 적발·189건 사법처리"
     }
    ],
    "day": "2026-10-01",
@@ -423,7 +517,7 @@
    "url": "https://www.newspim.com/news/view/20261001000500",
    "source": "뉴스핌",
    "published": "2026-10-01T12:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6d5c7b8a8ade",
    "related": [
     {
@@ -455,6 +549,12 @@
      "url": "https://n.news.naver.com/mnews/article/025/0003555090?sid=102",
      "orig": "https://www.joongang.co.kr/article/25466326",
      "title": "‘7명 사상’ 한화에어로 들여다보니…안전법 위반 473건 적발"
+    },
+    {
+     "source": "sisunnews.co.kr",
+     "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246983",
+     "orig": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246983",
+     "title": "한화에어로스페이스 473건 법 위반 적발, 5억원 과태료 부과"
     }
    ],
    "day": "2026-10-01",
@@ -466,7 +566,7 @@
    "url": "https://n.news.naver.com/mnews/article/056/0012266217?sid=101",
    "source": "KBS",
    "published": "2026-10-01T12:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "7b3b996d3ac5",
    "related": [],
    "day": "2026-10-01",
@@ -493,6 +593,12 @@
      "url": "https://n.news.naver.com/mnews/article/366/0001195587?sid=102",
      "title": "‘폭발 사망사고’ 한화에어로, 법 위반 473건…사법처리 189건·과태료...",
      "orig": "https://biz.chosun.com/topics/topics_social/2026/10/01/DQTOKN5H6ZAEFAKY3USMT4O4PM/?utm_source=naver&utm_medium=original&utm_campaign=biz"
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000535834?sid=103",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000337823?division=NAVER",
+     "title": "'7명 사상 폭발사고' 한화에어로스페이스, 법위반 473건…189건 사법처리"
     }
    ],
    "day": "2026-10-01",
@@ -560,6 +666,19 @@
    "watch": []
   },
   {
+   "title": "[이슈] [개청 D-1] 78년 만 檢 해체…수장도 인력도 없는 공소청·중수청...",
+   "summary": "실제 국회 행정안전위원회 법안심사 과정에서 중수청과 공소청, 경찰 간 사건 이첩 규정을 논의했지만... 없이 산업재해와 임금체불, 부당노동행위 등 노동 사건을 독자적으로 수사한다. 고용노동부는 전국 약 3800명의...",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744546",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=744546",
+   "source": "폴리뉴스",
+   "published": "2026-10-01T11:33+09:00",
+   "cat": "law",
+   "id": "38fcb9664dea",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
    "title": "DMZ 지뢰폭발 사고...청와대 \"진상규명 후 조치\" [뉴스퀘어10]",
    "summary": "한국만 지금 중립국감독위원회가 있거든요. 이들이 굉장히 객관적입니다. 절대로 한국 편 들어주고 그런 게... 박정희 대통령께서는 소총 한 자루부터 우리 손으로 만들자며 방위산업의 첫 삽을 떴습니다. 노무현...",
    "url": "https://n.news.naver.com/mnews/article/052/0002413328?sid=100",
@@ -578,7 +697,7 @@
    "url": "https://www.viva100.com/article/20261001500803",
    "source": "브릿지경제",
    "published": "2026-10-01T11:26+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "2df4a5934996",
    "related": [],
    "day": "2026-10-01",
@@ -604,6 +723,12 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017777",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1017777",
      "title": "국립부산과학관, '품질·환경·안전보건경영' ISO 3개 통합인증 획득"
+    },
+    {
+     "source": "sidae.com",
+     "url": "https://n.news.naver.com/mnews/article/417/0001159804?sid=102",
+     "orig": "https://www.sidae.com/article/2026100112045636192",
+     "title": "[부산과학관 소식] '품질·환경·안전보건' ISO 통합인증 획득"
     }
    ],
    "day": "2026-10-01",
@@ -739,18 +864,6 @@
    "watch": []
   },
   {
-   "title": "[해경의 하루] 새벽 바다서 11명 전원 구조…150명 탄 항공기 추락 가정...",
-   "summary": "훈련에는 영종구청과 영종구보건소, 영종소방서, 인천국제공항공사, 인천해역방어사령부, 육군 제17사단 제3경비단, 해양환경관리공단 인천지사, 어선안전조업국, 해양재난구조대 등이 참여했다. 각 기관은 해상 수색과...",
-   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=96344",
-   "source": "뉴시안",
-   "published": "2026-10-01T10:48+09:00",
-   "cat": "acc",
-   "id": "46f7a040cb06",
-   "related": [],
-   "day": "2026-10-01",
-   "watch": []
-  },
-  {
    "title": "산재 과징금 ‘영업익 5%’ vs ‘최대 50억원’…오늘 국회 본회의서 격...",
    "summary": "안전·보건 조치 위반으로 1년간 근로자 3명 이상이 사망한 기업에 영업이익의 최대 5%를 과징금으로... 노동부의 산재 예방 정책 측면에서는 경제적 제재가 기업의 안전 투자와 재발 방지 조치를 얼마나 유도할 수...",
    "url": "https://n.news.naver.com/mnews/article/016/0002704184?sid=101",
@@ -793,7 +906,7 @@
    "url": "http://news.lghellovision.net/news/articleView.html?idxno=556900",
    "source": "lghellovision.net",
    "published": "2026-10-01T10:32+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "5634a51af8d1",
    "related": [],
    "day": "2026-10-01",
@@ -805,7 +918,7 @@
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3710238",
    "source": "국제뉴스",
    "published": "2026-10-01T10:28+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "92f729db0d5a",
    "related": [],
    "day": "2026-10-01",
@@ -817,7 +930,7 @@
    "url": "https://n.news.naver.com/mnews/article/047/0002530843?sid=102",
    "source": "오마이뉴스",
    "published": "2026-10-01T10:22+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "02a47164b5e0",
    "related": [],
    "day": "2026-10-01",
@@ -860,7 +973,7 @@
    "url": "https://www.asiatime.co.kr/article/20261001500075",
    "source": "asiatime.co.kr",
    "published": "2026-10-01T09:54+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "9e347aed3ae3",
    "related": [],
    "day": "2026-10-01",
@@ -897,7 +1010,7 @@
    "url": "https://n.news.naver.com/mnews/article/018/0006378308?sid=102",
    "source": "이데일리",
    "published": "2026-10-01T09:50+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "dc389d7c8a64",
    "related": [
     {
@@ -954,7 +1067,7 @@
    "url": "https://www.handmk.com/news/articleView.html?idxno=43729",
    "source": "handmk.com",
    "published": "2026-10-01T09:24+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "95dc7948255f",
    "related": [],
    "day": "2026-10-01",
@@ -978,12 +1091,25 @@
    "url": "https://n.news.naver.com/mnews/article/055/0001392327?sid=102",
    "source": "SBS",
    "published": "2026-10-01T09:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "7e0774fff716",
    "related": [],
    "day": "2026-10-01",
    "watch": [],
    "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774554&plink=ORI&cooper=NAVER"
+  },
+  {
+   "title": "UPA·울산해수청, 항만안전특별법 대응 합동 안전교육 실시",
+   "summary": "이번 교육은 ‘항만안전특별법’과 ‘중대재해처벌법’ 시행 등 강화된 법적 기준에 맞춰 항만 현장의... 주요 교육 내용은 ▲울산항 산업재해 발생 통계 분석 및 사망재해 원인 규명 ▲2026년 위험성평가 제도 개정사항...",
+   "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148163",
+   "orig": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148163",
+   "source": "ksg.co.kr",
+   "published": "2026-10-01T08:56+09:00",
+   "cat": "law",
+   "id": "af441539cb5d",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
   },
   {
    "title": "사업주 잘못으로 출국 위기? 권익위 \"외국인 노동자 구제하라\"",
@@ -1004,6 +1130,19 @@
    "day": "2026-10-01",
    "watch": [],
    "orig": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809"
+  },
+  {
+   "title": "[2026 국감] GTX부터 가덕도까지...건설사 'CEO 대신 실무진' 증인석 전망",
+   "summary": "신안산선 공사 현장서 발생한 중대재해 질의가 이어질 것으로 보인다. 이곳에서는 올해 6월 발생한 노동자 추락 포함 총 4건의 사망 사고가 일어났다. 이에 더해 20년째 지연 중인 송도 국제병원 부지 개발에 대해서도...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=134539",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=134539",
+   "source": "popcornnews.net",
+   "published": "2026-10-01T08:30+09:00",
+   "cat": "law",
+   "id": "449e5720fa93",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
   },
   {
    "title": "직업계고 현장실습 사고 5년 새 3.4배…10건 중 7건 '산재 미처리'",
@@ -1035,7 +1174,7 @@
    "url": "https://mpmbc.co.kr/NewsArticle/1539131",
    "source": "mpmbc.co.kr",
    "published": "2026-10-01T08:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "63694edbae93",
    "related": [],
    "day": "2026-10-01",
@@ -1195,7 +1334,7 @@
    "url": "https://n.news.naver.com/mnews/article/050/0000111471?sid=101",
    "source": "한국경제",
    "published": "2026-10-01T06:02+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "d437b07e3151",
    "related": [],
    "day": "2026-10-01",
@@ -1391,7 +1530,7 @@
    "url": "http://www.ttlnews.com/news/articleView.html?idxno=3148011",
    "source": "ttlnews.com",
    "published": "2026-09-30T22:16+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "809af15bd3d9",
    "related": [],
    "day": "2026-09-30",
@@ -1428,7 +1567,7 @@
    "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077007",
    "source": "뉴스클레임",
    "published": "2026-09-30T20:48+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "1cb8ed657e6c",
    "related": [],
    "day": "2026-09-30",
@@ -1464,7 +1603,7 @@
    "url": "https://tjmbc.co.kr/NewsArticle/865018",
    "source": "tjmbc.co.kr",
    "published": "2026-09-30T20:45+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "d647fd5d8b63",
    "related": [],
    "day": "2026-09-30",
@@ -1476,7 +1615,7 @@
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250790",
    "source": "안전신문",
    "published": "2026-09-30T20:18+09:00",
-   "cat": "acc",
+   "cat": "hlt",
    "id": "2ee762b2cb93",
    "related": [
     {
@@ -1552,14 +1691,15 @@
   {
    "title": "전남광주 노동단체 \"대불산단 중대재해 반복…특별감독 해야\"",
    "summary": "광주전남노동안전보건지킴이는 30일 \"전남광주 영암군 대불국가산업단지에서 반복해 발생하는 중대재해를 근절하기 위해 특별 기획감독을 실시해야 한다\"고 주장했다. 단체는 이날 성명을 내고 \"지난 8일 대불산단 한...",
-   "url": "https://www.yna.co.kr/view/AKR20260930182900054?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016348343?sid=102",
    "source": "연합뉴스",
    "published": "2026-09-30T18:58+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "2ae00f077bd0",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260930182900054?input=1195m"
   },
   {
    "title": "용인 신축 공사 현장서 용접하던 60대 자재에 깔려 숨져",
@@ -1567,7 +1707,7 @@
    "url": "https://imnews.imbc.com/news/2026/society/article/6855015_36918.html",
    "source": "MBC",
    "published": "2026-09-30T18:40+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "cad2ef37b2d9",
    "related": [],
    "day": "2026-09-30",
@@ -1640,7 +1780,7 @@
    "url": "https://www.gosiweek.com/article/1065592635952280",
    "source": "gosiweek.com",
    "published": "2026-09-30T18:06+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "7a3e14ff2947",
    "related": [],
    "day": "2026-09-30",
@@ -1661,14 +1801,15 @@
   {
    "title": "경기 용인 공사 현장에서 철골 구조물 쓰러져...60대 작업자 사망",
    "summary": "경찰은 산업현장에서 발생한 사망 사고인 만큼 기초 조사를 마치는 대로 사건을 관할 용인동부경찰서에서 경기남부경찰청 중대재해수사팀으로 이관할 예정입니다. 노동당국도 사고 발생 후 현장에 작업 중지 조치를...",
-   "url": "http://www.yonhapnewstv.co.kr/news/AKR20260930175325Z2G",
+   "url": "https://n.news.naver.com/mnews/article/422/0000911283?sid=102",
    "source": "yonhapnewstv.co.kr",
    "published": "2026-09-30T17:54+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "709a9edaf03e",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "http://www.yonhapnewstv.co.kr/news/AKR20260930175325Z2G"
   },
   {
    "title": "국정감사 내달 막 오른다…건설안전·공사비 쟁점 부상",
@@ -1676,7 +1817,7 @@
    "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52076",
    "source": "kmecnews.co.kr",
    "published": "2026-09-30T17:50+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "2bdf0b8b52a9",
    "related": [],
    "day": "2026-09-30",
@@ -1688,7 +1829,7 @@
    "url": "https://www.thedailypost.kr/news/articleView.html?idxno=115942",
    "source": "thedailypost.kr",
    "published": "2026-09-30T17:46+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "936f712d0ab4",
    "related": [],
    "day": "2026-09-30",
@@ -1724,7 +1865,7 @@
    "url": "https://www.namdonews.com/news/articleView.html?idxno=924872",
    "source": "남도일보",
    "published": "2026-09-30T17:38+09:00",
-   "cat": "tech",
+   "cat": "sev",
    "id": "5c8b08f75ea2",
    "related": [],
    "day": "2026-09-30",
@@ -1736,7 +1877,7 @@
    "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717272",
    "source": "newstown.co.kr",
    "published": "2026-09-30T17:37+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "11d9173b1ec8",
    "related": [
     {
@@ -1846,14 +1987,15 @@
   {
    "title": "상가 공사현장서 용접 중 H빔에 깔려…60대 하청직원 사망",
    "summary": "경찰은 산업현장에서 발생한 사망 사고인 만큼 부검 등 기초 조사를 마쳐 해당 사건을 경기남부경찰청 중대재해수사팀으로 이관할 예정이다. 노동 당국은 현장에 작업 중지 조치를 내리고, 산업안전보건법과...",
-   "url": "https://www.nocutnews.co.kr/news/6585325?utm_source=naver&utm_medium=article&utm_campaign=20260930050201",
+   "url": "https://n.news.naver.com/mnews/article/079/0004194406?sid=102",
    "source": "노컷뉴스",
    "published": "2026-09-30T17:03+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b954c8226023",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.nocutnews.co.kr/news/6585325?utm_source=naver&utm_medium=article&utm_campaign=20260930050201"
   },
   {
    "title": "[저탄소·AI안전관리 인증] 탄소는 줄이고 위험은 미리 막고…'실천형 ...",
@@ -1958,7 +2100,7 @@
    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448316",
    "source": "비즈니스포스트",
    "published": "2026-09-30T16:46+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "a13744b71b6f",
    "related": [],
    "day": "2026-09-30",
@@ -1967,10 +2109,10 @@
   {
    "title": "용인 상가 신축현장서 H빔 넘어져 60대 작업자 사망",
    "summary": "경찰은 산업현장에서 발생한 사망 사고인 만큼 기초 조사를 마치는 대로 사건을 관할 용인동부경찰서에서 경기남부경찰청 중대재해수사팀으로 이관할 예정이다. 노동 당국도 사고 발생 후 현장에 작업 중지 조치를...",
-   "url": "https://www.yna.co.kr/view/AKR20260930158500061?input=1195m",
+   "url": "https://n.news.naver.com/mnews/article/001/0016347913?sid=102",
    "source": "연합뉴스",
    "published": "2026-09-30T16:43+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "a6a1faf44fc5",
    "related": [
     {
@@ -1985,18 +2127,21 @@
     },
     {
      "source": "KBS",
-     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674693&ref=A",
-     "title": "용인 상가 신축현장서 H빔 넘어져 60대 작업자 숨져"
+     "url": "https://n.news.naver.com/mnews/article/056/0012265612?sid=102",
+     "title": "용인 상가 신축현장서 H빔 넘어져 60대 작업자 숨져",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8674693&ref=A"
     },
     {
      "source": "서울경제",
-     "url": "https://www.sedaily.com/article/20096724?ref=naver",
-     "title": "용인 상가 신축현장서 H빔 넘어져…60대 작업자 사망"
+     "url": "https://n.news.naver.com/mnews/article/011/0004666949?sid=102",
+     "title": "용인 상가 신축현장서 H빔 넘어져…60대 작업자 사망",
+     "orig": "https://www.sedaily.com/article/20096724?ref=naver"
     },
     {
      "source": "kyeonggi.com",
-     "url": "https://www.kyeonggi.com/article/20260930580426",
-     "title": "용인 신축 공사장서 철골 구조물 넘어져…60대 작업자 사망"
+     "url": "https://n.news.naver.com/mnews/article/666/0000125569?sid=102",
+     "title": "용인 신축 공사장서 철골 구조물 넘어져…60대 작업자 사망",
+     "orig": "https://www.kyeonggi.com/article/20260930580426"
     },
     {
      "source": "세이프타임즈",
@@ -2005,12 +2150,14 @@
     },
     {
      "source": "뉴스1",
-     "url": "https://www.news1.kr/local/gyeonggi/6306532",
-     "title": "용인 아파트 상가 신축현장서 H빔 넘어져…60대 사망"
+     "url": "https://n.news.naver.com/mnews/article/421/0009201711?sid=102",
+     "title": "용인 아파트 상가 신축현장서 H빔 넘어져…60대 사망",
+     "orig": "https://www.news1.kr/local/gyeonggi/6306532"
     }
    ],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.yna.co.kr/view/AKR20260930158500061?input=1195m"
   },
   {
    "title": "예산군, '현장 위험요인 사전 차단'... 사업장 안전보건 협의체 가동",
@@ -2018,7 +2165,7 @@
    "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=506582",
    "source": "newsworker.co.kr",
    "published": "2026-09-30T16:40+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "40f43c1734b3",
    "related": [],
    "day": "2026-09-30",
@@ -2030,7 +2177,7 @@
    "url": "http://www.breaknews.com/1240111",
    "source": "브레이크뉴스",
    "published": "2026-09-30T16:34+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6589a7b503c8",
    "related": [],
    "day": "2026-09-30",
@@ -2089,14 +2236,15 @@
   {
    "title": "고소작업차 업체 대표, 끼임 사고로 사망…중대재해는 미적용",
    "summary": "경찰은 사고 발생한 장소가 개인 업장인 점을 토대로 산업재해 법규나 중대재해처벌법 등은 적용되지 않는 것으로 보고, CCTV 등 분석과 현장 감식을 통해 정확한 사고 경위를 파악할 방침이다.",
-   "url": "https://www.nocutnews.co.kr/news/6585267?utm_source=naver&utm_medium=article&utm_campaign=20260930041300",
+   "url": "https://n.news.naver.com/mnews/article/079/0004194372?sid=102",
    "source": "노컷뉴스",
    "published": "2026-09-30T16:13+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "2cd6d05846c3",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.nocutnews.co.kr/news/6585267?utm_source=naver&utm_medium=article&utm_campaign=20260930041300"
   },
   {
    "title": "오뚜기SF 노동자 사망에 진보당 경남도당 \"노동자 안전기술도 강화해야...",
@@ -2104,7 +2252,7 @@
    "url": "https://www.idomin.com/news/articleView.html?idxno=2016001",
    "source": "경남도민일보",
    "published": "2026-09-30T16:12+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "cb8f4b6ad884",
    "related": [],
    "day": "2026-09-30",
@@ -2118,18 +2266,6 @@
    "published": "2026-09-30T16:08+09:00",
    "cat": "hlt",
    "id": "587a0944fbde",
-   "related": [],
-   "day": "2026-09-30",
-   "watch": []
-  },
-  {
-   "title": "[굿모닝! 30일 건설업계 소식] DL이앤씨·GS건설·HJ중공업·호반그룹·L...",
-   "summary": "HJ중공업은 주요 협력사 30개사와 현장 안전관리 방안을 공유하고 중대재해 예방을 위한 '2026년도 협력사 CEO 안전보건 간담회'를 개최했다. HJ중공업은 참석 협력사에 정부의 공식 법령 해석을 담은 '중대재해처벌법...",
-   "url": "https://www.goodkyung.com/news/articleView.html?idxno=291882",
-   "source": "goodkyung.com",
-   "published": "2026-09-30T16:06+09:00",
-   "cat": "acc",
-   "id": "9cf7b62b031f",
    "related": [],
    "day": "2026-09-30",
    "watch": []
@@ -2152,7 +2288,7 @@
    "url": "http://www.beyondpost.co.kr/view.php?ud=202609301404269899aeda69934_30",
    "source": "비욘드포스트",
    "published": "2026-09-30T16:02+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "b4a003e18d0c",
    "related": [],
    "day": "2026-09-30",
@@ -2164,7 +2300,7 @@
    "url": "https://www.hani.co.kr/arti/area/chungcheong/1280171.html",
    "source": "한겨레",
    "published": "2026-09-30T16:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "5c1b29d2722f",
    "related": [],
    "day": "2026-09-30",
@@ -2254,7 +2390,7 @@
    "url": "https://n.news.naver.com/mnews/article/657/0000055837?sid=102",
    "source": "dgmbc.com",
    "published": "2026-09-30T15:36+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "338784c670a7",
    "related": [],
    "day": "2026-09-30",
@@ -2290,7 +2426,7 @@
    "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102589",
    "source": "ccdn.co.kr",
    "published": "2026-09-30T15:30+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "6ea20b6cc656",
    "related": [],
    "day": "2026-09-30",
@@ -2327,7 +2463,7 @@
    "url": "https://www.m-i.kr/news/articleView.html?idxno=2001207",
    "source": "m-i.kr",
    "published": "2026-09-30T15:16+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "94a7d4ac625d",
    "related": [],
    "day": "2026-09-30",
@@ -2351,7 +2487,7 @@
    "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589555138955",
    "source": "megaeconomy.co.kr",
    "published": "2026-09-30T15:10+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6d819dd5f566",
    "related": [],
    "day": "2026-09-30",
@@ -2360,14 +2496,15 @@
   {
    "title": "천안 화재사건 필리핀 유가족 \"죽은 형은 우리가족의 희망이었다\"",
    "summary": "▲ 대원산업중대재해피해자가족지원 모임은 30일 오전 10시 30분 고용노동부 천안지청 앞에서 기자회견을 열었다. ⓒ 이재환 지난 8월 말 충남 천안시에서 발생한 대원산업 화재 사고와 관련해 화재로 사망한 외국인...",
-   "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271556&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "url": "https://n.news.naver.com/mnews/article/047/0002530766?sid=100",
    "source": "오마이뉴스",
    "published": "2026-09-30T15:06+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b9b7307bc188",
    "related": [],
    "day": "2026-09-30",
-   "watch": []
+   "watch": [],
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003271556&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news"
   },
   {
    "title": "\"형은 왜 다른 공장에서 일했나\"…천안 폭발사고 유족 진상규명 촉구",
@@ -2375,7 +2512,7 @@
    "url": "https://www.news1.kr/local/daejeon-chungnam/6306199",
    "source": "뉴스1",
    "published": "2026-09-30T15:04+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "4b44d7719803",
    "related": [],
    "day": "2026-09-30",
@@ -2387,7 +2524,7 @@
    "url": "https://www.thepowernews.co.kr/view.php?ud=2026093014022048259aeda69934_7",
    "source": "thepowernews.co.kr",
    "published": "2026-09-30T15:00+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "bb2f23d33c8d",
    "related": [
     {
@@ -2405,7 +2542,7 @@
    "url": "https://www.fntimes.com/html/view.php?ud=202609301452437411fa6b69a559_18",
    "source": "한국금융신문",
    "published": "2026-09-30T14:58+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "09a344d85bcc",
    "related": [],
    "day": "2026-09-30",
@@ -2417,7 +2554,7 @@
    "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137175",
    "source": "newslock.co.kr",
    "published": "2026-09-30T14:58+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "13fa4d89540c",
    "related": [],
    "day": "2026-09-30",
@@ -2441,7 +2578,7 @@
    "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510064",
    "source": "worknworld.kctu.org",
    "published": "2026-09-30T14:50+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "0919fab51175",
    "related": [],
    "day": "2026-09-30",
@@ -2453,7 +2590,7 @@
    "url": "https://n.news.naver.com/mnews/article/014/0005583004?sid=102",
    "source": "파이낸셜뉴스",
    "published": "2026-09-30T14:48+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "cba29edb92d4",
    "related": [],
    "day": "2026-09-30",
@@ -2508,7 +2645,7 @@
    "url": "https://www.mt.co.kr/estate/2026/09/30/2026093012275557690",
    "source": "머니투데이",
    "published": "2026-09-30T14:35+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "18956a15b6bb",
    "related": [],
    "day": "2026-09-30",
@@ -2614,7 +2751,7 @@
    "url": "https://www.dailyt.co.kr/newsView/dlt202609300016",
    "source": "dailyt.co.kr",
    "published": "2026-09-30T14:26+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "8de62c2d379c",
    "related": [
     {
@@ -2650,13 +2787,14 @@
    "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814566",
    "source": "startuptoday.co.kr",
    "published": "2026-09-30T14:22+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "53e528e0651b",
    "related": [
     {
      "source": "아이뉴스24",
-     "url": "http://www.inews24.com/view/2010411",
-     "title": "반포 재건축 현장서 30대 외노자 사망"
+     "url": "https://n.news.naver.com/mnews/article/031/0001062366?sid=101",
+     "title": "반포 재건축 현장서 30대 외노자 사망",
+     "orig": "http://www.inews24.com/view/2010411"
     }
    ],
    "day": "2026-09-30",
@@ -2704,7 +2842,7 @@
    "url": "https://www.gokorea.kr/news/articleView.html?idxno=880057",
    "source": "gokorea.kr",
    "published": "2026-09-30T14:02+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "dd73c320349c",
    "related": [],
    "day": "2026-09-30",
@@ -2728,7 +2866,7 @@
    "url": "https://www.public25.com/news/articleView.html?idxno=55610",
    "source": "public25.com",
    "published": "2026-09-30T14:00+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "c23e5b410baf",
    "related": [
     {
@@ -2814,7 +2952,7 @@
    "url": "http://www.yonhapnewstv.co.kr/news/AKR20260930134843qR6",
    "source": "yonhapnewstv.co.kr",
    "published": "2026-09-30T13:49+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "24b2bdc9d53f",
    "related": [],
    "day": "2026-09-30",
@@ -2944,7 +3082,7 @@
    "url": "https://www.nocutnews.co.kr/news/6585041?utm_source=naver&utm_medium=article&utm_campaign=20260930010559",
    "source": "노컷뉴스",
    "published": "2026-09-30T13:06+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "2b2578b0906b",
    "related": [],
    "day": "2026-09-30",
@@ -2992,7 +3130,7 @@
    "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=318949",
    "source": "updownnews.co.kr",
    "published": "2026-09-30T12:02+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "25e5cd99282c",
    "related": [],
    "day": "2026-09-30",
@@ -3081,7 +3219,7 @@
    "url": "https://www.thepublic.kr/news/articleView.html?idxno=320552",
    "source": "더퍼블릭",
    "published": "2026-09-30T11:30+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "ca2911b8ad9b",
    "related": [
     {
@@ -3109,7 +3247,7 @@
    "url": "https://lawtalknews.co.kr/article/35K1W2A2YGQI",
    "source": "lawtalknews.co.kr",
    "published": "2026-09-30T11:22+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "da4c3687889a",
    "related": [],
    "day": "2026-09-30",
@@ -3133,7 +3271,7 @@
    "url": "https://n.news.naver.com/mnews/article/016/0002703617?sid=101",
    "source": "헤럴드경제",
    "published": "2026-09-30T11:08+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "97373691f5f9",
    "related": [
     {
@@ -3152,7 +3290,7 @@
    "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137159",
    "source": "newslock.co.kr",
    "published": "2026-09-30T11:08+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "95df14bdc8fa",
    "related": [],
    "day": "2026-09-30",
@@ -3176,7 +3314,7 @@
    "url": "https://www.the-today.com/news/articleView.html?idxno=90984",
    "source": "the-today.com",
    "published": "2026-09-30T11:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "1dc831ea9e77",
    "related": [],
    "day": "2026-09-30",
@@ -3188,7 +3326,7 @@
    "url": "https://biz.chosun.com/real_estate/real_estate_general/2026/09/30/O5W6BZEENNDLXMM6TTU2EALAHU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
    "source": "조선일보",
    "published": "2026-09-30T11:01+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "2d75a90d5d84",
    "related": [
     {
@@ -3203,8 +3341,9 @@
     },
     {
      "source": "시사저널",
-     "url": "https://www.sisajournal.com/news/articleView.html?idxno=388730",
-     "title": "반포 '디에이치 클래스트'서 작업자 사망…콘크리트 낙하"
+     "url": "https://n.news.naver.com/mnews/article/586/0000139149?sid=101",
+     "title": "반포 '디에이치 클래스트'서 작업자 사망…콘크리트 낙하",
+     "orig": "https://www.sisajournal.com/news/articleView.html?idxno=388730"
     },
     {
      "source": "globale.co.kr",
@@ -3221,7 +3360,7 @@
    "url": "https://www.yna.co.kr/view/AKR20260930077800063?input=1195m",
    "source": "연합뉴스",
    "published": "2026-09-30T11:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "afa1e80e9bb5",
    "related": [
     {
@@ -3239,7 +3378,7 @@
    "url": "https://www.m-i.kr/news/articleView.html?idxno=2001029",
    "source": "m-i.kr",
    "published": "2026-09-30T10:54+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "0e77b6e42f5d",
    "related": [],
    "day": "2026-09-30",
@@ -3323,7 +3462,7 @@
    "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366332",
    "source": "ftoday.co.kr",
    "published": "2026-09-30T10:30+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "02a434d9eeb2",
    "related": [
     {
@@ -3474,7 +3613,7 @@
    "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=415587",
    "source": "ccnnews.co.kr",
    "published": "2026-09-30T10:20+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "0addfc6df759",
    "related": [],
    "day": "2026-09-30",
@@ -3516,7 +3655,7 @@
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3708969",
    "source": "국제뉴스",
    "published": "2026-09-30T09:44+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "38bd3cc7f81d",
    "related": [],
    "day": "2026-09-30",
@@ -3540,7 +3679,7 @@
    "url": "http://www.newskr.kr/news/articleView.html?idxno=106766",
    "source": "newskr.kr",
    "published": "2026-09-30T09:20+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "07c7053bd028",
    "related": [],
    "day": "2026-09-30",
@@ -3565,7 +3704,7 @@
    "url": "https://vop.co.kr/A00001696912.html",
    "source": "vop.co.kr",
    "published": "2026-09-30T09:16+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "693bf41d4b8b",
    "related": [],
    "day": "2026-09-30",
@@ -3898,7 +4037,7 @@
    "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4437009",
    "source": "einfomax.co.kr",
    "published": "2026-09-30T08:38+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "cce8c688594d",
    "related": [
     {
@@ -3938,8 +4077,9 @@
     },
     {
      "source": "디지털타임스",
-     "url": "https://www.dt.co.kr/article/12086657?ref=naver",
-     "title": "현대건설 ‘반포 디에이치 클래스트’ 현장서 근로자 1명 사망"
+     "url": "https://n.news.naver.com/mnews/article/029/0003050695?sid=101",
+     "title": "현대건설 ‘반포 디에이치 클래스트’ 현장서 근로자 1명 사망",
+     "orig": "https://www.dt.co.kr/article/12086657?ref=naver"
     },
     {
      "source": "mdtoday.co.kr",
@@ -3961,7 +4101,7 @@
    "url": "https://www.ajunews.com/view/20260930073754095",
    "source": "아주경제",
    "published": "2026-09-30T08:24+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "90020275acda",
    "related": [],
    "day": "2026-09-30",
@@ -3986,7 +4126,7 @@
    "url": "https://www.gokorea.kr/news/articleView.html?idxno=879971",
    "source": "gokorea.kr",
    "published": "2026-09-30T07:44+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "5ff3151c8870",
    "related": [],
    "day": "2026-09-30",
@@ -3998,7 +4138,7 @@
    "url": "https://www.smarttoday.co.kr/ko-kr/articles/112086",
    "source": "스마트투데이",
    "published": "2026-09-30T07:44+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "fd717d5e8b32",
    "related": [
     {
@@ -4060,18 +4200,6 @@
    "watch": []
   },
   {
-   "title": "[Who Is ?] 구동휘 LS MnM 대표이사 사장",
-   "summary": "고용노동부는 중대재해처벌법과 산업안전보건법 위반 여부 조사에 착수했다. LS MnM이 발간한 2025 지속가능성장경영보고서에도 2025년 협력회사 업무상 사망자 1명이 기록됐다. 2023년과 2024년에는 없었다. 같은 해...",
-   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448222",
-   "source": "비즈니스포스트",
-   "published": "2026-09-30T07:02+09:00",
-   "cat": "acc",
-   "id": "cacd9379489e",
-   "related": [],
-   "day": "2026-09-30",
-   "watch": []
-  },
-  {
    "title": "[미리보는 국감] 식품업계 첫 타깃은 ‘담합’…CJ제일제당·삼양사·롯...",
    "summary": "등 산재 현안도…추가 증인 채택 여부 촉각 국회 재정경제기획위 2026년도 국정감사 증인 채택 [사진... 올해 식품 사업장에서 잇따라 발생한 사망사고에 따른 산업재해와 안전관리 문제가 대표적이다. 아워홈과...",
    "url": "https://www.news2day.co.kr/article/20260929500287",
@@ -4102,7 +4230,7 @@
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237004",
    "source": "매일노동뉴스",
    "published": "2026-09-30T06:34+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "35f9bc57f099",
    "related": [],
    "day": "2026-09-30",
@@ -4114,7 +4242,7 @@
    "url": "https://n.news.naver.com/mnews/article/011/0004666639?sid=102",
    "source": "서울경제",
    "published": "2026-09-30T06:31+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "58b82a70bd19",
    "related": [],
    "day": "2026-09-30",
@@ -4127,7 +4255,7 @@
    "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4025416",
    "source": "nbntv.co.kr",
    "published": "2026-09-30T06:10+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "589bca6822f1",
    "related": [],
    "day": "2026-09-30",
@@ -4139,7 +4267,7 @@
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=868608",
    "source": "한스경제",
    "published": "2026-09-30T06:02+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "89018572056f",
    "related": [],
    "day": "2026-09-30",
@@ -4151,7 +4279,7 @@
    "url": "https://www.etoday.co.kr/news/view/2630580",
    "source": "이투데이",
    "published": "2026-09-30T06:02+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "bc0bee999d55",
    "related": [],
    "day": "2026-09-30",
@@ -4175,7 +4303,7 @@
    "url": "http://www.newstomato.com/ReadNews.aspx?no=1315037&inflow=N",
    "source": "뉴스토마토",
    "published": "2026-09-30T06:02+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "1389be76b10c",
    "related": [],
    "day": "2026-09-30",
@@ -4211,7 +4339,7 @@
    "url": "http://www.jbsori.com/news/articleView.html?idxno=17964",
    "source": "jbsori.com",
    "published": "2026-09-30T05:18+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "a715a000d3b0",
    "related": [],
    "day": "2026-09-30",
@@ -4247,7 +4375,7 @@
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068530",
    "source": "경상일보",
    "published": "2026-09-30T00:02+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "0d8950b7baa0",
    "related": [],
    "day": "2026-09-30",
@@ -4271,7 +4399,7 @@
    "url": "https://www.livebiz.today/news/articleView.html?idxno=205205",
    "source": "livebiz.today",
    "published": "2026-09-29T23:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b4f7010b2170",
    "related": [],
    "day": "2026-09-29",
@@ -4295,7 +4423,7 @@
    "url": "http://www.yonhapnewstv.co.kr/news/AKR20260929225607OQQ",
    "source": "yonhapnewstv.co.kr",
    "published": "2026-09-29T22:56+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "102cb49e530b",
    "related": [
     {
@@ -4318,7 +4446,7 @@
    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41564",
    "source": "laborplus.co.kr",
    "published": "2026-09-29T22:52+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "67e54abf19f8",
    "related": [],
    "day": "2026-09-29",
@@ -4330,7 +4458,7 @@
    "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008775568&plink=ORI&cooper=NAVER",
    "source": "SBS",
    "published": "2026-09-29T22:29+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "a5cbae2ed9be",
    "related": [],
    "day": "2026-09-29",
@@ -4342,7 +4470,7 @@
    "url": "https://www.ytn.co.kr/_ln/0103_202609292220310289",
    "source": "YTN",
    "published": "2026-09-29T22:20+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b4e0c110c2e2",
    "related": [],
    "day": "2026-09-29",
@@ -4354,7 +4482,7 @@
    "url": "https://biz.chosun.com/topics/topics_social/2026/09/29/OLIPP7UYBVBZ7FGGUGQ2Z56EXM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
    "source": "조선일보",
    "published": "2026-09-29T22:19+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "f79f3c84d72c",
    "related": [],
    "day": "2026-09-29",
@@ -4366,7 +4494,7 @@
    "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41565",
    "source": "laborplus.co.kr",
    "published": "2026-09-29T22:14+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "a810ebafd19f",
    "related": [],
    "day": "2026-09-29",
@@ -4378,7 +4506,7 @@
    "url": "https://www.yna.co.kr/view/AKR20260929185700004?input=1195m",
    "source": "연합뉴스",
    "published": "2026-09-29T22:08+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "1e86f61e7ea2",
    "related": [
     {
@@ -4401,7 +4529,7 @@
    "url": "https://www.newsis.com/view/NISX20260929_0003807823",
    "source": "뉴시스",
    "published": "2026-09-29T22:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "00312689f28a",
    "related": [
     {
@@ -4449,7 +4577,7 @@
    "url": "https://www.sedaily.com/article/20096318?ref=naver",
    "source": "서울경제",
    "published": "2026-09-29T21:48+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "a9848611630d",
    "related": [
     {
@@ -4472,7 +4600,7 @@
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673988&ref=A",
    "source": "KBS",
    "published": "2026-09-29T21:43+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "a356061de525",
    "related": [
     {
@@ -4495,7 +4623,7 @@
    "url": "https://www.viva100.com/article/20260929501297",
    "source": "브릿지경제",
    "published": "2026-09-29T21:20+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "e232893204e0",
    "related": [
     {
@@ -4513,7 +4641,7 @@
    "url": "https://www.ksmnews.co.kr/news/view.php?idx=623719",
    "source": "경상매일신문",
    "published": "2026-09-29T21:20+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "fd6f62ddb02d",
    "related": [],
    "day": "2026-09-29",
@@ -4583,7 +4711,7 @@
    "url": "https://www.idomin.com/news/articleView.html?idxno=2015923",
    "source": "경남도민일보",
    "published": "2026-09-29T19:30+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "0698a619fbfc",
    "related": [],
    "day": "2026-09-29",
@@ -4697,7 +4825,7 @@
    "url": "https://www.sedaily.com/article/20096197?ref=naver",
    "source": "서울경제",
    "published": "2026-09-29T17:39+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "1c79061385b4",
    "related": [
     {
@@ -4764,7 +4892,7 @@
    "url": "https://www.hidomin.com/news/articleView.html?idxno=723017",
    "source": "경북도민일보",
    "published": "2026-09-29T17:30+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "6713fd5e07f8",
    "related": [],
    "day": "2026-09-29",
@@ -4800,7 +4928,7 @@
    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=320757",
    "source": "포인트데일리",
    "published": "2026-09-29T17:20+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "4d197b961b21",
    "related": [],
    "day": "2026-09-29",
@@ -4879,7 +5007,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UZWd2RTJSVUhyWno5djBjVUZMWnVJMXFvWTN6NjVPYWNURDZ6eUFFU1IwQ0xXUGU5TlRJOFhDQ1Y3WWFpV2x4MGhJZHNsTnVDNDM2TW9lbkVBMU0?oc=5",
    "source": "경기일보",
    "published": "2026-09-29T16:53+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "644e419301db",
    "related": [],
    "day": "2026-09-29",
@@ -4891,7 +5019,7 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE52cEo1VlREczRkSlNTTWZoVWJXcEJjZ2Qtb1BsQW41ampCM0NfanllbVRGUG0xZHQ5TFhXRGcxU2RfWW9YMjFuNnV5V24zUmM?oc=5",
    "source": "다음뉴스",
    "published": "2026-09-29T16:52+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6ebae080f7e3",
    "related": [
     {
@@ -4926,7 +5054,7 @@
    "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50608",
    "source": "1conomynews.co.kr",
    "published": "2026-09-29T16:40+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "726ecf63b651",
    "related": [],
    "day": "2026-09-29",
@@ -4950,7 +5078,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Hd09ZaEV1ZDg0RTFoRVF1T2dlOXlraFp6TlJ2Z25xbi1RbU5EREg1ME1PNlYtTGRibVM2NzdLYVE5QUo1MlFLQjBkZXNJWUdqdzBGV2pCcFpDX3lQWnhaaDM4Zlo1VlpJ?oc=5",
    "source": "강원도민일보",
    "published": "2026-09-29T16:37+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "81702417e111",
    "related": [],
    "day": "2026-09-29",
@@ -5022,7 +5150,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NcUk2RGNoUnRmRFpSSnJWVkJMSER4YUpvbWNmU3hBUU96OWtJUWJpUGlwU29Tako2a1pmRjhDVFE0c2xvTjNIazJIaDc3WTdDTkJ1aWFjVHRObEJ3RE9saW5aNUUyaUNlajVDWWdhdm4?oc=5",
    "source": "안전신문",
    "published": "2026-09-29T15:51+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6c28f8e5fc33",
    "related": [],
    "day": "2026-09-29",
@@ -5046,7 +5174,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1fVV8zY0FLRjdaRUFRdzh5LXBZR0dscVJPSGlYU1p6QlBZRXRzVUlzUlBCdmdRcGRZZi1jVkFZTVRfVlQ3Y3dUY3BfOW9kZWJ0MUJ0QnR4WDduV1FOR3lSLWFwNWU4ZmNGMnhB?oc=5",
    "source": "프레시안",
    "published": "2026-09-29T15:41+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "10671f52a420",
    "related": [],
    "day": "2026-09-29",
@@ -5058,7 +5186,7 @@
    "url": "https://idsn.co.kr/news/view/1065594110085262",
    "source": "idsn.co.kr",
    "published": "2026-09-29T15:30+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "574d7bd74bf5",
    "related": [],
    "day": "2026-09-29",
@@ -5098,7 +5226,7 @@
    "url": "https://www.thepublic.kr/news/articleView.html?idxno=320420",
    "source": "더퍼블릭",
    "published": "2026-09-29T15:26+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "629d9ee7e4f6",
    "related": [],
    "day": "2026-09-29",
@@ -5134,7 +5262,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE44dTNlRmZENEZOVUdSaGFRSE5EU3FRY3ZNY003Mnl1d0ZqbVlnRlVfMm83TDc3bkg5Z0tvd0NKYmRGM2RWV0tSQkRScl95dEZ4Sk1ZODg5WkxZN1BfTGZnQlVqQy3SAWRBVV95cUxOOHUzZUZmRDRGTlVHUmhhUUhORFNxUWN2TWNNNzJ5dXdGam1ZZ0ZVXzJvN0w3N25IOWdLb3dDSmJkRjNkVldLUkJEUnJfeXRGeEpNWTg4OVpMWTdQX0xmZ0JVakMt?oc=5",
    "source": "영남이코노믹",
    "published": "2026-09-29T15:10+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "0f98fe4a3009",
    "related": [],
    "day": "2026-09-29",
@@ -5170,7 +5298,7 @@
    "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1102308",
    "source": "ccdn.co.kr",
    "published": "2026-09-29T14:58+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "22b9f8199cb7",
    "related": [],
    "day": "2026-09-29",
@@ -5194,7 +5322,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FdllQYTFjRENjQmNGQlFpLUxyV3VuTDg5RHFHUWcxdVNhaS1wSGNmNVV6b0xPQ0lZZkw3Q0R4U3dHQk5iM3ZDSFlTZFZiUUt3S1I5anF6UEdEUQ?oc=5",
    "source": "브릿지경제",
    "published": "2026-09-29T14:51+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "37c5945479d9",
    "related": [
     {
@@ -5315,7 +5443,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rLUFIemRjUUJWVW9IeVprQWMzZ016eWxXM0NVczlGM3BaeWtpWEJOc0Q2VXljczMxLV9pSDh2RGVKVERIOG1vaXJER0lwWWt1UVRKbWZHOWR4Qm5FMTBJeXhuMXJsTVNZZzNfYkg4VEdiSTZDVWRWLdIBeEFVX3lxTE5rLUFIemRjUUJWVW9IeVprQWMzZ016eWxXM0NVczlGM3BaeWtpWEJOc0Q2VXljczMxLV9pSDh2RGVKVERIOG1vaXJER0lwWWt1UVRKbWZHOWR4Qm5FMTBJeXhuMXJsTVNZZzNfYkg4VEdiSTZDVWRWLQ?oc=5",
    "source": "뉴시스",
    "published": "2026-09-29T14:28+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "bef80d829b9a",
    "related": [],
    "day": "2026-09-29",
@@ -5327,7 +5455,7 @@
    "url": "https://www.greened.kr/news/articleView.html?idxno=350973",
    "source": "greened.kr",
    "published": "2026-09-29T14:28+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "45d232774e81",
    "related": [],
    "day": "2026-09-29",
@@ -5339,7 +5467,7 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMVJESDJuNTZ0QXItWEgxVmUxV0h2TWNrZ0U4ZzV0OVB1bE1lcmFGSmpISF9OOEd3bGFTdDlHUFd2WnhNcXlXZDg0V1k5STV0WllNQmVicXY4d0hkQnllVi0xMXJRVThicFlKeUllaHlJWE0?oc=5",
    "source": "충남일보",
    "published": "2026-09-29T14:27+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "71497ccae703",
    "related": [
     {
@@ -5357,7 +5485,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWkxsRHlZMjZOVU93MkowdTUxVWppN3FZejUyRjdSeG5TdGZ6QUFnNmNWRjlvcjJWQnlZd0NZWFZ1cy1mTjd3dG5HLTlDMDlvdEFsMjZiTVpNTDIweGZlYWE1eWs4Q2dOWWJKdUtn0gFwQVVfeXFMTy1CcmUxNlZMYmRMbGtoNnFUbmhlTWN4UVhGdnB5eWxZYkhuYTZLUk85OEVCUi1TeEZfMnEtT2lJN0ZTSFFjTnFEd3dLamVNelA2ZHRxVUxFU0lvRmcxd2prRk1LZWNwN2lCQjdkNF9xYg?oc=5",
    "source": "내외뉴스통신",
    "published": "2026-09-29T14:22+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "29f84d73fdf5",
    "related": [],
    "day": "2026-09-29",
@@ -5393,7 +5521,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JVEE0TjJab3ZpNzZjVFUydlZ1ZHoyVE5VWGlSUndMd2hQVlZIa1RYMmRMYkhEQjZFcmJFWlJPVnd6dXJsbGF3Q0hjRS1sTkJVS3E5YXN6TXBRbW9oSTJBbdIBYEFVX3lxTE9JVEE0TjJab3ZpNzZjVFUydlZ1ZHoyVE5VWGlSUndMd2hQVlZIa1RYMmRMYkhEQjZFcmJFWlJPVnd6dXJsbGF3Q0hjRS1sTkJVS3E5YXN6TXBRbW9oSTJBbQ?oc=5",
    "source": "연합뉴스",
    "published": "2026-09-29T14:15+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "7a396c07f6e5",
    "related": [
     {
@@ -5421,7 +5549,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1UYnVuRFh6azVwWHZvaHNqTEZPSmltczZySzhWMHJ2U2RqdTNiM1BSTmQxcnl1SG8tanZVTFBGUUY2QTlpSWE0aU9NWE1TbHNha0t6MUNHMlU?oc=5",
    "source": "경북신문",
    "published": "2026-09-29T14:13+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6d932adc3b39",
    "related": [],
    "day": "2026-09-29",
@@ -5433,7 +5561,7 @@
    "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8673669&ref=A",
    "source": "KBS",
    "published": "2026-09-29T14:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "78250ca6ade9",
    "related": [],
    "day": "2026-09-29",
@@ -5470,6 +5598,19 @@
    "published": "2026-09-29T14:00+09:00",
    "cat": "law",
    "id": "84d69e16119e",
+   "related": [],
+   "day": "2026-09-29",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감 레이더⑧] HL만도, 평택공장 사고 후 안전체계 전면 개편…국...",
+   "summary": "HL만도가 평택공장 협력업체 노동자 사망사고 이후 전 사업장을 대상으로 한 안전관리 체계 개편에 나선... 20대 노동자가 설비 점검 중 끼임 사고로 숨진 이후 회사와 유족 측은 사고 수습 및 재발방지 방안을 놓고 협의를...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=506236",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=506236",
+   "source": "newsworker.co.kr",
+   "published": "2026-09-29T13:58+09:00",
+   "cat": "acc",
+   "id": "e3f3f1564fad",
    "related": [],
    "day": "2026-09-29",
    "watch": []
@@ -5533,7 +5674,7 @@
    "url": "https://imnews.imbc.com/news/2026/society/article/6854724_36918.html",
    "source": "MBC",
    "published": "2026-09-29T13:42+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "af10a714c39c",
    "related": [],
    "day": "2026-09-29",
@@ -5545,7 +5686,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA2M2dNQXV3M0IyTG84dkltRW9kVTEyZDdyV3dFRkoyNEtJNHh0ejR5NzZtS2k2TWtFc3FxN0J6Ti13bl9xQU1IM28yLTVFOFRWa29HQ04zOXpWSUxxU1pPYUZaVm9EZw?oc=5",
    "source": "강남포스트",
    "published": "2026-09-29T13:22+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "4f9864fb1a51",
    "related": [],
    "day": "2026-09-29",
@@ -5581,7 +5722,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93MjlKWnhOVDdCTTZrdEppRy1Cam5RczNLWVg3SUNuRFRHa3lvOUhwdmhjNU5yR0lkM1l5ZzNmY2luRFZBb19ReUppNmVPUENGdzM0STZkWHdTVWxwVnVBQ1VkR2FLSnQ5ZHd1eWJzb0M?oc=5",
    "source": "안전신문",
    "published": "2026-09-29T13:07+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "93c971886981",
    "related": [],
    "day": "2026-09-29",
@@ -5616,7 +5757,7 @@
    "url": "https://n.news.naver.com/mnews/article/421/0009197635?sid=102",
    "source": "뉴스1",
    "published": "2026-09-29T12:50+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "dd63f339bf9d",
    "related": [],
    "day": "2026-09-29",
@@ -5629,7 +5770,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yUTRLRlQ1LXJDYU5vaHJxZEZ3R2kxeC1wY2dic1dvS0k4V2h5MTdaWDBrLTE3NHVfMWE5VmZUdmpGb2hYUVRoamNNZVdIb1JYM2VMTzFqMXhCYVRZX2U3adIBYEFVX3lxTE1yUTRLRlQ1LXJDYU5vaHJxZEZ3R2kxeC1wY2dic1dvS0k4V2h5MTdaWDBrLTE3NHVfMWE5VmZUdmpGb2hYUVRoamNNZVdIb1JYM2VMTzFqMXhCYVRZX2U3aQ?oc=5",
    "source": "연합뉴스",
    "published": "2026-09-29T12:36+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "235ca567640a",
    "related": [
     {
@@ -5741,7 +5882,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB5ajd1TnY0Z2FtTDFpQ2tINkF4VmdYSk5TZEJHempxY0MwTURFZ2JOcWVnSkV5Sms1M1YxZGFrWEFYZDhYRVVrU0lHZEpLTzM3NmlORWpuNk5NYUE5R3c?oc=5",
    "source": "뉴스투데이",
    "published": "2026-09-29T12:15+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "2b56e893f11b",
    "related": [
     {
@@ -5759,7 +5900,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RbmFzLVdlSHhqMjlCVUwwWjkybjVVZkotWkxSWHVkNDdLR1NxYl9fLS1tS29JQWhrUVprZ2MxTE5JME5LRzJGOUJnTmRPU0F1VTIteEFUTXVLOGE5TlRrVGRnMA?oc=5",
    "source": "경남도민뉴스",
    "published": "2026-09-29T12:11+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "907a3e50b12a",
    "related": [
     {
@@ -5777,7 +5918,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04dHp6Y19YVjBjOWgtdmhmVDRneE5aT0hjSjBJX2hXUXJQeERWSnBiS1M1UTFFRUhrWlJETl9jNWtOTFJhYktPYkZPb091dk1KdDhleElZMFXSAVhBVV95cUxNOHR6emNfWFYwYzloLXZoZlQ0Z3hOWk9IY0owSV9oV1FyUHhEVkpwYktTNVExRUVIa1pSRE5fYzVrTkxSYWJLT2JGT29PdXZNSnQ4ZXhJWTBV?oc=5",
    "source": "아주경제",
    "published": "2026-09-29T12:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "df43d1939723",
    "related": [],
    "day": "2026-09-29",
@@ -5801,7 +5942,7 @@
    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkRHJBdW1xSHc2OHJibGJHUjJTMkFaR1pyMlZLLTBHVWJrcDBHdzZ3eFRWRi1SY3Zydmw2NFlxV0ZWMTVucHE3d1NTT0NINXlfLWdCR25ZYXdtVnhocFBVZjFmWjcyNGhmTmtieWs5akg0U1NGT2Rv0gF3QVVfeXFMUGREckF1bXFIdzY4cmJsYkdSMlMyQVpHWnIyVkstMEdVYmtwMEd3Nnd4VFZGLVJjdnJ2bDY0WXFXRlYxNW5wcTd3U1NPQ0g1eV8tZ0JHbllhd21WeGhwUFVmMWZaNzI0aGZOa2J5azlqSDRTU0ZPZG8?oc=5",
    "source": "뉴스프리존",
    "published": "2026-09-29T11:46+09:00",
-   "cat": "tech",
+   "cat": "sev",
    "id": "4198848b7efb",
    "related": [],
    "day": "2026-09-29",
@@ -5837,7 +5978,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1IY2Zia0MtM09KNWNaeDFHZVZ1eHNpNnQ4QTlZamJlSnFTTE9PdzFtOFhPX3BhVmhMZmpfYjVOOGdGaUdnbHJQYl9XclV0U082c3dZZkV2YW9NN0p1aEtEUNIBYEFVX3lxTE1IY2Zia0MtM09KNWNaeDFHZVZ1eHNpNnQ4QTlZamJlSnFTTE9PdzFtOFhPX3BhVmhMZmpfYjVOOGdGaUdnbHJQYl9XclV0U082c3dZZkV2YW9NN0p1aEtEUA?oc=5",
    "source": "연합뉴스",
    "published": "2026-09-29T11:27+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "8344eaef654f",
    "related": [
     {
@@ -5897,7 +6038,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yMnNqV3pvYzI3MmRrSDZWZ2NRTUtmdzdmWXhhRkhVZG0zWXdyWjViWVV1RHpad3JMSlRiMzdsdWlsUWdEdnlSWnYzY000MUs2THFtVTFIQ1JrQjRieTJrT0tna3NsaFc5M2o1aw?oc=5",
    "source": "전민일보",
    "published": "2026-09-29T11:14+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "a84011bfd224",
    "related": [
     {
@@ -5927,7 +6068,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1vSFhSMFVSUlkyMjg2WnJRTkhIMElacGRfX0xQUHRrSDU5UldVbF9taExRWU9PbU5NSWtTTUdZQ3ROZ01vSFl3LUY4TGFFMm9LX0ZDZVdGVVQxOC1HdFFaRWVB?oc=5",
    "source": "충북일보",
    "published": "2026-09-29T11:12+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "23deb7c08d7d",
    "related": [],
    "day": "2026-09-29",
@@ -5975,7 +6116,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5WUXJyRzdlbUdCUDFER2dqbURMM3J5WGs0UWVIUkVTYmJJODdvR2NaVHRUbldYcWVoWDV1M01VV0sxRDh4VmM1WEhJdjVnWGZQNm9Oa1BqNjdsYVRHRVVMeDd6TQ?oc=5",
    "source": "한겨레",
    "published": "2026-09-29T10:38+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "98562fe99e2f",
    "related": [
     {
@@ -6046,7 +6187,7 @@
    "url": "https://www.wikitree.co.kr/articles/1162671",
    "source": "위키트리",
    "published": "2026-09-29T10:36+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "eb922fcfca50",
    "related": [
     {
@@ -6164,7 +6305,7 @@
    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=711378",
    "source": "뉴스프리존",
    "published": "2026-09-29T09:58+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "d7917b0cc7a1",
    "related": [],
    "day": "2026-09-29",
@@ -6194,7 +6335,7 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkNnI1TWNQb2N3Ym5HZ3pYNlVxNjFUTC1vRjc1SFk2MGJoY2c0SV9TUHdFQzhyYjBweXBDNm9UY2t2dDRhZVRqWjUzQ1hvVU16bHc?oc=5",
    "source": "노컷뉴스",
    "published": "2026-09-29T09:41+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "9978046ae230",
    "related": [],
    "day": "2026-09-29",
@@ -6351,7 +6492,7 @@
    "url": "https://www.newsinside.kr/news/articleView.html?idxno=5011405",
    "source": "newsinside.kr",
    "published": "2026-09-29T07:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "2726318bc85b",
    "related": [],
    "day": "2026-09-29",
@@ -6375,7 +6516,7 @@
    "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=236968",
    "source": "매일노동뉴스",
    "published": "2026-09-29T06:34+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "eaad39bf45eb",
    "related": [],
    "day": "2026-09-29",
@@ -6387,7 +6528,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QeTdCcTkwSG12SGJLT2s2dDN4WUd0dDVTVHpjUnl1LUVpcnJIWjcxVU9acGZHeDNSdUluQ2tCZ3dZa19UQi14NEJwMFVYcWY5TjJXSWlROW14R3dNa1U2YnBUOW44V0E4dVJ6OTByMlA?oc=5",
    "source": "매일노동뉴스",
    "published": "2026-09-29T06:30+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "8f68c590fc72",
    "related": [],
    "day": "2026-09-29",
@@ -6399,7 +6540,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9BYVFqaTlZYWJkSEF1UkZTWUNSRUp6Q1JZRnZjMk42TlJQV3dsWTZMdnJWckpjRE1FUXluXy1HM2hyLTBqN0U4Y0x3RGdPNVdaQXZzeFJLNFN6ZEpPM3NET3MtT01Jd2IzbHVnWdIBbEFVX3lxTE9BYVFqaTlZYWJkSEF1UkZTWUNSRUp6Q1JZRnZjMk42TlJQV3dsWTZMdnJWckpjRE1FUXluXy1HM2hyLTBqN0U4Y0x3RGdPNVdaQXZzeFJLNFN6ZEpPM3NET3MtT01Jd2IzbHVnWQ?oc=5",
    "source": "뉴스W",
    "published": "2026-09-29T00:46+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "d18a3bab3e0d",
    "related": [],
    "day": "2026-09-29",
@@ -6411,7 +6552,7 @@
    "url": "https://energy-news.co.kr/news/articleView.html?idxno=228609",
    "source": "에너지신문",
    "published": "2026-09-29T00:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "dd87feaccabe",
    "related": [
     {
@@ -6456,7 +6597,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oYTc3M2dtVEVfQU9uUWx3ZFFBbWVBeHZsM1lkdS1ZWUR1cjU2cUtud3lOSzRJVmZMbnNtaFNPcFRzQlBZeFdMMWFRWVJMemUxS2prVkhfbl9XZGFhbTVCZG9SQVFGTTRjR1NJ0gFrQVVfeXFMTWhhNzczZ21URV9BT25RbHdkUUFtZUF4dmwzWWR1LVlZRHVyNTZxS253eU5LNElWZkxuc21oU09wVHNCUFl4V0wxYVFZUkx6ZTFLamtWSF9uX1dkYWFtNUJkb1JBUUZNNGNHU0k?oc=5",
    "source": "현대경제신문",
    "published": "2026-09-28T23:17+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "95fb5d17762c",
    "related": [],
    "day": "2026-09-28",
@@ -6498,7 +6639,7 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBtVjViTThlcW5IZTNNMjVSTkgxYWo0YjdhYy04TzEtN2RaNnRTRkd0R3E3cWY0SzZZUDFQY1pYY3k5TE5JNkRYTFhxbGdGa3Y5MWdCR2dQSk5mXzROWElHaVBEMVMycFpVclE?oc=5",
    "source": "전남인뉴스",
    "published": "2026-09-28T21:11+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "b79dfe9be8e3",
    "related": [],
    "day": "2026-09-28",
@@ -6510,7 +6651,7 @@
    "url": "https://www.kyeongin.com/article/1771624",
    "source": "경인일보",
    "published": "2026-09-28T19:50+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "8954194c43a2",
    "related": [],
    "day": "2026-09-28",
@@ -6534,7 +6675,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTXN4NzMzajUtdUxLZk5fdGk3SXZqeGpzc2FoV1FPT3laM2hfWW9fRU9QM0RZdkZkNkpENEdxd3R5T1NRc0pEZ0dWemdHSVJJYmtpWkhQZ0RRQTh4Rm8tTUtBVkdDcVk?oc=5",
    "source": "파이낸스투데이",
    "published": "2026-09-28T19:41+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "8c8a3e460a61",
    "related": [
     {
@@ -6564,7 +6705,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tVHRfRkdHaHpCWThMamJuWHFwSm0yUnRlMkQ2dlAzbXBzLXI0LTNjOU1JM1RZdUVYNUtNWV94S3djeHBRcEZ1R2NLOHA4LWtYaHNvbDdLQmd3QzhzdHM4Nzl4UnFNOTY5TzNR?oc=5",
    "source": "아산데스크",
    "published": "2026-09-28T19:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "ab39e02c8dd2",
    "related": [],
    "day": "2026-09-28",
@@ -6576,7 +6717,7 @@
    "url": "https://www.idomin.com/news/articleView.html?idxno=2015818",
    "source": "경남도민일보",
    "published": "2026-09-28T18:42+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "f0d8aa5261d3",
    "related": [],
    "day": "2026-09-28",
@@ -6588,7 +6729,7 @@
    "url": "https://wemakenews.co.kr/news/view.php?no=26414",
    "source": "wemakenews.co.kr",
    "published": "2026-09-28T18:38+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "fbccba0f36ac",
    "related": [],
    "day": "2026-09-28",
@@ -6600,7 +6741,7 @@
    "url": "https://www.pressian.com/pages/articles/2026092818370883269?utm_source=naver&utm_medium=search",
    "source": "프레시안",
    "published": "2026-09-28T18:38+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "9a5c04658d75",
    "related": [],
    "day": "2026-09-28",
@@ -6612,7 +6753,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tSzkzTWtWUzd4blF5S1NaOTF0dG5xNm5teUxtSzdPbHljTkJTX3pVOGpKTTdpb25FNk5pSy1sS0JsZmF2emUwQTNrbEJ4aHc2Wmp0Y3pPMXRWZU5PdmxnWW1Wdw?oc=5",
    "source": "포쓰저널",
    "published": "2026-09-28T18:21+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b41c1bc6e164",
    "related": [
     {
@@ -6642,7 +6783,7 @@
    "url": "http://www.cctimes.kr/news/articleView.html?idxno=929614",
    "source": "cctimes.kr",
    "published": "2026-09-28T18:08+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "7277eab13137",
    "related": [],
    "day": "2026-09-28",
@@ -6654,7 +6795,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sTFdtSW00azJfLVpSYlBJT0g2YnVFR3BKWFk3R2tMVGpBYmQ3bW9Kd2pZeXBuSU9hS1UtQzlhamg2QzNjNlc1VGtvVHUzZUtrbmx6V25Id0o1ZjV2dGVrVlkzYzI?oc=5",
    "source": "평화뉴스",
    "published": "2026-09-28T17:34+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "3698f9a8aad5",
    "related": [
     {
@@ -6672,7 +6813,7 @@
    "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=34831",
    "source": "rightknow.co.kr",
    "published": "2026-09-28T17:30+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "6f8aba086e9a",
    "related": [],
    "day": "2026-09-28",
@@ -6684,7 +6825,7 @@
    "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448105",
    "source": "비즈니스포스트",
    "published": "2026-09-28T17:28+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "4c83a2608a97",
    "related": [],
    "day": "2026-09-28",
@@ -6696,7 +6837,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXd2ZMNWNYSnVDOGZLdXRtc19uSGd6WFFsZkd3ZmZmTkdVT0pNd1c2amxQUElqN2Q5UDNwZFVkdm5JMGgwbUFQdElscC1fYnhsTDZtNmNaSHhpeWxwVzNpZ3RCZzRfLUZOaE5qUDhFNmjSAXRBVV95cUxQMTRia1FsLVYzZ3lLVEtBaUw3eVhDZFg3RHdqZFFKM1JJcExfS2tLMXN1b29NU0YyM2dRLWsyZmcxMjZqdjdJZVB3Z3RkVW5RSjlxTjN5eTd3REFwbE1sUWZhdEp4d3Q4bTdNNWVpNkpyNm50LQ?oc=5",
    "source": "우먼타임스",
    "published": "2026-09-28T17:27+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "090e6a34edff",
    "related": [
     {
@@ -6736,7 +6877,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10RHNncU9sTGhxQnctaHBnUDNEWDJ2dGdKT0xTMjdmR1FIdHFMclhqV1RMLTI2NXR6d2t0TnZFSjAxOFFNVXRBdUJ5eTNrMW5TNTQ3VnUxS2trUzFXdU1LdW5KN0hzMjRx0gFsQVVfeXFMTmFBMHBhQ0lwUHgtR1dkcHBJSDBGWVU3ZjgzQ3A4aEpIeEpqdG5NMUNoSUNXcWZUTzRWcW13VERQcDF5cXExZkdWdHVWMnZvREZzdWtzMDdZV1lKb2lFSkdodjFWeGJveC1Wc2l2?oc=5",
    "source": "대한전문건설신문",
    "published": "2026-09-28T17:15+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "1532ceff87bb",
    "related": [],
    "day": "2026-09-28",
@@ -6748,7 +6889,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TZkFWZTlNZWZnV3d3WkpnN1EzdHNLdkZuemhGMjZ5NGFlSDlSSVpjY3JRV1poVFd5WG1pRUFrT2FJcnQ5QWdRbXhuX3pKbU1haWk5d0hINlBuVVktcW5SVkdSakUtLU1RRDVsMQ?oc=5",
    "source": "생생비즈플러스",
    "published": "2026-09-28T17:07+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "c37cd0231f8d",
    "related": [],
    "day": "2026-09-28",
@@ -6778,7 +6919,7 @@
    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312078",
    "source": "스트레이트뉴스",
    "published": "2026-09-28T17:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "012cbb532170",
    "related": [],
    "day": "2026-09-28",
@@ -6790,7 +6931,7 @@
    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE90QWg1RWl4MXp0UXRLeDVmYjctYV9GN3B1UzFFUHpNMk5nbG1jSk1OOFVBTWhhM0VySEgzNmFHY1h6UU5GTS1Id1dJTFdtSmRXZUZ3TDYzTUNXcllGamc?oc=5",
    "source": "한국재난안전뉴스",
    "published": "2026-09-28T16:58+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "9adcd9ca46f4",
    "related": [],
    "day": "2026-09-28",
@@ -6802,7 +6943,7 @@
    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312070",
    "source": "스트레이트뉴스",
    "published": "2026-09-28T16:50+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "eaa1751d276e",
    "related": [],
    "day": "2026-09-28",
@@ -6832,7 +6973,7 @@
    "url": "https://www.huffingtonpost.kr/article/260812",
    "source": "허프포스트코리아",
    "published": "2026-09-28T16:30+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "07f78ead65e5",
    "related": [],
    "day": "2026-09-28",
@@ -6844,7 +6985,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5OM1lzQ3FXV2xsMUZCRkZYc3pPWVRBMld4MENBMk9hTjlvUmtiR25yS2N5N09rVFhiUDNQZ0V5ODV6V0FlRmtNa3RHYjJCbVA3TTJOOFdLbS1lOS1YelFaOE1pVGZNRURPRC1ha1dn?oc=5",
    "source": "현대일보",
    "published": "2026-09-28T16:24+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "9d708229f2cb",
    "related": [],
    "day": "2026-09-28",
@@ -6856,7 +6997,7 @@
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSkxPTWNrT1FpbTFSMy1oOUE3cmNCSDB2eWdkV0RUNm9PV2lESm9iSEg2Zk1wekRjR2FESGFXZFNfbUJQbDkyLURHNFRzVW54MXFaWGZKVk9zTXctb0Z5UTN2R20zelNHeHdVamtLR3M0Q21rOWl6aXNEUVNrYUh2Zg?oc=5",
    "source": "이데일리",
    "published": "2026-09-28T16:14+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b0b29877eda6",
    "related": [
     {
@@ -6894,7 +7035,7 @@
    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5VUjByTXZ4cGVEdHJJeklLYzFwRnhjOVM3X3MyalBjSzhsN1JkYXJGSHU3dS1mem5SZnp6a1dTY1NYem5rNHc?oc=5",
    "source": "다음뉴스",
    "published": "2026-09-28T16:06+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "dc10ac4b8965",
    "related": [
     {
@@ -6946,7 +7087,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03RXNrc09UZ2k3NGtPQUptUFgwX3A3OEFyYUprMW9jbjNvQ08xaUhaVVZmOFRqd1FaXy1iUXVET29rdWFuSW5lV3hZT3kyZ2ZLdHlKQ3BjN3Q?oc=5",
    "source": "뉴스법률",
    "published": "2026-09-28T15:59+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "f4e35c1795a6",
    "related": [
     {
@@ -7040,7 +7181,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aY0xSdVJpR2xTMFlRMzJ2Zkl6ZHlOVm5adlQ5QlBaU0FNUWNfM3F1a1Zua2wxLVExd0NvRmJKVHVSS0tvdV9RZHhJOTNMRzZvNW84VDJJbDdZN1FlYy0yTUp2dExCYjJPQkpGa9IBbEFVX3lxTE9aY0xSdVJpR2xTMFlRMzJ2Zkl6ZHlOVm5adlQ5QlBaU0FNUWNfM3F1a1Zua2wxLVExd0NvRmJKVHVSS0tvdV9RZHhJOTNMRzZvNW84VDJJbDdZN1FlYy0yTUp2dExCYjJPQkpGaw?oc=5",
    "source": "불교신문",
    "published": "2026-09-28T15:36+09:00",
-   "cat": "hlt",
+   "cat": "sev",
    "id": "3a31392be454",
    "related": [
     {
@@ -7058,7 +7199,7 @@
    "url": "https://www.ddaily.co.kr/page/view/2026092809183270505",
    "source": "디지털데일리",
    "published": "2026-09-28T15:32+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "24263addf4e9",
    "related": [],
    "day": "2026-09-28",
@@ -7188,7 +7329,7 @@
    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5YU1NTb2RQLV9CNHlkajFxWGVCYmNCOEZSems0YVlOdGNoMzQ2eFBpUFM0d2JjRDAzVklaTjd3V0pKbWNmTzdmRWphZ2tZX0V2M3lLX1RHVVBFMU1xYS14aW9feDFzR1hRMkxXQXJoRlJGZWfSAXNBVV95cUxOWFNTU29kUC1fQjR5ZGoxcVhlQmJjQjhGUnprNGFZTnRjaDM0NnhQaVBTNHdiY0QwM1ZJWk43d1dKSm1jZk83ZkVqYWdrWV9FdjN5S19UR1VQRTFNcWEteGlvX3gxc0dYUTJMV0FyaEZSRmVn?oc=5",
    "source": "데일리한국",
    "published": "2026-09-28T15:20+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "00fe0102b18f",
    "related": [
     {
@@ -7248,7 +7389,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZY2VCMDdXU01rTWFucGh2T1VfamM0NzRRZzBaV3dtZXZZSHRja01oWG1QbGk5R1doeHczelNuQXA3RWVqRnYwX29mcmY1MmhwOEZxWVRHVGtYUQ?oc=5",
    "source": "한국경제",
    "published": "2026-09-28T15:07+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "60e911c8e6a5",
    "related": [
     {
@@ -7306,7 +7447,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JQUV6eHdHM0VPUnhadFlLWW9Cc3p3b1l2TzNNZkRLVXhIblNFd2xUOWJBbElqSXFiMUwyVWtZdFU1U3FJMFNiaVNTRENhamt1U1lvdjNmd3ViamY0SzJSTmM0Y2I2MDdlZkZYUkh0cGtzOU4yVWU5Y9IBeEFVX3lxTE5JQUV6eHdHM0VPUnhadFlLWW9Cc3p3b1l2TzNNZkRLVXhIblNFd2xUOWJBbElqSXFiMUwyVWtZdFU1U3FJMFNiaVNTRENhamt1U1lvdjNmd3ViamY0SzJSTmM0Y2I2MDdlZkZYUkh0cGtzOU4yVWU5Yw?oc=5",
    "source": "뉴시스",
    "published": "2026-09-28T15:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "7cae7eb48246",
    "related": [
     {
@@ -7422,7 +7563,7 @@
    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GTWt6dWdJSzlCaGlLeEQ0MEZNX3I0UlFqcnJVbFJWX3RfQy1pVE94NmlnMG16QzVuMTJwRmxPd3ZDelJUNTA3SFN1NWhVdWE0Zm1RekNSaEFFUVpjcFBxYW1Qd2ctUVM1eUtF?oc=5",
    "source": "뉴스저널리즘",
    "published": "2026-09-28T14:45+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "aeb18952880b",
    "related": [
     {
@@ -7464,7 +7605,7 @@
    "url": "https://www.m-i.kr/news/articleView.html?idxno=1418430",
    "source": "m-i.kr",
    "published": "2026-09-28T14:28+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "41817cf8a277",
    "related": [],
    "day": "2026-09-28",
@@ -7476,7 +7617,7 @@
    "url": "https://www.khan.co.kr/article/202609281424001",
    "source": "경향신문",
    "published": "2026-09-28T14:24+09:00",
-   "cat": "hlt",
+   "cat": "sev",
    "id": "fbf9b684385c",
    "related": [],
    "day": "2026-09-28",
@@ -7488,7 +7629,7 @@
    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12US1yT0lVN2UyeVFLM1R5ajZJVWF3dTNpdzBfOXdISnhVdk1yT2k1YVJrUmh1eVpKUTVpZFVrRGJzeHlqZXlrZnExQnBBNVBHcnotamhBNXR5NjBDaGVza0FvMmxlUmt5X1RVVw?oc=5",
    "source": "뉴스락",
    "published": "2026-09-28T14:20+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "56fc2476c866",
    "related": [
     {
@@ -7528,7 +7669,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53Ukk5SHRyVDM1VEN0V1daZ05HM3FiYi1fQkZaYTVQUzE4c1ktbkFidl8wcW1nNGFVY0p6S0MzZGpnMHY4dEhJOGY1UFR0VGdIY0VLblh6SGxkbUJoLUZ1MG5EZlVhNUdUWDgxWUJ0V1I?oc=5",
    "source": "연합인포맥스",
    "published": "2026-09-28T14:17+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "3d6d712c549f",
    "related": [
     {
@@ -7551,7 +7692,7 @@
    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQ1hNNTNoOFlkaUVkclJHbkpKcEhQaElwVWxPVVZmYnoxVUNkMUtURDVhTVdwSDNhX3NPamZwNkhKMkNOcE13dlFueWo3bWtwNGFTQW9OMGF1aEd4ZkpJWHBnTVJjSUdhYllZTVVlMzFBMk9Xd0RVZUN5NTQzc3Y3Q0tzMmNzVkVTY1pfdmZ5TzI3TUwxdUdaMDQxQkJxTThuVFJWbWotRF9TODR4M0dfV1hRbFoxaThWcTVPY05FblNkdkx0d2o0Y2FxLWEtZEN5eDYzamdlOGFKNndhSjdyX2FjRXJqR2RCU2dITG1B?oc=5",
    "source": "데일리안",
    "published": "2026-09-28T14:07+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "ffdb71cc7ae7",
    "related": [],
    "day": "2026-09-28",
@@ -7563,7 +7704,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfVXA0Rmo4OHo1OERPWW1ZdWZtaXlienpDcGZhUkxtZVFBa2J6UC1pMkoxNE1sakdPX1I1azh3ZXdmNmdtR3VTSjMybEpKRC1sZmhfd1c3N2NqUndYX1V3cFR1S3FDSHgzd05OaXBNb2Q?oc=5",
    "source": "thekorea.kr",
    "published": "2026-09-28T13:30+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "2da407bafbac",
    "related": [
     {
@@ -7645,7 +7786,7 @@
    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5odjVDbVNaWjJ4cDNTZGlERnEwTnN4Ulpxck9lbGNXSmxPUHJHTkZWM3BDbW9UOVNNajI1amZXRVVYcGQyLXhwQjlXck9oSGNMblo0YlFpcjd1QQ?oc=5",
    "source": "브릿지경제",
    "published": "2026-09-28T12:25+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "7629cdc52873",
    "related": [
     {
@@ -7720,7 +7861,7 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE44Y1U5MUlvUlVtRlNjTzJFa183TzJTUVZjZUFTbXRicms2aEVsLVpmQ3k2eU5BYlNHWVVJZ0FtZVBxeHNkUXVFVGk4enhkS0NWTVpzZzNjaFVGOFp3YmZROUxBa0VVN0Q0X0E?oc=5",
    "source": "경남도민일보",
    "published": "2026-09-28T11:28+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "53388e4bdadf",
    "related": [
     {
@@ -7778,7 +7919,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10QVQ1U2dORUxmUTlkVkJ2MGFOWXpVb1FqQXVuRTJFbkFraDJ3Z09ZN0FwQVptank4OG1yazRPTzNoMy0yQzEzTmlZUlJCRVNTZWRmR1hGNGN0cUJZMXNFQTJSRl9kVTdi?oc=5",
    "source": "양산타임스",
    "published": "2026-09-28T11:25+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "9aa4042d2f53",
    "related": [],
    "day": "2026-09-28",
@@ -7790,7 +7931,7 @@
    "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=204723",
    "source": "시사온",
    "published": "2026-09-28T11:16+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "5a4d84edcf1c",
    "related": [],
    "day": "2026-09-28",
@@ -7802,7 +7943,7 @@
    "url": "https://www.kyeonggi.com/article/20260928580109",
    "source": "kyeonggi.com",
    "published": "2026-09-28T11:15+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "c31cb086975f",
    "related": [],
    "day": "2026-09-28",
@@ -7826,7 +7967,7 @@
    "url": "https://news.mtn.co.kr/news-detail/2026092810491830105",
    "source": "mtn.co.kr",
    "published": "2026-09-28T11:14+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "6df7268fa771",
    "related": [],
    "day": "2026-09-28",
@@ -7838,7 +7979,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80WXp6YmtPNzBQbGJEemhDQk5Ya0xFMEY2Yk9KN3BFeE5nVExEQmNISTVMckYySGt1UDVsRl9JeU9HSFg3UTdqMXhweHVWQ1Q2dlNNbkdtUHhIVmR5NGNSbVRiX2VUejZo?oc=5",
    "source": "경인매일",
    "published": "2026-09-28T11:09+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b0c8107dfd05",
    "related": [
     {
@@ -7868,7 +8009,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtMzFUb2pVbzFoaXVVWmVzbTc1UHdsRlgycV9hWUxMd1Rjb2VCR2RrYUJwMmZhWjRqamxtU1ZJR0RVV0d2ZHlGemtPLUhyXzlVTGlTcmNPbFAzVHBnU01Td2prX2NacUlxR3oybjJURQ?oc=5",
    "source": "인천뉴스",
    "published": "2026-09-28T11:04+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "3c72dfb0076a",
    "related": [],
    "day": "2026-09-28",
@@ -7880,7 +8021,7 @@
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBwZ0ZFUWN2ZWplbzRCaGtwMGFXaHhvdkZCb1BqVmxiWEFuTHZ5M0Y4dzdZLUkyNHVuY0h0Q3gzRl9XUmlHRkVNVkY4enRXR0hBdTFMTl81WVc1WmI0bDVZelQ4dGliOGR0?oc=5",
    "source": "동행일보",
    "published": "2026-09-28T11:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "60410124939e",
    "related": [],
    "day": "2026-09-28",
@@ -7959,7 +8100,7 @@
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5oX2o4Q1VmV2xMb2cwdnZabTJrSkg4bTVGSmhsSmt5a0xnblhYbUpHNU5qTXJlVkJOeTIyOEpuZloyaFVJVVhLUzh1MW9mMFpvSlB4ZWJRMUtJZElXOFZSYmgzc9IBZ0FVX3lxTFBTNmVtWjE3Q2NyS1RUNlJmNUowaVdoVnc3ZFdOTDRBc0NFMl9fTnFPSkh3Zlgzd2tPNzFQVk5XVjA4Z3lNTzJNbE91d092azZwdjlBNl9JSDhGZXUzV0VYeHpyNjVUU00?oc=5",
    "source": "HKBC환경방송",
    "published": "2026-09-28T10:40+09:00",
-   "cat": "acc",
+   "cat": "tech",
    "id": "5df76efdf044",
    "related": [
     {
@@ -8002,7 +8143,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaSHo4cWVpLWJKbUI1cWlRcklqa3V6aHRvcU1zY3RHckh2MHZKM0xBZ1lwMFNDY29NSVFWNThPQTZQZnotN2Ztazd2VXF2WkpiUmMyblBmS1NMNy16Vkt5M0lKbS1ZbmlKTHlhN2tB0gFyQVVfeXFMTk91UFBNTjZjUTZVcTRCYXBlbVJqbkNHMUxvOWhTX1BjSFJvR2ZmNEs3eDd5NDF2XzhlQTRfUm9vMHBXNElSYWdpY1BxOU1WQTM0ck11ZjZ4SGZJWHFvbHc2NjFTX25GUTlsb2VjQkNMUUVR?oc=5",
    "source": "법률신문",
    "published": "2026-09-28T10:39+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "0bd0f0865a1d",
    "related": [],
    "day": "2026-09-28",
@@ -8014,7 +8155,7 @@
    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9aZGFIbUpZa2hhaGY0elZ6VkhMVEdpZ1l0cnpYSkZZbmFvSWNDbW44SU92ampuSVJYR3haTDRpY0w3ZU9yZl83Zm83TTdhU2l6Ylh3emVzbEg2NzBzemhvQy03cTZLRTTSAWtBVV95cUxNWlhrbE5FZG5IUlBtMTF6cGdPSURGdW40QnJnYUdndl9FQnNZTzlTbkNyLV9VaGxoZUVwdmhNRkJoNVlSN1U3NGU3TWI4NWtSMTAwWVhCdmlza2NYYmFmdm84elR2UVZ6aFR6NA?oc=5",
    "source": "K뉴스통신",
    "published": "2026-09-28T10:38+09:00",
-   "cat": "hlt",
+   "cat": "sev",
    "id": "0e5dae08a39d",
    "related": [
     {
@@ -8032,7 +8173,7 @@
    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EcjN4cHdCZ0l2aUtCZmdaczlLUTQzdGZORFRJOHctWVVNaVNaczlCRjBDTm1wYy1zYVRLb09JY2lPOWpfRV95RWJOUlB6aUw5UFl4QV9ZeDBIcVk2R3JGOUt2cW1ISjE5NnpFYWNuWVJuS0VSOVFuUmZXUzE?oc=5",
    "source": "한국금융신문",
    "published": "2026-09-28T10:37+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "c14b20c7666c",
    "related": [],
    "day": "2026-09-28",
@@ -8044,7 +8185,7 @@
    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUQ0xEczdCeklQdkhLTkdMZ0s2WXRDNjNJS2FTOWdyYTZZWTE4bXFmRjJzMHVNV3Q2N19HcXpKQkpNVi14d2E4M0NnTG5PaDVXRUNGLU9FQUpWaEk?oc=5",
    "source": "KBS 뉴스",
    "published": "2026-09-28T10:37+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "b3934029811f",
    "related": [
     {
@@ -8062,7 +8203,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQbnJFaWh3bGdmWU1vSkpjbHdjQ2FtdGtIZG15UEREcE5aOXpCSjgxendZMmREeURIeXF2SnpvRWFMLUNYRTd5S3lkYlVybGFqSi1iX3B6ZGhSbEpHX1NZTUdvOVJmRWtnOWFMWDIzRjk?oc=5",
    "source": "비즈중앙",
    "published": "2026-09-28T10:36+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "ce46a25ddeda",
    "related": [],
    "day": "2026-09-28",
@@ -8074,7 +8215,7 @@
    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBEeHBBUHJPWXNGVVlzb2gzMEt5M2pfQ3lleFY3OENvOFNPQ21lRXJYRjdoY1hMQ2FkRWdvTnVqT3lJWExWSDBOeGVTRmRYZlVyR0dUekNsYU1WNDN6dHI1ejBjT0VjcXN0RGJRc2Nza9IBb0FVX3lxTFBEeHBBUHJPWXNGVVlzb2gzMEt5M2pfQ3lleFY3OENvOFNPQ21lRXJYRjdoY1hMQ2FkRWdvTnVqT3lJWExWSDBOeGVTRmRYZlVyR0dUekNsYU1WNDN6dHI1ejBjT0VjcXN0RGJRc2Nzaw?oc=5",
    "source": "투데이신문",
    "published": "2026-09-28T10:36+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "372de0c7d122",
    "related": [
     {
@@ -8145,7 +8286,7 @@
    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BNVQ5clJRa2U2d0pPT2tUMlVoSXNiVHRWRTY1ellza2JXMjNrODNTaUlSQk1hVmlaX0ZTcGVpcEEtekdmcUVnVUxpVk1GQzZ1eWtHUUVsN2g0UEtZMm9fRkVzQ1FIU2dtbFZMQVJCQk4?oc=5",
    "source": "비즈중앙",
    "published": "2026-09-28T10:02+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "43391d6ad0c1",
    "related": [],
    "day": "2026-09-28",
@@ -8199,7 +8340,7 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9rTnJUcC1PTnJfY2s0Wk1wRF96LWViNll0NlFIVTBkeS1zRmhhYWtGNDAtbll1Z3JMaElGbmFZV2FTbWRoa1NQcWFkOW1pcTlYT3l0ckNhanRtakEtVzdTYkFDR2xodG9qVDR3X0loWmc5VTZ1akVOeklR?oc=5",
    "source": "G1방송",
    "published": "2026-09-28T09:49+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "9df31262c7cc",
    "related": [
     {
@@ -8235,7 +8376,7 @@
    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1RTUVDakhOZEMwWlBqU1lxakpTQzZFSUlOLTd6cElpZHQ1bkdtRmpxcDJIZjF1MDFublYzOW51MzF1M0R3bkhUY05TM1c?oc=5",
    "source": "대구MBC",
    "published": "2026-09-28T09:32+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "bf36722158e5",
    "related": [
     {
@@ -8268,7 +8409,7 @@
    "url": "https://www.newstnt.com/news/articleView.html?idxno=720246",
    "source": "newstnt.com",
    "published": "2026-09-28T09:30+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "5bec7b52d7a5",
    "related": [],
    "day": "2026-09-28",
@@ -8310,7 +8451,7 @@
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56NzlneVZzYXJ2MnE4NDNxTUg1c1J3dmhicmFjaUo1TlpLd25UaXZZT1VYbkduYlZzSHdvVFRBZy1BaUlkZll6LTJfWnRwbV84WndDZFdsZ05rb0NMckNwX2hpWl9pM1FCeWVENHRB?oc=5",
    "source": "국제뉴스",
    "published": "2026-09-28T09:04+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "e807c035961b",
    "related": [],
    "day": "2026-09-28",
@@ -8346,7 +8487,7 @@
    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWaVAtVGR6TVJpTjQtX2NnOHBtZVdma0JFVXlLVllCU0gtZndTRGxHNkw5eFd3WmtuR1hzMk1sdWlTeTkzXzJoSDBMX19zQ3JteVRCbFhLNnBOSGVXNHFzckxIMnlnaEZCSzNTWEFFUmQxZEJIcS1xeNIBeEFVX3lxTFBWaVAtVGR6TVJpTjQtX2NnOHBtZVdma0JFVXlLVllCU0gtZndTRGxHNkw5eFd3WmtuR1hzMk1sdWlTeTkzXzJoSDBMX19zQ3JteVRCbFhLNnBOSGVXNHFzckxIMnlnaEZCSzNTWEFFUmQxZEJIcS1xeA?oc=5",
    "source": "뉴시스",
    "published": "2026-09-28T09:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "ac12b680a58a",
    "related": [
     {
@@ -8381,7 +8522,7 @@
    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YLWE1U3dXQldYdHdJNXBSSFJqdk81LXNQbkkwdHZmQzNWcjZNVFJvLXUzeDZHUXdZZndNNUhjdDNzTmd5OWVBNklPTG56NU82UDdHQUtsNXBfRjVzeHRXZ2xndVQ2M01iazI0am43VkU5ZDFn0gF0QVVfeXFMT1gtYTVTd1dCV1h0d0k1cFJIUmp2TzUtc1BuSTB0dmZDM1ZyNk1UUm8tdTN4NkdRd1lmd001SGN0M3NOZ3k5ZUE2SU9Mbno1TzZQN0dBS2w1cF9GNXN4dFdnbGd1VDYzTWJrMjRqbjdWRTlkMWc?oc=5",
    "source": "포인트데일리",
    "published": "2026-09-28T08:44+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "c69bc7e8a356",
    "related": [
     {
@@ -8431,7 +8572,7 @@
    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EMGhrVnpGSVRuMGR5ci02OHA2b1o5aVNzUEJWQ2t1Y0hrZWlpU3ZDYUo1cDYxeGRRaENSNjlhRVQzc3p1d1Z4VnF1TDYyNUhHOUlLaHpfYVd6N192VTdLVmY3blVaWTZFUmRjLWlqQWdMVklMeU1aaHhR0gF6QVVfeXFMT0QwaGtWekZJVG4wZHlyLTY4cDZvWjlpU3NQQlZDa3VjSGtlaWlTdkNhSjVwNjF4ZFFoQ1I2OWFFVDNzenV3VnhWcXVMNjI1SEc5SUtoel9hV3o3X3ZVN0tWZjduVVpZNkVSZGMtaWpBZ0xWSUx5TVpoeFE?oc=5",
    "source": "MBC 뉴스",
    "published": "2026-09-28T07:26+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "e14952001223",
    "related": [],
    "day": "2026-09-28",
@@ -8443,7 +8584,7 @@
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Xd1NUZnFfZnBiSTJrSzZwV1o5MUI5R00wdlBkSFB4aTBVWEhXblk4TmdwVWUzbkZnSEM5SjlwTDZUSnVHb0xiazFGajFMSloyWl9rNkFzWFRWTmE5UzJYX9IBYEFVX3lxTE5Xd1NUZnFfZnBiSTJrSzZwV1o5MUI5R00wdlBkSFB4aTBVWEhXblk4TmdwVWUzbkZnSEM5SjlwTDZUSnVHb0xiazFGajFMSloyWl9rNkFzWFRWTmE5UzJYXw?oc=5",
    "source": "연합뉴스",
    "published": "2026-09-28T07:00+09:00",
-   "cat": "hlt",
+   "cat": "sev",
    "id": "cdcc794315bb",
    "related": [
     {
@@ -8461,24 +8602,12 @@
    "watch": []
   },
   {
-   "title": "[Who Is ?] 안와르 알 히즈아지 에쓰오일 대표이사",
-   "summary": "노동부는 현장에 근로감독관을 보내 중대재해처벌법 및 산업안전보건법 위반 여부를 조사하고 있다.... 이어 \"중대재해에 대해 똑바로 수사해야 할 울산지검은 대표이사도, 안전경영책임자도 기소하지 않았고...",
-   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=445463",
-   "source": "비즈니스포스트",
-   "published": "2026-09-28T07:00+09:00",
-   "cat": "acc",
-   "id": "4fbeec012415",
-   "related": [],
-   "day": "2026-09-28",
-   "watch": []
-  },
-  {
    "title": "[이슈] 계속되는 현장 사망사고에 '오너 책임론'…이해욱 DL 회장 국감 ...",
    "summary": "DL그룹의 핵심 건설 계열사인 DL이앤씨 현장에서 노동자 사망사고가 끊이지 않으면서, 2026년 국정감사를... 또 2024년 5월 경북 울릉공항 현장 토사 붕괴 매몰 사고(1명 사망), 2023년 부산 연제구 아파트 현장 추락사고 등...",
    "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814131",
    "source": "startuptoday.co.kr",
    "published": "2026-09-28T06:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "90089f78d486",
    "related": [],
    "day": "2026-09-28",
@@ -8490,7 +8619,7 @@
    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBISXMzTjNaNjBnMm44VHRoRGpxOGpOMnpnUUZGWDV4V2pzV2pPMnFBRHJOSWY5UDhRRVBJR3NrT3hRSG11YVZmaml0NGJxOVE?oc=5",
    "source": "다음뉴스",
    "published": "2026-09-28T05:03+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "9873882bc119",
    "related": [],
    "day": "2026-09-28",
@@ -8502,7 +8631,7 @@
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR2l4Tlg3QTdqZk05LTk5YXVZRk1qZXFzaUduV3NKbk1PZGtWb2xWREptS1I0RmZVZ1lrRjJEY19aUmNidVBFZ245UkRISlRVZ2pEVXpTdWZQbjBhVnVDVkdKOHNtNWNfR3FoMkpSZGRMdUlBNzNBdEh1MlJRc1FhU0dRbENtZzRo?oc=5",
    "source": "정책브리핑",
    "published": "2026-09-28T04:55+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "f11157af6cc9",
    "related": [],
    "day": "2026-09-28",
@@ -8514,7 +8643,7 @@
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068251",
    "source": "경상일보",
    "published": "2026-09-28T00:02+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "1818cdf59f20",
    "related": [],
    "day": "2026-09-28",
@@ -8526,7 +8655,7 @@
    "url": "https://www.newmdtimes.com/news/article.html?no=1184376",
    "source": "뉴미디어타임즈",
    "published": "2026-09-28T00:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "0dcaca925085",
    "related": [
     {
@@ -8599,7 +8728,7 @@
    "url": "https://www.newmdtimes.com/news/article.html?no=1184043",
    "source": "뉴미디어타임즈",
    "published": "2026-09-28T00:00+09:00",
-   "cat": "acc",
+   "cat": "sev",
    "id": "98a8b001e526",
    "related": [],
    "day": "2026-09-28",
@@ -8611,7 +8740,7 @@
    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=744150",
    "source": "폴리뉴스",
    "published": "2026-09-27T21:02+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "672112a084e4",
    "related": [],
    "day": "2026-09-27",
@@ -8659,7 +8788,7 @@
    "url": "https://biz.heraldcorp.com/article/10881817",
    "source": "헤럴드경제",
    "published": "2026-09-22T00:00+09:00",
-   "cat": "law",
+   "cat": "sev",
    "id": "0dedeb6e3abe",
    "related": [
     {
@@ -8752,7 +8881,7 @@
    "url": "http://www.knpnews.com/news/articleView.html?idxno=34479",
    "source": "knpnews.com",
    "published": "2026-09-14T11:10+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "6b616963bc97",
    "related": [],
    "day": "2026-09-14",
@@ -8767,7 +8896,7 @@
    "url": "https://n.news.naver.com/mnews/article/586/0000138102?sid=101",
    "source": "시사저널",
    "published": "2026-09-14T10:00+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "4e9d072153e3",
    "related": [],
    "day": "2026-09-14",
@@ -8797,7 +8926,7 @@
    "url": "http://www.newstomato.com/ReadNews.aspx?no=1313077&inflow=N",
    "source": "뉴스토마토",
    "published": "2026-09-09T13:26+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "e35fc542ef9f",
    "related": [],
    "day": "2026-09-09",
@@ -8850,7 +8979,7 @@
    "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003263622&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
    "source": "오마이뉴스",
    "published": "2026-09-01T15:16+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "8332f46c7278",
    "related": [],
    "day": "2026-09-01",
@@ -8877,7 +9006,7 @@
    "url": "http://www.newswell.co.kr/news/articleView.html?idxno=21385",
    "source": "newswell.co.kr",
    "published": "2026-08-31T10:28+09:00",
-   "cat": "acc",
+   "cat": "law",
    "id": "8eab64e9f106",
    "related": [],
    "day": "2026-08-31",
