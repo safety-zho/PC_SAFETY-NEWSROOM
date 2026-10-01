@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T17:19+09:00",
+ "updatedAt": "2026-10-01T18:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,13 +25,22 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "32c50723c421",
+   "title": "[속보] 연간 3명 이상 산재 사망시 '영업익 5%' 과징금…산안법 국회 통...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204433?sid=100",
+   "source": "뉴스1",
+   "cat": "sev",
+   "day": "2026-10-01",
+   "count": 22
+  },
+  {
    "id": "80b4555fc15a",
    "title": "'5명 사망' 한화에어로 대전사업장, 안전 위반 473건 무더기 적발",
    "url": "https://n.news.naver.com/mnews/article/421/0009203271?sid=101",
    "source": "뉴스1",
    "cat": "sev",
    "day": "2026-10-01",
-   "count": 16
+   "count": 17
   },
   {
    "id": "e9ba6470532e",
@@ -43,22 +52,13 @@
    "count": 12
   },
   {
-   "id": "32c50723c421",
-   "title": "[속보] 연간 3명 이상 산재 사망시 '영업익 5%' 과징금…산안법 국회 통...",
-   "url": "https://n.news.naver.com/mnews/article/421/0009204433?sid=100",
-   "source": "뉴스1",
-   "cat": "sev",
-   "day": "2026-10-01",
-   "count": 12
-  },
-  {
    "id": "6d5c7b8a8ade",
    "title": "'7명 사상' 한화에어로 과태료 5억 부과…법 위반 473건 적발",
    "url": "https://www.newspim.com/news/view/20261001000500",
    "source": "뉴스핌",
    "cat": "sev",
    "day": "2026-10-01",
-   "count": 10
+   "count": 11
   },
   {
    "id": "535bf6f0c0c9",
@@ -67,10 +67,251 @@
    "source": "헤럴드경제",
    "cat": "law",
    "day": "2026-10-01",
-   "count": 6
+   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "50인 미만 사업장 안전 지원 확대..당진 노사민정, 공동선언문 채택",
+   "summary": "(고용노동부 천안고용노동지청장), 오규헌(안전보건공단 충남지역본부장), 장창순(당진시 경제국장), 김진호(당진시 기업육성과장·간사) 당진,당진신문,시대,노사민정협의회,중대재해예방,산업안전,노동전환,탄소중립,AX...",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303014",
+   "orig": "https://www.idjnews.kr/news/articleView.html?idxno=303014",
+   "source": "idjnews.kr",
+   "published": "2026-10-01T18:16+09:00",
+   "cat": "law",
+   "id": "e155368aa62d",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산재 사망 반복하면 기업 책임 더 무거워진다…영업익 5%까지 과징금",
+   "summary": "반복적인 중대 산업재해가 발생한 사업장에 대한 제재도 강화된다. 안전·보건조치 의무 위반으로 동시에 2명 이상이 사망해 3년 동안 영업정지 처분을 2회 이상 받은 뒤 다시 영업정지 사유가 발생하면 노동부 장관이 관계...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003138752?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1697092/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-01T18:13+09:00",
+   "cat": "sev",
+   "id": "e14ced048929",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정안 국회 통과…野, 필리버스터 없이 반대토론",
+   "summary": "여야 '응급실 뺑뺑이' 등 민생법안 합의 처리…與, 도시정비법은 순연 연간 3회 이상 사고 발생 기업에 대한 산업재해 과징금 부여를 골자로 하는 산업안전보건법(산안법) 개정안이 1일 국회 본회의를 통과했다. 국민의힘은...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002459213?sid=100",
+   "orig": "https://www.pressian.com/pages/articles/2026100116192362458?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-01T18:03+09:00",
+   "cat": "law",
+   "id": "c7ebe00aab42",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산재사망 3명 넘으면 '영업익 5%' 과징금...개정안 국회 통과",
+   "summary": "또 개정안에는 사망사고 등 중대재해가 반복적으로 발생한 건설사에 대해 노동부 장관이 관계부처를 통해 등록말소를 요청할 수 있게 한 조항도 담겼다. 산안법상 안전·보건 조치 위반으로 동시에 2명 이상 산재 사망이...",
+   "url": "https://www.newstree.kr/newsView/ntr202610010023",
+   "orig": "https://www.newstree.kr/newsView/ntr202610010023",
+   "source": "newstree.kr",
+   "published": "2026-10-01T18:00+09:00",
+   "cat": "sev",
+   "id": "c5c6efc55b3b",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "1년 3명 숨지면 영업익 5% 과징금…건설업 \"부담 과도, 세부기준 필요\"",
+   "summary": "특히 중대재해가 반복되는 건설업체에는 등록말소를 요청할 수 있는 규정까지 담기면서 공사 현장이 많은... 이번 개정안은 산업안전보건법상 안전·보건조치를 위반해 발생한 산업재해로 1년간 근로자 3명 이상이 사망할...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204920?sid=101",
+   "orig": "https://www.news1.kr/realestate/general/6308094",
+   "source": "뉴스1",
+   "published": "2026-10-01T18:00+09:00",
+   "cat": "sev",
+   "id": "f336bf225b85",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "경총 “영업이익 5%까지 산재 과징금, 과도하고 비현실적”",
+   "summary": "해당 법안은 안전, 보건조치 위반으로 최근 1년 간 근로자 3명이 사망한 경우 사업주에게 영업이익의 5... 산업계는 개정안 통과 이전에도 중대재해처벌법과 산업안전보건법 등의 법안 실효성이 적다고 주장해 왔다. 이들...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003752142?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261001/134770679/1",
+   "source": "동아일보",
+   "published": "2026-10-01T17:59+09:00",
+   "cat": "law",
+   "id": "a6ce1f294213",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산재 반복시 영업익 5% 과징금...상황실서 응급환자 수용 의료기관 지정",
+   "summary": "산업재해로 최근 1년간 근로자 3명 이상이 사망한 경우 사업주에게 영업이익의 5% 이내로 과징금을 부과할 수... 중증응급환자를 수용한 병원의 응급의료종사자는 생명의 위험이나 심신상의 중대한 위해 또는 증상의...",
+   "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81499",
+   "orig": "http://www.newsfc.co.kr/news/articleView.html?idxno=81499",
+   "source": "newsfc.co.kr",
+   "published": "2026-10-01T17:58+09:00",
+   "cat": "law",
+   "id": "1ebac6547d10",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "안전·보건조치 위반으로 1년간 3명 이상 사망 시 영업이익 5% 이내 과징...",
+   "summary": "고용노동부는 1일 국회 본회의에서 작업중지 범위 확대, 안전한일터위원회 설치, 다수·반복 사망사고 과징금... 중대재해가 발생한 경우뿐 아니라 노동자가 사고로 다쳐 의식불명 상태이거나 생사가 분명하지 않은 경우...",
+   "url": "https://idsn.co.kr/news/view/1065602889454953",
+   "orig": "https://idsn.co.kr/news/view/1065602889454953",
+   "source": "idsn.co.kr",
+   "published": "2026-10-01T17:52+09:00",
+   "cat": "sev",
+   "id": "33dba647e709",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "여야, 본회의서 김태규 제명 공방…野 반발 속 산안법 개정안 통과",
+   "summary": "개정안은 최근 1년간 근로자 3명 이상이 사망한 경우 사업주에게 영업이익의 최대 5%까지 과징금을 부과할 수... 김 의원은 \"같은 기준을 국내 시공능력 2위인 모 건설사에 대입하면 2022년부터 발생한 중대재해로 인해 당장...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000538781?sid=100",
+   "orig": "https://news.tf.co.kr/read/ptoday/2372183.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-01T17:49+09:00",
+   "cat": "law",
+   "id": "be06050272bb",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "한국노총 \"산재사망 과징금 도입 환영…기업 경제적 책임 물어야\"",
+   "summary": "한국노동조합총연맹(한국노총)이 1년간 노동자 3명 이상이 산업재해로 사망한 기업에 영업이익의 최대 5%를... 한국노총은 \"특히 산업재해 사망사고를 발생시킨 사업주에게 과징금을 부과할 수 있도록 한 것은 가장...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014228372?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261001_0003811425",
+   "source": "뉴시스",
+   "published": "2026-10-01T17:48+09:00",
+   "cat": "sev",
+   "id": "3fe58ed8dd8c",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산재 사망 사업주 과징금 강화…응급의료·국민연금법도 국회 통과",
+   "summary": "중대 산업재해 사업주 책임을 강화하는 내용이 핵심이다. 이날 더불어민주당이 주도해 재석의원 219명 중... 노동자와 노동자대표 등 작업중지 요구권을 명시하고, 건설업체가 사망사고로 반복해서 영업정지 대상이 되면...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016142",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016142",
+   "source": "경남도민일보",
+   "published": "2026-10-01T17:46+09:00",
+   "cat": "sev",
+   "id": "8b087917ea43",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "사망사고 영업익 5% 과징금…\"과도·비현실적, 기업 존폐 우려\"(종합)",
+   "summary": "못한 사망 사고가 발생할 가능성이 크다\"고 전했다. 경제계에선 기존의 제재는 유지한 채 새로운 제재를 부과한 것에도 문제를 제기하고 있다. 경총은 \"최근 수년간 '산업안전보건법' 전부 개정과 '중대재해처벌법' 제정 등...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009204877?sid=101",
+   "orig": "https://www.news1.kr/industry/general-industry/6308082",
+   "source": "뉴스1",
+   "published": "2026-10-01T17:43+09:00",
+   "cat": "sev",
+   "id": "f998c6f71eb1",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "‘응급실 뺑뺑이’ 해소 법안, 본회의 통과…119가 수용 의료기관 지정",
+   "summary": "개정안은 산업재해로 1년에 3명 이상 사망 사건이 발생한 기업에 영업이익의 5% 이내까지 과징금을 부과할 수... 산안법 개정안에는 중대재해가 반복되는 사업장은 고용노동부 장관이 관계 행정기관의 장에게 등록 말소를...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002825594?sid=100",
+   "orig": "https://www.hani.co.kr/arti/politics/politics_general/1280473.html",
+   "source": "한겨레",
+   "published": "2026-10-01T17:40+09:00",
+   "cat": "law",
+   "id": "bace3eee3641",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국회, 산업안전보건법 등 65건 처리…중대 산재 땐 영업익 5% 과징금",
+   "summary": "산업안전보건법 개정안은 안전·보건조치 위반으로 최근 1년간 근로자 3명 이상이 사망한 경우 사업주에게 영업이익의 5% 이내에서 과징금을 부과하도록 했다. 근로자와 하청근로자의 작업중지요구권도 명시했다....",
+   "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202047",
+   "orig": "http://www.thevaluenews.co.kr/news/view.php?idx=202047",
+   "source": "thevaluenews.co.kr",
+   "published": "2026-10-01T17:30+09:00",
+   "cat": "law",
+   "id": "d72f7cc278f5",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "한화에어로 대전사업장 '폭발·화재위험' 무더기 적발…사법조치·과태...",
+   "summary": "473건의 산업안전보건법을 위반한 것으로 확인됐다. 폭발·화재 관련 위반사항도 40건 이상 무더기로 적발된 가운데, 노동당국은 사법조치와 과태료 5억원 처분을 내리기로 했다. 고용노동부는 지난 6월 29일부터 9월...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005583884?sid=102",
+   "orig": "https://www.fnnews.com/news/202610011650044820",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-01T17:25+09:00",
+   "cat": "acc",
+   "id": "3e063a7d631e",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "‘응급실 뺑뺑이 방지법’ ‘산안법 개정안’ 등 본회의 통과",
+   "summary": "농어촌구조개선 특별회계법 개정안 부결 산업재해로 연간 3명 이상 사망자가 발생하는 기업에 영업이익의 최대 5%까지 과징금을 부과할 수 있도록 한 산업안전보건법 개정안과 이른바 ‘응급실 뺑뺑이’ 현상 해소를...",
+   "url": "https://n.news.naver.com/mnews/article/023/0004001593?sid=100",
+   "orig": "https://www.chosun.com/politics/politics_general/2026/10/01/4X6N4HYGBNECPH5SYTIQJQ4ZTI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "조선일보",
+   "published": "2026-10-01T17:23+09:00",
+   "cat": "law",
+   "id": "81a6a597d3b1",
+   "related": [
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003685339?sid=100",
+     "orig": "https://www.seoul.co.kr/news/politics/2026/10/01/20261001500287?wlog_tag3=naver",
+     "title": "‘응급실 뺑뺑이’ 방지법, 본회의 통과…중앙에서 직접 병원 지정"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "1년간 노동자 3명 이상 사망 시, 최대 영업이익 5% 과징금 부과",
+   "summary": "이상 사망한 산업재해로 3년간 영업정지 처분을 2번 이상 받은 다음, 다시 영업정지 대상이 되면 고용노동부 장관이 사업의 등록 말소를 요청할 수 있게 됩니다. 이와 함께, 하청 노동자도 산재가 발생할 급박한 위험이...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002413537?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202610011720504771",
+   "source": "YTN",
+   "published": "2026-10-01T17:20+09:00",
+   "cat": "sev",
+   "id": "d5699ef89944",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "대구 전 업종 '3+1 안전수칙' 집중점검…위반 땐 과태료·사법조치",
+   "summary": "올해 상반기 기준 전국에서 발생한 산업재해 사망자(253명) 중 '떨어짐'이 84명으로 가장 많았다. '깔림과... 아래로 추락해 숨졌고, 구미 소재 공장지붕 교체공사 현장에서 칼라강판 덧씌우기 작업을 하던 노동자가 밟고...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085930",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4085930",
+   "source": "경북일보",
+   "published": "2026-10-01T17:18+09:00",
+   "cat": "acc",
+   "id": "ae3dac165068",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "대통령까지 칭찬했는데… 한화오션, 하청노동자 또 '고공농성' 돌입 '왜...",
    "summary": "김영훈 고용노동부 장관이 한화오션 사업장을 찾아 \"상생협력의 모범\"이라고 격려하기도 했다. 그런데... 이후 대우조선해양은 오랜 기간 산업은행 관리 하에 있다 2023년 한화그룹에 인수돼 한화오션으로 사명을 변경했다....",
@@ -159,6 +400,26 @@
    "cat": "law",
    "id": "892c3d205afc",
    "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "안전의무 위반 산재로 1년간 3명 사망 땐 영업익 최대 5% 과징금",
+   "summary": "경우 고용노동부 장관이 관계 행정기관에 해당 사업의 등록 말소 또는 취소를 요청할 수 있도록 했다. 건설현장과 관련해서는 산업안전보건관리비 계상 의무가 확대된다. 기존 건설공사 발주자에게 적용되던...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52091",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52091",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-01T17:02+09:00",
+   "cat": "sev",
+   "id": "c0d46e5bfcf5",
+   "related": [
+    {
+     "source": "경북일보",
+     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086024",
+     "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086024",
+     "title": "산재로 1년간 3명 이상 사망 땐 '영업이익 최대 5%' 과징금"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -393,6 +654,12 @@
      "url": "https://www.namdonews.com/news/articleView.html?idxno=925012",
      "orig": "https://www.namdonews.com/news/articleView.html?idxno=925012",
      "title": "산재 반복 땐 영업이익 5% 과징금…'응급실 뺑뺑이 방지법'도 국회 통과"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109895",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4109895",
+     "title": "산재 과징금.응급실 뺑뺑이 방지법, 국회 통과...도시정비법은 연기"
     }
    ],
    "day": "2026-10-01",
@@ -419,6 +686,18 @@
      "url": "https://n.news.naver.com/mnews/article/015/0005338233?sid=102",
      "orig": "https://www.hankyung.com/article/202610018289i",
      "title": "산재 사망 3명 넘으면 영업이익 5% 과징금…산안법 결국 통과"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003473748?sid=100",
+     "orig": "https://www.khan.co.kr/article/202610011755001",
+     "title": "산재 사망 3명 넘으면 영업이익 5% 과징금·응급실 뺑뺑이 방지법 국회..."
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000911655?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261001175555uNo",
+     "title": "1년에 산재 사망 3명 넘으면 영업이익 최대 5% 과징금…산안법 개정안 ..."
     }
    ],
    "day": "2026-10-01",
@@ -445,6 +724,24 @@
      "url": "https://n.news.naver.com/mnews/article/016/0002704525?sid=101",
      "orig": "https://biz.heraldcorp.com/article/10890981?ref=naver",
      "title": "경영계 “산재 땐 영업익 5% 과징금, 기업 존폐까지 영향…중복 제재 지..."
+    },
+    {
+     "source": "스마트투데이",
+     "url": "https://www.smarttoday.co.kr/ko-kr/articles/112214",
+     "orig": "https://www.smarttoday.co.kr/ko-kr/articles/112214",
+     "title": "'영업익 5% 과징금' 산안법 개정안 통과..경영계 \"기업 존폐 영향 우려\""
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2002040",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2002040",
+     "title": "경영계 \"산재 사망에 영업익 5% 과징금…기업 존폐 위협\""
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005421260?sid=101",
+     "orig": "https://www.mt.co.kr/industry/2026/10/01/2026100117344654643",
+     "title": "'영업익 5% 과징금' 산안법 통과..재계 \"중소·중견기업 존폐 영향\""
     }
    ],
    "day": "2026-10-01",
@@ -459,7 +756,14 @@
    "published": "2026-10-01T16:22+09:00",
    "cat": "sev",
    "id": "9146938bb9f0",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001195709?sid=101",
+     "orig": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/01/EIP5R6STMJFRLAO2ZMHZHIPLMQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "산재 사망 3명 이상 땐 영업익 최대 5% 과징금… “누가 건설 사업 하겠..."
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -472,7 +776,14 @@
    "published": "2026-10-01T16:20+09:00",
    "cat": "law",
    "id": "df9db009fcd1",
-   "related": [],
+   "related": [
+    {
+     "source": "energydaily.co.kr",
+     "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203758",
+     "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203758",
+     "title": "작업중지권 확대·반복 산재 과징금 도입…산업안전보건법 개정안 국회..."
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -530,6 +841,12 @@
      "url": "https://n.news.naver.com/mnews/article/014/0005583866?sid=101",
      "orig": "https://www.fnnews.com/news/202610011606003233",
      "title": "경총, 산안법 개정안 본회의 통과에 \"과도하고 비현실적 기준\""
+    },
+    {
+     "source": "디지털타임스",
+     "url": "https://n.news.naver.com/mnews/article/029/0003051099?sid=101",
+     "orig": "https://www.dt.co.kr/article/12087078?ref=naver",
+     "title": "‘산안법 개정안’ 국회 본회의 통과에…경영계 “비현실적 기준, 매우..."
     }
    ],
    "day": "2026-10-01",
@@ -557,7 +874,14 @@
    "published": "2026-10-01T16:09+09:00",
    "cat": "law",
    "id": "0544b3b24bfc",
-   "related": [],
+   "related": [
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005338260?sid=100",
+     "orig": "https://www.hankyung.com/article/2026100185381",
+     "title": "산재로 年 3명 사망 땐 영업익 최대 5% 과징금"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -649,6 +973,12 @@
      "url": "https://www.newspim.com/news/view/20261001001230",
      "orig": "https://www.newspim.com/news/view/20261001001230",
      "title": "산업안전보건법 일부개정법률안 가결"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3710882",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3710882",
+     "title": "산업안전보건법 일부개정법률안 가결"
     }
    ],
    "day": "2026-10-01",
@@ -706,6 +1036,12 @@
      "url": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514368",
      "orig": "https://www.natv.go.kr/natv/news/newsView.do?newsId=514368",
      "title": "본회의, 산업안전보건법 개정안 등 민생법안 60여건 처리"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261001143058572",
+     "orig": "https://www.ajunews.com/view/20261001143058572",
+     "title": "산업안전보건법 등 법안 63건 국회 본회의 통과"
     }
    ],
    "day": "2026-10-01",
@@ -831,6 +1167,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=552147",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=552147",
      "title": "반복 산재 사업주에 영업이익 최대 5% 과징금...국회 통과"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003685332?sid=102",
+     "orig": "https://www.seoul.co.kr/news/society/2026/10/01/20261001500281?wlog_tag3=naver",
+     "title": "산재 반복 사업장, 앞으로 영업익 5% 과징금 낸다"
     }
    ],
    "day": "2026-10-01",
@@ -870,6 +1212,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009204505?sid=100",
      "orig": "https://www.news1.kr/photos/8137860",
      "title": "야당 반대 속 본회의 통과하는 산업안전보건법 개정안"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002413564?sid=100",
+     "orig": "https://www.ytn.co.kr/_ln/0101_202610011754371590",
+     "title": "산업안전보건법 개정안, 여야 찬반 토론 끝에 국회 통과"
     }
    ],
    "day": "2026-10-01",
@@ -950,6 +1298,66 @@
      "url": "https://n.news.naver.com/mnews/article/025/0003555175?sid=100",
      "orig": "https://www.joongang.co.kr/article/25466423",
      "title": "‘1년에 산재 3명→영업이익 5% 과징금’ 산안법 국회 통과"
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016351713?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261001169000530?input=1195m",
+     "title": "산재사망 3명 이상 기업에 영업익 5% 과징금…개정안 국회 통과"
+    },
+    {
+     "source": "widedaily.com",
+     "url": "https://www.widedaily.com/news/articleView.html?idxno=301651",
+     "orig": "https://www.widedaily.com/news/articleView.html?idxno=301651",
+     "title": "\"산재 사망 3명 넘으면 영업익 최대 5% 과징금\"…산안법 개정안 국회 통..."
+    },
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000070329",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000070329",
+     "title": "응급시 뺑뺑이 방지법·'산재시 영업익 5% 과징금' 산안법 국회 통과"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000642554?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/01/2026100190214.html",
+     "title": "산재사망 3명 이상 기업에 영업익 5% 과징금…개정안 국회 통과"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/009/0005742899?sid=100",
+     "orig": "https://www.mk.co.kr/article/12166382",
+     "title": "연간 3명 이상 산재사망시 '영업익 5%' 과징금 부과"
+    },
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004667464?sid=100",
+     "orig": "https://www.sedaily.com/article/20097304?ref=naver",
+     "title": "산재로 3명 이상 사망땐 영업익 최대 5% 과징금…산안법 개정안 與 주도..."
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122734",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=122734",
+     "title": "'산재사망 연간 3명 이상 기업에 영업익 최대 5% 과징금' 법안 국회 통과"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002413568?sid=101",
+     "orig": "https://www.ytn.co.kr/_ln/0102_202610011758053168",
+     "title": "연간 3명 이상 산재 사망 과징금에...경총 \"존폐 영향\""
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004001601?sid=100",
+     "orig": "https://www.chosun.com/politics/assembly/2026/10/01/CKXCW5SHURHMDAGSEAMHOVNOLI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "與, ‘산재 기업 영업익 5% 과징금’ 산안법 강행 처리"
+    },
+    {
+     "source": "대한전문건설신문",
+     "url": "https://www.koscaj.com/news/articleView.html?idxno=326806",
+     "orig": "https://www.koscaj.com/news/articleView.html?idxno=326806",
+     "title": "1년간 3명 이상 산재 사망 시 영업이익 최대 5% 과징금···산안법 개정..."
     }
    ],
    "day": "2026-10-01",
@@ -1034,6 +1442,12 @@
      "url": "http://www.metroseoul.co.kr/article/20261001500402",
      "orig": "http://www.metroseoul.co.kr/article/20261001500402",
      "title": "안전보건공단-한국ESG학회, '산업안전 특화' ESG경영 확산 도모"
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017914",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1017914",
+     "title": "안전보건공단·ESG학회, 산업안전보건·ESG 확산 업무협약"
     }
    ],
    "day": "2026-10-01",
@@ -1178,6 +1592,12 @@
      "url": "http://www.e2news.com/news/articleView.html?idxno=334743",
      "orig": "http://www.e2news.com/news/articleView.html?idxno=334743",
      "title": "가스안전公, '예방 중심 지능형 가스안전관리' AI 전환 속도 낸다"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009204870?sid=101",
+     "orig": "https://www.news1.kr/economy/trend/6307827",
+     "title": "가스안전공사, AI로 '예방 중심' 가스안전관리 앞당긴다"
     }
    ],
    "day": "2026-10-01",
@@ -1452,7 +1872,14 @@
    "published": "2026-10-01T12:42+09:00",
    "cat": "tech",
    "id": "1566e568d487",
-   "related": [],
+   "related": [
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=723393",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=723393",
+     "title": "문경레저타운, 안전관리 강화하고 지역사회 나눔 확대"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -1504,6 +1931,12 @@
      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1184751",
      "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1184751",
      "title": "논산시 ,안전문화 확산 산업안전 캠페인"
+    },
+    {
+     "source": "gocj.net",
+     "url": "http://www.gocj.net/news/articleView.html?idxno=152970",
+     "orig": "http://www.gocj.net/news/articleView.html?idxno=152970",
+     "title": "논산시 ,안전문화 확산을 위한 캠페인 전개"
     }
    ],
    "day": "2026-10-01",
@@ -1730,6 +2163,12 @@
      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100293.html",
      "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/01/2026100100293.html",
      "title": "폭발사고 난 한화에어로 대전사업장, 고용부 특별감독서 473건 위반 적발..."
+    },
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=134733",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=134733",
+     "title": "한화에어로 대전사업장 특별감독서 473건 위반…폭발·화재·누출만 91건"
     }
    ],
    "day": "2026-10-01",
@@ -1846,6 +2285,12 @@
      "url": "http://www.newstomato.com/ReadNews.aspx?no=1315461&inflow=N",
      "orig": "http://www.newstomato.com/ReadNews.aspx?no=1315461&inflow=N",
      "title": "‘7명 사상’ 한화에어로 대전사업장, 법 위반 473건 무더기 적발"
+    },
+    {
+     "source": "1conomynews.co.kr",
+     "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50660",
+     "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50660",
+     "title": "'폭발 사고' 한화에어로, 대전사업장 법 위반 473건 적발"
     }
    ],
    "day": "2026-10-01",
@@ -1914,6 +2359,12 @@
      "url": "https://www.tjb.co.kr/news05/bodo/view/id/104299",
      "orig": "https://www.tjb.co.kr/news05/bodo/view/id/104299",
      "title": "[자막뉴스]'7명 사상' 한화에어로, 노동부 감독서 법 위반 473건 적발"
+    },
+    {
+     "source": "한국경제TV",
+     "url": "https://n.news.naver.com/mnews/article/215/0001267912?sid=101",
+     "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610010142&t=NN",
+     "title": "'7명 사상' 한화에어로, 법 위반 473건…고용 차별도 고발"
     }
    ],
    "day": "2026-10-01",
@@ -2134,7 +2585,14 @@
    "published": "2026-10-01T11:06+09:00",
    "cat": "hlt",
    "id": "1a2f9b4c8712",
-   "related": [],
+   "related": [
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=491497",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=491497",
+     "title": "진주시 산림사업 근로자 3분기 산업안전보건교육 실시"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
