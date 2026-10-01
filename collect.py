@@ -257,8 +257,8 @@ def relevant(art: dict, cfg: dict) -> bool:
         # 우리 회사 기사: 제목에 안전·노동 관련 단어가 있거나, 요약문에 사고·산재 같은 강한 단어가 있으면 통과
         if contains_any(both, w.get("exclude_if_any", [])):
             return False
-        if contains_any(title, w.get("must_include_any", [])) or contains_any(desc, w.get("strong_in_summary", [])):
-            return True
+        # 우리 회사 이름이 제목에 있는 기사는 이 기준만 적용 (경영·실적 기사가 일반 기준으로 새어 들어오지 않게)
+        return contains_any(title, w.get("must_include_any", [])) or contains_any(desc, w.get("strong_in_summary", []))
     must = cfg["must_include_any"]
     if contains_any(title, must):
         return True

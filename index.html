@@ -30,14 +30,14 @@
 html{-webkit-text-size-adjust:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.6}
 [hidden]{display:none!important}
-.wrap{max-width:1080px;margin:0 auto;padding-inline:16px;padding-block:20px 56px;display:flex;flex-direction:column;gap:20px}
+.wrap{max-width:1240px;margin:0 auto;padding-inline:16px;padding-block:12px 48px;display:flex;flex-direction:column;gap:12px}
 h1,h2,h3{font-family:var(--f-display);text-wrap:balance;margin:0}
 a{color:inherit}
 button{font:inherit}
 input:focus-visible,select:focus-visible,button:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
 
-header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:8px 20px;border-bottom:3px solid var(--ink);padding-bottom:12px}
-header.top h1{font-size:26px;font-weight:800;letter-spacing:-.01em}
+header.top{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:6px 20px;border-bottom:3px solid var(--ink);padding-bottom:8px}
+header.top h1{font-size:22px;font-weight:800;letter-spacing:-.01em}
 header.top .sub{color:var(--muted);font-size:13px}
 .stamp{font-family:var(--f-mono);font-size:12px;color:var(--muted);text-align:right}
 .stamp b{color:var(--ink);font-weight:500}
@@ -55,17 +55,32 @@ header.top .sub{color:var(--muted);font-size:13px}
 .hl-meta{display:flex;flex-wrap:wrap;gap:6px 10px;align-items:center;font-size:12px;color:var(--muted)}
 .hl-meta .pd{font-family:var(--f-mono)}
 
+/* 상단 두 칸: 우리 회사 관련 | 여러 언론이 다룬 기사 */
+.top2{display:grid;grid-template-columns:1fr 1fr;gap:12px;align-items:stretch}
+.top2 .panel{padding:10px 14px;gap:6px}
+.top2 .cap{display:flex;align-items:baseline;justify-content:space-between;gap:8px}
+.top2 h2{font-size:14px;font-weight:800;display:flex;gap:8px;align-items:baseline}
+.top2 h2 .d{font-family:var(--f-mono);font-size:11.5px;font-weight:400;color:var(--muted)}
+.top2 ol{max-height:168px;overflow:auto;scrollbar-width:thin}
+.top2 li.hl{grid-template-columns:auto minmax(0,1fr) auto;gap:8px;padding:5px 0;align-items:center}
+.top2 li.hl > a{min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;text-decoration:none;font-size:13.5px;font-weight:500}
+.top2 li.hl > a:hover{text-decoration:underline;text-underline-offset:3px}
+.top2 .side-m{display:flex;gap:6px;align-items:center;font-size:11.5px;color:var(--muted);white-space:nowrap}
+.top2 .side-m .pd{font-family:var(--f-mono)}
+.top2 .cntb{font-family:var(--f-mono);border:1px solid var(--line);border-radius:4px;padding:0 6px;line-height:1.6;color:var(--accent);background:var(--surface);cursor:pointer;font-size:11.5px}
+.top2 .cntb:hover{border-color:var(--accent)}
+.top2 li.srcrow{display:block;padding:2px 0 6px 18px;border-top:0}
 /* 우리 회사 관련 */
 .watch{border-color:color-mix(in srgb,var(--watch) 45%,var(--line));background:linear-gradient(var(--watch-bg),var(--surface) 70%)}
-.watch .eyebrow{color:var(--watch)}
+.watch .eyebrow,.watch h2{color:var(--watch)}
 .watch-head{display:flex;flex-wrap:wrap;align-items:baseline;justify-content:space-between;gap:6px 16px}
 .linkbtn{background:none;border:0;padding:0;color:var(--accent);cursor:pointer;font-size:13px;font-weight:500}
 .linkbtn:hover{text-decoration:underline;text-underline-offset:3px}
 .tag-w{display:inline-block;font-size:11px;font-weight:600;color:var(--watch);border:1px solid color-mix(in srgb,var(--watch) 50%,transparent);border-radius:3px;padding:0 5px;line-height:1.6;white-space:nowrap}
-.watch-empty{color:var(--muted);font-size:14px}
+.watch-empty{color:var(--muted);font-size:13px;padding:4px 0}
 
 /* 도구 막대 */
-.tools{display:flex;flex-direction:column;gap:10px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:10px;z-index:3;border-bottom:1px solid var(--line)}
+.tools{display:flex;flex-direction:column;gap:8px;position:sticky;top:env(safe-area-inset-top,0px);background:var(--bg);padding-block:8px;z-index:3;border-bottom:1px solid var(--line)}
 .row{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
 .search{flex:1 1 240px;min-width:0;position:relative}
 .search input{width:100%;font:inherit;font-size:15px;padding:9px 12px 9px 34px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--ink)}
@@ -91,16 +106,16 @@ select,.range input{font:inherit;font-size:14px;padding:9px 10px;border:1px soli
 .sig.tech{width:0;height:0;border-left:6.5px solid transparent;border-right:6.5px solid transparent;border-bottom:11px solid var(--c-tech)}
 
 /* 현황판 */
-.dash{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:12px}
-.dash .panel{padding:16px 18px;gap:12px}
-.dash h3{font-size:15px;font-weight:800}
-.dash .note{font-size:12px;color:var(--muted);margin-top:-8px}
-.bars{display:flex;flex-direction:column;gap:6px;margin:0;padding:0;list-style:none}
-.bars button{width:100%;display:grid;grid-template-columns:78px minmax(0,1fr) 34px;gap:8px;align-items:center;background:none;border:0;padding:3px 4px;margin:0 -4px;border-radius:4px;cursor:pointer;color:var(--ink);text-align:left}
+.dash{display:grid;grid-template-columns:1.15fr 1fr 1fr;gap:12px}
+.dash .panel{padding:10px 14px;gap:6px}
+.dash h3{font-size:14px;font-weight:800;display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+.dash .note{font-size:11px;color:var(--muted);font-weight:400;font-family:var(--f-body)}
+.bars{display:grid;grid-template-columns:1fr 1fr;gap:1px 12px;margin:0;padding:0;list-style:none}
+.bars button{width:100%;display:grid;grid-template-columns:64px minmax(0,1fr) 24px;gap:6px;align-items:center;background:none;border:0;padding:2px 4px;margin:0 -4px;border-radius:4px;cursor:pointer;color:var(--ink);text-align:left}
 .bars button:hover{background:var(--grid)}
 .bars button[aria-pressed="true"]{background:color-mix(in srgb,var(--c-acc) 12%,transparent)}
-.bars .lb{font-size:13px}
-.bars .track{display:block;height:10px;background:var(--grid);border-radius:3px;overflow:hidden}
+.bars .lb{font-size:12px;white-space:nowrap}
+.bars .track{display:block;height:8px;background:var(--grid);border-radius:3px;overflow:hidden}
 .bars .fill{display:block;height:100%;background:var(--c-acc);border-radius:0 4px 4px 0}
 .bars .v{font-family:var(--f-mono);font-size:12px;text-align:right;color:var(--muted)}
 .chart{position:relative}
@@ -111,7 +126,8 @@ select,.range input{font:inherit;font-size:14px;padding:9px 10px;border:1px soli
 .tip{position:absolute;pointer-events:none;background:var(--ink);color:var(--bg);font-size:12px;line-height:1.5;padding:6px 9px;border-radius:5px;white-space:nowrap;transform:translate(-50%,-100%);z-index:2}
 .tip b{font-family:var(--f-mono);font-weight:500}
 .kw{display:flex;flex-wrap:wrap;gap:6px}
-.kw button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:4px;padding:2px 8px;cursor:pointer;font-size:13px;display:inline-flex;gap:6px;align-items:baseline}
+.kw{gap:5px}
+.kw button{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:4px;padding:1px 7px;cursor:pointer;font-size:12.5px;display:inline-flex;gap:6px;align-items:baseline}
 .kw button:hover{border-color:var(--accent)}
 .kw .n{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
 .kw button.top{font-weight:600}
@@ -140,6 +156,9 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
 .empty{padding:40px 20px;text-align:center;color:var(--muted);border:1px dashed var(--line);border-radius:6px}
 .empty b{display:block;color:var(--ink);font-size:16px;margin-bottom:4px}
 
+@media (max-width:900px){
+  .top2,.dash{grid-template-columns:minmax(0,1fr)}
+}
 @media (max-width:560px){
   .item{grid-template-columns:minmax(0,1fr)}
   header.top h1{font-size:22px}
@@ -159,19 +178,16 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
     <div class="stamp" id="stamp">불러오는 중…</div>
   </header>
 
-  <section class="panel watch" id="watch" hidden>
-    <div class="watch-head">
-      <div class="eyebrow"><span id="watchLabel">우리 회사</span> 관련 · 최근 30일</div>
-      <button type="button" class="linkbtn" id="watchAll">목록에서 모두 보기</button>
-    </div>
-    <ol id="watchList"></ol>
-  </section>
-
-  <section class="panel" id="brief" hidden>
-    <div class="eyebrow">주요 이슈 <span class="d" id="briefDate"></span></div>
-    <h2 id="briefTitle">여러 언론이 함께 다룬 기사</h2>
-    <ol id="briefList"></ol>
-  </section>
+  <div class="top2">
+    <section class="panel watch" id="watch" hidden>
+      <div class="cap"><h2><span id="watchLabel">우리 회사</span> 관련 <span class="d">최근 30일</span></h2><button type="button" class="linkbtn" id="watchAll">목록에서 모두 보기</button></div>
+      <ol id="watchList"></ol>
+    </section>
+    <section class="panel" id="brief" hidden>
+      <div class="cap"><h2><span id="briefTitle">여러 언론이 함께 다룬 기사</span> <span class="d" id="briefDate"></span></h2></div>
+      <ol id="briefList"></ol>
+    </section>
+  </div>
 
   <div class="tools">
     <div class="row">
@@ -200,19 +216,16 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
 
   <section class="dash" id="dash" hidden>
     <div class="panel">
-      <h3>사고 유형</h3>
-      <div class="note">현재 조건의 기사 제목·요약 기준 · 누르면 해당 유형만</div>
+      <h3>사고 유형 <span class="note">누르면 해당 유형만</span></h3>
       <ul class="bars" id="types"></ul>
     </div>
     <div class="panel">
-      <h3>분류별 기사 추이</h3>
-      <div class="note" id="trendNote"></div>
+      <h3>분류별 기사 추이 <span class="note" id="trendNote"></span></h3>
       <div class="chart" id="trend"></div>
       <div class="legend" id="legend"></div>
     </div>
     <div class="panel">
-      <h3>자주 나온 키워드</h3>
-      <div class="note">현재 조건의 기사 제목 기준 · 누르면 검색</div>
+      <h3>자주 나온 키워드 <span class="note">누르면 검색</span></h3>
       <div class="kw" id="kw"></div>
     </div>
   </section>
@@ -298,6 +311,18 @@ function srcLinks(a,label){
   const all=[{source:a.source,url:a.url,main:true},...(a.related||[])];
   return `<div class="srcs">${label&&all.length>1?`<span class="lbl">${all.length}개 언론</span>`:""}${all.map(r=>`<a class="${r.main?"main":""}" href="${esc(safeUrl(r.url))}" target="_blank" rel="noopener">${hl(r.source,state.q)}</a>`).join("")}</div>`;
 }
+// 상단 두 칸용 한 줄 항목: 제목 … [N개 언론] (누르면 언론사 링크가 아래에 펼쳐짐)
+function compactRow(a,lead){
+  const n=1+(a.related||[]).length;
+  const key=esc(a.id||a.url);
+  return `<li class="hl"><span class="sig ${esc(a.cat)}" title="${esc(catOf(a.cat).label)}"></span><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener" title="${esc(a.title)}">${esc(a.title)}</a><span class="side-m">${lead}${n>1?`<button type="button" class="cntb" data-open="${key}" aria-expanded="false">${n}개 언론</button>`:`<span>${esc(a.source||"")}</span>`}</span></li>`
+    +(n>1?`<li class="srcrow" data-row="${key}" hidden>${srcLinks(a,false)}</li>`:"");
+}
+document.addEventListener("click",e=>{
+  const b=e.target.closest(".cntb");if(!b)return;
+  const row=b.closest("ol").querySelector(`[data-row="${CSS.escape(b.dataset.open)}"]`);
+  if(!row)return;row.hidden=!row.hidden;b.setAttribute("aria-expanded",!row.hidden);
+});
 const watchTags=a=>a.watch.length?[...new Set(a.watch)].slice(0,3).map(n=>`<span class="tag-w">${esc(n)}</span>`).join(""):"";
 
 function renderStamp(){
@@ -309,9 +334,9 @@ function renderWatch(){
   $("watchLabel").textContent=label;
   $("watch").hidden=false;
   const from=addDays(todayKST(),-29);
-  const list=articles().filter(a=>a.watch.length&&a.day>=from).slice(0,8);
+  const list=articles().filter(a=>a.watch.length&&a.day>=from).slice(0,15);
   $("watchAll").hidden=!list.length;
-  $("watchList").innerHTML=list.length?list.map(a=>`<li class="hl"><span class="sig ${esc(a.cat)}" title="${esc(catOf(a.cat).label)}"></span><div class="hl-body"><a href="${esc(safeUrl(a.url))}" target="_blank" rel="noopener">${esc(a.title)}</a><div class="hl-meta"><span class="pd">${fmtShort(a.day)}</span>${watchTags(a)}${srcLinks(a,true)}</div></div></li>`).join("")
+  $("watchList").innerHTML=list.length?list.map(a=>compactRow(a,`<span class="pd">${fmtShort(a.day)}</span>`)).join("")
     :`<li class="watch-empty">최근 30일 동안 ${esc(label)} 관련 안전보건 기사가 없습니다.</li>`;
 }
 function renderBrief(){
@@ -323,7 +348,7 @@ function renderBrief(){
   const byId=new Map(articles().map(a=>[a.id,a]));
   $("briefList").innerHTML=h.map(x=>{
     const a=byId.get(x.id)||{source:x.source,url:x.url,related:[],watch:[]};
-    return `<li class="hl"><span class="sig ${esc(x.cat)}" title="${esc(catOf(x.cat).label)}"></span><div class="hl-body"><a href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener">${esc(x.title)}</a><div class="hl-meta">${watchTags(a)}${srcLinks(a,true)}</div></div></li>`;
+    return compactRow({...a,title:x.title,url:x.url,cat:x.cat},"");
   }).join("");
 }
 function renderRegions(){
@@ -366,7 +391,7 @@ function renderTrend(){
   const tot=d=>cats.reduce((s,c)=>s+cnt[d][c.id],0);
   const maxV=Math.max(1,...days.map(tot));
   const niceMax=maxV<=5?5:maxV<=10?10:Math.ceil(maxV/10)*10;
-  const W=320,H=140,L=26,R=4,T=8,B=20,pw=W-L-R,ph=H-T-B;
+  const W=340,H=110,L=24,R=4,T=6,B=18,pw=W-L-R,ph=H-T-B;
   const step=pw/days.length,bw=Math.max(2,Math.min(22,step-2));
   let g="";
   [0,niceMax/2,niceMax].forEach(v=>{const y=T+ph-(v/niceMax)*ph;g+=`<line x1="${L}" x2="${W-R}" y1="${y}" y2="${y}" stroke="var(--grid)"/><text class="ax" x="${L-4}" y="${y+3}" text-anchor="end">${v}</text>`;});
@@ -402,7 +427,7 @@ function renderKeywords(){
       seen.add(w);n.set(w,(n.get(w)||0)+1);
     });
   });
-  const top=[...n.entries()].filter(([,c])=>c>=2).sort((a,b)=>b[1]-a[1]).slice(0,18);
+  const top=[...n.entries()].filter(([,c])=>c>=2).sort((a,b)=>b[1]-a[1]).slice(0,14);
   $("kw").innerHTML=top.length?top.map(([w,c],i)=>`<button type="button" data-kw="${esc(w)}" class="${i<5?"top":""}">${esc(w)}<span class="n">${c}</span></button>`).join(""):`<span class="note">기사가 더 쌓이면 표시됩니다.</span>`;
 }
 function renderList(){
