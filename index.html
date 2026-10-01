@@ -244,6 +244,22 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
 .dash h3 .h{white-space:nowrap}
 .dash h3 .note{text-align:right}
 .top2 .cap{align-items:center}
+/* 메일용 요약 창 */
+.btn-mail{background:var(--ink);color:var(--surface);border-color:var(--ink)}
+.btn-mail:hover{background:var(--ink2);color:var(--surface);border-color:var(--ink2)}
+.btn.primary{background:var(--ink);color:var(--surface);border-color:var(--ink);font-weight:600}
+.btn.primary:hover{background:var(--ink2);color:var(--surface)}
+.mail-back{position:fixed;inset:0;z-index:20;background:rgba(10,10,9,.45);display:flex;align-items:center;justify-content:center;padding:16px}
+.mail-box{background:var(--surface);color:var(--ink);border-radius:16px;box-shadow:0 20px 60px rgba(0,0,0,.3);width:min(760px,100%);max-height:calc(100vh - 32px);display:flex;flex-direction:column;gap:12px;padding:18px 20px}
+.mail-head{display:flex;align-items:center;justify-content:space-between}
+.mail-head h2{font-size:17px;font-weight:800}
+.mail-head .x{border:0;background:none;font-size:24px;line-height:1;cursor:pointer;color:var(--muted);padding:2px 6px;border-radius:8px}
+.mail-head .x:hover{background:var(--tint);color:var(--ink)}
+.mail-opts{display:flex;flex-wrap:wrap;gap:8px;align-items:center;font-size:13px;color:var(--muted)}
+.mail-prev{flex:1;min-height:200px;overflow:auto;border:1px solid var(--line);border-radius:12px;padding:16px 18px;background:#fff;color:#111}
+.mail-act{display:flex;gap:8px;align-items:center;justify-content:flex-end;flex-wrap:wrap}
+.mail-msg{margin-right:auto;font-size:13px;color:var(--c-hlt);font-weight:600}
+.mail-tip{margin:0;font-size:12px;color:var(--muted)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 </head>
@@ -298,6 +314,9 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
       <button type="button" class="btn" id="csv" title="지금 조건의 기사 목록을 엑셀에서 열 수 있는 파일로 저장">
         <svg viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><path d="M12 4v11m0 0-4-4m4 4 4-4M5 20h14"/></svg>엑셀로 저장
       </button>
+      <button type="button" class="btn btn-mail" id="mailBtn" title="메일·메신저에 붙여넣을 오늘의 요약 만들기">
+        <svg viewBox="0 0 24 24" stroke-width="2" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="m3 7 9 6 9-6"/></svg>메일용 요약 복사
+      </button>
     </div>
     <div class="row" id="chips" role="group" aria-label="분류 필터"></div>
     <div class="active-filters" id="active" hidden></div>
@@ -318,6 +337,33 @@ mark{background:color-mix(in srgb,var(--c-tech) 35%,transparent);color:inherit;b
       <div class="kw" id="kw"></div>
     </div>
   </section>
+
+  <div class="mail-back" id="mailBack" hidden>
+    <section class="mail-box" role="dialog" aria-modal="true" aria-labelledby="mailTitle">
+      <div class="mail-head">
+        <h2 id="mailTitle">메일용 요약</h2>
+        <button type="button" class="x" id="mailClose" aria-label="닫기">×</button>
+      </div>
+      <div class="mail-opts">
+        <label for="mailRange">범위</label>
+        <select id="mailRange">
+          <option value="24">최근 24시간</option>
+          <option value="today">오늘</option>
+          <option value="weekend">지난 금요일 이후 (월요일 아침용)</option>
+          <option value="view">지금 화면의 검색·필터 조건</option>
+        </select>
+        <label for="mailPer">분류별</label>
+        <select id="mailPer"><option value="3">3건</option><option value="5" selected>5건</option><option value="10">10건</option></select>
+      </div>
+      <div class="mail-prev" id="mailPrev" tabindex="0" aria-label="요약 미리보기"></div>
+      <div class="mail-act">
+        <span class="mail-msg" id="mailMsg" role="status"></span>
+        <button type="button" class="btn" id="copyText">텍스트로 복사</button>
+        <button type="button" class="btn primary" id="copyRich">서식 포함 복사</button>
+      </div>
+      <p class="mail-tip">'서식 포함 복사'는 아웃룩·Gmail 등 메일 본문에 붙여넣으면 제목과 링크가 그대로 유지됩니다. 메신저나 메모장에는 '텍스트로 복사'를 쓰세요.</p>
+    </section>
+  </div>
 
   <main id="list">
     <div class="empty"><b>뉴스를 불러오는 중입니다</b>평일 업무시간에 매시간 새 기사가 이곳에 쌓입니다.</div>
@@ -553,6 +599,122 @@ function renderFiltered(){renderRegions();renderChips();renderActive();renderTyp
 function renderAll(){renderStamp();renderWatch();renderBrief();renderFiltered();}
 
 // 엑셀(CSV) 저장
+/* ---------- 메일용 요약 ---------- */
+function mailRows(range){
+  const now=Date.now(),t=todayKST();
+  let rows;
+  if(range==="view")rows=visible();
+  else if(range==="today")rows=articles().filter(a=>a.day===t);
+  else if(range==="weekend"){
+    const d=new Date(Date.parse(t)),dow=d.getUTCDay();          // 0=일 … 5=금
+    const back=((dow-5)+7)%7||7;                                 // 가장 최근 지난 금요일
+    const fri=addDays(t,-back)+"T18:00";
+    rows=articles().filter(a=>(a.published||a.day)>=fri);
+  }else{
+    const from=new Date(now+9*3600e3-24*3600e3).toISOString().slice(0,16);
+    rows=articles().filter(a=>(a.published||a.day+"T00:00")>=from);
+  }
+  return rows.slice().sort((a,b)=>(a.published<b.published?1:-1));
+}
+// 같은 사건을 다룬 비슷한 제목은 한 줄로 묶음 (보도 언론 수는 합산)
+function storyKey(t){return t.replace(/\[[^\]]*\]|\([^)]*\)/g," ").replace(/[^0-9A-Za-z가-힣]/g,"");}
+function grams(t){const g=new Set();for(let i=0;i<t.length-1;i++)g.add(t.slice(i,i+2));return g;}
+function dedupeStories(list){
+  const out=[];
+  list.forEach(a=>{
+    const g=grams(storyKey(a.title));
+    const hit=out.find(o=>{let n=0;g.forEach(x=>{if(o._g.has(x))n++;});return n/Math.min(g.size,o._g.size)>=0.5;});
+    if(hit){hit._n+=1+(a.related?.length||0);return;}
+    out.push(Object.assign({},a,{_g:g,_n:1+(a.related?.length||0)}));
+  });
+  return out;
+}
+function rangeLabel(range){
+  return {"24":"최근 24시간","today":"오늘","weekend":"지난 금요일 저녁 이후","view":"현재 화면 조건"}[range];
+}
+function buildMail(){
+  const range=$("mailRange").value,per=Number($("mailPer").value);
+  const rows=mailRows(range);
+  const t=todayKST(),[y,m,dd]=t.split("-").map(Number);
+  const wd=WD[new Date(Date.UTC(y,m-1,dd)).getUTCDay()];
+  const label=state.data?.watchLabel||"우리 회사";
+  const watch=rows.filter(a=>a.watch&&a.watch.length);
+  const sev=rows.filter(a=>a.cat==="sev");
+  const url=location.href.split("#")[0].split("?")[0];
+  const subject=`[안전보건 뉴스룸] ${m}월 ${dd}일(${wd}) 중대재해 ${sev.length}건 · ${label} 관련 ${watch.length}건`;
+  const sections=[];
+  if(watch.length)sections.push({title:`${label} 관련`,items:watch.slice(0,10),strong:true});
+  state.cats.forEach(c=>{
+    const list=rows.filter(a=>a.cat===c.id&&!(a.watch&&a.watch.length));
+    if(!list.length)return;
+    // 여러 언론이 다룬 기사 먼저
+    list.sort((a,b)=>(b.related?.length||0)-(a.related?.length||0)||(a.published<b.published?1:-1));
+    const uniq=dedupeStories(list);
+    const lim=c.id==="sev"?Math.max(per,10):per;
+    sections.push({title:c.label,items:uniq.slice(0,lim),more:uniq.length-lim,total:list.length});
+  });
+  const meta=a=>{const n=a._n||1+(a.related?.length||0);return `${a.source}${n>1?` 외 ${n-1}곳`:""} · ${fmtShort(a.day)}${hhmm(a.published)?" "+hhmm(a.published):""}`;};
+  // 텍스트
+  let txt=`${subject}\n\n▶ 범위: ${rangeLabel(range)} · 기사 ${rows.length}건\n`;
+  sections.forEach(sec=>{
+    txt+=`\n■ ${sec.title}\n`;
+    sec.items.forEach(a=>{txt+=`- ${a.title} (${meta(a)})\n  ${a.url}\n`;});
+    if(sec.more>0)txt+=`  …외 ${sec.more}개 이슈\n`;
+  });
+  txt+=`\n전체 보기: ${url}\n`;
+  // 서식 (메일 프로그램용 인라인 스타일)
+  const F="font-family:'Malgun Gothic','Apple SD Gothic Neo',sans-serif;";
+  let html=`<div style="${F}color:#111;font-size:14px;line-height:1.6;max-width:720px">`+
+    `<div style="background:#0b0b0b;color:#fff;padding:14px 18px;border-radius:8px 8px 0 0"><div style="font-size:12px;color:#a3a29c">파리크라상 안전경영실</div><div style="font-size:20px;font-weight:bold">안전보건 뉴스룸 · ${m}월 ${dd}일(${wd})</div></div>`+
+    `<div style="border:1px solid #e2e1dc;border-top:0;padding:12px 18px;border-radius:0 0 8px 8px;margin-bottom:14px">`+
+    `<span style="font-size:13px;color:#666">${esc(rangeLabel(range))} · 기사 <b style="color:#111">${rows.length}</b>건</span> &nbsp;|&nbsp; `+
+    `<span style="font-size:13px;color:#666">중대재해 <b style="color:#a3121a">${sev.length}</b>건</span> &nbsp;|&nbsp; `+
+    `<span style="font-size:13px;color:#666">${esc(label)} 관련 <b style="color:#111">${watch.length}</b>건</span></div>`;
+  sections.forEach(sec=>{
+    html+=`<h3 style="${F}font-size:15px;margin:16px 0 6px;padding-bottom:4px;border-bottom:2px solid ${sec.strong?"#111":"#e2e1dc"}">${esc(sec.title)} <span style="font-weight:normal;color:#888;font-size:12px">${sec.total||sec.items.length}건</span></h3><ul style="margin:0;padding-left:18px">`;
+    sec.items.forEach(a=>{html+=`<li style="margin:4px 0"><a href="${esc(safeUrl(a.url))}" style="color:#1d4f91;text-decoration:none">${esc(a.title)}</a> <span style="color:#888;font-size:12px">${esc(meta(a))}</span></li>`;});
+    html+=`</ul>`;
+    if(sec.more>0)html+=`<div style="font-size:12px;color:#888;padding-left:18px">…외 ${sec.more}개 이슈</div>`;
+  });
+  if(!sections.length)html+=`<p style="color:#888">해당 범위에 기사가 없습니다.</p>`;
+  html+=`<p style="margin-top:18px"><a href="${esc(url)}" style="display:inline-block;background:#111;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;font-size:13px">대시보드에서 전체 보기</a></p></div>`;
+  return {subject,txt,html};
+}
+let mailData=null;
+function refreshMail(){mailData=buildMail();$("mailPrev").innerHTML=`<div style="font-size:12px;color:#888;margin-bottom:8px">메일 제목: <b style="color:#111">${esc(mailData.subject)}</b></div>`+mailData.html;$("mailMsg").textContent="";}
+function openMail(){
+  // 월요일 오전에는 '지난 금요일 이후'를 기본으로
+  const d=new Date(Date.now()+9*3600e3);if(d.getUTCDay()===1&&d.getUTCHours()<12)$("mailRange").value="weekend";
+  $("mailBack").hidden=false;refreshMail();$("copyRich").focus();
+}
+function closeMail(){$("mailBack").hidden=true;$("mailBtn").focus();}
+function fallbackCopy(){ // 클립보드 권한이 막힌 경우: 미리보기를 선택해 복사
+  const r=document.createRange();r.selectNodeContents($("mailPrev"));const sel=getSelection();sel.removeAllRanges();sel.addRange(r);
+  let ok=false;try{ok=document.execCommand("copy");}catch(e){}
+  return ok;
+}
+async function copyMail(rich){
+  const msg=$("mailMsg");
+  try{
+    if(rich&&window.ClipboardItem){
+      await navigator.clipboard.write([new ClipboardItem({"text/html":new Blob([mailData.html],{type:"text/html"}),"text/plain":new Blob([mailData.txt],{type:"text/plain"})})]);
+    }else{
+      await navigator.clipboard.writeText(rich?mailData.txt:`${mailData.txt}`);
+    }
+    msg.textContent=rich?"복사했습니다. 메일 본문에 붙여넣으세요 (메일 제목도 위에 있습니다)":"텍스트로 복사했습니다";
+  }catch(e){
+    msg.textContent=fallbackCopy()?"복사했습니다":"복사가 막혀 있습니다. 미리보기를 드래그해 Ctrl+C로 복사하세요";
+  }
+}
+$("mailBtn").addEventListener("click",openMail);
+$("mailClose").addEventListener("click",closeMail);
+$("mailBack").addEventListener("click",e=>{if(e.target.id==="mailBack")closeMail();});
+document.addEventListener("keydown",e=>{if(e.key==="Escape"&&!$("mailBack").hidden)closeMail();});
+$("mailRange").addEventListener("change",refreshMail);
+$("mailPer").addEventListener("change",refreshMail);
+$("copyRich").addEventListener("click",()=>copyMail(true));
+$("copyText").addEventListener("click",()=>copyMail(false));
+
 function csvCell(v){v=String(v??"");return /[",\n]/.test(v)?`"${v.replace(/"/g,'""')}"`:v;}
 $("csv").addEventListener("click",()=>{
   const rows=visible();
