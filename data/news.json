@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T11:16+09:00",
+ "updatedAt": "2026-10-01T12:18+09:00",
  "categories": [
   {
    "id": "acc",
@@ -21,10 +21,28 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "6d5c7b8a8ade",
+   "title": "'7명 사상' 한화에어로 과태료 5억 부과…법 위반 473건 적발",
+   "url": "https://www.newspim.com/news/view/20261001000500",
+   "source": "뉴스핌",
+   "cat": "acc",
+   "day": "2026-10-01",
+   "count": 5
+  },
+  {
    "id": "49cbc5fc37e9",
    "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
    "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
    "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-01",
+   "count": 4
+  },
+  {
+   "id": "ee26ecac5be9",
+   "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
+   "url": "https://www.newsis.com/view/NISX20260930_0003809493",
+   "source": "뉴시스",
    "cat": "law",
    "day": "2026-10-01",
    "count": 4
@@ -39,34 +57,366 @@
    "count": 4
   },
   {
-   "id": "ee26ecac5be9",
-   "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
-   "url": "https://www.newsis.com/view/NISX20260930_0003809493",
-   "source": "뉴시스",
+   "id": "adc7e8a9c356",
+   "title": "폭발사고 반복된 한화에어로…산안법 위반 473건 적발",
+   "url": "https://news.cpbc.co.kr/article/1176079?division=NAVER",
+   "source": "cpbc.co.kr",
    "cat": "law",
    "day": "2026-10-01",
    "count": 3
-  },
-  {
-   "id": "04d50c9dc1d2",
-   "title": "동원F&B·하림·하이트진로, 4년째 식품공장 산재 상위권...\"반복 사고 막...",
-   "url": "http://www.popcornnews.net/news/articleView.html?idxno=134603",
-   "source": "popcornnews.net",
-   "cat": "acc",
-   "day": "2026-10-01",
-   "count": 2
-  },
-  {
-   "id": "dc389d7c8a64",
-   "title": "직업계고 실습 안전사고 5년간 3.4배↑…“대형 참사 예방을”",
-   "url": "https://www.edaily.co.kr/News/Read?newsId=03070086645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
-   "source": "이데일리",
-   "cat": "acc",
-   "day": "2026-10-01",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "안전보건공단 대구광역본부, 어린이 대상 산업안전 체험교육",
+   "summary": "안전보건공단 대구광역본부가 지난 30일 북구 옻골동산에서 열린 ‘2026년 하반기 어린이 안전체험 캠프’에서 어린이 대상 산업안전 체험교육을 진행했다.이번 교육은 어린이들이 평소 접하기 어려운 산업현장의...",
+   "url": "https://www.kbsm.net/news/view.php?idx=536253",
+   "source": "kbsm.net",
+   "published": "2026-10-01T12:14+09:00",
+   "cat": "tech",
+   "id": "6511ef99aa9d",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "'5명 사망' 한화에어로 대전사업장 폭발…과태료 5억510만원 부과",
+   "summary": "고용노동부가 지난 6월 폭발사고로 5명의 사망자가 발생한 한화에어로스페이스 대전사업장에 과태료 총... 등 추락, 끼임 감전 등 위반도 93건 적발됐다. 수급인(하청) 노동자 보호조치 위반사항도 5건 확인됐다.이번...",
+   "url": "https://news.mtn.co.kr/news-detail/2026100109302717961",
+   "source": "mtn.co.kr",
+   "published": "2026-10-01T12:04+09:00",
+   "cat": "acc",
+   "id": "40305134ac78",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산안법 등 64개 법안 국회 본회의 상정…도정법 '보류'",
+   "summary": "[사진=연합뉴스] 1일 열리는 국회 본회의에 산업안전보건법(산안법) 개정안등 64개 법안이 상정된다. 공공 재개발 용적률 완화를 골자로 하는 도시 및 주거환경정비법(도정법) 개정안은 본회의에 올리지 않고 여야 간...",
+   "url": "https://www.ajunews.com/view/20261001104155831",
+   "source": "아주경제",
+   "published": "2026-10-01T12:04+09:00",
+   "cat": "law",
+   "id": "e7d01eff563c",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "UNEP, 화학물질 피해 줄일 제품 설계 전환 촉구",
+   "summary": "윌리엄스는 정부의 정책·기준 마련뿐 아니라 기업의 제품 설계와 공급망 변화, 과학적 근거의 의사결정 반영, 노동자와 시민사회의 참여가 함께 필요하다고 밝혔다. GFC는 화학물질과 폐기물의 안전하고 지속가능한...",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=389973",
+   "source": "vegannews.co.kr",
+   "published": "2026-10-01T12:04+09:00",
+   "cat": "hlt",
+   "id": "6f2eeb506a03",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "李대통령, 北지뢰 폭발 사고에도 \"남북 군사긴장 낮추는 조치 이어갈 것...",
+   "summary": "통한 기술집약 부사관 확대를 추진하고, 2030년대 중반까지 핵추진잠수함(원자력추진잠수함) 건조에... 인공지능과 유무인 복합체계를 고도화하고, 이에 맞게 군 구조를 개편하고, 국방태세 전반을 재설계하여 '스마트 정예...",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/10/01/2026100100171.html",
+   "source": "뉴데일리",
+   "published": "2026-10-01T12:04+09:00",
+   "cat": "tech",
+   "id": "538dcca705ff",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "오후 본회의에 산안법 상정…野 필버에 반대 토론으로 대응",
+   "summary": "산안법 개정안은 최근 1년 이내 3명 이상의 사망자가 발생한 사업장에 영업이익의 5% 이내에서 과징금을... 하는지 산재 유가족 앞에서도 똑같이 말할 수 있는지 답해야 한다\"고 했다. 한편 김승수 국민의힘...",
+   "url": "https://www.news1.kr/politics/assembly/6307426",
+   "source": "뉴스1",
+   "published": "2026-10-01T12:02+09:00",
+   "cat": "law",
+   "id": "6059604c03f4",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "7명 사상 한화에어로 ‘안전보건규칙 위반’ 184건…과태료 5억",
+   "summary": "지난 6월1일 폭발 사고로 5명의 사망자, 2명의 부상자가 발생한 한화에어로스페이스 대전사업장에 대한... 노동부는 안전보건규칙 위반과 하청 노동자 보호조치가 미진했던 5건까지 총 189건에 대해 즉시 사법처리하고, 총...",
+   "url": "https://www.hani.co.kr/arti/society/labor/1280371.html",
+   "source": "한겨레",
+   "published": "2026-10-01T12:02+09:00",
+   "cat": "acc",
+   "id": "20332ed93e50",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "한화에어로 대전사업장, 산안법령 473건 위반…189건 사법처리·과태료...",
+   "summary": "추락과 끼임, 감전 등 기본적인 안전조치 위반도 93건 적발됐다. 하청 노동자 보호조치 위반도 5건... 3명이 사망한 바 있다. 김영훈 노동부 장관은 \"2018년, 2019년에 이어 동일 유형의 화재·폭발 사고가 반복됐다는 것은...",
+   "url": "https://www.ajunews.com/view/20261001080941071",
+   "source": "아주경제",
+   "published": "2026-10-01T12:02+09:00",
+   "cat": "acc",
+   "id": "8d1150b479d5",
+   "related": [
+    {
+     "source": "세계일보",
+     "url": "https://www.segye.com/newsView/20261001506394?OutUrl=naver",
+     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반 5억원 과태료"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, 소규모 사업장 안전보건관리 지원사업 공모",
+   "summary": "한편 울산항만공사는 지난 2024년 중대재해처벌법이 상시근로자 5인 이상 사업장까지 확대 적용된 이후 소규모 사업장의 산업재해를 예방하기 위해 '안전보건관리체계 구축 지원' 사업을 운영하고 있다....",
+   "url": "https://www.kpinews.kr/newsView/1065579409973948",
+   "source": "KPI뉴스",
+   "published": "2026-10-01T12:01+09:00",
+   "cat": "hlt",
+   "id": "41a017e4ea70",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "세 차례 폭발·화재로 13명 숨졌는데…한화에어로 대전사업장 안전위반...",
+   "summary": "사망사고 유형인 폭발·화재와 업종 특성에 따른 위험물질 누출 방지조치, 유해물질 관리, 공정안전보고서... 하청 노동자 보호와 관련해서는 작업장 순회점검, 위험물질 특별교육, 안전보건협의체 운영 등을 이행하지...",
+   "url": "https://biz.heraldcorp.com/article/10890163?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-01T12:01+09:00",
+   "cat": "acc",
+   "id": "1d3836fed2a6",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "5명 숨진 한화에어로 대전공장, 정부 감독 결과 폭발 사고 '구멍'",
+   "summary": "지난 6월 폭발 사고로 5명이 숨진 한화에어로스페이스 대전사업장에서 폭발·화재 관련 안전 위반이 46건... 추락·끼임·감전 관련 위반이다. 하청 노동자 보호조치 위반도 5건 적발됐다. 작업장 순회점검 미실시...",
+   "url": "https://www.nocutnews.co.kr/news/6585676?utm_source=naver&utm_medium=article&utm_campaign=20261001120011",
+   "source": "노컷뉴스",
+   "published": "2026-10-01T12:01+09:00",
+   "cat": "acc",
+   "id": "e82536cd812c",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "대전 한화에어로, 노동부 특별감독서 473건 위반 적발‥폭발·화재·누출...",
+   "summary": "노동부는 오늘 한화에어로스페이스 대전사업장에 대한 특별감독 결과를 발표했습니다. 감독 결과 확인된... 등 산업안전을 위한 기반이 충분히 확보되지 못했다고 판단했습니다. 노동부는 위반사항에 대한 엄정 조치와...",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6855173_36918.html",
+   "source": "MBC",
+   "published": "2026-10-01T12:01+09:00",
+   "cat": "law",
+   "id": "7ba7d00a9848",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "[국감, 핀셋] 인천·경기지역 환경미화원 산업재해 '심각'",
+   "summary": "김 의원은 \"새벽 도로 작업이라는 특수성을 감안하더라도 현재 드러난 산재 사망 건수는 매우 우려스러운 수치\"라며 \"위험을 노동자에게 전가해 온 구조적 방치를 끝내고 정부와 지자체가 근본적인 안전 대책을...",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333266",
+   "source": "인천일보",
+   "published": "2026-10-01T12:00+09:00",
+   "cat": "acc",
+   "id": "cc56afe1fee7",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "'5명 사망' 한화에어로 대전사업장, 안전 위반 473건 무더기 적발",
+   "summary": "등 추락·끼임·감전 관련 위반도 93건 적발됐다. △작업장 순회점검 미실시 △안전보건협의체 미운영 등 하청 노동자 보호조치 위반도 5건 나왔다. 과태료 부과 대상 284건 중에서는 물질안전보건자료(MSDS) 위반이 56건...",
+   "url": "https://www.news1.kr/economy/employment-labor/6306886",
+   "source": "뉴스1",
+   "published": "2026-10-01T12:00+09:00",
+   "cat": "acc",
+   "id": "80b4555fc15a",
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://www.etnews.com/20261001000202",
+     "title": "5명 숨진 한화에어로 대전사업장, 473건 법 위반…과태료 5억"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "'7명 사상' 한화에어로 과태료 5억 부과…법 위반 473건 적발",
+   "summary": "(하청) 노동자 보호조치 위반 내용으로 나타났다. 안전보건규칙 위반 항목 가운데 취약 위험요인인 폭발·화재 관련은 46건, 위험물질 및 누출 관련은 45건으로 위반사항의 약 절반을 차지했다. 이밖에 추락, 끼임 감전...",
+   "url": "https://www.newspim.com/news/view/20261001000500",
+   "source": "뉴스핌",
+   "published": "2026-10-01T12:00+09:00",
+   "cat": "acc",
+   "id": "6d5c7b8a8ade",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://www.newsis.com/view/NISX20261001_0003810389",
+     "title": "'7명 사상' 한화에어로, 법 위반 473건 적발…과태료 5억"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://www.dailian.co.kr/news/view/1696554/?sc=Naver",
+     "title": "5명 숨진 대전 한화에어로서 안전위반 473건 적발…과태료 5억원 부과"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://news.tf.co.kr/read/life/2371850.htm",
+     "title": "'7명 사상' 한화에어로 법위반 473건 적발…과태료 5억원"
+    },
+    {
+     "source": "이데일리",
+     "url": "https://www.edaily.co.kr/News/Read?newsId=03657206645608656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "한화에어로, 폭발 관리 위반 대거 적발…과태료 5억 부과"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "‘폭발 사고로 5명 사망’ 한화에어로, 노동부 감독서 안전 위반 사항 ...",
+   "summary": "노동부는 모두 473건의 위반 사항을 적발하고 안전보건 규칙 위반 184건, 하청 노동자 보호조치 위반 5건은 즉시 사법처리했습니다. 구체적으로 보면 폭발·화재 관련 46건, 위험물질 및 누출 관련 45건, 추락ㆍ끼임ㆍ감전...",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8675564&ref=A",
+   "source": "KBS",
+   "published": "2026-10-01T12:00+09:00",
+   "cat": "acc",
+   "id": "7b3b996d3ac5",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "폭발사고 반복된 한화에어로…산안법 위반 473건 적발",
+   "summary": "뉴시스 지난 6월 폭발 사고로 노동자 5명이 숨진 한화에어로스페이스 대전사업장에서 산업안전보건법 위반... 고용노동부는 지난 6월 29일부터 지난달 18일까지 한화에어로스페이스 대전사업장과 대전R&D캠퍼스를...",
+   "url": "https://news.cpbc.co.kr/article/1176079?division=NAVER",
+   "source": "cpbc.co.kr",
+   "published": "2026-10-01T12:00+09:00",
+   "cat": "law",
+   "id": "adc7e8a9c356",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://www.yna.co.kr/view/AKR20261001090100530?input=1195m",
+     "title": "'7명 사상 폭발사고' 한화에어로, 법위반 473건…189건 사법처리"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://biz.chosun.com/topics/topics_social/2026/10/01/DQTOKN5H6ZAEFAKY3USMT4O4PM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "‘폭발 사망사고’ 한화에어로, 법 위반 473건…사법처리 189건·과태료..."
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "與, 도시정비법 본회의 처리 보류… 산안법 등 60여건은 예정대로",
+   "summary": "산업안전보건법 개정안 등 민생법안 60여건은 예정대로 처리할 방침이다. 민주당 이주희 원내대변인은 이날 정책조정회의 후 기자들과 만나 \"도정법은 신임 국토장관과 서울시 협상이 예상되고 그 상황을 좀 지켜보자는...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3437031",
+   "source": "천지일보",
+   "published": "2026-10-01T11:56+09:00",
+   "cat": "law",
+   "id": "7ba45be04131",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "與, 1일 본회의서 산업안전보건법만 처리… 국민의힘은 필버 없이 반대...",
+   "summary": "당초 더불어민주당과 국민의힘 입장이 달라 야당이 무제한 토론(필리버스터)까지 검토했던 산업안전보건법 개정안도 필리버스터 없이 처리하기로 합의했다. 민주당 천준호 원내운영수석부대표는 이날 국회에서...",
+   "url": "https://www.segye.com/newsView/20261001509095?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-01T11:49+09:00",
+   "cat": "law",
+   "id": "544c8794425a",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "산업안전에도 '법 읽는AI' 등장, 현장 대응 정교해진다",
+   "summary": "중대재해처벌법과 산업안전보건법 등 관련 규정을 단순히 검색하는 형태가 아니라 사업장을 산업·시설·원료 등으로 분류하고, 해당 사업장에 적용되는 의무조항과 세부 법령을 구조적으로 연결한 것이다. 법률 준수...",
+   "url": "http://www.engjournal.co.kr/news/articleView.html?idxno=3992",
+   "source": "engjournal.co.kr",
+   "published": "2026-10-01T11:42+09:00",
+   "cat": "tech",
+   "id": "6baf55e71d49",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국회 본회의서 산안법·도정법 처리 주목… 필리버스터 변수",
+   "summary": "산업안전보건법 개정안은 산업재해로 연간 3명 이상 사고가 발생하는 기업에 영업이익의 최대 5% 과징금을 부과하도록 하고 있다. 국민의힘은 도정법안에 대해선 민간 사업자가 재개발·재건축 사업을 할 때도 법적 상한의...",
+   "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44115",
+   "source": "s-journal.co.kr",
+   "published": "2026-10-01T11:42+09:00",
+   "cat": "law",
+   "id": "9c0a951e53ab",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "DN오토모티브 공장서 기준치 5배 넘는 납 검출…검진 전 직원들에게 주...",
+   "summary": "특수건강진단에서도 직업병 유소견자가 확인되지 않았다고 한다. 그런데 KBS가 확보한 한국산업안전보건공단의 정밀 측정 결과는 기존 결과와 상당한 차이가 나타났다. 납 분말을 가공한 전극판을 쌓아 올리는 적재...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=320769",
+   "source": "더퍼블릭",
+   "published": "2026-10-01T11:38+09:00",
+   "cat": "hlt",
+   "id": "b0a83bdf339f",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "DMZ 지뢰폭발 사고...청와대 \"진상규명 후 조치\" [뉴스퀘어10]",
+   "summary": "한국만 지금 중립국감독위원회가 있거든요. 이들이 굉장히 객관적입니다. 절대로 한국 편 들어주고 그런 게... 박정희 대통령께서는 소총 한 자루부터 우리 손으로 만들자며 방위산업의 첫 삽을 떴습니다. 노무현...",
+   "url": "https://www.ytn.co.kr/_ln/0101_202610011128444664",
+   "source": "YTN",
+   "published": "2026-10-01T11:28+09:00",
+   "cat": "law",
+   "id": "675dc4fbdc90",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "박해철 \"식품업계 산재 승인 상위 기업에 동원 F&B 104 건 최다…CJ 제일...",
+   "summary": "이어 CJ 제일제당 92건, 삼구에프에스 85건, 하림 79건, 하이트진로 73건, 롯데제과 62건, 푸드웨어 49 건, 파리크라상 48건, SPC 삼립 30건 순으로 나타났다. 사업세목을 세분화해 살펴보면 특정 기업의 반복적인 산재 발생이...",
+   "url": "https://www.viva100.com/article/20261001500803",
+   "source": "브릿지경제",
+   "published": "2026-10-01T11:26+09:00",
+   "cat": "acc",
+   "id": "2df4a5934996",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "국립부산과학관, 품질·환경·안전보건 국제인증 3종 획득",
+   "summary": "과학관은 품질경영시스템(ISO 9001), 환경경영시스템(ISO 14001), 안전보건경영시스템(ISO 45001) 통합인증을 받았다고 1일 밝혔다. 이번 인증은 기관의 운영 실적보다 업무 절차와 관리체계가 국제표준에 부합하는지를...",
+   "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000018912&cp=nv",
+   "source": "국민일보",
+   "published": "2026-10-01T11:22+09:00",
+   "cat": "tech",
+   "id": "4ec6608c711e",
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://www.etnews.com/20261001000255",
+     "title": "국립부산과학관, 품질·환경·안전보건경영 ISO 3개 통합인증 획득"
+    }
+   ],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "\"전두환도 내란 아냐\" 김태규에 화난 민주당 \"선 넘었다\"",
    "summary": "그는 이어 \"오늘 오후 본회의에서 노동자 생명을 지키는 산업안전보건법 개정을 비롯해 수많은 민생 법안이 기다리는데, 국민의힘은 거리로 나가겠다고 한다\"며 \"국회 문은 언제나 열려있는데 왜 거리로 나가는 건가....",
@@ -111,7 +461,13 @@
    "published": "2026-10-01T11:01+09:00",
    "cat": "law",
    "id": "b83ecf776abf",
-   "related": [],
+   "related": [
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2631428",
+     "title": "與 “본회의서 산안법 등 60여개 법안 처리…도시정비법 순연”"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -671,6 +1027,11 @@
      "source": "newsinside.kr",
      "url": "https://www.newsinside.kr/news/articleView.html?idxno=5013836",
      "title": "[뉴스인사이드 정치톡톡] 국회 오늘 본회의…산업안전보건법 등 논의 外"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://biz.chosun.com/policy/politics/assembly/2026/10/01/TOONP2XCCVCZHEVOKLI2EZSMWQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "與, 오늘 본회의서 산업안전보건법 개정안 처리 예고"
     }
    ],
    "day": "2026-10-01",
@@ -1185,6 +1546,11 @@
      "source": "cnbnews.com",
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1017750",
      "title": "한국산업단지공단, '산업단지 안전관리ㆍ인력 양성 협력' 업무협약 체결"
+    },
+    {
+     "source": "kyosu.net",
+     "url": "https://www.kyosu.net/news/articleView.html?idxno=210799",
+     "title": "한기대-한국산업단지공단, 산업단지 안전관리·인력양성 맞손"
     }
    ],
    "day": "2026-09-30",
@@ -2012,6 +2378,11 @@
      "source": "경상일보",
      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1068608",
      "title": "동서발전 등 5개 기관 '인권경영' 협력 강화"
+    },
+    {
+     "source": "중앙일보",
+     "url": "https://www.joongang.co.kr/article/25466302",
+     "title": "동서발전 등 울산 공공기관 5곳, 인권경영 협력 강화"
     }
    ],
    "day": "2026-09-30",
