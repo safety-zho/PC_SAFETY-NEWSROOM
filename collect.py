@@ -77,7 +77,7 @@ SOURCE_NAMES.update({
     "hkbs.co.kr": "환경일보", "ikld.kr": "국토일보", "hansbiz.co.kr": "한스경제", "womaneconomy.co.kr": "여성경제신문",
     "sisaweek.com": "시사위크", "newswork.co.kr": "뉴스워커", "beyondpost.co.kr": "비욘드포스트", "todayenergy.kr": "투데이에너지",
     "gasnews.com": "가스신문", "fntimes.com": "한국금융신문", "bizhankook.com": "비즈한국", "news2day.co.kr": "뉴스투데이",
-    "mhns.co.kr": "문화뉴스", "pinpointnews.co.kr": "핀포인트뉴스", "g-enews.com": "글로벌이코노믹", "enewstoday.co.kr": "이뉴스투데이",
+    "mhns.co.kr": "더쎈뉴스", "pinpointnews.co.kr": "핀포인트뉴스", "g-enews.com": "글로벌이코노믹", "enewstoday.co.kr": "이뉴스투데이",
     "sentv.co.kr": "서울경제TV", "sportsseoul.com": "스포츠서울", "dailyan.com": "데일리안", "stardailynews.co.kr": "스타데일리뉴스",
     "ngetnews.com": "뉴스저널리즘", "cstimes.com": "컨슈머타임스", "consumernews.co.kr": "소비자가만드는신문", "smarttoday.co.kr": "스마트투데이",
     "thepublic.kr": "더퍼블릭", "ajunews.com": "아주경제", "e2news.com": "이투뉴스", "kpinews.kr": "KPI뉴스",
@@ -147,14 +147,14 @@ def to_kst(dt: datetime) -> datetime:
 
 # ---------------------------------------------------------------- 수집원
 
-def fetch_naver(query: str, cid: str, secret: str) -> list[dict]:
+def fetch_naver(query: str, cid: str, secret: str, display: int = 50) -> list[dict]:
     """네이버 뉴스 검색.
 
     2026년 7월 31일부터 네이버 개발자센터 신규 발급이 끝나고 NAVER API HUB(네이버 클라우드)로
     옮겨졌다. 기본은 API HUB 주소와 헤더를 쓰고, 예전 개발자센터 키를 가진 경우
     환경변수 NAVER_API=legacy 로 예전 주소를 쓸 수 있다(2027년 6월 30일까지).
     """
-    q = urllib.parse.urlencode({"query": query, "display": 50, "sort": "date"})
+    q = urllib.parse.urlencode({"query": query, "display": display, "sort": "date"})
     if os.getenv("NAVER_API", "hub").lower() == "legacy":
         url = "https://openapi.naver.com/v1/search/news.json?" + q
         headers = {"X-Naver-Client-Id": cid, "X-Naver-Client-Secret": secret}
@@ -301,6 +301,8 @@ def classify(art: dict, found_by: set[str], cfg: dict) -> str:
         if not category_allowed(art, cat):
             continue
         score = 2 if cat["id"] in found_by else 0
+        if cat.get("require_in_title"):  # 제목에 사고 표현이 있어 통과한 분류는 가산점
+            score += 2
         for kw in cat["keywords"]:
             k = kw.lower()
             if k in title:
@@ -441,7 +443,8 @@ def collect(cfg: dict) -> list[dict]:
             try:
                 # 우리 회사 검색은 매번 최근 30일치를 가져와 30일 칸이 늘 채워지게 함 (중복은 자동으로 건너뜀)
                 days = watch_days if cat_id == "watch" else 1
-                items = fetch_naver(q, cid, secret) if use_naver else fetch_google(q, days)
+                items = (fetch_naver(q, cid, secret, 100 if cat_id == "watch" else 50)
+                         if use_naver else fetch_google(q, days))
             except Exception as e:
                 errors += 1
                 log(f"  ! '{q}' 실패: {e}")
