@@ -406,7 +406,8 @@ const REGIONS=[
 const STOP=new Set("기자 뉴스 오늘 대한 관련 위해 통해 이후 올해 지난 개최 실시 강화 추진 발표 위한 있는 없는 한다 했다 밝혀 밝혔다 등 및 또 더 중 첫 전 후 간 년 명 건 대표 사업 현장 안전 산업안전 노동자 근로자 중대재해 사고 산재 산업재해 안전보건 예방 최근 내년 올해도 이번 가운데 속 나서 나선다 위해서 대상 확대 지원 운영 진행 계획 만에 결과 문제 필요 등의".split(" "));
 
 const state={data:null,cats:DEFAULT_CATS,on:new Set(DEFAULT_CATS.map(c=>c.id)),q:"",period:"7",from:"",to:"",region:"",onlyWatch:false,type:"",death:false};
-try{const p=localStorage.getItem("snr-period");if(p)state.period=p;}catch(e){}
+// 기간은 페이지를 열 때마다 항상 '최근 7일'로 시작
+try{localStorage.removeItem("snr-period");}catch(e){}
 const $=id=>document.getElementById(id);
 $("period").value=state.period;
 
@@ -748,7 +749,7 @@ function syncRange(){
 }
 let qTimer;
 $("q").addEventListener("input",e=>{clearTimeout(qTimer);qTimer=setTimeout(()=>{state.q=e.target.value.trim();renderFiltered();},150);});
-$("period").addEventListener("change",e=>{state.period=e.target.value;try{localStorage.setItem("snr-period",state.period)}catch(_){}syncRange();renderFiltered();});
+$("period").addEventListener("change",e=>{state.period=e.target.value;syncRange();renderFiltered();});
 for(const id of ["from","to"])$(id).addEventListener("change",()=>{
   state.from=$("from").value;state.to=$("to").value;
   if(state.from&&state.to&&state.from>state.to){[state.from,state.to]=[state.to,state.from];$("from").value=state.from;$("to").value=state.to;}
