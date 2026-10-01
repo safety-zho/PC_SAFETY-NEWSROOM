@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-01T08:19+09:00",
+ "updatedAt": "2026-10-01T09:25+09:00",
  "categories": [
   {
    "id": "acc",
@@ -21,22 +21,13 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "49cbc5fc37e9",
-   "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
-   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-01",
-   "count": 2
-  },
-  {
    "id": "ee26ecac5be9",
    "title": "與, 오늘 본회의서 산업안전보건법·도시정비법 처리 예정…국힘 반대,...",
    "url": "https://www.newsis.com/view/NISX20260930_0003809493",
    "source": "뉴시스",
    "cat": "law",
    "day": "2026-10-01",
-   "count": 2
+   "count": 3
   },
   {
    "id": "90569eded323",
@@ -45,10 +36,67 @@
    "source": "joseilbo.com",
    "cat": "law",
    "day": "2026-10-01",
+   "count": 3
+  },
+  {
+   "id": "49cbc5fc37e9",
+   "title": "검찰 지휘 사라지는 노동감독관…5천명 중 전문자격 보유 17명뿐",
+   "url": "https://www.yna.co.kr/view/AKR20260930169700530?input=1195m",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-01",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "현장실습 학생 33% 줄 때 안전사고는 3배로…직업계고 ‘안전 역주행’",
+   "summary": "특히 지난해 발생한 안전사고 10건 중 7건은 산업재해로 처리되지 않은 것으로 파악됐다. 1일 국회... 확인·감독하도록 하고 있다. 하지만 교육부는 기업 자체 보상으로 처리된 진료비 세부 내역까지는 관리하지 않아...",
+   "url": "https://www.etoday.co.kr/news/view/2631247",
+   "source": "이투데이",
+   "published": "2026-10-01T09:02+09:00",
+   "cat": "law",
+   "id": "8388b76aa3cb",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "죽음의 이유를 모른 채 애도할 수 있을까? [취재파일]",
+   "summary": "탄원서에는 항소심 판결에 중대재해처벌법과 산업안전보건 관계 법령의 취지에 어긋나는 법리오해가 없는지 살피고, 박순관 대표에게 23명의 죽음에 상응하는 책임을 물을 수 있도록 판단해 달라는 요구가 담겼다....",
+   "url": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008774554&plink=ORI&cooper=NAVER",
+   "source": "SBS",
+   "published": "2026-10-01T09:00+09:00",
+   "cat": "acc",
+   "id": "7e0774fff716",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "사업주 잘못으로 출국 위기? 권익위 \"외국인 노동자 구제하라\"",
+   "summary": "다만 업무상 재해나 질병, 임신, 출산 등의 사유로 근무처 변경 허가를 받지 못한 경우에는 해당 사유가 없어진 날부터 기간을 계산하도록 하고 있는 예외를 두고 있다. 권익위는 이 규정을 둔 취지가 외국인 노동자의...",
+   "url": "https://www.nocutnews.co.kr/news/6585497?utm_source=naver&utm_medium=article&utm_campaign=20261001084809",
+   "source": "노컷뉴스",
+   "published": "2026-10-01T08:49+09:00",
+   "cat": "hlt",
+   "id": "3a0dc8965107",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
+  {
+   "title": "직업계고 현장실습 사고 5년 새 3.4배…10건 중 7건 '산재 미처리'",
+   "summary": "직업계고 학생들이 산업체에서 현장실습을 하다 다치는 안전사고가 최근 5년간 3배 넘게 늘어난 것으로... 확인·감독하도록 하고 있다. 하지만 교육부는 기업 자체 보상으로 처리된 진료비의 세부 내역도 별도로...",
+   "url": "https://www.news1.kr/society/education/6306884",
+   "source": "뉴스1",
+   "published": "2026-10-01T08:27+09:00",
+   "cat": "law",
+   "id": "26e44319899f",
+   "related": [],
+   "day": "2026-10-01",
+   "watch": []
+  },
   {
    "title": "8톤 철판에 깔린 베트남 노동자 숨져..중대재해수사 전환",
    "summary": "영암 대불산단에서 철판 구조물에 깔려 크게 다친 40대 베트남 국적 노동자가 끝내 숨졌습니다. 해당 노동자는 지난 8일 오전 영암군 대불산단의 한 조선소에서 8톤짜리 철판 구조물에 깔려 크게 다친 뒤 치료를...",
@@ -236,6 +284,11 @@
      "source": "ftoday.co.kr",
      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=366398",
      "title": "국회, 국정감사 앞두고 본회의 개최…산업안전보건법·도시정비법 처리..."
+    },
+    {
+     "source": "newsinside.kr",
+     "url": "https://www.newsinside.kr/news/articleView.html?idxno=5013836",
+     "title": "[뉴스인사이드 정치톡톡] 국회 오늘 본회의…산업안전보건법 등 논의 外"
     }
    ],
    "day": "2026-10-01",
@@ -266,6 +319,11 @@
      "source": "뉴스핌",
      "url": "https://www.newspim.com/news/view/20260930000928",
      "title": "與, 오늘 본회의서 산안법·도정법 처리 예고...조작기소 특검법은 상정..."
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5067629",
+     "title": "국회 오늘 본회의…산안법·도정법 놓고 여야 이견"
     }
    ],
    "day": "2026-10-01",
@@ -339,7 +397,13 @@
    "published": "2026-09-30T23:20+09:00",
    "cat": "tech",
    "id": "5dd24883fed3",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=341591",
+     "title": "안전보건공단 울산본부, 울산공업축제 무대 설치현장 합동점검"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -435,7 +499,13 @@
    "published": "2026-09-30T20:18+09:00",
    "cat": "acc",
    "id": "2ee762b2cb93",
-   "related": [],
+   "related": [
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610010838066470043",
+     "title": "연세대 법무대학원, ‘중대재해처벌법 전문가과정’ 6기 입학식 성료"
+    }
+   ],
    "day": "2026-09-30",
    "watch": []
   },
@@ -915,6 +985,11 @@
      "source": "세이프타임즈",
      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=245975",
      "title": "[안전상황실·1일] 용인 상가 신축현장서 H빔 전도 … 60대 근로자 '사망..."
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://www.news1.kr/local/gyeonggi/6306532",
+     "title": "용인 아파트 상가 신축현장서 H빔 넘어져…60대 사망"
     }
    ],
    "day": "2026-09-30",
@@ -2359,6 +2434,11 @@
      "source": "wikileaks-kr.org",
      "url": "http://www.wikileaks-kr.org/news/articleView.html?idxno=192673",
      "title": "HJ중공업 건설부문, 중대재해 근절위한 협력사 CEO 간담회 개최"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7186815",
+     "title": "HJ중공업 건설부문, 협력사 CEO 안전 간담회…\"협력사 안전이 곧 경쟁력..."
     }
    ],
    "day": "2026-09-30",
