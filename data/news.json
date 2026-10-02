@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T14:16+09:00",
+ "updatedAt": "2026-10-02T15:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -61,16 +61,185 @@
    "count": 3
   },
   {
-   "id": "2ea975e07f70",
-   "title": "한유원, 안전·환경·부패방지 ISO 3종 인증 획득",
-   "url": "https://www.etoday.co.kr/news/view/2631978",
-   "source": "이투데이",
-   "cat": "tech",
+   "id": "2c9b9a9f03fc",
+   "title": "하도급 공사에도 산안비 반영…위험 우려 시 작업중지 가능해졌다",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52108",
+   "source": "kmecnews.co.kr",
+   "cat": "law",
    "day": "2026-10-02",
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "중노위 결정에도 버티던 한화오션…법원 기각에 결국 웰리브 원청교섭",
+   "summary": "한화오션이 노동위원회의 결정을 따르지 않고 법정으로 가져간 핵심 쟁점은 지난 3월10일 시행된 개정... 중노위는 특히 한화오션이 웰리브 노동자들의 근로조건 가운데 산업안전과 작업환경 등에 대해 실질적이고...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2119122",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2119122",
+   "source": "포쓰저널",
+   "published": "2026-10-02T15:12+09:00",
+   "cat": "law",
+   "id": "4f6bf0524ed7",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "'아침에 우유'와 함께 일상 속 안전문화 확산",
+   "summary": "사진=고용노동부 천안지청 제공 고용노동부 천안지청(지청장 전준현)은 2일 남양유업(주) 천안신공장에서 한국산업안전보건공단 충남지역본부, 남양유업(주) 천안신공장과 안전문화 확산을 위한 업무협약을 체결했다고...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1411736",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1411736",
+   "source": "한국아이닷컴",
+   "published": "2026-10-02T15:08+09:00",
+   "cat": "law",
+   "id": "f3bd7ce3c50b",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사 산재 5년 연속 증가 … 반복되는 '안전사고'",
+   "summary": "업무상 질병으로 7명이 숨졌고 감전 사고로 1명이 사망했다. 해당 통계는 근로복지공단의 산재보상 승인자료를 토대로 집계됐으며 통상적인 출퇴근 재해는 제외됐다. 서울교통공사의 안전관리와 관련한 지적도...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246211",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246211",
+   "source": "세이프타임즈",
+   "published": "2026-10-02T15:00+09:00",
+   "cat": "acc",
+   "id": "5888ee267305",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "감전사고 이듬해에도 안전관리 허점…與 황희 “서교공 산재 5년간 366명...",
+   "summary": "2021년 7호선 상동역 변전소 사고, 2023년 국토부 승인 없는 근무형태 변경, 2024년 연신내역 직원 감전 사망사고 등 3건이다. 상동역 변전소 사고 당시에는 공사가 해당 구간을 위탁 운영했다. 산재 유형을 보면 업무상...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004163631?sid=102",
+   "orig": "https://www.segye.com/newsView/20261002506584?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-02T14:53+09:00",
+   "cat": "acc",
+   "id": "3940fe189a3b",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "타임월드 팔고, 역세권 접고…한화 '대전 엑소더스' 논란",
+   "summary": "고용노동부는 생산량과 신규 채용이 늘었지만 안전보건관리 인력이 충분히 충원되지 않았다고 지적했다. 기업의 매각과 사업 철수는 경영 판단의 영역이다. 그러나 타임월드 매각과 역세권 개발 중단이 현실화할 경우...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868130",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=868130",
+   "source": "동양일보",
+   "published": "2026-10-02T14:44+09:00",
+   "cat": "tech",
+   "id": "6e87855f059e",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "이경주 한국산업보건연구재단 총괄의료원장, 과총 '과학기술우수논문상...",
+   "summary": "이경주 한국산업보건연구재단 총괄의료원장이 지난 30일 서울 강남구 과학기술컨벤션센터에서 열린 한국과학기술단체총연합회(과총) 창립 60주년 기념식에서 '제36회 과학기술우수논문상'(보건 분야)을 받았다....",
+   "url": "https://www.lawtv.kr/news/articleView.html?idxno=61068",
+   "orig": "https://www.lawtv.kr/news/articleView.html?idxno=61068",
+   "source": "lawtv.kr",
+   "published": "2026-10-02T14:42+09:00",
+   "cat": "hlt",
+   "id": "29cf3255ecc0",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "경기 환경미화원 산재 1만2598건 전국 최다…인천 포함 1만5729건",
+   "summary": "김위상 국민의힘 의원이 근로복지공단에서 받은 별도 자료에 따르면 2021년부터 올해 상반기까지 산재사망을 인정받은 환경미화원은 전국 400명이다. 경기가 98명(24.5%)으로 가장 많았고 서울 95명, 경남 26명...",
+   "url": "https://www.etoday.co.kr/news/view/2632085",
+   "orig": "https://www.etoday.co.kr/news/view/2632085",
+   "source": "이투데이",
+   "published": "2026-10-02T14:40+09:00",
+   "cat": "law",
+   "id": "fb11462dd2ef",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "검사 지휘 사라진 산재 수사… 노동감독관 전문성 시험대",
+   "summary": "김위상 국민의힘 의원에 따르면 전체 특사경 중 검찰 송치 사건이 가장 많은 고용노동부 소속 노동감독관의... 산재 사건을 전담하는 산업안전감독관의 경우 1216명 중 1년 미만 경력자가 428명으로 3분의1을 넘어서는 상황....",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250844",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250844",
+   "source": "안전신문",
+   "published": "2026-10-02T14:32+09:00",
+   "cat": "law",
+   "id": "1d21847cecb6",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[핫이슈] 한화오션, 하청노조 교섭중단 가처분 '패소'…\"법원 결정 수용...",
+   "summary": "올해 3월 시행된 노랑봉투법(개정 노동조합법 2·3조)의 1호 소송으로 불리는 사건이다. 한화오션은 법원의... 중노위는 \"한화오션이 산업안전보건법에 따라 거제사업장에서 생산지원업무를 수행하는 웰리브 근로자에 대해...",
+   "url": "http://www.newswatch.kr/news/articleView.html?idxno=81408",
+   "orig": "http://www.newswatch.kr/news/articleView.html?idxno=81408",
+   "source": "newswatch.kr",
+   "published": "2026-10-02T14:30+09:00",
+   "cat": "law",
+   "id": "22ced6e34e93",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "축평원, 현장 안전관리 강화",
+   "summary": "축산물품질평가원이 9월 30일 세종 본원에서 '3분기 산업안전보건위원회'를 개최했다. 이번 위원회는 노사가 공동으로 참여한 가운데, 근로자 안전사고 예방과 건강한 작업 환경 조성을 위한 주요 현안을 심의·의결하고자...",
+   "url": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83103",
+   "orig": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83103",
+   "source": "chukkyung.co.kr",
+   "published": "2026-10-02T14:29+09:00",
+   "cat": "hlt",
+   "id": "0c5ab2eed165",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "울주군, '찾아가는 노동법 아카데미'…협력 노사문화 정착",
+   "summary": "안전한 일터를 조성하기 위한 실질적 대응 전략을 제공하고자 마련됐다. 노동법 전문가를 초청해 최신 개정... 근로감독관이 '산업안전보건법·중대재해처벌법 및 주요 근로감독 쟁점사항' 등 사업장 안전과 노무관리를...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016353778?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261002109000057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-02T14:25+09:00",
+   "cat": "law",
+   "id": "2a292ec711b2",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "한화오션 '원청교섭' 법정공방 첫 제동…집행정지 신청 기각",
+   "summary": "특히 중노위는 산업안전과 작업환경 관련 의제에 대해 한화오션이 웰리브 노동자들의 근로조건을 실질적... 정부와 고용노동부에도 원·하청 단체교섭이 이뤄질 수 있도록 역할을 해달라고 요구했다. 다만 한화오션이...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=313758",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=313758",
+   "source": "ppss.kr",
+   "published": "2026-10-02T14:24+09:00",
+   "cat": "law",
+   "id": "af80fd888df0",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "제주개발공사, 노사 공동으로 안전한 일터 만든다",
+   "summary": "공사는 그동안 안전한 작업환경 조성과 산업재해 예방을 위해 안전보건 활동을 지속적으로 추진해 왔다. 그 결과 지난 1일 기준 무재해 1,051일을 기록하고 있으며, 3년 연속 산업재해 0건 달성을 앞두고 있다. 김도영...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000957350?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026100214190005662?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-02T14:23+09:00",
+   "cat": "tech",
+   "id": "bce57830d0af",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "기후·에너지 전환부터 산업경쟁력까지…국감 25일간 정책 실행력 점검",
    "summary": "23일에는 근로복지공단·한국산업안전보건공단·한국산업인력공단 등을 감사한다. 마지막으로 26일 기후에너지환경부·기상청 등, 27일 고용노동부·경제사회노동위원회 종합감사를 진행한다. 부처 감사에 이어...",
@@ -736,6 +905,12 @@
      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021023493820289",
      "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021023493820289",
      "title": "박정 의원, 하도급 공사에도 산안비 반영…작업자 위험 우려 시에도 작..."
+    },
+    {
+     "source": "updownnews.co.kr",
+     "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319001",
+     "orig": "https://www.updownnews.co.kr/news/articleView.html?idxno=319001",
+     "title": "하도급공사에도 산업안전보건관리비 반영…'위험 우려'도 작업중지 가능"
     }
    ],
    "day": "2026-10-02",
@@ -828,7 +1003,14 @@
    "published": "2026-10-02T08:48+09:00",
    "cat": "law",
    "id": "fc00faf18c7e",
-   "related": [],
+   "related": [
+    {
+     "source": "스트레이트뉴스",
+     "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=312433",
+     "orig": "https://www.straightnews.co.kr/news/articleView.html?idxno=312433",
+     "title": "[2026국감] 현장실습생 산재 지난해 30건 '역대 최대'…베임·골절·화상..."
+    }
+   ],
    "day": "2026-10-02",
    "watch": []
   },
@@ -886,6 +1068,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009205435?sid=103",
      "orig": "https://www.news1.kr/industry/hotel-tourism/6308353",
      "title": "\"시민·외래객 다 잡는다\"…서울관광재단, 안전보건 경영방침 선포"
+    },
+    {
+     "source": "onews.tv",
+     "url": "https://www.onews.tv/news/articleView.html?idxno=288432",
+     "orig": "https://www.onews.tv/news/articleView.html?idxno=288432",
+     "title": "\"시민·관광객 안전이 최우선\"… 서울관광재단, 안전보건 경영방침 선포"
     }
    ],
    "day": "2026-10-02",
@@ -1132,6 +1320,12 @@
      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303769",
      "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=303769",
      "title": "안전보건공단-한국ESG학회 '세이프티 ESG' 문화 확산 도모"
+    },
+    {
+     "source": "tournews21.com",
+     "url": "https://www.tournews21.com/news/articleView.html?idxno=144821",
+     "orig": "https://www.tournews21.com/news/articleView.html?idxno=144821",
+     "title": "안전보건공단-한국ESG학회, '세이프티 ESG' 확산 맞손…중소기업 안전체..."
     }
    ],
    "day": "2026-10-02",
@@ -1537,7 +1731,14 @@
    "published": "2026-10-01T17:25+09:00",
    "cat": "acc",
    "id": "3e063a7d631e",
-   "related": [],
+   "related": [
+    {
+     "source": "mdtoday.co.kr",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617170",
+     "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617170",
+     "title": "﻿'반복된 폭발 참사' 한화에어로 대전사업장, '폭발·화재 위험' 473건 ..."
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -1705,6 +1906,12 @@
      "url": "https://n.news.naver.com/mnews/article/023/0004001690?sid=102",
      "orig": "https://www.chosun.com/national/labor/2026/10/02/KGCPNQ6TSVAFRBVMG6TXLOR24Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
      "title": "산재 사망 年 3명 넘으면, ‘영업익 최대 5%’ 과징금 내야"
+    },
+    {
+     "source": "industrynews.co.kr",
+     "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86908",
+     "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=86908",
+     "title": "1년 내 산재 사망 3명 넘으면 '영업익 최대 5%' 과징금"
     }
    ],
    "day": "2026-10-01",
