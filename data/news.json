@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T12:17+09:00",
+ "updatedAt": "2026-10-02T13:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,6 +52,15 @@
    "count": 2
   },
   {
+   "id": "6879ac274e4a",
+   "title": "부천시 산업재해 1년 새 75% 줄었다…ISO 45001 인증도 유지",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068181",
+   "source": "shinailbo.co.kr",
+   "cat": "tech",
+   "day": "2026-10-02",
+   "count": 2
+  },
+  {
    "id": "e3d6e6779cd3",
    "title": "서울관광재단, 안전보건 경영방침 개편… 관람객·시민으로 안전 관리 ...",
    "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103123",
@@ -59,18 +68,61 @@
    "cat": "hlt",
    "day": "2026-10-02",
    "count": 2
-  },
-  {
-   "id": "01b34b089df6",
-   "title": "안전보건공단·ESG학회, '세이프티 ESG' 표준화 나선다",
-   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86871",
-   "source": "industrynews.co.kr",
-   "cat": "tech",
-   "day": "2026-10-02",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "\"커피 한잔에 안전메시지\"…광주상의, 산재 예방 캠페인",
+   "summary": "이번 캠페인은 고용노동부 등의 지원을 받는 융복합 가전산업 고용환경 혁신 패키지 지원사업의 안전워크업 사업 일환이다. 광주상의는 사업장을 직접 찾아 커피차를 활용해 음료를 제공하는 '안전 한 잔(Safety Drink)...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014229996?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261002_0003812428",
+   "source": "뉴시스",
+   "published": "2026-10-02T12:53+09:00",
+   "cat": "law",
+   "id": "df9c1f3d627c",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "중부발전, AI로 현장 안전관리 고도화…협력사와 위험요인 개선",
+   "summary": "'Make KOMIPO Safer Together'를 슬로건으로 열린 이번 회의는 본사와 사업소, 협력기업이 안전보건 현안을... 2026년 안전산업박람회에 참여하는 중소기업의 우수제품 설명회도 진행했다. 현장 구성원의 자발적인 안전문화...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003471986?sid=100",
+   "orig": "https://www.etnews.com/20261002000135",
+   "source": "전자신문",
+   "published": "2026-10-02T12:33+09:00",
+   "cat": "tech",
+   "id": "885af52825fd",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "법원, 한화오션 하청노동자 교섭결정 집행정지 신청 기각",
+   "summary": "안전보건관리규정은 수급인 웰리브 근로자들에게도 적용하는 점, 교섭 의제는 노동자 안전과 건강 등 산업안전에 해당하는 점, 한화오션이 급식시설·세탁실·통근버스 등 웰리브 노동자들의 근무 장소에 대한 소유권과...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016165",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016165",
+   "source": "경남도민일보",
+   "published": "2026-10-02T12:26+09:00",
+   "cat": "hlt",
+   "id": "d0b116066c58",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "펄스웨이브, 한국수자원공사와 안동댐 현장서 산업안전 AI 실증 추진",
+   "summary": "‘모두의 챌린지 기후테크’ 선정…위험성평가부터 개선조치 관리까지 현장 적용성 검증 AI 산업안전관리... 퍼스는 위험성평가, 안전점검, TBM, 안전보건교육, 작업허가 관련 업무와 기록을 웹과 모바일에서 관리하는...",
+   "url": "https://www.livesnews.com/news/article.html?no=64674",
+   "orig": "https://www.livesnews.com/news/article.html?no=64674",
+   "source": "라이브뉴스",
+   "published": "2026-10-02T12:26+09:00",
+   "cat": "tech",
+   "id": "d49ef3d5442e",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "산재 노동자 돕는 근로복지공단…정작 직원 산재 3년 연속 늘었다",
    "summary": "산업재해보상보험법은 업무상 재해를 업무 수행 중 발생한 '업무상 사고', 업무로 인해 걸린 '업무상 질병', 통상적인 출퇴근 과정에서 발생한 '출퇴근 재해'로 나눈다. 유형별로 보면 업무상 사고가 2023년 19건에서...",
@@ -171,6 +223,19 @@
    "published": "2026-10-02T11:52+09:00",
    "cat": "law",
    "id": "9d9dd0fcd300",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "인천시설공단, 현장 안전보안관 31명 실무역량 강화",
+   "summary": "사진=인천시설공단 인천시설공단이 각 부서의 산업안전보건 업무를 담당하는 '현장 안전보안관' 31명을 대상으로 안전관리 역량 강화에 나섰다. 공단은 지난 18일과 30일 인천안전체험교육장에서 현장 안전보안관...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717528",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=717528",
+   "source": "newstown.co.kr",
+   "published": "2026-10-02T11:49+09:00",
+   "cat": "tech",
+   "id": "da2114348da0",
    "related": [],
    "day": "2026-10-02",
    "watch": []
@@ -353,7 +418,14 @@
    "published": "2026-10-02T10:14+09:00",
    "cat": "tech",
    "id": "6879ac274e4a",
-   "related": [],
+   "related": [
+    {
+     "source": "newstown.co.kr",
+     "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717539",
+     "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=717539",
+     "title": "부천시, ISO 45001 인증 유지…산업재해 75% 감소"
+    }
+   ],
    "day": "2026-10-02",
    "watch": []
   },
@@ -2255,6 +2327,12 @@
      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237035",
      "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237035",
      "title": "[산업안전보건법 개정안 국회 통과] 산재 반복 기업 '영업이익 5%' 과징..."
+    },
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/604050?ref=naver",
+     "orig": "https://www.naeil.com/news/read/604050?ref=naver",
+     "title": "반복 사망사고 기업 영업이익 5% 과징금"
     }
    ],
    "day": "2026-10-01",
