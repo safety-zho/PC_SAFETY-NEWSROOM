@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T13:18+09:00",
+ "updatedAt": "2026-10-02T14:16+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-02",
-   "count": 5
+   "count": 6
   },
   {
    "id": "f33404ca6141",
@@ -49,7 +49,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-02",
-   "count": 2
+   "count": 3
   },
   {
    "id": "6879ac274e4a",
@@ -58,19 +58,188 @@
    "source": "shinailbo.co.kr",
    "cat": "tech",
    "day": "2026-10-02",
-   "count": 2
+   "count": 3
   },
   {
-   "id": "e3d6e6779cd3",
-   "title": "서울관광재단, 안전보건 경영방침 개편… 관람객·시민으로 안전 관리 ...",
-   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103123",
-   "source": "discoverynews.kr",
-   "cat": "hlt",
+   "id": "2ea975e07f70",
+   "title": "한유원, 안전·환경·부패방지 ISO 3종 인증 획득",
+   "url": "https://www.etoday.co.kr/news/view/2631978",
+   "source": "이투데이",
+   "cat": "tech",
    "day": "2026-10-02",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "기후·에너지 전환부터 산업경쟁력까지…국감 25일간 정책 실행력 점검",
+   "summary": "23일에는 근로복지공단·한국산업안전보건공단·한국산업인력공단 등을 감사한다. 마지막으로 26일 기후에너지환경부·기상청 등, 27일 고용노동부·경제사회노동위원회 종합감사를 진행한다. 부처 감사에 이어...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203779",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203779",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-02T14:14+09:00",
+   "cat": "law",
+   "id": "51cf1ce9f873",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "'무선 원격조종 방제기' 영양군 연시회 개최…작업자 노출 최소화",
+   "summary": "이 방제기는 '스마트 고추재배용 자동주행 플랫폼 기반의 다목적 작업시스템 개발 및 실용화 보급... 노동력 부담을 덜고 안전하고 효율적인 농작업이 가능하도록 실용적인 농업기계 기술 개발에 힘쓰겠다고 말했다.",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3711658",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3711658",
+   "source": "국제뉴스",
+   "published": "2026-10-02T14:12+09:00",
+   "cat": "tech",
+   "id": "0f89eb4e2c98",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "직업계고 현장실습 안전사고 5년 새 3.4배…산재 미처리 70% 넘어",
+   "summary": "직업계고 학생들의 현장실습 중 안전사고가 2021년 13건에서 2025년 44건으로 5년 새 3.4배 늘어났다. 산재로 처리되지 않은 사고가 전체의 70%를 넘어서며, 교육당국의 관리·감독 공백이 드러났다. 국회 교육위원회...",
+   "url": "https://medicalworldnews.co.kr/news/view.php?idx=1510977591",
+   "orig": "https://medicalworldnews.co.kr/news/view.php?idx=1510977591",
+   "source": "medicalworldnews.co.kr",
+   "published": "2026-10-02T14:10+09:00",
+   "cat": "acc",
+   "id": "7472e442a470",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "파주 물티슈 공장서 작업자 3명 추락…1명 사망·2명 중상",
+   "summary": "2층으로 옮기는 작업 중이었는데, 기계를 받치고 있던 파레트가 균형을 잃으며 추락한 것으로 확인됐습니다. 경찰과 고용노동부는 정확한 사고 경위를 조사하고 중대재해처벌법 적용 여부를 검토하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/056/0012267058?sid=102",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8676695&ref=A",
+   "source": "KBS",
+   "published": "2026-10-02T14:05+09:00",
+   "cat": "sev",
+   "id": "f8b98205f8e9",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "영천시, 중대재해예방 통합관리시스템 운영",
+   "summary": "이 시스템은 ‘중대재해 처벌에 관한 법률’에 따른 지방자치단체의 안전보건 확보 의무를 이행하기 위해 마련됐다. 시스템 도입으로 중대산업재해, 중대시민재해 및 도급·용역·위탁 사업까지 통합 괄리할수 있게 됐다....",
+   "url": "https://www.betanews.net/article/view/beta202610020059",
+   "orig": "https://www.betanews.net/article/view/beta202610020059",
+   "source": "betanews.net",
+   "published": "2026-10-02T14:04+09:00",
+   "cat": "hlt",
+   "id": "56a05be2631c",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[2026국감] 청소년 현장실습생 산업재해 신청 30건…최근 10년 중 최대",
+   "summary": "기술을 산업현장에서 익히고, 직무역량을 쌓을 수 있는 제도다. 교육부가 현장실습 운영과 관리를 맡고, 고용노동부가 현장을 관리·감독하고 있다. 현재 현장실습에 참여하고 있는 전체 인원은 총 3만5175명(직업계고...",
+   "url": "https://www.newspim.com/news/view/20261002000803",
+   "orig": "https://www.newspim.com/news/view/20261002000803",
+   "source": "뉴스핌",
+   "published": "2026-10-02T14:03+09:00",
+   "cat": "law",
+   "id": "10e237d2f12c",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "황희 의원 \"서울교통공사 산재 4년 새 77.6% 급증\"",
+   "summary": "2분기까지 산재 재해자는 45명으로 집계됐으며 이 가운데 1명이 숨졌다. 황 의원은 \"사망사고 이후에도 같은 지적이 되풀이된다면 대책이 없어서가 아니라 시스템이 현장에서 작동하지 않는다는 증거\"라며...",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45270",
+   "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45270",
+   "source": "financialreview.co.kr",
+   "published": "2026-10-02T14:02+09:00",
+   "cat": "law",
+   "id": "4f49a20a7775",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "한국수산자원공단, 수급업체와 산업재해 예방 안전체험 현장실습 교육 ...",
+   "summary": "한국수산자원공단(이사장 김종덕) 남해본부(본부장 안명호)는 지난달 28일 한국산업안전보건공단 여수안전체험교육장에서 수급업체 임직원과 남해본부 직원들이 함께 참여하는 ‘산업재해 예방 안전체험 현장실습 교육’...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001400891?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026100213534812326",
+   "source": "부산일보",
+   "published": "2026-10-02T13:55+09:00",
+   "cat": "tech",
+   "id": "f061b52d1754",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "부천시, ISO 45001 사후심사 '인증유지'…안전보건 관리체계 강화",
+   "summary": "특히 위험성평가를 통해 현장의 유해·위험요인을 발굴·개선하는 등의 활동을 이어온 결과 지난 3분기까지 산업재해가 지난해 같은 기간 대비 75% 감소해 당초 목표인 25%를 넘어섰습니다. 안전보건경영시스템 국제...",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=557108",
+   "orig": "http://news.lghellovision.net/news/articleView.html?idxno=557108",
+   "source": "lghellovision.net",
+   "published": "2026-10-02T13:54+09:00",
+   "cat": "tech",
+   "id": "c65432bdd217",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "정의당 대전시당 \"한화에어로 폭발사고, 경영진 책임 물어야\"",
+   "summary": "정의당 대전시당(위원장 조선기)이 지난 6월 5명의 사망자가 발생한 한화에어로스페이스 대전사업장... 시당은 \"반복되는 중대재해의 책임 소재를 명확히 하고 현장의 위험을 실질적으로 줄이는 대책이 필요하다\"며...",
+   "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=453376",
+   "orig": "https://www.goodmorningcc.com/news/articleView.html?idxno=453376",
+   "source": "goodmorningcc.com",
+   "published": "2026-10-02T13:50+09:00",
+   "cat": "acc",
+   "id": "d56e6539d822",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "하청노동자 손 들어준 법원···\"한화오션, 급식·통근·하청과도 교섭...",
+   "summary": "거통고조선하청지회 이김춘택 부지회장은 <녹색경제신문>에 \"교섭이 이루어지지 않은 218일간 1명의 하청노동자가 온열질환으로 사망하고, 하청노동자 산재 은폐 시도가 발생하는 등 크고 작은 산업재해로 수 많은...",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=351341",
+   "orig": "https://www.greened.kr/news/articleView.html?idxno=351341",
+   "source": "greened.kr",
+   "published": "2026-10-02T13:45+09:00",
+   "cat": "hlt",
+   "id": "a7aa806c5579",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "씨이앤에스, ‘AI 서버 폭발적 발열’ 미스트 정밀 분사로 잡는다",
+   "summary": "또한 국내 위험물안전관리법 및 소방법상 절연유는 제 4류 석유류로 분류되어 한 공간에 최대 6,000L 이상... 초기 스타트업이 자력으로 해결하기 힘든 법무·세무·노무 등 경영 전반의 리스크를 경기센터의 ‘원스톱...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005743157?sid=101",
+   "orig": "https://www.mk.co.kr/article/12167053",
+   "source": "매일경제",
+   "published": "2026-10-02T13:35+09:00",
+   "cat": "acc",
+   "id": "724f7460bb6b",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "부천시, ISO 45001 사후심사 통과… 산업재해 전년 대비 75% 감소",
+   "summary": "ISO 45001은 조직 내 유해·위험요인을 파악하고 위험성평가와 개선 활동을 통해 산업재해를 예방할 수 있도록 안전보건 관리체계에 관한 요구사항을 규정한 국제표준이다. 이번 사후심사는 지난달 16일부터 17일까지...",
+   "url": "https://www.asiatime.co.kr/article/20261002500126",
+   "orig": "https://www.asiatime.co.kr/article/20261002500126",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-02T13:30+09:00",
+   "cat": "tech",
+   "id": "d93095677c4f",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "\"커피 한잔에 안전메시지\"…광주상의, 산재 예방 캠페인",
    "summary": "이번 캠페인은 고용노동부 등의 지원을 받는 융복합 가전산업 고용환경 혁신 패키지 지원사업의 안전워크업 사업 일환이다. 광주상의는 사업장을 직접 찾아 커피차를 활용해 음료를 제공하는 '안전 한 잔(Safety Drink)...",
@@ -209,6 +378,12 @@
      "url": "https://n.news.naver.com/mnews/article/448/0000642695?sid=102",
      "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/02/2026100290079.html",
      "title": "출입국 단속 피해 숨었다 추락사…인권위 \"현장 적발 중심 단속 지양해..."
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003473926?sid=102",
+     "orig": "https://www.khan.co.kr/article/202610021353021",
+     "title": "단속 피하다 추락사한 이주노동자…인권위 “현장 적발 위주 단속 지양..."
     }
    ],
    "day": "2026-10-02",
@@ -301,7 +476,14 @@
    "published": "2026-10-02T11:12+09:00",
    "cat": "tech",
    "id": "2ea975e07f70",
-   "related": [],
+   "related": [
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2002285",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2002285",
+     "title": "한유원, 안전·환경·부패방지 국제표준 인증 3종 동시 취득"
+    }
+   ],
    "day": "2026-10-02",
    "watch": []
   },
@@ -424,6 +606,12 @@
      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=717539",
      "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=717539",
      "title": "부천시, ISO 45001 인증 유지…산업재해 75% 감소"
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202610020050",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202610020050",
+     "title": "부천시, ISO 45001 인증 유지…산업재해 75% 감소"
     }
    ],
    "day": "2026-10-02",
@@ -542,7 +730,14 @@
    "published": "2026-10-02T09:34+09:00",
    "cat": "law",
    "id": "2c9b9a9f03fc",
-   "related": [],
+   "related": [
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021023493820289",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610021023493820289",
+     "title": "박정 의원, 하도급 공사에도 산안비 반영…작업자 위험 우려 시에도 작..."
+    }
+   ],
    "day": "2026-10-02",
    "watch": []
   },
@@ -859,6 +1054,12 @@
      "url": "https://news.skbroadband.com/news/articleView.html?idxno=239293",
      "orig": "https://news.skbroadband.com/news/articleView.html?idxno=239293",
      "title": "서울교통공사 산업 재해자, 5년간 366명"
+    },
+    {
+     "source": "m-economynews.com",
+     "url": "https://www.m-economynews.com/news/article.html?no=71270",
+     "orig": "https://www.m-economynews.com/news/article.html?no=71270",
+     "title": "서울교통공사 5년간 산재 366명·사망 8명…운행 대비 재해 급증"
     }
    ],
    "day": "2026-10-02",
