@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T08:19+09:00",
+ "updatedAt": "2026-10-02T09:24+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,24 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "5f0ab053aaac",
+   "title": "서울교통공사 산업재해자 5년간 366명…사망자 8명 발생",
+   "url": "https://n.news.naver.com/mnews/article/001/0016352276?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-10-02",
+   "count": 3
+  },
+  {
+   "id": "e3d6e6779cd3",
+   "title": "서울관광재단, 안전보건 경영방침 개편… 관람객·시민으로 안전 관리 ...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103123",
+   "source": "discoverynews.kr",
+   "cat": "hlt",
+   "day": "2026-10-02",
+   "count": 2
+  },
+  {
    "id": "01b34b089df6",
    "title": "안전보건공단·ESG학회, '세이프티 ESG' 표준화 나선다",
    "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=86871",
@@ -32,36 +50,133 @@
    "cat": "tech",
    "day": "2026-10-02",
    "count": 2
-  },
-  {
-   "id": "035388213af2",
-   "title": "서울교통공사 산재 매년 증가 ··· \"안전대책 의문\"",
-   "url": "http://news.lghellovision.net/news/articleView.html?idxno=557041",
-   "source": "lghellovision.net",
-   "cat": "law",
-   "day": "2026-10-02",
-   "count": 1
-  },
-  {
-   "id": "4d3e5ad547b5",
-   "title": "지게차 방호장치 설치비용은 안전시설비 항목으로 사용 가능한가?",
-   "url": "https://www.koscaj.com/news/articleView.html?idxno=326770",
-   "source": "대한전문건설신문",
-   "cat": "hlt",
-   "day": "2026-10-02",
-   "count": 1
-  },
-  {
-   "id": "5f0ab053aaac",
-   "title": "서울교통공사 산업재해자 5년간 366명…사망자 8명 발생",
-   "url": "https://n.news.naver.com/mnews/article/001/0016352276?sid=102",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-10-02",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "【데일리 ESG 정책 브리핑】산재 과징금 신설·희토류 공급망 기술개발",
+   "summary": "산재 사망 1년 3명 이상이면 영업이익 5% 이내 과징금 산업안전보건법상 안전·보건조치 의무를 위반해... 고용노동부 장관의 작업중지 명령도 중대재해 발생뿐 아니라 노동자가 사고로 의식불명 상태에 있거나 생사가...",
+   "url": "https://www.impacton.net/news/articleView.html?idxno=30116",
+   "orig": "https://www.impacton.net/news/articleView.html?idxno=30116",
+   "source": "impacton.net",
+   "published": "2026-10-02T09:06+09:00",
+   "cat": "law",
+   "id": "083de5601cac",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "대구·경북 잇단 추락·전도 사고에…노동청, 집중 안전점검",
+   "summary": "떨어져 노동자가 숨졌다. 4월11일 경북 경주시 금속제품 제조사업장에서는 천정크레인 점검을 위해 사다리를 이용하던 중 추락해 사망했다. 이어 7월28일 경북 구미시 공장지붕 교체공사 현장에서는 칼라강판 덧씌우기...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014229084?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261001_0003811261",
+   "source": "뉴시스",
+   "published": "2026-10-02T09:01+09:00",
+   "cat": "acc",
+   "id": "739148355823",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "중대재해 빈발 사업체 과징금, 이제부터 영업이익 최대 5% 부과",
+   "summary": "2일 국회는 지난 1일 산업안전보건법 일부개정법률안이 본회의를 통과했다고 전했다. 본회의를 통과한 개정법률안은 기존 중대재해 처벌 등에 관한 법률에도 불구하고 지속적인 현장 사고가 발생함에 따라 이를 보완하기...",
+   "url": "http://www.engdaily.com/news/articleView.html?idxno=23462",
+   "orig": "http://www.engdaily.com/news/articleView.html?idxno=23462",
+   "source": "engdaily.com",
+   "published": "2026-10-02T09:00+09:00",
+   "cat": "law",
+   "id": "e5db4eefe936",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[속보] 레미콘 바퀴에 깔린 60대 끝내 숨져… 차량 점검 중 리프트 유압...",
+   "summary": "A씨는 해당 업체와 계약을 맺고 일하던 개인사업자로 알려졌다. 이번 사고는 중대재해처벌법과 산업안전보건법 적용 대상은 아닌 것으로 전해졌다. 경찰은 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/081/0003685490?sid=102",
+   "orig": "https://www.seoul.co.kr/news/society/accident/2026/10/02/20261002500024?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-02T08:55+09:00",
+   "cat": "sev",
+   "id": "c5c511e17a7e",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "현장실습생 산재 지난해 30건 '10년 새 최대'…대학생 실습업체는 감독...",
+   "summary": "실제 산업현장에서 적용하고 익히는 중요한 시간\"이라며 \"교육과정의 일환으로 학생들이 현장에 투입되는 만큼 모두 안전하게 실습을 마칠 수 있도록 노동부가 선제적으로 사업장 관리를 강화하고, 안전대책을...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068147",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068147",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-02T08:48+09:00",
+   "cat": "law",
+   "id": "fc00faf18c7e",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "서울관광재단, 관광 현장 안전관리 강화, \"시민·관광객 안전까지 챙긴...",
+   "summary": "2022년 첫 선포 당시에는 안전보건 목표 수립과 산업재해 예방, 관련 법규 준수, 직원 참여 등 근로자 중심의 관리체계에 초점을 맞췄다. 이번에는 기존 방침에 △축제·전시·행사 등 관광사업 전 과정에서 이용객 안전...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476423",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2476423",
+   "source": "이뉴스투데이",
+   "published": "2026-10-02T08:35+09:00",
+   "cat": "hlt",
+   "id": "4005924997fd",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 부산 북항 크레인 97% 내구연한 초과…항만 안전관리 강화 ...",
+   "summary": "사진=의원실 전국 주요 항만에서 사망·중상 사고가 이어지는 가운데 부산 북항의 하역 크레인 대부분이... 여수광양항은 제출 자료상 직접적인 중대재해는 없었지만, 2021년 이후 매년 경상 사고가 발생했다. 강...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321118",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321118",
+   "source": "포인트데일리",
+   "published": "2026-10-02T08:28+09:00",
+   "cat": "law",
+   "id": "7223530e6518",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "리프트로 들어올린 레미콘 차량이 '쿵'…점검하던 60대 깔려 숨져",
+   "summary": "A 씨는 해당 업체와 계약을 맺고 일하던 개인사업자로 확인됐다. 이번 사고는 중대재해처벌법과 산업안전보건법 적용 대상은 아닌 것으로 전해졌다. 경찰은 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009205370?sid=102",
+   "orig": "https://www.news1.kr/local/busan-gyeongnam/6308378",
+   "source": "뉴스1",
+   "published": "2026-10-02T08:25+09:00",
+   "cat": "sev",
+   "id": "946ef851f4c2",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "서울관광재단, 안전보건 경영방침 개편… 관람객·시민으로 안전 관리 ...",
+   "summary": "재해 예방 활동유해위험요인 제거 및 산업재해 예방활동 전개 4. 법규 준수안전보건 관련 법규 및 기타 요구사항 준수 5. 직원 참여전 직원의 안전보건 활동 참여와 협의 6. 이용객 안전 확보 (신설)축제·전시·행사 등...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103123",
+   "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1103123",
+   "source": "discoverynews.kr",
+   "published": "2026-10-02T08:24+09:00",
+   "cat": "hlt",
+   "id": "e3d6e6779cd3",
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009205435?sid=103",
+     "orig": "https://www.news1.kr/industry/hotel-tourism/6308353",
+     "title": "\"시민·외래객 다 잡는다\"…서울관광재단, 안전보건 경영방침 선포"
+    }
+   ],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "서울교통공사 산재 매년 증가 ··· \"안전대책 의문\"",
    "summary": "지난해 연신내역 직원 감전 사망사고 이후에도 전기실 안전장구와 유지관리 인력 등의 문제가시정조치 대상에 포함됐습니다. 황희 의원은 \"사망사고 이후에도 같은 지적이 반복된다면 안전관리 시스템이 현장에서...",
@@ -201,7 +316,20 @@
    "published": "2026-10-02T06:00+09:00",
    "cat": "sev",
    "id": "5f0ab053aaac",
-   "related": [],
+   "related": [
+    {
+     "source": "포인트데일리",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321116",
+     "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321116",
+     "title": "[2026 국감] 서울교통공사 산재 5년간 366명…사망사고 이후에도 안전관..."
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004195063?sid=101",
+     "orig": "https://www.nocutnews.co.kr/news/6586265?utm_source=naver&utm_medium=article&utm_campaign=20261002090721",
+     "title": "서울교통공사, 산재 5년간 366명 이중 8명은 숨져"
+    }
+   ],
    "day": "2026-10-02",
    "watch": []
   },
@@ -1858,6 +1986,12 @@
      "url": "https://www.insight.co.kr/news/576210",
      "orig": "https://www.insight.co.kr/news/576210",
      "title": "연간 3명 이상 산재 사망시 영업익 '최대 5%' 과징금... 산안법 국회 통..."
+    },
+    {
+     "source": "이코노믹리뷰",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=752555",
+     "orig": "https://www.econovill.com/news/articleView.html?idxno=752555",
+     "title": "산재 사망 3명 이상이면 영업익 최대 5% 과징금…산안법 국회 통과"
     }
    ],
    "day": "2026-10-01",
@@ -1954,6 +2088,12 @@
      "url": "http://www.beyondpost.co.kr/view.php?ud=202610012323048033be44c0aacd_30",
      "orig": "http://www.beyondpost.co.kr/view.php?ud=202610012323048033be44c0aacd_30",
      "title": "안전보건공단, 한국ESG학회와 산업안전 특화 ESG 평가 지표 공동 개발"
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=341689",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=341689",
+     "title": "안전보건공단·한국ESG학회, '산업안전 특화 ESG' 확산 맞손"
     }
    ],
    "day": "2026-10-01",
@@ -2046,7 +2186,14 @@
    "published": "2026-10-01T14:40+09:00",
    "cat": "tech",
    "id": "d3244b76d928",
-   "related": [],
+   "related": [
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492112",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492112",
+     "title": "한국가스안전공사, AI로 예방 중심 가스안전관리 강화"
+    }
+   ],
    "day": "2026-10-01",
    "watch": []
   },
@@ -2822,6 +2969,12 @@
      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237036",
      "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237036",
      "title": "'7명 사상' 한화에어로 법 위반 473건 적발"
+    },
+    {
+     "source": "seoulfn.com",
+     "url": "https://www.seoulfn.com/news/articleView.html?idxno=639200",
+     "orig": "https://www.seoulfn.com/news/articleView.html?idxno=639200",
+     "title": "\"동일 폭발사고 반복\"···한화에어로 대전사업장, 법위반 473건 적발"
     }
    ],
    "day": "2026-10-01",
@@ -2902,6 +3055,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122736",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=122736",
      "title": "'7명 사상 폭발사고' 한화에어로스페이스, 법 위반 473건 적발"
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492122",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=492122",
+     "title": "한화에어로, 특별감독서 법 위반 473건…과태료 5억원 부과받아"
     }
    ],
    "day": "2026-10-01",
