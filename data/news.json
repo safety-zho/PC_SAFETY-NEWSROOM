@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T11:16+09:00",
+ "updatedAt": "2026-10-02T12:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,25 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-02",
+   "count": 5
+  },
+  {
+   "id": "f33404ca6141",
+   "title": "단속 피하던 이주노동자 추락사…인권위, 제도 개선 권고",
+   "url": "https://n.news.naver.com/mnews/article/629/0000538993?sid=102",
+   "source": "tf.co.kr",
+   "cat": "acc",
+   "day": "2026-10-02",
    "count": 4
+  },
+  {
+   "id": "9386603046ac",
+   "title": "단속 피하다 숨진 이주노동자…인권위 \"현장적발 중심 단속지양\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016353277?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-10-02",
+   "count": 2
   },
   {
    "id": "e3d6e6779cd3",
@@ -53,6 +71,162 @@
   }
  ],
  "articles": [
+  {
+   "title": "산재 노동자 돕는 근로복지공단…정작 직원 산재 3년 연속 늘었다",
+   "summary": "산업재해보상보험법은 업무상 재해를 업무 수행 중 발생한 '업무상 사고', 업무로 인해 걸린 '업무상 질병', 통상적인 출퇴근 과정에서 발생한 '출퇴근 재해'로 나눈다. 유형별로 보면 업무상 사고가 2023년 19건에서...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009206208?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6308731",
+   "source": "뉴스1",
+   "published": "2026-10-02T12:15+09:00",
+   "cat": "hlt",
+   "id": "74cf044aa195",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "LH 사장 “대출 더 줄여야”…내 집 마련 꿈 더 멀어지는 2030",
+   "summary": "중대재해처벌법 시행 이후 2022~2024년 연간 사망자 3명 이상 기업이 29곳(중복 포함)으로 집계돼, 과징금 부과 대상이 상당 수준에 달할 것이라는 전망이 나온다. 근로자·근로자대표·명예산업안전감독관은 산재...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004667688?sid=101",
+   "orig": "https://www.sedaily.com/article/20097542?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-02T12:13+09:00",
+   "cat": "law",
+   "id": "c7511b192281",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "‘개정 산안법’ 반도체기업에 적용땐 과징금만 30조원",
+   "summary": "산업재해로 연간 3명 이상 사망자가 발생한 기업에 ‘영업이익의 최대 5%’를 과징금으로 부과하는 산업안전보건법 개정안이 1일 국회 본회의를 통과하면서 재계 우려가 커지고 있다. 이미 중대재해처벌법 등 강력한 처벌...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002822808?sid=101",
+   "orig": "https://www.munhwa.com/article/11621139?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-02T12:05+09:00",
+   "cat": "law",
+   "id": "95a61e4fbe30",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "단속 피하던 이주노동자 추락사…인권위, 제도 개선 권고",
+   "summary": "베트남 이주노동자, 출입국 단속 과정서 사망 \"안전관리 강화해야\"…인권위, 법무부에 권고 출입국 단속을 피해 공장에 숨어 있던 이주노동자가 추락해 사망했다. 국가인권위원회(인권위)는 출입국 단속 제도를 개선해...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000538993?sid=102",
+   "orig": "https://news.tf.co.kr/read/life/2372395.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-02T12:00+09:00",
+   "cat": "acc",
+   "id": "f33404ca6141",
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001195873?sid=102",
+     "orig": "https://biz.chosun.com/topics/topics_social/2026/10/02/SBFVTHANRFFEBILGFKYBEXIHAI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "단속 피하다 이주노동자 추락사… 인권위, 법무장관에게 개선 권고"
+    },
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006379545?sid=102",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=03621126645608984&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "단속반 철수 뒤 이주노동자 추락사…인권위, ‘단속 종료 고지’ 권고"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005584263?sid=102",
+     "orig": "https://www.fnnews.com/news/202610020923431989",
+     "title": "\"단속 끝난 줄 몰랐다\"…공장 3층 숨은 이주노동자 추락사, 인권위 제도..."
+    }
+   ],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "단속 피하다 숨진 이주노동자…인권위 \"현장적발 중심 단속지양\"",
+   "summary": "이주여성 노동자 고(故) 뚜안 사망 사건을 조사한 국가인권위원회가 현장 적발 중심의 단속을 지양하고 단속... 대구출입국외국인사무소의 단속을 피해 에어컨 실외기 창고 안쪽에 숨어 있다가 추락한 사건이었다. 지난해...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016353277?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261002083800004?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-02T12:00+09:00",
+   "cat": "sev",
+   "id": "9386603046ac",
+   "related": [
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000642695?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/02/2026100290079.html",
+     "title": "출입국 단속 피해 숨었다 추락사…인권위 \"현장 적발 중심 단속 지양해..."
+    }
+   ],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정안 국회 통과…경총 “영업이익 5% 과징금, 기업 존폐까지 ...",
+   "summary": "연간 3명 이상 산재 사망 시 최대 5% 과징금 경총 “중복·과도한 제재…예방 효과도 의문” 작업중지 요건... 경총은 “최근 수년간 산업안전보건법 전부 개정과 중대재해처벌법 제정 등 사업주 처벌 강화 입법이...",
+   "url": "https://www.asiatime.co.kr/article/20261002500007",
+   "orig": "https://www.asiatime.co.kr/article/20261002500007",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-02T11:52+09:00",
+   "cat": "law",
+   "id": "9d9dd0fcd300",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "연천군시설관리공단, 안전보건경영방침 선포…임직원·고객 보호 강조",
+   "summary": "연천군시설관리공단, 안전보건경영방침 선포... '안전 최우선'.(사진제공.연천군시설관리공단) 연천군시설관리공단은 지난 1일 안전보건경영방침 선포식을 열고, 안전을 경영의 최우선 가치로 삼겠다는 의지를 밝혔다....",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3711539",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3711539",
+   "source": "국제뉴스",
+   "published": "2026-10-02T11:48+09:00",
+   "cat": "tech",
+   "id": "61f2db85333a",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[어바웃 C] 한화에어로 이부환, 김동관의 K-방산 수출 확장 파트너",
+   "summary": "전임 손재일 대표가 올해 6월 대전사업장 폭발 사고로 중대재해처벌법 위반 혐의로 입건 및 출국금지... 같은 사업장에서 2018년, 2019년에 이어 세 번째로 일어난 사고로, 누적 사망자는 13명에 이른다. 고용노동부가 이번...",
+   "url": "https://n.news.naver.com/mnews/article/293/0000091164?sid=101",
+   "orig": "https://www.bloter.net/news/articleView.html?idxno=674915",
+   "source": "블로터",
+   "published": "2026-10-02T11:34+09:00",
+   "cat": "law",
+   "id": "13931e91bf79",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "고용노동부와 발맞춘 광주상공회의소…커피차 타고 안전 메시지 전했다",
+   "summary": "확인하고 보호구를 착용하는 등 안전수칙을 일상에서 실천하는 계기가 되길 바란다”며 “광주상의는 앞으로도 고용노동부와 함께 지역 산업현장에 지속 가능한 안전문화가 정착될 수 있도록 적극 노력하겠다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/011/0004667675?sid=102",
+   "orig": "https://www.sedaily.com/article/20097524?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-02T11:32+09:00",
+   "cat": "law",
+   "id": "7cd5de0e8d26",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "광주상의, 제조기업 근로자 안전문화 확산 캠페인",
+   "summary": "고용노동부와 전남광주통합특별시의 지원을 받아 '안전워크업' 사업 일환으로 마련됐다. 참여기업 사업장을... 안전 핵심 안전수칙' 포스터를 배부했다. 근로자들에게 추락, 끼임, 부딪힘, 화재, 폭발, 질식 등 주요 산업재...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016353064?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261002079500054?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-02T11:15+09:00",
+   "cat": "law",
+   "id": "0804522d44c7",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "한유원, 안전·환경·부패방지 ISO 3종 인증 획득",
    "summary": "한유원은 중소벤처기업인증원으로부터 ISO 45001 안전보건경영시스템과 ISO 14001 환경경영시스템, ISO 37001 부패방지경영시스템 통합 인증을 취득했다고 2일 밝혔다. ISO 45001은 안전사고와 산업재해 예방, 안전한...",
@@ -607,6 +781,12 @@
      "url": "https://www.betanews.net/article/view/beta202610020021",
      "orig": "https://www.betanews.net/article/view/beta202610020021",
      "title": "황희 “서울교통공사 산재 5년간 366명…사망자 8명”"
+    },
+    {
+     "source": "skbroadband.com",
+     "url": "https://news.skbroadband.com/news/articleView.html?idxno=239293",
+     "orig": "https://news.skbroadband.com/news/articleView.html?idxno=239293",
+     "title": "서울교통공사 산업 재해자, 5년간 366명"
     }
    ],
    "day": "2026-10-02",
@@ -2416,6 +2596,12 @@
      "url": "https://www.gasnews.com/news/articleView.html?idxno=127041",
      "orig": "https://www.gasnews.com/news/articleView.html?idxno=127041",
      "title": "안전보건공단, 한국ESG학회와 '세이프티 ESG' 협력"
+    },
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261002023551661",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261002023551661",
+     "title": "안전보건공단, 한국ESG학회와 산업안전 특화 평가 지표 만든다"
     }
    ],
    "day": "2026-10-01",
