@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-02T09:24+09:00",
+ "updatedAt": "2026-10-02T10:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-02",
-   "count": 3
+   "count": 4
   },
   {
    "id": "e3d6e6779cd3",
@@ -53,6 +53,162 @@
   }
  ],
  "articles": [
+  {
+   "title": "부천시 산업재해 1년 새 75% 줄었다…ISO 45001 인증도 유지",
+   "summary": "ISO 45001은 사업장 내 유해·위험요인을 체계적으로 파악하고 위험성평가와 개선 활동 등을 통해 산업재해를 예방할 수 있도록 안전보건 관리체계에 대한 기준을 정한 국제표준이다. 이번 사후심사는 지난달 16~17일...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068181",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5068181",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-02T10:14+09:00",
+   "cat": "tech",
+   "id": "6879ac274e4a",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "인천 부평구, ‘2027 업무보고회’ 개최…‘산업재해 예방 교육 실시",
+   "summary": "이번 교육은 공공부문 산업재해를 예방하고 현장 대응 역량을 높이기 위해 마련됐다. 특히 최근 맨홀 등 밀폐공간 작업에서 질식사고 위험이 높아짐에 따라 사고 예방과 안전관리를 강화하고자 지난 8월 고용노동부와...",
+   "url": "http://www.metroseoul.co.kr/article/20261001500587",
+   "orig": "http://www.metroseoul.co.kr/article/20261001500587",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-02T10:12+09:00",
+   "cat": "tech",
+   "id": "91a9042493e5",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "산재 여부 불분명해도 깎였던 장애·유족연금…전액 우선 지급하도록 개...",
+   "summary": "사유로 사망한 경우 유족에게 지급된다. 국민연금 중복급여 조정은 이들 산재급여와 국민연금 장애·유족연금의 지급 사유가 같은 경우를 대상으로 한다. 다만 이번 조치는 국민권익위의 제도개선 권고 단계다. 구체적인...",
+   "url": "https://idsn.co.kr/news/view/1065574463160852",
+   "orig": "https://idsn.co.kr/news/view/1065574463160852",
+   "source": "idsn.co.kr",
+   "published": "2026-10-02T10:02+09:00",
+   "cat": "sev",
+   "id": "8d0cdfd83b98",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "중부발전, '2026년 제3차 안전동행 소통회의' 개최…현장 안전관리 강화",
+   "summary": "한국중부발전이 현장 중심의 안전경영 체계를 강화하기 위해 본사와 사업소, 협력기업 간 안전보건 현안을... 안전산업박람회' 참여 중소기업 우수제품 설명회 등이 다뤄졌다. 특히 중부발전은 AI 기술을 활용한 안전관리...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=301669",
+   "orig": "https://www.widedaily.com/news/articleView.html?idxno=301669",
+   "source": "widedaily.com",
+   "published": "2026-10-02T10:00+09:00",
+   "cat": "tech",
+   "id": "d71ded754414",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "중부발전, 3분기 '안전동행 소통회의'…AI 안전관리 고도화 논의",
+   "summary": "이번 회의는 'Make KOMIPO(중부발전) Safer Together'라는 슬로건 아래 본사와 사업소, 협력기업이 안전보건... 안전산업박람회 참여 중소기업 우수제품 설명회 등이 진행됐다. 자발적 안전 문화 조성을 위해 추진한...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009205625?sid=101",
+   "orig": "https://www.news1.kr/economy/trend/6308581",
+   "source": "뉴스1",
+   "published": "2026-10-02T09:47+09:00",
+   "cat": "tech",
+   "id": "3e27b9c03fae",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "중부발전, 현장 중심 안전경영 강화… AI 안전관리·협력기업 상생까지",
+   "summary": "산업현장의 위험요인이 복잡·다변화하는 가운데 AI 등 디지털 기술을 활용해 위험요인을 보다 체계적으로... 이를 통해 현장의 잠재 위험요인을 발굴·개선하고 안전보건 관련 소통체계를 강화해 나간다는 방침이다.",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203767",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203767",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-02T09:46+09:00",
+   "cat": "tech",
+   "id": "923595bc7f1d",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "현대카드, 무한경쟁 강요하는 '성과주의'… 협업은 붕괴 위기",
+   "summary": "산재 신청 역시 신청 자체와 업무상 질병 인정은 구분할 필요가 있다. 따라서 현재 단계에서 쟁점은 특정 질환의 원인을 회사의 성과주의에서 찾는 것이 아니라 건강 이상 사례가 제기되고 있는 상황에서 회사가 업무량과...",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=100472",
+   "orig": "https://www.upkoreanews.kr/news/articleView.html?idxno=100472",
+   "source": "upkoreanews.kr",
+   "published": "2026-10-02T09:46+09:00",
+   "cat": "acc",
+   "id": "f7147f4be0e2",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[종국적 산재 가이드] 퇴행성 질환과 산재",
+   "summary": "즉, 업무로 인해 동 나이에 비해 많은 악화의 소견이라면 직업병, 업무상 질병으로 인정받아 요양급여, 휴업급여 및 장해급여 등을 수령할 수 있다. 나이가 많다는 이유로, 퇴행성이라는 이유로 산재를 망설이기 보다는...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=749754",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=749754",
+   "source": "프라임경제",
+   "published": "2026-10-02T09:44+09:00",
+   "cat": "hlt",
+   "id": "466f35a8d99d",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "[단독] 발전5사 하청노동자 산재 160건인데…업무상 질병은 4사가 '0건'",
+   "summary": "2일 발전5사가 박수민 국민의힘 의원실에 제출한 자료를 보면 회사별 사고성 산재는 남동발전 49건, 서부발전 35건, 남부발전 34건, 중부발전 32건, 동서발전 10건이었다. 사망자는 중부발전 2명, 서부발전 1명이다....",
+   "url": "https://n.news.naver.com/mnews/article/015/0005338481?sid=100",
+   "orig": "https://www.hankyung.com/article/202610029505i",
+   "source": "한국경제",
+   "published": "2026-10-02T09:41+09:00",
+   "cat": "hlt",
+   "id": "14e7a3aa751d",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "하도급 공사에도 산안비 반영…위험 우려 시 작업중지 가능해졌다",
+   "summary": "2일 국회 기후에너지환경노동위원회 소속 박정 의원에 따르면, 산업재해 예방과 현장 안전관리 강화를 위해 대표발의한 산업안전보건법 개정안 2건이 국회 본회의를 통과했다. 개정안은 우선 건설공사 하도급 계약을...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52108",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52108",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-02T09:34+09:00",
+   "cat": "law",
+   "id": "2c9b9a9f03fc",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "한국중부발전, 안전관리 '무결점 현장' 구축 박차",
+   "summary": "안전보건 현안을 공유하고 개선 방안을 도출하는 데 집중했다. 주요 안건으로는 AI 기반 안전관리 고도화... 참석자들은 건설기계 사고 사례를 바탕으로 구체적인 안전대책을 토의하는 한편, 2026년 안전산업박람회에...",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278096",
+   "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278096",
+   "source": "businesskorea.co.kr",
+   "published": "2026-10-02T09:26+09:00",
+   "cat": "hlt",
+   "id": "1695e16839ea",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
+  {
+   "title": "서울관광재단, 빛초롱은 반짝 안전점검은 깐깐 [PS]",
+   "summary": "2022년 처음 선포한 방침은 안전보건 목표 수립과 산업재해 예방, 관련 법규 준수, 직원 참여 등 근로자 중심의 관리체계에 초점을 맞췄다. 새 경영방침에는 ▲축제·전시·행사 등 관광사업 모든 운영 과정에서 이용객 안전...",
+   "url": "https://n.news.naver.com/mnews/article/382/0001296898?sid=103",
+   "orig": "https://sports.donga.com/life/article/all/20261002/134773472/1",
+   "source": "동아일보",
+   "published": "2026-10-02T09:26+09:00",
+   "cat": "hlt",
+   "id": "3a839ed0ebcb",
+   "related": [],
+   "day": "2026-10-02",
+   "watch": []
+  },
   {
    "title": "【데일리 ESG 정책 브리핑】산재 과징금 신설·희토류 공급망 기술개발",
    "summary": "산재 사망 1년 3명 이상이면 영업이익 5% 이내 과징금 산업안전보건법상 안전·보건조치 의무를 위반해... 고용노동부 장관의 작업중지 명령도 중대재해 발생뿐 아니라 노동자가 사고로 의식불명 상태에 있거나 생사가...",
@@ -328,6 +484,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004195063?sid=101",
      "orig": "https://www.nocutnews.co.kr/news/6586265?utm_source=naver&utm_medium=article&utm_campaign=20261002090721",
      "title": "서울교통공사, 산재 5년간 366명 이중 8명은 숨져"
+    },
+    {
+     "source": "betanews.net",
+     "url": "https://www.betanews.net/article/view/beta202610020021",
+     "orig": "https://www.betanews.net/article/view/beta202610020021",
+     "title": "황희 “서울교통공사 산재 5년간 366명…사망자 8명”"
     }
    ],
    "day": "2026-10-02",
@@ -1992,6 +2154,18 @@
      "url": "https://www.econovill.com/news/articleView.html?idxno=752555",
      "orig": "https://www.econovill.com/news/articleView.html?idxno=752555",
      "title": "산재 사망 3명 이상이면 영업익 최대 5% 과징금…산안법 국회 통과"
+    },
+    {
+     "source": "startuptoday.co.kr",
+     "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814823",
+     "orig": "https://www.startuptoday.co.kr/news/articleView.html?idxno=814823",
+     "title": "[이슈] 산재 사망 연 3명 땐 '영업이익 5%' 과징금…산안법 개정안 국회..."
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246191",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246191",
+     "title": "산재 사망 3명 넘으면 '영업익 5% 과징금'"
     }
    ],
    "day": "2026-10-01",
@@ -2094,6 +2268,12 @@
      "url": "http://www.ikld.kr/news/articleView.html?idxno=341689",
      "orig": "http://www.ikld.kr/news/articleView.html?idxno=341689",
      "title": "안전보건공단·한국ESG학회, '산업안전 특화 ESG' 확산 맞손"
+    },
+    {
+     "source": "가스신문",
+     "url": "https://www.gasnews.com/news/articleView.html?idxno=127041",
+     "orig": "https://www.gasnews.com/news/articleView.html?idxno=127041",
+     "title": "안전보건공단, 한국ESG학회와 '세이프티 ESG' 협력"
     }
    ],
    "day": "2026-10-01",
@@ -2257,6 +2437,12 @@
      "url": "https://www.cstimes.com/news/articleView.html?idxno=722713",
      "orig": "https://www.cstimes.com/news/articleView.html?idxno=722713",
      "title": "박경국 한국가스안전공사 사장 \"AI로 '예방 중심 지능형 가스안전관리'..."
+    },
+    {
+     "source": "가스신문",
+     "url": "https://www.gasnews.com/news/articleView.html?idxno=127043",
+     "orig": "https://www.gasnews.com/news/articleView.html?idxno=127043",
+     "title": "가스안전공사, AI로 '예방 중심 지능형 안전관리' 속도"
     }
    ],
    "day": "2026-10-01",
