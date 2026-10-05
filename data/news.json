@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T15:26+09:00",
+ "updatedAt": "2026-10-05T16:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "매일신문",
    "cat": "hlt",
    "day": "2026-10-05",
-   "count": 2
+   "count": 3
+  },
+  {
+   "id": "65a5cba91776",
+   "title": "[이번주 관전포인트]사흘 장에 국감 3연전…집값, 전세대출 답 나올까",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=106902",
+   "source": "newskr.kr",
+   "cat": "law",
+   "day": "2026-10-05",
+   "count": 1
   },
   {
    "id": "30a2fa3f95f2",
@@ -39,15 +48,6 @@
    "url": "https://www.g-enews.com/view.php?ud=20261002091329641235e857d010_1",
    "source": "글로벌이코노믹",
    "cat": "tech",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "aec178770109",
-   "title": "'아침에 우유'에 안전 메시지⋯천안지청·남양유업 안전문화 확산 맞손",
-   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868200",
-   "source": "동양일보",
-   "cat": "law",
    "day": "2026-10-05",
    "count": 1
   },
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "[이번주 관전포인트]사흘 장에 국감 3연전…집값, 전세대출 답 나올까",
+   "summary": "산업안전보건법 개정으로 한 해 3명 이상 사망한 기업에 영업이익 최대 5% 과징금이 가능해졌다. 벌금 이슈만이 아니다. 도급 공사비에 들어가는 안전관리비가 오른다는 뜻이어서 실제 민간기업에서 어떤 해명을...",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=106902",
+   "orig": "http://www.newskr.kr/news/articleView.html?idxno=106902",
+   "source": "newskr.kr",
+   "published": "2026-10-05T15:56+09:00",
+   "cat": "law",
+   "id": "65a5cba91776",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "[정상민의 프롭테크'썰'] 중대재해 리스크 시대, 기업이 놓치고 있는 것",
    "summary": "중대재해처벌법상 책임 논의는 민간기업에만 해당하지 않는다. 최근 부산 지역에서 자활근로 참여자가 사망한 사고와 관련해 지자체의 관리 책임 여부가 검토되는 등, 지방자치단체와 공공기관 역시 안전관리 체계를 다시...",
@@ -216,6 +229,12 @@
      "url": "https://www.newsgn.com/news/articleView.html?idxno=577486",
      "orig": "https://www.newsgn.com/news/articleView.html?idxno=577486",
      "title": "헷갈리는 산업재해 발생 보고 '4컷 만화'로 쉽게 알린다"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004195689?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6587128?utm_source=naver&utm_medium=article&utm_campaign=20261005040500",
+     "title": "경남교육청, '4컷 만화' 활용 산업재해 발생 보고 이해 돕는다"
     }
    ],
    "day": "2026-10-05",
@@ -499,6 +518,12 @@
      "url": "https://www.inews365.com/news/article.html?no=938066",
      "orig": "https://www.inews365.com/news/article.html?no=938066",
      "title": "충주 자동차부품 공장서 40대 근로자 사망"
+    },
+    {
+     "source": "중부매일",
+     "url": "https://www.jbnews.com/news/articleView.html?idxno=1512845",
+     "orig": "https://www.jbnews.com/news/articleView.html?idxno=1512845",
+     "title": "충주 자동차부품 공장서 40대 근로자 기계 끼여 숨져"
     }
    ],
    "day": "2026-10-04",
