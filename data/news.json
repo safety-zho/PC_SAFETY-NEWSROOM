@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T11:17+09:00",
+ "updatedAt": "2026-10-05T12:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "0014789d3293",
-   "title": "영천시, 중대재해 예방 통합관리시스템 10월부터 운영",
-   "url": "https://www.hidomin.com/news/articleView.html?idxno=723596",
-   "source": "경북도민일보",
+   "id": "721af32182eb",
+   "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
+   "url": "https://www.ekn.kr/web/view.php?key=20261005028222296",
+   "source": "에너지경제",
+   "cat": "tech",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "bc8e35e9a28b",
+   "title": "서산시, 현업근로자 안전보건교육 실시",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930487",
+   "source": "cctimes.kr",
    "cat": "hlt",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "e4b85651d295",
+   "title": "지난해 10·20대 청년 현장실습생 산재 신청 30건…‘역대 최대’",
+   "url": "https://n.news.naver.com/mnews/article/002/0002459551?sid=102",
+   "source": "프레시안",
+   "cat": "law",
    "day": "2026-10-05",
    "count": 1
   },
@@ -39,24 +57,6 @@
    "url": "https://www.viva100.com/article/20261005500202",
    "source": "브릿지경제",
    "cat": "sev",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "b8b1ac548004",
-   "title": "[단독] 중대재해 28% '사고 난 원청'서 또…동일 유형도 반복",
-   "url": "https://n.news.naver.com/mnews/article/422/0000912572?sid=102",
-   "source": "yonhapnewstv.co.kr",
-   "cat": "law",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "d2fab3bf9eb5",
-   "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
-   "url": "https://dealsite.co.kr/articles/170090",
-   "source": "dealsite.co.kr",
-   "cat": "tech",
    "day": "2026-10-05",
    "count": 1
   },
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
+   "summary": "한편 경복대 산업안전보건학과는 국민 생명과 건강을 보호하는 현장 맞춤형 산업안전-산업보건 전문가 양성을 목표로 운영되고 있으며, AI 및 데이터 기반의 위험 예측-사전예방 중심 교육과정을 지속 확장해 나가고...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261005028222296",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261005028222296",
+   "source": "에너지경제",
+   "published": "2026-10-05T12:14+09:00",
+   "cat": "tech",
+   "id": "721af32182eb",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "[포토뉴스]안전보건공단 강원동부지사 ‘안전문화 확산 캠페인’",
+   "summary": "안전보건공단 강원동부지사(지사장:이상회)는 지난 2일 ‘정선아리랑제’ 현장에서 영월·평창·정선 지역 안전문화실천추진단과 함께 ‘안전문화 확산 캠페인’을 펼쳤다.",
+   "url": "https://n.news.naver.com/mnews/article/087/0001221930?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261005500410",
+   "source": "강원일보",
+   "published": "2026-10-05T12:03+09:00",
+   "cat": "tech",
+   "id": "ea2267cae0bc",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "서산시, 현업근로자 안전보건교육 실시",
+   "summary": "안전보건교육을 실시했다고 밝혔다. 이번 교육은 미화, 도로관리, 산림녹지 등 겨울철 야외작업이 많은 현업근로자들의 안전의식을 높이고, 한랭질환을 예방하기 위해 마련됐다. 교육은 한국산업안전원 김지수 강사를...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930487",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=930487",
+   "source": "cctimes.kr",
+   "published": "2026-10-05T11:56+09:00",
+   "cat": "hlt",
+   "id": "bc8e35e9a28b",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "지난해 10·20대 청년 현장실습생 산재 신청 30건…‘역대 최대’",
+   "summary": "베임, 골절, 화상 등…김주영 의원 “청년 산재 안전대책 촘촘히 설계해야” 지난해 현장실습생 산업재해... 실제 고용노동부 현장실습생산업체 점검·감독 결과에 따르면 다수의 법 위반 사항이 확인되기도 했다....",
+   "url": "https://n.news.naver.com/mnews/article/002/0002459551?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026100511381559843?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-05T11:39+09:00",
+   "cat": "law",
+   "id": "e4b85651d295",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "[박근종 칼럼] 산재 처벌에도 '최대 5% 과징금', 중처법 이어 산안법까...",
+   "summary": "사후적 형벌과 경제적 채찍질만으로는 복잡다단(複雜多端)한 산업 현장의 사망사고를 획기적으로 줄일 수 없다는 사실은 「중대재해 처벌 등에 관한 법률」 시행 이후 유의미한 재해율 감소가 없었다는 국책...",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=762757",
+   "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=762757",
+   "source": "더쎈뉴스",
+   "published": "2026-10-05T11:32+09:00",
+   "cat": "law",
+   "id": "2c06991df37d",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "영천시, 중대재해 예방 통합관리시스템 10월부터 운영",
    "summary": "특히 중대재해처벌법과 산업안전보건법 등 관련 법령에서 요구하는 안전보건 확보 의무사항을 시스템을 통해 지속적이고 체계적으로 관리할 수 있도록 한 것이 특징이다. 또한 안전보건 관련 자료와 이행 결과 등을...",
