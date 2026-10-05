@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T13:19+09:00",
+ "updatedAt": "2026-10-05T14:24+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,19 +25,28 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "ec076556db6e",
-   "title": "경남교육청, 헷갈리는 산업재해! '4컷 만화'로 이해 끝!",
-   "url": "https://n.news.naver.com/mnews/article/088/0001032267?sid=102",
-   "source": "매일신문",
+   "id": "699770b79266",
+   "title": "지연·고장·산재까지 겹쳤다…서울지하철, ‘안전 경고등’",
+   "url": "https://n.news.naver.com/mnews/article/029/0003051435?sid=102",
+   "source": "디지털타임스",
    "cat": "hlt",
    "day": "2026-10-05",
    "count": 1
   },
   {
-   "id": "721af32182eb",
-   "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
-   "url": "https://www.ekn.kr/web/view.php?key=20261005028222296",
-   "source": "에너지경제",
+   "id": "a7df4552c817",
+   "title": "최근 5년6개월 뇌심혈관질환 산재 사망, 한달간 36명 세상 떠나",
+   "url": "https://n.news.naver.com/mnews/article/662/0000105568?sid=102",
+   "source": "nongmin.com",
+   "cat": "sev",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "d5785c940380",
+   "title": "민주당 충주시지역위 민주노총 충주·음성지부와 간담회 개최",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930555",
+   "source": "cctimes.kr",
    "cat": "tech",
    "day": "2026-10-05",
    "count": 1
@@ -52,15 +61,6 @@
    "count": 1
   },
   {
-   "id": "f33707e76bfa",
-   "title": "현대성우캐스팅, 충주 사업장에서 노동자 사망 중대재해 발생",
-   "url": "https://www.viva100.com/article/20261005500202",
-   "source": "브릿지경제",
-   "cat": "sev",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
    "id": "7f086318992c",
    "title": "씨이앤에스, ‘AI 서버 폭발적 발열’ 미스트 정밀 분사로 잡는다",
    "url": "https://n.news.naver.com/mnews/article/009/0005743914?sid=101",
@@ -71,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "지연·고장·산재까지 겹쳤다…서울지하철, ‘안전 경고등’",
+   "summary": "잇따른 사망 사고로 얼룩지고 있는 것으로 나타났다. 비용 절감이라는 명목 아래 땜질식 처방이... 사망사고 이후에도 유사한 안전관리 부실 지적이 반복되는 만큼 대책을 마련하는 데 그치지 않고 현장에서...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003051435?sid=102",
+   "orig": "https://www.dt.co.kr/article/12087406?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-05T14:20+09:00",
+   "cat": "hlt",
+   "id": "699770b79266",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "최근 5년6개월 뇌심혈관질환 산재 사망, 한달간 36명 세상 떠나",
+   "summary": "질병으로 인한 산업재해 사망자 중 뇌출혈이나 심부전 같은 같은 뇌심혈관질환에 따른 사망자가 한달에 36명꼴로 발생한 것으로 나타났다. 5일 국회 기후에너지환경노동위원회 소속 국민의힘 이헌승 의원(부산...",
+   "url": "https://n.news.naver.com/mnews/article/662/0000105568?sid=102",
+   "orig": "https://www.nongmin.com/article/20261005500031",
+   "source": "nongmin.com",
+   "published": "2026-10-05T14:16+09:00",
+   "cat": "sev",
+   "id": "a7df4552c817",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "민주당 충주시지역위 민주노총 충주·음성지부와 간담회 개최",
+   "summary": "민주노총은 이번 간담회에서 노동기본권을 바탕으로 한 노동정책 수립과 산업재해 예방 및 노동자 안전보건 강화, 노동정책 수립 과정에서의 노동단체 참여 확대 등을 주요 과제로 제시했다. 또한 △응급·소아·분만 등...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930555",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=930555",
+   "source": "cctimes.kr",
+   "published": "2026-10-05T13:34+09:00",
+   "cat": "tech",
+   "id": "d5785c940380",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "경남교육청, 헷갈리는 산업재해! '4컷 만화'로 이해 끝!",
    "summary": "교육청은 산업안전보건 업무 담당자뿐 아니라 학교(기관)의 모든 교직원이 이 자료를 활용할 수 있도록 안내할 예정이다. 양미 안전총괄과장은 \"산업재해 발생 보고는 정확한 기준을 이해하고 제때 처리하는 것이...",
@@ -356,6 +395,12 @@
      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2444530",
      "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2444530",
      "title": "충주 자동차 부품 공장서 끼임 사고…1명 사망"
+    },
+    {
+     "source": "충북일보",
+     "url": "https://www.inews365.com/news/article.html?no=938066",
+     "orig": "https://www.inews365.com/news/article.html?no=938066",
+     "title": "충주 자동차부품 공장서 40대 근로자 사망"
     }
    ],
    "day": "2026-10-04",
