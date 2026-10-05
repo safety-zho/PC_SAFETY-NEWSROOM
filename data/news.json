@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T12:19+09:00",
+ "updatedAt": "2026-10-05T13:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,20 +25,20 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "ec076556db6e",
+   "title": "경남교육청, 헷갈리는 산업재해! '4컷 만화'로 이해 끝!",
+   "url": "https://n.news.naver.com/mnews/article/088/0001032267?sid=102",
+   "source": "매일신문",
+   "cat": "hlt",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
    "id": "721af32182eb",
    "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
    "url": "https://www.ekn.kr/web/view.php?key=20261005028222296",
    "source": "에너지경제",
    "cat": "tech",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "bc8e35e9a28b",
-   "title": "서산시, 현업근로자 안전보건교육 실시",
-   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930487",
-   "source": "cctimes.kr",
-   "cat": "hlt",
    "day": "2026-10-05",
    "count": 1
   },
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "경남교육청, 헷갈리는 산업재해! '4컷 만화'로 이해 끝!",
+   "summary": "교육청은 산업안전보건 업무 담당자뿐 아니라 학교(기관)의 모든 교직원이 이 자료를 활용할 수 있도록 안내할 예정이다. 양미 안전총괄과장은 \"산업재해 발생 보고는 정확한 기준을 이해하고 제때 처리하는 것이...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001032267?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026100509581508395",
+   "source": "매일신문",
+   "published": "2026-10-05T12:30+09:00",
+   "cat": "hlt",
+   "id": "ec076556db6e",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
    "summary": "한편 경복대 산업안전보건학과는 국민 생명과 건강을 보호하는 현장 맞춤형 산업안전-산업보건 전문가 양성을 목표로 운영되고 있으며, AI 및 데이터 기반의 위험 예측-사전예방 중심 교육과정을 지속 확장해 나가고...",
