@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T10:18+09:00",
+ "updatedAt": "2026-10-05T11:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "0014789d3293",
+   "title": "영천시, 중대재해 예방 통합관리시스템 10월부터 운영",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=723596",
+   "source": "경북도민일보",
+   "cat": "hlt",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
    "id": "f33707e76bfa",
    "title": "현대성우캐스팅, 충주 사업장에서 노동자 사망 중대재해 발생",
    "url": "https://www.viva100.com/article/20261005500202",
@@ -39,15 +48,6 @@
    "url": "https://n.news.naver.com/mnews/article/422/0000912572?sid=102",
    "source": "yonhapnewstv.co.kr",
    "cat": "law",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "d7431c3e562e",
-   "title": "진보당 충북도당, SK하이닉스 청주공장 \"노동자 건강 실태 점검 부족\"",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713140",
-   "source": "국제뉴스",
-   "cat": "hlt",
    "day": "2026-10-05",
    "count": 1
   },
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "영천시, 중대재해 예방 통합관리시스템 10월부터 운영",
+   "summary": "특히 중대재해처벌법과 산업안전보건법 등 관련 법령에서 요구하는 안전보건 확보 의무사항을 시스템을 통해 지속적이고 체계적으로 관리할 수 있도록 한 것이 특징이다. 또한 안전보건 관련 자료와 이행 결과 등을...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=723596",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=723596",
+   "source": "경북도민일보",
+   "published": "2026-10-05T10:30+09:00",
+   "cat": "hlt",
+   "id": "0014789d3293",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "현대성우캐스팅, 충주 사업장에서 노동자 사망 중대재해 발생",
    "summary": "5일 고용노동부에 따르면 충주시에 있는 현대성우캐스팅 사업장에서 노동자(남성, 45세, 수급인 소속)가 사망하는 중대재해가 발생했다. 이 재해자는 지난 4일 오전 10시 54분경(신고 기준) 자동차부품 제조 공장에서 원통형...",
