@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T16:21+09:00",
+ "updatedAt": "2026-10-05T17:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,20 +34,20 @@
    "count": 3
   },
   {
-   "id": "65a5cba91776",
-   "title": "[이번주 관전포인트]사흘 장에 국감 3연전…집값, 전세대출 답 나올까",
-   "url": "http://www.newskr.kr/news/articleView.html?idxno=106902",
-   "source": "newskr.kr",
-   "cat": "law",
+   "id": "721af32182eb",
+   "title": "경복대 산업안전보건과, 두산건설 부사장 초청특강 개최",
+   "url": "https://www.ekn.kr/web/view.php?key=20261005028222296",
+   "source": "에너지경제",
+   "cat": "tech",
    "day": "2026-10-05",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "30a2fa3f95f2",
-   "title": "[정상민의 프롭테크'썰'] 중대재해 리스크 시대, 기업이 놓치고 있는 것",
-   "url": "https://www.g-enews.com/view.php?ud=20261002091329641235e857d010_1",
-   "source": "글로벌이코노믹",
-   "cat": "tech",
+   "id": "8a1b1fccb353",
+   "title": "[미리 보는 국감] 노란봉투법 시행 이후 첫 국감…원청교섭·산재·체불...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001033",
+   "source": "아시아투데이",
+   "cat": "law",
    "day": "2026-10-05",
    "count": 1
   },
@@ -71,6 +71,32 @@
   }
  ],
  "articles": [
+  {
+   "title": "[미리 보는 국감] 노란봉투법 시행 이후 첫 국감…원청교섭·산재·체불...",
+   "summary": "그러나 제조업 사망자는 대형 화재·폭발 사고 등의 영향으로 25명, 37.3% 늘어난 92명을 기록했다. 주요 산재 사고와 관련한 기업인 출석 요구도 이어질 것으로 예상돼 기업의 안전관리 책임과 재발 방지 대책이 도마에...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001033",
+   "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001033",
+   "source": "아시아투데이",
+   "published": "2026-10-05T16:54+09:00",
+   "cat": "law",
+   "id": "8a1b1fccb353",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "[특수 건강진단] 직업병 ‘유해인자 예측’부터 추적 검사까지",
+   "summary": "건강보험 가입 성인을 대상으로 하는 것이 일반 건강검진이라면 직업병 노출 위험이 있는 근로자들이 받는... ■일반 검진 vs 특수 건강진단 특정 직업에 종사하는 동안 발생하는 질병을 직업병이라고 한다. 시끄러운 소리...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001401171?sid=103",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026100516421156315",
+   "source": "부산일보",
+   "published": "2026-10-05T16:54+09:00",
+   "cat": "hlt",
+   "id": "d847f965d8aa",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "[이번주 관전포인트]사흘 장에 국감 3연전…집값, 전세대출 답 나올까",
    "summary": "산업안전보건법 개정으로 한 해 3명 이상 사망한 기업에 영업이익 최대 5% 과징금이 가능해졌다. 벌금 이슈만이 아니다. 도급 공사비에 들어가는 안전관리비가 오른다는 뜻이어서 실제 민간기업에서 어떤 해명을...",
@@ -249,7 +275,14 @@
    "published": "2026-10-05T12:14+09:00",
    "cat": "tech",
    "id": "721af32182eb",
-   "related": [],
+   "related": [
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=722913",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=722913",
+     "title": "경복대 산업안전보건학과, 두산건설 이강홍 부사장 초청…스마트 안전..."
+    }
+   ],
    "day": "2026-10-05",
    "watch": []
   },
