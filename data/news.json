@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T14:24+09:00",
+ "updatedAt": "2026-10-05T15:26+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "699770b79266",
-   "title": "지연·고장·산재까지 겹쳤다…서울지하철, ‘안전 경고등’",
-   "url": "https://n.news.naver.com/mnews/article/029/0003051435?sid=102",
-   "source": "디지털타임스",
+   "id": "ec076556db6e",
+   "title": "경남교육청, 헷갈리는 산업재해! '4컷 만화'로 이해 끝!",
+   "url": "https://n.news.naver.com/mnews/article/088/0001032267?sid=102",
+   "source": "매일신문",
    "cat": "hlt",
+   "day": "2026-10-05",
+   "count": 2
+  },
+  {
+   "id": "30a2fa3f95f2",
+   "title": "[정상민의 프롭테크'썰'] 중대재해 리스크 시대, 기업이 놓치고 있는 것",
+   "url": "https://www.g-enews.com/view.php?ud=20261002091329641235e857d010_1",
+   "source": "글로벌이코노믹",
+   "cat": "tech",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "aec178770109",
+   "title": "'아침에 우유'에 안전 메시지⋯천안지청·남양유업 안전문화 확산 맞손",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868200",
+   "source": "동양일보",
+   "cat": "law",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "1c44e12925a7",
+   "title": "개천절 연휴 충청권 사건·사고 속출…수학여행 버스 추돌에 근로자 사...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868237",
+   "source": "동양일보",
+   "cat": "acc",
    "day": "2026-10-05",
    "count": 1
   },
@@ -41,36 +68,100 @@
    "cat": "sev",
    "day": "2026-10-05",
    "count": 1
-  },
-  {
-   "id": "d5785c940380",
-   "title": "민주당 충주시지역위 민주노총 충주·음성지부와 간담회 개최",
-   "url": "http://www.cctimes.kr/news/articleView.html?idxno=930555",
-   "source": "cctimes.kr",
-   "cat": "tech",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "e4b85651d295",
-   "title": "지난해 10·20대 청년 현장실습생 산재 신청 30건…‘역대 최대’",
-   "url": "https://n.news.naver.com/mnews/article/002/0002459551?sid=102",
-   "source": "프레시안",
-   "cat": "law",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "7f086318992c",
-   "title": "씨이앤에스, ‘AI 서버 폭발적 발열’ 미스트 정밀 분사로 잡는다",
-   "url": "https://n.news.naver.com/mnews/article/009/0005743914?sid=101",
-   "source": "매일경제",
-   "cat": "acc",
-   "day": "2026-10-05",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[정상민의 프롭테크'썰'] 중대재해 리스크 시대, 기업이 놓치고 있는 것",
+   "summary": "중대재해처벌법상 책임 논의는 민간기업에만 해당하지 않는다. 최근 부산 지역에서 자활근로 참여자가 사망한 사고와 관련해 지자체의 관리 책임 여부가 검토되는 등, 지방자치단체와 공공기관 역시 안전관리 체계를 다시...",
+   "url": "https://www.g-enews.com/view.php?ud=20261002091329641235e857d010_1",
+   "orig": "https://www.g-enews.com/view.php?ud=20261002091329641235e857d010_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-05T15:12+09:00",
+   "cat": "tech",
+   "id": "30a2fa3f95f2",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "울산대병원, 지역 사업장 근로자 건강증진 협력체계 강화",
+   "summary": "이는 기존 산업보건에서 나아가 근로자의 건강과 삶의 질을 종합적으로 관리하는 방향이다. 울산대병원은 이번 세미나를 계기로 지역 사업장과의 소통과 협력을 확대하고, 근로자 건강증진을 위한 전문적인 의료서비스와...",
+   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1068735",
+   "orig": "https://www.iusm.co.kr/news/articleView.html?idxno=1068735",
+   "source": "울산매일",
+   "published": "2026-10-05T15:06+09:00",
+   "cat": "hlt",
+   "id": "d3ce8fef05ba",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "'아침에 우유'에 안전 메시지⋯천안지청·남양유업 안전문화 확산 맞손",
+   "summary": "고용노동부 천안지청(지청장 전준현)와 남양유업(주) 천안신공장은 지난 2일 한국산업안전보건공단 충남지역본부, 남양유업 천안신공장과 안전문화 확산을 위한 업무협약을 했다. 협약에 따라 남양유업 천안신공장은 대표...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868200",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=868200",
+   "source": "동양일보",
+   "published": "2026-10-05T14:57+09:00",
+   "cat": "law",
+   "id": "aec178770109",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "개천절 연휴 충청권 사건·사고 속출…수학여행 버스 추돌에 근로자 사...",
+   "summary": "고용노동부도 해당 공장에 작업중지 명령을 내리고 중대재해처벌법 위반 여부 등을 조사할 예정이다. 같은날 오전 10시께 영동군 용산면의 한 산에서 50대 A씨가 벌에 쏘였다. 신고를 받고 출동한 소방당국은 벌에 약...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868237",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=868237",
+   "source": "동양일보",
+   "published": "2026-10-05T14:56+09:00",
+   "cat": "acc",
+   "id": "1c44e12925a7",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "가을빛 물든 시화호·거북섬 달렸다…제12회 시흥전국하프마라톤대회 ‘...",
+   "summary": "“내 일터 안전하게”… 안산시흥 안전문화실천추진단, 밀착형 캠페인 펼쳐 ○…고용노동부와 안전보건공... 노동 안전 슬로건이 적힌 물품을 전하며 생활 속 안전 실천을 독려. 정세영 안전보건공단 과장은 “산업재해...",
+   "url": "https://www.kyeonggi.com/article/20261005580089",
+   "orig": "https://www.kyeonggi.com/article/20261005580089",
+   "source": "kyeonggi.com",
+   "published": "2026-10-05T14:50+09:00",
+   "cat": "law",
+   "id": "2465f66f1116",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 청주지청, 10월 현장 집중 점검주간 운영",
+   "summary": "오는 6~16일 안전보호구 지급·착용 및 사다리 안전수칙 준수 집중점검 ［충북일보］ 고용노동부 청주지청... 사다리 안전수칙' 준수 여부다. 산업안전보건공단과 함께 불시·집중 점검을 실시해 적발된 법 위반사항에...",
+   "url": "https://www.inews365.com/news/article.html?no=938152",
+   "orig": "https://www.inews365.com/news/article.html?no=938152",
+   "source": "충북일보",
+   "published": "2026-10-05T14:24+09:00",
+   "cat": "law",
+   "id": "01f292b74060",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "[경남교육청 소식] 기록원 '꼬마 탐험대' 호응-산업재해 '4컷 만화' 배포",
+   "summary": "자료에는 △사고·산재 판단 △휴업 일수 판단 △특수한 근무 상황 △'산업재해조사표' 제출 실무 등 4개 분야 23개 사례가 그림으로 표현돼 있다. '산업재해조사표'는 사망 사고는 물론 3일 이상의 휴업이 필요한 환자가...",
+   "url": "https://www.kpinews.kr/newsView/1065587744109308",
+   "orig": "https://www.kpinews.kr/newsView/1065587744109308",
+   "source": "KPI뉴스",
+   "published": "2026-10-05T14:23+09:00",
+   "cat": "tech",
+   "id": "71ef7d99e99b",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "지연·고장·산재까지 겹쳤다…서울지하철, ‘안전 경고등’",
    "summary": "잇따른 사망 사고로 얼룩지고 있는 것으로 나타났다. 비용 절감이라는 명목 아래 땜질식 처방이... 사망사고 이후에도 유사한 안전관리 부실 지적이 반복되는 만큼 대책을 마련하는 데 그치지 않고 현장에서...",
@@ -119,7 +210,14 @@
    "published": "2026-10-05T12:30+09:00",
    "cat": "hlt",
    "id": "ec076556db6e",
-   "related": [],
+   "related": [
+    {
+     "source": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=577486",
+     "orig": "https://www.newsgn.com/news/articleView.html?idxno=577486",
+     "title": "헷갈리는 산업재해 발생 보고 '4컷 만화'로 쉽게 알린다"
+    }
+   ],
    "day": "2026-10-05",
    "watch": []
   },
