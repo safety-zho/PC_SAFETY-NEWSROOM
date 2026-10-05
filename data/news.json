@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T08:19+09:00",
+ "updatedAt": "2026-10-05T09:25+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,20 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "b8b1ac548004",
+   "title": "[단독] 중대재해 28% '사고 난 원청'서 또…동일 유형도 반복",
+   "url": "https://n.news.naver.com/mnews/article/422/0000912572?sid=102",
+   "source": "yonhapnewstv.co.kr",
+   "cat": "law",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "d7431c3e562e",
+   "title": "진보당 충북도당, SK하이닉스 청주공장 \"노동자 건강 실태 점검 부족\"",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713140",
+   "source": "국제뉴스",
+   "cat": "hlt",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
+   "id": "d2fab3bf9eb5",
+   "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
+   "url": "https://dealsite.co.kr/articles/170090",
+   "source": "dealsite.co.kr",
+   "cat": "tech",
+   "day": "2026-10-05",
+   "count": 1
+  },
+  {
    "id": "7f086318992c",
    "title": "씨이앤에스, ‘AI 서버 폭발적 발열’ 미스트 정밀 분사로 잡는다",
    "url": "https://n.news.naver.com/mnews/article/009/0005743914?sid=101",
    "source": "매일경제",
    "cat": "acc",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "1e812a21cfd2",
-   "title": "'일기본법' 연내 입법 추진…\"강행규정·구제절차도 설계해야\"",
-   "url": "https://n.news.naver.com/mnews/article/003/0014233323?sid=102",
-   "source": "뉴시스",
-   "cat": "law",
    "day": "2026-10-05",
    "count": 1
   },
@@ -53,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "[단독] 중대재해 28% '사고 난 원청'서 또…동일 유형도 반복",
+   "summary": "또 대형 사고가 벌어지거나 산업재해가 반복되는 기업에는 과징금을 영업이익의 최대 5%까지 부과할 수 있도록 한 산업안전보건법 개정안도 지난 1일 국회 문턱을 넘었습니다. '사후 약방문'조차 되지 못하는 현실을...",
+   "url": "https://n.news.naver.com/mnews/article/422/0000912572?sid=102",
+   "orig": "http://www.yonhapnewstv.co.kr/news/MYH20261005091815Che",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-10-05T09:19+09:00",
+   "cat": "law",
+   "id": "b8b1ac548004",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "진보당 충북도당, SK하이닉스 청주공장 \"노동자 건강 실태 점검 부족\"",
+   "summary": "진보당 충북도당은 ▲클린룸 화학물질 정보 전면 공개 및 노동자 알 권리 보장 ▲산재 입증책임 완화와 추정의 원칙 확대 ▲충북도의 반도체 노동자 건강실태조사 즉각 실시와 결과 공개 등 세 가지를 요구했다. 진보당...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713140",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3713140",
+   "source": "국제뉴스",
+   "published": "2026-10-05T08:50+09:00",
+   "cat": "hlt",
+   "id": "d7431c3e562e",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "사제파트너스 산업안전 가디언AI 투자…박은수 마수걸이",
+   "summary": "가디언AI는 산업안전 인공지능(AI)·로보틱스 스타트업…사제 조직개편 후 3호 블라인드펀드로 43억 투자 실리콘밸리 기반 벤처캐피탈(VC) 사제파트너스가 산업안전 인공지능(AI)·로보틱스 스타트업 가디언에이아이...",
+   "url": "https://dealsite.co.kr/articles/170090",
+   "orig": "https://dealsite.co.kr/articles/170090",
+   "source": "dealsite.co.kr",
+   "published": "2026-10-05T08:36+09:00",
+   "cat": "tech",
+   "id": "d2fab3bf9eb5",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "씨이앤에스, ‘AI 서버 폭발적 발열’ 미스트 정밀 분사로 잡는다",
    "summary": "또한 국내 위험물안전관리법 및 소방법상 절연유는 제 4류 석유류로 분류되어 한 공간에 최대 6,000L 이상... 초기 스타트업이 자력으로 해결하기 힘든 법무·세무·노무 등 경영 전반의 리스크를 경기센터의 ‘원스톱...",
