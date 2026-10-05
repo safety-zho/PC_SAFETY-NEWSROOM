@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-05T17:20+09:00",
+ "updatedAt": "2026-10-05T18:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "매일신문",
    "cat": "hlt",
    "day": "2026-10-05",
-   "count": 3
+   "count": 4
+  },
+  {
+   "id": "01f292b74060",
+   "title": "고용노동부 청주지청, 10월 현장 집중 점검주간 운영",
+   "url": "https://www.inews365.com/news/article.html?no=938152",
+   "source": "충북일보",
+   "cat": "law",
+   "day": "2026-10-05",
+   "count": 2
   },
   {
    "id": "721af32182eb",
@@ -41,36 +50,100 @@
    "cat": "tech",
    "day": "2026-10-05",
    "count": 2
-  },
-  {
-   "id": "8a1b1fccb353",
-   "title": "[미리 보는 국감] 노란봉투법 시행 이후 첫 국감…원청교섭·산재·체불...",
-   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261005010001033",
-   "source": "아시아투데이",
-   "cat": "law",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "1c44e12925a7",
-   "title": "개천절 연휴 충청권 사건·사고 속출…수학여행 버스 추돌에 근로자 사...",
-   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868237",
-   "source": "동양일보",
-   "cat": "acc",
-   "day": "2026-10-05",
-   "count": 1
-  },
-  {
-   "id": "a7df4552c817",
-   "title": "최근 5년6개월 뇌심혈관질환 산재 사망, 한달간 36명 세상 떠나",
-   "url": "https://n.news.naver.com/mnews/article/662/0000105568?sid=102",
-   "source": "nongmin.com",
-   "cat": "sev",
-   "day": "2026-10-05",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[참사의 재구성에서 내일의 안전으로] ② 안전대책 쏟아졌지만 또 붕괴...",
+   "summary": "관리·감독은 제대로 작동했는지가 반복해서 쟁점이 됐다. 학동 참사 이후 제도와 현장점검이 강화됐음에도... 광주지검은 지난 7월 시공사와 하청업체, 감리단 관계자 등 11명과 법인 4곳을 업무상과실치사와 산업안전보건...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=925256",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=925256",
+   "source": "남도일보",
+   "published": "2026-10-05T18:12+09:00",
+   "cat": "sev",
+   "id": "3d8631c22945",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "김태선 의원 대표발의 '산업안전 개정안 3건' 본회의 통과",
+   "summary": "더불어민주당 김태선(울산 동구) 국회의원이 대표발의한 산업안전보건법 개정안 3건이 지난 1일 국회 본회의를 통과했다고 5일 밝혔다. 이번 법 개정으로 노동자가 위험한 작업을 중단하고 대피할 수 있는 범위가 넓어지고...",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=393050",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=393050",
+   "source": "ujeil.com",
+   "published": "2026-10-05T18:10+09:00",
+   "cat": "law",
+   "id": "3843f6b9ba5c",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "울산 국회의원 6人, 지역현안 챙기며 '국감戰' 본격 활동",
+   "summary": "두 의원은 6일 기후에너지환경부 감사를 시작으로 13일 고용노동부, 23일 근로복지공단·한국산업안전보건공단·한국산업인력공단 등 소관 기관을 감사한다. 이어 26일과 27일에는 기후에너지환경부와 고용노동부 등을...",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=393055",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=393055",
+   "source": "ujeil.com",
+   "published": "2026-10-05T18:10+09:00",
+   "cat": "law",
+   "id": "12115a86fd07",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "울산대병원, 보건·안전관리자 초청 '지역 사업장 건강증진 세미나' 성...",
+   "summary": "이번 세미나는 울산지역 사업장 보건·안전관리자 60여명을 초청해 산업수도 울산의 사업장과 근로자 건강증진을 위해 사업장 건강관리의 최신 흐름과 현장에서 활용할 수 있는 실질적인 방안을 공유하고, 의료기관과...",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=393064",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=393064",
+   "source": "ujeil.com",
+   "published": "2026-10-05T18:10+09:00",
+   "cat": "hlt",
+   "id": "afc0651c0eef",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "성서산단 이주노동자 사망 조사한 인권위, 출입국 단속 개선 권고",
+   "summary": "단속을 피해 공장에 숨어있던 뚜안씨는 약 3시간 동안 공장 내부에 숨어 있다가 건물 3층 높이에서 추락해 숨졌다. 이에 뚜안씨의 부친은 뚜안씨의 사망이 단속 행위로 인한 생명권 침해이며, 외국인 노동자들에게 수갑을...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086284",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086284",
+   "source": "경북일보",
+   "published": "2026-10-05T17:48+09:00",
+   "cat": "sev",
+   "id": "a02a5dae86a7",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "“위험하면 멈춰라” 넓어진 작업중지권…현장선 누가, 어디까지 판단하...",
+   "summary": "중대재해가 발생한 경우뿐 아니라 노동자가 사고로 부상해 의식불명 상태에 있거나 생사가 분명하지 않은... 산업재해로 사망한 경우 영업이익의 5% 이내에서 과징금을 부과하는 내용도 담겼다. 작업중지 범위 확대와...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610051723422550462",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610051723422550462",
+   "source": "대한경제",
+   "published": "2026-10-05T17:40+09:00",
+   "cat": "law",
+   "id": "b2b6d4766532",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
+  {
+   "title": "택배도, 공장도 아니었다…과로사 259명 나온 '뜻밖의 업종'",
+   "summary": "5일 국민의힘 이헌승 의원이 고용노동부와 근로복지공단에서 제출받은 자료에 따르면 2021년부터 올해 6월까지 뇌경색·뇌출혈·심근경색·심부전 등 뇌심혈관질환으로 인한 질병 산재 사망자는 모두 2350명이었다....",
+   "url": "https://n.news.naver.com/mnews/article/015/0005339211?sid=102",
+   "orig": "https://www.hankyung.com/article/202610053583i",
+   "source": "한국경제",
+   "published": "2026-10-05T17:19+09:00",
+   "cat": "law",
+   "id": "99c85b93c999",
+   "related": [],
+   "day": "2026-10-05",
+   "watch": []
+  },
   {
    "title": "[미리 보는 국감] 노란봉투법 시행 이후 첫 국감…원청교섭·산재·체불...",
    "summary": "그러나 제조업 사망자는 대형 화재·폭발 사고 등의 영향으로 25명, 37.3% 늘어난 92명을 기록했다. 주요 산재 사고와 관련한 기업인 출석 요구도 이어질 것으로 예상돼 기업의 안전관리 책임과 재발 방지 대책이 도마에...",
@@ -184,7 +257,14 @@
    "published": "2026-10-05T14:24+09:00",
    "cat": "law",
    "id": "01f292b74060",
-   "related": [],
+   "related": [
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103267",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103267",
+     "title": "청주고용지청, 10월 집중 점검주간 운영"
+    }
+   ],
    "day": "2026-10-05",
    "watch": []
   },
@@ -261,6 +341,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004195689?sid=102",
      "orig": "https://www.nocutnews.co.kr/news/6587128?utm_source=naver&utm_medium=article&utm_campaign=20261005040500",
      "title": "경남교육청, '4컷 만화' 활용 산업재해 발생 보고 이해 돕는다"
+    },
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=491623",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=491623",
+     "title": "경남교육청, 헷갈리는 산업재해 발생 보고 '4컷 만화'로 쉽게 알린다"
     }
    ],
    "day": "2026-10-05",
