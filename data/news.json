@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T09:26+09:00",
+ "updatedAt": "2026-10-06T10:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,46 +31,252 @@
    "source": "babytimes.co.kr",
    "cat": "tech",
    "day": "2026-10-06",
-   "count": 5
+   "count": 6
   },
   {
-   "id": "314cea799625",
-   "title": "남양유업 천안공장, 고용노동부·산안공과 안전문화 업무협약 체결",
-   "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=3799",
-   "source": "newsmap.co.kr",
-   "cat": "law",
+   "id": "2a7dfd8fcea0",
+   "title": "원주시, 건설기계안전관리원 본원 유치 '청신호'",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477079",
+   "source": "이뉴스투데이",
+   "cat": "tech",
    "day": "2026-10-06",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "bfdb7113eff6",
-   "title": "영천시, 통합관리시스템 운영 시작...분산됐던 안전보건 업무 한곳에",
-   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1412052",
-   "source": "한국아이닷컴",
-   "cat": "hlt",
+   "id": "8e9fd01225ff",
+   "title": "일상 속 산업재해 예방…남양유업 천안공장, 우유 105만봉에 '안전 메시...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=301701",
+   "source": "widedaily.com",
+   "cat": "tech",
    "day": "2026-10-06",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "6b319da59d2f",
-   "title": "[기자수첩] 산재 사망 3명보다 '영업익 5%' 먼저였나",
-   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246215",
-   "source": "세이프타임즈",
-   "cat": "sev",
+   "id": "cd4ad743e9fb",
+   "title": "[유통갤러리] CJ제일제당 자사몰 ‘CJ더마켓’ 공식 마스코트 공개 外",
+   "url": "https://theviewers.co.kr/View.aspx?No=4252592",
+   "source": "theviewers.co.kr",
+   "cat": "tech",
    "day": "2026-10-06",
-   "count": 1
-  },
-  {
-   "id": "ff818a405ef6",
-   "title": "[직장 돋보기 분석] 한국동서발전, 울산화력 붕괴사고 최종 조사결과 주...",
-   "url": "https://www.news2day.co.kr/article/20260910500222",
-   "source": "뉴스투데이",
-   "cat": "acc",
-   "day": "2026-10-06",
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "미등록 이주노동자 배제 논란…전남광주시, 지원 조례안 수정",
+   "summary": "농어촌과 산업현장의 현실을 외면하고 인권 사각지대를 만들 수 있다며 조례안 재검토를 요구했다. 시는... 함께 정비된 외국인주민 지원 조례안에도 보건의료 지원사업의 하나로 외국인주민 무료진료소 운영을...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016358911?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261006057300054?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-06T10:11+09:00",
+   "cat": "hlt",
+   "id": "ccbe142228c7",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "건설사 국감 줄소환…현대·대우 본부장 확정·포스코 CEO 소환 공방",
+   "summary": "의원실에 따르면 포스코이앤씨에서는 2022년부터 올해까지 산업재해 재해자 589명과 중대재해 10건이 발생했다. 특히 신안산선 공사에서는 광명 터널 붕괴와 여의도 철근 구조물 붕괴, 관악구 추락사고 등 사망사고가...",
+   "url": "https://www.asiatime.co.kr/article/20261006500042",
+   "orig": "https://www.asiatime.co.kr/article/20261006500042",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-06T10:10+09:00",
+   "cat": "law",
+   "id": "4566ae15328b",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "국회·검찰 등 출신 26명 쿠팡행... 이직 후 보수도 2배 넘게 뛰어",
+   "summary": "이 같은 인력 이동은 쿠팡을 둘러싼 각종 규제와 노동안전 논란이 이어진 시기와 겹친다. 공정거래위원회는... 발생했다.고용노동부도 국회 청문회에서 제기된 쿠팡의 산업재해 은폐 및 불법파견 의혹 등을 조사하기...",
+   "url": "https://vop.co.kr/A00001697005.html",
+   "orig": "https://vop.co.kr/A00001697005.html",
+   "source": "vop.co.kr",
+   "published": "2026-10-06T10:10+09:00",
+   "cat": "law",
+   "id": "3e549415b91f",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "원주시, 건설기계안전관리원 본원 유치 '청신호'",
+   "summary": "및 경영진과 간담회를 열고 이전 방안을 논의해 왔다. 또 정부의 '빠르게 이전하는 기관에 대한 지원 강화' 원칙이 적용될 경우 이전 논의에 속도가 붙을 것으로 기대한다. 1997년 설립된 대한건설기계안전관리원은...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477079",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477079",
+   "source": "이뉴스투데이",
+   "published": "2026-10-06T10:09+09:00",
+   "cat": "tech",
+   "id": "2a7dfd8fcea0",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016358924?sid=101",
+     "orig": "https://www.yna.co.kr/view/AKR20261006059000062?input=1195m",
+     "title": "원주시·건설기계안전관리원 노조, 본원 원주 이전 협약"
+    }
+   ],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "노무법인 이산, 부산진해경제자유구역청과 'BJ-INVESTIA' 구축 민관협력...",
+   "summary": "한편, 노무법인 이산은 산재보상·인사·노무·산업안전 등 분야별 4개 전문 센터와 1개의 전문 연구소를 구축하고 있다. 지난 15일 고용노동부가 주관하는 ‘2026 대한민국 일자리 으뜸기업’에 선정된 바 있다.",
+   "url": "https://n.news.naver.com/mnews/article/015/0005339438?sid=101",
+   "orig": "https://www.hankyung.com/article/202610029972O",
+   "source": "한국경제",
+   "published": "2026-10-06T10:01+09:00",
+   "cat": "law",
+   "id": "d720265f0877",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "오뚜기, 로봇에 숨진 하청 노동자 앞에서 \"정상 작동\"만 되풀이",
+   "summary": "경찰과 고용노동부는 중대재해처벌법과 산업안전보건법 위반 여부를 조사하고 있다. 이와 관련 라이센스뉴스는 오뚜기에 △안전 방호장치, △작업 방식, △안전교육, △안전관리자 상주, △경영책임자의 의무 이행...",
+   "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209221",
+   "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=209221",
+   "source": "lcnews.co.kr",
+   "published": "2026-10-06T10:00+09:00",
+   "cat": "sev",
+   "id": "5c7666a50a86",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "중증장애인 생산품 한자리에…105개 생산시설 제품·서비스 선보여",
+   "summary": "서울의료원(6.07%), 경기 수원시(4.57%), 한국산업안전보건공단(4.01%)도 최우수 기관에 선정됐다. 우수상은 우선구매 실적이 크게 개선된 국립박물관문화재단과 동북아역사재단, 5년 이상 의무구매 비율을 초과 달성한...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009210924?sid=105",
+   "orig": "https://www.news1.kr/bio/welfare-medical/6310810",
+   "source": "뉴스1",
+   "published": "2026-10-06T10:00+09:00",
+   "cat": "tech",
+   "id": "5c01c92beef2",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "서천군, 도급·용역·위탁 담당자 안전보건교육 실시",
+   "summary": "이번 교육은 '중대재해 처벌 등에 관한 법률'과 '산업안전보건법'에 따른 도급·용역·위탁 업무의 안전보건 의무를 담당자들이 정확히 이해하고, 사업 발주와 관리 과정에서 필요한 안전관리 역량을 높이기 위해 마련됐다....",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913131",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913131",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-06T10:00+09:00",
+   "cat": "hlt",
+   "id": "676d45537166",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "복지부, 6∼7일 서울 aT센터서 중증장애인생산품 박람회",
+   "summary": "2025년도 실적을 기준으로 우선구매 실적 비율과 금액이 높은 한국사회복지협의회(5억700만원, 8.05%), 서울특별시 서울의료원(7억400만원, 6.07%), 경기도 수원시(97억2천만원, 4.57%), 한국산업안전보건공단(17억2천만원, 4.01...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016358863?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261002165500530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-06T10:00+09:00",
+   "cat": "tech",
+   "id": "4beca044f219",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "중증장애인이 만든 커피·전자제품 체험해보세요",
+   "summary": "2025년도 실적을 기준으로 중증장애인생산품 우선구매 실적 비율 및 금액이 우수한 한국사회복지협의회(8.05%), 서울특별시서울의료원(6.07%), 경기도 수원시(4.57%), 한국산업안전보건공단(4.01%)이 최우수상을 수상한다....",
+   "url": "https://n.news.naver.com/mnews/article/003/0014234677?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261006_0003814968",
+   "source": "뉴시스",
+   "published": "2026-10-06T10:00+09:00",
+   "cat": "tech",
+   "id": "3f2815d9e5bf",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감이슈] 장인화 포스코그룹 회장, 포스코이앤씨 반복 사고에 국...",
+   "summary": "5년간 산업재해 재해자는 589명, 중대재해는 10건으로 집계됐다. 여러 현장에서 추락 관련 유사 위험도 반복된 것으로 나타났다. 대통령의 질책 이후 포스코그룹은 회장 직속 안전특별진단TF를 구성했지만, 정 의원은...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137417",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137417",
+   "source": "newslock.co.kr",
+   "published": "2026-10-06T09:58+09:00",
+   "cat": "acc",
+   "id": "ca0c37e20dbc",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 반복되는 중대재해…정일영 의원 \"장인화 포스코 회장, 직접...",
+   "summary": "이 기간 중대재해는 10건 발생했으며, 여러 건설현장에서 추락과 관련한 유사한 위험이 반복된 것으로... 포스코이앤씨에 대한 증인 신청 사유로는 신안산선 공사현장 사망사고와 송도국제도시 개발 문제가 제시됐다....",
+   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50691",
+   "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50691",
+   "source": "1conomynews.co.kr",
+   "published": "2026-10-06T09:56+09:00",
+   "cat": "law",
+   "id": "3f0fe53d2d10",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "동부산농협, 중대재해 예방·사후 대비 강화…안전 책임경영 실천",
+   "summary": "NH농협손해보험 부산총국(총국장 강향림)은 지난 1일 동부산농협(조합장 송수호)에서 중대재해배상책임보험 신규 가입 기념행사를 열고 '경영안전 실천 농축협' 현판을 전달했다. 이번 행사는 동부산농협을 비롯한 지역...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329285",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329285",
+   "source": "aflnews.co.kr",
+   "published": "2026-10-06T09:44+09:00",
+   "cat": "tech",
+   "id": "0366c24b751e",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "과로사 최다는 '아파트 경비업'인데 … 與 국감 과제는 '새벽배송' 정조...",
+   "summary": "이헌승 국민의힘 의원실이 고용노동부로부터 제출받은 자료에 따르면 2021년부터 올해 상반기까지 뇌심혈관질환으로 인한 질병 산재 사망자는 2350명이었다. 해당 기간 뇌심혈관질환으로 인한 질병 산재 사망자가 가장...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600047.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/06/2026100600047.html",
+   "source": "뉴데일리",
+   "published": "2026-10-06T09:30+09:00",
+   "cat": "law",
+   "id": "c68935f14904",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "우유 포장에 '일터 안전'…남양유업, 105만봉으로 안전문화 알린다",
+   "summary": "천안공장을 중심으로 고용노동부·한국산업안전보건공단과 협력해 제품 유통망과 지역 사업장을 활용한 안전문화 캠페인을 추진한다. 남양유업 천안공장은 지난 2일 충남 천안신공장에서 고용노동부 천안지청...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302032",
+   "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=302032",
+   "source": "newsquest.co.kr",
+   "published": "2026-10-06T09:26+09:00",
+   "cat": "tech",
+   "id": "ed3cfeb573e5",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "'과징금 부과' 산안법 개정안… \"일자리 박탈, 포퓰리즘\", \"극히 일부기...",
+   "summary": "안전·보건조치 의무 위반으로 1년간 3명 이상의 노동자가 산업재해로 사망한 기업(사업주)에 영업이익의 5... 발생한 중대재해로 인해 당장 등록말소 대상이다. 만약 이 회사가 간판을 내리고 문을 닫는다면 당장 오늘 땀...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250864",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250864",
+   "source": "안전신문",
+   "published": "2026-10-06T09:24+09:00",
+   "cat": "law",
+   "id": "444fbc840def",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
   {
    "title": "남양유업 천안공장, 고용노동부·산안공과 안전문화 업무협약 체결",
    "summary": "남양유업은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 산업재해 예방 및 안전문화 확산을 위한 업무협약을 체결했다고 6일 밝혔다. 이번 협약식은 2일 충남 천안시 남양유업 천안신공장에서...",
@@ -93,7 +299,14 @@
    "published": "2026-10-06T09:16+09:00",
    "cat": "tech",
    "id": "8e9fd01225ff",
-   "related": [],
+   "related": [
+    {
+     "source": "newskr.kr",
+     "url": "http://www.newskr.kr/news/articleView.html?idxno=106914",
+     "orig": "http://www.newskr.kr/news/articleView.html?idxno=106914",
+     "title": "남양유업, 우유팩에 안전 슬로건.. 우유 105만 봉에 안전 메시지 새겨"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -106,7 +319,14 @@
    "published": "2026-10-06T09:12+09:00",
    "cat": "tech",
    "id": "cd4ad743e9fb",
-   "related": [],
+   "related": [
+    {
+     "source": "dealsitetv.com",
+     "url": "https://news.dealsitetv.com/articles/176659",
+     "orig": "https://news.dealsitetv.com/articles/176659",
+     "title": "[유통24시] CJ더마켓, 공식 마스코트 공개…이름 짓기 이벤트 外"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -234,6 +454,12 @@
      "url": "https://n.news.naver.com/mnews/article/016/0002705656?sid=101",
      "orig": "https://biz.heraldcorp.com/article/10893660?ref=naver",
      "title": "남양유업 천안공장, 우유 패키지에 ‘안전 슬로건’ 담는다"
+    },
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=134981",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=134981",
+     "title": "남양유업, 우유 패키지에 안전 메시지 담는다...\"일상 속 안전문화 확산..."
     }
    ],
    "day": "2026-10-06",
