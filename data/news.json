@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T13:18+09:00",
+ "updatedAt": "2026-10-06T14:16+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "babytimes.co.kr",
    "cat": "tech",
    "day": "2026-10-06",
-   "count": 8
+   "count": 9
+  },
+  {
+   "id": "2a7dfd8fcea0",
+   "title": "원주시, 건설기계안전관리원 본원 유치 '청신호'",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477079",
+   "source": "이뉴스투데이",
+   "cat": "tech",
+   "day": "2026-10-06",
+   "count": 5
   },
   {
    "id": "85a8e661c113",
@@ -59,18 +68,113 @@
    "cat": "tech",
    "day": "2026-10-06",
    "count": 4
-  },
-  {
-   "id": "13a9c87d131a",
-   "title": "남양유업, 매일 마시는 우유팩에 '안전 메시지' 담는다",
-   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=136710",
-   "source": "e-science.co.kr",
-   "cat": "tech",
-   "day": "2026-10-06",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "숫자에 가려진 산재 승인의 역설",
+   "summary": "근로자 규모와 재해의 유형·경중, 중대·사망재해 여부, 집계 시점과 산재 처리 방식에 따라 승인 건수의 의미는 달라질 수 있다. 반대로 승인건수가 적다고 실제 업무상 재해가 반드시 적다고 볼 수도 없다.",
+   "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=62817",
+   "orig": "https://www.the-pr.co.kr/news/articleView.html?idxno=62817",
+   "source": "the-pr.co.kr",
+   "published": "2026-10-06T14:12+09:00",
+   "cat": "law",
+   "id": "35125a308cb4",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "고법 \"한화에 2019년 폭발 사고 지체상금 중 26억 돌려줘야\"",
+   "summary": "측이 산업재해 예방 조치를 다하지 못해 발생해 원고의 책임이 있다\"고 판단했다. 이어 \"사고 이후 1달 동안 진행된 특별 감독에서는 안전 및 보건 조치 위반사항이 114건이나 적발됐다\"며 \"다만 한화 측이 지체상금...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014235780?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261006_0003815633",
+   "source": "뉴시스",
+   "published": "2026-10-06T14:09+09:00",
+   "cat": "acc",
+   "id": "40d142c9ece2",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "산재 사망 반복하면 영업익 5% 과징금…건설사 부담 커진다",
+   "summary": "산안법 개정안 국회 통과…안전관리 부담·재무 부담 확대 우려 1년간 3명 이상 사망 시 영업이익 5%내 과징금... 한 건설업계 관계자는 \"중대재해가 잇따르고 있는 만큼 정부의 안전규제 강화 취지는 공감한다\"면서도...",
+   "url": "https://www.asiatime.co.kr/article/20261006500130",
+   "orig": "https://www.asiatime.co.kr/article/20261006500130",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-06T13:54+09:00",
+   "cat": "sev",
+   "id": "6ba10fb3103d",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감이슈] HL만도·쿠팡 등 기업 책임자 국감 증인 불발...정혜경...",
+   "summary": "정혜경 의원은 노동부 감독에서 법 위반 138건이 적발됐고 이 가운데 125건이 원청과 관련된 사항이었다고 설명했다. 산업안전보건위원회 역시 수년간 제대로 운영되지 않았다고 지적했다. 리노공업과 관련해서는...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137450",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137450",
+   "source": "newslock.co.kr",
+   "published": "2026-10-06T13:50+09:00",
+   "cat": "law",
+   "id": "42f65bc74f31",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정안 국회 통과… 경영계 \"과도\", 노동계 \"특고 제외\"",
+   "summary": "연합뉴스 산업재해 사망사고에 과징금을 물리고 작업중지권을 넓힌 산업안전보건법 개정안이 국회를... 589명, 중대재해 10건이 발생했다고 밝혔다. 정 의원은 \"대통령까지 강하게 질책했는데 사고는 반복되고, 정부가...",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=351469",
+   "orig": "https://www.greened.kr/news/articleView.html?idxno=351469",
+   "source": "greened.kr",
+   "published": "2026-10-06T13:43+09:00",
+   "cat": "law",
+   "id": "b96cffd5f087",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "이 정도면 '천하무적'…불꽃·한파·칼날까지 막는 워크웨어",
+   "summary": "가을철에는 산업현장에서 작업이 늘어나는 만큼 사고 예방도 중요하다. 고용노동부는 지난 9월 달비계 작업 중 추락 사망사고가 잇따르자 안전수칙 준수를 당부했다. 달비계는 건물 외벽 등에 설치한 로프에 작업용...",
+   "url": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80342",
+   "orig": "http://www.mkhealth.co.kr/news/articleView.html?idxno=80342",
+   "source": "mkhealth.co.kr",
+   "published": "2026-10-06T13:40+09:00",
+   "cat": "law",
+   "id": "e126fc7c660e",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "남원시, 직접일자리 참여자 대상 산업재해 예방교육 실시",
+   "summary": "교육에서는 산업안전보건법의 기본적인 이해와 현장별 주요 위험요인, 예방·대처 방안, 산업재해 사고 사례 및 예방수칙 등을 다뤘다. 사고나 응급상황 발생 시 근로자가 현장에서 대응할 수 있도록 비상상황 대응요령을...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069034",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069034",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-06T13:32+09:00",
+   "cat": "tech",
+   "id": "2e40d3171178",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "현대성우캐스팅, 중대재해로 작업중지…싼타페·팰리세이드 등 부품 차...",
+   "summary": "해당 노동자는 병원으로 이송됐으나 사망했다. 고용노동부는 사고 직후 충주고용노동지청 중대재해수사과·산재예방감독과와 한국산업안전보건공단을 투입해 사고 원인 조사에 착수했다. 중대재해 발생에 따라 관련...",
+   "url": "https://www.asiatime.co.kr/article/20261006500235",
+   "orig": "https://www.asiatime.co.kr/article/20261006500235",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-06T13:24+09:00",
+   "cat": "law",
+   "id": "f2ddf47dde4c",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
   {
    "title": "대피가 먼저였나 환기가 먼저였나, 모르는 채 대책부터 나왔다",
    "summary": "한편, 사고의 법적 책임과 관리·감독 권한은 여러 기관에 나뉘어 있다. 영산강유역환경청은 화학물질관리법 위반 여부를, 광주지방고용노동청은 산업안전 관련 사항과 근로자 교육 여부를 확인한다. 사업장과 작업자의...",
@@ -566,6 +670,18 @@
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3713849",
      "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3713849",
      "title": "대한건설기계안전관리원, 노조와 본원 원주 이전 업무협약 '체결'"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004195973?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6587512?utm_source=naver&utm_medium=article&utm_campaign=20261006012111",
+     "title": "대한건설기계안전관리원 \"본원 이전은 원주로\"…2차 공공기관, 원주 이..."
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2002909",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2002909",
+     "title": "건설기계안전관리원 노조 \"본원 원주로\"…173명 이전 희망"
     }
    ],
    "day": "2026-10-06",
@@ -948,6 +1064,12 @@
      "url": "https://n.news.naver.com/mnews/article/144/0001142378?sid=101",
      "orig": "https://sports.khan.co.kr/article/202610061150003?pt=nv",
      "title": "남양유업 천안공장, 우유 105만 봉으로 ‘안전문화’"
+    },
+    {
+     "source": "biztribune.co.kr",
+     "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360118",
+     "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=360118",
+     "title": "남양유업, '1등급 아침에 우유' 패키지에 안전 슬로건… 안전문화 확산..."
     }
    ],
    "day": "2026-10-06",
