@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T15:22+09:00",
+ "updatedAt": "2026-10-06T16:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 6
   },
   {
+   "id": "8e9fd01225ff",
+   "title": "일상 속 산업재해 예방…남양유업 천안공장, 우유 105만봉에 '안전 메시...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=301701",
+   "source": "widedaily.com",
+   "cat": "tech",
+   "day": "2026-10-06",
+   "count": 6
+  },
+  {
    "id": "88c67eaf07f4",
    "title": "기아 오토랜드광주, 안전보건 상생협력사업 추진",
    "url": "https://n.news.naver.com/mnews/article/016/0002705743?sid=101",
@@ -59,18 +68,100 @@
    "cat": "sev",
    "day": "2026-10-06",
    "count": 4
-  },
-  {
-   "id": "8e9fd01225ff",
-   "title": "일상 속 산업재해 예방…남양유업 천안공장, 우유 105만봉에 '안전 메시...",
-   "url": "https://www.widedaily.com/news/articleView.html?idxno=301701",
-   "source": "widedaily.com",
-   "cat": "tech",
-   "day": "2026-10-06",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "李 \"CPTPP, 결론 정해놓지 말고 원점에서 다시 대화하라\"",
+   "summary": "이 대통령은 고용노동부에 산재 사망 감소율을 자세히 물은 뒤 50인 미만 사업장의 산재 사고가 크게 줄었다는 보고를 받았다. 이에 정부가 집중적으로 관리하면 효과가 나타나기 마련이라며 격려했다. 자살 사망자...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005585616?sid=100",
+   "orig": "https://www.fnnews.com/news/202610061557412805",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-06T16:06+09:00",
+   "cat": "law",
+   "id": "22f94a4427c5",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "남원시, 일자리 현장 안전 강화",
+   "summary": "주요 내용은 산업안전보건법의 이해, 현장별 주요 위험요인, 사고 예방과 대처 방안, 산업재해 사례 및 예방수칙, 비상 상황 대응 요령 등으로 구성됐다. 근로자들이 작업 과정에서 어떤 위험을 살펴야 하는지 파악하고...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=812854",
+   "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=812854",
+   "source": "jeollailbo.com",
+   "published": "2026-10-06T16:06+09:00",
+   "cat": "tech",
+   "id": "20afa872bfea",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "\"외국인 근로자도 안전하게\" 안전보건공단 울산지역본부, 안전보건표지...",
+   "summary": "한국산업안전보건공단 울산지역본부가 외국인 근로자의 안전정보 접근성을 높이기 위해 울산 지역 사업장을 대상으로 '외국어 안전보건표지 부착 챌린지'를 진행한다. 사업장 스스로 외국어 안전표지를 점검·관리하도록...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202610061544282537be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=202610061544282537be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-06T15:58+09:00",
+   "cat": "tech",
+   "id": "02020242e9a0",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "'정원 230명 이상'…대한건설기계안전관리원 원주로 터전 옮기나",
+   "summary": "정원 230명이 넘는 대한건설기계안전관리원이 강원 원주시로 이전할지 주목된다. 대한건설기계안전관리원의... 이런 가운데 시는 지난해부터 관리원 노조, 경영진과 간담회를 가지며 원주 이전에 대한 의견을 나눠왔다....",
+   "url": "https://n.news.naver.com/mnews/article/421/0009212218?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6311716",
+   "source": "뉴스1",
+   "published": "2026-10-06T15:53+09:00",
+   "cat": "tech",
+   "id": "590adec1a3e1",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "남양유업, '1등급 아침에 우유' 105만 봉에 일터 안전 슬로건 적용",
+   "summary": "남양유업 천안공장은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 산업재해 예방 및 안전문화 확산을 위한 업무협약(MOU)을 체결했다고 6일 밝혔다. 협약은 지난 2일 충남 천안시 남양유업 천안신공장에서...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493043",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493043",
+   "source": "핀포인트뉴스",
+   "published": "2026-10-06T15:52+09:00",
+   "cat": "tech",
+   "id": "e9be6f543221",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[커피·음료트렌드] CHAGEE, 국내 10호점 '서울대입구역점' 오픈 外",
+   "summary": "ⓒ남양유업 남양유업 천안공장이 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 함께 우유 패키지를 활용한 안전문화 확산에 나선다. 남양유업 천안공장은 지난 2일 충남 천안시 남양유업...",
+   "url": "https://www.ibabynews.com/news/articleView.html?idxno=155003",
+   "orig": "https://www.ibabynews.com/news/articleView.html?idxno=155003",
+   "source": "ibabynews.com",
+   "published": "2026-10-06T15:50+09:00",
+   "cat": "law",
+   "id": "e4a42d93df0a",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[A 오늘의 유통] 롯데마트·코웨이·CJ ONE·바디프랜드·교촌 外",
+   "summary": "◇남양유업 천안공장, 우유 105만 봉으로 '안전문화' 알린다=남양유업 천안공장이 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 산업재해 예방 및 안전문화 확산을 위한 업무협약(MOU)을 체결했다....",
+   "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=265133",
+   "orig": "https://www.asiaa.co.kr/news/articleView.html?idxno=265133",
+   "source": "asiaa.co.kr",
+   "published": "2026-10-06T15:30+09:00",
+   "cat": "tech",
+   "id": "ce31a7a588b6",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
   {
    "title": "장인화 포스코 회장 국감 증인 요구 봇물…\"산재·하자 책임론 부상\"",
    "summary": "발생했으며 중대재해는 10건에 달했다. 특히 지난해 1월 김해 아파트 현장 추락을 시작으로 신안산선 터널 붕괴, 대구 아파트 현장 추락 등 노동자 사망 사고가 끊이지 않았다. 정부 제재의 실효성 문제도 핵심 쟁점으로...",
@@ -93,7 +184,14 @@
    "published": "2026-10-06T15:14+09:00",
    "cat": "law",
    "id": "d0d49413ab27",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004002363?sid=102",
+     "orig": "https://www.chosun.com/national/regional/2026/10/06/LDA7UBDGWVBLPANKLD3C2HVYE4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "‘폭발사고’ 한화에어로 “납품 지연은 정부 탓” 주장… 법원은 기각"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -106,7 +204,20 @@
    "published": "2026-10-06T15:04+09:00",
    "cat": "tech",
    "id": "e5004977b754",
-   "related": [],
+   "related": [
+    {
+     "source": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=721605",
+     "orig": "https://www.newstnt.com/news/articleView.html?idxno=721605",
+     "title": "경남로봇랜드재단, 전 사업장 ISO 45001 인증 추진"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=723032",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=723032",
+     "title": "경남로봇랜드재단, 전 사업장 ISO 45001 안전보건경영 인증 속도"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -326,6 +437,19 @@
    "watch": []
   },
   {
+   "title": "\"외국인 근로자도 교육? 현장 모르시는 말씀!\" 노무사 지적한 서류의 함...",
+   "summary": "◇ 정구현 : 이게 사망이나 몇 개월 이상 요양이 필요한 중대재해랑 일반적인 산업재해, 그중에서도 골병은 구분해서 보아야 될 것 같은데요. 골병에 대해서는 확실히 산업 현장에서 등한시하는 경향들이 있습니다....",
+   "url": "https://n.news.naver.com/mnews/article/052/0002415300?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202610061248219190",
+   "source": "YTN",
+   "published": "2026-10-06T12:48+09:00",
+   "cat": "tech",
+   "id": "8c83bf80dbc5",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
    "title": "\"양형위 국감에 중처법 양형기준 사안 다뤄져야\"",
    "summary": "앞서 지난달 양형위는 중처법 양형 기준을 마련했다며 중대재해 노동자 사망사고 발생 시 안전보건 확보 의무 위반 정도에 따라 경영책임자 등에 최대 징역 15년까지 선고토록 권고했다. 사망자가 1명 이상 발생한...",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250870",
@@ -530,6 +654,19 @@
    "published": "2026-10-06T11:08+09:00",
    "cat": "sev",
    "id": "19419b476f71",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "대형 건설사 '반복 사망재해' 경고등...'추락·끼임' 재래형 사고 83% 차...",
+   "summary": "유형의 사망사고가 반복 발생한 182개 기업에서 총 687건 중대재해가 발생한 것으로 나타났다. 이 가운데 현대건설은 총 28건 반복 재해가 발생, 기업 중 전체 1위로 기록됐다. 현대건설은 재해 유형 중 가장 비중이 높은...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=135008",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=135008",
+   "source": "popcornnews.net",
+   "published": "2026-10-06T11:04+09:00",
+   "cat": "sev",
+   "id": "863f0a450d1c",
    "related": [],
    "day": "2026-10-06",
    "watch": []
@@ -1060,6 +1197,18 @@
      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103331",
      "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1103331",
      "title": "남양유업, 우유 105만봉에 '안전 메시지' 담는다"
+    },
+    {
+     "source": "thefirstmedia.net",
+     "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210151",
+     "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=210151",
+     "title": "남양유업, 우유 105만개에 '안전 메시지' 싣는다"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000100592",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000100592",
+     "title": "남양유업 천안공장, 우유 105만 봉에 안전 슬로건 담는다"
     }
    ],
    "day": "2026-10-06",
