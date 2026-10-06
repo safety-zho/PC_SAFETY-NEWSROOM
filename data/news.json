@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T14:16+09:00",
+ "updatedAt": "2026-10-06T15:22+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,6 +40,15 @@
    "source": "이뉴스투데이",
    "cat": "tech",
    "day": "2026-10-06",
+   "count": 6
+  },
+  {
+   "id": "88c67eaf07f4",
+   "title": "기아 오토랜드광주, 안전보건 상생협력사업 추진",
+   "url": "https://n.news.naver.com/mnews/article/016/0002705743?sid=101",
+   "source": "헤럴드경제",
+   "cat": "hlt",
+   "day": "2026-10-06",
    "count": 5
   },
   {
@@ -48,15 +57,6 @@
    "url": "https://n.news.naver.com/mnews/article/001/0016359161?sid=102",
    "source": "연합뉴스",
    "cat": "sev",
-   "day": "2026-10-06",
-   "count": 4
-  },
-  {
-   "id": "88c67eaf07f4",
-   "title": "기아 오토랜드광주, 안전보건 상생협력사업 추진",
-   "url": "https://n.news.naver.com/mnews/article/016/0002705743?sid=101",
-   "source": "헤럴드경제",
-   "cat": "hlt",
    "day": "2026-10-06",
    "count": 4
   },
@@ -71,6 +71,143 @@
   }
  ],
  "articles": [
+  {
+   "title": "장인화 포스코 회장 국감 증인 요구 봇물…\"산재·하자 책임론 부상\"",
+   "summary": "발생했으며 중대재해는 10건에 달했다. 특히 지난해 1월 김해 아파트 현장 추락을 시작으로 신안산선 터널 붕괴, 대구 아파트 현장 추락 등 노동자 사망 사고가 끊이지 않았다. 정부 제재의 실효성 문제도 핵심 쟁점으로...",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278300",
+   "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278300",
+   "source": "businesskorea.co.kr",
+   "published": "2026-10-06T15:18+09:00",
+   "cat": "law",
+   "id": "07efc3c5d832",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "“납품 지연은 정부 탓” 한화에어로 주장 또 기각…법원 “회사 책임”",
+   "summary": "사고 이후 고용노동부가 특별감독을 벌인 결과 산업안전보건법 위반 등 총 473건의 위반사항이 적발됐다. 대전경찰청은 현재 안전관리 지휘체계에 있던 임직원들을 업무상 과실치사상 혐의로 입건해 수사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/025/0003556045?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25467481",
+   "source": "중앙일보",
+   "published": "2026-10-06T15:14+09:00",
+   "cat": "law",
+   "id": "d0d49413ab27",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "경남로봇랜드재단, 전 사업장 ISO 45001 인증 추진",
+   "summary": "또 산업안전보건관리계획과 중대재해 예방 안전관리계획에 따라 관련 활동을 추진했다. 박태훈 경남로봇랜드재단 원장은 “이번 인증을 계기로 안전보건 경영체계를 정착하고 안전 문화를 활성화해 도민과 고객...",
+   "url": "https://www.asiatime.co.kr/article/20261006500324",
+   "orig": "https://www.asiatime.co.kr/article/20261006500324",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-06T15:04+09:00",
+   "cat": "tech",
+   "id": "e5004977b754",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "남양유업 천안공장, 고용부·한국산업안전공단과 MOU 체결",
+   "summary": "사진=남양유업 남양유업 천안공장은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 업무협약(MOU)을 체결했다고 6일 밝혔다. 이번 MOU는 산업재해 예방 및 안전 문화 확산을 위해 마련됐다. 협약식은 지난...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7187590",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7187590",
+   "source": "한국아이닷컴",
+   "published": "2026-10-06T14:54+09:00",
+   "cat": "tech",
+   "id": "582df8d4646b",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "﻿포스코 장인화 회장, 국감 출석 압박…'산재·하자·분쟁' 3중고 도마...",
+   "summary": "기간 중대재해도 10건 발생했다. 포스코이앤씨 건설 현장에서는 추락과 붕괴 사고가 끊이지 않고 있다.... 지난 6월에도 서울 관악구 신안산선 현장에서 30대 하청 노동자가 추락해 사망했다. 정일영 의원은 그룹 건설...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617486",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617486",
+   "source": "mdtoday.co.kr",
+   "published": "2026-10-06T14:48+09:00",
+   "cat": "law",
+   "id": "507c74f481fa",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "국토안전관리원, '건설현장안전 올인원 365' 협의회 개최",
+   "summary": "참석자들은 현장 관계자의 애로사항을 지속적으로 수렴하고 스마트 안전기술의 현장 정착을 위한 제도 개선 과제를 발굴해 민·관 협력 기반의 안전관리 체계를 정착시키자는 데 뜻을 모았다. 장기수 수도권지역본부장은...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005585539?sid=101",
+   "orig": "https://www.fnnews.com/news/202610061438377042",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-06T14:43+09:00",
+   "cat": "tech",
+   "id": "ef1d1a2f271d",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "원주시, 공공기관 이전 첫 협약 체결...대한건기안전관리원 원주 본원 ...",
+   "summary": "원주시와 대한건설기계안전관리원 노동조합이 원주 본원 이전을 위한 업무협약을 체결했다.[사진=원주시] 2026.10.06 onemoregive@newspim.com 원주시는 지난해부터 노동조합 및 경영진과 간담회를 열며 원주 이전에 관한...",
+   "url": "https://www.newspim.com/news/view/20261006000945",
+   "orig": "https://www.newspim.com/news/view/20261006000945",
+   "source": "뉴스핌",
+   "published": "2026-10-06T14:40+09:00",
+   "cat": "tech",
+   "id": "714cd66ff8e1",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "반복 산재·송도 하자 도마… 정일영 의원, 포스코 최고경영진 국감 출...",
+   "summary": "대표이사의 국정감사 증인 출석을 요구했다. 개별 시공사 책임을 넘어 그룹 차원 안전·품질관리 책임까지 확인해야 한다는 취지다. 6일 국회와 관련 업계에 따르면 국회 국토교통위원회 소속 정 의원은 장 회장과 송...",
+   "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=360120",
+   "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=360120",
+   "source": "biztribune.co.kr",
+   "published": "2026-10-06T14:30+09:00",
+   "cat": "law",
+   "id": "72fe757bc78c",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "'폭발' 한화에어로 \"납품지연 정부 탓\"…대전고법은 \"회사 책임\"",
+   "summary": "이 사고로 고용노동부 특별 감독을 벌였고, 산업안전보건법 등 473건의 위반사항이 적발됐다. 대전경찰청은 안전관리 지휘체계에 있는 임직원들을 업무상 과실치사상 혐의로 입건해 수사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/001/0016359859?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261006117200063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-06T14:21+09:00",
+   "cat": "acc",
+   "id": "06a0506a11cb",
+   "related": [
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000536446?sid=101",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000338475?division=NAVER",
+     "title": "'폭발' 한화에어로, 배상금 줄어…대전고법 \"납품지연은 회사 책임\""
+    }
+   ],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "'중증장애인생산품 생산시설 안전보건점검 현장 컨설팅' 참여 생산시설...",
+   "summary": "한국장애인개발원(원장 김정열, 이하 개발원)은 오는 9일까지 한국산업안전보건공단과 협력해 '중증장애인생산품 생산시설 안전보건점검 현장 컨설팅'에 참여할 생산시설 60개소를 모집한다. 이번 컨설팅은...",
+   "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=233712",
+   "orig": "https://www.ablenews.co.kr/news/articleView.html?idxno=233712",
+   "source": "ablenews.co.kr",
+   "published": "2026-10-06T14:18+09:00",
+   "cat": "tech",
+   "id": "6c71e430cb5d",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
   {
    "title": "숫자에 가려진 산재 승인의 역설",
    "summary": "근로자 규모와 재해의 유형·경중, 중대·사망재해 여부, 집계 시점과 산재 처리 방식에 따라 승인 건수의 의미는 달라질 수 있다. 반대로 승인건수가 적다고 실제 업무상 재해가 반드시 적다고 볼 수도 없다.",
@@ -353,7 +490,14 @@
    "published": "2026-10-06T11:18+09:00",
    "cat": "law",
    "id": "d976c37b05e5",
-   "related": [],
+   "related": [
+    {
+     "source": "consumuch.com",
+     "url": "https://www.consumuch.com/news/articleView.html?idxno=79181",
+     "orig": "https://www.consumuch.com/news/articleView.html?idxno=79181",
+     "title": "대우건설, 싱가포르 CR108 현장 안전관리 역량 인정"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -483,7 +627,14 @@
    "published": "2026-10-06T10:46+09:00",
    "cat": "tech",
    "id": "0b38e3652c63",
-   "related": [],
+   "related": [
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065592281023980",
+     "orig": "https://idsn.co.kr/news/view/1065592281023980",
+     "title": "원주시, 도급·용역·위탁사업 담당자 중대재해 예방 역량 강화 나서"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -592,6 +743,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014235071?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261006_0003815342",
      "title": "기아 오토랜드광주, 협력사 14곳에 '안전보건 물품' 지원"
+    },
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000071114",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000071114",
+     "title": "기아 오토랜드광주, 안전보건 상생협력사업 추진"
     }
    ],
    "day": "2026-10-06",
@@ -682,6 +839,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2002909",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2002909",
      "title": "건설기계안전관리원 노조 \"본원 원주로\"…173명 이전 희망"
+    },
+    {
+     "source": "weeklytoday.com",
+     "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797027",
+     "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=797027",
+     "title": "[위클리오늘] 원주시, 대한건설기계안전관리원 노동조합과 본원 원주 이..."
     }
    ],
    "day": "2026-10-06",
@@ -996,7 +1159,14 @@
    "published": "2026-10-06T08:26+09:00",
    "cat": "law",
    "id": "049797dd713a",
-   "related": [],
+   "related": [
+    {
+     "source": "newsworks.co.kr",
+     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=855692",
+     "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=855692",
+     "title": "정일영, 장인화 포스코 회장·송치영 이앤씨 사장 국감 증인 요구"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
@@ -1493,6 +1663,12 @@
      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077486",
      "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077486",
      "title": "남양유업 천안공장 우유팩으로 안전문화 확산"
+    },
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590217522340",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590217522340",
+     "title": "남양유업, 우유 패키지에 안전 메시지 담는다…천안공장 안전문화 확산"
     }
    ],
    "day": "2026-10-05",
