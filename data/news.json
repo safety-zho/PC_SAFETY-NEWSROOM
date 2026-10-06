@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-06T12:17+09:00",
+ "updatedAt": "2026-10-06T13:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,58 @@
   }
  ],
  "articles": [
+  {
+   "title": "대피가 먼저였나 환기가 먼저였나, 모르는 채 대책부터 나왔다",
+   "summary": "한편, 사고의 법적 책임과 관리·감독 권한은 여러 기관에 나뉘어 있다. 영산강유역환경청은 화학물질관리법 위반 여부를, 광주지방고용노동청은 산업안전 관련 사항과 근로자 교육 여부를 확인한다. 사업장과 작업자의...",
+   "url": "https://www.mediajeju.com/news/articleView.html?idxno=366630",
+   "orig": "https://www.mediajeju.com/news/articleView.html?idxno=366630",
+   "source": "mediajeju.com",
+   "published": "2026-10-06T13:10+09:00",
+   "cat": "law",
+   "id": "b7668c9c0608",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "\"양형위 국감에 중처법 양형기준 사안 다뤄져야\"",
+   "summary": "앞서 지난달 양형위는 중처법 양형 기준을 마련했다며 중대재해 노동자 사망사고 발생 시 안전보건 확보 의무 위반 정도에 따라 경영책임자 등에 최대 징역 15년까지 선고토록 권고했다. 사망자가 1명 이상 발생한...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250870",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250870",
+   "source": "안전신문",
+   "published": "2026-10-06T12:46+09:00",
+   "cat": "law",
+   "id": "f2eeb3f6434b",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "아마존은 노동자에 대한 전면 감시를 완성하고 있다",
+   "summary": "이제 ‘스마트 배송 안경’을 도입하면서 이 물류 대기업은 운전기사들이 근무하는 동안 단 한 순간도... 그렇다면 드라이버아이 같은 기술의 목적은 운전기사를 안전하게 만드는 데 있는가, 아니면 궁극적으로...",
+   "url": "https://newscham.net/117268/",
+   "orig": "https://newscham.net/117268/",
+   "source": "newscham.net",
+   "published": "2026-10-06T12:38+09:00",
+   "cat": "tech",
+   "id": "28be6ca43f32",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "[이로운주목] 중증장애인생산품 판로 넓힌다...전체 우선구매 목표 달성...",
+   "summary": "한국사회복지협의회는 우선구매 비율 8.05%, 서울특별시서울의료원은 6.07%, 경기 수원시는 4.57%, 한국산업안전보건공단은 4.01%를 기록해 최우수상을 수상한다. 전체 구매비율은 1.12%...개별 기관 428곳은 기준 미달...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=91632",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=91632",
+   "source": "eroun.net",
+   "published": "2026-10-06T12:24+09:00",
+   "cat": "tech",
+   "id": "8488950206ee",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
   {
    "title": "[MD라이프] 스타벅스 ‘블랙 글레이즈드 라떼’ 가을 한정에도 3000만잔...",
    "summary": "남양유업 천안공장은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 산업재해 예방 및 안전문화 확산을 위한 업무협약(MOU)을 체결했다고 6일 밝혔다. 지난 2일 충남 천안시 남양유업 천안신공장에서 열린...",
@@ -665,7 +717,14 @@
    "published": "2026-10-06T09:26+09:00",
    "cat": "tech",
    "id": "ed3cfeb573e5",
-   "related": [],
+   "related": [
+    {
+     "source": "lcnews.co.kr",
+     "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209265",
+     "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=209265",
+     "title": "남양유업, 우유 포장에 안전 문구…105만 봉 유통"
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
