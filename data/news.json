@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T12:17+09:00",
+ "updatedAt": "2026-10-07T13:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "뉴시스",
    "cat": "law",
    "day": "2026-10-07",
-   "count": 8
+   "count": 9
   },
   {
    "id": "6472fff34449",
@@ -41,6 +41,15 @@
    "cat": "sev",
    "day": "2026-10-07",
    "count": 3
+  },
+  {
+   "id": "b4ed71e9b979",
+   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016362420?sid=102",
+   "source": "연합뉴스",
+   "cat": "hlt",
+   "day": "2026-10-07",
+   "count": 2
   },
   {
    "id": "c07c67d6a40f",
@@ -59,18 +68,94 @@
    "cat": "law",
    "day": "2026-10-07",
    "count": 2
-  },
-  {
-   "id": "ef34b79c7d55",
-   "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
-   "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
-   "source": "연합뉴스",
-   "cat": "tech",
-   "day": "2026-10-07",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "[영풍 인사 전망]① 중대재해 뒤 김기호 앉혔다… 장세준 코리아써키트...",
+   "summary": "전임 대표와 제련소장이 중대재해 사건으로 구속기소된 뒤 부사장이던 김기호를 사장으로 올려 제련소장에... 조업은 재개됐지만 김 대표 취임 뒤에도 제련소에서 사망사고가 발생했고 환경·회계 문제도 이어졌다....",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077621",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077621",
+   "source": "뉴스클레임",
+   "published": "2026-10-07T13:12+09:00",
+   "cat": "hlt",
+   "id": "403676b97020",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "한국자격증협회, ‘안전관리자 자격증’ 전액 장학지원 실시",
+   "summary": "한국직업능력연구원에 정식 등록된 이번 교육 과정은 현장에서 활용도가 높은 산업안전보건법, 중대재해예방실무, 위험성평가, 사업장안전점검, 재난대응매뉴얼구축, 소방안전점검, 유해위험요인발굴, 작업환경측정분석...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026100713094766596cf2d78c68_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=2026100713094766596cf2d78c68_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-07T13:12+09:00",
+   "cat": "hlt",
+   "id": "0a910235ea9f",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "“폭발사고에 따른 납품지연은 한화에어로 책임”",
+   "summary": "이 사고로 고용노동부가 특별 감독을 벌였고 산업안전보건법 등 473건의 위반사항을 적발했다. 대전경찰청은 안전관리 지휘체계에 있는 임직원들을 업무상 과실치사상 혐의로 입건해 수사중이다. 김은광·",
+   "url": "https://www.naeil.com/news/read/604444?ref=naver",
+   "orig": "https://www.naeil.com/news/read/604444?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-10-07T13:06+09:00",
+   "cat": "acc",
+   "id": "dcf9f49310b4",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "고층건물 건설현장이 추락 위험 높아",
+   "summary": "추락이 사망사고의 절반 이상을 차지하고 있다. 2020년 산재 사고사망 통계를 보면 제조업 사고사망자는 201명이었고 이 가운데 ‘끼임’이 60명으로 29.9%, ‘떨어짐’은 41명으로 20.4%를 차지했다. 김성배·",
+   "url": "https://www.naeil.com/news/read/604413?ref=naver",
+   "orig": "https://www.naeil.com/news/read/604413?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-10-07T13:04+09:00",
+   "cat": "acc",
+   "id": "5646ef665437",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "강원인재원, 안전보건경영시스템 ‘ISO 45001’ 인증",
+   "summary": "강원인재원은 한국경영인증원 안전보건경영시스템 국제표준인 ‘ISO 45001’ 인증서를 받았다고 7일 밝혔다. ISO 45001은 국제표준화기구(ISO)가 제정한 안전보건경영시스템 국제표준이다. 사업장에서 발생할 수 있는 유해...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001222448?sid=100",
+   "orig": "https://www.kwnews.co.kr/article/20261007500218",
+   "source": "강원일보",
+   "published": "2026-10-07T13:00+09:00",
+   "cat": "tech",
+   "id": "0491f04b4846",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
+   "summary": "받고 사망한 노동자, 반도체 칩 납땜 업무를 수행하다 뇌종양이 발병해 사망한 연구개발 노동자 등이다.... 그러면서 \"회사와 공단은 직업병에 대한 근로자들의 건강권을 보호하고, 보상 절차에 협조해달라\"며 빠른 산재...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016362420?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261007095200004?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-07T12:27+09:00",
+   "cat": "hlt",
+   "id": "b4ed71e9b979",
+   "related": [
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000536673?sid=103",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000338719?division=NAVER",
+     "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\""
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "건설현장 사망자 절반 이상이 추락사…5년여간 642명 숨져",
    "summary": "최근 5년여간 건설현장에서 사고로 숨진 노동자의 절반 이상이 추락사고로 목숨을 잃은 것으로 나타났다. 대형 건설사 현장에서도 추락사망 사고가 이어지는 가운데 안전난간과 작업통로 등 기본적인 안전시설이...",
@@ -161,6 +246,12 @@
      "url": "https://www.ajunews.com/view/20261007100347904",
      "orig": "https://www.ajunews.com/view/20261007100347904",
      "title": "노동부, 중대재해 조사보고서 117건 추가 공개…재판 중 사건도 공개 추..."
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250910",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250910",
+     "title": "중대재해 원인·재발방지책 담은 재해조사보고서 117건 추가 공개"
     }
    ],
    "day": "2026-10-07",
@@ -1486,6 +1577,12 @@
      "url": "http://www.ikld.kr/news/articleView.html?idxno=341819",
      "orig": "http://www.ikld.kr/news/articleView.html?idxno=341819",
      "title": "국토안전관리원, 수도권 건설현장 안전관리 강화"
+    },
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419665",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419665",
+     "title": "국토안전원, 수도권 건설현장 안전관리 협의회 개최"
     }
    ],
    "day": "2026-10-06",
