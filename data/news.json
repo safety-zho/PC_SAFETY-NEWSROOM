@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T16:19+09:00",
+ "updatedAt": "2026-10-07T17:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -49,6 +49,15 @@
    "source": "jejudomin.co.kr",
    "cat": "law",
    "day": "2026-10-07",
+   "count": 4
+  },
+  {
+   "id": "00fc9f10858d",
+   "title": "금속노조 \"충주 노동자 사망, '위험의 외주화' 멈추라\"",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445129",
+   "source": "충청일보",
+   "cat": "sev",
+   "day": "2026-10-07",
    "count": 3
   },
   {
@@ -59,18 +68,113 @@
    "cat": "tech",
    "day": "2026-10-07",
    "count": 3
-  },
-  {
-   "id": "7bb25e535479",
-   "title": "'2명 사망' 맨홀 사고 관리감독 없었다…인천환경공단 관계자 등 18명 송...",
-   "url": "https://n.news.naver.com/mnews/article/437/0000514452?sid=102",
-   "source": "JTBC",
-   "cat": "sev",
-   "day": "2026-10-07",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "[부산소식] 부산고용노동청, 건설현장 추락재해 예방 점검 등",
+   "summary": "부산지방고용노동청(노동청)은 7일 부산 동구 범일3구역 도시환경정비사업 주상복합 신축공사 현장에서 한국산업안전보건공단 부산지역본부와 건설현장 추락재해 예방 캠페인 및 현장점검을 실시한다고 밝혔다. 이번...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014239891?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261007_0003817928",
+   "source": "뉴시스",
+   "published": "2026-10-07T17:10+09:00",
+   "cat": "tech",
+   "id": "5bf64b0b9394",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[DL 인사 전망]② '혁신' 17명 올렸는데… 안전사고·입찰 잡음·외부 이...",
+   "summary": "◇ '다시는 중대재해 없도록' 내걸고 석 달 뒤 샤힌 사망… 압구정5는 입찰 잡음 2024년 DL이앤씨에서 새 임원이 된 사람은 강형구·박창용·권현성·배종식·한만유·조형길 등 6명이다. 배종식은 1975년생으로 경남대...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077666",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077666",
+   "source": "뉴스클레임",
+   "published": "2026-10-07T17:00+09:00",
+   "cat": "acc",
+   "id": "77f4fe0b9f6f",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "창원특례시, 관리감독자 안전보건교육 실시로 안전경영 체계 강화",
+   "summary": "이번 교육은 최근 산업현장 내 안전의식 제고와 법적 책임이 대두되는 가운데, 관리감독자들의 실질적인 안전보건 관리 역량을 한층 끌어올리기 위해 마련됐다. 이날 교육은 단순한 이론 전달을 넘어 현장 밀착형 실무...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=577971",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=577971",
+   "source": "newsgn.com",
+   "published": "2026-10-07T16:54+09:00",
+   "cat": "tech",
+   "id": "0f15e71aab33",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "노동부 불시점검 나흘 뒤 끼임 사망…노조 \"종합감독해야\"",
+   "summary": "전국금속노동조합은 7일 고용노동부 충주지청 앞에서 기자회견을 열고 \"끼임 사망사고 재발 방지를 위해... 고용노동부도 사고 이후 해당 공장에 작업중지 명령을 내리고 산업안전보건법과 중대재해처벌법 위반 여부 등을...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009215544?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6313320",
+   "source": "뉴스1",
+   "published": "2026-10-07T16:49+09:00",
+   "cat": "sev",
+   "id": "5c0bce555ec3",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[N2 인물 포커스] ‘현장과 원칙’ 서영배 전북 군산지청장…공공수사·...",
+   "summary": "대구서부지청 형사3부장으로 근무할 당시에는 중대재해처벌법 시행 초기 산업현장 사망사고 수사를 여러 차례 지휘했다. 2022년 공장 신축공사 현장에서 하청업체 근로자가 추락해 숨진 사건에서는 원청업체 대표가...",
+   "url": "https://www.news2day.co.kr/article/20261007500313",
+   "orig": "https://www.news2day.co.kr/article/20261007500313",
+   "source": "뉴스투데이",
+   "published": "2026-10-07T16:46+09:00",
+   "cat": "tech",
+   "id": "d551c51d2216",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "“아이들에게 아빠 왜 죽었는지 알려줘야”…SK하이닉스 집단 산재 신청",
+   "summary": "이들은 회견을 마치고 근로복지공단에 산재 신청서를 제출했다. 고 홍정민씨는 2006년 SK하이닉스에 입사해... 아내 임모씨는 “어린 아들은 늘 바쁘게 일하던 아빠와 공놀이 한번 못 해 봤다”며 “남편의 사망 원인을...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003474840?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610071644001",
+   "source": "경향신문",
+   "published": "2026-10-07T16:44+09:00",
+   "cat": "hlt",
+   "id": "88434da85fa0",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "노동단체 \"모든 이주노동자 품는 전남광주통합특별시 조례안 환영\"",
+   "summary": "특히 미등록 노동자에 대한 행정 지원은 불법 묵인이 아니라 지역 고용의 21%를 차지하는 농림어업 등 취약 산업의 노동 기준과 공중보건을 바로 세우는 필수 조치라고 강조했다. 이들이 신분 노출을 두려워해 산업재해와...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009215511?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6313291",
+   "source": "뉴스1",
+   "published": "2026-10-07T16:39+09:00",
+   "cat": "hlt",
+   "id": "7bf0df6c758f",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "\"광산 안전관리 AI가 책임 진다\"",
+   "summary": "설명회는 인력 부족으로 어려움을 겪는 광업계의 안전관리 행정 부담을 완화하고 AI 기술을 도입해 체계적인... 광산 안전자료를 AI에 내재화해 현장에 최적화한 것이 특징이다. 예를 들어 광산관리자와 근로자가 스마트...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203894",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203894",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-07T16:30+09:00",
+   "cat": "tech",
+   "id": "5393dc92f310",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "지이디, 필리핀 모빌리티 플랫폼 앙카스와 AI 안전관리 솔루션 도입 협...",
    "summary": "세부 기술 사항을 검토했다. SAPS FaceMaker는 스마트폰 센서를 기반으로 운전자의 상태와 위험운전 정보를 실시간 이모지 형태로 시각화해 운전자와 관리자, 승객이 안전 정보를 확인할 수 있도록 하는 지이디의 AI...",
@@ -151,6 +255,12 @@
      "url": "https://www.inews365.com/news/article.html?no=938478",
      "orig": "https://www.inews365.com/news/article.html?no=938478",
      "title": "금속노조, 충주 공장 하청노동자 사망 규탄…\"외주화가 죽였다\""
+    },
+    {
+     "source": "오마이뉴스",
+     "url": "https://n.news.naver.com/mnews/article/047/0002531497?sid=102",
+     "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273384&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "title": "충주 40대 하청노동자 사망... \"위험의 외주화 중단하라\""
     }
    ],
    "day": "2026-10-07",
@@ -196,6 +306,19 @@
    "watch": []
   },
   {
+   "title": "사고 나기 전에 막는다…경기도경제과학진흥원 '사람 중심 안전경영'으...",
+   "summary": "2023년에는 안전보건공단 경기지역본부와 업무협약을 맺고 안전보건경영시스템 국제표준인 ISO45001 인증을 받았으며, 지난해에는 국가생산성대상 산업통상자원부 장관 표창을 받았다. 안전관리의 무게중심도 사고 뒤...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005340110?sid=102",
+   "orig": "https://www.hankyung.com/article/2026100774101",
+   "source": "한국경제",
+   "published": "2026-10-07T15:40+09:00",
+   "cat": "tech",
+   "id": "83fb5d267faf",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
    "title": "10대 건설사도 못 막은 추락사…현대건설·롯데건설 각 6명 최다",
    "summary": "현대건설이 시공한 세종포천고속도로 안성구리 건설공사 제14공구에서는 2022년 2월 추락사고로 노동자 1명이 숨진 데 이어 2023년 9월에도 추락사고로 1명이 사망했다. 현대엔지니어링에서는 서로 다른 현장에서 닷새...",
    "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16935",
@@ -204,7 +327,14 @@
    "published": "2026-10-07T15:36+09:00",
    "cat": "acc",
    "id": "7113d0ee05d4",
-   "related": [],
+   "related": [
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202610070182",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202610070182",
+     "title": "현대건설·롯데건설 추락사망 각 6명…10대 건설사서 36명 숨져"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -765,6 +895,12 @@
      "url": "http://www.samdailbo.com/news/articleView.html?idxno=271056",
      "orig": "http://www.samdailbo.com/news/articleView.html?idxno=271056",
      "title": "제주도·노동부, 노동관계법 취약 사업장 점검"
+    },
+    {
+     "source": "jejumaeil.net",
+     "url": "https://www.jejumaeil.net/news/articleView.html?idxno=405368",
+     "orig": "https://www.jejumaeil.net/news/articleView.html?idxno=405368",
+     "title": "제주도-고용노동부, 노동기준 취약사업장 집중 점검"
     }
    ],
    "day": "2026-10-07",
