@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T11:17+09:00",
+ "updatedAt": "2026-10-07T12:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,31 +25,13 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "ef34b79c7d55",
-   "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
-   "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
-   "source": "연합뉴스",
-   "cat": "tech",
+   "id": "e79930b89e4b",
+   "title": "재해조사보고서 117건 추가 공개…재판 중에도 공개 추진",
+   "url": "https://n.news.naver.com/mnews/article/003/0014238159?sid=102",
+   "source": "뉴시스",
+   "cat": "law",
    "day": "2026-10-07",
-   "count": 2
-  },
-  {
-   "id": "c1f622263751",
-   "title": "'계양 맨홀 사망사고'.. 인천환경공단 전 이사장 등 20명 공소청에 넘겨",
-   "url": "http://www.incheonin.com/news/articleView.html?idxno=121285",
-   "source": "incheonin.com",
-   "cat": "sev",
-   "day": "2026-10-07",
-   "count": 2
-  },
-  {
-   "id": "35c671dadc66",
-   "title": "근로자 2명 숨진 인천 맨홀 사고…전 인천환경공단 이사장 등 20명 송치",
-   "url": "https://n.news.naver.com/mnews/article/421/0009213523?sid=102",
-   "source": "뉴스1",
-   "cat": "sev",
-   "day": "2026-10-07",
-   "count": 2
+   "count": 8
   },
   {
    "id": "6472fff34449",
@@ -58,19 +40,237 @@
    "source": "delighti.co.kr",
    "cat": "sev",
    "day": "2026-10-07",
+   "count": 3
+  },
+  {
+   "id": "c07c67d6a40f",
+   "title": "업종·지역별 사고 원인 한눈에…노동부, 산재 보고서 117건 추가 공개",
+   "url": "https://n.news.naver.com/mnews/article/448/0000643515?sid=102",
+   "source": "TV조선",
+   "cat": "law",
+   "day": "2026-10-07",
    "count": 2
   },
   {
-   "id": "d04adac6ea31",
-   "title": "산업안전교육에 뮤지컬 접목…예술인테리어 해우 우리가 짓는 집 선봬",
-   "url": "https://n.news.naver.com/mnews/article/396/0000757333?sid=103",
-   "source": "sportsworldi.com",
-   "cat": "hlt",
+   "id": "6efeddb5fb6b",
+   "title": "제주도-노동부, 노동 취약사업장 합동점검",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400970",
+   "source": "jejudomin.co.kr",
+   "cat": "law",
+   "day": "2026-10-07",
+   "count": 2
+  },
+  {
+   "id": "ef34b79c7d55",
+   "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
+   "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
+   "source": "연합뉴스",
+   "cat": "tech",
    "day": "2026-10-07",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "건설현장 사망자 절반 이상이 추락사…5년여간 642명 숨져",
+   "summary": "최근 5년여간 건설현장에서 사고로 숨진 노동자의 절반 이상이 추락사고로 목숨을 잃은 것으로 나타났다. 대형 건설사 현장에서도 추락사망 사고가 이어지는 가운데 안전난간과 작업통로 등 기본적인 안전시설이...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493333",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=493333",
+   "source": "핀포인트뉴스",
+   "published": "2026-10-07T12:14+09:00",
+   "cat": "sev",
+   "id": "59363ff06a57",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 창원지청, 진해신항 건설현장서 추락사고 예방 캠페인",
+   "summary": "창원지청과 안전보건공단 경남지역본부, 경남도, 창원시 등 관계기관 8곳이 참여했다. 이들은 고소 작업이 많은 방파제 건설 현장 특성을 고려해 추락 방지 수칙과 안전난간·작업발판 관리, 개인보호구 착용 등을...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016432",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016432",
+   "source": "경남도민일보",
+   "published": "2026-10-07T12:06+09:00",
+   "cat": "tech",
+   "id": "93010d3e78b5",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "중대재해 원인·예방대책 117건 추가 공개…재판 중 사건도 단계적 공개",
+   "summary": "개정 산업안전보건법에 따른 공개 대상은 법 시행일인 올해 6월 1일 이후 발생한 중대재해의 조사보고서다. 노동부는 재해 예방에 필요한 정보를 제공하기 위해 법 시행 이전에 발생한 사건의 보고서도 공개하고 있다....",
+   "url": "https://n.news.naver.com/mnews/article/016/0002706476?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10895187?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-07T12:01+09:00",
+   "cat": "sev",
+   "id": "17824eae7b4d",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "재해조사보고서 117건 추가 공개…재판 중에도 공개 추진",
+   "summary": "지난 6월 1일 시행된 개정 산업안전보건법은 중대재해 조사 결과를 산업재해 예방을 위한 공공정보로 활용하기 위해 법 시행 이후 발생한 중대재해의 재해조사보고서를 공개하도록 했다. 앞서 노동부는 개정법 시행 전인...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014238159?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261007_0003817088",
+   "source": "뉴시스",
+   "published": "2026-10-07T12:00+09:00",
+   "cat": "law",
+   "id": "e79930b89e4b",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016362361?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261007020600530?input=1195m",
+     "title": "노동부, 확정판결 재해조사보고서 117건 추가 공개"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009214085?sid=101",
+     "orig": "https://www.news1.kr/economy/employment-labor/6312546",
+     "title": "노동부, 중대재해 보고서 117건 추가 공개…재판 중 사건도 공개 추진"
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005423175?sid=101",
+     "orig": "https://www.mt.co.kr/economy/2026/10/07/2026100710520224940",
+     "title": "중대재해 보고서 117건 추가 공개…기소·재판 중 사건까지 확대"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261007000295",
+     "orig": "https://www.newspim.com/news/view/20261007000295",
+     "title": "노동부, 판결 확정된 사건 재해조사보고서 117건 추가 공개"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003140344?sid=102",
+     "orig": "https://www.dailian.co.kr/news/view/1698771/?sc=Naver",
+     "title": "“같은 사고 막자”…중대재해 재해조사보고서 117건 추가 공개"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000540081?sid=102",
+     "orig": "https://news.tf.co.kr/read/life/2373720.htm",
+     "title": "노동부, 중대재해 보고서 117건 추가 공개"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261007100347904",
+     "orig": "https://www.ajunews.com/view/20261007100347904",
+     "title": "노동부, 중대재해 조사보고서 117건 추가 공개…재판 중 사건도 공개 추..."
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "업종·지역별 사고 원인 한눈에…노동부, 산재 보고서 117건 추가 공개",
+   "summary": "개정 산업안전보건법에 따르면 법 시행일인 지난 6월 1일 이후 발생한 중대재해 보고서가 법적 공개 대상이지만, 노동부는 재해 예방 효과를 높이기 위해 법 시행 이전 사건 보고서도 적극적으로 공개헀다. 앞서 지난 5월...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000643515?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/07/2026100790101.html",
+   "source": "TV조선",
+   "published": "2026-10-07T12:00+09:00",
+   "cat": "law",
+   "id": "c07c67d6a40f",
+   "related": [
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004196391?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6587957?utm_source=naver&utm_medium=article&utm_campaign=20261007120023",
+     "title": "중대재해 보고서 117건 추가 공개…원인·대책 한눈에"
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "중대재해 경영책임자 집행유예 90%…“사고 후 합의보다 사전 안전투자...",
+   "summary": "전문가들은 사망자 또는 중상자 수에 따라 가중 정도를 단계화하거나 다수 사망사건을 별도 유형으로 설정하는 방안을 검토해야 한다고 밝혔다. 중대재해처벌법 위반의 본질을 개별 근로자의 실수나 사고를 일으킨 특정...",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610071125282829cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610071125282829cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-07T11:36+09:00",
+   "cat": "sev",
+   "id": "58e045c436eb",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "강릉시, 노사협력·산업안전·워라밸 우수기업 3곳 뽑는다",
+   "summary": "모집 분야는 △노사협력(일터혁신) △산업안전보건 △워라밸(일·가정 양립) 등 3개 분야로, 강릉지역에... 참여를 희망하는 기업은 22일 오후 6시까지 강릉시청 홈페이지 고시·공고란에서 신청 서식을 내려받아 작성한 뒤...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009214008?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6312744",
+   "source": "뉴스1",
+   "published": "2026-10-07T11:36+09:00",
+   "cat": "law",
+   "id": "880331005915",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "원광대 안전보건학과 이나은 학부생, SCIE 국제학술지 논문 게재",
+   "summary": "이나은 학생 원광대학교(총장 박성태)는 안전보건학과 최윤희 교수 연구팀 소속 이나은 학부생이 수행한... 뜻깊었다\"며 \"앞으로도 산업보건 분야의 최신 이슈와 법 개정에 도움이 될 수 있는 연구역량을 더욱...",
+   "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448176",
+   "orig": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448176",
+   "source": "jeonmin.co.kr",
+   "published": "2026-10-07T11:26+09:00",
+   "cat": "law",
+   "id": "ebb678bb5e03",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[ESG경영] 신한금융·풀무원·코웨이·교원 등 '가치 창출' 사회공헌 행...",
+   "summary": "남양유업은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 업무협약을 맺고 대표 제품인 '1등급 아침에 우유(900mL)' 패키지 측면에 '내 일터 안전하게, 내일 더 행복하게' 등의 슬로건을 적용한다. 향후...",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=103153",
+   "orig": "http://www.dailypop.kr/news/articleView.html?idxno=103153",
+   "source": "dailypop.kr",
+   "published": "2026-10-07T11:26+09:00",
+   "cat": "tech",
+   "id": "aefd07a8775c",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "김영훈 \"중대재해 처벌, 여전히 솜방망이\"…경제 제재 강화·수사 공백...",
+   "summary": "김영훈 고용노동부 장관이 중대재해처벌법 제정 이후에도 처벌이 미흡하다며 반복되는 중대재해에 대한... 산업재해로 사망하면 영업이익의 5% 이내에서 과징금을 부과할 수 있도록 했다. 개정안은 공포 후 6개월이 지난...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009213966?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6312678",
+   "source": "뉴스1",
+   "published": "2026-10-07T11:24+09:00",
+   "cat": "sev",
+   "id": "1077a7aeffcc",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "제주도-노동부, 노동 취약사업장 합동점검",
+   "summary": "제주도와 고용노동부가 도내 노동관계법령 취약사업장을 대상으로 근로조건과 산업안전 분야 합동점검을 벌이고 있다. 이번 합동점검은 오는 12월 '노동감독관 직무집행법' 시행에 따른 사업장 감독 권한 위임에 대비해...",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400970",
+   "orig": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400970",
+   "source": "jejudomin.co.kr",
+   "published": "2026-10-07T11:16+09:00",
+   "cat": "law",
+   "id": "6efeddb5fb6b",
+   "related": [
+    {
+     "source": "jibs.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/661/0000084474?sid=100",
+     "orig": "https://www.jibs.co.kr/news/articles/articlesDetail/66241?feed=na",
+     "title": "제주도, 노동 취약사업장 합동점검"
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "노동장관 \"메가특구 사회적 대화, 합의 어려울 것…노동계 '신뢰 자산' ...",
    "summary": "산업재해 사망사고 발생 기업에 대해 영업이익의 최대 5%의 과징금을 부과하는 산업안전보건법 개정안에... 김 장관은 \"과징금은 전액 산재예방기금으로 환류해 작은 사업장을 지원하는 예산으로 쓸 것\"이라며 \"기업도...",
@@ -165,7 +365,14 @@
    "published": "2026-10-07T10:41+09:00",
    "cat": "sev",
    "id": "7bb25e535479",
-   "related": [],
+   "related": [
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012269204?sid=103",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679591&ref=A",
+     "title": "‘맨홀 작업자 2명 사망’ 인천환경공단 관계자 등 18명 송치"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -302,6 +509,12 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870686",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870686",
      "title": "[이슈국감] 건설현장 사망자 절반은 '추락'"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069355",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069355",
+     "title": "[2026 국감] 5년간 건설 현장 사망자 1220명…절반 이상 '추락사'"
     }
    ],
    "day": "2026-10-07",
@@ -708,7 +921,14 @@
    "published": "2026-10-06T21:56+09:00",
    "cat": "sev",
    "id": "b43b970f8f89",
-   "related": [],
+   "related": [
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576959498140",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576959498140",
+     "title": "[중대재해 사각지대] 현대성우캐스팅 하청 노동자 사망…'설비 잠금장치..."
+    }
+   ],
    "day": "2026-10-06",
    "watch": []
   },
