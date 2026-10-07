@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T18:18+09:00",
+ "updatedAt": "2026-10-08T08:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,449 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "e79930b89e4b",
-   "title": "재해조사보고서 117건 추가 공개…재판 중에도 공개 추진",
-   "url": "https://n.news.naver.com/mnews/article/003/0014238159?sid=102",
-   "source": "뉴시스",
+   "id": "fc113ecdb1dc",
+   "title": "산업안전보건법 개정에 건설사 실무부담 커진다···안전 대응체계 손...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=326880",
+   "source": "대한전문건설신문",
    "cat": "law",
-   "day": "2026-10-07",
-   "count": 11
+   "day": "2026-10-08",
+   "count": 1
   },
   {
-   "id": "b4ed71e9b979",
-   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016362420?sid=102",
-   "source": "연합뉴스",
-   "cat": "hlt",
-   "day": "2026-10-07",
-   "count": 4
+   "id": "b43f82682ca6",
+   "title": "국정감사 3일째, 형사사법 개편·DMZ 지뢰 폭발 등 뜨거운 쟁점들",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880761",
+   "source": "gokorea.kr",
+   "cat": "acc",
+   "day": "2026-10-08",
+   "count": 1
   },
   {
-   "id": "6efeddb5fb6b",
-   "title": "제주도-노동부, 노동 취약사업장 합동점검",
-   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400970",
-   "source": "jejudomin.co.kr",
-   "cat": "law",
-   "day": "2026-10-07",
-   "count": 4
-  },
-  {
-   "id": "00fc9f10858d",
-   "title": "금속노조 \"충주 노동자 사망, '위험의 외주화' 멈추라\"",
-   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445129",
-   "source": "충청일보",
+   "id": "6fb342d53b12",
+   "title": "[단독-중대재해 리포트 ②] 검찰이 '면죄부' 준 기업에서 '또' 숨졌다",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237111",
+   "source": "매일노동뉴스",
    "cat": "sev",
-   "day": "2026-10-07",
-   "count": 3
+   "day": "2026-10-08",
+   "count": 1
   },
   {
-   "id": "ef34b79c7d55",
-   "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
-   "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
-   "source": "연합뉴스",
+   "id": "f2f84b81ec24",
+   "title": "주치의 예단이 산재 신청 문턱 돼서는 안 된다",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237133",
+   "source": "매일노동뉴스",
+   "cat": "hlt",
+   "day": "2026-10-08",
+   "count": 1
+  },
+  {
+   "id": "678b8d307758",
+   "title": "울산형 AX, S-OIL 협력사로 확산",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069101",
+   "source": "경상일보",
    "cat": "tech",
-   "day": "2026-10-07",
-   "count": 3
+   "day": "2026-10-08",
+   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "산업안전보건법 개정에 건설사 실무부담 커진다···안전 대응체계 손...",
+   "summary": "영업이익의 최대 5% 과징금과 반복 사망사고 사업자의 등록말소 요청 근거가 신설됐고, 작업중지권과... 중대재해가 발생한 경우뿐 아니라 근로자가 의식불명이나 생사불명 상태에 있거나 중대한 신체 손상을 입은 경우...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=326880",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=326880",
+   "source": "대한전문건설신문",
+   "published": "2026-10-08T07:54+09:00",
+   "cat": "law",
+   "id": "fc113ecdb1dc",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "국정감사 3일째, 형사사법 개편·DMZ 지뢰 폭발 등 뜨거운 쟁점들",
+   "summary": "정무위원회에서는 금융위원회와 한국산업은행을 대상으로 단일종목 레버리지 ETF 도입 문제가 다뤄질... 문화체육관광위원회는 국가유산청, 기후에너지환경노동위원회는 기상청, 보건복지위원회는 보건복지부와 지역...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880761",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=880761",
+   "source": "gokorea.kr",
+   "published": "2026-10-08T07:28+09:00",
+   "cat": "acc",
+   "id": "b43f82682ca6",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[전문가 기고] 데이터로 보는 한·일 LPG 안전관리체계 한국은 공공기관...",
+   "summary": "지정·등록·갱신·감독의 절차 하나하나를 법률 층위에서 세세하게 설계해 둔 것이다. [그림1] 한·일 법, 같은... 이런 흐름 속에서 안전관리 체계 역시 지금의 틀에 안주하기보다, 변화하는 산업 구조에 맞춰 유연하게 다시...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127075",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127075",
+   "source": "가스신문",
+   "published": "2026-10-08T07:18+09:00",
+   "cat": "law",
+   "id": "fff6092906b4",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[오늘의 주요일정·8일] 노동부, 일자리 전담반(TF) 개최",
+   "summary": "금속노조, 중대산업재해 자살 주장! 고인 및 유족 모욕 망언 민병대 이사장 규탄 승강기 검사원 고 김경태 사망사고 국정감사 후속 기자회견(13:40, 국회 소통관 기자회견장) ■ 스포츠 ▲프로농구= DB-LG(19시...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246307",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246307",
+   "source": "세이프타임즈",
+   "published": "2026-10-08T07:06+09:00",
+   "cat": "law",
+   "id": "bc3e709b4083",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[단독-중대재해 리포트 ②] 검찰이 '면죄부' 준 기업에서 '또' 숨졌다",
+   "summary": "지난해 5월 경기 시흥시 SPC삼립 시화공장에서 50대 노동자가 냉각 컨베이어 벨트에 상반신이 끼여 사망했다. CJ대한통운도 중대재해처벌법 위반 혐의로 대표이사가 불기소된 사업장이다. 2022년 5월 CJ대한통운(건설부문)...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237111",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237111",
+   "source": "매일노동뉴스",
+   "published": "2026-10-08T06:34+09:00",
+   "cat": "sev",
+   "id": "6fb342d53b12",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[단독] 역학조사만 1천205일, 결과 못 보고 숨진 노동자",
+   "summary": "▲ 자료사진 정기훈 기자 산재 판단을 위한 역학조사가 정부 지침상 기한인 180일을 훌쩍 넘겨 최장 1천205일... 역학조사가 가장 오래 걸린 두 사건의 노동자는 모두 결과를 기다리다 사망했다. 올해 6월 말 기준 1천205일...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237112",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237112",
+   "source": "매일노동뉴스",
+   "published": "2026-10-08T06:34+09:00",
+   "cat": "sev",
+   "id": "746042d8dc17",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "이재명 정부 국정과제 세부항목 73.8% '미실현'",
+   "summary": "이 소장은 123대 국정과제 중 고용노동부 소관 과제 6개(국정75, 국정92~96)와 재정경제부 소관 1개(국정18)의... 나머지 30건은 산업안전·임금체불·노동감독·휴가제도 등을 보강·정비했다. 국정과제 세부항목 42개 중 지난달...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237124",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237124",
+   "source": "매일노동뉴스",
+   "published": "2026-10-08T06:34+09:00",
+   "cat": "law",
+   "id": "1a62bbd92505",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "이주노동자 산재 예방 \"취약집단 특별보호 법제화로\"",
+   "summary": "외국인노동자에 대한 법적 보호 근거를 현장 조치로 연결할 방안으로 산업안전보건위원회 강화도 제안했다. 위원회의 직무 및 심의·의결사항을 정하는 고용노동부 표준안전보건관리규정 17조에 외국인노동자 고용...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237122",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237122",
+   "source": "매일노동뉴스",
+   "published": "2026-10-08T06:34+09:00",
+   "cat": "law",
+   "id": "b25866d9cc80",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "주치의 예단이 산재 신청 문턱 돼서는 안 된다",
+   "summary": "국내에도 직업병안심센터가 임상의학과와 협력병원에서 의심 사례를 접수해 전문적인 평가로 연결하고... 사회법전 7권 202조에 따라 의사와 치과의사는 직업병이라는 근거 있는 의심이 생기면 지체 없이 재해보험기관 등에...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237133",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237133",
+   "source": "매일노동뉴스",
+   "published": "2026-10-08T06:34+09:00",
+   "cat": "hlt",
+   "id": "f2f84b81ec24",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "신안산선 붕괴 4662억 '청구서'…영업정지에도 수주는 계속",
+   "summary": "지난해 실적에는 중대재해 사고에 따른 비용과 공사 중단 여파가 반영됐다. 포스코이앤씨는 \"신안산선 5... 사망사고 이후 비난 여론을 반영해 무거운 제재를 내리더라도 법적 요건을 충족하지 못하면 재판에서 유지되기...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005423627?sid=101",
+   "orig": "https://www.mt.co.kr/estate/2026/10/08/2026100722571366680",
+   "source": "머니투데이",
+   "published": "2026-10-08T06:30+09:00",
+   "cat": "acc",
+   "id": "8872bba88d19",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "현대건설, 안전보건 투자 3000억 '톱'...잇따른 사망 사고로 '안전 경영...",
+   "summary": "2024년과 비교하면 현대건설의 지난해 안전보건 투자액은 7.6% 증가했다. 반면 대우건설과 DL이앤씨, IPARK현대산업개발은 오히려 감소했다. 올해 투자 계획을 밝힌 곳은 현대건설과 대우건설 두 곳이다. 금액은...",
+   "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=765225",
+   "orig": "http://www.consumernews.co.kr/news/articleView.html?idxno=765225",
+   "source": "소비자가만드는신문",
+   "published": "2026-10-08T06:10+09:00",
+   "cat": "sev",
+   "id": "7dce77fd0bbf",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "'노란봉투법' 첫 국감…원청교섭 성적표, 근로감독관 수사권 쟁점 부상",
+   "summary": "지난 1일에는 안전·보건조치 의무 위반으로 1년간 노동자 3명 이상이 산재로 사망한 경우 영업이익 5% 이내의 과징금을 부과하는 산업안전보건법 개정안이 본회의를 통과했다. 과징금제도는 공포 후 6개월이 지난날부터...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009216180?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6313427",
+   "source": "뉴스1",
+   "published": "2026-10-08T06:00+09:00",
+   "cat": "law",
+   "id": "75b354667f74",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "인천 제물포구, 보조금 수급시설 사업주 대상 '안전보건관리체계 구축 ...",
+   "summary": "안전보건관리 담당자 지정과 역할, 중대재해 예방을 위한 자율점검 체크리스트 활용법 등을 중심으로 진행됐다. 교육 이후에는 참석자들이 함께 ‘산업재해 근절 실천 다짐’ 캠페인을 진행했다. 참석자들은 결의문...",
+   "url": "https://kpenews.com/View.aspx?No=4255888",
+   "orig": "https://kpenews.com/View.aspx?No=4255888",
+   "source": "kpenews.com",
+   "published": "2026-10-08T04:08+09:00",
+   "cat": "hlt",
+   "id": "4fba40b26246",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "HL 정몽원 회장, '중대재해·안전의무 위반' 국감증인 신청되자…63일 후...",
+   "summary": "끼여 사망했다. 이에 당시 노동당국은 \"안전보건관리체계 구축 여부와 현장 감독이 제대로 이뤄졌는지를 엄정하게 조사해 위법 사항이 확인되면 철저히 책임을 물을 방침\"이라고 전했다. 김씨의 사망 이후에도...",
+   "url": "https://www.job-post.co.kr/news/articleView.html?idxno=231201",
+   "orig": "https://www.job-post.co.kr/news/articleView.html?idxno=231201",
+   "source": "job-post.co.kr",
+   "published": "2026-10-08T03:48+09:00",
+   "cat": "sev",
+   "id": "235daa01c121",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "HD현대 조선 총괄부회장에 이상균 선임",
+   "summary": "이달 1일 국회에서 1년 새 3명 이상 사망하는 중대재해가 발생하는 기업에 최대 영업이익의 5%를 과징금으로 부과하는 내용을 담은 산업안전보건법 개정안이 통과되면서 근로자 안전에 대한 중요성이 더욱 부각된 점도...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003753491?sid=101",
+   "orig": "https://www.donga.com/news/Economy/article/all/20261007/134805141/2",
+   "source": "동아일보",
+   "published": "2026-10-08T00:31+09:00",
+   "cat": "law",
+   "id": "4d2100d59fea",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "울산형 AX, S-OIL 협력사로 확산",
+   "summary": "중소벤처기업진흥공단 울산지역본부(본부장 박미정)는 7일 S-OIL 울산공장에서 S-OIL, 울산시, 마엇 등과... 해당 시스템은 위험성 평가부터 안전점검, 시정·예방조치까지 안전관리 전 과정을 연계하고, 산업안전보건...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069101",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069101",
+   "source": "경상일보",
+   "published": "2026-10-08T00:02+09:00",
+   "cat": "tech",
+   "id": "678b8d307758",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "늘 바삐 일하고 얻은 건 ‘암’…“SK하이닉스 산재 인정하라”",
+   "summary": "이들은 회견을 마치고 근로복지공단에 산재 신청서를 제출했다. 홍정민씨는 2006년 SK하이닉스에 입사해 약... 홍씨의 아내 임모씨는 “어린 아들은 늘 바쁘게 일하던 아빠와 공놀이 한번 못해봤다”며 “남편의 사망...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003474980?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610072122015",
+   "source": "경향신문",
+   "published": "2026-10-07T21:22+09:00",
+   "cat": "hlt",
+   "id": "a55aa7d689f2",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "SK하이닉스 직업병 심사 착수…반도체 클린룸 안전망 다시 시험대 오른...",
+   "summary": "들어 직업병 승인을 요구했다고 같은 날 보도했다. 인공지능 메모리 반도체 공급망을 주도하는 한국 주요... 발병을 직업병으로 승인할 것을 촉구했다. 이번 신청 대상자 가운데 한 명인 고 윤영미 씨는 1996년부터...",
+   "url": "https://www.g-enews.com/view.php?ud=202610072104266787fbbec65dfb_1",
+   "orig": "https://www.g-enews.com/view.php?ud=202610072104266787fbbec65dfb_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-07T21:20+09:00",
+   "cat": "hlt",
+   "id": "4c34a4a3d251",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "노동부 안전점검 나흘 만에 사망 사고‥\"안전설비도 없어\"",
+   "summary": "앞선 산재 사고로 고용노동부가 현장 안전점검을 다녀간 지 나흘 만에 또다시 중대재해가 발생한 건데요. 기계에 필수 안전장치조차 없었는데도 노동부는 이를 걸러내지 못하면서 부실 점검을 했다는 비판이 거셉니다....",
+   "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261007&SEQUENCE=4593",
+   "orig": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261007&SEQUENCE=4593",
+   "source": "mbccb.co.kr",
+   "published": "2026-10-07T20:56+09:00",
+   "cat": "sev",
+   "id": "b0ca77f4be70",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "울산 제조업 AX, 대기업 협력사로 넓힌다",
+   "summary": "중소벤처기업진흥공단 울산지역본부는 7일 S-OIL 울산공장에서 S-OIL, 울산시, (주)마엇 등과 함께 'S-OIL... 이 시스템은 위험성평가부터 안전점검, 시정·예방조치까지 안전관리 전 과정을 연계하고 산업안전보건 관련...",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=393203",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=393203",
+   "source": "ujeil.com",
+   "published": "2026-10-07T20:42+09:00",
+   "cat": "tech",
+   "id": "7a1fcb9b9d44",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "차마 못 보는 아내 투병 사진‥\"반도체 산업재해 인정해 달라\"",
+   "summary": "[이종란/'반올림' 노무사] \"유해 화학물질의 상당 부분이 영업 비밀이라는 이유로 그 물질의 성분이 비공개되어 있고‥\" 앞서 백혈병에 걸린 SK하이닉스 청주공장 30대 노동자가 산업재해를 인정받았지만, 안타깝게 지난...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001527746?sid=102",
+   "orig": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856417_37004.html",
+   "source": "MBC",
+   "published": "2026-10-07T20:36+09:00",
+   "cat": "hlt",
+   "id": "d1096cb5e7d2",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 대구광역본부, 민관 협업으로 근로자 건강·안전 챙겨",
+   "summary": "안전보건공단 대구광역본부가 대구 혁신도시 입주기업 근로자들의 건강과 산업안전 관리를 위한 교육 프로그램을 마련했다.공단은 7일 신용보증기금 본사에서 입주기업 안전보건업무 담당자 등 100여명을 대상으로...",
+   "url": "https://www.kbsm.net/news/view.php?idx=536906",
+   "orig": "https://www.kbsm.net/news/view.php?idx=536906",
+   "source": "kbsm.net",
+   "published": "2026-10-07T20:18+09:00",
+   "cat": "tech",
+   "id": "d33c851f64d0",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "인명사고 땐 과징금 100억, 산안법 개정 후 첫 국감",
+   "summary": "이재명 대통령이 지난해 취임 초 국무회의 등을 통해 지속해서 요구했던 중대재해 대책 마련의 결과로 나온 것이 이번 산안법의 개정이다. 포스코이앤씨는 2023년 1건, 2024년 3건, 2025년 5건 등 사망사고가 발생하며...",
+   "url": "https://n.news.naver.com/mnews/article/417/0001160343?sid=101",
+   "orig": "https://www.sidae.com/article/2026100708472283488",
+   "source": "sidae.com",
+   "published": "2026-10-07T18:54+09:00",
+   "cat": "law",
+   "id": "5f9c69e8a82f",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "한보총, AI 기반 안전보건 최고위 과정 첫발… 중대재해 예방 해법 모색",
+   "summary": "14일에는 박진호 안전보건공단 AI 디지털전략실장이 'AI 대전환 시대, 산업안전보건의 미래전략'을 주제로 강의할 예정이다. 국내 산업안전 현장을 살펴보는 산업시찰 프로그램도 마련했으며 28일에는 중대재해 시대...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250916",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250916",
+   "source": "안전신문",
+   "published": "2026-10-07T18:52+09:00",
+   "cat": "tech",
+   "id": "94c71248f4ba",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "경상남도 노사민정협의회, 진해신항 건설현장서 중대재해 예방 캠페인 ...",
+   "summary": "창원특례시청, 고용노동부 창원지청, 안전보건공단 경남지역본부, 한국산업단지공단 경남지역본부, 대한산업안전협회 창원지회, 한국노총 경남본부, ㈜서경건설안전, ㈜세아창원특수강, 현대건설㈜, DL이앤씨㈜ 등 노·사...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=578053",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=578053",
+   "source": "newsgn.com",
+   "published": "2026-10-07T18:38+09:00",
+   "cat": "tech",
+   "id": "ad0da14efc41",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014240205?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261007_0003818130",
+     "title": "[경남소식]경남노사민정협의회, 진해서 중대재해 예방 캠페인 등"
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 대구본부, 신용보증기금 본사 근로자 증진 캠페인·안전수...",
+   "summary": "▲ 7일 신용보증기금 본사에서 대구 혁신도시 입주기업 안전보건업무 담당자들이 근로자 증진 캠페인·안전수칙 교육을 실시하고 있다.안전보건공단 대구본부 제공 안전보건공단 대구본부는 7일 신용보증기금 본사에서...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556554",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=556554",
+   "source": "dkilbo.com",
+   "published": "2026-10-07T18:36+09:00",
+   "cat": "tech",
+   "id": "eeefb7c44850",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[HD현대 인사 추적]① 정기선 첫 사장단 1년… 이상균 역할 넓히고 송희...",
+   "summary": "올해 HD현대중공업에서는 중대재해도 잇따랐다. 4월 9일 울산조선소에서 창정비 중이던 잠수함에 불이 나 협력업체 노동자가 숨졌고, 7월에는 울산과 군산에서 끼임 사망사고가 이어졌다. 7월 18일 울산조선소에서는...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077702",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077702",
+   "source": "뉴스클레임",
+   "published": "2026-10-07T18:32+09:00",
+   "cat": "law",
+   "id": "59862e323d5d",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "반도체 직업병 산재 심사, '입증 자료' 접근성 쟁점",
+   "summary": "산재 신청자는 이온주입 공정 담당자와 화학물질 분석 업무 담당자, 반도체 칩 납땜 업무를 수행한 연구개발 노동자다. 이 가운데 유방암과 뇌종양 진단을 받은 노동자 2명은 사망했다. 유방암으로 지난 4월 사망한...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2003728",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2003728",
+   "source": "m-i.kr",
+   "published": "2026-10-07T18:20+09:00",
+   "cat": "hlt",
+   "id": "d5f4e5def814",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "공장서 ‘끼임 사고’로 40대 노동자 숨져…경찰·노동청 조사",
+   "summary": "전남광주의 한 공장에서 끼임 사고를 당한 노동자가 숨졌습니다. 어제(6일) 오후 3시 20분쯤 전남광주 광산구 평동산단의 한 공장에서 40대 노동자 A 씨가 자재 사이에 끼여 심정지 상태로 발견됐습니다. A 씨는 심정지...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012269472?sid=102",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679921&ref=A",
+   "source": "KBS",
+   "published": "2026-10-07T18:19+09:00",
+   "cat": "sev",
+   "id": "1a6d8deafeeb",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[사설] 경제자유지수 53위로 추락… ‘친노동 과속’이 불러온 경고음이...",
+   "summary": "이재명 정부가 민주노총 위원장 출신을 고용노동부 장관에 앉히고 사용자 범위를 원청까지 무한정 확대하고 파업으로 인한 손해배상 청구 길마저 사실상 봉쇄한 '노란봉투법' 강행, 노동시장 규제와 산업안전보건법...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003052052?sid=110",
+   "orig": "https://www.dt.co.kr/article/12088033?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-07T18:17+09:00",
+   "cat": "law",
+   "id": "0f14a1350c4d",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "언어 달라도 노동권은 같게...대전 외국인 노동자 권익 알린다",
    "summary": "현장에서는 근로계약서 작성과 근로조건 확인, 최저임금·임금명세서, 근로·휴게시간, 임금체불과 업무상 사고·질병 발생 시 상담 방법 등을 안내했다. 언어 장벽을 낮추기 위한 다국어 안내도 병행했다. 참가자들은...",
@@ -197,7 +594,14 @@
    "published": "2026-10-07T17:30+09:00",
    "cat": "tech",
    "id": "b3e3322284e3",
-   "related": [],
+   "related": [
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=491975",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=491975",
+     "title": "경남도 건설현장 중대재해 예방 캠페인"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -379,7 +783,14 @@
    "published": "2026-10-07T16:12+09:00",
    "cat": "acc",
    "id": "847235a5f482",
-   "related": [],
+   "related": [
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001401620?sid=101",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026100706514435615",
+     "title": "“가을·겨울철 해양사고 예방 총력”…KOMSA 경영진, 10월 전국 현장점..."
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -750,7 +1161,20 @@
    "published": "2026-10-07T13:33+09:00",
    "cat": "hlt",
    "id": "9bc4660fcacd",
-   "related": [],
+   "related": [
+    {
+     "source": "프레시안",
+     "url": "https://n.news.naver.com/mnews/article/002/0002460030?sid=102",
+     "orig": "https://www.pressian.com/pages/articles/2026100713294120261?utm_source=naver&utm_medium=search",
+     "title": "\"혈액암·유방암·뇌종양\"…SK하이닉스 반도체 노동자, 집단 산재신청"
+    },
+    {
+     "source": "autodaily.co.kr",
+     "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
+     "orig": "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
+     "title": "SK하이닉스 노동자, 집단 산재신청⋯\"유방암·뇌종양·림프종 피해\""
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
