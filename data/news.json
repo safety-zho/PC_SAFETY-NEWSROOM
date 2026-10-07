@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T09:26+09:00",
+ "updatedAt": "2026-10-07T10:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "6472fff34449",
+   "title": "건설현장 사망자 절반 이상 추락사…대형 건설사서도 사고 반복",
+   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122905",
+   "source": "delighti.co.kr",
+   "cat": "sev",
+   "day": "2026-10-07",
+   "count": 2
+  },
+  {
    "id": "d04adac6ea31",
    "title": "산업안전교육에 뮤지컬 접목…예술인테리어 해우 우리가 짓는 집 선봬",
    "url": "https://n.news.naver.com/mnews/article/396/0000757333?sid=103",
@@ -34,31 +43,13 @@
    "count": 2
   },
   {
-   "id": "3196c3e9ddbb",
-   "title": "남원시, 직접일자리 근로자 100여 명 대상 안전보건교육 실시",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714674",
-   "source": "국제뉴스",
-   "cat": "tech",
-   "day": "2026-10-07",
-   "count": 1
-  },
-  {
-   "id": "28a76f990b4e",
-   "title": "경기도, 본격 수확철 맞아 농작업 안전사고 주의 당부",
-   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445348",
-   "source": "econonews.co.kr",
-   "cat": "acc",
-   "day": "2026-10-07",
-   "count": 1
-  },
-  {
    "id": "4680f1367ff8",
    "title": "5년간 건설현장서 642명 추락사...10대 건설사도 36명 숨져",
    "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913355",
    "source": "chungnamilbo.co.kr",
    "cat": "sev",
    "day": "2026-10-07",
-   "count": 1
+   "count": 2
   },
   {
    "id": "6ce27aedf124",
@@ -67,10 +58,169 @@
    "source": "chungnamilbo.co.kr",
    "cat": "law",
    "day": "2026-10-07",
-   "count": 1
+   "count": 2
+  },
+  {
+   "id": "89462026531d",
+   "title": "건설현장 사망 절반이 추락사…‘작업자 부주의’ 최다",
+   "url": "https://n.news.naver.com/mnews/article/018/0006382631?sid=101",
+   "source": "이데일리",
+   "cat": "sev",
+   "day": "2026-10-07",
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "'계양 맨홀 사망사고'.. 인천환경공단 전 이사장 등 20명 공소청에 넘겨",
+   "summary": "것을 고용노동부 등에 요청했다. 인천경찰청 관계자는 \"산업현장의 안전불감증을 완전히 종식시킬 수 있도록 실질적으로 위험관리를 해야 하는 발주처와 경영책임자에게도 엄격한 형사책임을 묻었다\"면서 \"현장 안전관리...",
+   "url": "http://www.incheonin.com/news/articleView.html?idxno=121285",
+   "orig": "http://www.incheonin.com/news/articleView.html?idxno=121285",
+   "source": "incheonin.com",
+   "published": "2026-10-07T10:16+09:00",
+   "cat": "sev",
+   "id": "c1f622263751",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "근로자 2명 숨진 인천 맨홀 사고…전 인천환경공단 이사장 등 20명 송치",
+   "summary": "뒤 사망했다. A 씨 등은 맨홀 등 밀폐공간 작업을 수행 시 감독관을 배치했어야 했지만, 관리자를 배치하지... 중부지방고용노동청은 중대재해처벌법과 산업안전보건법을 적용해 A 씨 등을 공소청에 송치할 예정이다....",
+   "url": "https://n.news.naver.com/mnews/article/421/0009213523?sid=102",
+   "orig": "https://www.news1.kr/local/incheon/6312501",
+   "source": "뉴스1",
+   "published": "2026-10-07T10:06+09:00",
+   "cat": "sev",
+   "id": "35c671dadc66",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "해우, 산업안전 창작뮤지컬 '우리가 짓는 집' 기업 현장서 공연",
+   "summary": "중대재해처벌법 시행 이후 기업의 안전보건 책임이 강화되면서 산업안전교육의 실효성을 높여야 한다는 목소리가 이어지고 있다. 해우 측은 이러한 배경에서 교육공연을 기획했으며, 노동자들의 몰입도와 안전의식을...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005339937?sid=101",
+   "orig": "https://www.hankyung.com/article/202610077492O",
+   "source": "한국경제",
+   "published": "2026-10-07T10:05+09:00",
+   "cat": "hlt",
+   "id": "0c764882d04a",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "사망 절반이 추락사… 10대 건설사도 못 피한 ‘죽음의 현장’",
+   "summary": "최근 5년여간 건설현장에서 목숨을 잃은 노동자 2명 중 1명은 ‘추락사’인 것으로 드러났다. 현대건설... 대형 건설사 현장에서도 추락사망 사고가 발생했다. 국토부가 제출한 상위 10대 건설사 사고 목록을 집계한...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003051866?sid=101",
+   "orig": "https://www.dt.co.kr/article/12087839?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-07T10:01+09:00",
+   "cat": "sev",
+   "id": "9286969dcbe2",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "전국 건설 현장 사망자 2명 가운데 1명은 추락으로 봉변",
+   "summary": "같은 기간 부상자는 3만5094명으로 파악됐다. 사망 사고 유형으로는 추락(642명·52.6%)이 가장 많았다. 2명... 국토부 통계에 따르면 최근 5년간 상위 10대 건설사의 작업장에서는 120명이 사망했다. 이 중 36명(30.0%)이...",
+   "url": "https://n.news.naver.com/mnews/article/658/0000157724?sid=101",
+   "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261007.99099001650",
+   "source": "국제신문",
+   "published": "2026-10-07T09:55+09:00",
+   "cat": "sev",
+   "id": "87d5991255bc",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망자 절반 이상 추락사…대형 건설사서도 사고 반복",
+   "summary": "중대재해처벌법. (자료사진=연합뉴스) 최근 5년여간 건설현장에서 발생한 사망사고의 절반 이상이 추락사고로 집계됐다. 대형 건설사 현장에서도 추락사망 사고가 잇따랐고, 같은 공사에서 사고가 반복된 사례도...",
+   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122905",
+   "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=122905",
+   "source": "delighti.co.kr",
+   "published": "2026-10-07T09:54+09:00",
+   "cat": "sev",
+   "id": "6472fff34449",
+   "related": [
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870686",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=870686",
+     "title": "[이슈국감] 건설현장 사망자 절반은 '추락'"
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "국토안전관리원, 수도권 건설현장 사고 예방 강화…시공사·지자체와 건...",
+   "summary": "참석자들은 지자체와 시공사 현장 관계자들의 애로사항을 지속적으로 수렴하고, 스마트 안전 기술의 현장 정착을 위한 제도적 개선 과제를 발굴·보완함으로써 민·관 협력 기반의 안전관리 체계를 정착시키자는 데...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7187728",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7187728",
+   "source": "한국아이닷컴",
+   "published": "2026-10-07T09:50+09:00",
+   "cat": "tech",
+   "id": "e7c2ec661fa6",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "청주시, 배달 종사자 보호장구 구매비 최대 10만 원 지원",
+   "summary": "지원 대상은 이륜차 무상 안전 점검에 참여하고 산업안전보건교육을 이수한 배달원이다. 앞서 시는 한국오토바이정비협회와 흥덕구 복대동 근로자종합복지관에서 배달업 종사자 100명을 대상으로 '이륜차 무상...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009213402?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6312450",
+   "source": "뉴스1",
+   "published": "2026-10-07T09:38+09:00",
+   "cat": "hlt",
+   "id": "a4b957e6eb36",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "제주시, 중대재해 예방 안전보건 점검",
+   "summary": "제주시가 이달부터 오는 12월까지 중대재해 예방 안전보건 확보 의무 이행 점검에 나선다. 7일 시에 따르면 점검은 중대산업재해와 중대시민재해 예방체계 확립이 목표다. 점검 대상은 중대산업재해 분야 75개 부서...",
+   "url": "https://www.jejumaeil.net/news/articleView.html?idxno=405335",
+   "orig": "https://www.jejumaeil.net/news/articleView.html?idxno=405335",
+   "source": "jejumaeil.net",
+   "published": "2026-10-07T09:36+09:00",
+   "cat": "hlt",
+   "id": "9c889afd90a6",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "이명구 소장 \"위험현장 민간전문가, 법적 지위·보상체계 명확히 해야\"",
+   "summary": "특히 \"산업안전보건법과 산업재해보상보험법, 근로기준법 등을 근거로 공공기관이 외부 전문가를 위촉해 자문·심의·평가 등의 업무를 수행하도록 할 경우 해당 업무 수행 기간에는 일시적인 근로관계가 성립할 수 있다\"고...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250901",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250901",
+   "source": "안전신문",
+   "published": "2026-10-07T09:32+09:00",
+   "cat": "hlt",
+   "id": "132eb65eabd0",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "제주도, 숙박·외식업 임금체불 들여다본다…노동법도 점검",
+   "summary": "제주도가 고용노동부와 함께 숙박·외식업 등 노동관계법 준수가 취약한 사업장을 대상으로 근로조건과 산업안전 실태를 점검한다. 제주도와 고용노동부는 지난달 28일부터 7일까지 도내 숙박업과 외식업 등 4개 사업장을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014237334?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261007_0003816776",
+   "source": "뉴시스",
+   "published": "2026-10-07T09:29+09:00",
+   "cat": "law",
+   "id": "b8892064c75f",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "산업안전교육에 뮤지컬 접목…예술인테리어 해우 우리가 짓는 집 선봬",
    "summary": "기업의 안전보건 책임이 강화되면서 산업안전교육 방식도 변화하고 있다. 정해진 내용을 전달하는 데 그치지 않고 현장 구성원이 교육에 집중하고, 실제 행동 변화로 이어질 수 있는 콘텐츠에 대한 필요성이 커지는...",
@@ -126,7 +276,14 @@
    "published": "2026-10-07T08:56+09:00",
    "cat": "sev",
    "id": "4680f1367ff8",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014237349?sid=101",
+     "orig": "https://www.newsis.com/view/NISX20261007_0003816790",
+     "title": "건설현장 사망자 절반이 '추락사'…5년간 642명 숨져"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -139,7 +296,14 @@
    "published": "2026-10-07T08:56+09:00",
    "cat": "law",
    "id": "6ce27aedf124",
-   "related": [],
+   "related": [
+    {
+     "source": "충청일보",
+     "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2444998",
+     "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2444998",
+     "title": "천안시 이동노동자 안전 실태 조사 및 지원정책 수립을 위한 토론회 13일..."
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -204,7 +368,14 @@
    "published": "2026-10-07T08:03+09:00",
    "cat": "sev",
    "id": "89462026531d",
-   "related": [],
+   "related": [
+    {
+     "source": "dailyt.co.kr",
+     "url": "https://www.dailyt.co.kr/newsView/dlt202610070011",
+     "orig": "https://www.dailyt.co.kr/newsView/dlt202610070011",
+     "title": "건설현장 사망 절반이 추락…‘작업자 부주의’ 뒤에 숨은 안전관리 책..."
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -1702,6 +1873,12 @@
      "url": "https://www.sentv.co.kr/article/view/sentv202610060204",
      "orig": "https://www.sentv.co.kr/article/view/sentv202610060204",
      "title": "건설기계안전관리원 노조 98% “원주 이전 찬성”…공공기관 유치 탄력"
+    },
+    {
+     "source": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=721733",
+     "orig": "https://www.newstnt.com/news/articleView.html?idxno=721733",
+     "title": "원주시, 건설기계안전관리원 본원 원주 이전 추진…노조와 협약"
     }
    ],
    "day": "2026-10-06",
@@ -2233,6 +2410,19 @@
    "published": "2026-10-06T06:06+09:00",
    "cat": "hlt",
    "id": "eb6a688dc363",
+   "related": [],
+   "day": "2026-10-06",
+   "watch": []
+  },
+  {
+   "title": "사업성이 '안전' 덮었다… 사망사고 건설사 CEO 국감 소환 '0명'",
+   "summary": "지난해 공사현장에서 3명의 사망자가 발생한 현대건설은 올해 들어 이미 3명의 노동자가 건설현장에서 숨졌다. 사고 유형도 토사 붕괴, 추락사, 콘크리트 잔해물 낙하 등으로 지난해와 비슷했다. 이 중 2건은 에쓰오일(S...",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=2023092171389",
+   "orig": "https://it.chosun.com/news/articleView.html?idxno=2023092171389",
+   "source": "조선일보",
+   "published": "2026-10-06T06:00+09:00",
+   "cat": "sev",
+   "id": "a41cf6d26daa",
    "related": [],
    "day": "2026-10-06",
    "watch": []
