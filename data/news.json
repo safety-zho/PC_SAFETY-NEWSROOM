@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T08:20+09:00",
+ "updatedAt": "2026-10-07T09:26+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,163 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "482a57531ce3",
-   "title": "국정감사 이틀째, DMZ 지뢰 폭발부터 영화 논란까지 뜨거운 대결 예고",
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880638",
-   "source": "gokorea.kr",
-   "cat": "acc",
+   "id": "d04adac6ea31",
+   "title": "산업안전교육에 뮤지컬 접목…예술인테리어 해우 우리가 짓는 집 선봬",
+   "url": "https://n.news.naver.com/mnews/article/396/0000757333?sid=103",
+   "source": "sportsworldi.com",
+   "cat": "hlt",
    "day": "2026-10-07",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "89462026531d",
-   "title": "건설현장 사망 절반이 추락사…‘작업자 부주의’ 최다",
-   "url": "https://n.news.naver.com/mnews/article/018/0006382631?sid=101",
-   "source": "이데일리",
-   "cat": "sev",
-   "day": "2026-10-07",
-   "count": 1
-  },
-  {
-   "id": "03b49738b6e1",
-   "title": "후티, 사우디 본토에 미사일·드론 공세…韓근로자 숙소 앞까지 ‘불길...",
-   "url": "https://n.news.naver.com/mnews/article/119/0003140124?sid=104",
-   "source": "데일리안",
+   "id": "3196c3e9ddbb",
+   "title": "남원시, 직접일자리 근로자 100여 명 대상 안전보건교육 실시",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714674",
+   "source": "국제뉴스",
    "cat": "tech",
    "day": "2026-10-07",
    "count": 1
   },
   {
-   "id": "7e7e31432977",
-   "title": "[오늘의 주요일정·7일] 윤석열 명태균 정치자금법 위반 사건 2심 선고",
-   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246275",
-   "source": "세이프타임즈",
-   "cat": "law",
+   "id": "28a76f990b4e",
+   "title": "경기도, 본격 수확철 맞아 농작업 안전사고 주의 당부",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445348",
+   "source": "econonews.co.kr",
+   "cat": "acc",
    "day": "2026-10-07",
    "count": 1
   },
   {
-   "id": "3b0eb6b38493",
-   "title": "[기고] ①간병노동자 산재보험, 지금 당장!",
-   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41597",
-   "source": "laborplus.co.kr",
-   "cat": "hlt",
+   "id": "4680f1367ff8",
+   "title": "5년간 건설현장서 642명 추락사...10대 건설사도 36명 숨져",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913355",
+   "source": "chungnamilbo.co.kr",
+   "cat": "sev",
+   "day": "2026-10-07",
+   "count": 1
+  },
+  {
+   "id": "6ce27aedf124",
+   "title": "천안시비정규직지원센터, 이동노동자 안전 실태 조사 및 지원정책 수립...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913338",
+   "source": "chungnamilbo.co.kr",
+   "cat": "law",
    "day": "2026-10-07",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "산업안전교육에 뮤지컬 접목…예술인테리어 해우 우리가 짓는 집 선봬",
+   "summary": "기업의 안전보건 책임이 강화되면서 산업안전교육 방식도 변화하고 있다. 정해진 내용을 전달하는 데 그치지 않고 현장 구성원이 교육에 집중하고, 실제 행동 변화로 이어질 수 있는 콘텐츠에 대한 필요성이 커지는...",
+   "url": "https://n.news.naver.com/mnews/article/396/0000757333?sid=103",
+   "orig": "https://www.sportsworldi.com/newsView/20261007502565",
+   "source": "sportsworldi.com",
+   "published": "2026-10-07T09:02+09:00",
+   "cat": "hlt",
+   "id": "d04adac6ea31",
+   "related": [
+    {
+     "source": "경향신문",
+     "url": "https://sports.khan.co.kr/article/202610070911003?pt=nv",
+     "orig": "https://sports.khan.co.kr/article/202610070911003?pt=nv",
+     "title": "예술인테리어 해우, 기업 찾아가는 산업안전교육 뮤지컬 ‘우리가 짓는..."
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "남원시, 직접일자리 근로자 100여 명 대상 안전보건교육 실시",
+   "summary": "교육에서는 산업안전보건법의 기본 내용, 현장별 주요 위험요인과 그에 대한 예방 및 대처 방안, 산업재해 사고 사례와 예방수칙, 비상 상황 대응 요령 등이 다뤄졌다. 참석한 근로자들은 현장 사례 중심의 강의와...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3714674",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3714674",
+   "source": "국제뉴스",
+   "published": "2026-10-07T09:02+09:00",
+   "cat": "tech",
+   "id": "3196c3e9ddbb",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "경기도, 본격 수확철 맞아 농작업 안전사고 주의 당부",
+   "summary": "고령자는 사고가 발생했을 때 부상이 장기 치료나 영농 중단으로 이어질 가능성도 있어 작업시간 조절과... 농촌 작업장은 일반적인 사업장과 달리 지면이 고르지 않거나 경사진 곳이 많고 수확물과 농기구 등이 작업...",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445348",
+   "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=445348",
+   "source": "econonews.co.kr",
+   "published": "2026-10-07T09:00+09:00",
+   "cat": "acc",
+   "id": "28a76f990b4e",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "5년간 건설현장서 642명 추락사...10대 건설사도 36명 숨져",
+   "summary": "건설현장에서 숨진 노동자 2명 중 1명 이상이 추락으로 목숨을 잃은 셈이다. 연간 전체 사망자는 2021년 272명에서 2022년 238명, 2023년 244명, 2024년 209명, 지난해 199명으로 전반적인 감소세를 보였다. 하지만 추락사망은...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913355",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913355",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-07T08:56+09:00",
+   "cat": "sev",
+   "id": "4680f1367ff8",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "천안시비정규직지원센터, 이동노동자 안전 실태 조사 및 지원정책 수립...",
+   "summary": "토론자로는 천안시의회 이영재 시의원, 충남노사민정협의회 김성호 사무국장, 고용노동부 산업안전정책과 김해진 조사연구위원, 산업안전상생재단 노건수 전문위원, 배달대행 태환 김건태 대표, 한진택배 오정균 두정...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913338",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913338",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-07T08:56+09:00",
+   "cat": "law",
+   "id": "6ce27aedf124",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[스타트업 모닝커피 1411회] 클라우드랩, 위험성평가와 현장 안전관리를...",
+   "summary": "두 번째는 작업 조건에 따른 개별화된 위험관리입니다. 회사는 근로자의 작업 내용, 당일 날씨, 사용 장비, 작업 부위 정보를 바탕으로 AI가 위험과 대책을 안내하는 기능을 설명합니다. 건설사 공통 정보와 개별 현장...",
+   "url": "https://platum.kr/archives/295817",
+   "orig": "https://platum.kr/archives/295817",
+   "source": "platum.kr",
+   "published": "2026-10-07T08:54+09:00",
+   "cat": "tech",
+   "id": "ee5130975638",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "실감 나는 '안전사고' 직접 체험…3년간 중대재해 '0건'",
+   "summary": "현장에 나가면 안전고리부터 꼭 챙기는 습관을 가지게 될 거 같습니다.] 고용노동부과 한국산업안전보건공단이 주관하는 대·중소기업 안전보건 상생협력사업은 대기업과 공공기업이 협력업체에 자율적인 안전보건...",
+   "url": "https://n.news.naver.com/mnews/article/437/0000514429?sid=101",
+   "orig": "https://news.jtbc.co.kr/article/NB12321684?influxDiv=NAVER",
+   "source": "JTBC",
+   "published": "2026-10-07T08:45+09:00",
+   "cat": "tech",
+   "id": "4d3080afa7a8",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "근무 중 뇌출혈로 숨진 간호사…\"치료 48시간 넘겨서 산재 아니다?\"",
+   "summary": "천씨의 어머니는 깊은 절망감을 드러내며 \"딸이 48시간 안에 사망하지 않았다는 이유로 산재를 인정받지 못한다는 사실을 받아들이기 어렵다\"며 \"살릴 가능성이 만분의 일이라도 있다면 우리는 계속 치료를 시도했을 것...",
+   "url": "https://n.news.naver.com/mnews/article/076/0004453803?sid=102",
+   "orig": "https://www.sportschosun.com/life/2026-10-07/202610070100045540002943",
+   "source": "sportschosun.com",
+   "published": "2026-10-07T08:23+09:00",
+   "cat": "sev",
+   "id": "dd0f3ac5cb86",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "국정감사 이틀째, DMZ 지뢰 폭발부터 영화 논란까지 뜨거운 대결 예고",
    "summary": "이 외에도 보건복지위원회는 국민연금 자산 비중 재조정과 임신 중지 약물 '미프진' 도입 문제를 논의할 계획이다. 산업통상자원중소벤처기업위원회와 농림축산식품해양수산위원회는 각각 중소벤처기업부와...",
@@ -781,6 +892,12 @@
      "url": "https://www.livesnews.com/news/article.html?no=64743",
      "orig": "https://www.livesnews.com/news/article.html?no=64743",
      "title": "경남로봇랜드재단, 전 사업장 안전보건 체계 강화…ISO 45001 인증 추진"
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=202610070826155521ea13369bfa_1",
+     "orig": "https://www.g-enews.com/view.php?ud=202610070826155521ea13369bfa_1",
+     "title": "경남로봇랜드재단, 전 사업장 안전관리 재정비…ISO 45001 인증 추진"
     }
    ],
    "day": "2026-10-06",
