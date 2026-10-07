@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T14:18+09:00",
+ "updatedAt": "2026-10-07T15:22+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 11
   },
   {
+   "id": "b4ed71e9b979",
+   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016362420?sid=102",
+   "source": "연합뉴스",
+   "cat": "hlt",
+   "day": "2026-10-07",
+   "count": 4
+  },
+  {
    "id": "ef34b79c7d55",
    "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
    "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
@@ -59,18 +68,165 @@
    "cat": "sev",
    "day": "2026-10-07",
    "count": 3
-  },
-  {
-   "id": "b4ed71e9b979",
-   "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016362420?sid=102",
-   "source": "연합뉴스",
-   "cat": "hlt",
-   "day": "2026-10-07",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "새만금산단 건설현장 '서류 아닌 현장' 안전관리 강화",
+   "summary": "새만금산업단지사업단은 7일 박승수 사업단장을 비롯한 직원과 공사감독, 시공사 관계자 등 20여 명이 참석한 가운데 '새만금국가산업단지 무사고 안전 회의'를 열었다. 새만금산업단지사업단은 이날 회의와 관련해 건설...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813055",
+   "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=813055",
+   "source": "jeollailbo.com",
+   "published": "2026-10-07T15:10+09:00",
+   "cat": "law",
+   "id": "98b5634d6e21",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "안태준 의원 \"건설현장 폭염 예방 위해 이동식 쉼터 확대해야\"",
+   "summary": "확대와 안전투자 업체에 대한 인센티브 도입을 주문했다. 고용노동부 자료에 따르면 건설현장 온열질환 산업재해 승인자는 △2021년 11명 △2022년 15명 △2023년 17명 △2024년 34명 △2025년 36명으로 최근 5년간 총...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=326864",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=326864",
+   "source": "대한전문건설신문",
+   "published": "2026-10-07T15:08+09:00",
+   "cat": "law",
+   "id": "bd41de9a10d7",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 기본 놓친 건설현장, 추락사망 현재진행형",
+   "summary": "발생한 사망자는 모두 1220명으로 집계됐다. 이 가운데 추락사고로 숨진 근로자는 642명으로 전체의 52.6%를... 건설업계는 중대재해를 줄이기 위해 안전 관련 투자를 확대하고 현장 관리체계를 강화하는 한편, 인공지능...",
+   "url": "http://www.00news.co.kr/news/articleView.html?idxno=107024",
+   "orig": "http://www.00news.co.kr/news/articleView.html?idxno=107024",
+   "source": "00news.co.kr",
+   "published": "2026-10-07T15:06+09:00",
+   "cat": "sev",
+   "id": "e55b469433ed",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "추미애 지사, 오산서 소나무재선충병 대응 점검...예방백신·AI 방제 주...",
+   "summary": "도는 현재 도내 55개 사업장을 대상으로 상·하반기 연간 두 차례 안전보건점검을 실시하고 있으며 노동국과 산림환경연구소는 작업자 대상 주기적인 안전교육을 진행한 결과 2024년 이후 중대산업재해가 발생하지...",
+   "url": "https://www.ajunews.com/view/20261007144554977",
+   "orig": "https://www.ajunews.com/view/20261007144554977",
+   "source": "아주경제",
+   "published": "2026-10-07T15:06+09:00",
+   "cat": "tech",
+   "id": "156e6fbc1363",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "금속노조 \"현대성우캐스팅 하청업체 직원 사망사고 명백한 인재\"",
+   "summary": "전국금속노동조합은 7일 고용노동부 충주지청 앞에서 기자회견을 열고 \"이번에 발생한 하청 노동자 사망사... 고용노동부도 해당 공장에 작업 중지 명령을 내리고 중대재해처벌법 위반 여부 등을 조사 중이다.",
+   "url": "https://n.news.naver.com/mnews/article/001/0016363378?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261007132300064?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-07T15:04+09:00",
+   "cat": "sev",
+   "id": "c450ea2dea38",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "북부산림청, 산림병해충 방제현장 안전관리 재정비…보호구부터 구호체...",
+   "summary": "올해 산림병해충 방제사업장 점검에서는 방제 공정 준수 여부와 함께 작업자의 안전수칙 및 산업안전보건 준수 여부가 주요 점검 항목에 포함됐다. 북부지방산림청은 이번 논의 내용을 토대로 산림병해충 방제 현장에서...",
+   "url": "https://idsn.co.kr/news/view/1065592152659800",
+   "orig": "https://idsn.co.kr/news/view/1065592152659800",
+   "source": "idsn.co.kr",
+   "published": "2026-10-07T14:56+09:00",
+   "cat": "hlt",
+   "id": "01fa6da729d2",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "남양유업, 30g 슬라이스 체다치즈 출시…“한 장으로 두툼하게”",
+   "summary": "한편 남양유업 천안공장은 최근 우유 패키지에 산업 재배 예방 슬로건을 새기는 내용으로 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 안전 문화 확산을 위한 업무협약(MOU)을 체결했다. 양현우...",
+   "url": "https://www.fntimes.com/html/view.php?ud=202610071443429726923defd0cc_18",
+   "orig": "https://www.fntimes.com/html/view.php?ud=202610071443429726923defd0cc_18",
+   "source": "한국금융신문",
+   "published": "2026-10-07T14:48+09:00",
+   "cat": "tech",
+   "id": "4b4db30af4fa",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "건설현장 추락사고로 5년간 642명 사망, 기본 안전조치 미흡 여전",
+   "summary": "사진은 건설현장에서 일하고 있는 노동자들. <연합뉴스> 2026년 상반기에는 건설현장 사망자 58명 가운데 절반인 29명이 추락으로 숨졌다. 연간 전체 사망자는 2025년 199명으로 2021년(272명)보다는 줄었으나 추락 사망...",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448773",
+   "orig": "https://www.businesspost.co.kr/BP?command=article_view&num=448773",
+   "source": "비즈니스포스트",
+   "published": "2026-10-07T14:44+09:00",
+   "cat": "sev",
+   "id": "136d7adec286",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "광해광업공단, 'AI 광산안전관리 솔루션' 도입 박차",
+   "summary": "기반의 스마트 안전관리 체계 구축에 나섰다. 복잡한 서류 작업 대신 현장 사진만으로 위험 요인을 분석하고... 이번 설명회는 고질적인 인력 부족 문제를 겪는 국내 광업계의 안전관리 행정 부담을 덜고, 첨단 AI 기술을...",
+   "url": "https://www.etoday.co.kr/news/view/2633423",
+   "orig": "https://www.etoday.co.kr/news/view/2633423",
+   "source": "이투데이",
+   "published": "2026-10-07T14:42+09:00",
+   "cat": "tech",
+   "id": "063a001dd1a6",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망자 52.6%가 추락…현대건설 6명 숨져 '최다'",
+   "summary": "최근 5년여간 건설현장에서 숨진 노동자의 절반 이상이 추락사고로 목숨을 잃은 것으로 나타났다. 연간 사망자 수는 감소하고 있지만 대형 건설사 현장에서도 추락사고가 이어지고 같은 공사에서 사망사고가...",
+   "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49537",
+   "orig": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49537",
+   "source": "smarttimes.co.kr",
+   "published": "2026-10-07T14:36+09:00",
+   "cat": "sev",
+   "id": "02715ed76610",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "노동자단체 반올림 \"SK하이닉스 관련 산재 인정하라\"",
+   "summary": "뇌종양·유방암 사망 등에 대해 산업재해 사실을 인정하라고 요구했다. 반올림은 7일 근로복지공단... 반올림은 \"이미 법원 판례에서 산재보험에 필요한 입증의 수준은 의학적·자연과학적인 수준이 아니라 규범적인...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438137",
+   "orig": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438137",
+   "source": "einfomax.co.kr",
+   "published": "2026-10-07T14:28+09:00",
+   "cat": "hlt",
+   "id": "d9fd002e86f0",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "공공 건설현장 275곳 불법하도급 집중점검… 포상금 최대 3억",
+   "summary": "국토교통부와 고용노동부는 작년 다단계 하도급, 일괄 하도급 등 불법 하도급을 부실시공, 안전사고 및 임금체불의 주요 원인으로 지목한 것도 마찬가지다. 김이탁 국토1차관은 \"불법 하도급 문제는 대형 산업재해...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250915",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250915",
+   "source": "안전신문",
+   "published": "2026-10-07T14:24+09:00",
+   "cat": "law",
+   "id": "6280b45276bf",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "현대성우캐스팅 중대재해…현대차 SUV 등 생산 차질 가능성",
    "summary": "해당 작업자는 심정지 상태로 발견돼 병원으로 이송됐으나 끝내 사망했다. 사고 당시 작업자는 정기적인... 고용노동당국은 중대재해 발생에 따라 해당 공장에 작업중지 명령을 내렸다. 현대성우캐스팅은 본사와 공장...",
@@ -216,6 +372,18 @@
      "url": "https://n.news.naver.com/mnews/article/374/0000536673?sid=103",
      "orig": "https://biz.sbs.co.kr/article_hub/20000338719?division=NAVER",
      "title": "SK하이닉스 노동자 3명 산재 신청…인권단체 \"신속 인정해야\""
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002415773?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202610071432221781",
+     "title": "SK하이닉스 노동자 3명 산재 신청...\"즉각 인정해야\""
+    },
+    {
+     "source": "businesskorea.co.kr",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278388",
+     "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=278388",
+     "title": "SK하이닉스 노동자 3명 집단 산재 신청"
     }
    ],
    "day": "2026-10-07",
@@ -716,7 +884,14 @@
    "published": "2026-10-07T09:50+09:00",
    "cat": "tech",
    "id": "e7c2ec661fa6",
-   "related": [],
+   "related": [
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477799",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2477799",
+     "title": "국토안전관리원, 수도권 지역 건설사고 예방·안전관리 역량 강화"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
