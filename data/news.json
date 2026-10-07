@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-07T15:22+09:00",
+ "updatedAt": "2026-10-07T16:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 4
   },
   {
+   "id": "6efeddb5fb6b",
+   "title": "제주도-노동부, 노동 취약사업장 합동점검",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=400970",
+   "source": "jejudomin.co.kr",
+   "cat": "law",
+   "day": "2026-10-07",
+   "count": 3
+  },
+  {
    "id": "ef34b79c7d55",
    "title": "호남권생물자원관, 국제 안전보건 표준 인증 취득",
    "url": "https://n.news.naver.com/mnews/article/001/0016361916?sid=101",
@@ -52,25 +61,166 @@
    "count": 3
   },
   {
-   "id": "35c671dadc66",
-   "title": "근로자 2명 숨진 인천 맨홀 사고…전 인천환경공단 이사장 등 20명 송치",
-   "url": "https://n.news.naver.com/mnews/article/421/0009213523?sid=102",
-   "source": "뉴스1",
-   "cat": "sev",
-   "day": "2026-10-07",
-   "count": 3
-  },
-  {
-   "id": "6472fff34449",
-   "title": "건설현장 사망자 절반 이상 추락사…대형 건설사서도 사고 반복",
-   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=122905",
-   "source": "delighti.co.kr",
+   "id": "7bb25e535479",
+   "title": "'2명 사망' 맨홀 사고 관리감독 없었다…인천환경공단 관계자 등 18명 송...",
+   "url": "https://n.news.naver.com/mnews/article/437/0000514452?sid=102",
+   "source": "JTBC",
    "cat": "sev",
    "day": "2026-10-07",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "지이디, 필리핀 모빌리티 플랫폼 앙카스와 AI 안전관리 솔루션 도입 협...",
+   "summary": "세부 기술 사항을 검토했다. SAPS FaceMaker는 스마트폰 센서를 기반으로 운전자의 상태와 위험운전 정보를 실시간 이모지 형태로 시각화해 운전자와 관리자, 승객이 안전 정보를 확인할 수 있도록 하는 지이디의 AI...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003051984?sid=105",
+   "orig": "https://www.dt.co.kr/article/12087958?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-07T16:16+09:00",
+   "cat": "tech",
+   "id": "9b9aa85a49e6",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "해양사고 절반 이상, 가을·겨울 발생 … KOMSA 경영진, 전국 현장 점검",
+   "summary": "뉴데일리 최은서 기자 = 한국해양교통안전공단(KOMSA)이 가을·겨울철 해양사고 예방을 위해 이달 말까지... 어선원 안전보건체계 구축과 위험성평가, 구명조끼 착용 등 주요 안전관리 사항도 안내했다. KOMSA는 이달...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700311.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/07/2026100700311.html",
+   "source": "뉴데일리",
+   "published": "2026-10-07T16:12+09:00",
+   "cat": "acc",
+   "id": "847235a5f482",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "'중대재해'로 숨진 노동자 2,689명...현대차·한화·포스코 '최다', 대구...",
+   "summary": "대구경북지역은 5년간 298건의 중대재해 사망사고가 발생했다. 대구 67건에 사망자 68명, 경북은 231건에 사망자 239명이다. 지방노동관서별로 보면 ▲대구고용노동청 59건 ▲대구서부지청 81건 ▲구미지청 21건...",
+   "url": "https://www.pn.or.kr/news/articleView.html?idxno=34198",
+   "orig": "https://www.pn.or.kr/news/articleView.html?idxno=34198",
+   "source": "pn.or.kr",
+   "published": "2026-10-07T16:10+09:00",
+   "cat": "sev",
+   "id": "a19ec8c6dd68",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "\"화학물질·납땜에 스러진 반도체 연구원\"…반올림, SK하이닉스 집단 산...",
+   "summary": "질환으로 사망하거나 투병 중인 노동자들을 대리해 근로복지공단에 집단 산업재해(산재) 승인을 신청했다. 연구개발 과정에서 유해물질과 납 연기 등에 장기간 노출된 끝에 뇌종양으로 숨진 반도체 연구원의 직무 관련성...",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87166",
+   "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=87166",
+   "source": "industrynews.co.kr",
+   "published": "2026-10-07T16:00+09:00",
+   "cat": "hlt",
+   "id": "c4e4a6035db3",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "\"SK하이닉스 노동자 산재 신청…삼성전자 금지한 화학물질 사용\"",
+   "summary": "집단 산재신청 기자회견을 개최했다. 이날 SK하이닉스 이천 사업장에서 일하다 유방암ㆍ뇌종양으로 사망한 노동자 두 명과 호지킨림프종에 걸린 노동자 한 명 등 세 명이 산업재해 피해를 신청했다. 이종란 반올림...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20112",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20112",
+   "source": "lawleader.co.kr",
+   "published": "2026-10-07T15:58+09:00",
+   "cat": "hlt",
+   "id": "dda4d0cef118",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "금속노조 \"충주 노동자 사망, '위험의 외주화' 멈추라\"",
+   "summary": "열어 \"이번 중대재해는 이익은 갖되, 책임은 방기한 외주화의 결과\"라고 주장했다. ▲ 전국금속노동조합 관계자들이 7일 고용노동부 충주지청 앞에서 자동차 부품 공장 노동자 사망사고에 대한 기자회견을 열어 '위험의...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445129",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2445129",
+   "source": "충청일보",
+   "published": "2026-10-07T15:56+09:00",
+   "cat": "sev",
+   "id": "00fc9f10858d",
+   "related": [
+    {
+     "source": "충북일보",
+     "url": "https://www.inews365.com/news/article.html?no=938478",
+     "orig": "https://www.inews365.com/news/article.html?no=938478",
+     "title": "금속노조, 충주 공장 하청노동자 사망 규탄…\"외주화가 죽였다\""
+    }
+   ],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "청주시, 배달 라이더 120명 안전장구비 지원…1인 최대 10만원",
+   "summary": "이륜차 무상 안전점검에 참여하고 산업안전보건교육을 이수한 배달 라이더가 지원 대상이다. 시는 지난 4월 라이더 20명을 대상으로 1차 사업을 진행한 데 이어 7일 복대근로자종합복지관에서 100명을 대상으로 2차...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=868603",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=868603",
+   "source": "동양일보",
+   "published": "2026-10-07T15:54+09:00",
+   "cat": "hlt",
+   "id": "3524d2a40112",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "충주 자동차부품 공장 하청 노동자 사망… 불시점검 일주일 만에 사고",
+   "summary": "이어 \"눈에 보이는 위험도 제거하지 못했으니 노동자의 중대재해를 막기 위한 조치도 있을 리 만무하다\"며 \"위험의 외주화 속 기계에 들어간 노동자가 다시는 사망하지 않도록 기업과 당국을 상대로 적극 투쟁할 것\"이라고...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1513012",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1513012",
+   "source": "중부매일",
+   "published": "2026-10-07T15:52+09:00",
+   "cat": "sev",
+   "id": "d31f5e884487",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "SK하이닉스 노동자 3명 산업재해 신청…직업성 암 인정 요구",
+   "summary": "뒤 사망했다. 반도체 칩 납땜 업무를 담당한 연구개발 노동자도 뇌종양 발병 뒤 숨졌다. 직업성 암 산재 신청은 늘었지만 승인율은 낮아졌다. 근로복지공단 자료를 보면 지난해 직업성 암 산재 신청은 1614건으로 2018년...",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=554188",
+   "orig": "https://www.ngetnews.com/news/articleView.html?idxno=554188",
+   "source": "뉴스저널리즘",
+   "published": "2026-10-07T15:52+09:00",
+   "cat": "hlt",
+   "id": "9c88649c8617",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "10대 건설사도 못 막은 추락사…현대건설·롯데건설 각 6명 최다",
+   "summary": "현대건설이 시공한 세종포천고속도로 안성구리 건설공사 제14공구에서는 2022년 2월 추락사고로 노동자 1명이 숨진 데 이어 2023년 9월에도 추락사고로 1명이 사망했다. 현대엔지니어링에서는 서로 다른 현장에서 닷새...",
+   "url": "https://www.esgeconomy.com/news/articleView.html?idxno=16935",
+   "orig": "https://www.esgeconomy.com/news/articleView.html?idxno=16935",
+   "source": "esgeconomy.com",
+   "published": "2026-10-07T15:36+09:00",
+   "cat": "acc",
+   "id": "7113d0ee05d4",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
+  {
+   "title": "전국금속노조 현대성우캐스팅 충주공장 중대재해 규탄 기자회견",
+   "summary": "박씨가 중대재해로 사망한 현대성우캐스팅 충주1공장은 2019년 도장업무를 제외한 전체 공장이 외주화된 곳이다. 박씨가 들어간 설비 입구에는 잠금장치와 설비 내부에 노동자가 있다는 표지가 없었다. 또 2인1조...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=931060",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=931060",
+   "source": "cctimes.kr",
+   "published": "2026-10-07T15:28+09:00",
+   "cat": "law",
+   "id": "aa62a8bfe1ba",
+   "related": [],
+   "day": "2026-10-07",
+   "watch": []
+  },
   {
    "title": "새만금산단 건설현장 '서류 아닌 현장' 안전관리 강화",
    "summary": "새만금산업단지사업단은 7일 박승수 사업단장을 비롯한 직원과 공사감독, 시공사 관계자 등 20여 명이 참석한 가운데 '새만금국가산업단지 무사고 안전 회의'를 열었다. 새만금산업단지사업단은 이날 회의와 관련해 건설...",
@@ -353,7 +503,14 @@
    "published": "2026-10-07T13:00+09:00",
    "cat": "tech",
    "id": "0491f04b4846",
-   "related": [],
+   "related": [
+    {
+     "source": "강원도민일보",
+     "url": "https://n.news.naver.com/mnews/article/654/0000204295?sid=100",
+     "orig": "https://www.kado.net/news/articleView.html?idxno=2076892",
+     "title": "강원인재원 안전보건경영시스템 ISO 45001 인증 획득"
+    }
+   ],
    "day": "2026-10-07",
    "watch": []
   },
@@ -602,6 +759,12 @@
      "url": "https://n.news.naver.com/mnews/article/661/0000084474?sid=100",
      "orig": "https://www.jibs.co.kr/news/articles/articlesDetail/66241?feed=na",
      "title": "제주도, 노동 취약사업장 합동점검"
+    },
+    {
+     "source": "samdailbo.com",
+     "url": "http://www.samdailbo.com/news/articleView.html?idxno=271056",
+     "orig": "http://www.samdailbo.com/news/articleView.html?idxno=271056",
+     "title": "제주도·노동부, 노동관계법 취약 사업장 점검"
     }
    ],
    "day": "2026-10-07",
@@ -720,6 +883,12 @@
      "url": "https://n.news.naver.com/mnews/article/056/0012269204?sid=103",
      "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8679591&ref=A",
      "title": "‘맨홀 작업자 2명 사망’ 인천환경공단 관계자 등 18명 송치"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261007001262",
+     "orig": "https://www.newspim.com/news/view/20261007001262",
+     "title": "'2명 사망' 인천 맨홀 사고 발주처 인천환경공단 관계자 등 18명 송치"
     }
    ],
    "day": "2026-10-07",
