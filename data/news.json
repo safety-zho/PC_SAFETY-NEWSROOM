@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T09:25+09:00",
+ "updatedAt": "2026-10-08T10:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,196 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "115cfb0f62eb",
-   "title": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술...",
-   "url": "https://www.wikitree.co.kr/articles/1164716",
-   "source": "위키트리",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 1
-  },
-  {
-   "id": "98b596c2c590",
-   "title": "[팩트로 본 외국인⑤] 외국인은 결국 저숙련·단순노동자다?",
-   "url": "https://www.eroun.net/news/articleView.html?idxno=90181",
-   "source": "eroun.net",
+   "id": "4f261773517c",
+   "title": "유진기업, 전국 사업장 '8대 위험요인' 집중점검…반복 지적 뿌리뽑는다",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069817",
+   "source": "shinailbo.co.kr",
    "cat": "law",
    "day": "2026-10-08",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "31f0a225051e",
-   "title": "\"SK하이닉스 30년 근무…건강하던 아내가 유방암, 산업재해 신청\"",
-   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20116",
-   "source": "lawleader.co.kr",
+   "id": "5ac6c3e0651f",
+   "title": "유진그룹 계열 유진기업, 정기 안전보건 점검 실시… 안전경영 지속 강...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=341935",
+   "source": "국토일보",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 2
+  },
+  {
+   "id": "7166ffbb926c",
+   "title": "에프에이모스트, 채용부터 현장 운영까지 안전보건 관리 강화",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880792",
+   "source": "gokorea.kr",
    "cat": "hlt",
    "day": "2026-10-08",
    "count": 1
   },
   {
-   "id": "b43f82682ca6",
-   "title": "국정감사 3일째, 형사사법 개편·DMZ 지뢰 폭발 등 뜨거운 쟁점들",
-   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880761",
-   "source": "gokorea.kr",
-   "cat": "acc",
+   "id": "4115a49446fc",
+   "title": "정몽용 회장 이끄는 현대성우 계열사서 사망사고…안전관리 도마",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=314556",
+   "source": "ppss.kr",
+   "cat": "sev",
    "day": "2026-10-08",
    "count": 1
   },
   {
-   "id": "6fb342d53b12",
-   "title": "[단독-중대재해 리포트 ②] 검찰이 '면죄부' 준 기업에서 '또' 숨졌다",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237111",
-   "source": "매일노동뉴스",
-   "cat": "sev",
+   "id": "1fd6f8ef33cd",
+   "title": "국감 사흘째, 형사사법 개편·레버리지 ETF·DMZ 지뢰 폭발 공방",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111003",
+   "source": "bbsi.co.kr",
+   "cat": "acc",
    "day": "2026-10-08",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "산재 역학조사 180일 초과 100건...75% 결과 회신 못 받아",
+   "summary": "산업재해 여부를 판단하기 위한 역학조사가 장기화하면서 조사 결과를 기다리던 노동자들이 사망하는... 더불어민주당 박해철 국회의원이 근로복지공단으로부터 제출받은 '산재 역학조사 180일 초과 사건 목록'에...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=653797",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=653797",
+   "source": "경인매일",
+   "published": "2026-10-08T10:08+09:00",
+   "cat": "law",
+   "id": "760099b4e471",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "에프에이모스트, 채용부터 현장 운영까지 안전보건 관리 강화",
+   "summary": "안전보건팀은 현장 안전 점검과 근로자 교육, 위험 요인 발굴 및 예방, 산업안전 관계 법령 대응 업무를 총괄한다. 회사는 이번 인력 충원을 발판 삼아 인력 채용부터 현장 배치, 매장 운영 전반에 걸친 안전 기준을 개편할...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=880792",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=880792",
+   "source": "gokorea.kr",
+   "published": "2026-10-08T10:00+09:00",
+   "cat": "hlt",
+   "id": "7166ffbb926c",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "정몽용 회장 이끄는 현대성우 계열사서 사망사고…안전관리 도마",
+   "summary": "노동부도 작업중지 명령을 내리고 산업안전보건법과 중대재해처벌법 위반 여부를 조사 중이다. 전국금속노동조합에 따르면 노동부는 지난달 30일 해당 공장을 불시점검했다. 사고 발생 나흘 전이다. 금속노조는 사고...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=314556",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=314556",
+   "source": "ppss.kr",
+   "published": "2026-10-08T09:57+09:00",
+   "cat": "sev",
+   "id": "4115a49446fc",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 전국 사업장 4분기 안전보건 점검 12일부터 실시",
+   "summary": "현장 8대 유해·위험요인인 추락, 끼임, 부딪힘, 맞음, 깔림, 넘어짐, 감전, 화재와 함께 믹서, 혼화제 탱크 등 안전 검사 대상 설비의 개선 조치 결과, 주요 설비의 방호장치 상태 등이 주요 확인 항목이다. 또한 근로자 정기...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302283",
+   "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=302283",
+   "source": "newsquest.co.kr",
+   "published": "2026-10-08T09:52+09:00",
+   "cat": "tech",
+   "id": "bc63af58eeea",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "국감 사흘째, 형사사법 개편·레버리지 ETF·DMZ 지뢰 폭발 공방",
+   "summary": "문화체육관광위원회, 보건복지위원회, 기후에너지환경노동위원회, 국토교통위원회 등 9개 상임위원회에서... 금융위원회와 한국산업은행 등을 대상으로 하는 정무위 국감에서는 단일종목 레버리지 상장지수펀드, ETF 도입...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111003",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111003",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-08T09:52+09:00",
+   "cat": "acc",
+   "id": "1fd6f8ef33cd",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 전국 사업장 '8대 위험요인' 집중점검…반복 지적 뿌리뽑는다",
+   "summary": "특히 현장의 8대 유해·위험요인인 추락·끼임·부딪힘·맞음·깔림·넘어짐·감전·화재를 집중적으로 확인한다. 믹서와 혼화제 탱크 등 안전검사 대상 설비의 개선 여부와 주요 설비의 방호장치 상태도 점검한다. 근로자...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069817",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069817",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-08T09:50+09:00",
+   "cat": "law",
+   "id": "4f261773517c",
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002706854?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10896600?ref=naver",
+     "title": "유진기업, 전국 사업장 안전점검…추락·끼임 등 8대 위험요인 집중 관..."
+    }
+   ],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 현장 위험 선제 대응···전국 사업장 안전보건 점검",
+   "summary": "추락·끼임부터 감전·화재까지···8대 위험요인 집중 점검 유진기업은 현장의 대표적인 사고 위험인 8대... 근로자 정기교육과 직무별 특별교육 실시 여부를 비롯해 위험성평가가 실제 작업 과정에서 활용되고 있는지를...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155879",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=155879",
+   "source": "smartbizn.com",
+   "published": "2026-10-08T09:36+09:00",
+   "cat": "tech",
+   "id": "84742808e735",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "강서구, 각종 안전사고 등에 효과적으로 대응하기 위해 재난안전예산 투...",
+   "summary": "한편, 안전관리위원회는 성격에 따라 국가 차원의 중앙안전관리위원회, 지자체의 안전관리위원회, 그리고 사업장의 산업안전보건위원회 등으로 구분된다. 지자체의 안전관리위원회는 재난 및 안전관리기본법에...",
+   "url": "https://www.cnbizm.com/news/articleView.html?idxno=317421",
+   "orig": "https://www.cnbizm.com/news/articleView.html?idxno=317421",
+   "source": "cnbizm.com",
+   "published": "2026-10-08T09:36+09:00",
+   "cat": "acc",
+   "id": "897eaec43dd5",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진그룹 계열 유진기업, 정기 안전보건 점검 실시… 안전경영 지속 강...",
+   "summary": "감전, 화재)을 비롯해 믹서와 혼화제 탱크 등 안전 검사 대상 설비의 개선 조치 결과, 이외 주요 설비의 방호장치 상태 등을 중점적으로 확인할 계획이다. 또 근로자 정기 교육과 직무별 특별 교육 실시 여부, 위험성평가와...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=341935",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=341935",
+   "source": "국토일보",
+   "published": "2026-10-08T09:26+09:00",
+   "cat": "tech",
+   "id": "5ac6c3e0651f",
+   "related": [
+    {
+     "source": "mtn.co.kr",
+     "url": "https://news.mtn.co.kr/news-detail/2026100809422256656",
+     "orig": "https://news.mtn.co.kr/news-detail/2026100809422256656",
+     "title": "유진기업, 전국 사업장 4분기 안전보건 점검 실시"
+    }
+   ],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "호원대 앵커사업단, 한국산업단지공단 근로자 위한 프로그램 운영",
+   "summary": "호원대 앵커사업단의 K-컬처퍼포먼스사업단, H-산업보건헬스사업단, H-성인학습지원사업단이 참여해 대학이 보유한 문화예술·보건의료·교육 분야의 전문성을 바탕으로 다양한 프로그램을 운영했다. 각 사업단은...",
+   "url": "https://news.unn.net/news/articleView.html?idxno=598416",
+   "orig": "https://news.unn.net/news/articleView.html?idxno=598416",
+   "source": "unn.net",
+   "published": "2026-10-08T09:26+09:00",
+   "cat": "hlt",
+   "id": "bc3841125713",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술...",
    "summary": "AI가 축적된 데이터를 분석해 위험요인을 예측하고, 현장의 상황 변화에 대응하는 스마트 안전관리 기술을 비롯해 로봇과 드론 등 첨단장비를 활용한 사고 예방 솔루션도 공개된다. 올해 8회째를 맞는 한국건설...",
