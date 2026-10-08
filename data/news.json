@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T11:16+09:00",
+ "updatedAt": "2026-10-08T12:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,24 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "399a349171db",
+   "title": "가스기술공사, 현장 중심 안전관리 강화 나선다",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
+   "source": "투데이에너지",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 4
+  },
+  {
+   "id": "234061d31fb5",
+   "title": "NH농협은행, 'NH기업성장론' 출시…안전경영 우수기업에 금리 우대",
+   "url": "https://n.news.naver.com/mnews/article/030/0003473430?sid=101",
+   "source": "전자신문",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 4
+  },
+  {
    "id": "e659a6617e56",
    "title": "유진기업, 정기 안전보건 점검 시행…취약 요인 집중 관리",
    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413032",
@@ -43,34 +61,185 @@
    "count": 3
   },
   {
-   "id": "234061d31fb5",
-   "title": "NH농협은행, 'NH기업성장론' 출시…안전경영 우수기업에 금리 우대",
-   "url": "https://n.news.naver.com/mnews/article/030/0003473430?sid=101",
-   "source": "전자신문",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 2
-  },
-  {
-   "id": "4f261773517c",
-   "title": "유진기업, 전국 사업장 '8대 위험요인' 집중점검…반복 지적 뿌리뽑는다",
-   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069817",
-   "source": "shinailbo.co.kr",
-   "cat": "law",
-   "day": "2026-10-08",
-   "count": 2
-  },
-  {
-   "id": "84742808e735",
-   "title": "유진기업, 현장 위험 선제 대응···전국 사업장 안전보건 점검",
-   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155879",
-   "source": "smartbizn.com",
+   "id": "884bd9fb001d",
+   "title": "NH농협은행, 산업안전보건공단 추천 안전경영활동 우수기업 대상 전용상...",
+   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123009",
+   "source": "delighti.co.kr",
    "cat": "tech",
    "day": "2026-10-08",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "대구·경북 산재 사망 노동자 307명…전국의 11.4%",
+   "summary": "전국 사망자 2,689명의 11.4%를 차지했습니다. 관할 노동관서별로는 포항지청이 90건으로 가장 많았고, 이 중 하청업체에서 난 사고가 47건으로 원청보다 4건 많았습니다. 박 의원은 중대재해처벌법 시행 이후에도...",
+   "url": "https://www.tbc.co.kr/news/view?pno=20261008085341AE06557&id=211884",
+   "orig": "https://www.tbc.co.kr/news/view?pno=20261008085341AE06557&id=211884",
+   "source": "tbc.co.kr",
+   "published": "2026-10-08T12:14+09:00",
+   "cat": "sev",
+   "id": "3e00fbd11046",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "화순군, '계절근로자 교류 확대'... 필리핀 샤블라안시와 맞손",
+   "summary": "근로자들이 안전하고 안정적인 환경에서 일할 수 있도록 최선을 다해 지원하겠다\"고 말했다. 이에 화답한... 재배와 스마트팜 등 첨단 농업 기술 교류에도 공동 협력할 방침이다. 한편 화순군 전역에는 올해에만 총 370여...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=507756",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=507756",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-08T12:00+09:00",
+   "cat": "tech",
+   "id": "4e7fb4341471",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "추락사망 절반 넘는데… 통로도 없어 개구부로 다닌 건설현장",
+   "summary": "현대엔지니어링에서는 2023년 4월6일 가산 지식산업센터와 같은 달 11일 구리갈매 지식산업센터에서 각각... 관리감독자나 안전관리자, 순찰 인력 등이 현장을 지켜보며 안전대 부착설비에 안전대를 연결한 상태로...",
+   "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=728946",
+   "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=728946",
+   "source": "the-biz.co.kr",
+   "published": "2026-10-08T11:48+09:00",
+   "cat": "sev",
+   "id": "393dfb200b43",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "'AI 시대, 연구실 안전보건관리 어떻게 해야?'",
+   "summary": "모든 산업과 연구현장을 근본적으로 바꾸어 놓는 거대한 전환기를 맞이하고 있다\"며, \"AI 기술 도입에 따른 연구실 내의 새로운 위험요소를 찾아내고, AI 기술을 활용하여 연구실 안전보건관리를 더욱 스마트하고 예방...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127110",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127110",
+   "source": "가스신문",
+   "published": "2026-10-08T11:48+09:00",
+   "cat": "tech",
+   "id": "ecf3537bfb91",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "NH농협은행, 산업안전보건공단 추천 안전경영활동 우수기업 대상 전용상...",
+   "summary": "이번 상품은 지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결한 '중소·중견기업 산업안전 지원 상생협력을 위한 업무협약(MOU)'의 후속 사업이다. 양 기관은 산업안전 전문역량과 금융 인프라를 연계해 안전경영...",
+   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123009",
+   "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=123009",
+   "source": "delighti.co.kr",
+   "published": "2026-10-08T11:42+09:00",
+   "cat": "tech",
+   "id": "884bd9fb001d",
+   "related": [
+    {
+     "source": "wsobi.com",
+     "url": "http://www.wsobi.com/news/articleView.html?idxno=319397",
+     "orig": "http://www.wsobi.com/news/articleView.html?idxno=319397",
+     "title": "NH농협은행, 안전경영활동 우수기업 대상 전용상품 출시·'청년미래적금..."
+    }
+   ],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "가스기술공사, 현장 중심 안전관리 강화 나선다",
+   "summary": "또한, AI 및 스마트 안전기술을 현장 안전관리에 적극 활용해 위험요인을 사전에 발굴·관리 등 선제적이고 예방적인 안전관리 체계를 구축해 나갈 것을 당부했다. 또한, 이정실 기술안전사업본부은 \"국정감사 기간 중...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
+   "source": "투데이에너지",
+   "published": "2026-10-08T11:42+09:00",
+   "cat": "tech",
+   "id": "399a349171db",
+   "related": [
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=228836",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=228836",
+     "title": "가스기술공사, 현장 중심 안전관리 강화…중대재해 예방 총력"
+    },
+    {
+     "source": "energydaily.co.kr",
+     "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203915",
+     "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203915",
+     "title": "가스기술공사, CEO 주도 현장 안전관리 강화…AI로 위험요인 선제 대응"
+    },
+    {
+     "source": "amenews.kr",
+     "url": "http://amenews.kr/news/view.php?idx=68251",
+     "orig": "http://amenews.kr/news/view.php?idx=68251",
+     "title": "가스기술公, 기관장 주도 현장 안전관리 강화"
+    }
+   ],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "HD현대, 조선은 묶고 안전은 떼었다…정기선 첫 인사의 계산법",
+   "summary": "올해 울산조선소와 군산조선소에서 사망사고가 잇따르고 고용노동부가 고강도 감독에 착수한 이후 안전... 발전엔진·SMR 투자가 실제 수익원으로 자리 잡는지, 안전총괄 대표 체제가 현장의 중대재해를 줄이는지가...",
+   "url": "http://sateconomy.co.kr/news/view/1065580634786962",
+   "orig": "http://sateconomy.co.kr/news/view/1065580634786962",
+   "source": "sateconomy.co.kr",
+   "published": "2026-10-08T11:40+09:00",
+   "cat": "law",
+   "id": "67dd0b831b93",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 정용식 교통안전공단 이사장 \"전기차 안전관리 강화…AI 적...",
+   "summary": "정 이사장은 \"급변하는 교통환경 변화 속에서 미래 모빌리티 산업 활성화와 친환경 전환에 앞장서겠다\"고... 혁신 스타트업을 발굴하고 민간기업의 해외 수출을 지원하는 등 협력을 확대한다. 정 이사장은 \"국민의 안전한...",
+   "url": "https://www.newspim.com/news/view/20261008000616",
+   "orig": "https://www.newspim.com/news/view/20261008000616",
+   "source": "뉴스핌",
+   "published": "2026-10-08T11:35+09:00",
+   "cat": "tech",
+   "id": "783244c77aea",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "\"안전 잘 챙기면 빚 부담 확 깎아준다\"…NH농협은행, 금융권 최초 '안전...",
+   "summary": "이번 전용 상품은 지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결했던 중소·중견기업 산업안전 지원을 위한 상생 협력 업무협약(MOU)을 실제 금융 서비스로 구현해낸 첫 결실이다. 산업안전 분야의 전문성, 평가...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130829",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130829",
+   "source": "dailysmart.co.kr",
+   "published": "2026-10-08T11:24+09:00",
+   "cat": "tech",
+   "id": "657993d76ff7",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "공식 통계보다 더 뜨거운 아스팔트 노면… \"보도블럭 작업자 보호해야\"",
+   "summary": "현재 고용노동부는 '폭염 대비 온열질환 예방을 위한 사업장 대응지침'을 통해 체감온도 35℃ 이상에서는... 안전과 연결할 필요가 있다\"며 \"작업환경별 열위험을 반영한 맞춤형 기상정보를 제공해 온열질환과 산업재해...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250930",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250930",
+   "source": "안전신문",
+   "published": "2026-10-08T11:20+09:00",
+   "cat": "law",
+   "id": "acd73af40aca",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "한돈 농가 질식·추락 사고 예방 교육 콘텐츠 개발",
+   "summary": "우선 한돈연구소는 최근 한돈 농가에서 자주 발생하는 질식 및 추락사고 등을 예방하기 위해 중대재해처벌법 및 산업안전보건법 교육 콘텐츠를 개발할 예정이다. 교육 콘텐츠에는 사고 유형별 예방 방법뿐만 아니라...",
+   "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=407761",
+   "orig": "https://www.agrinet.co.kr/news/articleView.html?idxno=407761",
+   "source": "agrinet.co.kr",
+   "published": "2026-10-08T11:20+09:00",
+   "cat": "tech",
+   "id": "ab200cc21ffa",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "NH농협은행, 산업안전 우수기업 전용 대출 출시…최대 2.10%p 금리우대",
    "summary": "한국산업안전보건공단이 추천한 기업에 기본 0.30%포인트의 우대금리를 제공하며, 거래조건에 따라 최대 2.10%포인트까지 금리를 우대한다. NH농협은행은 'NH기업성장론(안전경영우수기업)'을 출시했다고 8일 밝혔다....",
@@ -112,6 +281,18 @@
      "url": "https://www.mhj21.com/news/articleView.html?idxno=254213",
      "orig": "https://www.mhj21.com/news/articleView.html?idxno=254213",
      "title": "NH농협은행, 안전경영 우수기업에 최대 2.10%p 금리 우대"
+    },
+    {
+     "source": "financialpost.co.kr",
+     "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=279378",
+     "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=279378",
+     "title": "NH농협은행, 안전경영 우수기업 전용 대출…최대 2.10%p 금리우대"
+    },
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103612",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1103612",
+     "title": "농협은행, 안전경영 우수기업에 최대 2.10%p 금리우대"
     }
    ],
    "day": "2026-10-08",
