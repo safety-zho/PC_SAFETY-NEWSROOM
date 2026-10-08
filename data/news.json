@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T16:20+09:00",
+ "updatedAt": "2026-10-08T17:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,22 +34,13 @@
    "count": 8
   },
   {
-   "id": "84742808e735",
-   "title": "유진기업, 현장 위험 선제 대응···전국 사업장 안전보건 점검",
-   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155879",
-   "source": "smartbizn.com",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 5
-  },
-  {
    "id": "e659a6617e56",
    "title": "유진기업, 정기 안전보건 점검 시행…취약 요인 집중 관리",
    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413032",
    "source": "한국아이닷컴",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 5
+   "count": 6
   },
   {
    "id": "f69fc7007225",
@@ -58,7 +49,16 @@
    "source": "weeklytoday.com",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 4
+   "count": 5
+  },
+  {
+   "id": "84742808e735",
+   "title": "유진기업, 현장 위험 선제 대응···전국 사업장 안전보건 점검",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155879",
+   "source": "smartbizn.com",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 5
   },
   {
    "id": "399a349171db",
@@ -71,6 +71,97 @@
   }
  ],
  "articles": [
+  {
+   "title": "[산업 레이더] 삼표산업·유진기업·효성중공업, 현장 안전과 독자 기술...",
+   "summary": "기반시설의 안전성을 확보하겠다는 목표다. 삼표산업 측은 기술 개발과 현장 밀착형 협력을 바탕으로... 관리감독자의 업무 이행 실태를 다각도로 검증하는 데 주력한다. 점검반은 추락, 끼임, 감전 등 현장 8대...",
+   "url": "http://www.thevaluenews.co.kr/news/view.php?idx=202224",
+   "orig": "http://www.thevaluenews.co.kr/news/view.php?idx=202224",
+   "source": "thevaluenews.co.kr",
+   "published": "2026-10-08T17:10+09:00",
+   "cat": "law",
+   "id": "00b0f3d5bcde",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "동해지방해양수산청, 13일 '동해·묵호항 항만안전협의체' 회의 및 합동...",
+   "summary": "고용노동부·산업안전보건공단·소방서·노조·물류협회 참여…항만하역사업장 선박·위험물·하역장비 분야별 점검, \"안전사고 제로 항만 만든다\" 아주경제=이동원 기자 lay1323@ajunews.com 2026년 상반기‘항만안전협의체’...",
+   "url": "https://www.ajunews.com/view/20261008164547062",
+   "orig": "https://www.ajunews.com/view/20261008164547062",
+   "source": "아주경제",
+   "published": "2026-10-08T16:48+09:00",
+   "cat": "tech",
+   "id": "9759cdfe8fa2",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "괴산 공장 신축 현장서 50대 7m 아래로 추락해 사망",
+   "summary": "현장에서 전기 배선 작업을 하던 50대 A씨가 7m 아래로 추락했습니다. A씨는 심정지 상태로 병원으로 옮겨졌지만 숨졌습니다. 경찰과 노동당국은 정확한 사고 경위와 중대재해처벌법 위반 여부 등을 조사하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/655/0000033093?sid=102",
+   "orig": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261008507&PRO_CODE=99",
+   "source": "cjb.co.kr",
+   "published": "2026-10-08T16:41+09:00",
+   "cat": "sev",
+   "id": "0273bd1fecfe",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "한화오션-하청노조 단체교섭 시작…고공농성 9일 만에",
+   "summary": "활동보장 △산업안전보건위원회 참여 등 하청노조 노동안전활동 보장 등 핵심 요구 사항을 6개 항목으로 축약해서 교섭에 집중할 방침이다. 한화오션 하청노조는 “이제 한화오션은 더 이상 노동자들의 절박한 목소리를...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002826635?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/yeongnam/1281520.html",
+   "source": "한겨레",
+   "published": "2026-10-08T16:38+09:00",
+   "cat": "hlt",
+   "id": "f98d6e76b957",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "한돈연구소, 내년 연구는 '활용성' 중점",
+   "summary": "중대재해처벌법과 산업안전보건법에 기반한 교육 콘텐츠와 모바일 자율점검 체계를 구축하되, 개발에 그치지 않고 축산종사자 교육 현장에서 바로 활용할 수 있는 동영상과 교육자료 형태로 보급해야 한다는 의견이...",
+   "url": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83224",
+   "orig": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83224",
+   "source": "chukkyung.co.kr",
+   "published": "2026-10-08T16:30+09:00",
+   "cat": "tech",
+   "id": "d57cfe758cb1",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[단독] 삼성 반도체 사내하청, 전직 임원끼리 대물림 법인만 바뀌고 인...",
+   "summary": "이들 노동자는 방진복을 입고 클린룸 안에 있는 설비를 정비한다. 365일, 24시간 가동되는 삼성전자 반도체... 고용노동부가 2017년 파리바게뜨를 근로감독한 사례에서도 비슷한 문제가 제기됐다. 노동부는 파리바게뜨가...",
+   "url": "https://vop.co.kr/A00001697065.html",
+   "orig": "https://vop.co.kr/A00001697065.html",
+   "source": "vop.co.kr",
+   "published": "2026-10-08T16:26+09:00",
+   "cat": "law",
+   "id": "fbb98bf89e07",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "한국IoT기술원, 의령군 재난안전관리시스템 통합플랫폼 구축",
+   "summary": "행정안전부의 중장기 예·경보 종합계획 설명회에서 우수 발표 기술로 선정되는 등 기술적 신뢰성을 공인받았다. 현재 조달청 디지털서비스몰에 등록돼 전국 주요 지자체의 스마트 방재 고도화를 이끌고 있다....",
+   "url": "https://www.sentv.co.kr/article/view/sentv202610080140",
+   "orig": "https://www.sentv.co.kr/article/view/sentv202610080140",
+   "source": "서울경제TV",
+   "published": "2026-10-08T16:24+09:00",
+   "cat": "tech",
+   "id": "f4a3a9f69189",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "안전보건공단 울산지역본부, 울산공업축제서 VR 안전체험·감정노동자 ...",
    "summary": "한국산업안전보건공단 울산지역본부가 지역 시민과 근로자를 대상으로 화재·폭발 사고 예방과 감정노동 근로자 보호를 알리는 안전문화 캠페인을 펼쳤다. 8일 안전보건공단 울산지역본부는 '2026 울산공업축제' 현장에서...",
@@ -119,7 +210,14 @@
    "published": "2026-10-08T16:04+09:00",
    "cat": "hlt",
    "id": "3706b9187cb5",
-   "related": [],
+   "related": [
+    {
+     "source": "gocj.net",
+     "url": "http://www.gocj.net/news/articleView.html?idxno=153155",
+     "orig": "http://www.gocj.net/news/articleView.html?idxno=153155",
+     "title": "외국인 노동자·유학생 노동 권익 알리는 캠페인 펼쳐"
+    }
+   ],
    "day": "2026-10-08",
    "watch": []
   },
@@ -177,6 +275,12 @@
      "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419737",
      "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419737",
      "title": "국토안전관리원, 대한민국 컴플라이언스 어워즈 대상 수상"
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018732",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1018732",
+     "title": "국토안전관리원, 컴플라이언스 어워즈 프로그램 부문 '대상'"
     }
    ],
    "day": "2026-10-08",
@@ -326,6 +430,12 @@
      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445465",
      "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=445465",
      "title": "경기도, 노동안전보건 우수기업 25곳에 인증서 수여…3곳 도지사 표창"
+    },
+    {
+     "source": "NSP통신",
+     "url": "https://www.nspna.com/news/?mode=view&newsid=831092",
+     "orig": "https://www.nspna.com/news/?mode=view&newsid=831092",
+     "title": "[현장 1분 브리핑]경기도, 노동안전보건 우수기업 25곳 인증 완료"
     }
    ],
    "day": "2026-10-08",
@@ -1077,6 +1187,12 @@
      "url": "https://www.etoday.co.kr/news/view/2633872",
      "orig": "https://www.etoday.co.kr/news/view/2633872",
      "title": "유진기업, 전국 사업장 정기 안전보건 점검 실시"
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202610080173",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202610080173",
+     "title": "유진기업, 전국 사업장 안전보건 점검…취약 요인 집중 관리"
     }
    ],
    "day": "2026-10-08",
