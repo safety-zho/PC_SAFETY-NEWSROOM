@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T13:18+09:00",
+ "updatedAt": "2026-10-08T14:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,28 +25,28 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "399a349171db",
-   "title": "가스기술공사, 현장 중심 안전관리 강화 나선다",
-   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
-   "source": "투데이에너지",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 4
-  },
-  {
    "id": "234061d31fb5",
    "title": "NH농협은행, 'NH기업성장론' 출시…안전경영 우수기업에 금리 우대",
    "url": "https://n.news.naver.com/mnews/article/030/0003473430?sid=101",
    "source": "전자신문",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 4
+   "count": 6
   },
   {
    "id": "e659a6617e56",
    "title": "유진기업, 정기 안전보건 점검 시행…취약 요인 집중 관리",
    "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413032",
    "source": "한국아이닷컴",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 5
+  },
+  {
+   "id": "399a349171db",
+   "title": "가스기술공사, 현장 중심 안전관리 강화 나선다",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
+   "source": "투데이에너지",
    "cat": "tech",
    "day": "2026-10-08",
    "count": 4
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "HD현대중공업, '잇따른 재해' 대표에게 다시 맡겨진 '안전'",
+   "summary": "사업장에서 중대재해가 이어지며 안전관리 체계의 실효성에 대한 점검 요구가 커진 상황에서 나왔다. 올해 4월 울산조선소 잠수함 화재로 작업자가 숨졌고, 7월에는 울산과 군산조선소에서 끼임 사망사고가 잇따랐다....",
+   "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311469",
+   "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=311469",
+   "source": "FETV",
+   "published": "2026-10-08T14:06+09:00",
+   "cat": "tech",
+   "id": "52a23798fe32",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "㈜에스에이정보기술, ISO 45001 인증 취득·ESG 평가 '우수' 등급 획득",
+   "summary": "ISO 45001은 근로자의 안전과 건강을 보호하고 산업재해를 예방하기 위해 마련된 안전보건경영시스템 국제표준으로, 조직이 유해·위험요인을 체계적으로 관리하고 지속적으로 개선하도록 요구한다....",
+   "url": "https://www.itbiznews.com/news/articleView.html?idxno=227361",
+   "orig": "https://www.itbiznews.com/news/articleView.html?idxno=227361",
+   "source": "itbiznews.com",
+   "published": "2026-10-08T13:40+09:00",
+   "cat": "tech",
+   "id": "bdfc9c4e60c2",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "(2026 국감)정혜경 의원 \"폭염 속 노동자 안전, 체감온도만으론 한계\"",
+   "summary": "현행 산업안전보건기준에 관한 규칙에 따르면 체감온도가 33℃ 이상인 폭염작업에서는 2시간마다 20분 이상의 휴식을 부여해야 한다. 정 의원은 체감온도 수치에 따라 노동자의 휴식 여부가 달라지는 만큼 산정방식의...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373235",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=373235",
+   "source": "electimes.com",
+   "published": "2026-10-08T13:32+09:00",
+   "cat": "law",
+   "id": "e211407e3d03",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "안양시노사민정협의회, 안전문화·일생활 균형 캠페인 전개",
+   "summary": "행사에는 안양시노사민정협의회와 안양시, 고용노동부 안양지청, 안전보건공단 경기서부지사, 대한산업안전협회 경기서부지회 등 관계자들이 참여했다. 한국노총 경기중부지역지부와 경기중부비정규직센터...",
+   "url": "http://www.queen.co.kr/news/articleView.html?idxno=464441",
+   "orig": "http://www.queen.co.kr/news/articleView.html?idxno=464441",
+   "source": "queen.co.kr",
+   "published": "2026-10-08T13:26+09:00",
+   "cat": "tech",
+   "id": "ce16b130f703",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "맨홀 2명 사망 1년여 만에…인천환경공단 '안전관리' 다시 도마 위에",
+   "summary": "앞서 공단은 사고 이후 중대재해 예방을 주요 과제로 두고 현장 안전관리 강화와 밀폐공간 작업 관리, 안전점검 및 교육 등 각종 안전대책을 추진해왔다. 특히 밀폐공간 작업의 위험성을 다시 점검하고 현장 작업 과정에서...",
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=240120",
+   "orig": "https://www.ngonews.kr/news/articleView.html?idxno=240120",
+   "source": "ngonews.kr",
+   "published": "2026-10-08T13:20+09:00",
+   "cat": "sev",
+   "id": "576dafa35cff",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "산안법 개정안 국회 통과, '진짜 변화'는 현장에서부터",
    "summary": "이제는 안전·보건조치 의무를 위반하여 1년간 3명 이상의 노동자가 산재로 사망하는 경우 사업주에게 영업이익 5% 이내의 과징금이 부과된다. 안전·보건조치 위반으로 동시에 2명 이상 사망하는 산재가 발생하여, 3년간...",
@@ -288,7 +353,14 @@
    "published": "2026-10-08T11:10+09:00",
    "cat": "tech",
    "id": "88f3deb46b15",
-   "related": [],
+   "related": [
+    {
+     "source": "apnews.kr",
+     "url": "https://www.apnews.kr/news/articleView.html?idxno=3051862",
+     "orig": "https://www.apnews.kr/news/articleView.html?idxno=3051862",
+     "title": "농협은행, 안전경영 우수기업 전용대출 출시…최대 2.10%p 우대"
+    }
+   ],
    "day": "2026-10-08",
    "watch": []
   },
@@ -332,6 +404,18 @@
      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1103612",
      "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1103612",
      "title": "농협은행, 안전경영 우수기업에 최대 2.10%p 금리우대"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610081337183070be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610081337183070be44c0aacd_30",
+     "title": "NH농협은행, 안전경영 우수기업에 최대 2.10%포인트 금리우대"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=148787",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=148787",
+     "title": "NH농협은행, 안전경영 우수기업 전용대출 출시…최대 2.1%p 우대"
     }
    ],
    "day": "2026-10-08",
@@ -398,7 +482,14 @@
    "published": "2026-10-08T10:32+09:00",
    "cat": "hlt",
    "id": "d22e86444ef3",
-   "related": [],
+   "related": [
+    {
+     "source": "kdpress.co.kr",
+     "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209181",
+     "orig": "https://www.kdpress.co.kr/news/articleView.html?idxno=209181",
+     "title": "에프에이모스트, 안전보건관리자 추가 배치로 리테일 도급 안전 체계 고..."
+    }
+   ],
    "day": "2026-10-08",
    "watch": []
   },
@@ -618,6 +709,12 @@
      "url": "https://www.newspim.com/news/view/20261008000268",
      "orig": "https://www.newspim.com/news/view/20261008000268",
      "title": "유진그룹 계열 유진기업, 정기 안전보건 점검 실시"
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2633872",
+     "orig": "https://www.etoday.co.kr/news/view/2633872",
+     "title": "유진기업, 전국 사업장 정기 안전보건 점검 실시"
     }
    ],
    "day": "2026-10-08",
@@ -645,7 +742,14 @@
    "published": "2026-10-08T09:06+09:00",
    "cat": "tech",
    "id": "3445b5e9f828",
-   "related": [],
+   "related": [
+    {
+     "source": "weeklytoday.com",
+     "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797368",
+     "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=797368",
+     "title": "[위클리오늘] 킨텍스, '한국건설·안전박람회', '도시안전기술 박람회'..."
+    }
+   ],
    "day": "2026-10-08",
    "watch": []
   },
@@ -1498,6 +1602,12 @@
      "url": "https://n.news.naver.com/mnews/article/047/0002531497?sid=102",
      "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003273384&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
      "title": "충주 40대 하청노동자 사망... \"위험의 외주화 중단하라\""
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014238927?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261007_0003817386",
+     "title": "금속노조 \"충주 킬른 설비 사망사고, 위험의 외주화 여전\""
     }
    ],
    "day": "2026-10-07",
