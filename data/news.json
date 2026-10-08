@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T17:19+09:00",
+ "updatedAt": "2026-10-08T18:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "전자신문",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 8
+   "count": 10
   },
   {
    "id": "e659a6617e56",
@@ -40,13 +40,22 @@
    "source": "한국아이닷컴",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 6
+   "count": 7
   },
   {
    "id": "f69fc7007225",
    "title": "[위클리오늘] 경기도, 노동안전보건 우수기업 25곳 인증…3곳 도지사 표...",
    "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797422",
    "source": "weeklytoday.com",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 6
+  },
+  {
+   "id": "2d45785c4a9f",
+   "title": "국토안전관리원, '2026 대한민국 컴플라이언스 어워즈' 대상 수상",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=341972",
+   "source": "국토일보",
    "cat": "tech",
    "day": "2026-10-08",
    "count": 5
@@ -59,18 +68,152 @@
    "cat": "tech",
    "day": "2026-10-08",
    "count": 5
-  },
-  {
-   "id": "399a349171db",
-   "title": "가스기술공사, 현장 중심 안전관리 강화 나선다",
-   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=303979",
-   "source": "투데이에너지",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "검사원은 추락사 했는데도 기관은 안전평가 가점…유족 “이사장 처벌해...",
+   "summary": "김씨는 동생이 사망한 지 1년 8개월이 지났지만 사고 책임에 대한 규명이 제대로 이뤄지지 않았다고... 노동조합은 사고조사 결과 재심의와 검사기록 허위입력 의혹 조사, 중대재해처벌법 위반 여부에 대한 엄정한 수사...",
+   "url": "https://n.news.naver.com/mnews/article/033/0000052600?sid=102",
+   "orig": "https://weekly.khan.co.kr/article/202610081808001",
+   "source": "경향신문",
+   "published": "2026-10-08T18:08+09:00",
+   "cat": "sev",
+   "id": "05b5edf715d3",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "택시노동자는 194일 만에 내려왔다, 정부는 11년 전에 받은 답을 다시 조...",
+   "summary": "기구가 고용노동부에서 첫 회의를 열었다. 노동부와 국토교통부, 택시 노사와 전문가가 들어갔고 정식... 부산국제영화제에서는 제작사가 “관객 및 참석자들의 안전”을 들어 개막식 참석과 무대인사를 접었고, 7일...",
+   "url": "https://newscham.net/130022/",
+   "orig": "https://newscham.net/130022/",
+   "source": "newscham.net",
+   "published": "2026-10-08T18:08+09:00",
+   "cat": "law",
+   "id": "24e5ce4f859e",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "은행권, '생산적 금융' 넓힌다…AI·스타트업부터 녹색·안전·포용까지",
+   "summary": "한국산업안전보건공단이 추천한 안전경영활동 우수기업을 대상으로 'NH기업성장론'을 출시해 안전경영 우수기업에 0.30%p의 우대금리를 제공한다. 다른 거래조건까지 충족하면 우대폭은 최대 2.10%p까지 확대된다. 사진...",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=103211",
+   "orig": "http://www.dailypop.kr/news/articleView.html?idxno=103211",
+   "source": "dailypop.kr",
+   "published": "2026-10-08T18:00+09:00",
+   "cat": "tech",
+   "id": "73861d0290d0",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "농협은행, ‘지역 기업’ 성장 힘 보탠다…안전경영 대출도 출시",
+   "summary": "이 상품은 지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결한 '중소·중견기업 산업안전 지원 상생협력을 위한 업무협약(MOU)'에 따른 후속 사업이다. NH기업성장론은 한국산업안전보건공단이 추천한...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261008024524027",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261008024524027",
+   "source": "에너지경제",
+   "published": "2026-10-08T18:00+09:00",
+   "cat": "tech",
+   "id": "e1741c389f3c",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "승강기 검사원 추락사망 보고서 '부실검사' 누락 의혹",
+   "summary": "김경태 중대재해 국정감사 후속 기자회견'을 열고 있다. / 사진=금속노조 승강기 검사 도중 추락해 숨진 고... 이번 기자회견은 지난 6일 국회 행정안전위원회 국정감사에서 김씨의 사망 경위와 민 이사장의 부적절한 발언이...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2119471",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2119471",
+   "source": "포쓰저널",
+   "published": "2026-10-08T17:58+09:00",
+   "cat": "sev",
+   "id": "82667e1b3495",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "거창군 민선 9기 100일, ‘새로운 창조’ 시동 걸었다",
+   "summary": "농가 안전사고를 예방하고 편의를 극대화한 실속형 정책으로 꼽힌다. 농가 소득... ‘2026년 전국 지자체 일자리 대상’에서 고용노동부 장관상을 거머쥔 데 이어...",
+   "url": "http://www.breaknews.com/1241836",
+   "orig": "http://www.breaknews.com/1241836",
+   "source": "브레이크뉴스",
+   "published": "2026-10-08T17:50+09:00",
+   "cat": "law",
+   "id": "0577f1da3eb7",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[단독] 여성 ‘질병 산재’ 승인율, 남성보다 18%p 낮아…5년 새 격차 6배...",
+   "summary": "지목되지만, 고용노동부는 실태조차 제대로 파악하지 못하고 있다. 8일 김태선 더불어민주당 의원이... 김태선 의원은 “여성 노동자의 작업 특성을 산재 판정에 충분히 반영해 등 성인지적 관점의 산업안전보건...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002826658?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1281545.html",
+   "source": "한겨레",
+   "published": "2026-10-08T17:46+09:00",
+   "cat": "law",
+   "id": "df48aeeabb90",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "동해지방해양수산청, 12~16일 '안전문화주간' 운영…14일 동해항 정문서...",
+   "summary": "하역사·입주업체·항운노조·물류협회·산업안전보건공단 참여…\"형식에 치우치지 않는 실질적 안전수칙 준수 문화 만든다\" 아주경제=이동원 기자 lay1323@ajunews.com 2026년 상반기‘항만안전 캠페인’ 동해지방해양수산청은...",
+   "url": "https://www.ajunews.com/view/20261008165023078",
+   "orig": "https://www.ajunews.com/view/20261008165023078",
+   "source": "아주경제",
+   "published": "2026-10-08T17:32+09:00",
+   "cat": "tech",
+   "id": "1cc73444f595",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "KCC건설 시공 김포파주고속도로 현장서 70대 근로자 사망",
+   "summary": "해당 공사의 시공사는 KCC건설이며, 사망자가 소속된 HDC건설은 하도급사로 참여하고 있다. 관계 당국은 정확한 사고 원인과 현장 안전조치 이행 여부를 조사하는 한편, 중대재해처벌법 및 산업안전보건법 위반 여부...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003753753?sid=101",
+   "orig": "https://www.donga.com/news/Economy/article/all/20261008/134811385/1",
+   "source": "동아일보",
+   "published": "2026-10-08T17:28+09:00",
+   "cat": "sev",
+   "id": "4a4508c05bf6",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "우리은행 신한카드 하나은행 外(금융 레이더)",
+   "summary": "한국산업안전보건공단이 추천한 우수기업을 대상으로 하며, 기본 0.30%p 우대금리에 거래조건에 따라 최대 2.10%p까지 금리우대를 제공합니다. 농협은행은 산업안전 분야 투자와 금융혜택을 연계해 기업의 안전경영 지원을...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077911",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077911",
+   "source": "뉴스클레임",
+   "published": "2026-10-08T17:20+09:00",
+   "cat": "tech",
+   "id": "d251c1374eb3",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "경영진이 직접 어선 오른다… 한국해양교통안전공단, 해양사고 예방 총...",
+   "summary": "이어 포항에서는 어업인 단체장 등과 간담회를 열어 현장의 어려움과 사고 예방을 위한 의견을 듣고, 어선원 안전보건 체계 구축과 위험성평가, 구명조끼 착용 등 주요 안전관리 사항을 안내했습니다. 공단은 이달...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438409",
+   "orig": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438409",
+   "source": "einfomax.co.kr",
+   "published": "2026-10-08T17:18+09:00",
+   "cat": "tech",
+   "id": "20d7e57f7a03",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "[산업 레이더] 삼표산업·유진기업·효성중공업, 현장 안전과 독자 기술...",
    "summary": "기반시설의 안전성을 확보하겠다는 목표다. 삼표산업 측은 기술 개발과 현장 밀착형 협력을 바탕으로... 관리감독자의 업무 이행 실태를 다각도로 검증하는 데 주력한다. 점검반은 추락, 끼임, 감전 등 현장 8대...",
@@ -171,7 +314,14 @@
    "published": "2026-10-08T16:16+09:00",
    "cat": "tech",
    "id": "256dea9a7078",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=341998",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=341998",
+     "title": "안전보건공단 울산지역본부, 울산공업축제서 산업안전 캠페인 전개"
+    }
+   ],
    "day": "2026-10-08",
    "watch": []
   },
@@ -281,6 +431,18 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1018732",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1018732",
      "title": "국토안전관리원, 컴플라이언스 어워즈 프로그램 부문 '대상'"
+    },
+    {
+     "source": "NSP통신",
+     "url": "https://www.nspna.com/news/?mode=view&newsid=831121",
+     "orig": "https://www.nspna.com/news/?mode=view&newsid=831121",
+     "title": "국토안전관리원, 내부통제·준법경영 성과…컴플라이언스 어워즈 대상"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478512",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478512",
+     "title": "국토안전관리원, 2026 '컴플라이언스 어워즈' 프로그램 대상 수상 영예"
     }
    ],
    "day": "2026-10-08",
@@ -436,6 +598,12 @@
      "url": "https://www.nspna.com/news/?mode=view&newsid=831092",
      "orig": "https://www.nspna.com/news/?mode=view&newsid=831092",
      "title": "[현장 1분 브리핑]경기도, 노동안전보건 우수기업 25곳 인증 완료"
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261008500211",
+     "orig": "http://www.metroseoul.co.kr/article/20261008500211",
+     "title": "경기도, 노동안전보건 우수기업 25곳 선정…3곳 도지사 표창"
     }
    ],
    "day": "2026-10-08",
@@ -870,6 +1038,18 @@
      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210470",
      "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=210470",
      "title": "NH농협은행, 안전경영 우수기업에 최대 2.10%p 금리 우대"
+    },
+    {
+     "source": "nongmin.com",
+     "url": "https://n.news.naver.com/mnews/article/662/0000105778?sid=101",
+     "orig": "https://www.nongmin.com/article/20261008500418",
+     "title": "농협은행, 안전경영 우수기업 전용 대출상품 출시"
+    },
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=135463",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=135463",
+     "title": "NH농협은행, 안전경영 우수기업 전용대출 선봬"
     }
    ],
    "day": "2026-10-08",
@@ -1193,6 +1373,12 @@
      "url": "https://www.sentv.co.kr/article/view/sentv202610080173",
      "orig": "https://www.sentv.co.kr/article/view/sentv202610080173",
      "title": "유진기업, 전국 사업장 안전보건 점검…취약 요인 집중 관리"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478532",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478532",
+     "title": "\"안전을 최우선으로\"···유진기업, 정기 안전보건 점검 실시"
     }
    ],
    "day": "2026-10-08",
