@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T08:19+09:00",
+ "updatedAt": "2026-10-08T09:25+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "fc113ecdb1dc",
-   "title": "산업안전보건법 개정에 건설사 실무부담 커진다···안전 대응체계 손...",
-   "url": "https://www.koscaj.com/news/articleView.html?idxno=326880",
-   "source": "대한전문건설신문",
+   "id": "115cfb0f62eb",
+   "title": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술...",
+   "url": "https://www.wikitree.co.kr/articles/1164716",
+   "source": "위키트리",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 1
+  },
+  {
+   "id": "98b596c2c590",
+   "title": "[팩트로 본 외국인⑤] 외국인은 결국 저숙련·단순노동자다?",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=90181",
+   "source": "eroun.net",
    "cat": "law",
+   "day": "2026-10-08",
+   "count": 1
+  },
+  {
+   "id": "31f0a225051e",
+   "title": "\"SK하이닉스 30년 근무…건강하던 아내가 유방암, 산업재해 신청\"",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20116",
+   "source": "lawleader.co.kr",
+   "cat": "hlt",
    "day": "2026-10-08",
    "count": 1
   },
@@ -50,27 +68,87 @@
    "cat": "sev",
    "day": "2026-10-08",
    "count": 1
-  },
-  {
-   "id": "f2f84b81ec24",
-   "title": "주치의 예단이 산재 신청 문턱 돼서는 안 된다",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237133",
-   "source": "매일노동뉴스",
-   "cat": "hlt",
-   "day": "2026-10-08",
-   "count": 1
-  },
-  {
-   "id": "678b8d307758",
-   "title": "울산형 AX, S-OIL 협력사로 확산",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069101",
-   "source": "경상일보",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "\"중대재해부터 시민재해까지\" 킨텍스, 오는 14일 '건설·도시 안전기술...",
+   "summary": "AI가 축적된 데이터를 분석해 위험요인을 예측하고, 현장의 상황 변화에 대응하는 스마트 안전관리 기술을 비롯해 로봇과 드론 등 첨단장비를 활용한 사고 예방 솔루션도 공개된다. 올해 8회째를 맞는 한국건설...",
+   "url": "https://www.wikitree.co.kr/articles/1164716",
+   "orig": "https://www.wikitree.co.kr/articles/1164716",
+   "source": "위키트리",
+   "published": "2026-10-08T09:22+09:00",
+   "cat": "tech",
+   "id": "115cfb0f62eb",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 정기 안전보건 점검 시행…취약 요인 집중 관리",
+   "summary": "감전, 화재)을 비롯해 믹서와 혼화제 탱크 등 안전 검사 대상 설비를 점검한다. 이어 개선 조치 결과 기타 주요 설비의 방호장치 상태 등을 확인할 예정이다. 또, 근로자 정기 교육과 직무별 특별 교육 실시 여부...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413032",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1413032",
+   "source": "한국아이닷컴",
+   "published": "2026-10-08T09:20+09:00",
+   "cat": "tech",
+   "id": "e659a6617e56",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[팩트로 본 외국인⑤] 외국인은 결국 저숙련·단순노동자다?",
+   "summary": "법무부·고용노동부, 2026; OECD, 2024~2025). 최신 OECD 연구가 보여주는 것도 이 부분이다. 이민자는 처음 들어간 산업과 기업, 직종에 따라 상당한 임금격차를 경험하고, 고학력 이민자의 과잉학력 문제는 여러...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=90181",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=90181",
+   "source": "eroun.net",
+   "published": "2026-10-08T09:10+09:00",
+   "cat": "law",
+   "id": "98b596c2c590",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "충주시, 관리감독자 등 200명 대상 정기 안전보건교육 실시",
+   "summary": "교육에는 고용노동부 충주지청 중대재해수사과 팀장과 안전관리 전문기관 강사 2명이 참여해, 산업안전보건법상 관리감독자의 의무와 준수사항, 중대재해처벌법 적용 범위와 책임 요건, 위험성평가 절차 및 실무 적용...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3715540",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3715540",
+   "source": "국제뉴스",
+   "published": "2026-10-08T09:04+09:00",
+   "cat": "law",
+   "id": "0279adc25ecd",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "씨이랩, '2026 한국건설·안전박람회' 참가…\"AI 안전관리 기술 선봬\"",
+   "summary": "한국건설·안전박람회'에 참가해 비전 AI 기반 실시간 위험 감지 솔루션 'XAIVA'와 디지털 트윈 기술을... 이번 박람회를 통해 건설사와 안전관리 기관을 대상으로 실증·도입 기회를 넓히고 스마트 건설안전 사업을...",
+   "url": "http://www.paxetv.com/news/articleView.html?idxno=283624",
+   "orig": "http://www.paxetv.com/news/articleView.html?idxno=283624",
+   "source": "paxetv.com",
+   "published": "2026-10-08T09:04+09:00",
+   "cat": "tech",
+   "id": "84766b7722bc",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "\"SK하이닉스 30년 근무…건강하던 아내가 유방암, 산업재해 신청\"",
+   "summary": "집단 산재신청 기자회견을 개최했다. 이날 SK하이닉스 이천 사업장에서 일하다 유방암ㆍ뇌종양으로 사망한 노동자 두 명과 호지킨림프종에 걸린 노동자 한 명 등 세 명이 산업재해 피해를 신청했다. 이종란 반올림...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20116",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20116",
+   "source": "lawleader.co.kr",
+   "published": "2026-10-08T09:00+09:00",
+   "cat": "hlt",
+   "id": "31f0a225051e",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "산업안전보건법 개정에 건설사 실무부담 커진다···안전 대응체계 손...",
    "summary": "영업이익의 최대 5% 과징금과 반복 사망사고 사업자의 등록말소 요청 근거가 신설됐고, 작업중지권과... 중대재해가 발생한 경우뿐 아니라 근로자가 의식불명이나 생사불명 상태에 있거나 중대한 신체 손상을 입은 경우...",
@@ -1173,6 +1251,12 @@
      "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
      "orig": "https://www.autodaily.co.kr/news/articleView.html?idxno=601001",
      "title": "SK하이닉스 노동자, 집단 산재신청⋯\"유방암·뇌종양·림프종 피해\""
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250924",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250924",
+     "title": "SK하이닉스 화학물질 작업 노동자들 집단 산재 신청"
     }
    ],
    "day": "2026-10-07",
