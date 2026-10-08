@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-08T14:17+09:00",
+ "updatedAt": "2026-10-08T15:23+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "전자신문",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 6
+   "count": 7
   },
   {
    "id": "e659a6617e56",
@@ -41,6 +41,15 @@
    "cat": "tech",
    "day": "2026-10-08",
    "count": 5
+  },
+  {
+   "id": "f69fc7007225",
+   "title": "[위클리오늘] 경기도, 노동안전보건 우수기업 25곳 인증…3곳 도지사 표...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797422",
+   "source": "weeklytoday.com",
+   "cat": "tech",
+   "day": "2026-10-08",
+   "count": 4
   },
   {
    "id": "399a349171db",
@@ -58,19 +67,211 @@
    "source": "smartbizn.com",
    "cat": "tech",
    "day": "2026-10-08",
-   "count": 3
-  },
-  {
-   "id": "5ac6c3e0651f",
-   "title": "유진그룹 계열 유진기업, 정기 안전보건 점검 실시… 안전경영 지속 강...",
-   "url": "http://www.ikld.kr/news/articleView.html?idxno=341935",
-   "source": "국토일보",
-   "cat": "tech",
-   "day": "2026-10-08",
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "KCC건설 하청 근로자, 사망사고…노동부, 수사 착수",
+   "summary": "고용노동부가 KCC건설 하청업체 근로자 사망사고와 관련해 법 위반 여부에 대한 수사에 착수했다. 8일... KCC건설과 하청업체를 상대로 산업안전보건법과 중대재해처벌법 위반 여부를 수사할 방침이다.",
+   "url": "https://n.news.naver.com/mnews/article/011/0004669452?sid=102",
+   "orig": "https://www.sedaily.com/article/20099588?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-08T15:15+09:00",
+   "cat": "sev",
+   "id": "ddbddfc38f50",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[단독]무기 만들던 청년들이 다쳤다…방산업체 산재 3명 중 1명 청년",
+   "summary": "8일 최기상 더불어민주당 의원이 한국산업안전보건공단에서 제출받은 자료에 따르면, 2021년부터 올해 상반기까지 무기제조업 사고재해자는 사망자를 포함해 128명이었다. 근로복지공단의 산재보상 승인 자료를...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475120?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610081515001",
+   "source": "경향신문",
+   "published": "2026-10-08T15:15+09:00",
+   "cat": "law",
+   "id": "462b88fa272b",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "화성시환경재단, ISO 45001 인증… 산재 예방 관리체계 구축",
+   "summary": "화성시환경재단이 산업재해 예방과 안전한 근무환경 조성을 위한 안전보건경영시스템(ISO 45001) 인증을 획득했다. 환경과 부패방지, 인권 분야의 경영시스템 인증도 함께 취득했다. 중소벤처기업인증원(KOSRE) 8일...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250937",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250937",
+   "source": "안전신문",
+   "published": "2026-10-08T15:14+09:00",
+   "cat": "tech",
+   "id": "22671bce8b26",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "\"가오 있게 계산하기? 멋있는 줄 알았나\"…알바생에 돈 던진 남학생들",
+   "summary": "산업안전보건법은 고객의 폭언 등으로 고객 응대 근로자에게 건강장해가 발생하거나 발생할 우려가 있는... 학생들이 미성년자라는 점에서 연령과 책임능력, 보호자의 감독 의무 등에 따라 부모에게도 배상 책임이 인정될...",
+   "url": "https://n.news.naver.com/mnews/article/053/0000062095?sid=102",
+   "orig": "http://weekly.chosun.com/news/articleView.html?idxno=55966",
+   "source": "조선일보",
+   "published": "2026-10-08T15:05+09:00",
+   "cat": "law",
+   "id": "2168e06d7e9c",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "새만금산업단지사업단, 현장 중심 안전관리 강화",
+   "summary": "한국농어촌공사 새만금산업단지사업단은 지난 7일 박승수 사업단장을 비롯한 직원, 공사감독 및 시공사 관계자 등 20여 명이 참석한 가운데 '새만금국가산업단지 무사고 안전회의'를 개최했다. 한국농어촌공사...",
+   "url": "http://www.domin.co.kr/news/articleView.html?idxno=1571276",
+   "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1571276",
+   "source": "전북도민일보",
+   "published": "2026-10-08T15:00+09:00",
+   "cat": "law",
+   "id": "4b94fb7f6aa7",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "무버힐 웰니스, 기업 건강관리 프로그램 참여·만족도 기반 성과관리 체...",
+   "summary": "한국산업안전보건공단의 기업건강증진지수(EHP)도 건강증진 활동을 평가할 때 성과평가와 결과 환류 여부 등을 평가항목에 포함한다. 프로그램 운영뿐 아니라 운영 결과를 확인하고 다음 활동에 반영하는 과정 역시...",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=334954",
+   "orig": "http://www.e2news.com/news/articleView.html?idxno=334954",
+   "source": "이투뉴스",
+   "published": "2026-10-08T15:00+09:00",
+   "cat": "tech",
+   "id": "906b22db4a43",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[금융권 이모저모]삼성자산운용, 12일 ETF 투자전략 웹세미나 개최 外",
+   "summary": "/ 사진=NH농협은행 ◇NH농협은행, 안전경영 우수기업에 최대 2.10%p 금리우대 NH농협은행은 한국산업안전보건공단이 추천한 안전경영활동 우수기업을 대상으로 전용 대출상품 'NH기업성장론(안전경영우수기업)'을...",
+   "url": "https://www.businessplus.kr/news/articleView.html?idxno=117919",
+   "orig": "https://www.businessplus.kr/news/articleView.html?idxno=117919",
+   "source": "businessplus.kr",
+   "published": "2026-10-08T14:56+09:00",
+   "cat": "tech",
+   "id": "a2a5418df684",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, 위험성평가부터 수질예측까지 AI 기반 환경시설 안전관리...",
+   "summary": "AI 기술을 결합해 보다 안전하고 스마트한 환경기초시설을 만들어 나가겠다\"고 말했다. 공단은 이번 공동훈련을 시작으로 한국화학안전협회와 교육과정 및 실무사례 교류를 이어가며 AI 기술을 활용한 현장 안전관리...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=653875",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=653875",
+   "source": "경인매일",
+   "published": "2026-10-08T14:48+09:00",
+   "cat": "tech",
+   "id": "514b1a701564",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 경기도, 노동안전보건 우수기업 25곳 인증…3곳 도지사 표...",
+   "summary": "이인용 경기도 노동안전과장은 \"인증기업들의 자율적인 안전보건 활동이 산업현장의 안전문화를 확산하는 데 큰 힘이 될 것\"이라며 \"경기도도 소규모 사업장의 산업재해 예방을 위한 현장 안전교육과 위험성평가 지원을...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797422",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=797422",
+   "source": "weeklytoday.com",
+   "published": "2026-10-08T14:40+09:00",
+   "cat": "tech",
+   "id": "f69fc7007225",
+   "related": [
+    {
+     "source": "sidae.com",
+     "url": "https://n.news.naver.com/mnews/article/417/0001160403?sid=102",
+     "orig": "https://www.sidae.com/article/2026100814264260056",
+     "title": "[오늘 경기]노동안전보건 우수기업 25곳 인증 등"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250935",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250935",
+     "title": "경기도, 노동안전보건 우수기업 25곳 인증… 최대 500만원 지원"
+    },
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445465",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=445465",
+     "title": "경기도, 노동안전보건 우수기업 25곳에 인증서 수여…3곳 도지사 표창"
+    }
+   ],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "나주 60대 부부 살해 용의자 체포...\"돈 받으려\" [뉴스퀘어 2PM]",
+   "summary": "나아가서 산업안전보건법에 따르면 이 카페 업주는 고객 응대 근로자가 폭언 등 건강장애가 발생할 경우에... 관리감독의 필요성은 상당히 높다고 할 수 있습니다. 특히 행형법상 일정한 물품이 거래되고 이로 인해...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002416310?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202610081439217369",
+   "source": "YTN",
+   "published": "2026-10-08T14:39+09:00",
+   "cat": "law",
+   "id": "4fadd6d39aa4",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "아스팔트 노면 45.5℃, 지상 기온보다 11.2℃ 높아…폭염 속 노동자 사각...",
+   "summary": "현재 고용노동부는 '폭염 대비 온열질환 예방을 위한 사업장 대응지침'을 통해 체감온도가 35℃ 이상일 경우... 안전과 연결할 필요가 있다\"며 \"작업환경별 열위험을 반영한 맞춤형 기상정보를 제공해 온열질환과 산업재...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069945",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5069945",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-08T14:36+09:00",
+   "cat": "hlt",
+   "id": "041eb3e1a0af",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 4분기 안전보건 점검 실시...유해·위험요인 근절",
+   "summary": "감전, 화재)을 비롯해 믹서와 혼화제 탱크 등 안전검사 대상 설비의 개선 조치 이행 여부, ​이외의 주요 설비의 방호장치 상태 등을 중점적으로 점검한다. 또 근로자 정기 교육과 직무별 특별 교육 실시 여부...",
+   "url": "https://www.newspost.kr/news/articleView.html?idxno=226217",
+   "orig": "https://www.newspost.kr/news/articleView.html?idxno=226217",
+   "source": "newspost.kr",
+   "published": "2026-10-08T14:32+09:00",
+   "cat": "tech",
+   "id": "9ae2c3ad965b",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "[금융家 브리핑] 취약계층부터 기업금융까지···금융권, 금융지원 다각...",
+   "summary": "NH농협은행, 'NH기업성장론' 출시 NH농협은행이 안정경영 우수기업을 지원하는 'NH기업성장론(안전경영우수기업)'을 출시했다.지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결한 업무협약의 후속 조치다. 대출...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=155936",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=155936",
+   "source": "smartbizn.com",
+   "published": "2026-10-08T14:32+09:00",
+   "cat": "tech",
+   "id": "e2fdb0724f43",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "\"장기수선공사 입찰 제한 과도\" 지적…국토부 장관 \"제도 검토\"",
+   "summary": "▷후진국형 산재 사고 예방= 우리나라에서 발생하는 산재 사망사고의 절반 이상이 떨어짐･끼임･부딪힘 등... 중대재해처벌법이 정부에 부여한 중대재해 발생 원인 분석, 안전보건관리체계 구축을 위한 지원, 중대재해...",
+   "url": "https://www.hapt.co.kr/news/articleView.html?idxno=169662",
+   "orig": "https://www.hapt.co.kr/news/articleView.html?idxno=169662",
+   "source": "hapt.co.kr",
+   "published": "2026-10-08T14:22+09:00",
+   "cat": "law",
+   "id": "5117da28513c",
+   "related": [],
+   "day": "2026-10-08",
+   "watch": []
+  },
   {
    "title": "HD현대중공업, '잇따른 재해' 대표에게 다시 맡겨진 '안전'",
    "summary": "사업장에서 중대재해가 이어지며 안전관리 체계의 실효성에 대한 점검 요구가 커진 상황에서 나왔다. 올해 4월 울산조선소 잠수함 화재로 작업자가 숨졌고, 7월에는 울산과 군산조선소에서 끼임 사망사고가 잇따랐다....",
@@ -416,6 +617,12 @@
      "url": "https://www.ziksir.com/news/articleView.html?idxno=148787",
      "orig": "https://www.ziksir.com/news/articleView.html?idxno=148787",
      "title": "NH농협은행, 안전경영 우수기업 전용대출 출시…최대 2.1%p 우대"
+    },
+    {
+     "source": "inthenews.co.kr",
+     "url": "https://www.inthenews.co.kr/news/article.html?no=92882",
+     "orig": "https://www.inthenews.co.kr/news/article.html?no=92882",
+     "title": "NH농협은행 안전경영 우수기업 금리우대…상생·포용금융 확대"
     }
    ],
    "day": "2026-10-08",
@@ -612,6 +819,12 @@
      "url": "http://www.beyondpost.co.kr/view.php?ud=202610081242456419205868f676_30",
      "orig": "http://www.beyondpost.co.kr/view.php?ud=202610081242456419205868f676_30",
      "title": "유진기업, 12일부터 전국 사업장 안전보건 실태 점검"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=723423",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=723423",
+     "title": "유진기업, 4분기 전국 사업장 안전보건 점검 실시"
     }
    ],
    "day": "2026-10-08",
@@ -787,6 +1000,12 @@
      "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/08/2026100880075.html",
      "orig": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/08/2026100880075.html",
      "title": "킨텍스, ‘2026 한국건설·안전박람회’·‘도시안전기술 박람회’ 동시..."
+    },
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081012076450880",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610081012076450880",
+     "title": "킨텍스, '2026 한국건설·안전박람회’, '2026 도시안전기술 박람회' 동..."
     }
    ],
    "day": "2026-10-08",
