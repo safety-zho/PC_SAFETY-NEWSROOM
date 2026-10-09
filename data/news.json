@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T09:28+09:00",
+ "updatedAt": "2026-10-09T10:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,33 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "dab5ab67fc94",
+   "title": "지게차 흔들어 직원 3.2m 아래로 추락…업체 대표 송치",
+   "url": "https://n.news.naver.com/mnews/article/001/0016367225?sid=102",
+   "source": "연합뉴스",
+   "cat": "acc",
+   "day": "2026-10-09",
+   "count": 3
+  },
+  {
+   "id": "8fe83fcf3383",
+   "title": "가스기술공사, AI·스마트 기술 기반 중대재해 예방 강화",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913771",
+   "source": "chungnamilbo.co.kr",
+   "cat": "tech",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
+   "id": "8f1502ea9230",
+   "title": "[위클립] 10월 2주",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41615",
+   "source": "laborplus.co.kr",
+   "cat": "law",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
    "id": "97fe805df9ac",
    "title": "\"SK하이닉스 자랑하던 남편, 뇌종양 사망 희생양…산업재해 신청\"",
    "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
@@ -32,36 +59,48 @@
    "cat": "sev",
    "day": "2026-10-09",
    "count": 1
-  },
-  {
-   "id": "6069e26bf62a",
-   "title": "“흔들지 말랬는데”…지게차 작업 직원 추락시킨 업체 대표 송치",
-   "url": "https://n.news.naver.com/mnews/article/666/0000126699?sid=102",
-   "source": "kyeonggi.com",
-   "cat": "acc",
-   "day": "2026-10-09",
-   "count": 1
-  },
-  {
-   "id": "395f7e3bc56f",
-   "title": "흑사병 공포에 진단·항생제株 ‘들썩’…펩트론은 ‘추락’[바이오맥...",
-   "url": "https://n.news.naver.com/mnews/article/018/0006384361?sid=101",
-   "source": "이데일리",
-   "cat": "tech",
-   "day": "2026-10-09",
-   "count": 1
-  },
-  {
-   "id": "354e7e6fdd85",
-   "title": "[대우건설 인사 추적] 조재형 11개월 만에 전무… 건축·플랜트·토목 본...",
-   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077931",
-   "source": "뉴스클레임",
-   "cat": "law",
-   "day": "2026-10-09",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "가스기술공사, AI·스마트 기술 기반 중대재해 예방 강화",
+   "summary": "(사진제공=한국가스기술공사) 한국가스기술공사가 인공지능(AI)과 스마트 안전기술을 활용해 현장 위험요인을 사전에 발굴하고 중대재해 예방을 위한 안전관리 체계를 강화한다. 지난 6일 본사 4층 영상회의실에서 열린...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913771",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913771",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-09T10:08+09:00",
+   "cat": "tech",
+   "id": "8fe83fcf3383",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "한화오션 하청노동자, 첫 원청교섭 끌어냈다",
+   "summary": "6층 안전교육장에서 원청교섭 상견례를 개최했다. 이날 상견례에는 김정철 금속노조 경남지부... 이어 \"한화오션 경영 슬로건이 '신용과 의리'인 만큼 오늘 상견례 자리를 시작으로 책임 있게 교섭에 임해달라\"고 촉구했다....",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510105",
+   "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510105",
+   "source": "worknworld.kctu.org",
+   "published": "2026-10-09T09:54+09:00",
+   "cat": "tech",
+   "id": "3a3edd3d0a5f",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "[위클립] 10월 2주",
+   "summary": "금속노조가 노동부 충주지청 앞에서 기자회견을 열고\"4일 오전 10시 47분경 현대성우캐스팅 충주 1공장에서 외주업체 DS코리아 소속 1981년생 노동자가 용해로 킬른 설비 보전 업무 중 중대재해로 사망했다\"며 \"재해...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41615",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41615",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-09T09:47+09:00",
+   "cat": "law",
+   "id": "8f1502ea9230",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "\"SK하이닉스 자랑하던 남편, 뇌종양 사망 희생양…산업재해 신청\"",
    "summary": "반도체노동자의 건강과 인권지킴이 '반올림'은 7일 오전 11시, 근로복지공단 서울남부지사에서 SK하이닉스 노동자 집단 산재신청 기자회견을 개최했다. 이날 SK하이닉스 이천 사업장에서 일하다 유방암ㆍ뇌종양으로 사망한...",
@@ -188,7 +227,20 @@
    "published": "2026-10-09T08:37+09:00",
    "cat": "acc",
    "id": "dab5ab67fc94",
-   "related": [],
+   "related": [
+    {
+     "source": "ikbc.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/660/0000118713?sid=102",
+     "orig": "https://www.ikbc.co.kr/article/view/kbc202610090021",
+     "title": "지게차 흔들어 직원 3.2m 아래로 추락...업체 대표 송치"
+    },
+    {
+     "source": "국제신문",
+     "url": "https://n.news.naver.com/mnews/article/658/0000157971?sid=102",
+     "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261009.99099002523",
+     "title": "[속보] 지게차 흔들어 직원 3.2m 아래로 추락시킨 업체 대표 송치"
+    }
+   ],
    "day": "2026-10-09",
    "watch": []
   },
@@ -425,6 +477,12 @@
      "url": "https://www.kgnews.co.kr/news/article.html?no=914483",
      "orig": "https://www.kgnews.co.kr/news/article.html?no=914483",
      "title": "[사건 24시]인천 과자 제조공장 승강기 통로서 70대 직원 추락사"
+    },
+    {
+     "source": "한겨레",
+     "url": "https://n.news.naver.com/mnews/article/028/0002826738?sid=102",
+     "orig": "https://www.hani.co.kr/arti/area/capital/1281631.html",
+     "title": "인천 과자공장서 70대 노동자 승강기 통로서 추락해 사망"
     }
    ],
    "day": "2026-10-08",
