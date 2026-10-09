@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T11:16+09:00",
+ "updatedAt": "2026-10-09T12:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,20 +34,20 @@
    "count": 4
   },
   {
-   "id": "2cb8df70584f",
-   "title": "[금융zip] 하나은행, 급여 멤버십 서비스 '달달하나컴퍼니' 리뉴얼 오픈...",
-   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883102",
-   "source": "getnews.co.kr",
-   "cat": "tech",
+   "id": "45000e2cbd94",
+   "title": "박승흡 이사장, 필리핀 노동자 산재 사망에 “국적과 관계없이 사회안전...",
+   "url": "https://www.viva100.com/article/20261009500003",
+   "source": "브릿지경제",
+   "cat": "sev",
    "day": "2026-10-09",
    "count": 1
   },
   {
-   "id": "bf6fd83282e3",
-   "title": "'K-방산' 호황이라더니… 뒤에는 청년 노동자 목숨 걸린 '위험한 일터'",
-   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111215",
-   "source": "bbsi.co.kr",
-   "cat": "sev",
+   "id": "a2cf511945a9",
+   "title": "발전5사, 수천억 안전투자에도 산재율 제각각…통합 앞두고 우려 [오늘...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002707312?sid=100",
+   "source": "헤럴드경제",
+   "cat": "tech",
    "day": "2026-10-09",
    "count": 1
   },
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "박승흡 이사장, 필리핀 노동자 산재 사망에 “국적과 관계없이 사회안전...",
+   "summary": "이번 산재 사망 이주노동자 예우사업은 지난 3월 첫 시행 이후 세 번째로 근로복지공단은 유족 입국 지원부터 산재보상 안내, 추모, 장례, 본국 운구와 귀국까지 이어지는 지원 체계를 지속적으로 보완하고 있다. 앞서 지난...",
+   "url": "https://www.viva100.com/article/20261009500003",
+   "orig": "https://www.viva100.com/article/20261009500003",
+   "source": "브릿지경제",
+   "published": "2026-10-09T12:12+09:00",
+   "cat": "sev",
+   "id": "45000e2cbd94",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "발전5사, 수천억 안전투자에도 산재율 제각각…통합 앞두고 우려 [오늘...",
+   "summary": "산업재해율도 발전사마다 다른 흐름을 보이면서 조직 통합에 앞서 현장별 안전관리 체계를 점검해야 한다는 지적이 나온다. 특히 통합 과정에서 비용 절감과 경영 효율화에 치중할 경우 산업재해 예방을 위한...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002707312?sid=100",
+   "orig": "https://biz.heraldcorp.com/article/10897187?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-09T12:02+09:00",
+   "cat": "tech",
+   "id": "a2cf511945a9",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "장태환 경기도의회 경제노동위원장, 노동안전보건 우수기업 인증서 수여...",
+   "summary": "노동안전보건 우수기업 인증서 수여식은 경기도 내 50인 미만 중소기업 가운데 안전보건 수칙을 철저히 지키는 기업을 발굴해 인증과 지원금을 지급하고, 기업의 주도적인 산업재해 예방 행보를 지원하고자 마련된...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003687558?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/09/20261009500075?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-09T11:43+09:00",
+   "cat": "tech",
+   "id": "b21dabad69d8",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "무기제조업 산재 사고재해자 5년 반 동안 128명…35%가 청년 노동자",
+   "summary": "사고재해자는 사망자를 포함해 총 128명으로 집계됐다. 연도별로는 2021년 7명에서 2022년 15명, 2023년... 특히 폭발·화재 등 중대 위험뿐 아니라 제조 현장에서 반복되는 끼임·부딪힘·떨어짐 사고를 줄이기 위한...",
+   "url": "https://www.onews.tv/news/articleView.html?idxno=288829",
+   "orig": "https://www.onews.tv/news/articleView.html?idxno=288829",
+   "source": "onews.tv",
+   "published": "2026-10-09T11:34+09:00",
+   "cat": "acc",
+   "id": "ba37c299a644",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "“고소공포증 있어요!”…지게차 계속 흔든 대표, 직원 3.2m 추락",
+   "summary": "경찰은 수사를 거쳐 A씨에게 특수상해 혐의를 적용해 사건을 공소청에 넘겼다. 노동 당국도 별도로 이번 사고를 조사한 뒤 산업안전보건법 위반 혐의를 적용해 최근 A씨를 공소청에 송치한 것으로 전해졌다.",
+   "url": "https://n.news.naver.com/mnews/article/025/0003556823?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25468408",
+   "source": "중앙일보",
+   "published": "2026-10-09T11:29+09:00",
+   "cat": "acc",
+   "id": "0f0c385a988e",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "[금융zip] 하나은행, 급여 멤버십 서비스 '달달하나컴퍼니' 리뉴얼 오픈...",
    "summary": "이번 상품은 지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결한 '중소·중견기업 산업안전 지원 상생협력을 위한 업무협약(MOU)'에 따른 후속 사업이다. 양 기관은 산업안전 전문역량과 금융 인프라를 연계해...",
@@ -2267,6 +2332,19 @@
    "id": "678b8d307758",
    "related": [],
    "day": "2026-10-08",
+   "watch": []
+  },
+  {
+   "title": "노동계, 현대성우캐스팅 최고경영책임자 처벌·외주화 전면 철회 촉구",
+   "summary": "[사진=전국금속노동조합] 노동계가 현대성우캐스팅 하청노동자 사망 사고와 관련, 회사 최고경영책임자... 또 해당 노조와 노동부 충주지청을 찾아가 생산재개를 위한 작업중지범위 축소시도를 하기도 했다\"며 \"정규직도...",
+   "url": "https://m.skyedaily.com/news_view.html?ID=312656",
+   "orig": "https://m.skyedaily.com/news_view.html?ID=312656",
+   "source": "skyedaily.com",
+   "published": "2026-10-07T21:34+09:00",
+   "cat": "law",
+   "id": "629469c6d5ae",
+   "related": [],
+   "day": "2026-10-07",
    "watch": []
   },
   {
