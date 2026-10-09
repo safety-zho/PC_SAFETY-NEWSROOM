@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T17:19+09:00",
+ "updatedAt": "2026-10-09T18:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-10-09",
-   "count": 5
+   "count": 6
   },
   {
    "id": "d55f6af5c79b",
@@ -43,10 +43,10 @@
    "count": 2
   },
   {
-   "id": "9644f8b3949c",
-   "title": "[기자수첩] '작업자 부주의' 탓하기 전에…건설현장부터 살펴야",
-   "url": "https://www.ezyeconomy.com/news/articleView.html?idxno=240635",
-   "source": "ezyeconomy.com",
+   "id": "0a101edcd01e",
+   "title": "'공공성 강화, 노동권 사수' 다시 외친 공공노동자들",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41616",
+   "source": "laborplus.co.kr",
    "cat": "law",
    "day": "2026-10-09",
    "count": 1
@@ -71,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "영월 석회석 광산 터널서 굴착기에 치여 5m 추락…50대 근로자 사망",
+   "summary": "강원소방본부는 신고를 받고 구조 인력을 현장에 출동시켰으나 A씨는 병원 이송 후 끝내 사망했다. 경찰과... 중대재해처벌법 적용 여부를 포함한 산업안전 법령 위반 여부는 수사 결과에 따라 판단될 예정이다. 경찰과...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001033221?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026100917520751248",
+   "source": "매일신문",
+   "published": "2026-10-09T17:57+09:00",
+   "cat": "sev",
+   "id": "5cfc7dae52a8",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "50대 대표는 왜 지게차를 흔들었나…직원 3.2m 높이서 추락",
+   "summary": "진단을 받았고, 이후 사고 후유증으로 퇴사한 상태다. 한편, 중부지방고용노동청 부천지청도 최근 A씨를 산업안전보건법 위반 혐의로 공소청에 송치했고, A씨의 직장 내 괴롭힘 여부 등에 대해서도 조사를 진행 중이다.",
+   "url": "https://n.news.naver.com/mnews/article/015/0005340896?sid=102",
+   "orig": "https://www.hankyung.com/article/2026100929447",
+   "source": "한국경제",
+   "published": "2026-10-09T17:53+09:00",
+   "cat": "acc",
+   "id": "6ac213ac0b6e",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "'공공성 강화, 노동권 사수' 다시 외친 공공노동자들",
+   "summary": "* 민주노총 공공운수노조·보건의료노조, 한국노총 금융노조·공공연맹·공공노련 최희선 보건의료노조... 국민이 받는 안전·복지·교통·에너지 서비스가 달라지고, 노동자의 일터와 가족의 삶이 바뀐다\"며 \"정부가...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41616",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41616",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-09T17:37+09:00",
+   "cat": "law",
+   "id": "0a101edcd01e",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "[기자수첩] '작업자 부주의' 탓하기 전에…건설현장부터 살펴야",
    "summary": "이 가운데 추락사망자는 642명으로 52.6%를 차지했다. 올해 상반기에도 사망자 58명 중 29명이 추락사고로... 외국인 노동자의 경우에는 안전교육이라는 문제가 더해진다. 국회 국토교통위원회 소속 전용기 더불어민주당...",
@@ -462,6 +501,12 @@
      "url": "https://n.news.naver.com/mnews/article/448/0000643955?sid=102",
      "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/09/2026100990121.html",
      "title": "\"지게차 흔들어 직원 추락\"…식자재 업체 대표 송치"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000914110?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261009174641Utn",
+     "title": "직원 작업 중 지게차 흔들어 3.2m 아래로 추락…업체 대표 송치"
     }
    ],
    "day": "2026-10-09",
