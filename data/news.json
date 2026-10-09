@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T10:20+09:00",
+ "updatedAt": "2026-10-09T11:16+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,14 +31,32 @@
    "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-10-09",
-   "count": 3
+   "count": 4
   },
   {
-   "id": "8fe83fcf3383",
-   "title": "가스기술공사, AI·스마트 기술 기반 중대재해 예방 강화",
-   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=913771",
-   "source": "chungnamilbo.co.kr",
+   "id": "2cb8df70584f",
+   "title": "[금융zip] 하나은행, 급여 멤버십 서비스 '달달하나컴퍼니' 리뉴얼 오픈...",
+   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883102",
+   "source": "getnews.co.kr",
    "cat": "tech",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
+   "id": "bf6fd83282e3",
+   "title": "'K-방산' 호황이라더니… 뒤에는 청년 노동자 목숨 걸린 '위험한 일터'",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111215",
+   "source": "bbsi.co.kr",
+   "cat": "sev",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
+   "id": "6b6890f259ad",
+   "title": "김포서 지게차 흔들어 직원 떨어뜨린 업체 대표 결국 송치",
+   "url": "https://n.news.naver.com/mnews/article/003/0014243257?sid=102",
+   "source": "뉴시스",
+   "cat": "hlt",
    "day": "2026-10-09",
    "count": 1
   },
@@ -50,18 +68,61 @@
    "cat": "law",
    "day": "2026-10-09",
    "count": 1
-  },
-  {
-   "id": "97fe805df9ac",
-   "title": "\"SK하이닉스 자랑하던 남편, 뇌종양 사망 희생양…산업재해 신청\"",
-   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
-   "source": "lawleader.co.kr",
-   "cat": "sev",
-   "day": "2026-10-09",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[금융zip] 하나은행, 급여 멤버십 서비스 '달달하나컴퍼니' 리뉴얼 오픈...",
+   "summary": "이번 상품은 지난 7월 NH농협금융지주와 한국산업안전보건공단이 체결한 '중소·중견기업 산업안전 지원 상생협력을 위한 업무협약(MOU)'에 따른 후속 사업이다. 양 기관은 산업안전 전문역량과 금융 인프라를 연계해...",
+   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883102",
+   "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=883102",
+   "source": "getnews.co.kr",
+   "published": "2026-10-09T10:56+09:00",
+   "cat": "tech",
+   "id": "2cb8df70584f",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "'K-방산' 호황이라더니… 뒤에는 청년 노동자 목숨 걸린 '위험한 일터'",
+   "summary": "받은 노동자는 모두 128명. 2021년 7명이던 사고재해자는 2023년 31명으로 급증했고, 올해도 상반기까지 이미... 대형 폭발 사고뿐만 아니라 일상적인 작업 환경에서의 사고도 잇따르고 있습니다. 최근 발생한 재해 중 끼임...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111215",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111215",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-09T10:36+09:00",
+   "cat": "sev",
+   "id": "bf6fd83282e3",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "나주선 이주노동자 결박, 김포선 직원 3.2m 추락…지게차 이용 폭행·상...",
+   "summary": "노동당국도 산업안전보건법 위반 혐의로 A씨를 공소청에 송치한 것으로 전해졌다. ◆나주선 결박해 지게차로 들어 올려…화성에선 산업용 에어건 지게차가 사람을 상대로 사용된 사건은 앞서 전남 나주에서도 발생했다....",
+   "url": "https://n.news.naver.com/mnews/article/088/0001033163?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026100910325189814",
+   "source": "매일신문",
+   "published": "2026-10-09T10:33+09:00",
+   "cat": "acc",
+   "id": "6a142bd6b7de",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "김포서 지게차 흔들어 직원 떨어뜨린 업체 대표 결국 송치",
+   "summary": "2m 아래로 추락해 잠시 의식을 잃은 것으로 파악됐다. B씨는 사고 후유증으로 직장을 그만둔 것으로 알려졌다. 한편 노동당국도 최근 A씨에게 산업안전보건법 위반 혐의를 적용해 공소청에 송치한 것으로 확인됐다.",
+   "url": "https://n.news.naver.com/mnews/article/003/0014243257?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261009_0003820115",
+   "source": "뉴시스",
+   "published": "2026-10-09T10:28+09:00",
+   "cat": "hlt",
+   "id": "6b6890f259ad",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "가스기술공사, AI·스마트 기술 기반 중대재해 예방 강화",
    "summary": "(사진제공=한국가스기술공사) 한국가스기술공사가 인공지능(AI)과 스마트 안전기술을 활용해 현장 위험요인을 사전에 발굴하고 중대재해 예방을 위한 안전관리 체계를 강화한다. 지난 6일 본사 4층 영상회의실에서 열린...",
@@ -239,6 +300,12 @@
      "url": "https://n.news.naver.com/mnews/article/658/0000157971?sid=102",
      "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261009.99099002523",
      "title": "[속보] 지게차 흔들어 직원 3.2m 아래로 추락시킨 업체 대표 송치"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003475325?sid=101",
+     "orig": "https://www.khan.co.kr/article/202610091023001",
+     "title": "이게 장난?···지게차 흔들어 직원 3.2m 아래로 추락시킨 식자재 업체..."
     }
    ],
    "day": "2026-10-09",
@@ -1353,6 +1420,12 @@
      "url": "https://www.asiatime.co.kr/article/20261008500333",
      "orig": "https://www.asiatime.co.kr/article/20261008500333",
      "title": "[은행 뉴스브리핑] 농협은행 안전경영활동 우수기업 대상 전용상품 출시"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014243293?sid=101",
+     "orig": "https://www.newsis.com/view/NISX20261008_0003819131",
+     "title": "NH농협은행, 안전경영활동 우수기업 0.3%p 우대금리"
     }
    ],
    "day": "2026-10-08",
