@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T08:21+09:00",
+ "updatedAt": "2026-10-09T09:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,10 +25,19 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "5d1e428df452",
-   "title": "김포서 직원 지게차 집게에 올려 추락시킨 60대 업체 대표 송치",
-   "url": "https://n.news.naver.com/mnews/article/421/0009218777?sid=102",
-   "source": "뉴스1",
+   "id": "97fe805df9ac",
+   "title": "\"SK하이닉스 자랑하던 남편, 뇌종양 사망 희생양…산업재해 신청\"",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
+   "source": "lawleader.co.kr",
+   "cat": "sev",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
+   "id": "6069e26bf62a",
+   "title": "“흔들지 말랬는데”…지게차 작업 직원 추락시킨 업체 대표 송치",
+   "url": "https://n.news.naver.com/mnews/article/666/0000126699?sid=102",
+   "source": "kyeonggi.com",
    "cat": "acc",
    "day": "2026-10-09",
    "count": 1
@@ -43,15 +52,6 @@
    "count": 1
   },
   {
-   "id": "7f97c3493438",
-   "title": "[단독] 유족도 못 보는 산재 조사보고서… 법 바뀌어도 공개율 3%",
-   "url": "https://n.news.naver.com/mnews/article/005/0001877674?sid=102",
-   "source": "국민일보",
-   "cat": "sev",
-   "day": "2026-10-09",
-   "count": 1
-  },
-  {
    "id": "354e7e6fdd85",
    "title": "[대우건설 인사 추적] 조재형 11개월 만에 전무… 건축·플랜트·토목 본...",
    "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3077931",
@@ -62,6 +62,136 @@
   }
  ],
  "articles": [
+  {
+   "title": "\"SK하이닉스 자랑하던 남편, 뇌종양 사망 희생양…산업재해 신청\"",
+   "summary": "반도체노동자의 건강과 인권지킴이 '반올림'은 7일 오전 11시, 근로복지공단 서울남부지사에서 SK하이닉스 노동자 집단 산재신청 기자회견을 개최했다. 이날 SK하이닉스 이천 사업장에서 일하다 유방암ㆍ뇌종양으로 사망한...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20122",
+   "source": "lawleader.co.kr",
+   "published": "2026-10-09T09:20+09:00",
+   "cat": "sev",
+   "id": "97fe805df9ac",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "“흔들지 말랬는데”…지게차 작업 직원 추락시킨 업체 대표 송치",
+   "summary": "있었다”며 “고소공포증이 있어 흔들지 말라고 했지만 A씨가 계속 지게차를 흔들어 떨어졌다”고 주장했다. 노동 당국도 해당 사고와 관련, 산업안전보건법 위반 혐의를 적용해 A씨를 공소청에 송치한 것으로 전해졌다.",
+   "url": "https://n.news.naver.com/mnews/article/666/0000126699?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261009580018",
+   "source": "kyeonggi.com",
+   "published": "2026-10-09T09:19+09:00",
+   "cat": "acc",
+   "id": "6069e26bf62a",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "지게차 흔들어 직원 추락 '나쁜 사장님'...4개월만에 송치",
+   "summary": "위해 지게차에 올라가 작업 중이었다\"며 \"고소공포증이 있으니 흔들지 말라고 했지만 A씨가 지게차를 계속 흔들어 떨어졌다\"고 주장했다. 노동 당국은 최근 산업안전보건법 위반 혐의를 적용해 A씨를 공소청에 송치했다.",
+   "url": "https://n.news.naver.com/mnews/article/215/0001268644?sid=102",
+   "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610090014&t=NN",
+   "source": "한국경제TV",
+   "published": "2026-10-09T09:02+09:00",
+   "cat": "acc",
+   "id": "716685abf1e6",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "“고국의 품까지 함께”…근로복지공단, 산재 사망 이주노동자 귀향 지...",
+   "summary": "공단이 올해 3월 시작한 산재 사망 이주노동자 유족 예우사업은 이번이 세 번째다. 공단은 유족 입국 지원부터 산재보상 안내, 추모, 장례, 본국 운구와 귀국까지 이어지는 지원체계를 지속적으로 보완하고 있다. 앞으로도...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002707274?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10897512?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-09T09:01+09:00",
+   "cat": "sev",
+   "id": "d55f6af5c79b",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "필리핀 노동자 유족 배웅…근로복지공단, 유족예우사업 진행",
+   "summary": "공단은 앞으로도 주한 외국공관 등 관계기관과 협력을 강화해 산재 사망 이주노동자의 유족이 입국부터 장례, 산재보상, 본국 운구와 귀국까지 필요한 지원을 받을 수 있도록 유족 중심의 산재보상 지원체계를 강화해...",
+   "url": "https://www.newspim.com/news/view/20261008001144",
+   "orig": "https://www.newspim.com/news/view/20261008001144",
+   "source": "뉴스핌",
+   "published": "2026-10-09T09:00+09:00",
+   "cat": "sev",
+   "id": "0e272b09af89",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "근로복지공단, 산재 사망 필리핀 노동자 유족 입국부터 귀국까지 지원",
+   "summary": "공단은 지난 3월부터 이주노동자 유족 예우 사업을 시행하고 있으며, 앞으로도 외국공관 등과 협력해 산재 사망 이주노동자 유족에 대한 지원을 강화할 계획입니다. 박승흡 이사장은 \"대한민국에서 성실히 일하다 안타깝게...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111169",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111169",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-09T09:00+09:00",
+   "cat": "sev",
+   "id": "9f5c12caab31",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "천안 공장 폭발로 숨진 필리핀 노동자…고국 운구 지원",
+   "summary": "근로복지공단은 산재 사망 이주노동자의 유족 입국부터 산재보상 안내, 추모와 장례, 본국 운구와 귀국까지 이어지는 지원체계를 보완하고 있다. 앞으로 주한 외국공관 등 관계기관과 협력을 강화해 유족이 각 단계에서...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014243167?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261008_0003819962",
+   "source": "뉴시스",
+   "published": "2026-10-09T09:00+09:00",
+   "cat": "sev",
+   "id": "d159a8adff6c",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "\"장난이었다\" 지게차 흔들어 직원 추락…60대 사장 송치",
+   "summary": "행위를 두고 A씨에 대해 특수폭행 혐의를 적용했다. 중부지방고용노동청 부천지청도 최근 A씨를 산업안전보건법 위반 혐의로 공소청에 송치했다. 또 A씨의 직장 내 괴롭힘 여부 등에 대해서도 조사를 진행하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/008/0005424202?sid=102",
+   "orig": "https://www.mt.co.kr/society/2026/10/09/2026100908481121566",
+   "source": "머니투데이",
+   "published": "2026-10-09T08:57+09:00",
+   "cat": "acc",
+   "id": "ca725fe8beb6",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "[속보]지게차 흔들어 직원 추락시킨 대표, 특수상해 혐의로 송치",
+   "summary": "이와 관련해 노동 당국도 최근 산업안전보건법 위반 혐의를 적용해 A씨를 공소청에 송치했다. A씨는 지난 6월 9일 경기 김포시 한 식자재 업체에서 지게차를 흔들어 작업 중이던 40대 직원 B씨를 떨어뜨리고 다치게 한...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002824018?sid=102",
+   "orig": "https://www.munhwa.com/article/11622366?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-09T08:57+09:00",
+   "cat": "acc",
+   "id": "dc76e82f7ca7",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "지게차 흔들어 직원 3.2m 아래로 추락…업체 대표 송치",
+   "summary": "작업 중이었다\"며 \"고소공포증이 있으니 흔들지 말라고 했지만 A씨가 지게차를 계속 흔들어 떨어졌다\"고 주장했다. 한편 노동 당국도 최근 산업안전보건법 위반 혐의를 적용해 A씨를 공소청에 송치한 것으로 전해졌다.",
+   "url": "https://n.news.naver.com/mnews/article/001/0016367225?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261009018000065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-09T08:37+09:00",
+   "cat": "acc",
+   "id": "dab5ab67fc94",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "김포서 직원 지게차 집게에 올려 추락시킨 60대 업체 대표 송치",
    "summary": "중부지방고용노동청 부천지청도 최근 A 씨를 산업안전보건법 위반 혐의로 공소청에 송치했다. 김영훈 고용노동부 장관은 지난 8월 이번 사고와 관련해 \"사업주의 안전불감증으로 인한 이번 사고는 그간 안전의식이...",
@@ -168,6 +298,12 @@
      "url": "https://n.news.naver.com/mnews/article/008/0005424150?sid=102",
      "orig": "https://www.mt.co.kr/society/2026/10/08/2026100822413079230",
      "title": "대구 주차타워서 70대 하청 노동자 숨져…'중대재해법' 위반 조사"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003475312?sid=102",
+     "orig": "https://www.khan.co.kr/article/202610090846001",
+     "title": "대구 주차타워서 70대 노동자 리프트에 끼여 숨져···중대재해법 위반..."
     }
    ],
    "day": "2026-10-08",
