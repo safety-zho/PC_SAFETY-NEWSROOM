@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T13:19+09:00",
+ "updatedAt": "2026-10-09T14:17+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,10 +43,19 @@
    "count": 2
   },
   {
-   "id": "a2cf511945a9",
-   "title": "발전5사, 수천억 안전투자에도 산재율 제각각…통합 앞두고 우려 [오늘...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002707312?sid=100",
-   "source": "헤럴드경제",
+   "id": "ab8ece23b6e3",
+   "title": "염산 등 위험작업 외주 맡긴 지역난방공사…안전 절차 위반·재하도급 ...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475360?sid=102",
+   "source": "경향신문",
+   "cat": "law",
+   "day": "2026-10-09",
+   "count": 1
+  },
+  {
+   "id": "38f4e0632cb6",
+   "title": "인천환경공단, 생성형 AI 도입해 위험성평가 자동화 프로세스 구축",
+   "url": "http://www.metroseoul.co.kr/article/20261008500258",
+   "source": "metroseoul.co.kr",
    "cat": "tech",
    "day": "2026-10-09",
    "count": 1
@@ -59,18 +68,35 @@
    "cat": "hlt",
    "day": "2026-10-09",
    "count": 1
-  },
-  {
-   "id": "8f1502ea9230",
-   "title": "[위클립] 10월 2주",
-   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41615",
-   "source": "laborplus.co.kr",
-   "cat": "law",
-   "day": "2026-10-09",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "염산 등 위험작업 외주 맡긴 지역난방공사…안전 절차 위반·재하도급 ...",
+   "summary": "하지만 감사에서는 안전 절차를 지키지 않은 사례 7건이 적발됐다. 고용노동부 장관의 승인을 받지 않았거나... 산업안전보건법은 이미 도급 승인을 받은 위험작업을 다시 다른 업체에 맡기지 못하도록 하고 있다. 계약...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475360?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610091356001",
+   "source": "경향신문",
+   "published": "2026-10-09T13:56+09:00",
+   "cat": "law",
+   "id": "ab8ece23b6e3",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, 생성형 AI 도입해 위험성평가 자동화 프로세스 구축",
+   "summary": "AI 기술을 결합해 보다 안전하고 스마트한 환경기초시설을 만들어 나가겠다\"라고 전했다. 한편, 공단은 AI 기반 방류수 수질예측, 바디캠 활용 위험상황 감지, 잠수풀 익수자 조기감지, AI 활용 보고문서 사전검증 등...",
+   "url": "http://www.metroseoul.co.kr/article/20261008500258",
+   "orig": "http://www.metroseoul.co.kr/article/20261008500258",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-09T13:18+09:00",
+   "cat": "tech",
+   "id": "38f4e0632cb6",
+   "related": [],
+   "day": "2026-10-09",
+   "watch": []
+  },
   {
    "title": "근로복지공단, 산재 사망 외국인 유족 체류 비용 지원 검토",
    "summary": "산재 사망 외국인 예우사업 보완 국적 관계없는 사회 안전망 지원 근로복지공단이 우리나라에서 산업재해로 숨진 외국인 노동자 유족의 체류 비용 지원 등 사후 지원을 확대하는 방안을 검토하고 있다. 공단은 산재 사망...",
