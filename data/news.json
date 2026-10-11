@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-09T18:19+09:00",
+ "updatedAt": "2026-10-12T08:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,1201 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "dab5ab67fc94",
-   "title": "지게차 흔들어 직원 3.2m 아래로 추락…업체 대표 송치",
-   "url": "https://n.news.naver.com/mnews/article/001/0016367225?sid=102",
-   "source": "연합뉴스",
-   "cat": "acc",
-   "day": "2026-10-09",
-   "count": 6
-  },
-  {
-   "id": "d55f6af5c79b",
-   "title": "“고국의 품까지 함께”…근로복지공단, 산재 사망 이주노동자 귀향 지...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002707274?sid=101",
-   "source": "헤럴드경제",
+   "id": "830e289dfb42",
+   "title": "무면허로 건설기계 운전하다 작업자 숨지게 한 직원*대표 유죄",
+   "url": "https://news.knn.co.kr/news/article/193056",
+   "source": "knn.co.kr",
    "cat": "sev",
-   "day": "2026-10-09",
-   "count": 2
+   "day": "2026-10-12",
+   "count": 1
   },
   {
-   "id": "0a101edcd01e",
-   "title": "'공공성 강화, 노동권 사수' 다시 외친 공공노동자들",
-   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41616",
-   "source": "laborplus.co.kr",
+   "id": "a1aac269e34c",
+   "title": "[기고] 위험성평가도 함부로 손 못 대는 '터줏대감'입니까?",
+   "url": "http://www.ferrotimes.com/news/articleView.html?idxno=50826",
+   "source": "ferrotimes.com",
    "cat": "law",
-   "day": "2026-10-09",
+   "day": "2026-10-12",
    "count": 1
   },
   {
-   "id": "38f4e0632cb6",
-   "title": "인천환경공단, 생성형 AI 도입해 위험성평가 자동화 프로세스 구축",
-   "url": "http://www.metroseoul.co.kr/article/20261008500258",
-   "source": "metroseoul.co.kr",
+   "id": "1d934f435e35",
+   "title": "무기제조업 산재 35%가 청년... 끼임 사고 36건",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137714",
+   "source": "newslock.co.kr",
+   "cat": "acc",
+   "day": "2026-10-12",
+   "count": 1
+  },
+  {
+   "id": "84aaf04dea21",
+   "title": "남양유업 천안공장, 우유 패키지 활용…안전문화 확산 나서",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329499",
+   "source": "aflnews.co.kr",
    "cat": "tech",
-   "day": "2026-10-09",
+   "day": "2026-10-12",
    "count": 1
   },
   {
-   "id": "6b6890f259ad",
-   "title": "김포서 지게차 흔들어 직원 떨어뜨린 업체 대표 결국 송치",
-   "url": "https://n.news.naver.com/mnews/article/003/0014243257?sid=102",
-   "source": "뉴시스",
+   "id": "99bf42da5c4d",
+   "title": "원청교섭 돌입 한화오션, 어떤 의제 테이블 오를까",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237150",
+   "source": "매일노동뉴스",
    "cat": "hlt",
-   "day": "2026-10-09",
+   "day": "2026-10-12",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "무면허로 건설기계 운전하다 작업자 숨지게 한 직원*대표 유죄",
+   "summary": "부산지법 서부지원은 업무상과실치사 등의 혐의로 기소된 근로자 A 씨에게 징역 1년을 선고하고 중대재해처벌법 위반 등의 혐의로 기소된 업체 대표 B 씨에게는 징역 1년에 집행유예 2년을 선고했습니다. A 씨는 지난해...",
+   "url": "https://news.knn.co.kr/news/article/193056",
+   "orig": "https://news.knn.co.kr/news/article/193056",
+   "source": "knn.co.kr",
+   "published": "2026-10-12T07:52+09:00",
+   "cat": "sev",
+   "id": "830e289dfb42",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[기고] 위험성평가도 함부로 손 못 대는 '터줏대감'입니까?",
+   "summary": "최근 「사업장 위험성평가에 관한 지침」 전부개정 고시안이 행정예고됐다. 이 글에서는 제도 해설보다 먼저... 산업안전보건법은 흔히 '피로 쓰인 법'이라고 한다. 더 늦기 전에 우리 사업장의 '고인물'을 제대로 들여다볼...",
+   "url": "http://www.ferrotimes.com/news/articleView.html?idxno=50826",
+   "orig": "http://www.ferrotimes.com/news/articleView.html?idxno=50826",
+   "source": "ferrotimes.com",
+   "published": "2026-10-12T07:32+09:00",
+   "cat": "law",
+   "id": "a1aac269e34c",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "무기제조업 산재 35%가 청년... 끼임 사고 36건",
+   "summary": "사고재해자는 사망자를 포함해 총 128명으로 집계됐다. 연도별 사고재해자는 ▲2021년 7명 ▲2022년 15명... 같은 중대 위험뿐 아니라 떨어짐·끼임·부딪힘 등 반복적으로 발생하는 재해에 대한 예방체계를 구축해야...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137714",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137714",
+   "source": "newslock.co.kr",
+   "published": "2026-10-12T07:00+09:00",
+   "cat": "acc",
+   "id": "1d934f435e35",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "남양유업 천안공장, 우유 패키지 활용…안전문화 확산 나서",
+   "summary": "남양유업 천안공장은 고용노동부 천안지청, 한국산업안전보건공단 충남지역본부와 산업재해 예방·안전문화 확산을 위한 업무협약(MOU)을 체결했다고 지난 6일 밝혔다. 협약식은 지난 2일 충남 천안시 남양유업...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329499",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329499",
+   "source": "aflnews.co.kr",
+   "published": "2026-10-12T07:00+09:00",
+   "cat": "tech",
+   "id": "84aaf04dea21",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "직장인 4명 중 1명, 퇴근 뒤 업무 카톡…“수면장애 위험 2배 높인다”",
+   "summary": "이런 위험에 노출될 수 있는 직장인들, 한국산업안전보건공단의 근로환경조사를 분석한 결과 직장인 2만 2천 명 가운데 27%인 6천2백 명이 넘습니다. 직종별로 살펴보면 영업직이 40%를 넘어 가장 많았고, 공학 관련 기술자...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012271495?sid=103",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682705&ref=A",
+   "source": "KBS",
+   "published": "2026-10-12T06:41+09:00",
+   "cat": "tech",
+   "id": "f6bec13410e6",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독-중대재해 리포트 ③] 중대재해 10%만 기소 '위험 방치·반복 사고...",
+   "summary": "사망사고 반복 사업장 실형 비율(16%)은 전체 실형(167건 중 11건·6.6%)의 두 배를 넘는다. 다만 1심 실형 7건 가운데 엠텍·신성산업·바론건설 3건은 2심에서 집행유예로 바뀌었다. 1심에서 중대재해처벌법 무죄가 나온...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237144",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237144",
+   "source": "매일노동뉴스",
+   "published": "2026-10-12T06:32+09:00",
+   "cat": "sev",
+   "id": "d81c387db1e5",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "원청교섭 돌입 한화오션, 어떤 의제 테이블 오를까",
+   "summary": "보장 △산업안전보건위원회 등 노동안전활동 보장 6개다. 핵심 요구안 모두에서 갈등이 예상된다. 고용·노동조건 승계 요구의 경우 하청노동자들은 원청이 실질적 사용자로서 업체 선정과 교체 권한을 가지고 있기...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237150",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237150",
+   "source": "매일노동뉴스",
+   "published": "2026-10-12T06:32+09:00",
+   "cat": "hlt",
+   "id": "99bf42da5c4d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "공공노동자들 공공기관 통폐합 반대 수위 높인다",
+   "summary": "금융산업을 함부로 훼손하는 우를 범하지 말라\"고 비판했다. 공공기관의 임금과 정원 정책을 노동계와 함께 결정하는 보수위원회 설치는 이들의 핵심 요구사항이다. 김영자 보건의료노조 근로복지공단의료본부지부...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237154",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237154",
+   "source": "매일노동뉴스",
+   "published": "2026-10-12T06:32+09:00",
+   "cat": "hlt",
+   "id": "43c564e6e75e",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[노무, 톡!] 그림으로 읽는 산업안전보건법",
+   "summary": "산업안전보건법시행규칙[별표6] 중 일부 이 같은 안전보건표지는 색깔과 형태, 용도, 설치 및 부착 장소 등이 모두 산업안전보건법 시행규칙에 정밀하게 규정되어 있다. 사업장마다 임의로 색채를 달리해 혼선을 빚지...",
+   "url": "https://www.etoday.co.kr/news/view/2634338",
+   "orig": "https://www.etoday.co.kr/news/view/2634338",
+   "source": "이투데이",
+   "published": "2026-10-12T06:02+09:00",
+   "cat": "hlt",
+   "id": "f87c3b05b7e3",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "‘12명 사망’ 리야드 공항 또 피격… 도심도 폭발음, 사우디 ‘공포’",
+   "summary": "그는 또 사우디 동부에 있는 아람코의 슈가담 가스 시설과 타나집 정유 공장을 정확히 타격해 대형 화재를... 또 그는 엑스를 통해선 “모든 항공사와 전문가, 공항 근로자 및 여행객들에게 사우디 공항과 영공을 이용하지...",
+   "url": "https://n.news.naver.com/mnews/article/005/0001878049?sid=104",
+   "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000021659&cp=nv",
+   "source": "국민일보",
+   "published": "2026-10-12T05:22+09:00",
+   "cat": "sev",
+   "id": "0569c2a84fad",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[노무 레이더] (26) 노동수사",
+   "summary": "그러나 개정 형사소송법 시행으로 이러한 수사지휘가 폐지됐고, 고용노동부는 이에 맞춰 「노동감독관... 토대로 산업안전보건법 위반 여부를 수사합니다. 임금체불 사건 역시 노동청 진정으로 시작했다가 법 위반이...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52182",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52182",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-12T05:06+09:00",
+   "cat": "law",
+   "id": "985f3f872770",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] ‘주 60시간’ 삼성전자 연구직 또 ‘과로사 산재’…메가특구 ...",
+   "summary": "2021∼2024년 뇌심혈관계 질환으로 산재를 신청한 삼성전자 연구개발직은 3명으로, 이 가운데 사망 전 한 달간 주 평균 58시간41분 일한 사실이 확인된 1명의 ‘업무상 질병’이 인정됐다. 지난해에는 반도체 연구개발직...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002826956?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1281859.html",
+   "source": "한겨레",
+   "published": "2026-10-12T05:02+09:00",
+   "cat": "hlt",
+   "id": "090b4056bd93",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "'DL이앤씨 시공' 부천 공사장서 노동자 1명 사망",
+   "summary": "산업안전보건법과 중대재해처벌법 위반 여부도 조사한다. 중대재해처벌법은 사업장에서 노동자 1명 이상이 숨진 경우 중대산업재해로 규정하고 경영책임자의 안전보건 확보 의무 이행 여부 등을 따지도록 하고 있다.",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246366",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246366",
+   "source": "세이프타임즈",
+   "published": "2026-10-12T02:14+09:00",
+   "cat": "sev",
+   "id": "531aea48cfa6",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "산재사망 느는데… 근로감독관 책임 늘고 일손 태부족",
+   "summary": "중대재해처벌법 시행 이후 현재 수사 중인 사건과 1년 이상 장기수사 사건 현황을 요청했지만 강원지청은 관련 자료를 보유하고 있으나 고용노동부 본부 방침상 공개하기 어렵다는 입장이다. 강원지역 산업현장 사망사...",
+   "url": "https://n.news.naver.com/mnews/article/654/0000204778?sid=101",
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2077424",
+   "source": "강원도민일보",
+   "published": "2026-10-12T00:09+09:00",
+   "cat": "sev",
+   "id": "82956a963997",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "대우건설, 올해 사망사고 '0'…안전관리 원년 만드나",
+   "summary": "또 2명 이상의 산재 사망으로 3년간 영업정지 처분을 받고도 또다시 영업정지 요청 대상이 되면 고용노동부 장관이 관계 행정기관에 사업 등록 말소를 요청하는 강력한 방안도 포함됐다. 시행은 공포 후 6개월이다....",
+   "url": "https://n.news.naver.com/mnews/article/629/0000540916?sid=101",
+   "orig": "https://news.tf.co.kr/read/economy/2374575.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-12T00:01+09:00",
+   "cat": "sev",
+   "id": "52a00b52ef48",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[스트레이트] 납 공장 '비타민 주사'의 비밀",
+   "summary": "늦게라도 고용노동부가 문제를 알게 된 건데요. 그렇다면 뭔가 달라졌을까요? ■ '조직적 주사'에 4,600만 원이 끝? 지난 4월 안전보건공단이 직접 DN오토모티브 울산 공장 안의 납 농도를 측정했습니다. 그 결과, 공장...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001528329?sid=102",
+   "orig": "https://imnews.imbc.com/replay/straight/6857112_28993.html",
+   "source": "MBC",
+   "published": "2026-10-11T20:52+09:00",
+   "cat": "law",
+   "id": "d70ba7c3bb39",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "뚜레쥬르・파리바게뜨 다 아니었다…제과제빵 브랜드평판서 '또' 1위 차...",
+   "summary": "수년째 브랜드평판 1위 자리를 내주지 않는 빵집이 있다.뚜레쥬르와 파리바게뜨.... 빵을 사고 이야기하는 단계를 넘어, 다른 사람에게 퍼 나르는 활동이 한 달 새 가장 크게 늘었다는 뜻이다.6위~30위까지는 어떤...",
+   "url": "https://www.wikitree.co.kr/articles/1164811",
+   "orig": "https://www.wikitree.co.kr/articles/1164811",
+   "source": "위키트리",
+   "published": "2026-10-11T20:30+09:00",
+   "cat": "law",
+   "id": "e24e2ea91615",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": [
+    "파리바게뜨"
+   ]
+  },
+  {
+   "title": "시교육청, 2026 사회적경제 가치 나눔 장터",
+   "summary": "지수 측정을, 울산산업고 원예디자인과에서는 차량용 향수 만들기 체험 등을 진행한다. 이 외에도 한국산업안전보건공단이 올해 처음 방문해 일상 속 안전사고를 예방하는 가상현실(VR) 안전 체험 공간을 운영한다.",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=393297",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=393297",
+   "source": "ujeil.com",
+   "published": "2026-10-11T20:04+09:00",
+   "cat": "tech",
+   "id": "4d2ee952552d",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "산업안전감독관 47% ‘수사경력 1년 미만’",
+   "summary": "고용노동부 산업안전감독관 중 절반 가까이는 수사 경력이 1년 미만인 것으로 나타났다. 개정 형사소송법... 산업안전감독관은 산재 발생 위험이 큰 사업장을 점검하고 산업안전보건법 등 법령 준수 여부를 감독...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004165701?sid=102",
+   "orig": "https://www.segye.com/newsView/20261011512740?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-11T19:35+09:00",
+   "cat": "law",
+   "id": "18a82af2a7e4",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[단독] 사망사고 나도 외국인 노동자 배정… 고용허가 점수제 ‘유명무...",
+   "summary": "최소한의 안전장치도 없는 위험한 사업장으로 등 떠미는 꼴”이라고 지적했다. 최정규 법무법인 원곡 변호사는 “산재 사망이 발생한 사업장은 일정기간 고용허가를 원천 제한하는 식의 제재가 필요하다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/005/0001877975?sid=102",
+   "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000021572&cp=nv",
+   "source": "국민일보",
+   "published": "2026-10-11T18:57+09:00",
+   "cat": "sev",
+   "id": "c85c5b12f5b3",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 진주지청, 건설현장 '3+1' 안전수칙 불시점검",
+   "summary": "또한 최근 3년(2023~2025) 이동식 사다리 관련 사고사망자는 매년 약 26명으로 집계되는 등 높은 곳에서의 추락... 지키는 노동자의 노력이 합쳐질 때 진짜로 안전한 현장이 만들어진다\"고 말했다. 그는 이어 \"불시점검을 통해...",
+   "url": "http://www.gndomin.com/news/articleView.html?idxno=492172",
+   "orig": "http://www.gndomin.com/news/articleView.html?idxno=492172",
+   "source": "경남도민신문",
+   "published": "2026-10-11T18:28+09:00",
+   "cat": "law",
+   "id": "2a82b8d7c471",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "박해철 의원, 산재 역학조사 최장 1205일, 노동자 결과 못 보고 숨져",
+   "summary": "산재 역학조사, 180일 넘어 장기화…100건 중 75% 결과 지연 정부 지침 ‘180 일’ 초과 100건 중 13건 조사 중 사망...공단 “인력 부족” 더불어민주당 박해철 국회의원이 근로복지공단으로부터 제출받은 자료에 따르면...",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=914518",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=914518",
+   "source": "경기신문",
+   "published": "2026-10-11T17:22+09:00",
+   "cat": "sev",
+   "id": "328f34534bcf",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "세종시시설관리공단, 안전관리 역량 강화 실무교육 실시",
+   "summary": "이번 교육은 현장에서 발생할 수 있는 위험요인을 정확히 파악하고, 예방활동과 안전조치를 실질적으로 수행할 수 있도록 돕기 위해 마련됐다. 교육은 고용노동부 소속 근로감독관이 진행했으며, 실제 산업재해와 중대재해...",
+   "url": "https://www.viva100.com/article/20261011500800",
+   "orig": "https://www.viva100.com/article/20261011500800",
+   "source": "브릿지경제",
+   "published": "2026-10-11T16:50+09:00",
+   "cat": "law",
+   "id": "86c0c1490b98",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "영덕 풍력발전기 보수 중 3명 사고…경찰, 12일 원인 감식",
+   "summary": "이번 감식에는 경북경찰청 광역범죄수사대 중대재해수사계를 비롯해 국립과학수사연구원, 고용노동부, 한국산업안전공단, 소방 등 관계기관이 참여한다. 앞서 지난 3월 23일 해당 풍력발전단지에서는 발전기 날개에...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086748",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4086748",
+   "source": "경북일보",
+   "published": "2026-10-11T16:48+09:00",
+   "cat": "acc",
+   "id": "e663887001f0",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "GS그룹, 중소기업에 AI 에이전트 무상 공유…스타트업과 데이터센터 기...",
+   "summary": "스타트업에도 적극적으로 투자해 한국의 AI 산업 육성에도 기여할 방침이다. GS그룹은 안전관리 AI... GS파워는 올해 1월 ‘공정안전관리(PSM) 안전문화 확산 우수사례’로 선정돼 고용노동부장관상을 받았다. GS는...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005341164?sid=101",
+   "orig": "https://www.hankyung.com/article/2026101139821",
+   "source": "한국경제",
+   "published": "2026-10-11T16:41+09:00",
+   "cat": "law",
+   "id": "355dfd2fe7c6",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] ‘조리흄’ 공포…‘폐암 급식노동자’ 3년 8개월간 90명에...",
+   "summary": "같은 기간 폐암 확진자 수는 전국에서 90명에 달했으며, 산재로 인한 사망자는 5명이었다. 폐 질환을 제외한 유형별 산재 건수는 △화상 2434건 △넘어짐 2158건 △찔림·베임 641건 △기타 유형 4011건으로, 총 9347건의...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261011027094637",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261011027094637",
+   "source": "에너지경제",
+   "published": "2026-10-11T16:30+09:00",
+   "cat": "law",
+   "id": "e86d89ea3a1f",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "박범윤 서귀포시교육청 주무관 '산업안전지도사' 합격",
+   "summary": "한편 산업안전지도사는 고용노동부 소관의 국가전문자격으로, 재해처벌법 강화에 따라 공공기관과 기업의 안전보건 체계 구축, 위험성 평가, 법령 해석·이행 업무를 담당한다. 산업안전지도사는 개인 사무소나 지도...",
+   "url": "http://www.jejunews.com/news/articleView.html?idxno=2228146",
+   "orig": "http://www.jejunews.com/news/articleView.html?idxno=2228146",
+   "source": "제주일보",
+   "published": "2026-10-11T16:14+09:00",
+   "cat": "tech",
+   "id": "26396178e9db",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "영덕 풍력발전기 화재 합동감식 12일 실시…근로자 3명 사망 원인 규명",
+   "summary": "경북경찰청 광역범죄수사대는 오는 12일 영덕군 영덕읍 창포리 풍력발전단지 내 사고 현장에서 경찰과 국립과학수사연구원, 고용노동부, 한국산업안전공단, 소방 등이 참여하는 합동감식을 실시한다고 11일 밝혔다....",
+   "url": "https://idsn.co.kr/news/view/1065596296488679",
+   "orig": "https://idsn.co.kr/news/view/1065596296488679",
+   "source": "idsn.co.kr",
+   "published": "2026-10-11T16:02+09:00",
+   "cat": "sev",
+   "id": "66f547262164",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "코레일 광주본부, 신입사원 안전의식 강화 '앞장'",
+   "summary": "11일 코레일 광주본부에 따르면 최근 전남광주 담양에 위치한 한국산업안전보건공단 호남안전체험교육장에서 신입사원들이 직접 사고 위험을 경험하는 '생생안전체험교육'을 실시했다. 이번 교육은 철도 작업 과정에서...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=925725",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=925725",
+   "source": "남도일보",
+   "published": "2026-10-11T15:56+09:00",
+   "cat": "tech",
+   "id": "364df0ed320f",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "“3명 숨졌는데 6개월간 손 못 대”…영덕 풍력발전기 화재, 이제야 원...",
+   "summary": "이번 감식에는 경찰을 비롯해 국립과학수사연구원, 고용노동부, 한국산업안전보건공단, 소방 당국 등 관련 기관이 참여해 발화 원인과 기계적 결함 여부, 안전 수칙 준수 여부 등을 조사할 예정이다. 경찰 관계자는 사고...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003052387?sid=102",
+   "orig": "https://www.dt.co.kr/article/12088367?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-11T15:47+09:00",
+   "cat": "sev",
+   "id": "2adece34a340",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "3명 숨진 영덕 풍력발전기 화재…6개월여 만에 현장 감식",
+   "summary": "감식에는 경찰과 국립과학수사연구원, 고용노동부, 한국산업안전공단, 소방 등 관계 기관이 참여한다. 경찰은 \"사고 현장이 지상 약 80m 높이에 있어 대형 크레인 등 중장비 진입로를 새로 만들어야 했고 강한 바람으로...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016369318?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261011034200053?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-11T15:37+09:00",
+   "cat": "sev",
+   "id": "b3d9c4132419",
+   "related": [
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002824260?sid=102",
+     "orig": "https://www.munhwa.com/article/11622610?ref=naver",
+     "title": "경찰, 3명 숨진 영덕풍력발전기 화재 12일 합동 감식"
+    },
+    {
+     "source": "국민일보",
+     "url": "https://n.news.naver.com/mnews/article/005/0001877938?sid=102",
+     "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000021530&cp=nv",
+     "title": "3명 숨진 경북 영덕 풍력발전단지 화재 사고 6개월여 만에 현장 합동감..."
+    },
+    {
+     "source": "dkilbo.com",
+     "url": "https://www.dkilbo.com/news/articleView.html?idxno=556693",
+     "orig": "https://www.dkilbo.com/news/articleView.html?idxno=556693",
+     "title": "근로자 3명 숨진 영덕 풍력발전기 화재…12일 합동감식"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009220779?sid=102",
+     "orig": "https://www.news1.kr/local/daegu-gyeongbuk/6316005",
+     "title": "3명 숨진 영덕 풍력발전기 화재…사고 약 7개월 만에 합동감식"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/057/0001972819?sid=102",
+     "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224153",
+     "title": "'3명 사망' 영덕 풍력발전기 화재, 6개월 만에 합동 감식한다"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003687743?sid=102",
+     "orig": "https://www.seoul.co.kr/news/society/2026/10/11/20261011500049?wlog_tag3=naver",
+     "title": "원인 규명될까…영덕 풍력발전기 화재 6개월 만에 합동감식"
+    },
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004165668?sid=102",
+     "orig": "https://www.segye.com/newsView/20261011512681?OutUrl=naver",
+     "title": "근로자 3명 사망 영덕 풍력발전기 불… 6개월여 만에 현장 감식 [사건수..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014245388?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261011_0003821109",
+     "title": "'3명 사망' 영덕 풍력발전기 화재…6개월여 만에 합동감식"
+    },
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=537121",
+     "orig": "https://www.kbsm.net/news/view.php?idx=537121",
+     "title": "3명 숨진 영덕 풍력발전기 화재…6개월여 지나 현장 감식 들어가"
+    },
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000958783?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026101115270001305?did=NA",
+     "title": "3명 숨진 영덕 풍력발전기 화재… 사고 6개월여 만에 현장 감식"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000644217?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/11/2026101190078.html",
+     "title": "근로자 3명 숨진 영덕 풍력발전기 화재…사고 6개월 만 합동감식"
+    },
+    {
+     "source": "m-economynews.com",
+     "url": "https://www.m-economynews.com/news/article.html?no=71534",
+     "orig": "https://www.m-economynews.com/news/article.html?no=71534",
+     "title": "3명 숨진 영덕 풍력발전기 화재...6개월여 만에 현장 감식"
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "농어촌공사 영산강사업단, 건설현장 근로자 안전교육",
+   "summary": "영산강사업단은 여수 안전보건공단 안전체험교육장에서 현장 안전관리자 및 근로자 등 30명이 참석한 가운데 외부전문가 초청 안전이론 강의와 안전체험 등 건설현장에서 일어날 수 있는 안전사고에 대해 맞춤형 체험식...",
+   "url": "http://www.jndn.com/article.php?aid=1791697804440861004",
+   "orig": "http://www.jndn.com/article.php?aid=1791697804440861004",
+   "source": "jndn.com",
+   "published": "2026-10-11T14:54+09:00",
+   "cat": "tech",
+   "id": "43d4168c4e16",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "충주시, 관리감독자 200명 안전교육",
+   "summary": "교육에는 고용노동부 충주지청 중대재해수사과 팀장과 안전관리 전문기관 강사 2명이 참여해 산업안전보건법과 중대재해처벌법의 주요 내용을 설명했다. 또 위험성평가 절차와 현장 적용 사례, 근로자 보호조치, 현장...",
+   "url": "https://www.inews365.com/news/article.html?no=938684",
+   "orig": "https://www.inews365.com/news/article.html?no=938684",
+   "source": "충북일보",
+   "published": "2026-10-11T13:44+09:00",
+   "cat": "law",
+   "id": "fa46e09371c6",
+   "related": [
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103951",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1103951",
+     "title": "충주시, 관리감독자 200명 '중대재해 예방' 열공"
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "충북지역암센터·대전충청직업병안심센터, 직업성 암 조기 발견·예방 ...",
+   "summary": "대전충청직업병안심센터가 지역 근로자의 직업성 암 예방과 조기 발견을 위해 협력 체계를 구축했다. 양... 특히 진료 단계에서 환자의 직업력이나 작업환경상 질환과의 연관성이 의심될 경우 대전충청직업병안심센터로...",
+   "url": "https://www.inews365.com/news/article.html?no=938605",
+   "orig": "https://www.inews365.com/news/article.html?no=938605",
+   "source": "충북일보",
+   "published": "2026-10-11T13:28+09:00",
+   "cat": "hlt",
+   "id": "617454de6e6b",
+   "related": [
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=931424",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=931424",
+     "title": "충북지역암센터·대전충청직업병안심센터, 직업성 암 조기발견 '맞손'"
+    },
+    {
+     "source": "충청일보",
+     "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445484",
+     "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2445484",
+     "title": "충북지역암센터·대전충청직업병안심센터, 직업성 암 예방 업무협약"
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[기획]투자도 바쁜데 보안·안전까지…기업들 '리스크 관리' 비상",
+   "summary": "최근 국회를 통과한 산업안전보건법 개정안이 시행되면 일정 요건을 충족한 중대 산업재해가 발생한 기업에 영업이익의 최대 5%까지 과징금을 부과할 수 있다. 개인정보 보호와 불법스팸 분야에서도 매출액에 연동한...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2003555",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2003555",
+   "source": "m-i.kr",
+   "published": "2026-10-11T13:00+09:00",
+   "cat": "law",
+   "id": "6b56a111266f",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[기획]규제 피해 해외로…K-기업 '오프쇼어링' 현실화하나",
+   "summary": "최근에는 안전·보건조치 의무 위반으로 최근 1년간 근로자 3명 이상이 산업재해로 사망한 경우 영업이익의 최대 5%를 과징금으로 부과할 수 있도록 한 산업안전보건법 개정안이 국회를 통과했다. 경영계는 규제가 동시에...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2003707",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2003707",
+   "source": "m-i.kr",
+   "published": "2026-10-11T13:00+09:00",
+   "cat": "law",
+   "id": "056e79614a04",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "충주시, 시청 소속 관리감독자 대상'정기 안전보건교육'실시",
+   "summary": "교육은 고용노동부 충주지청 중대재해수사과 팀장과 안전관리 전문기관 강사 2명을 초빙해 진행되었다. 주요 내용으로는 △산업안전보건법상 관리감독자의 의무와 준수사항 △중대재해처벌법의 적용 범위와 책임 요건...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1185981",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1185981",
+   "source": "금강일보",
+   "published": "2026-10-11T12:38+09:00",
+   "cat": "law",
+   "id": "3240c368ebdd",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "치과의사 이지영 \"직업병 탓 남편과 키스 거부…스케일링한 날에 합방\"",
+   "summary": "치과의사 이지영이 직업병으로 인해 키스를 거부한다고 밝혔다. 지난 10일 방송된 MBN '속풀이쇼 동치미'에는... 이날 이지영은 \"저희 치명적인 직업병은 키스를 안 한다\"라며 \"제가 치대 때부터 그랬는데 저희는 키스 없이...",
+   "url": "https://www.news1.kr/entertain/broadcast-tv/6315871",
+   "orig": "https://www.news1.kr/entertain/broadcast-tv/6315871",
+   "source": "뉴스1",
+   "published": "2026-10-11T11:21+09:00",
+   "cat": "hlt",
+   "id": "2108225d2810",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "샤힌 이어 부천서 또 사망사고…DL이앤씨 안전관리 '빨간불'",
+   "summary": "사망자가 발생한 만큼 산업안전보건법과 중대재해처벌법 위반 여부도 조사 대상이다. 노동당국은 구체적인 사고 경위와 함께 원·하청 및 장비업체 사이의 작업 지시·관리 관계, 안전·보건 확보 의무 이행 여부 등을...",
+   "url": "https://www.asiatime.co.kr/article/20261011500021",
+   "orig": "https://www.asiatime.co.kr/article/20261011500021",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-11T10:56+09:00",
+   "cat": "sev",
+   "id": "1233461de16a",
+   "related": [
+    {
+     "source": "인사이트",
+     "url": "https://www.insight.co.kr/news/577255",
+     "orig": "https://www.insight.co.kr/news/577255",
+     "title": "\"사고 원천 차단\" 약속한 박상신...DL이앤씨 샤힌 이어 부천서 사망사고"
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[단독] “사망사고 나자 민간에 떠넘기나”…한전, 정전복구 외주화 추...",
+   "summary": "산업재해를 입은 한전 직원은 21명으로, 이 가운데 1명이 사망했다. 사고 유형별로는 추락이 7명으로 가장... 특히 한전은 이번 업무개편의 추진 배경 중 하나로 중대재해처벌법 시행에 따른 처벌 강화를 제시하면서...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006385574?sid=100",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=01328406645611936&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-11T10:32+09:00",
+   "cat": "sev",
+   "id": "924ce1855960",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "추락사고로 발목 골절된 근로자 한 달 뒤 사망…法 \"산재 인정\"",
+   "summary": "사고로 인한 거동 제한이 혈전 형성과 사망으로 이어졌다면 업무와 사망 사이의 인과관계가 인정된다는 취지다. 11일 법조계에 따르면 서울행정법원 행정7부(강우찬 부장판사)는 사망한 근로자 A씨의 부모가...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005341085?sid=102",
+   "orig": "https://www.hankyung.com/article/202610113939i",
+   "source": "한국경제",
+   "published": "2026-10-11T10:01+09:00",
+   "cat": "sev",
+   "id": "086ccfad092f",
+   "related": [
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000958734?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026101114240004854?did=NA",
+     "title": "추락사고로 발목 골절된 근로자, 폐색전증으로 사망…법원 \"산재 인정\""
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "노면 온도 45.5도 vs 예보 34.3도… 11도 차이에 옥외 노동자 온열 산재...",
+   "summary": "이어 김 의원은 “기상청의 특별관측 범위를 확대하고 이 데이터를 고용노동부의 산업안전망과 실시간으로 공유·연계하는 시스템을 구축해야 한다”며 “작업 환경 유형별 맞춤형 기상 정보를 제공해 옥외 노동자의...",
+   "url": "https://www.viva100.com/article/20261011500232",
+   "orig": "https://www.viva100.com/article/20261011500232",
+   "source": "브릿지경제",
+   "published": "2026-10-11T09:30+09:00",
+   "cat": "law",
+   "id": "bb492014dc06",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "중대재해처벌법 양형기준안의 주요 내용 [김동현 변호사의 산업안전 톺...",
+   "summary": "결과적으로 기준안에 따르면 사망 사고의 경우에 중대재해처벌법위반죄에 대하여 짧게는 징역 10월에서 길게는 징역 15년까지 선고될 수 있다. 다음으로 기준안이 제시한 양형인자 및 집행유예 기준은 △사고 발생...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004669905?sid=102",
+   "orig": "https://www.sedaily.com/article/20099995?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-11T09:01+09:00",
+   "cat": "law",
+   "id": "5ee7a1f5593b",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "공사장 사고 뒤 폐색전증 사망한 노동자…법원 \"업무상 재해”",
+   "summary": "2m 높이서 추락해 발목 골절…요양 중 숨져 \"거동 제한으로 혈전 발생 가능성\"…유족 승소 건설 현장에서 추락사고로 발목이 부러져 요양 중 폐색전증으로 사망한 노동자가 법원에서 업무상 재해를 인정받았다. 11일...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000540840?sid=102",
+   "orig": "https://news.tf.co.kr/read/life/2374751.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-11T09:01+09:00",
+   "cat": "sev",
+   "id": "da6e0775fcc0",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "법원 \"산재 요양 중 혈전으로 숨졌다면 업무상 재해\"",
+   "summary": "A씨의 부모는 A씨의 사망이 업무상 재해라며 유족급여와 장의비를 청구했다. 공단은 지난해 3월 사망과 업무상 재해 사이 인과관계가 인정되지 않는다며 지급을 거부했다. 공단은 A씨가 사고 약 5개월 전 부정맥 진단을...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005826713?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026101017094526371",
+   "source": "아시아경제",
+   "published": "2026-10-11T09:00+09:00",
+   "cat": "sev",
+   "id": "406d74782fbd",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "'공사장 추락 한달뒤 사망' 산재 불인정에 법원 \"유족급여 지급\"",
+   "summary": "유족들은 A씨의 사망이 업무상 재해라며 유족급여와 장의비 지급을 청구했다. 그러나 근로복지공단은 사고로 인한 부상과 사망 사이 인과관계가 인정되지 않는다며 지급을 거부했고, 유족들은 이에 불복해 소송을...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016368781?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261010022600004?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-11T09:00+09:00",
+   "cat": "sev",
+   "id": "112df675b1d7",
+   "related": [
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002417217?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202610111247502028",
+     "title": "추락 한 달 뒤 폐색전증 사망...법원 \"유족급여 지급\""
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001394539?sid=102",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791820&plink=ORI&cooper=NAVER",
+     "title": "'공사장 추락 한달 뒤 사망' 산재 불인정에…법원 \"유족급여 지급\""
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "추락사고로 발목 골절 한달 뒤 폐색전증 사망…法 \"업무상 재해\"",
+   "summary": "11일 법조계에 따르면 서울행정법원 행정7부(재판장 강우찬)는 세상을 떠난 노동자 A씨의 부모가... 그러나 법원은 추락사고로 인한 부상과 사망 사이 상당인과관계가 인정된다고 판단, 유족의 손을 들어줬다. 재판부는...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014244691?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261008_0003819610",
+   "source": "뉴시스",
+   "published": "2026-10-11T09:00+09:00",
+   "cat": "sev",
+   "id": "f26d6eeba419",
+   "related": [
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004669902?sid=102",
+     "orig": "https://www.sedaily.com/article/20099696?ref=naver",
+     "title": "2m 추락 후 발목 골절, 한 달 뒤 폐색전증으로 사망… 法 “업무상 재해..."
+    }
+   ],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "이지영 \"남편과 키스 안 한다\" 충격 고백…치과의사의 직업병 (동치미)",
+   "summary": "치과의사 이지영이 뜻밖의 직업병을 고백했다. 지난 10일 방송된 MBN '속풀이쇼 동치미'는 '남한테는 명의... 이지영은 \"치명적인 직업병이 키스를 안 한다는 거다. 저희 부부는 키스를 안 한다. 치대 때부터 그랬다\"고 밝혔다....",
+   "url": "https://www.xportsnews.com/article/2206348",
+   "orig": "https://www.xportsnews.com/article/2206348",
+   "source": "xportsnews.com",
+   "published": "2026-10-11T08:21+09:00",
+   "cat": "hlt",
+   "id": "062756e57501",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "납 공장 노동자에 '비타민 주사' 권유…혈중 납 수치 낮춘 정체는",
+   "summary": "그런데 지난 5년 동안 이 공장에서 납으로 인한 직업병 기준에 해당하는 사례는 단 한 건도 보고되지 않았다. 노동자 대부분의 혈중 납 수치가 직업병 관찰 필요 기준보다 조금 낮은 구간에 몰려 있는 이례적인 패턴이...",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16243576",
+   "orig": "https://www.topstarnews.net/news/articleView.html?idxno=16243576",
+   "source": "topstarnews.net",
+   "published": "2026-10-11T08:08+09:00",
+   "cat": "hlt",
+   "id": "fb73e9642720",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "반복되는 산재예방 보조금 부정수급…상반기 66억 환수",
+   "summary": "11일 국회 기후에너지환경노동위원회 소속 이종배 의원실이 고용노동부에서 제출받은 자료에 따르면... 산업안전보건법에 따르면 산업재해 예방을 위한 보조·지원금을 거짓이나 그 밖의 부정한 방법으로 받은...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014244666?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261008_0003818926",
+   "source": "뉴시스",
+   "published": "2026-10-11T08:00+09:00",
+   "cat": "law",
+   "id": "5d7f7f14b9c4",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "울산교육청 야외광장서 15∼16일 사회적경제 기업 장터",
+   "summary": "이 외에도 한국산업안전보건공단이 올해 처음 방문해 일상 속 안전사고를 예방하는 가상현실(VR) 안전 체험 공간을 운영한다. 시교육청 관계자 \"이번 장터가 지역 사회적경제 기업의 우수한 제품과 서비스를 널리 알리고...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016368724?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261008140000057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-11T07:31+09:00",
+   "cat": "tech",
+   "id": "1ad2b0971f8c",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "\"학생들 밥상 책임지는데\"…폐암 발병 급식노동자 3년여간 90명",
+   "summary": "같은 기간 폐암 확진자 수는 전국에서 90명에 달했으며, 산재로 인한 사망자는 5명이었다. 특히 급식실 노동자들의 건강을 위협하는 요인 중 하나는 고온의 조리 과정에서 발생하는 '조리흄'이다. 조리흄은 조리 중에...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016368691?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261010032900004?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-11T07:00+09:00",
+   "cat": "hlt",
+   "id": "fa99ee46727a",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "이지영 “키스 안 하고 바로 본론” 치과의사 치명적 직업병 고백 (동치...",
+   "summary": "치과의사 이지영이 직업병을 고백했다. 10월 10일 방송된 MBN ‘속풀이쇼 동치미’에서 치과의사 이지영은 “저희 부부, 스케일링할 때만 합방합니다”라는 제목으로 속풀이를 했다. 이지영은 “치명적인 직업병이 키스를...",
+   "url": "https://www.newsen.com/news_view.php?uid=202610110644161710",
+   "orig": "https://www.newsen.com/news_view.php?uid=202610110644161710",
+   "source": "newsen.com",
+   "published": "2026-10-11T06:59+09:00",
+   "cat": "hlt",
+   "id": "93ffdeb6cfbb",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[미리보는 국감] 노란봉투법 성적표는…노동감독관 수사 역량 시험대",
+   "summary": "오는 13일 노란봉투법(개정 노동조합법) 시행 이후 처음으로 이뤄지는 고용노동부 국정감사에서는 원·하청... 산업안전 분야 역시 정원이 2021년 815 명에서 올해 7월 2095명으로 늘었지만 현원은 1510명에 그쳤다. 현장...",
+   "url": "https://www.newspim.com/news/view/20261008001281",
+   "orig": "https://www.newspim.com/news/view/20261008001281",
+   "source": "뉴스핌",
+   "published": "2026-10-11T06:00+09:00",
+   "cat": "law",
+   "id": "19d64ef0ff52",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "[인터뷰] 김영훈 노동장관 \"종로3가역에 '전태일역' 병기 추진\"",
+   "summary": "-- 이번 정부에서 노동부가 고용 확대보다 노동자 보호에 치중한다는 지적도 있다. ▲ 고용과 노동은 분리될 수 없다. 임금체불, 산업재해, 직장 내 괴롭힘 없는 '좋은 일자리'가 확산돼야 고용 문제도 해결할 수 있다....",
+   "url": "https://n.news.naver.com/mnews/article/001/0016368623?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261009047900530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-11T05:59+09:00",
+   "cat": "law",
+   "id": "0fe4dc3f6f91",
+   "related": [],
+   "day": "2026-10-11",
+   "watch": []
+  },
+  {
+   "title": "부천 디엘이앤씨 시공 현장에서 50대 노동자 2명 사상 중대재해 발생",
+   "summary": "경기도 부천시 디엘이앤씨 사업장에서 50대 노동자가 사망·부상을 입는 중대산업재해가 발생해 정부가 중대재해처벌법 등 위반 여부 조사에 착수했다. 10일 고용노동부에 따르면 부천시에 있는 디엘이앤씨 시공...",
+   "url": "https://www.viva100.com/article/20261010500265",
+   "orig": "https://www.viva100.com/article/20261010500265",
+   "source": "브릿지경제",
+   "published": "2026-10-10T21:34+09:00",
+   "cat": "sev",
+   "id": "a2e236187384",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "직장인 4명 중 1명, 퇴근 뒤 업무 카톡…“수면장애 위험 2배 높인다” ...",
+   "summary": "이런 위험에 노출될 수 있는 직장인들, 한국산업안전보건공단의 근로환경조사를 분석한 결과 직장인 2만 2천 명 가운데 27%인 6천2백 명이 넘습니다. 직종별로 살펴보면 영업직이 40%를 넘어 가장 많았고, 공학 관련 기술자...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012271227?sid=103",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682362&ref=A",
+   "source": "KBS",
+   "published": "2026-10-10T21:15+09:00",
+   "cat": "tech",
+   "id": "a857f02a2454",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "작업자 갑자기 쓰러지자 '자동 경고'…AI로 '안전' 지킨다",
+   "summary": "<기자> 대규모 빌딩 건설 현장. 곳곳에 이동식 CCTV가 설치돼 있습니다. 새로 도입된 안전 관리 AI 시스템은 CCTV 영상들을 실시간으로 분석해 위험 요소들을 잡아냅니다. 갑자기 쓰러지는 등 작업자의 이상 행동이...",
+   "url": "https://n.news.naver.com/mnews/article/055/0001394458?sid=101",
+   "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008791280&plink=ORI&cooper=NAVER",
+   "source": "SBS",
+   "published": "2026-10-10T20:39+09:00",
+   "cat": "tech",
+   "id": "4c5c6b854145",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "노동자 덮친 크레인 무게추‥1명 사망·1명 중상",
+   "summary": "노동부는 중대재해처벌법 위반 여부를 살펴보고 있습니다. 김흥준 기자가 보도합니다. ◀ 리포트 ▶ 공사가 한창이어야 할 현장에 사람 한 명 보이지 않고 적막 속에 멈춰 선 타워크레인만 우뚝 서 있습니다. 어제 오후...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001528225?sid=102",
+   "orig": "https://imnews.imbc.com/replay/2026/nwdesk/article/6856986_37004.html",
+   "source": "MBC",
+   "published": "2026-10-10T20:11+09:00",
+   "cat": "sev",
+   "id": "ba35f08c9c12",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "부천 공사장 사망사고…노동부, 중처법 위반 조사",
+   "summary": "어제(9일) 발생한 경기 부천시의 발전소 건설현장 안전사고와 관련해 노동 당국이 중대재해처벌법을 어겼는지 들여다보고 있습니다. 고용노동부 부천지청은 사고 직후 작업 안전수칙 준수 여부와. 산업안전보건법과...",
+   "url": "https://n.news.naver.com/mnews/article/422/0000914314?sid=102",
+   "orig": "http://www.yonhapnewstv.co.kr/news/MYH20261010200620uPh",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-10-10T20:07+09:00",
+   "cat": "sev",
+   "id": "76c1ccf14496",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "5t 건설기계 무면허 몰다 작업자 사망…40대 운전자 실형",
+   "summary": "치어 사망케 한 혐의로 재판에 넘겨진 40대가 실형을 선고 받았다. 10일 법조계에 따르면 부산지법 서부지원 형사2단독 이유섭 판사는 업무상과실치사 등 혐의로 기소된 A(40대)씨에게 징역 1년을 선고했다. 중대재해처벌법...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003141330?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1699923/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-10T19:22+09:00",
+   "cat": "sev",
+   "id": "20440fbea58a",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "울산시교육청, '사회적경제 가치 나눔 장터' 연다",
+   "summary": "원예디자인과에서는 차량용 향수 만들기 체험 등을 진행해 방문객에게 다양한 경험을 제공한다. 한국산업안전보건공단은 올해 처음으로 참여해 일상 속 안전사고를 예방하는 가상현실(VR) 안전 체험 공간을 운영한다.",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069186",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069186",
+   "source": "경상일보",
+   "published": "2026-10-10T18:12+09:00",
+   "cat": "tech",
+   "id": "3d86922ac3b1",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "부천 발전소 공사장서 1명 사망·1명 부상… 중대재해처벌법 위반 여부...",
+   "summary": "노동부는 작업 안전 수칙 준수 여부를 확인하고 있다. 노동부는 산업안전보건법 및 중대재해처벌법 위반 여부를 조사 중이다. 중대재해처벌법은 사망자가 1명 이상 발생한 경우 등에 적용된다.",
+   "url": "https://n.news.naver.com/mnews/article/366/0001197111?sid=102",
+   "orig": "https://biz.chosun.com/topics/topics_social/2026/10/10/SY3ADX6N2RAF7BI7MRFXSD22U4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-10T17:25+09:00",
+   "cat": "sev",
+   "id": "65ce1b61ba68",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "DL이앤씨 부천 발전소 현장서 타워크레인 무게추 덮쳐… 노동자 1명 숨져",
+   "summary": "중대재해처벌법에 따르면 사업장에서 사망자가 1명 이상 발생하거나 동일 사고로 6개월 이상 치료가 필요한 부상자가 2명 이상 발생한 경우 경영책임자 처벌 검토 대상이 된다. 당국은 DL이앤씨 본사 차원의...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004165506?sid=101",
+   "orig": "https://www.segye.com/newsView/20261010505412?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-10T16:59+09:00",
+   "cat": "sev",
+   "id": "239ff0df6f3f",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "김선교 의원, \"초보 근로자 안전대책 시급\"...산림 현장 사망자 93.4%가 ...",
+   "summary": "산림 현장에서 발생하는 사고가 단순한 작업 부주의를 넘어 생명과 직결되는 중대재해로 이어질 수 있음을 보여주는 대목이다. 지역별로는 강원도가 부상 1,005명, 사망 24명으로 가장 많은 인명 피해를 기록했다. 이어...",
+   "url": "https://www.tournews21.com/news/articleView.html?idxno=145371",
+   "orig": "https://www.tournews21.com/news/articleView.html?idxno=145371",
+   "source": "tournews21.com",
+   "published": "2026-10-10T16:50+09:00",
+   "cat": "sev",
+   "id": "7a2deacb4c84",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "부천 발전소 공사장 타워크레인 사고…1명 사망·1명 중상",
+   "summary": "중대재해처벌법상 중대산업재해는 사망자가 1명 이상 발생하거나 동일한 사고로 6개월 이상 치료가 필요한 부상자가 2명 이상 발생한 경우 등에 해당한다. 이번 사고는 노동자 1명이 사망한 만큼 중대산업재해에 해당하며...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2119505",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2119505",
+   "source": "포쓰저널",
+   "published": "2026-10-10T16:20+09:00",
+   "cat": "sev",
+   "id": "ddeae62e22ef",
+   "related": [
+    {
+     "source": "아시아경제",
+     "url": "https://n.news.naver.com/mnews/article/277/0005826680?sid=102",
+     "orig": "https://view.asiae.co.kr/article/2026101018182233866",
+     "title": "부천 발전소 건설현장서 노동자 1명 사망…타워크레인 무게추 사고"
+    }
+   ],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "NH농협은행,산업안전 기업 최대 2.10%p 우대…경기도 상의 22곳과 협력",
+   "summary": "안전경영 우수기업에 최대 2.10%포인트 금리우대 NH농협은행은 한국산업안전보건공단이 추천한 안전경영 우수기업을 대상으로 'NH기업성장론(안전경영우수기업)'을 출시했다고 밝혔다. 해당 기업에는 기본적으로 0.30...",
+   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2329809",
+   "orig": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2329809",
+   "source": "webeconomy.co.kr",
+   "published": "2026-10-10T15:42+09:00",
+   "cat": "tech",
+   "id": "9d17e6305a2a",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "'DL이앤씨 시공' 부천 공사장에서 크레인 무게추 맞아‥1명 사망·1명 부...",
+   "summary": "병원에 옮겨졌지만 숨졌고, 다른 50대 남성 노동자는 왼쪽 손목이 골절되는 중상을 입었습니다. 고용노동부는 작업중지 명령을 내리고 사고 원인과 함께 산업안전보건법 및 중대재해처벌법 위반 여부를 조사하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/214/0001528204?sid=102",
+   "orig": "https://imnews.imbc.com/news/2026/society/article/6856949_36918.html",
+   "source": "MBC",
+   "published": "2026-10-10T11:58+09:00",
+   "cat": "sev",
+   "id": "7bd73f3d635b",
+   "related": [
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000644093?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/10/2026101090054.html",
+     "title": "부천 발전소 타워크레인 무게추 맞아 1명 사망·1명 중상"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/057/0001972728?sid=102",
+     "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224050",
+     "title": "부천 공사장서 노동자 덮친 크레인 무게추…1명 사망·1명 중상"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261010000056",
+     "orig": "https://www.newspim.com/news/view/20261010000056",
+     "title": "경기 부천 공사 현장서 크레인 무게추 사고…1명 사망·1명 부상"
+    }
+   ],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "무면허 5t 건설기계 몰다 작업자 숨지게 한 공장 직원·대표 유죄",
+   "summary": "부산지법 서부지원 형사2단독 이유섭 판사는 업무상과실치사와 건설기계관리법 위반 혐의로 기소된 근로자 A 씨에게 징역 1년을 선고했다고 10일 밝혔다. 중대재해처벌법 위반과 업무상과실치사, 산업안전보건법 위반...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001401845?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026101010145027896",
+   "source": "부산일보",
+   "published": "2026-10-10T10:20+09:00",
+   "cat": "sev",
+   "id": "bd524128ce9d",
+   "related": [
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/057/0001972719?sid=102",
+     "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5224038",
+     "title": "무면허로 건설기계 몰다 작업자 숨지게 한 공장 직원·대표 유죄"
+    }
+   ],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "부천 발전소 공사장서 크레인 무게추에 맞아…노동자 2명 사상",
+   "summary": "중대재해처벌법은 사업장에서 노동자 사망사고가 발생한 경우 사업주나 경영책임자 등이 법에서 정한 안전·보건 확보 의무를 위반했는지에 따라 형사책임을 묻도록 규정하고 있다. 노동당국은 이와 관련해 작업...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000126758?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261010580031",
+   "source": "kyeonggi.com",
+   "published": "2026-10-10T10:16+09:00",
+   "cat": "sev",
+   "id": "4c4e59d92e28",
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006385043?sid=102",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=01800726645611608&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "부천 발전소 공사 현장서 크레인 무게추에 맞은 1명 사망·1명 부상"
+    },
+    {
+     "source": "위키트리",
+     "url": "https://www.wikitree.co.kr/articles/1165166",
+     "orig": "https://www.wikitree.co.kr/articles/1165166",
+     "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 중상"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004003105?sid=102",
+     "orig": "https://www.chosun.com/national/labor/2026/10/10/NC2VD26CUBGYHCPUELY5HATWXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "부천 발전소 공사장서 크레인 무게추 사고... 1명 숨지고 1명 다쳐"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005587205?sid=102",
+     "orig": "https://www.fnnews.com/news/202610101643339094",
+     "title": "부천 발전소 공사장서 크레인 무게추 사고…1명 사망·1명 중상"
+    },
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/050/0000111838?sid=101",
+     "orig": "https://magazine.hankyung.com/business/article/202610103533b",
+     "title": "부천 공사장서 크레인 무게추에 맞아 노동자 1명 사망"
+    }
+   ],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "5ｔ건설기계로 용접 작업자 들이받아 숨지게 한 무면허 운전자 징역 1년",
+   "summary": "부산지법 서부지원 형사2단독 이유섭 판사는 업무상과실치사와 건설기계관리법 위반 혐의로 기소된 근로자 A씨에게 징역 1년을 선고했다고 10일 밝혔다. 중대재해처벌법 위반과 업무상과실치사, 산업안전보건법 위반...",
+   "url": "https://n.news.naver.com/mnews/article/658/0000158001?sid=102",
+   "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261010.99099002569",
+   "source": "국제신문",
+   "published": "2026-10-10T09:46+09:00",
+   "cat": "sev",
+   "id": "d89ac0a7d1f9",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "유진기업, 전국 사업장 안전보건 점검… 내달 4일까지",
+   "summary": "주요 점검 대상은 추락·끼임·부딪힘·맞음·깔림·넘어짐·감전·화재 등 현장 8대 유해·위험요인이다. 믹서와 혼화제 탱크 등 안전검사 대상 설비의 개선 조치 결과나 주요 설비의 방호장치 상태도 확인한다. 근로자...",
+   "url": "https://www.cnbizm.com/news/articleView.html?idxno=317602",
+   "orig": "https://www.cnbizm.com/news/articleView.html?idxno=317602",
+   "source": "cnbizm.com",
+   "published": "2026-10-10T09:38+09:00",
+   "cat": "law",
+   "id": "eeba517bc7ba",
+   "related": [
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261008021023737",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261008021023737",
+     "title": "유진기업, 전국 사업장 대상 4분기 안전보건 점검 실시"
+    }
+   ],
+   "day": "2026-10-10",
+   "watch": []
+  },
+  {
+   "title": "산업안전감독관 ‘베테랑’은 4명 중 1명뿐…독립수사 전문성 우려",
+   "summary": "산업안전보건법 등 법령 준수 여부를 감독·수사하는 노동부 소속 특별사법경찰관이다. 이들은 그동안 입건, 피의자 조사, 압수수색, 송치 등 수사 전 과정에서 검사의 수사 지휘를 받아왔지만 형사소송법 개정으...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002707452?sid=102",
+   "orig": "https://biz.heraldcorp.com/article/10898097?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-10T09:00+09:00",
+   "cat": "law",
+   "id": "ed6b84ad250b",
+   "related": [],
+   "day": "2026-10-10",
+   "watch": []
+  },
   {
    "title": "영월 석회석 광산 터널서 굴착기에 치여 5m 추락…50대 근로자 사망",
    "summary": "강원소방본부는 신고를 받고 구조 인력을 현장에 출동시켰으나 A씨는 병원 이송 후 끝내 사망했다. 경찰과... 중대재해처벌법 적용 여부를 포함한 산업안전 법령 위반 여부는 수사 결과에 따라 판단될 예정이다. 경찰과...",
