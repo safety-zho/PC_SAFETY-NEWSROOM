@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T14:18+09:00",
+ "updatedAt": "2026-10-12T15:26+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,25 +31,7 @@
    "source": "미디어펜",
    "cat": "tech",
    "day": "2026-10-12",
-   "count": 12
-  },
-  {
-   "id": "3a3b1306528a",
-   "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
-   "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-10-12",
-   "count": 8
-  },
-  {
-   "id": "ad2ef97b2b76",
-   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
-   "url": "https://www.etoday.co.kr/news/view/2634462",
-   "source": "이투데이",
-   "cat": "law",
-   "day": "2026-10-12",
-   "count": 7
+   "count": 14
   },
   {
    "id": "1c423820e75e",
@@ -58,19 +40,219 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-12",
-   "count": 5
+   "count": 10
   },
   {
-   "id": "3b76bff463c2",
-   "title": "[속보] 李, '납 배출 비타민 주사' 의혹에 \"엄중 대응\" 지시",
-   "url": "https://n.news.naver.com/mnews/article/015/0005341456?sid=100",
-   "source": "한국경제",
+   "id": "3a3b1306528a",
+   "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
+   "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-10-12",
+   "count": 10
+  },
+  {
+   "id": "ad2ef97b2b76",
+   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
+   "url": "https://www.etoday.co.kr/news/view/2634462",
+   "source": "이투데이",
    "cat": "law",
    "day": "2026-10-12",
-   "count": 2
+   "count": 10
+  },
+  {
+   "id": "5cefddf34257",
+   "title": "‘비타민 주사’라며 납 배출제 투약 의혹…노동부, DN오토모티브 수사...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708111?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
+   "day": "2026-10-12",
+   "count": 5
   }
  ],
  "articles": [
+  {
+   "title": "충주시노사민정협의회, 청년 일자리 창출·노동환경 개선 협약",
+   "summary": "충주YWCA, 고용노동부 충주지청, 충주시, 충주시의회, 충주사회단체연합회 등 11개 기관·단체·기업 관계자가 참석했다. 이번 협약의 주요 내용은 △청장년 노동자 안정적 일자리 마련 △현장 노동자 안전을 위한 사업 발굴...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009222646?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6317061",
+   "source": "뉴스1",
+   "published": "2026-10-12T15:24+09:00",
+   "cat": "law",
+   "id": "c07f62edb1c0",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "노동자에게 비타민이라고 속이고 납 배출 촉진 주사 DN오토모티브 사태...",
+   "summary": "고용노동부는 회사를 업무방해 혐의로 경찰에 수사 의뢰했고, 이와 별도로 산업안전보건법 위반 사항 68건을 적발하는 등 강경 대응에 나섰다. 이 대통령은 12일 강유정 청와대 수석대변인을 통한 브리핑에서 “노동자의...",
+   "url": "https://n.news.naver.com/mnews/article/658/0000158170?sid=102",
+   "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261012.99099003072",
+   "source": "국제신문",
+   "published": "2026-10-12T15:24+09:00",
+   "cat": "law",
+   "id": "bbdcabef599f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "대형 공장·창고 화재 막는다…완주군, 안전 전수조사 착수",
+   "summary": "강화해 노동자가 안심하고 일할 수 있는 공장 환경을 조성하고, 안전이 기업·산업의 경쟁력이 되는 제조... 조사 대상은 산업재해 이력 등 위험 점수가 높은 초고위험 사업장, 위험물·유해화학물질 보관 사업장...",
+   "url": "https://www.ajunews.com/view/20261012151411932",
+   "orig": "https://www.ajunews.com/view/20261012151411932",
+   "source": "아주경제",
+   "published": "2026-10-12T15:18+09:00",
+   "cat": "acc",
+   "id": "a15ac7015b14",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "청년 정신질병 산재 5년 새 32%↑…'마음 돌봄' 사각지대 심화",
+   "summary": "그런데 정신적 어려움을 호소하며 산재를 신청하는 사례는 늘었음에도 승인율은 떨어졌다. 20·30대... 국가데이터처의 '2025년 사망원인통계 결과'를 보면 10대부터 40대의 사망원인 1위가 자살이었다. 지난해 전체...",
+   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50765",
+   "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50765",
+   "source": "1conomynews.co.kr",
+   "published": "2026-10-12T15:16+09:00",
+   "cat": "hlt",
+   "id": "23ed26b9a5c9",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[메가이슈] \"일손은 환영, 권리는 사절?\"…삼성중공업, 외국인 노동자 ...",
+   "summary": "삼성중공업은 지난해 6월 발간한 '지속가능경영보고서 2025'에서 인권 보호와 다양성·형평성·포용성(DE&I), 안전보건, 기업윤리 등을 핵심 ESG 과제로 제시했다. 당시 최성안 삼성중공업 대표이사 부회장은 \"인권·환경에...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592797621207",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592797621207",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-10-12T15:16+09:00",
+   "cat": "tech",
+   "id": "e088a17e8513",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "제2의 서소문고가 붕괴 막는다...오세훈 \"드론·로봇 활용해 사고 예방...",
+   "summary": "첨단기술을 활용한 안전관리 강화를 주문했다. 오 시장은 이날 오전 10시 30분 한강대교 상부 점검통로에 올라 교량 상태를 육안으로 확인했다. 이어 교량 하부 노들섬 서측 둔치로 이동해 드론과 스마트센서, 인공지능(AI)...",
+   "url": "https://www.ajunews.com/view/20261012150440906",
+   "orig": "https://www.ajunews.com/view/20261012150440906",
+   "source": "아주경제",
+   "published": "2026-10-12T15:10+09:00",
+   "cat": "tech",
+   "id": "043f6c70acf6",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "충주시노사민정협, '산재 예방 공동선언' 협약",
+   "summary": "충주YWCA, 고용노동부 충주지청, 충주시의회, 충주사회단체연합회, 충주시 등 11개 기관·단체·기업 관계자들이 참석했다. 이들은 '산업재해 예방과 청장년 취약 노동자 지원을 위한 공동선언 협약'을 체결했다. 또...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445707",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2445707",
+   "source": "충청일보",
+   "published": "2026-10-12T15:04+09:00",
+   "cat": "law",
+   "id": "3fd9bc6ffbe1",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "‘납 배출 주사’를 비타민으로 속인 배터리 제조사…노동부, 경찰 수사...",
+   "summary": "관련해 고용노동부가 경찰에 수사를 의뢰했다. 이재명 대통령은 “용납할 수 없는 중대한 인권침해”라며... 이와 별도로 노동부는 이 회사의 산업안전보건법 위반 사항 68건을 적발해 입건·송치하고 과태료 4620만원을...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002827042?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1281948.html",
+   "source": "한겨레",
+   "published": "2026-10-12T15:04+09:00",
+   "cat": "law",
+   "id": "853bfa03f4fb",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "이용우, 배민 산재 승인 9628건인데 노동부 보고는 283건(2.9%)…“배달 ...",
+   "summary": "△ 근로자성 기준에 가로막힌 산재 보고 의무…제도적 사각지대 현행 산업안전보건법에 따르면 근로자가 사망하거나 3일 이상의 휴업이 필요한 부상을 입은 경우 사업주는 1개월 이내에 산업재해조사표를 제출해야 한다....",
+   "url": "https://n.news.naver.com/mnews/article/468/0001271992?sid=100",
+   "orig": "https://www.sportsseoul.com/news/read/1640810?ref=naver",
+   "source": "스포츠서울",
+   "published": "2026-10-12T15:02+09:00",
+   "cat": "law",
+   "id": "a83ffc4cdefb",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "'2명 숨진 맨홀 사고' 안전관리 책임 물어 인천환경공단 이사장 송치",
+   "summary": "고용노동부 중부지방고용노동청은 인천환경공단 A 이사장을 중대재해처벌법 위반 혐의로 불구속 입건해... B씨는 C씨를 구하려고 내려갔다가 가스에 중독됐으며, 사고 발생 8일 만에 사망했다. 인천환경공단은 같은 해...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000958935?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101214090002841?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-12T15:01+09:00",
+   "cat": "sev",
+   "id": "8c8dc6d86989",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "李, 공장 노동자에 중금속 배출 주사 '비타민 주사' 속여 투약에 \"엄중 ...",
+   "summary": "강유정 청와대 수석대변인은 이날 브리핑에서 이 대통령이 관련 언론 보도에 대한 고용노동부의 조치 사항과... 아울러 다른 사업장에서도 산업 안전 보건 제도를 무력화하는 유사한 사례의 발생 가능성을 면밀히 살펴보고...",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745469",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=745469",
+   "source": "폴리뉴스",
+   "published": "2026-10-12T14:53+09:00",
+   "cat": "law",
+   "id": "46675dc8bd5c",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "충주시 노사민정, 산업재해 예방·상생 컨설팅 협약 체결",
+   "summary": "충주시 노사민정협의회, 산업 안전 강화 및 상생 협력 방안 논의 (가운데 기준 해근 고용노동부 충주지청 지청장, 이동석충주시장, 정민환 한국노총 충주음성지역지부 의장)/사진=충주시 충북 충주시 노사민정협의회가 12일...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3717982",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3717982",
+   "source": "국제뉴스",
+   "published": "2026-10-12T14:50+09:00",
+   "cat": "law",
+   "id": "c2ad0759bc9a",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "李, '납 강제 배출' 주사 의혹에 \"중대한 인권 침해…엄중 대처\"",
+   "summary": "강유정 청와대 수석대변인은 이날 현안 브리핑에서 고용노동부의 관련 조치 사항과 향후 계획을 보고 받고... 아울러 다른 사업장에서도 산업안전보건 제도를 무력화하는 유사한 사례의 발생 가능성을 면밀히 살펴보고...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001065111?sid=100",
+   "orig": "http://www.inews24.com/view/2013929",
+   "source": "아이뉴스24",
+   "published": "2026-10-12T14:33+09:00",
+   "cat": "law",
+   "id": "fb9efe168e74",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "산재 사망 204명에 과징금 최대 9,494억…기업 규모 따라 110배 격차, 처...",
+   "summary": "중대재해처벌법 시행 이후에도 36곳의 사업주에게서 114건의 사망사고가 발생해 204명의 노동자가 목숨을 잃었다는 사실이 더욱 무겁게 다뤄져야 할 대목이다. 정부가 산업재해 예방을 위해 처벌과 경제적 제재를 강화해...",
+   "url": "https://www.dailyt.co.kr/newsView/dlt202610120024",
+   "orig": "https://www.dailyt.co.kr/newsView/dlt202610120024",
+   "source": "dailyt.co.kr",
+   "published": "2026-10-12T14:26+09:00",
+   "cat": "sev",
+   "id": "54143e50e8a9",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "오세훈, 한강대교 현장 점검…\"드론·로봇 활용 안전관리 강화\"",
    "summary": "분석 △스마트센서를 통한 케이블 이상징후 감지 △영상정보를 활용한 긴장재 상태 모니터링 △자율비행 드론을 이용한 교량 내부 결함 탐지 등 4개 기술이 시연됐다. 시는 교량 안전점검 사각지대를 줄이기 위해 드론과...",
@@ -93,7 +275,14 @@
    "published": "2026-10-12T14:04+09:00",
    "cat": "law",
    "id": "c394d85b203d",
-   "related": [],
+   "related": [
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1242246",
+     "orig": "http://www.breaknews.com/1242246",
+     "title": "이용우 의원 \"배민, 산재 9600건 중 노동부 보고는 3%..관련법 개정 시급..."
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -195,6 +384,36 @@
      "url": "https://www.etoday.co.kr/news/view/2634674",
      "orig": "https://www.etoday.co.kr/news/view/2634674",
      "title": "李 “노동자에 중금속 배출 주사 강제 투약, 중대한 인권침해”"
+    },
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=914719",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=914719",
+     "title": "李대통령 \"노동자에 중금속 배출 주사 투약...엄중 대처\""
+    },
+    {
+     "source": "viewsnnews.com",
+     "url": "https://www.viewsnnews.com/article?q=238979",
+     "orig": "https://www.viewsnnews.com/article?q=238979",
+     "title": "李대통령 \"노동자에 중금속 배출주사 투약, 엄중 조치하라\""
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261012500864",
+     "orig": "https://www.viva100.com/article/20261012500864",
+     "title": "이 대통령 “중금속 배출주사 투약…노동자 인권침해 엄중 대응”"
+    },
+    {
+     "source": "iminju.net",
+     "url": "http://www.iminju.net/news/articleView.html?idxno=170679",
+     "orig": "http://www.iminju.net/news/articleView.html?idxno=170679",
+     "title": "李 대통령 \"노동자 속여 중금속 배출 주사 투약…중대한 인권침해\""
+    },
+    {
+     "source": "국제신문",
+     "url": "https://n.news.naver.com/mnews/article/658/0000158164?sid=100",
+     "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261012.99099003049",
+     "title": "이 대통령 \"노동자에 중금속 배출주사 투약 엄중대처\""
     }
    ],
    "day": "2026-10-12",
@@ -215,6 +434,12 @@
      "url": "https://n.news.naver.com/mnews/article/666/0000126991?sid=100",
      "orig": "https://www.kyeonggi.com/article/20261012580282",
      "title": "李 대통령, 노동자 중금속 배출 주사 투약 의혹에 엄중 대응 지시"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/053/0000062184?sid=102",
+     "orig": "http://weekly.chosun.com/news/articleView.html?idxno=56082",
+     "title": "노동자에 비타민이라 속여 납 배출 주사 의혹…李 엄중 조사 지시"
     }
    ],
    "day": "2026-10-12",
@@ -242,7 +467,32 @@
    "published": "2026-10-12T13:31+09:00",
    "cat": "law",
    "id": "5cefddf34257",
-   "related": [],
+   "related": [
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004670313?sid=102",
+     "orig": "https://www.sedaily.com/article/20100488?ref=naver",
+     "title": "‘납 배출제 투약 의혹’ DN오토모티브, 경찰 수사 착수"
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005424927?sid=101",
+     "orig": "https://www.mt.co.kr/economy/2026/10/12/2026101214213461429",
+     "title": "\"비타민 주사라 속이고 납 배출\" 의혹...노동부, DN오토모티브 수사 의뢰"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=554126",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=554126",
+     "title": "DN오토모티브, 노동자에 '비타민 주사' 속여 납 배출 의혹…李 대통령 ..."
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261012001079",
+     "orig": "https://www.newspim.com/news/view/20261012001079",
+     "title": "'납 배출제 투약 의혹' DN오토모티브 집단 역학조사 실시"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -352,6 +602,18 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009222288?sid=101",
      "orig": "https://www.news1.kr/economy/employment-labor/6316828",
      "title": "\"비타민 주사라더니 납 배출제 투약\"…노동부, 검진 전 투약 의혹 수사..."
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001528457?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6857265_36918.html",
+     "title": "\"비타민 주사라더니 납 배출 주사\"‥노동부, 업무방해 수사 의뢰"
+    },
+    {
+     "source": "강원도민일보",
+     "url": "https://n.news.naver.com/mnews/article/654/0000204836?sid=102",
+     "orig": "https://www.kado.net/news/articleView.html?idxno=2077488",
+     "title": "'비타민 주사'라더니 납 배출 주사 의혹…노동부 수사 의뢰"
     }
    ],
    "day": "2026-10-12",
@@ -639,6 +901,12 @@
      "url": "http://www.cctimes.kr/news/articleView.html?idxno=931576",
      "orig": "http://www.cctimes.kr/news/articleView.html?idxno=931576",
      "title": "충주시 노사민정협의회 산업 안전 강화 및 상생 협력 방안 논의"
+    },
+    {
+     "source": "ccreview.co.kr",
+     "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=359601",
+     "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=359601",
+     "title": "충주시 노사민정협의회, 산업 안전 강화"
     }
    ],
    "day": "2026-10-12",
@@ -754,6 +1022,18 @@
      "url": "https://n.news.naver.com/mnews/article/119/0003141757?sid=102",
      "orig": "https://www.dailian.co.kr/news/view/1700373/?sc=Naver",
      "title": "인천환경공단 맨홀 참사 후폭풍…이사장 중대재해법 위반 송치"
+    },
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004165928?sid=102",
+     "orig": "https://www.segye.com/newsView/20261012515320?OutUrl=naver",
+     "title": "‘맨홀 유해가스 중독 사망’ 중처법 위반 혐의 인천환경공단 이사장 송..."
+    },
+    {
+     "source": "한겨레",
+     "url": "https://n.news.naver.com/mnews/article/028/0002827043?sid=102",
+     "orig": "https://www.hani.co.kr/arti/area/capital/1281949.html",
+     "title": "‘맨홀 2명 사망’ 인천환경공단 이사장, 중대재해법 위반 혐의 송치"
     }
    ],
    "day": "2026-10-12",
@@ -906,6 +1186,18 @@
      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121316508990172",
      "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610121316508990172",
      "title": "금호건설, ‘스마트안전관제시스템’ 특허 출원… 현장 안전관리 고도화"
+    },
+    {
+     "source": "이코노믹리뷰",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=753292",
+     "orig": "https://www.econovill.com/news/articleView.html?idxno=753292",
+     "title": "금호건설, 안전관리 체계 강화 '스마트안전관제시스템' 특허…\"현장 적..."
+    },
+    {
+     "source": "koreastocknews.com",
+     "url": "http://www.koreastocknews.com/news/articleView.html?idxno=121691",
+     "orig": "http://www.koreastocknews.com/news/articleView.html?idxno=121691",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원···현장 안전관리 강화"
     }
    ],
    "day": "2026-10-12",
@@ -956,6 +1248,24 @@
      "url": "https://www.vegannews.co.kr/news/article.html?no=392280",
      "orig": "https://www.vegannews.co.kr/news/article.html?no=392280",
      "title": "노동부, DN오토모티브 납 배출 주사 의혹 수사 의뢰"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002417645?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202610121443427239",
+     "title": "노동부, '납 배출 주사 의혹' DN오토모티브 경찰 수사 의뢰"
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200262.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/12/2026101200262.html",
+     "title": "비티민 주사라 속여 납 배출 주사 투약? … 노동부, DN오토모티브 수사..."
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261012142741745",
+     "orig": "https://www.ajunews.com/view/20261012142741745",
+     "title": "[특징주] 노동자 몰래 '납 배출 주사' 의혹…DN오토모티브 18% 급락"
     }
    ],
    "day": "2026-10-12",
@@ -1523,6 +1833,18 @@
      "url": "https://n.news.naver.com/mnews/article/658/0000158155?sid=102",
      "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261012.99099003027",
      "title": "‘3명 사망’ 영덕 풍력발전기 6개월여 만에 현장 감식"
+    },
+    {
+     "source": "경북매일",
+     "url": "https://www.kbmaeil.com/article/20261012500364",
+     "orig": "https://www.kbmaeil.com/article/20261012500364",
+     "title": "작업자 3명 숨진 영덕 풍력발전기 화재…6개월여 만에 합동감식"
+    },
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=724454",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=724454",
+     "title": "3명 숨진 영덕 풍력발전기 화재…6개월 만에 합동감식 착수"
     }
    ],
    "day": "2026-10-11",
@@ -2161,6 +2483,18 @@
      "url": "https://n.news.naver.com/mnews/article/050/0000111838?sid=101",
      "orig": "https://magazine.hankyung.com/business/article/202610103533b",
      "title": "부천 공사장서 크레인 무게추에 맞아 노동자 1명 사망"
+    },
+    {
+     "source": "천지일보",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3439177",
+     "orig": "https://www.newscj.com/news/articleView.html?idxno=3439177",
+     "title": "DL이앤씨 시공 부천 발전소 공사장서 크레인 무게추 사고… 1명 사망·1..."
+    },
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004669852?sid=102",
+     "orig": "https://www.sedaily.com/article/20100004?ref=naver",
+     "title": "부천 공사장서 크레인 무게추 사고…1명 사망·1명 중"
     }
    ],
    "day": "2026-10-10",
