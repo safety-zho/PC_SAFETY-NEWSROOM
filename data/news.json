@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T11:20+09:00",
+ "updatedAt": "2026-10-12T12:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-12",
-   "count": 3
+   "count": 7
   },
   {
    "id": "103961f8198e",
@@ -71,6 +71,188 @@
   }
  ],
  "articles": [
+  {
+   "title": "[단독] ‘개정 산안법’ 적용하니… 1년 내 3명 이상 사망 사고 기업 36...",
+   "summary": "‘1년 내 3명 이상 사망 시 영업이익의 최대 5% 과징금 부과’라는 내용이 담긴 개정 산업안전보건법을 적용할 경우, 중대재해처벌법 시행(2022년 1월 27일) 이후 올해 상반기까지 36개 기업에 1조 원 가까운 과징금이...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002824456?sid=100",
+   "orig": "https://www.munhwa.com/article/11622813?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-12T11:57+09:00",
+   "cat": "sev",
+   "id": "4282390e4917",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "이건태 \"산안법 위반 기소 2년 새 43.5% ↓…산업안전 사법처리 점검해...",
+   "summary": "정부는 2022년 11월 ‘중대재해 감축 로드맵’을 발표하고, 기존의 규제·처벌 중심 정책에서 기업의... 접수와 기소, 고용노동부의 검찰 송치 건수가 모두 감소하면서 실제 산업현장의 법 위반이 줄어든 것인지...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002460437?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026101211542443715?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-12T11:55+09:00",
+   "cat": "law",
+   "id": "0feccafeb5b6",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] 우울증 빠진 청년...정신질병 산재 10건 중 4건이 2030세대",
+   "summary": "정신적 고통이 삶 전체의 아픔으로 이어지지 않도록 국가가 책임을 다해야 한다”며 “일터의 정신건강 위험요인을 조기에 발견하고 예방할 수 있도록 더 세밀한 산업안전보건체계를 필요하다”고 강조했다.",
+   "url": "https://n.news.naver.com/mnews/article/009/0005747074?sid=101",
+   "orig": "https://www.mk.co.kr/article/12173451",
+   "source": "매일경제",
+   "published": "2026-10-12T11:38+09:00",
+   "cat": "hlt",
+   "id": "86d6a209e34f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "화순군, 필리핀 샤블라안시 대표단 방문…계절근로자 협력 확대 논의",
+   "summary": "임지락 화순군수는 샤블라안시 대표단의 방문을 환영하며 근로자들이 안전하고 안정적인 환경에서 일할 수... 도입, 스마트팜 등 농업기술 분야의 협력 가능성도 모색할 계획이다. 한편 올해 화순군에는 370여 명의...",
+   "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183950",
+   "orig": "http://www.newsmaker.or.kr/news/articleView.html?idxno=183950",
+   "source": "newsmaker.or.kr",
+   "published": "2026-10-12T11:34+09:00",
+   "cat": "tech",
+   "id": "4a9ae386dfdf",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"국적은 달라도 안전은 하나!\" 김해 다(多)어울림축제서 안전문화 확산",
+   "summary": "한국산업안전보건공단 경남동부지사(KOSHA, 지사장 심연섭)는 지난 11일 김해 수릉원에서 개최된 김해 다(多)어울림축제에 참여해 지역사회 안전문화 확산을 위한 캠페인을 실시했다. 이번 캠페인은 다양한 국적의 외국인...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=578473",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=578473",
+   "source": "newsgn.com",
+   "published": "2026-10-12T11:32+09:00",
+   "cat": "tech",
+   "id": "4fa64fa3878f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] 배민, 산재 9600건 중 정부 보고 3%뿐...“라이더도 의무화해야”",
+   "summary": "특히 배달라이더 등 배달원에 관한 산재조사표 제출은 54건에 그쳤다. 현행 산업안전보건법에 따르면 근로자가 사망 또는 3일 이상의 휴업이 필요한 부상을 입었을 경우 사업주는 1개월 이내에 산재조사표를 제출해야...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003557218?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25468907",
+   "source": "중앙일보",
+   "published": "2026-10-12T11:31+09:00",
+   "cat": "law",
+   "id": "0ff7811fb981",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "43세에 백수 됐습니다, 갈 곳 없습니다 : 중장년 재취업 가로막는 '삼중...",
+   "summary": "기존 경력을 살려 재취업하기가 쉽지 않다 보니 전기·소방·시설관리·산업안전 등 새로운 분야로 눈을... 고용노동부는 2025년부터 '중장년 경력지원제'를 시행해 퇴직한 50대 이상 중장년층이 새로운 직무에서 현장...",
+   "url": "https://www.huffingtonpost.kr/article/261118",
+   "orig": "https://www.huffingtonpost.kr/article/261118",
+   "source": "허프포스트코리아",
+   "published": "2026-10-12T11:30+09:00",
+   "cat": "law",
+   "id": "cd99a428674d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "정의선 6년, '이익 2위' 뒤에 쌓인 청구서",
+   "summary": "고용노동부 특별감독에서 산업안전보건법 62개 조항 위반이 드러나 과태료 5억4528만원이 부과됐다. 노사는 올해 10년 만의 전면파업을 포함한 60시간 파업 끝에 9월 1일에야 임금협상을 타결했다. 2년 연속...",
+   "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=364481",
+   "orig": "http://www.smedaily.co.kr/news/articleView.html?idxno=364481",
+   "source": "smedaily.co.kr",
+   "published": "2026-10-12T11:28+09:00",
+   "cat": "law",
+   "id": "6514bd91d4b1",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "스마트 안전관제 64개 현장 확대 추진… 위험구역 진입 자동 알림",
+   "summary": "건설현장 안전사고는 감소세지만 여전히 전체 산업재해에서 큰 비중을 차지한다. 고용노동부에 따르면 올해 상반기 재해조사 대상 사고사망자는 253명이다. 이 중 건설업 사고사망자는 105명으로 전체 41.5%를 차지했다....",
+   "url": "https://www.ajunews.com/view/20261012111413182",
+   "orig": "https://www.ajunews.com/view/20261012111413182",
+   "source": "아주경제",
+   "published": "2026-10-12T11:26+09:00",
+   "cat": "law",
+   "id": "4cf78529a5bb",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "금호건설 '스마트 현장 안전관리 고도화' 실시간 관제체계 구축",
+   "summary": "금호건설(002990)이 자체 개발한 스마트 안전관리 기술 바탕으로 건설현장 안전관리 체계 고도화에 나섰다. 기존 육안 점검과 폐쇄회로(CC)TV 중심의 안전관리 방식에 실시간 위치 관제와 위험구역 자동 알림 기능을 더해...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=750512",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=750512",
+   "source": "프라임경제",
+   "published": "2026-10-12T11:26+09:00",
+   "cat": "tech",
+   "id": "b654d2f94248",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "NH농협은행, 안전경영 지원 금융상품 확대…상생·포용금융 추진",
+   "summary": "이 상품은 한국산업안전보건공단이 추천한 안전경영활동 우수기업을 대상으로 하며, 0.30%p의 우대금리가 기본 제공된다. 거래조건에 따라 최대 2.10%p까지 금리우대가 적용될 수 있다. 이를 통해 안전경영에 힘쓰는 기업의...",
+   "url": "https://n.news.naver.com/mnews/article/468/0001271945?sid=101",
+   "orig": "https://www.sportsseoul.com/news/read/1640764?ref=naver",
+   "source": "스포츠서울",
+   "published": "2026-10-12T11:20+09:00",
+   "cat": "tech",
+   "id": "be6bfd600fc4",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[정치家] 김영훈 고용노동부 장관 ⑫ㅣ 노동권 사각지대 해소·산업안전...",
+   "summary": "고용노동부는 개정 산업안전보건법 시행일인 6월 1일 이후 발생한 중대재해뿐 아니라, 법 시행 이전 사건의 보고서도 적극적으로 공개하고 있다. 노동부는 앞으로도 재해조사보고서 공개를 확대할 방침이다. 또한 판결이...",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=614391",
+   "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=614391",
+   "source": "cbci.co.kr",
+   "published": "2026-10-12T11:18+09:00",
+   "cat": "law",
+   "id": "2ba3a3f15d34",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "강릉시, 주 4.5일제 도입 논의…노사민정 상생협력 강화",
+   "summary": "이와 함께 안전보건 지킴이 활동과 산업안전 협력체계 구축, 외국인 근로자 정착 지원, 4대 기초노동질서 준수 캠페인 등 하반기 주요 과제도 추진한다. 시는 이 같은 사업을 통해 노동자의 권익을 보호하고 기업의...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009221755?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6316663",
+   "source": "뉴스1",
+   "published": "2026-10-12T11:18+09:00",
+   "cat": "hlt",
+   "id": "5546c32a1e73",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "외국인 근로자와 함께 안전체험… 안전보건공단, 김해서 캠페인",
+   "summary": "한국산업안전보건공단 경남동부지사는 지난 11일 김해 수릉원에서 열린 김해 다어울림축제에 참여해 지역사회 안전문화 확산을 위한 캠페인을 실시했다. 이번 캠페인은 다양한 국적의 외국인 근로자들이 참여하는 축제의...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005827183?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026101211120638776",
+   "source": "아시아경제",
+   "published": "2026-10-12T11:16+09:00",
+   "cat": "tech",
+   "id": "cd5f018e9b9f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "건설사 산재보험급여 3년 새 71.3% 증가… ㈜한화, 부과 보험료 대비 96...",
    "summary": "2022년에는 아이파크현대산업개발이 포함됐고, 2025년에는 현대엔지니어링이 포함됐다. 두 해 모두 상위... 발생과 안전관리 실태를 면밀히 점검하고, 반복적으로 산재가 발생하는 사업장에 대해서는 감독 등...",
@@ -229,6 +411,30 @@
      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037214",
      "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037214",
      "title": "맨홀 작업자 2명 사망… 전 인천환경공단 이사장 송치"
+    },
+    {
+     "source": "경인일보",
+     "url": "https://www.kyeongin.com/article/1772341",
+     "orig": "https://www.kyeongin.com/article/1772341",
+     "title": "‘2명 사망’ 인천 맨홀 사고… 인천환경공단 이사장 중대재해법 위반 ..."
+    },
+    {
+     "source": "OBS",
+     "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540143",
+     "orig": "https://www.obsnews.co.kr/news/articleView.html?idxno=1540143",
+     "title": "'맨홀 사고' 관련 인천환경공단 이사장, 중처법 위반 송치"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000126956?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261012580172",
+     "title": "‘인천 맨홀 참사’ 인천환경공단 이사장 공소청 송치…중처법 위반 혐..."
+    },
+    {
+     "source": "ngonews.kr",
+     "url": "https://www.ngonews.kr/news/articleView.html?idxno=240306",
+     "orig": "https://www.ngonews.kr/news/articleView.html?idxno=240306",
+     "title": "'맨홀 2명 사망' 전 인천환경공단 이사장, 중대재해법 위반 검찰 송치"
     }
    ],
    "day": "2026-10-12",
