@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T17:22+09:00",
+ "updatedAt": "2026-10-12T18:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 14
   },
   {
+   "id": "ad2ef97b2b76",
+   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
+   "url": "https://www.etoday.co.kr/news/view/2634462",
+   "source": "이투데이",
+   "cat": "law",
+   "day": "2026-10-12",
+   "count": 13
+  },
+  {
    "id": "3a3b1306528a",
    "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
    "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
@@ -50,15 +59,6 @@
    "cat": "sev",
    "day": "2026-10-12",
    "count": 12
-  },
-  {
-   "id": "ad2ef97b2b76",
-   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
-   "url": "https://www.etoday.co.kr/news/view/2634462",
-   "source": "이투데이",
-   "cat": "law",
-   "day": "2026-10-12",
-   "count": 10
   },
   {
    "id": "71904d3b3460",
@@ -71,6 +71,201 @@
   }
  ],
  "articles": [
+  {
+   "title": "[속보] 거제 옹벽 공사장서 16m 아래 추락…70대 목수 사망, 중처법 여부...",
+   "summary": "크게 다친 A씨는 동료 작업자 신고로 병원으로 이송됐으나, 치료 중이던 오후 1시 31분쯤 사망했다고... 경찰은 정확한 사고 경위와 A씨 소속 업체 등의 중대재해처벌법 대상 여부와 업무상 과실 여부를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/029/0003052628?sid=102",
+   "orig": "https://www.dt.co.kr/article/12088612?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-12T18:08+09:00",
+   "cat": "sev",
+   "id": "2d8765fc7171",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "여수 비를라카본코리아서 가스 누출…작업자 3명 병원 이송",
+   "summary": "부상자들은 모두 경상으로 알려졌다. 사고 당시 작업자들은 밀폐된 공간이 아닌 야외 작업장에서 배관 부품을 교체하고 있었던 것으로 전해졌다. 작업 후 남아 있던 잔류가스에 노출된 것으로 추정된다. 소방당국 조사...",
+   "url": "https://n.news.naver.com/mnews/article/310/0000140741?sid=102",
+   "orig": "https://www.womennews.co.kr/news/articleView.html?idxno=283215",
+   "source": "womennews.co.kr",
+   "published": "2026-10-12T17:59+09:00",
+   "cat": "acc",
+   "id": "c380cf0e960d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "DN오토모티브, 납 수치 은폐 의혹에 사과…\"조사 협조하겠다\"",
+   "summary": "이후 이 공장에 대한 정밀 감독을 벌인 고용노동부는 총 68건의 산업안전보건법 위반 사항을 적발해 입건·송치하고 과태료 4천620만원을 부과했다. 또 특수건강진단 전 납 배출 촉진 주사를 투약한 행위에 대해 회사를...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016371850?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261012159600057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-12T17:55+09:00",
+   "cat": "law",
+   "id": "8d6cc1360ac4",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "GS건설, 협력사와 건설 미래 논의…무이자 경영지원금·상생펀드 운영",
+   "summary": "산업안전보건관리비를 선지급하고 고위험 공종 안전관리 전담자 배치 비용도 회사가 부담한다. 2021년부터 시행한 공정경쟁낙찰제는 협력사의 적정 이윤 확보와 경영 안정성을 뒷받침하는 제도다. 허윤홍 GS건설...",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=723639",
+   "orig": "https://www.cstimes.com/news/articleView.html?idxno=723639",
+   "source": "컨슈머타임스",
+   "published": "2026-10-12T17:54+09:00",
+   "cat": "hlt",
+   "id": "94aa95e08187",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "거제 산사태 예방 공사 현장 70대 작업자, 16m 아래로 추락 사망",
+   "summary": "경남 거제시의 한 산사태 예방 공사 현장에서 작업하던 70대 노동자가 추락해 숨졌다. 거제경찰서에 따르면 12일 오전 11시 38분쯤 거제시 능포동의 한 옹벽 공사 현장에서 70대 A 씨가 16m 아래로 추락했다. A 씨는...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009223109?sid=102",
+   "orig": "https://www.news1.kr/local/busan-gyeongnam/6317383",
+   "source": "뉴스1",
+   "published": "2026-10-12T17:45+09:00",
+   "cat": "sev",
+   "id": "a0b12d47236d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "회사가 말한 '비타민 주사', 납중독 은폐 약물이었다",
+   "summary": "노동부는 3~4월 감독에서 산업안전보건법 위반 88건을 찾아 68건을 수사에 넘기고 과태료 4,620만 원을... 개정 노조법이 시행된 지 7개월, 원청이 교섭 자리에 앉았다는 소식은 여전히 드물다. 금속노조와 공공운수노조는...",
+   "url": "https://newscham.net/130030/",
+   "orig": "https://newscham.net/130030/",
+   "source": "newscham.net",
+   "published": "2026-10-12T17:40+09:00",
+   "cat": "law",
+   "id": "9b69a8911c8e",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "檢 사라지자 특사경 수사 역량 부족 도마 위…\"전문성 강화 시급\"",
+   "summary": "12일 법조계와 고용노동부에 따르면 이날부터 신규 지방감독관의 사업장 감독·수사 역량을 높이기 위한 8주... 우선 산업안전감독관의 절반 가까이는 수사 경력이 1년 미만인 것으로 나타났다. 올해 9월 기준...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003141910?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1700532/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-12T17:38+09:00",
+   "cat": "law",
+   "id": "e52b2229b646",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "메디인테크 \"내과의사 직업병 없앤다\"…내시경 '전동화' 도전장",
+   "summary": "의료진 직업병을 없애고, 나아가 인공지능(AI)이 직접 움직이는 피지컬 AI 시대로 내시경 패러다임을 바꾸겠다\"고 강조했다. 의사들 직업병 원인 '기계식 와이어' 이치원 메디인테크 대표가 스코프 조작부를 손에 쥐고...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002440627?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261012150402",
+   "source": "지디넷코리아",
+   "published": "2026-10-12T17:36+09:00",
+   "cat": "hlt",
+   "id": "8b7066247f6f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] GS건설, 협력사 80여곳과 상생협력 논의···건설현장 피...",
+   "summary": "산업안전보건관리비를 먼저 지급하고 위험도가 높은 공종의 안전관리 전담자 배치 비용도 지원한다. 2021년부터는 공정경쟁낙찰제를 도입해 협력사의 적정 이윤 확보를 지원하고 있다. 금융 분야에서는 연간 150억원...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797734",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=797734",
+   "source": "weeklytoday.com",
+   "published": "2026-10-12T17:32+09:00",
+   "cat": "hlt",
+   "id": "ef70f54ede7c",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] '불시 근로감독' 4배 늘렸지만 목표량 60%… '내년 14만 곳' 빈말...",
+   "summary": "고용노동부가 올해 사전 예고 없는 '불시 근로감독' 비중을 대폭 끌어올렸지만, 전체 감독 물량은... 5배 상향해 △노동 6만5,000곳 △산업안전 6만 곳 △지방정부 감독 1만5,000곳으로 잡았다. 노동부는 감독관을...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000958998?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101210340004496?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-12T17:31+09:00",
+   "cat": "law",
+   "id": "b0ed116f2d0e",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "'비타민'이라 속여 납 배출 주사 꼼수…李 \"용납 못 할 인권침해\"",
+   "summary": "사태가 확산하자 고용노동부는 DN오토모티브를 업무방해 혐의로 울산경찰청에 수사 의뢰하는 한편, 산업안전보건법 위반사항 88건을 적발해 과태료 4620만원을 부과하고 유해 공정에 대한 사용중지 명령을 내렸다....",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=578640",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=578640",
+   "source": "newsgn.com",
+   "published": "2026-10-12T17:30+09:00",
+   "cat": "law",
+   "id": "877bcca44bef",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "공장 노동자 검진 앞두고…\"비타민 주사라더니\" 발칵",
+   "summary": "▲ 고용노동부 노동자들에게 비타민 주사라고 속여 체내 납 배출을 촉진하는 주사를 맞힌 의혹을 받는... 또한 노동부 조사 결과 DN오토모티브 울산공장에서 총 68건의 산업안전보건법 위반 사항이 적발돼 이를 입건...",
+   "url": "https://n.news.naver.com/mnews/article/055/0001394820?sid=102",
+   "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008793645&plink=ORI&cooper=NAVER",
+   "source": "SBS",
+   "published": "2026-10-12T17:25+09:00",
+   "cat": "law",
+   "id": "a3d61e74c671",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "인천신항 트레일러 '사망 사고', 인천항만 1호 중대재해 적용 여부 주목",
+   "summary": "뉴스토마토 = 최태용 기자 | 최근 인천신항에서 발생한 사망 사고와 관련해 노동청과 경찰이 중대재해처벌법(중처법) 적용 여부를 검토하고 있습니다. 인천항에서의 첫 중처법 적용 사례가 나올지 업계도 주목하고...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1316358&inflow=N",
+   "orig": "http://www.newstomato.com/ReadNews.aspx?no=1316358&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-10-12T17:24+09:00",
+   "cat": "sev",
+   "id": "32ff38c0e832",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 경남동부지사, 김해 다어울림축제서 외국인 근로자 안전캠...",
+   "summary": "한국산업안전보건공단 경남동부지사가 외국인 근로자를 대상으로 산업현장 안전수칙을 알리는 안전문화 확산 캠페인을 펼쳤다. 12일 안전보건공단 경남동부지사는 전날 김해 수릉원에서 열린 '김해 다(多)어울림축제'에...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=20261012171704904be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=20261012171704904be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-12T17:24+09:00",
+   "cat": "tech",
+   "id": "c7b0d6c1da2b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[건설 라운지] 삼성물산·대우건설·IPARK현산·GS건설...\"주거 성능 높...",
+   "summary": "GS건설은 협력사를 대상으로 산업안전보건관리비 선지급과 고위험 공종 안전관리 전담자 배치 비용 지원을 시행하고 있다. 금융 지원을 위해 매년 150억원 규모의 무이자 경영지원금과 300억원 규모의 상생펀드도...",
+   "url": "http://www.kdfnews.com/news/articleView.html?idxno=189170",
+   "orig": "http://www.kdfnews.com/news/articleView.html?idxno=189170",
+   "source": "kdfnews.com",
+   "published": "2026-10-12T17:22+09:00",
+   "cat": "hlt",
+   "id": "ec1a63bef7c0",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "'천안 성환~평택 소사 도로공사' 현장 안전·환경 관리 '구멍'… 붕괴·...",
    "summary": "'산업안전보건기준에 관한 규칙'(제13조 등)에 따르면 높이 2m 이상의 추락 위험 장소에는 튼튼한 구조의... 일관된 답변만 되풀이하고 있어, 형식적인 '깜깜이 현장 감독'이라는 비판과 함께 부실 감독 논란이 거세질 전망이다.",
@@ -132,7 +327,20 @@
    "published": "2026-10-12T17:11+09:00",
    "cat": "tech",
    "id": "77db374be743",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342081",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342081",
+     "title": "남동발전 이현빈 사장, 발전현장 안전관리 강화"
+    },
+    {
+     "source": "더쎈뉴스",
+     "url": "https://www.mhns.co.kr/news/articleView.html?idxno=763805",
+     "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=763805",
+     "title": "한국남동발전 이현빈 사장, 취임 첫 현장경영…발전소 안전관리 점검"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -176,6 +384,19 @@
    "watch": []
   },
   {
+   "title": "李대통령 “체내 납 배출 촉진 주사를 ‘비타민 주사’로 속여 노동자에...",
+   "summary": "이울러 다른 사업장에서도 산업 안전 보건 제도를 무력화하는 유사한 사례의 발생 가능성을 면밀히 살펴보고 노동자들의 건강 및 인권 보호에 만전을 기해 달라 당부했다. 한편, 고용노동부는 자동차 배터리 제조사...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001223204?sid=100",
+   "orig": "https://www.kwnews.co.kr/article/20261012501137",
+   "source": "강원일보",
+   "published": "2026-10-12T17:02+09:00",
+   "cat": "law",
+   "id": "cc6f6095fdc4",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
    "title": "경찰 실수에 불송치 통지 못 받은 승강기 추락사 유족…숨진 피해자 주...",
    "summary": "지난해 수원특례시의 한 아파트에서 승강기 점검 중 추락해 숨진 노동자의 유족이 경찰의 행정 착오로 사건... 앞서 경찰은 김씨 사망 사고와 관련해 관계자 2명을 검찰에 송치할 방침이었으나 검찰의 세 차례 보완수사...",
    "url": "https://n.news.naver.com/mnews/article/666/0000127039?sid=102",
@@ -197,7 +418,14 @@
    "published": "2026-10-12T16:56+09:00",
    "cat": "hlt",
    "id": "178f3d0e94a3",
-   "related": [],
+   "related": [
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004670438?sid=101",
+     "orig": "https://www.sedaily.com/article/20100660?ref=naver",
+     "title": "허윤홍 GS건설 대표 “협력사와 함께 건설산업 미래 이끌 것”"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -347,7 +575,14 @@
    "published": "2026-10-12T16:30+09:00",
    "cat": "law",
    "id": "3321073f77c2",
-   "related": [],
+   "related": [
+    {
+     "source": "kyosu.net",
+     "url": "https://www.kyosu.net/news/articleView.html?idxno=211148",
+     "orig": "https://www.kyosu.net/news/articleView.html?idxno=211148",
+     "title": "한국기술교육대 앵커사업단, 5대 지산학연협의회 운영…84개 기업 참여..."
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -433,6 +668,18 @@
      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246387",
      "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246387",
      "title": "'3명 사망' 영덕 풍력발전기 화재 6개월 만에 합동감식"
+    },
+    {
+     "source": "dkilbo.com",
+     "url": "https://www.dkilbo.com/news/articleView.html?idxno=556890",
+     "orig": "https://www.dkilbo.com/news/articleView.html?idxno=556890",
+     "title": "작업자 3명 숨진 영덕 풍력발전기 화재…6개월여 만에 합동감식"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004197882?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6590216?utm_source=naver&utm_medium=article&utm_campaign=20261012061025",
+     "title": "작업자 3명 숨진 영덕 풍력발전기 화재…6개월 만에 합동감식"
     }
    ],
    "day": "2026-10-12",
@@ -479,6 +726,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009222913?sid=101",
      "orig": "https://www.news1.kr/realestate/general/6317273",
      "title": "GS건설, 상생협력 행사 개최…허윤홍 대표 \"협력사 발전이 우리 발전\""
+    },
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2119593",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2119593",
+     "title": "GS건설 허윤홍 \"협력사 발전이 곧 GS건설 발전..실질 지원 확대\""
     }
    ],
    "day": "2026-10-12",
@@ -874,6 +1127,12 @@
      "url": "https://n.news.naver.com/mnews/article/025/0003557302?sid=100",
      "orig": "https://www.joongang.co.kr/article/25469001",
      "title": "李, ‘부작용 위험’ 납 배출 주사 의혹에 “인권침해, 엄중 대처”"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1413916",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1413916",
+     "title": "李, '비타민 주사' 의혹에 \"중대한 인권침해\"…유사 사업장도 점검"
     }
    ],
    "day": "2026-10-12",
@@ -1121,6 +1380,12 @@
      "url": "https://n.news.naver.com/mnews/article/053/0000062184?sid=102",
      "orig": "http://weekly.chosun.com/news/articleView.html?idxno=56082",
      "title": "노동자에 비타민이라 속여 납 배출 주사 의혹…李 엄중 조사 지시"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000914828?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/MYH20261012175149bGk",
+     "title": "李, '납 배출 주사' 의혹에 \"엄중 대처하라\""
     }
    ],
    "day": "2026-10-12",
@@ -1392,7 +1657,14 @@
    "published": "2026-10-12T11:34+09:00",
    "cat": "tech",
    "id": "4a9ae386dfdf",
-   "related": [],
+   "related": [
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=554285",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=554285",
+     "title": "필리핀 샤블라안시 대표단 화순 방문…계절근로자 교류·농업협력 논의"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -1996,6 +2268,24 @@
      "url": "https://www.ajunews.com/view/20261012142741745",
      "orig": "https://www.ajunews.com/view/20261012142741745",
      "title": "[특징주] 노동자 몰래 '납 배출 주사' 의혹…DN오토모티브 18% 급락"
+    },
+    {
+     "source": "인사이트",
+     "url": "https://www.insight.co.kr/news/577455",
+     "orig": "https://www.insight.co.kr/news/577455",
+     "title": "'검진 전 납 배출 주사' 의혹...DN오토모티브 공식 사과"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=149066",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=149066",
+     "title": "'비타민 주사'라더니 납 배출 주사 의혹…노동부, DN오토모티브 수사 의..."
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111694",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4111694",
+     "title": "DN오토모티브 '납 배출 주사' 수사 의뢰"
     }
    ],
    "day": "2026-10-12",
@@ -2205,7 +2495,14 @@
    "published": "2026-10-12T05:02+09:00",
    "cat": "hlt",
    "id": "090b4056bd93",
-   "related": [],
+   "related": [
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012271964?sid=101",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8683355&ref=A",
+     "title": "‘주6 60시간’ 삼성전자 연구직 ‘과로사 산재’ 인정…노동부 “특별..."
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
