@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T10:21+09:00",
+ "updatedAt": "2026-10-12T11:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "미디어펜",
    "cat": "tech",
    "day": "2026-10-12",
-   "count": 8
+   "count": 10
   },
   {
    "id": "3a3b1306528a",
@@ -39,6 +39,24 @@
    "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
    "source": "연합뉴스",
    "cat": "sev",
+   "day": "2026-10-12",
+   "count": 3
+  },
+  {
+   "id": "103961f8198e",
+   "title": "스마트밴드 없이 앱으로 안전관리…금호건설 자체 개발 특허 출원",
+   "url": "https://n.news.naver.com/mnews/article/011/0004670195?sid=101",
+   "source": "서울경제",
+   "cat": "tech",
+   "day": "2026-10-12",
+   "count": 2
+  },
+  {
+   "id": "83df7a92ef38",
+   "title": "금호건설, 현장 안전관리 '스마트폰 하나로'…자체 기술 특허 출원",
+   "url": "https://n.news.naver.com/mnews/article/014/0005587623?sid=101",
+   "source": "파이낸셜뉴스",
+   "cat": "tech",
    "day": "2026-10-12",
    "count": 2
   },
@@ -53,6 +71,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "건설사 산재보험급여 3년 새 71.3% 증가… ㈜한화, 부과 보험료 대비 96...",
+   "summary": "2022년에는 아이파크현대산업개발이 포함됐고, 2025년에는 현대엔지니어링이 포함됐다. 두 해 모두 상위... 발생과 안전관리 실태를 면밀히 점검하고, 반복적으로 산재가 발생하는 사업장에 대해서는 감독 등...",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65597",
+   "orig": "http://www.newsroad.co.kr/news/articleView.html?idxno=65597",
+   "source": "newsroad.co.kr",
+   "published": "2026-10-12T11:08+09:00",
+   "cat": "law",
+   "id": "d4f7850c6604",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[2026 한국건설·안전박람회] 한림기술 \"이동식 스마트 CCTV로 현장 안전...",
+   "summary": "이밖에 한림기술은 스마트 안전 사물인터넷(IoT) 장비를 선보인다. 이는 무선통신과 센서 기술을 융합해 추락·질식·협착·붕괴·충돌 등 가능성을 모니터링하고 근로자 위치를 측정해 위험구역 접근을 감지하며, 시청각...",
+   "url": "https://www.koit.co.kr/news/articleView.html?idxno=209434",
+   "orig": "https://www.koit.co.kr/news/articleView.html?idxno=209434",
+   "source": "koit.co.kr",
+   "published": "2026-10-12T11:06+09:00",
+   "cat": "tech",
+   "id": "17aa89768e9d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "박창근 국토안전원장 \"건설공사 전 주기 안전관리체계 보완할 것\"",
+   "summary": "또한 \"지능형 CCTV 등 스마트 안전장비를 건설현장에 무상으로 제공해 인공지능(AI)을 포함한 스마트 안전기술이 현장에 정착할 수 있도록 지원하고 있다\"고 밝혔다. 지반침하 사고 예방을 위해서는 터널 굴착공사장 등...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014246390?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261012_0003821876",
+   "source": "뉴시스",
+   "published": "2026-10-12T11:00+09:00",
+   "cat": "tech",
+   "id": "7dcf3373534a",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "해수부, 런던의정서 당사국총회 참석…원전오염수 안전관리 강조",
+   "summary": "정부 대표단은 방사성폐기물 관리 문제에 관한 논의에서 원전 오염수의 안전한 관리와 지속적이고 투명한... 이번 당사국총회에서 대표단은 2018년부터 한국해양과학기술원(KIOST)에서 운영 중인 '런던 의정서 경영공학...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016370334?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261012019600051?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-12T11:00+09:00",
+   "cat": "tech",
+   "id": "9900647d5dda",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"산업현장 안전, 작은 실천부터\"…충청권 7개 기관 천안서 합동 캠페인",
+   "summary": "이번 캠페인에는 한국산업단지공단을 비롯해 고용노동부 천안지청, 한국가스안전공사 충남본부, 한국산업안전보건공단 충남지역본부, 한국환경공단 충청권환경본부, 천안서북소방서, 천안시 서북구보건소 등 7개 기관이...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104083",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104083",
+   "source": "ccdn.co.kr",
+   "published": "2026-10-12T10:58+09:00",
+   "cat": "tech",
+   "id": "1cf54d3e5b3b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "충주시 노사민정협의회, 산업 안전 강화 및 상생 협력 방안 논의",
+   "summary": "충주YWCA, 고용노동부 충주지청, 충주시의회, 충주사회단체연합회, 충주시 등 11개 관련 기관·단체·기업 대표 및 관계자들이 참석했다. 이날 회의에서는 산업재해 예방과 청·장년 취약 노동자 지원을 위한 '공동선언 협약...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1186150",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1186150",
+   "source": "금강일보",
+   "published": "2026-10-12T10:30+09:00",
+   "cat": "law",
+   "id": "9ae98abec322",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "윤석열 정부 기간 산업안전보건법 검찰 접수ㆍ기소 40% 이상 감소",
    "summary": "그러나 정책 전환 이후 산안법 위반 사건의 검찰 접수와 기소 건수가 급감하면서, 실제 사업장의 법... 정부의 '중대재해 감축 로드맵' 발표 당시 산업안전 감독과 기업에 대한 처벌이 약화될 수 있다는 우려를...",
@@ -75,7 +171,14 @@
    "published": "2026-10-12T10:05+09:00",
    "cat": "tech",
    "id": "103961f8198e",
-   "related": [],
+   "related": [
+    {
+     "source": "smartbizn.com",
+     "url": "https://www.smartbizn.com/news/articleView.html?idxno=156090",
+     "orig": "https://www.smartbizn.com/news/articleView.html?idxno=156090",
+     "title": "스마트밴드 없이 위치 추적···금호건설, 스마트 안전관리 기술 특허"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -120,6 +223,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009221454?sid=102",
      "orig": "https://www.news1.kr/local/incheon/6316520",
      "title": "2명 숨진 인천 맨홀 사고…전 환경공단 이사장 중처법 혐의 송치"
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037214",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037214",
+     "title": "맨홀 작업자 2명 사망… 전 인천환경공단 이사장 송치"
     }
    ],
    "day": "2026-10-12",
@@ -173,7 +282,14 @@
    "published": "2026-10-12T09:34+09:00",
    "cat": "tech",
    "id": "83df7a92ef38",
-   "related": [],
+   "related": [
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419777",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419777",
+     "title": "금호건설, 스마트폰 하나로 건설현장 안전관리…특허 출원"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -240,6 +356,18 @@
      "source": "머니투데이",
      "url": "https://n.news.naver.com/mnews/article/008/0005424720?sid=101",
      "orig": "https://www.mt.co.kr/estate/2026/10/12/2026101209415727689",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원… 현장 안전관리 고도화"
+    },
+    {
+     "source": "FETV",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311571",
+     "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=311571",
+     "title": "금호건설, 앱 하나로 현장 안전관리하는 스마트안전관제시스템 특허 출..."
+    },
+    {
+     "source": "betanews.net",
+     "url": "https://www.betanews.net/article/view/beta202610120024",
+     "orig": "https://www.betanews.net/article/view/beta202610120024",
      "title": "금호건설, '스마트안전관제시스템' 특허 출원… 현장 안전관리 고도화"
     }
    ],
@@ -830,7 +958,14 @@
    "published": "2026-10-11T14:54+09:00",
    "cat": "tech",
    "id": "43d4168c4e16",
-   "related": [],
+   "related": [
+    {
+     "source": "aflnews.co.kr",
+     "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329528",
+     "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329528",
+     "title": "농어촌공사 영산강사업단, 건설현장 근로자 대상 안전체험교육 실시"
+    }
+   ],
    "day": "2026-10-11",
    "watch": []
   },
