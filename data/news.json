@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T16:23+09:00",
+ "updatedAt": "2026-10-12T17:22+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-12",
-   "count": 15
+   "count": 16
   },
   {
    "id": "c81de450a528",
@@ -49,7 +49,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-12",
-   "count": 11
+   "count": 12
   },
   {
    "id": "ad2ef97b2b76",
@@ -61,16 +61,309 @@
    "count": 10
   },
   {
-   "id": "5cefddf34257",
-   "title": "‘비타민 주사’라며 납 배출제 투약 의혹…노동부, DN오토모티브 수사...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002708111?sid=101",
+   "id": "71904d3b3460",
+   "title": "GS건설, 협력사와 상생 행사 ‘그랑 파트너스 피에스타 2026’ 개최",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708214?sid=101",
    "source": "헤럴드경제",
-   "cat": "law",
+   "cat": "tech",
    "day": "2026-10-12",
-   "count": 7
+   "count": 8
   }
  ],
  "articles": [
+  {
+   "title": "'천안 성환~평택 소사 도로공사' 현장 안전·환경 관리 '구멍'… 붕괴·...",
+   "summary": "'산업안전보건기준에 관한 규칙'(제13조 등)에 따르면 높이 2m 이상의 추락 위험 장소에는 튼튼한 구조의... 일관된 답변만 되풀이하고 있어, 형식적인 '깜깜이 현장 감독'이라는 비판과 함께 부실 감독 논란이 거세질 전망이다.",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3719042",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3719042",
+   "source": "국제뉴스",
+   "published": "2026-10-12T17:20+09:00",
+   "cat": "acc",
+   "id": "fa5ac8cd65e4",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "서소문고가 붕괴 5개월…오세훈, 한강대교 올라 안전점검",
+   "summary": "드론과 스마트센서, AI 등을 활용한 무인점검 신기술 시연에 참관했다. 이번 현장점검은 지난 5월 26일 발생한 서소문고가 붕괴 사고의 후속 안전대책과 맞닿아 있다. 당시 해체공사 현장에서는 구조물 침하로 작업을...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003052611?sid=102",
+   "orig": "https://www.dt.co.kr/article/12088594?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-12T17:13+09:00",
+   "cat": "tech",
+   "id": "f37266d90239",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"안전한 노동 보다 기업 이윤 우선\"... 메가프로젝트의 실체",
+   "summary": "노동부가 기획 감독에 나섰는데 하이닉스 청주공장에서 산업안전보건법 위반사항이 수두룩하게 적발됐다. 이것이 정부가 앞장서고 있는 반도체 속도전의 실상이다.\" 정록 : \"요동치는 국제 정세도 놓치지 말아야 한다....",
+   "url": "https://n.news.naver.com/mnews/article/047/0002531941?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274632&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-12T17:11+09:00",
+   "cat": "law",
+   "id": "525a8191e028",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "여수산단 화학물질 제조업체서 가스 누출, 노동자 3명 쓰러져···30대 ...",
+   "summary": "전남광주 여수의 한 화학물질 제조업체에서 가스가 누출돼 노동자 3명이 병원으로 이송됐다. 12일 전남소방본부에 따르면 이날 오후 1시45분쯤 전남광주 여수산단의 한 화학물질 제조업체에서 “가스 누출로 사람이...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475775?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610121711001",
+   "source": "경향신문",
+   "published": "2026-10-12T17:11+09:00",
+   "cat": "acc",
+   "id": "b3a164870d75",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "이현빈 남동발전 사장, 취임 후 첫 현장 경영…안전관리 실태 살펴",
+   "summary": "이 사장은 12일 삼천포발전본부와 고성발전본부를 잇달아 방문해 현장 안전경영 활동을 펼쳤다. 우선 이 사장은 본부장을 비롯한 실무자들과 간담회를 열어 사업소의 안전 현안과 애로사항을 청취했다. 구성원들과 안전...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014247823?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261012_0003822681",
+   "source": "뉴시스",
+   "published": "2026-10-12T17:11+09:00",
+   "cat": "tech",
+   "id": "77db374be743",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "<일요시사 선정> 금주의 국감스타",
+   "summary": "[산업통상자원중소벤처기업위원회] 최수진 의원 “가스공사 인사처장, 아들 채용 결재” 한국가스안전공... 국회 기후에너지환경노동위원회 더불어민주당 박지혜 의원이 고용노동부 산업재해보상보험재심사위원회로...",
+   "url": "https://www.ilyosisa.co.kr/news/article.html?no=258257",
+   "orig": "https://www.ilyosisa.co.kr/news/article.html?no=258257",
+   "source": "ilyosisa.co.kr",
+   "published": "2026-10-12T17:08+09:00",
+   "cat": "law",
+   "id": "6195f7e93464",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "GS건설, 협력사와 건설현장 혁신 모색…Physical AI 도입 확대 추진",
+   "summary": "안전관리 분야에서는 산업안전보건관리비 선지급과 고위험 공종의 안전관리 전담자 배치 비용 지원 등을 시행하고 있다. 2021년부터는 공정경쟁낙찰제를 도입해 협력사의 적정 이윤 확보와 경영 안정성을...",
+   "url": "http://www.efnews.co.kr/news/articleView.html?idxno=133059",
+   "orig": "http://www.efnews.co.kr/news/articleView.html?idxno=133059",
+   "source": "efnews.co.kr",
+   "published": "2026-10-12T17:06+09:00",
+   "cat": "tech",
+   "id": "99aeebe07a2d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] 산재 승인율, 지역 따라 ‘복불복’…근골격계 질환, 최대 30%p 격...",
+   "summary": "올해 8월까지 근골격계 질환 재해 신청이 50건 이상인 64개 지사 가운데 승인율이 가장 낮은 곳은... 광주지역본부(72일), 경인지역본부(73일), 제주지사(77일)에서는 산재 승인 여부가 결정되기까지 세 달이 채 걸리지...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002827086?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1281992.html",
+   "source": "한겨레",
+   "published": "2026-10-12T17:06+09:00",
+   "cat": "hlt",
+   "id": "3c20fb4d581e",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "경찰 실수에 불송치 통지 못 받은 승강기 추락사 유족…숨진 피해자 주...",
+   "summary": "지난해 수원특례시의 한 아파트에서 승강기 점검 중 추락해 숨진 노동자의 유족이 경찰의 행정 착오로 사건... 앞서 경찰은 김씨 사망 사고와 관련해 관계자 2명을 검찰에 송치할 방침이었으나 검찰의 세 차례 보완수사...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000127039?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261012580539",
+   "source": "kyeonggi.com",
+   "published": "2026-10-12T16:56+09:00",
+   "cat": "sev",
+   "id": "6fad78d80198",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[CEO 직썰] 허윤홍 GS건설 대표 \"협력사와 함께 건설산업 미래 이끌겠다...",
+   "summary": "안전관리 분야에서는 협력사에 산업안전보건관리비를 선지급하고 고위험 공사에 필요한 안전관리 전담인력 배치 비용을 지원한다. 2021년부터는 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영 안정을...",
+   "url": "https://www.ziksir.com/news/articleView.html?idxno=149063",
+   "orig": "https://www.ziksir.com/news/articleView.html?idxno=149063",
+   "source": "직썰",
+   "published": "2026-10-12T16:56+09:00",
+   "cat": "hlt",
+   "id": "178f3d0e94a3",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "대우건설·GS건설, 전사 조직 개편 임원 인사 단행·협력사 초청 행사 '...",
+   "summary": "특히 GS건설은 안전을 타협할 수 없는 최우선 가치로 두고 산업안전보건관리비를 선지급하는 한편, 고위험 공종의 안전관리 전담자 배치 비용을 지원하고 있다. 또한 2021년부터 공정경쟁낙찰제를 시행해 협력사의...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=319521",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=319521",
+   "source": "wsobi.com",
+   "published": "2026-10-12T16:56+09:00",
+   "cat": "tech",
+   "id": "213b53e97591",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "남부발전, 中企 안전지원 전국 확대…산재 예방 강화",
+   "summary": "김범수 남부발전 안전경영단장은 \"이번 지원사업이 중소기업 종사자들의 소중한 생명과 안전을 지키는 든든한 안전울타리가 되길 바란다\"며 \"앞으로도 소규모 사업장의 산업재해 예방과 안전 사각지대 해소를 위해...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014247751?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261012_0003822644",
+   "source": "뉴시스",
+   "published": "2026-10-12T16:55+09:00",
+   "cat": "tech",
+   "id": "cbc306f0572a",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "건강진단 통과하려…직원 몰래 ‘납배출 주사’ 맞힌 공장",
+   "summary": "관련해 고용노동부가 이 회사를 업무방해 혐의로 경찰에 수사 의뢰했다. 노동부는 DN오토모티브 전·현직... 조사 결과 DN오토모티브 울산공장에서 68건의 산업안전보건법 위반 사항이 적발됐다. 노동부는 이를 입건...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003754338?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261012/134826661/1",
+   "source": "동아일보",
+   "published": "2026-10-12T16:49+09:00",
+   "cat": "law",
+   "id": "ece7448064aa",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "한국도핑방지위원회, 기관 최초 안전보건경영시스템 국제 인증 취득",
+   "summary": "ISO 45001은 국제표준화기구(ISO)가 제정한 안전보건경영시스템 표준으로, 사업장 내 위험요인을 체계적으로 파악하고 관리해 산업재해를 예방하는 데 목적이 있다. (왼쪽부터) 김일환 한국도핑방지위원회(KADA) 사무총장...",
+   "url": "https://www.segye.com/newsView/20261012518801?OutUrl=naver",
+   "orig": "https://www.segye.com/newsView/20261012518801?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-12T16:45+09:00",
+   "cat": "tech",
+   "id": "1c68696181ec",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "주 60시간 일한 삼성 연구원 '과로사' 인정...메가특구법 '규제 완화' 우...",
+   "summary": "2025년 7월 근로복지공단 업무상질병판정위원회는 이러한 근무기록을 토대로 A씨의 사망을 업무상 질병으로 인정했다. 장시간 노동과 업무 부담이 연구개발직 노동자의 건강을 위협할 수 있다는 점이 산재 판정으로...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000958979?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101215270005540?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-12T16:44+09:00",
+   "cat": "hlt",
+   "id": "0333e7db8b0c",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[주장] 반도체·AI 메가프로젝트, 노동자 안전은 뒷전인가",
+   "summary": "로봇에 의한 끼임 사고는 제조업 사업장에서 가장 흔한 중대재해 원인이다. 센서가 작동하지 않아서, 청소나... 2024년 리튬배터리 폭발 사고로 23명이 사망한 아리셀 화재 참사에서 사고를 키운 요인 중 하나는 불법...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002531938?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274622&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-12T16:41+09:00",
+   "cat": "tech",
+   "id": "3d651768de64",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "배민, 법 허점 이용 '산재 꼬리자르기' 논란…산재 1만건 육박, 노동부 ...",
+   "summary": "중대 사고조차 공식 보고에서 누락됐다. 지난 7월 야간 오토바이 배달 중 빗길 교통사고를 당한 뒤 뇌사 장기기증으로 4명에게 새 생명을 선물하고 세상을 떠난 고(故) 최정섭 라이더의 사례 역시 노동부에 산업재해보고서...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001033818?sid=101",
+   "orig": "https://www.imaeil.com/page/view/2026101216373487346",
+   "source": "매일신문",
+   "published": "2026-10-12T16:39+09:00",
+   "cat": "law",
+   "id": "eb1cdd1bdca3",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "“비타민 주사라며 납 배출 주사 맞혀”…자동차 배터리 제조사 수사 착...",
+   "summary": "관련해 고용노동부가 경찰에 수사를 의뢰했다. 노동부는 12일 “지난 1월 말 DN오토모티브 울산공장이... 노동부는 이와 별개로 산업안전보건법 위반 사항 68건을 적발해 입건·송치하고 과태료 4620만원을 부과했다....",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475765?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610121638011",
+   "source": "경향신문",
+   "published": "2026-10-12T16:38+09:00",
+   "cat": "law",
+   "id": "a955a5341149",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "허윤홍 GS건설 대표 \"협력사와 동반성장…피지컬 AI로 안전 현장 구축\"",
+   "summary": "GS건설[006360] 대표는 협력사와의 동반성장을 강조하면서 피지컬 AI를 통해 안전 현장을 마련하겠다고... 회사는 산업안전보건관리비를 선지급하는 한편, 고위험 공종의 안전관리 전담자 배치 비용을 지원했다. 지난...",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438784",
+   "orig": "https://news.einfomax.co.kr/news/articleView.html?idxno=4438784",
+   "source": "einfomax.co.kr",
+   "published": "2026-10-12T16:36+09:00",
+   "cat": "tech",
+   "id": "b752f58643ff",
+   "related": [
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=202610121639035092aa6f4cdad_1",
+     "orig": "https://www.g-enews.com/view.php?ud=202610121639035092aa6f4cdad_1",
+     "title": "GS건설, 협력사와 '피지컬 AI' 혁신 공유…동반성장 강화"
+    }
+   ],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "GS건설, 협력사와 건설산업 미래 모색…AI·로봇 현장 도입 속도",
+   "summary": "피지컬 AI를 비롯한 첨단기술을 적극 도입해 더 안전하고 경쟁력 있는 현장을 만들고, 협력사와 함께 건설... 특히 안전을 최우선 가치로 두고 산업안전보건관리비를 선지급하는 한편, 고위험 공종의 안전관리 전담자...",
+   "url": "https://www.socialvalue.kr/news/view/1065597792668955",
+   "orig": "https://www.socialvalue.kr/news/view/1065597792668955",
+   "source": "socialvalue.kr",
+   "published": "2026-10-12T16:36+09:00",
+   "cat": "tech",
+   "id": "f49cf683101b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "한기대 앵커사업단, ‘5개 지산학연협의회’ 가동",
+   "summary": "천안시, 고용노동부 천안지청, 한국노총 등 총 84개 주요 기업 및 지자체·유관기관이 참여하고 있다.... ‘천안시 노사민정 발전 협의회’는 노·사·민·정 거버넌스를 바탕으로 산업안전 캠페인, 공짜노동 근절 및...",
+   "url": "https://dhnews.co.kr/news/view/1065598027749521",
+   "orig": "https://dhnews.co.kr/news/view/1065598027749521",
+   "source": "dhnews.co.kr",
+   "published": "2026-10-12T16:30+09:00",
+   "cat": "law",
+   "id": "3321073f77c2",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[국회는지금] 이건태 국회의원 \"산업안전보건법 위반 기소, 2년 만에 43....",
+   "summary": "고용노동부의 산업안전 분야 신고사건 검찰 송치 건수도 지난 2022년 2천298건에서 2024년 1,472건으로 35.9% 줄었습니다. 앞서 윤석열 정부는 2022년 11월 중대재해 감축 로드맵을 발표하며 기업의 자율적인 안전관리를...",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=557933",
+   "orig": "http://news.lghellovision.net/news/articleView.html?idxno=557933",
+   "source": "lghellovision.net",
+   "published": "2026-10-12T16:26+09:00",
+   "cat": "law",
+   "id": "88a2e91f2e4b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "대형 건설현장 안전위반 10건 중 4건 하청…원청에 책임 집중 논란",
    "summary": "2023년 중대재해처벌법 첫 판결에서는 하청 근로자 사망사고와 관련해 원청 대표에게 징역 1년 6개월에 집행유예 3년이 선고됐다. 하청 현장소장은 산업안전보건법 위반 등으로 징역 8개월에 집행유예 2년을 선고받았다....",
@@ -83,6 +376,34 @@
    "related": [],
    "day": "2026-10-12",
    "watch": []
+  },
+  {
+   "title": "[단독] 4년 전 사망사고, 여태껏 '수사 중'...중대재해 장기미제 60% 육박...",
+   "summary": "치료를 받다 결국 2주 뒤 숨지면서 고용노동부가 중대재해처벌법 위반 수사에 착수했지만, 4년이 지난 지금도 결론이 나지 않았습니다. 함께 근무하던 직원들은 정발산역에서 모두 떠났고, 당시 코레일 대표도 퇴직한 지...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002417720?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0134_202610121619488378",
+   "source": "YTN",
+   "published": "2026-10-12T16:19+09:00",
+   "cat": "sev",
+   "id": "612d9f611583",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "던킨·파바·배라 줄인상…상미당, 체질 개선으로 답할까",
+   "summary": "3월에는 SPC삼립도 사명을 삼립으로 변경했다. 창업 정신과 신뢰 회복을 내세운 만큼 이를 뒷받침할 재무적 체력을 확보하는 일도 중요하다. 지난해 삼립 시화공장 사고 이후 안전 투자와 생산 체계 개선의 필요성이...",
+   "url": "https://n.news.naver.com/mnews/article/293/0000091473?sid=101",
+   "orig": "https://www.bloter.net/news/articleView.html?idxno=675467",
+   "source": "블로터",
+   "published": "2026-10-12T16:19+09:00",
+   "cat": "law",
+   "id": "1c91b5dcd108",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": [
+    "던킨"
+   ]
   },
   {
    "title": "한국기술교육대 5개 지산학연협의회', '현장 맞춤형 산학협력 선순환' ...",
@@ -126,7 +447,20 @@
    "published": "2026-10-12T16:06+09:00",
    "cat": "law",
    "id": "f42b475b77fe",
-   "related": [],
+   "related": [
+    {
+     "source": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=578607",
+     "orig": "https://www.newsgn.com/news/articleView.html?idxno=578607",
+     "title": "거제시의회, \"한화오션 원ㆍ하청 교섭 정상화 및 노사 상생 촉구\""
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016371729?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261012148900052?input=1195m",
+     "title": "거제시의회 '한화오션 교섭 정상화·노사 상생' 결의안 채택"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -139,7 +473,14 @@
    "published": "2026-10-12T16:02+09:00",
    "cat": "hlt",
    "id": "8eb38f2bc0f7",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009222913?sid=101",
+     "orig": "https://www.news1.kr/realestate/general/6317273",
+     "title": "GS건설, 상생협력 행사 개최…허윤홍 대표 \"협력사 발전이 우리 발전\""
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -164,6 +505,36 @@
      "url": "https://www.mediapen.com/news/view/1129347",
      "orig": "https://www.mediapen.com/news/view/1129347",
      "title": "GS건설 \"협력사와 피지컬 AI 힘 모은다\"···'그랑 파트너스 피에스타 ..."
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494580",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=494580",
+     "title": "GS건설, 80여 개 협력사와 '그랑 파트너스 피에스타 2026' 개최"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261012501140",
+     "orig": "https://www.viva100.com/article/20261012501140",
+     "title": "GS건설, ‘그랑 파트너스 피에스타 2026’ 진행… 협력사와 상생 다짐"
+    },
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598829309441",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598829309441",
+     "title": "GS건설, 협력사 80곳과 ‘그랑 파트너스 피에스타’ 개최…‘피지컬 AI’..."
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342067",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342067",
+     "title": "GS건설, 상생협력행사 '그랑 파트너스 피에스타 2026' 개최… 80여 협력..."
+    },
+    {
+     "source": "국민일보",
+     "url": "https://n.news.naver.com/mnews/article/005/0001878149?sid=101",
+     "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000021815&cp=nv",
+     "title": "GS건설, ‘그랑 파트너스 피에스타 2026’ 개최"
     }
    ],
    "day": "2026-10-12",
@@ -191,7 +562,26 @@
    "published": "2026-10-12T16:00+09:00",
    "cat": "tech",
    "id": "cbe3938949da",
-   "related": [],
+   "related": [
+    {
+     "source": "businessplus.kr",
+     "url": "https://www.businessplus.kr/news/articleView.html?idxno=118044",
+     "orig": "https://www.businessplus.kr/news/articleView.html?idxno=118044",
+     "title": "GS건설, 협력사와 피지컬 AI 현장 적용 논의…상생 지원도 지속"
+    },
+    {
+     "source": "EBN",
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727482",
+     "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1727482",
+     "title": "GS건설, 협력사와 '피지컬 AI' 혁신 방안 공유"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261012001334",
+     "orig": "https://www.newspim.com/news/view/20261012001334",
+     "title": "GS건설, 협력사 상생행사 개최...\"피지컬 AI 도입·실질적 지원 강화\""
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -230,7 +620,14 @@
    "published": "2026-10-12T16:00+09:00",
    "cat": "hlt",
    "id": "1c25fe76a80a",
-   "related": [],
+   "related": [
+    {
+     "source": "segyebiz.com",
+     "url": "http://www.segyebiz.com/newsView/20261012518904?OutUrl=naver",
+     "orig": "http://www.segyebiz.com/newsView/20261012518904?OutUrl=naver",
+     "title": "함께하는 사랑밭, 수도권·부산경남 이동노동자에 생수 2만 5000여 병 지..."
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -471,7 +868,14 @@
    "published": "2026-10-12T14:33+09:00",
    "cat": "law",
    "id": "fb9efe168e74",
-   "related": [],
+   "related": [
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003557302?sid=100",
+     "orig": "https://www.joongang.co.kr/article/25469001",
+     "title": "李, ‘부작용 위험’ 납 배출 주사 의혹에 “인권침해, 엄중 대처”"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -516,6 +920,12 @@
      "url": "http://www.breaknews.com/1242246",
      "orig": "http://www.breaknews.com/1242246",
      "title": "이용우 의원 \"배민, 산재 9600건 중 노동부 보고는 3%..관련법 개정 시급..."
+    },
+    {
+     "source": "skyedaily.com",
+     "url": "https://m.skyedaily.com/news_view.html?ID=312832",
+     "orig": "https://m.skyedaily.com/news_view.html?ID=312832",
+     "title": "배달의민족, 6년간 산재 9600건… 노동부 보고는 3% 불과"
     }
    ],
    "day": "2026-10-12",
@@ -679,6 +1089,12 @@
      "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48113",
      "orig": "https://www.newstopkorea.com/news/articleView.html?idxno=48113",
      "title": "李대통령 \"노동자에 중금속 배출주사 투약, 용납 못 해…엄중대처\""
+    },
+    {
+     "source": "프레시안",
+     "url": "https://n.news.naver.com/mnews/article/002/0002460537?sid=100",
+     "orig": "https://www.pressian.com/pages/articles/2026101213550005423?utm_source=naver&utm_medium=search",
+     "title": "노동자에게 '중금속 배출 주사'…李대통령 \"용납 못할 인권침해\""
     }
    ],
    "day": "2026-10-12",
@@ -891,6 +1307,12 @@
      "url": "https://n.news.naver.com/mnews/article/654/0000204836?sid=102",
      "orig": "https://www.kado.net/news/articleView.html?idxno=2077488",
      "title": "'비타민 주사'라더니 납 배출 주사 의혹…노동부 수사 의뢰"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000914793?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/MYH20261012164009Zqn",
+     "title": "\"'비타민 주사'라더니 납 빼는 약\"…노동부, DN오토 수사 의뢰"
     }
    ],
    "day": "2026-10-12",
@@ -1330,6 +1752,12 @@
      "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333901",
      "orig": "https://www.incheonilbo.com/news/articleView.html?idxno=1333901",
      "title": "'인천 계양 맨홀 사망 사고'…인천환경공단 이사장 중처법 위반 공소청..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014247722?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261012_0003821884",
+     "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치"
     }
    ],
    "day": "2026-10-12",
@@ -1389,6 +1817,12 @@
      "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419777",
      "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419777",
      "title": "금호건설, 스마트폰 하나로 건설현장 안전관리…특허 출원"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478774",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2478774",
+     "title": "금호건설, 건설현장 안전관리 앞장···'스마트안전관제시스템' 기술 특..."
     }
    ],
    "day": "2026-10-12",
