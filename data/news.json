@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T15:26+09:00",
+ "updatedAt": "2026-10-12T16:23+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "1c423820e75e",
+   "title": "李대통령 \"노동자에 중금속 배출주사 투약, 용납못해…엄중대처\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016370978?sid=100",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-12",
+   "count": 15
+  },
+  {
    "id": "c81de450a528",
    "title": "근로자 위치부터 SOS까지…금호건설, '스마트안전관제시스템' 특허 출원",
    "url": "https://www.mediapen.com/news/view/1129171",
@@ -34,22 +43,13 @@
    "count": 14
   },
   {
-   "id": "1c423820e75e",
-   "title": "李대통령 \"노동자에 중금속 배출주사 투약, 용납못해…엄중대처\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016370978?sid=100",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-12",
-   "count": 10
-  },
-  {
    "id": "3a3b1306528a",
    "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
    "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-12",
-   "count": 10
+   "count": 11
   },
   {
    "id": "ad2ef97b2b76",
@@ -67,10 +67,238 @@
    "source": "헤럴드경제",
    "cat": "law",
    "day": "2026-10-12",
-   "count": 5
+   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "대형 건설현장 안전위반 10건 중 4건 하청…원청에 책임 집중 논란",
+   "summary": "2023년 중대재해처벌법 첫 판결에서는 하청 근로자 사망사고와 관련해 원청 대표에게 징역 1년 6개월에 집행유예 3년이 선고됐다. 하청 현장소장은 산업안전보건법 위반 등으로 징역 8개월에 집행유예 2년을 선고받았다....",
+   "url": "https://n.news.naver.com/mnews/article/421/0009222840?sid=101",
+   "orig": "https://www.news1.kr/realestate/general/6317141",
+   "source": "뉴스1",
+   "published": "2026-10-12T16:20+09:00",
+   "cat": "acc",
+   "id": "fd23e5bf5b8d",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "한국기술교육대 5개 지산학연협의회', '현장 맞춤형 산학협력 선순환' ...",
+   "summary": "천안시, 고용노동부 천안지청, 한국노총 등 총 84개 주요 기업 및 지자체·유관기관이 참여하고 있다.... 마지막으로 '천안시 노사민정 발전 협의회'는 노·사·민·정 거버넌스를 바탕으로 산업안전 캠페인, 공짜노동 근절 및...",
+   "url": "https://news.unn.net/news/articleView.html?idxno=598523",
+   "orig": "https://news.unn.net/news/articleView.html?idxno=598523",
+   "source": "unn.net",
+   "published": "2026-10-12T16:14+09:00",
+   "cat": "tech",
+   "id": "c35cd9fc2634",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "경찰, 3명 숨진 영덕 풍력발전기 화재 원인 규명 합동감식",
+   "summary": "경북경찰청 광역범죄수사대는 이날 오전 영덕군 영덕읍 창포리 영덕풍력발전단지 화재 현장에서 국립과학수사연구원, 고용노동부, 한국산업안전공단, 소방, 한국전기안전공사 등과 합동감식을 진행했다. 이곳에선 지난...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001033781?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026101216052233089",
+   "source": "매일신문",
+   "published": "2026-10-12T16:08+09:00",
+   "cat": "sev",
+   "id": "e513a42c51bc",
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246387",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246387",
+     "title": "'3명 사망' 영덕 풍력발전기 화재 6개월 만에 합동감식"
+    }
+   ],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "거제시의회 \"한화오션 원·하청 교섭과 상생 촉구\" 결의안",
+   "summary": "대통령비서실, 산업통상부장관, 고용노동부장관, 경남도지사에게 보낼 계획이다. 시의회는 노사 양측에... 안정적인 고용, 안전한 작업환경과 공정한 노동조건, 그리고 갈등을 대화와 교섭을 통해 해결할 수 있는...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016715",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016715",
+   "source": "경남도민일보",
+   "published": "2026-10-12T16:06+09:00",
+   "cat": "law",
+   "id": "f42b475b77fe",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "허윤홍 대표 “협력사 발전이 곧 GS건설 발전…실질 지원 확대”",
+   "summary": "안전관리 분야에서는 산업안전보건관리비를 선지급하고 고위험 공종의 안전관리 전담자 배치 비용을 지원하고 있다. 2021년부터는 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영 안정을 지원하고 있다....",
+   "url": "https://n.news.naver.com/mnews/article/018/0006386583?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03637526645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-12T16:02+09:00",
+   "cat": "hlt",
+   "id": "8eb38f2bc0f7",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "GS건설, 협력사와 상생 행사 ‘그랑 파트너스 피에스타 2026’ 개최",
+   "summary": "특히 안전을 최우선 가치로 두고 산업안전보건관리비 선지급, 고위험 공종 안전관리 전담자 배치 비용 지원 등을 추진하고 있으며, 2021년부터는 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708214?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10899047?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-12T16:01+09:00",
+   "cat": "tech",
+   "id": "71904d3b3460",
+   "related": [
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261012111958202",
+     "orig": "https://www.ajunews.com/view/20261012111958202",
+     "title": "GS건설, '그랑 파트너스 피에스타' 개최…로봇 활용방안 공유"
+    },
+    {
+     "source": "미디어펜",
+     "url": "https://www.mediapen.com/news/view/1129347",
+     "orig": "https://www.mediapen.com/news/view/1129347",
+     "title": "GS건설 \"협력사와 피지컬 AI 힘 모은다\"···'그랑 파트너스 피에스타 ..."
+    }
+   ],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"신입 전원이 같은 대학 출신?\"…공공기관 채용에 무슨 일이 [곽용희의...",
+   "summary": "12일 국민의힘 박수민 의원실이 기후에너지환경부·고용노동부 산하 지역인재 의무채용 대상 19개 기관의... 6%), 한국산업안전보건공단은 137명 중 92명(67.2%)이 울산대 출신이었다. 이 밖에 한국전기안전공사는 190명...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005341536?sid=102",
+   "orig": "https://www.hankyung.com/article/202610126363i",
+   "source": "한국경제",
+   "published": "2026-10-12T16:00+09:00",
+   "cat": "law",
+   "id": "47cc7dfacbac",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "GS건설 \"협력사 실질적 지원 확대…피지컬 AI 도입\"",
+   "summary": "특히 산업안전보건관리비를 선지급하고 고위험 공종의 안전관리 전담자 배치 비용을 지원하고 있다. 2021년부터 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영 안정성을 지원하는 동시에 품질·안전...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014247540?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261012_0003822446",
+   "source": "뉴시스",
+   "published": "2026-10-12T16:00+09:00",
+   "cat": "tech",
+   "id": "cbe3938949da",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"피지컬AI로 건설현장 안전 혁신\"…GS건설, 협력사 상생행사 개최",
+   "summary": "특히 안전을 최우선 가치로 두고 산업안전보건관리비를 선지급하는 한편 고위험 공종의 안전관리 전담자 배치 비용을 지원하고 있다. 2021년부터는 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영 안정성을...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005424991?sid=101",
+   "orig": "https://www.mt.co.kr/estate/2026/10/12/2026101210055690844",
+   "source": "머니투데이",
+   "published": "2026-10-12T16:00+09:00",
+   "cat": "tech",
+   "id": "45bf26092c8b",
+   "related": [
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419794",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419794",
+     "title": "GS건설, 피지컬 AI로 건설현장 혁신…협력사와 미래 전략 공유"
+    },
+    {
+     "source": "포인트데일리",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321973",
+     "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321973",
+     "title": "GS건설, 협력사 80여곳과 상생 행사…피지컬 AI 현장 적용 논의"
+    }
+   ],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "함께하는 사랑밭, 사각지대 이동노동자 위해 생수 2만 5천여 병 지원",
+   "summary": "이번 지원은 고온 환경에서 장시간 근무하는 이동노동자들의 원활한 수분 섭취를 돕고, 온열질환 등 건강 위험을 예방하기 위해 마련됐다. 수도권에서는 영등포구·서대문구·도봉구·중랑구 노동자종합지원센터 등...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=881110",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=881110",
+   "source": "gokorea.kr",
+   "published": "2026-10-12T16:00+09:00",
+   "cat": "hlt",
+   "id": "1c25fe76a80a",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 배달의민족 6년간 산재 9600건…원인·대책 분석 3% 그쳐",
+   "summary": "이용우 더불어민주당 의원 [사진=뉴스핌 DB] 현행 산업안전보건법에 따르면 근로자가 사망 또는 3일 이상의 휴업이 필요한 부상을 입었을 경우 사업주는 1개월 이내에 산재조사표를 제출해야 한다. 이를 어기면 최대...",
+   "url": "https://www.newspim.com/news/view/20261012001212",
+   "orig": "https://www.newspim.com/news/view/20261012001212",
+   "source": "뉴스핌",
+   "published": "2026-10-12T15:58+09:00",
+   "cat": "law",
+   "id": "193282ab63dc",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "‘건폭몰이’ 윤석열 정부, 산업안전보건법 위반 기소는 43.5% 급감",
+   "summary": "근로감독관이나 경찰이 법 위반 소지가 있다고 보고 송치한 사건 가운데 검찰이 불기소로 종결하는 경우가 늘어난 것이다. 윤석열 정부는 2022년 11월 ‘중대재해 감축 로드맵’을 발표하며 규제·처벌 중심의...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475749?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610121558001",
+   "source": "경향신문",
+   "published": "2026-10-12T15:58+09:00",
+   "cat": "acc",
+   "id": "ac5cc7223455",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "영덕풍력발전 산재 사망 3명에 과징금 최대 30억…영업이익의 2.1배",
+   "summary": "이들 사업장에서 발생한 사망사고는 114건, 사망자는 204명에 달했다. 윤 의원실이 지난 1일 국회 본회의를 통과한 산업안전보건법 개정안의 과징금 규정을 과거 사고에 적용해 산출한 과징금 상한은 총 9494억원이다....",
+   "url": "https://www.kbmaeil.com/article/20261012500562",
+   "orig": "https://www.kbmaeil.com/article/20261012500562",
+   "source": "경북매일",
+   "published": "2026-10-12T15:52+09:00",
+   "cat": "sev",
+   "id": "df61ce11c28f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[단독] 사망사고 반복 기업에 또 산재예방 지원금 … '사고 이력'과 '지...",
+   "summary": "뉴데일리 이유정 기자 = 최근 5년간 두 차례 이상 사망사고가 발생한 사업장이 154곳에 달하는 가운데... 특히 정부가 중대재해처벌법을 통해 기업의 안전보건관리 책임을 강화하는 동시에 별도의 산재예방 예산을...",
+   "url": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200315.html",
+   "orig": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200315.html",
+   "source": "뉴데일리",
+   "published": "2026-10-12T15:46+09:00",
+   "cat": "sev",
+   "id": "ed4887457c18",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"비타민 주사라더니\"…노동자 217명이 맞은 '납 배출 주사' 전말",
+   "summary": "노동조합이 2022년부터 2025년까지 노동자 114명의 특수건강진단표를 분석한 결과, 평균 혈중 납 농도는 15.6㎍/dL이었다. 일반 성인 평균치 1.44㎍/dL의 10배를 넘는 수준이다. 그런데 지난 5년간 특수건강진단에서 혈중 납...",
+   "url": "https://www.ajunews.com/view/20261012151532934",
+   "orig": "https://www.ajunews.com/view/20261012151532934",
+   "source": "아주경제",
+   "published": "2026-10-12T15:44+09:00",
+   "cat": "hlt",
+   "id": "993c298864d1",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "충주시노사민정협의회, 청년 일자리 창출·노동환경 개선 협약",
    "summary": "충주YWCA, 고용노동부 충주지청, 충주시, 충주시의회, 충주사회단체연합회 등 11개 기관·단체·기업 관계자가 참석했다. 이번 협약의 주요 내용은 △청장년 노동자 안정적 일자리 마련 △현장 노동자 안전을 위한 사업 발굴...",
@@ -119,7 +347,14 @@
    "published": "2026-10-12T15:16+09:00",
    "cat": "hlt",
    "id": "23ed26b9a5c9",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3718858",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3718858",
+     "title": "청년 정신질병 산재 5년 새 32%↑…40·50대는 감소세"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -414,6 +649,36 @@
      "url": "https://n.news.naver.com/mnews/article/658/0000158164?sid=100",
      "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20261012.99099003049",
      "title": "이 대통령 \"노동자에 중금속 배출주사 투약 엄중대처\""
+    },
+    {
+     "source": "정책브리핑",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148973321&call_from=naver_news",
+     "orig": "https://www.korea.kr/news/policyNewsView.do?newsId=148973321&call_from=naver_news",
+     "title": "이 대통령 \"노동자 중금속 배출주사 투약, 중대 인권침해…엄중 대처\""
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=554163",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=554163",
+     "title": "李대통령 \"노동자에 중금속 배출 주사 투약, 중대한 인권 침해\""
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202610121549352687b3279dfb36_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=202610121549352687b3279dfb36_12",
+     "title": "李대통령, 노동자 ‘중금속 배출주사 투약’ 논란 엄중 대처 지시... \"중..."
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037298",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037298",
+     "title": "이 대통령 \"노동자에 중금속 배출주사 투약, 용납할 수 없는 중대한 인..."
+    },
+    {
+     "source": "newstopkorea.com",
+     "url": "https://www.newstopkorea.com/news/articleView.html?idxno=48113",
+     "orig": "https://www.newstopkorea.com/news/articleView.html?idxno=48113",
+     "title": "李대통령 \"노동자에 중금속 배출주사 투약, 용납 못 해…엄중대처\""
     }
    ],
    "day": "2026-10-12",
@@ -491,6 +756,18 @@
      "url": "https://www.newspim.com/news/view/20261012001079",
      "orig": "https://www.newspim.com/news/view/20261012001079",
      "title": "'납 배출제 투약 의혹' DN오토모티브 집단 역학조사 실시"
+    },
+    {
+     "source": "ppss.kr",
+     "url": "https://www.ppss.kr/news/articleView.html?idxno=315023",
+     "orig": "https://www.ppss.kr/news/articleView.html?idxno=315023",
+     "title": "DN오토모티브 '비타민 주사' 속여 납 배출 의혹…노동부 수사 의뢰"
+    },
+    {
+     "source": "천지일보",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3439609",
+     "orig": "https://www.newscj.com/news/articleView.html?idxno=3439609",
+     "title": "'비타민 주사'로 납 배출 의혹… 노동부, DN오토모티브 수사 의뢰"
     }
    ],
    "day": "2026-10-12",
@@ -667,7 +944,20 @@
    "published": "2026-10-12T11:38+09:00",
    "cat": "hlt",
    "id": "86d6a209e34f",
-   "related": [],
+   "related": [
+    {
+     "source": "onews.tv",
+     "url": "https://www.onews.tv/news/articleView.html?idxno=288942",
+     "orig": "https://www.onews.tv/news/articleView.html?idxno=288942",
+     "title": "정신질병 산재 승인 10건 중 4건은 20·30대…청년노동자 정신건강 '경고..."
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250970",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250970",
+     "title": "정신질병 산재 인정 10건 중 4건이 20·30대 청년"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -1034,6 +1324,12 @@
      "url": "https://n.news.naver.com/mnews/article/028/0002827043?sid=102",
      "orig": "https://www.hani.co.kr/arti/area/capital/1281949.html",
      "title": "‘맨홀 2명 사망’ 인천환경공단 이사장, 중대재해법 위반 혐의 송치"
+    },
+    {
+     "source": "인천일보",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1333901",
+     "orig": "https://www.incheonilbo.com/news/articleView.html?idxno=1333901",
+     "title": "'인천 계양 맨홀 사망 사고'…인천환경공단 이사장 중처법 위반 공소청..."
     }
    ],
    "day": "2026-10-12",
