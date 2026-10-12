@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T08:21+09:00",
+ "updatedAt": "2026-10-12T09:27+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,20 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "830e289dfb42",
-   "title": "무면허로 건설기계 운전하다 작업자 숨지게 한 직원*대표 유죄",
-   "url": "https://news.knn.co.kr/news/article/193056",
-   "source": "knn.co.kr",
-   "cat": "sev",
+   "id": "c81de450a528",
+   "title": "근로자 위치부터 SOS까지…금호건설, '스마트안전관제시스템' 특허 출원",
+   "url": "https://www.mediapen.com/news/view/1129171",
+   "source": "미디어펜",
+   "cat": "tech",
    "day": "2026-10-12",
    "count": 1
   },
   {
-   "id": "a1aac269e34c",
-   "title": "[기고] 위험성평가도 함부로 손 못 대는 '터줏대감'입니까?",
-   "url": "http://www.ferrotimes.com/news/articleView.html?idxno=50826",
-   "source": "ferrotimes.com",
+   "id": "ad2ef97b2b76",
+   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
+   "url": "https://www.etoday.co.kr/news/view/2634462",
+   "source": "이투데이",
    "cat": "law",
+   "day": "2026-10-12",
+   "count": 1
+  },
+  {
+   "id": "9c9d62b1d36f",
+   "title": "후티 반군, 사우디 리야드 공항 또 공격…12명 사망 참사 하루 만에 폭발",
+   "url": "https://n.news.naver.com/mnews/article/654/0000204798?sid=104",
+   "source": "강원도민일보",
+   "cat": "sev",
    "day": "2026-10-12",
    "count": 1
   },
@@ -48,15 +57,6 @@
    "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137714",
    "source": "newslock.co.kr",
    "cat": "acc",
-   "day": "2026-10-12",
-   "count": 1
-  },
-  {
-   "id": "84aaf04dea21",
-   "title": "남양유업 천안공장, 우유 패키지 활용…안전문화 확산 나서",
-   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329499",
-   "source": "aflnews.co.kr",
-   "cat": "tech",
    "day": "2026-10-12",
    "count": 1
   },
@@ -71,6 +71,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "근로자 위치부터 SOS까지…금호건설, '스마트안전관제시스템' 특허 출원",
+   "summary": "금호건설 관계자는 \"스마트안전관제시스템은 실시간 위치 관제와 위험구역 알림, SOS 호출 등 스마트 기술을 기존 현장 안전관리에 더해 안전관리 체계를 한층 강화한 시스템\"이라며 \"앞으로도 스마트 기술을 적극 활용해...",
+   "url": "https://www.mediapen.com/news/view/1129171",
+   "orig": "https://www.mediapen.com/news/view/1129171",
+   "source": "미디어펜",
+   "published": "2026-10-12T09:24+09:00",
+   "cat": "tech",
+   "id": "c81de450a528",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[특징주] 납 배출 주사 논란…DN오토모티브, 8%대 급락",
+   "summary": "한국산업안전보건공단 정밀 측정 결과 울산공장 전극판 적재 공정에서는 기준치의 5배, 스테커 공정에서는... 그러나 고용노동부와 안전보건공단은 의혹 검증을 위해 집단 역학조사에 착수하고 조사 범위를 확대하고...",
+   "url": "https://www.etoday.co.kr/news/view/2634462",
+   "orig": "https://www.etoday.co.kr/news/view/2634462",
+   "source": "이투데이",
+   "published": "2026-10-12T09:14+09:00",
+   "cat": "law",
+   "id": "ad2ef97b2b76",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, AI로 ‘안전관리’ 바꾼다...한국화학안전협회와 업무 협...",
+   "summary": "김성훈 인천환경공단 이사장은 “AI는 시설 운영의 효율성을 높이는 데 그치지 않고 현장의 위험요인을 사전에 찾아 사고를 예방하는 기술로 활용될 수 있다”며 “현장 경험과 AI 기술을 결합해 보다 안전하고 스마트한...",
+   "url": "https://ic.newdaily.co.kr/site/data/html/2026/10/12/2026101200050.html",
+   "orig": "https://ic.newdaily.co.kr/site/data/html/2026/10/12/2026101200050.html",
+   "source": "뉴데일리",
+   "published": "2026-10-12T09:04+09:00",
+   "cat": "tech",
+   "id": "e13d5e388fa0",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "처벌 없는 日 ‘고객 괴롭힘 방지법’…실효성은 어디서 나오나",
+   "summary": "'고객 괴롭힘 방지' 위한 사업주 5대 의무 2026년 10월 1일부터 시행되는 '개정 노동시책종합추진법'에 따르면... 2018년 10월 18일 시행된 이른바 '감정노동자 보호법(구 산업안전보건법 제26조의2, 현 제41조)'이 그 출발점이다....",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=127&in_cate2=0&gopage=1&bi_pidx=39627",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=127&in_cate2=0&gopage=1&bi_pidx=39627",
+   "source": "worklaw.co.kr",
+   "published": "2026-10-12T09:02+09:00",
+   "cat": "law",
+   "id": "11c8e89253b6",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "후티 반군, 사우디 리야드 공항 또 공격…12명 사망 참사 하루 만에 폭발",
+   "summary": "사리 대변인은 국영 석유기업 아람코의 슈가담 가스 시설과 타나집 정유 공장을 정밀 타격해 대형 화재를... 사리 대변인은 엑스(X·옛 트위터)를 통해 \"모든 항공사와 전문가, 공항 근로자 및 여행객들에게 사우디 공항과...",
+   "url": "https://n.news.naver.com/mnews/article/654/0000204798?sid=104",
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2077446",
+   "source": "강원도민일보",
+   "published": "2026-10-12T09:00+09:00",
+   "cat": "sev",
+   "id": "9c9d62b1d36f",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "'공짜노동' 막을 근로시간 기록 의무화…고용부 국감 시험대 오른다",
+   "summary": "고용노동부 국정감사가 제도 정착의 분수령이 될 전망이다. ◆ 노사정 합의에도 법안 계류…감독 대상 97.5... 법무법인 더보상 김수현 노무사는 \"산재나 임금체불 등 노동 분쟁이 발생하는 현장을 보면 근본 원인은 결국...",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727358",
+   "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1727358",
+   "source": "EBN",
+   "published": "2026-10-12T08:46+09:00",
+   "cat": "law",
+   "id": "9199dd94d287",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "무면허로 건설기계 운전하다 작업자 숨지게 한 직원*대표 유죄",
    "summary": "부산지법 서부지원은 업무상과실치사 등의 혐의로 기소된 근로자 A 씨에게 징역 1년을 선고하고 중대재해처벌법 위반 등의 혐의로 기소된 업체 대표 B 씨에게는 징역 1년에 집행유예 2년을 선고했습니다. A 씨는 지난해...",
