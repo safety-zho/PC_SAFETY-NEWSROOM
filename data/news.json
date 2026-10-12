@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-12T09:27+09:00",
+ "updatedAt": "2026-10-12T10:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "미디어펜",
    "cat": "tech",
    "day": "2026-10-12",
-   "count": 1
+   "count": 8
+  },
+  {
+   "id": "3a3b1306528a",
+   "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
+   "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-10-12",
+   "count": 2
   },
   {
    "id": "ad2ef97b2b76",
@@ -40,37 +49,147 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-10-12",
-   "count": 1
-  },
-  {
-   "id": "9c9d62b1d36f",
-   "title": "후티 반군, 사우디 리야드 공항 또 공격…12명 사망 참사 하루 만에 폭발",
-   "url": "https://n.news.naver.com/mnews/article/654/0000204798?sid=104",
-   "source": "강원도민일보",
-   "cat": "sev",
-   "day": "2026-10-12",
-   "count": 1
-  },
-  {
-   "id": "1d934f435e35",
-   "title": "무기제조업 산재 35%가 청년... 끼임 사고 36건",
-   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137714",
-   "source": "newslock.co.kr",
-   "cat": "acc",
-   "day": "2026-10-12",
-   "count": 1
-  },
-  {
-   "id": "99bf42da5c4d",
-   "title": "원청교섭 돌입 한화오션, 어떤 의제 테이블 오를까",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237150",
-   "source": "매일노동뉴스",
-   "cat": "hlt",
-   "day": "2026-10-12",
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "윤석열 정부 기간 산업안전보건법 검찰 접수ㆍ기소 40% 이상 감소",
+   "summary": "그러나 정책 전환 이후 산안법 위반 사건의 검찰 접수와 기소 건수가 급감하면서, 실제 사업장의 법... 정부의 '중대재해 감축 로드맵' 발표 당시 산업안전 감독과 기업에 대한 처벌이 약화될 수 있다는 우려를...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20138",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20138",
+   "source": "lawleader.co.kr",
+   "published": "2026-10-12T10:18+09:00",
+   "cat": "law",
+   "id": "0d4748f32048",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "스마트밴드 없이 앱으로 안전관리…금호건설 자체 개발 특허 출원",
+   "summary": "금호건설(002990)이 건설현장의 안전관리를 강화하기 위해 자체 개발한 ‘스마트안전관제시스템’ 기술의 특허를 출원했다고 12일 밝혔다. 관리자가 근로자의 위치와 위험구역을 실시간으로 관제하는 동시에, 근로자도...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004670195?sid=101",
+   "orig": "https://www.sedaily.com/article/20100348?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-12T10:05+09:00",
+   "cat": "tech",
+   "id": "103961f8198e",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[연재] 산업현장 안전에 미래 달렸다 – 스크랩 사업장 내 이동 중 지게...",
+   "summary": "한국산업안전보건공단과 협업으로 매주 철강·금속업계 현장에 사고 사례를 분석하고 대안을 지속 제공할 예정이다. 이번에 소개할 재해 사례는 '스크랩 사업장 내 이동 중 지게차에 끼임' 건이다. 해당 사고는 지난 2026년...",
+   "url": "http://www.snmnews.com/news/articleView.html?idxno=575732",
+   "orig": "http://www.snmnews.com/news/articleView.html?idxno=575732",
+   "source": "snmnews.com",
+   "published": "2026-10-12T09:58+09:00",
+   "cat": "tech",
+   "id": "1224cee9ca4b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "KGM·평택시, 맞춤형 상생 목적 원팀 결성",
+   "summary": "라이센스뉴스 = 김진우 기자 | 국내 완성차 업체들이 거점 지자체와 협력해 미래차 산업 전환에 따른... 기아는 광주광역시, 고용노동부와 함께 지역 1·2차 협력사의 안전보건 관리 체계 수립을 지원하고 있다. 여기에...",
+   "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209478",
+   "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=209478",
+   "source": "lcnews.co.kr",
+   "published": "2026-10-12T09:56+09:00",
+   "cat": "law",
+   "id": "f5d7257e5d28",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "'맨홀 2명 사망' 인천환경공단 이사장, 중처법 위반 송치",
+   "summary": "중부지방고용노동청은 지난해 2명이 사망한 맨홀 사고와 관련해 중대재해처벌법 위반 혐의로 인천환경공단 A 이사장을 불구속 입건해 인천지방공소청에 송치했다고 밝혔다. 산업안전보건법 위반 혐의로 인천환경공단...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016370037?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261012049500065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-12T09:53+09:00",
+   "cat": "sev",
+   "id": "3a3b1306528a",
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009221454?sid=102",
+     "orig": "https://www.news1.kr/local/incheon/6316520",
+     "title": "2명 숨진 인천 맨홀 사고…전 환경공단 이사장 중처법 혐의 송치"
+    }
+   ],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[경북 브리핑 모음(10월 12일)] 경북 봉화 달바위봉서 50대 등산객 추락...",
+   "summary": "악화로 경영난을 겪는 도내 소상공인들에게 든든한 버팀목이 되기 위해 뜻을 함께해 준 5개 시중은행과 경북신용보증재단에 감사하다”며 “소상공인들이 생업에 전념하며 자생력을 회복할 수 있도록 금융안전망...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610120704472210080",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610120704472210080",
+   "source": "대한경제",
+   "published": "2026-10-12T09:42+09:00",
+   "cat": "acc",
+   "id": "f2ab43bf4c61",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[사설] 삼성전자 반도체 하청노동 실태에 대한 철저한 조사를 촉구한다",
+   "summary": "반도체 산업 육성이 노동자를 더 값싸고 쉽게 쓸 수 있는 하청구조의 확대가 되어서는 안 된다. 정부가... 안정적이고 안전하며 정당한 노동의 대가가 보장되는 좋은 일자리여야 한다. 고용노동부는 즉각 삼성전자 반도체...",
+   "url": "https://vop.co.kr/A00001697093.html",
+   "orig": "https://vop.co.kr/A00001697093.html",
+   "source": "vop.co.kr",
+   "published": "2026-10-12T09:40+09:00",
+   "cat": "law",
+   "id": "7cadc51194fb",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "\"한 번만 더 살펴보세요\"… '추락 사망사고 제로송' 이목",
+   "summary": "추락 사망자를 크게 줄이면 우리나라 청사진인 '산재 감축'의 고지에 바짝 다가설 수 있다. 이에 추락 사망사고 제로(Zero)송, '한 번만 더 살펴보세요'란 노래와 메시지가 이목을 끈다. 본지 부회장인 박연홍...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250950",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250950",
+   "source": "안전신문",
+   "published": "2026-10-12T09:36+09:00",
+   "cat": "sev",
+   "id": "6bd77448ece5",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "금호건설, 현장 안전관리 '스마트폰 하나로'…자체 기술 특허 출원",
+   "summary": "가상의 경계구역을 설정해 출입 여부를 자동 인식하는 기술이다. 금호건설 관계자는 \"앞으로도 스마트 기술을 적극 활용해 현장의 안전관리 역량을 강화하고 보다 촘촘한 안전관리 체계를 구축해 나가겠다\"고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/014/0005587623?sid=101",
+   "orig": "https://www.fnnews.com/news/202610120914066577",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-12T09:34+09:00",
+   "cat": "tech",
+   "id": "83df7a92ef38",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "위험구역 진입시 자동 경고…금호건설, 안전관리 기술 특허 출원",
+   "summary": "(Geofence) 기술을 활용해 자동 출퇴근 기능도 추가할 계획이다. 금호건설 관계자는 “앞으로도 스마트 기술을 적극 활용해 현장의 안전관리 역량을 강화하고 보다 촘촘한 안전관리 체계를 구축해 나가겠다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/018/0006386262?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=02355046645612264&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-12T09:27+09:00",
+   "cat": "tech",
+   "id": "804f12dddc90",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
   {
    "title": "근로자 위치부터 SOS까지…금호건설, '스마트안전관제시스템' 특허 출원",
    "summary": "금호건설 관계자는 \"스마트안전관제시스템은 실시간 위치 관제와 위험구역 알림, SOS 호출 등 스마트 기술을 기존 현장 안전관리에 더해 안전관리 체계를 한층 강화한 시스템\"이라며 \"앞으로도 스마트 기술을 적극 활용해...",
@@ -80,7 +199,50 @@
    "published": "2026-10-12T09:24+09:00",
    "cat": "tech",
    "id": "c81de450a528",
-   "related": [],
+   "related": [
+    {
+     "source": "getnews.co.kr",
+     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883196",
+     "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=883196",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원... 현장 안전관리 고도화..."
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016369985?sid=101",
+     "orig": "https://www.yna.co.kr/view/AKR20261012043300003?input=1195m",
+     "title": "금호건설, 안전관리 강화…'스마트안전관제시스템' 특허 출원"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137716",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137716",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원... 현장 안전관리 강화"
+    },
+    {
+     "source": "businessplus.kr",
+     "url": "https://www.businessplus.kr/news/articleView.html?idxno=117994",
+     "orig": "https://www.businessplus.kr/news/articleView.html?idxno=117994",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원…현장 안전관리 고도화"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/009/0005746996?sid=101",
+     "orig": "https://www.mk.co.kr/article/12173350",
+     "title": "금호건설 ‘스마트안전관제시스템’ 특허 출원…현장 안전관리 고도화"
+    },
+    {
+     "source": "한국금융신문",
+     "url": "https://www.fntimes.com/html/view.php?ud=202610120954347357048b718333_18",
+     "orig": "https://www.fntimes.com/html/view.php?ud=202610120954347357048b718333_18",
+     "title": "금호건설, 스마트폰으로 건설현장 안전관리…특허 출원"
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005424720?sid=101",
+     "orig": "https://www.mt.co.kr/estate/2026/10/12/2026101209415727689",
+     "title": "금호건설, '스마트안전관제시스템' 특허 출원… 현장 안전관리 고도화"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -93,7 +255,14 @@
    "published": "2026-10-12T09:14+09:00",
    "cat": "law",
    "id": "ad2ef97b2b76",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스웨이",
+     "url": "https://www.newsway.co.kr/news/view?ud=2026101209440324052",
+     "orig": "https://www.newsway.co.kr/news/view?ud=2026101209440324052",
+     "title": "DN오토모티브, 납 배출 주사 논란 재점화…17%대 급락[특징주]"
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -420,7 +589,14 @@
    "published": "2026-10-11T18:28+09:00",
    "cat": "law",
    "id": "2a82b8d7c471",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014246016?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261012_0003821600",
+     "title": "노동부 진주지청, '3+1 기초안전수칙' 집중점검"
+    }
+   ],
    "day": "2026-10-11",
    "watch": []
   },
@@ -622,6 +798,24 @@
      "url": "https://www.m-economynews.com/news/article.html?no=71534",
      "orig": "https://www.m-economynews.com/news/article.html?no=71534",
      "title": "3명 숨진 영덕 풍력발전기 화재...6개월여 만에 현장 감식"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003475660?sid=102",
+     "orig": "https://www.khan.co.kr/article/202610120928001",
+     "title": "3명 숨진 영덕 풍력발전기 화재···사고 6개월여 만에 감식"
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200070.html",
+     "orig": "https://www.newdaily.co.kr/site/data/html/2026/10/12/2026101200070.html",
+     "title": "'작업자 3명 사망' 영덕 풍력발전기 화재 … 6개월 만에 합동감식"
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012271610?sid=102",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8682917&ref=A",
+     "title": "‘3명 사망’ 영덕 풍력발전기 화재, 6개월여 만에 현장 감식"
     }
    ],
    "day": "2026-10-11",
