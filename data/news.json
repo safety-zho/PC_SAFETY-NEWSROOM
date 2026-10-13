@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T16:23+09:00",
+ "updatedAt": "2026-10-13T17:21+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,18 +25,18 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "a3b548d17e45",
-   "title": "울산 민주노총 \"납 노출 의혹 DN오토모티브 특별근로감독하라\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016373838?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-13",
-   "count": 4
-  },
-  {
    "id": "4062304d59ec",
    "title": "광주노동청, '체내 납 배출 약 복용' 공장 조사",
    "url": "https://n.news.naver.com/mnews/article/001/0016372960?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-13",
+   "count": 5
+  },
+  {
+   "id": "a3b548d17e45",
+   "title": "울산 민주노총 \"납 노출 의혹 DN오토모티브 특별근로감독하라\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016373838?sid=102",
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-13",
@@ -52,25 +52,288 @@
    "count": 4
   },
   {
-   "id": "a173d02cd574",
-   "title": "경주시, 근로자 산업안전 의식 제고 나서",
-   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
-   "source": "dkilbo.com",
-   "cat": "hlt",
+   "id": "f94b78b93c4e",
+   "title": "30년간 '나홀로 작업' 사망 노동자 1만442명…전체 사망자의 42%",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374292?sid=100",
+   "source": "연합뉴스",
+   "cat": "sev",
    "day": "2026-10-13",
    "count": 3
   },
   {
-   "id": "96ec4c4d8fcc",
-   "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
-   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
-   "source": "포인트데일리",
-   "cat": "sev",
+   "id": "4d214d67664a",
+   "title": "인천대, AI 기반 산업안전보건 연구거점 구축 본격화",
+   "url": "https://dhnews.co.kr/news/view/1065590514117548",
+   "source": "dhnews.co.kr",
+   "cat": "hlt",
    "day": "2026-10-13",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "민주노총, 납축전지 공장 '납 배출 약물 복용 의혹' 규명 촉구",
+   "summary": "광주지방고용노동청은 지난달 광산구 소재 납축전지 제조업체 2곳을 대상으로 진행한 산업안전보건 기획 감독 과정에서 관련 정황을 포착했다. 당시 근로자 면담 중 \"체내 납 배출을 촉진하는 경구용 약을 복용한 적이...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009225526?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6318698",
+   "source": "뉴스1",
+   "published": "2026-10-13T17:13+09:00",
+   "cat": "law",
+   "id": "9f9700273704",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "이주노동자가 겪는 재난, 주범은 ‘차별’이다",
+   "summary": "노동인구 5% 차지하는 이주노동자, 산재사망률은 한국인 비해 3.6배 테오 씨가 한국에 온 지 2년 반. 그동안 케이크 상자 제조 공장, 커피 캐리어 제조 공장, 국수 공장, 펄프 공장을 옮겨 다니며 일을 했다. 짧은 한국살이...",
+   "url": "https://n.news.naver.com/mnews/article/007/0000008307?sid=102",
+   "orig": "http://www.ildaro.com/10567",
+   "source": "ildaro.com",
+   "published": "2026-10-13T17:06+09:00",
+   "cat": "law",
+   "id": "b9c5cb2cf245",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "남부발전, '저탄장 스마트 출입관리 시스템' 운영… 예방형 안전관리 본...",
+   "summary": "임경규 삼척빛드림본부장은 \"내 가족이 근무한다는 마음가짐이 발전소 안전의 시작\"이라며 \"스마트 기술을 활용한 사전 예방 중심의 안전관리 체계를 마련해 안전사고 제로를 달성하겠다\"고 말했다. 남부발전은 향후 출입...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203998",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=203998",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-13T17:06+09:00",
+   "cat": "tech",
+   "id": "20710b0d9126",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[SPC 인사 전망] 허진수 지주사 대표 취임…삼립 대표 재편·안전경영 변...",
+   "summary": "삼립 시화공장에서는 지난해 5월 노동자 사망사고가 발생했다. 올해 2월에는 화재로 근로자 3명이 연기를 들이마셨고 4월 10일에는 생산설비를 점검하던 근로자 2명의 손가락 일부가 절단됐다. 경찰은 6월 12일 이 사고와...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078283",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078283",
+   "source": "뉴스클레임",
+   "published": "2026-10-13T17:02+09:00",
+   "cat": "tech",
+   "id": "0e536bbb315c",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": [
+    "삼립",
+    "허진수"
+   ]
+  },
+  {
+   "title": "CIS 연수부터 성심당 교육까지… 대전대 '글로벌·지역 교육기관' 입지...",
+   "summary": "고용노동부의 '지역·산업 맞춤형 인력양성사업'으로 추진된 이번 교육에서는 교차 오염 예방과 식중독 방지 등 식품안전관리인증기준(HACCP)에 부합하는 K-푸드 위생관리 실무를 집중 다뤘다. 노용호 대전대 HRD사업단...",
+   "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/13/2026101300321.html",
+   "orig": "https://cc.newdaily.co.kr/site/data/html/2026/10/13/2026101300321.html",
+   "source": "뉴데일리",
+   "published": "2026-10-13T17:02+09:00",
+   "cat": "law",
+   "id": "78ad6a9713d2",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "제조업 AI 전환 속도… 휴머노이드 로봇 20대 실증",
+   "summary": "기존 산업안전보건기준은 산업용 로봇의 고정형 운용을 전제로 안전펜스 설치를 의무화하고 있어 사람과 작업 공간을 공유하는 이동형 휴머노이드의 현장 투입에 제약이 있었다. 정부는 고용노동부의 위험성 평가와...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3439962",
+   "orig": "https://www.newscj.com/news/articleView.html?idxno=3439962",
+   "source": "천지일보",
+   "published": "2026-10-13T17:00+09:00",
+   "cat": "law",
+   "id": "191559a65183",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "울산교육청·현대차 손잡고 찾아가는 산업안전 체험교육",
+   "summary": "울산시교육청이 현대자동차와 함께 학교와 기관 현장 노동자 및 교직원의 산업재해 예방을 위한 체험형... 주요 프로그램은 안전화·안전모 충격 체험, 끼임 사고·감전 체험, 심폐소생술 실습, 가상현실(VR) 안전사고 체험...",
+   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069060",
+   "orig": "https://www.iusm.co.kr/news/articleView.html?idxno=1069060",
+   "source": "울산매일",
+   "published": "2026-10-13T16:56+09:00",
+   "cat": "tech",
+   "id": "f16aafcd6ead",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "노동당국 산업보건 감시 체계 국정감사 도마위",
+   "summary": "노동자들의 안전보건을 위해 노동당국이 제대로 펼쳐야 할 산업보건 감시체계가 국정감사 비판 입길에 올랐다. 13일 국회 기후에너지환경노동위원회의 고용노동부 대상 국정감사가 열렸다. 이날 김태선 위원은...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250989",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250989",
+   "source": "안전신문",
+   "published": "2026-10-13T16:54+09:00",
+   "cat": "law",
+   "id": "9213e1388c45",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "이주노동자가 '야' 말고 온전한 '이름'으로 불릴 때까지",
+   "summary": "공공상생연대기금, 금융산업공익재단, 사무금융우분투재단, 전태일재단 등 4개 노동권익재단이 고용노동부... 이주노동자들에게 자기 이름과 자기 나라 국기가 새겨진 안전모를 나누는 사업이다. 이 사업은 '이름 부르기...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41634",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41634",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-13T16:49+09:00",
+   "cat": "law",
+   "id": "be4505c77088",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[단독]울산경찰, ‘납 수치 은폐 의혹’ DN오토모티브 총괄전무 소환 조...",
+   "summary": "고용노동부는 지난 8월 13일 특수건강진단 직전의 킬레이션 투약이 정부의 근로자 건강보호 조치를 방해했다고 보고 회사 등을 업무방해 혐의로 경찰에 수사 의뢰했다. 현행 산업안전보건법에 킬레이션 투약을 직접...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001402290?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026101316384242604",
+   "source": "부산일보",
+   "published": "2026-10-13T16:46+09:00",
+   "cat": "law",
+   "id": "7b143c9edd78",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "30년간 '나홀로 작업' 사망 노동자 1만442명…전체 사망자의 42%",
+   "summary": "2023년 6월에는 서울 서대문구의 한 아파트에서 홀로 승강기를 정비하던 20대 노동자가 추락해 사망했다. 정부는 2018년 태안화력발전소에서 홀로 작업하던 김용균 씨가 숨진 사고를 계기로 2019년 3월 공공기관의...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374292?sid=100",
+   "orig": "https://www.yna.co.kr/view/AKR20261013147600052?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T16:44+09:00",
+   "cat": "sev",
+   "id": "f94b78b93c4e",
+   "related": [
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000644640?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390200.html",
+     "title": "30년간 '나홀로 작업' 사망 노동자 1만 442명…전체의 42%"
+    },
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/321321/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/321321/?sc=Naver",
+     "title": "'나홀로 작업' 사망 노동자 30년간 1만442명…전체의 42% 달해"
+    }
+   ],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "상반기 건설 산재 사망 243명.. 후진국형 사고 비율 39.1%",
+   "summary": "국회 국민의힘 김위상 의원실이 고용노동부에서 받은 자료를 보면, 올 상반기 건설 산재 사망자는 모두 243명으로, 전북에서는 6명이 숨졌습니다. 사망 유형별로 보면 추락사한 경우가 73명으로 가장 많고, 부딪힘 19명...",
+   "url": "https://n.news.naver.com/mnews/article/659/0000047714?sid=102",
+   "orig": "http://www.jmbc.co.kr/news/view/68735",
+   "source": "jmbc.co.kr",
+   "published": "2026-10-13T16:39+09:00",
+   "cat": "sev",
+   "id": "d93cd8a69646",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김기현 \"노동부 주요 기관, 울산 이전으로 정책 거점 완성해야\"",
+   "summary": "김 의원은 \"현재 울산혁신도시가 근로복지공단, 한국산업인력공단, 한국산업안전보건공단, 고용노동부 고객상담센터가 이미 자리를 잡아 명실상부한 근로복지 및 안전보건의 중심지로 자리매김하고 있다\"는 점을...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002532061?sid=100",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274946&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-13T16:36+09:00",
+   "cat": "law",
+   "id": "db6b4f385369",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[속보] \"중대재해 관련 미공개 정보 유출\"…퇴직 선배에게 빼돌린 노동...",
+   "summary": "중대재해수사과 특사경으로 근무한 A씨를 공직자이해충돌방지법 위반 등 혐의로, 노무사 B씨를 증거위조 등 혐의로 수사 중이다. A씨는 지난 4월 10일 정읍의 한 폐기물 처리장에서 발생한 60대 화물차 운전자의 사망 사고...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001065634?sid=102",
+   "orig": "http://www.inews24.com/view/2014565",
+   "source": "아이뉴스24",
+   "published": "2026-10-13T16:35+09:00",
+   "cat": "law",
+   "id": "fda0723f9895",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "野김기현 \"삼성·SK서 여전히 '희귀질환'...재발방지·보상 통계도 없는...",
+   "summary": "생명·안전·건강권을 챙길 방안을 제시하라\"고 밝혔다. 김 의원은 13일 서울 여의도 국회 기후에너지환경노동위원회(환노위)에서 열린 고용노동부 국정감사에서 김영훈 장관에게 삼성 반도체 백혈병 산업재해 문제를...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005425701?sid=100",
+   "orig": "https://www.mt.co.kr/politics/2026/10/13/2026101316092775453",
+   "source": "머니투데이",
+   "published": "2026-10-13T16:30+09:00",
+   "cat": "law",
+   "id": "135c84b75250",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "'노무사에 중대재해 정보' 노동부 특사경 입건…직위해제(종합)",
+   "summary": "경찰이 중대재해 관련 내부 정보를 외부로 유출했다는 혐의를 받는 고용노동부 전주지청 소속... 경찰은 해당 사망사고를 두고 사망 경위 등을 조사하던 중 B씨를 포함한 노무사 2명이 사고와 관련한 증거를 위조한...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014250705?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261013_0003824325",
+   "source": "뉴시스",
+   "published": "2026-10-13T16:28+09:00",
+   "cat": "sev",
+   "id": "3ea10fa7ab7a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[국감브리핑]김기현 \"고용노동부 산하 공공기관 4곳 울산에 와야\"",
+   "summary": "울산엔 근로복지공단과 한국산업인력공단, 한국산업안전보건공단, 고용노동부 고객상담센터 등이 자리 잡고 있는 만큼, 관련 기관을 추가로 유치하면 근로복지와 산업안전, 직업훈련, 노사관계 분야의 정책 연계 효과를...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009225361?sid=102",
+   "orig": "https://www.news1.kr/local/ulsan/6318599",
+   "source": "뉴스1",
+   "published": "2026-10-13T16:27+09:00",
+   "cat": "law",
+   "id": "25a8428972d5",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "“DN오토모티브, 노동자 체내 납 검진 전 주사로 수치세탁” 의혹",
+   "summary": "고용노동부는 산업안전보건법 위반 68건을 입건·송치하고 과태료 4620만 원을 부과하는 한편 납 노출 공정에 사용 중지 명령을 내렸다. 과거 부실 측정을 진행한 민간 측정기관에도 영업정지 3개월 처분이 내려졌다....",
+   "url": "https://n.news.naver.com/mnews/article/082/0001402286?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026101314212745032",
+   "source": "부산일보",
+   "published": "2026-10-13T16:27+09:00",
+   "cat": "law",
+   "id": "31dd7f3e6eec",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "함안군-경상국립대-한국안전진흥협회, 중소사업장 안전보건 맞춤형 지원...",
+   "summary": "함안군이 산업안전보건법 개정으로 법적 책임이 대폭 강화된 중소사업장의 안전 사각지대를 해소하기 위해... 함안군 관계자는 \"법 개정으로 처벌과 규제가 강화되면서 정보와 인력이 부족한 관내 영세 기업들의 부담이...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=750774",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=750774",
+   "source": "프라임경제",
+   "published": "2026-10-13T16:22+09:00",
+   "cat": "law",
+   "id": "0ed082aa3159",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "\"이재용·최태원 불러야\" … 노동부 국감서 '호남 반도체' 증인 공방",
    "summary": "뉴데일리 임준환 기자 = 고용노동부 국정감사에서 '호남 반도체 메가 프로젝트'와 관련한 기업 총수 증인... 김기현 국민의힘 의원은 산업안전 분야 감독관 가운데 경력 1년 미만이 47%, 3년 미만이 62%에 달한다며 전문성...",
@@ -119,7 +382,14 @@
    "published": "2026-10-13T16:08+09:00",
    "cat": "law",
    "id": "21ed63033db4",
-   "related": [],
+   "related": [
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2119660",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2119660",
+     "title": "[국감] 국힘 '호남 반도체' 집중 공격…이재용·최태원 증인 요구"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -567,6 +837,12 @@
      "url": "https://news.unn.net/news/articleView.html?idxno=598585",
      "orig": "https://news.unn.net/news/articleView.html?idxno=598585",
      "title": "인천대, 건설안전보건 AI연구센터 출범… AI 기반 산업안전보건 연구거..."
+    },
+    {
+     "source": "ifm.kr",
+     "url": "https://news.ifm.kr/news/articleView.html?idxno=481564",
+     "orig": "https://news.ifm.kr/news/articleView.html?idxno=481564",
+     "title": "인천대, AI 기반 산업안전보건 연구센터 출범"
     }
    ],
    "day": "2026-10-13",
@@ -665,6 +941,12 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019075",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019075",
      "title": "UPA, 건설현장·항만시설물 안전점검 본격화"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261013164256217",
+     "orig": "https://www.ajunews.com/view/20261013164256217",
+     "title": "울산항만공사, 건설현장 7곳·항만시설 25곳 안전컨설팅 착수"
     }
    ],
    "day": "2026-10-13",
@@ -1160,6 +1442,12 @@
      "url": "https://www.livebiz.today/news/articleView.html?idxno=205555",
      "orig": "https://www.livebiz.today/news/articleView.html?idxno=205555",
      "title": "DN오토모티브 '납 배출 주사' 의혹...국감서 대표이사 증인 출석 요구"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000541663?sid=102",
+     "orig": "https://news.tf.co.kr/read/national/2375809.htm",
+     "title": "'비타민이라더니 납 배출 주사'…DN오토모티브 국감 도마"
     }
    ],
    "day": "2026-10-13",
@@ -1348,6 +1636,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014249645?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261013_0003823790",
      "title": "광주 제조공장 근로자 '납 배출 약' 복용 의혹…노동당국 조사"
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012272738?sid=102",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684415&ref=A",
+     "title": "전남광주 납축전지 공장서 납 배출 약 복용 의혹…노동청 조사"
     }
    ],
    "day": "2026-10-13",
