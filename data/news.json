@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T13:20+09:00",
+ "updatedAt": "2026-10-13T14:19+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,24 @@
    "count": 4
   },
   {
+   "id": "cc9b48b2f4c3",
+   "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
+   "source": "이뉴스투데이",
+   "cat": "tech",
+   "day": "2026-10-13",
+   "count": 3
+  },
+  {
+   "id": "a173d02cd574",
+   "title": "경주시, 근로자 산업안전 의식 제고 나서",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
+   "source": "dkilbo.com",
+   "cat": "hlt",
+   "day": "2026-10-13",
+   "count": 2
+  },
+  {
    "id": "ce81c9e0be73",
    "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
    "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
@@ -50,27 +68,178 @@
    "cat": "hlt",
    "day": "2026-10-13",
    "count": 2
-  },
-  {
-   "id": "96ec4c4d8fcc",
-   "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
-   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
-   "source": "포인트데일리",
-   "cat": "sev",
-   "day": "2026-10-13",
-   "count": 2
-  },
-  {
-   "id": "cc9b48b2f4c3",
-   "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
-   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
-   "source": "이뉴스투데이",
-   "cat": "tech",
-   "day": "2026-10-13",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "울산항만공사, '건설현장·항만시설물 안전컨설팅' 용역 착수",
+   "summary": "주요 내용에는 건설현장의 중대산업재해 예방을 위한 안전관리 실태 점검, 항만시설물의 중대시민재해 예방을 위한 안전관리체계 점검, 안전보건 관계 법령에 따른 의무 이행 여부 확인, 현장 및 발주처 안전관리 담당자...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3719941",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3719941",
+   "source": "국제뉴스",
+   "published": "2026-10-13T14:16+09:00",
+   "cat": "hlt",
+   "id": "09380469af7b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "\"안전이 최우선\"…경주시, 180여 근로자 '산업안전 골든벨' 성료",
+   "summary": "행사는 산업안전보건 특강에 이어 산업안전 법령과 작업장 안전수칙을 주제로 한 퀴즈대회로 진행됐다. 참가자들은 총 50개 문제를 풀며 안전 지식을 겨뤘으며, 최종 심화문제에 진출한 3명 가운데 ㈜일진 소속 이장호...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3719931",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3719931",
+   "source": "국제뉴스",
+   "published": "2026-10-13T14:12+09:00",
+   "cat": "hlt",
+   "id": "4c4565b04eaf",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "직원 속여 '납배출 주사' 맞힌 공장…\"어떠한 회피 없이 엄중히 책임질...",
+   "summary": "고용노동부가 올해 1월 이같은 의혹을 제보받고 사실 관계를 확인한 결과 DN오토모티브 울산공장에서 68건의 산업안전보건법 위반 사항이 적발됐다. 노동부는 4월 21일부터 5월 7일까지 납 노출 공정의 사용중지 명령을...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000644578?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390138.html",
+   "source": "TV조선",
+   "published": "2026-10-13T14:09+09:00",
+   "cat": "law",
+   "id": "70047edc96a7",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[이슈] 개정된 산업안전보건법, '사후 처벌'에서 '선제적 차단'으로",
+   "summary": "먼저, 근로자 '작업중지권' 전면 확대 및 하청 직통권 신설(제52조 개정)이다. 법 규정은 기존에는 산업재해가... 이번 산업안전보건법 개정으로 안전 지표가 투명하게 공개되는 등 기업 경영 체질이 개선되고 통합 리스크...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304097",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=304097",
+   "source": "투데이에너지",
+   "published": "2026-10-13T14:04+09:00",
+   "cat": "law",
+   "id": "3e380f07fa04",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김영훈 장관 “정년연장 연내 처리·포괄임금 하반기 금지”",
+   "summary": "국회 고용노동부 국정감사 출석 메가특구 주 52시간 예외엔 “신중 검토” “상반기 산재 사망자, 전년比 11.8% 감소 성과” [대한경제=신보훈 기자] 김영훈 고용노동부 장관이 정년연장 법안의 연내 처리와 ‘공짜 야근’을...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131344227510366",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131344227510366",
+   "source": "대한경제",
+   "published": "2026-10-13T14:02+09:00",
+   "cat": "law",
+   "id": "ba81fc6f022c",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[일지] 중앙행정기관·공공기관 지방이전 주요 일지",
+   "summary": "보건복지부, 고용노동부, 국가보훈부, 교육부, 문화체육관광부, 산업통상부 등 이전. ▲ 2014년 = 중앙행정기관 3단계 이전. 법제처, 국민권익위원회, 국세청 등 이전. ▲ 2016년 = 행안부 재난안전관리본부...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016373517?sid=100",
+   "orig": "https://www.yna.co.kr/view/AKR20261013105400530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T14:01+09:00",
+   "cat": "law",
+   "id": "37053ada4be6",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "AI 체험부터 재난 대응까지…SK브로드밴드, 안전문화 확산 앞장",
+   "summary": "앞서 올해 1월에는 통신업계 최초로 산업재해 예방 분야 고용노동부 장관 표창을 수상했다. 시민 참여를 통한 안전의식 개선 활동도 지속하고 있다. 지난 5월 서울지방고용노동청, 안전보건공단과 함께 '대국민...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2005287",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2005287",
+   "source": "m-i.kr",
+   "published": "2026-10-13T13:58+09:00",
+   "cat": "tech",
+   "id": "679970d4116f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관 \"정년연장 연내 처리돼야\"…메가특구 주52시간에는 \"대...",
+   "summary": "대한 국정감사에 출석해 의원 질의를 듣고 있다. /제공=뉴스1김영훈 고용노동부 장관이 정년연장 법안의 연내... 삼성 반도체 원·하청 노동자 간 식비와 휴게시설 차이, 불법파견과 산재 은폐 의혹 등에 대해서는...",
+   "url": "https://news.mtn.co.kr/article/2026101313503162059",
+   "orig": "https://news.mtn.co.kr/article/2026101313503162059",
+   "source": "mtn.co.kr",
+   "published": "2026-10-13T13:54+09:00",
+   "cat": "law",
+   "id": "02992c028867",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "건설현장 안전 공백 줄이는 서윤식 과장의 무료 안전앱",
+   "summary": "대전시청에서 'AI 안전비서' 앱 개발·무료 보급 사례로 적극행정 우수사례 경진대회 최우수상을 받고 있다 위험성평가 문서를 준비하는 부담과 외국인 근로자와의 언어 장벽은 소규모 건설현장의 안전관리를 어렵게...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2445964",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2445964",
+   "source": "충청일보",
+   "published": "2026-10-13T13:50+09:00",
+   "cat": "tech",
+   "id": "1505c2369e69",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "공사 현장에서 168kg 파이프에 맞은 50대 작업자 사망",
+   "summary": "현장에서 천공기로 파이프를 빼다가 맞은 뒤 병원으로 옮겨졌지만 사망 판정을 받았다. 파이프는 길이 6m, 무게 168kg이었다. 경찰과 고용노동부는 업무상 과실치사 및 중대재해처벌법 위반 여부 등을 조사할 방침이다.",
+   "url": "https://n.news.naver.com/mnews/article/079/0004198153?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6590583?utm_source=naver&utm_medium=article&utm_campaign=20261013013834",
+   "source": "노컷뉴스",
+   "published": "2026-10-13T13:39+09:00",
+   "cat": "sev",
+   "id": "ef462adb9e08",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관 \"산재 감소에 매진…작은 사업장 지원 강화\"",
+   "summary": "산업재해 사망자 감소에 더욱 매진하겠다”다고 밝혔다.노동부는 같은 유형의 산업재해 사고가 반복되는... 김영훈 장관은 “산재 감소 추세를 이어가고 한 사람이라도 더 안전하게 일할 수 있도록 지방정부와 업종별...",
+   "url": "https://news.mtn.co.kr/article/2026101311255734839",
+   "orig": "https://news.mtn.co.kr/article/2026101311255734839",
+   "source": "mtn.co.kr",
+   "published": "2026-10-13T13:38+09:00",
+   "cat": "law",
+   "id": "d3f9b0087100",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "광주 제조공장 근로자 '납 배출 약' 복용 의혹…노동당국 진위 여부 파...",
+   "summary": "기획감독을 벌이고 있다. 조사 과정에서 실시한 근로자 설문조사에서는 '약을 먹은 것 같다'는 취지의 진술이... 광주노동청은 지난달 30일 한국산업안전보건공단과 합동으로 해당 사업장에 대한 정밀 안전 작업환경...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000541533?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2375635.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-13T13:35+09:00",
+   "cat": "law",
+   "id": "9bb1bd062d36",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 홀로 작업하다 사망한 노동자 연평균 348명",
+   "summary": "<동시작업인원별 사망재해 현황> 통계는 산재보험 승인 자료만으로는 파악할 수 없는 사망재해 원인을 분석하기 위하여 산업안전보건법 제56조 및 근로감독관 집무규정 제27조에 따라 근로감독관이 조사한...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=135791",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=135791",
+   "source": "popcornnews.net",
+   "published": "2026-10-13T13:24+09:00",
+   "cat": "sev",
+   "id": "65394429e544",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "(2026 국감) 김태승 코레일 사장 \"AI 안전관리 강화…고속철도 통합 성과...",
    "summary": "김태승 한국철도공사(코레일) 사장이 인공지능(AI)을 활용한 철도 안전관리 강화와 고속철도 통합에 따른... 지속가능한 경영 기반 확보를 위해서는 철도물류와 역세권 개발, 해외사업 등에서 새로운 성장 가능성을...",
@@ -418,7 +587,14 @@
    "published": "2026-10-13T11:10+09:00",
    "cat": "hlt",
    "id": "a173d02cd574",
-   "related": [],
+   "related": [
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=537417",
+     "orig": "https://www.kbsm.net/news/view.php?idx=537417",
+     "title": "경주시, 근로자 산업안전 의식 제고 나서"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -815,6 +991,12 @@
      "url": "https://www.job-post.co.kr/news/articleView.html?idxno=231875",
      "orig": "https://www.job-post.co.kr/news/articleView.html?idxno=231875",
      "title": "서초구, 건축공사장 관계자 특별안전교육 실시…산업재해 예방 강화"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3719911",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3719911",
+     "title": "서초구, 14일 건축공사장 특별안전교육 실시"
     }
    ],
    "day": "2026-10-13",
@@ -3258,6 +3440,19 @@
    "published": "2026-10-12T10:58+09:00",
    "cat": "tech",
    "id": "1cf54d3e5b3b",
+   "related": [],
+   "day": "2026-10-12",
+   "watch": []
+  },
+  {
+   "title": "[한인임의 일터안녕] 작업중지권 확보 한 발 전진, 그 다음은?",
+   "summary": "지난 10월 1일 국회 본회의에서는 산업안전보건법 개정안이 상당수 통과되었다. 대체로 그간 노동계에서 계속 주장했던 사안들이었는데 이 중 가장 관심 있는 영역은 작업중지권이다.작업중지권은 그간 산업재해가 발생할...",
+   "url": "https://vop.co.kr/A00001697096.html",
+   "orig": "https://vop.co.kr/A00001697096.html",
+   "source": "vop.co.kr",
+   "published": "2026-10-12T10:46+09:00",
+   "cat": "law",
+   "id": "e215181f965f",
    "related": [],
    "day": "2026-10-12",
    "watch": []
