@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T11:18+09:00",
+ "updatedAt": "2026-10-13T12:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "4062304d59ec",
+   "title": "광주노동청, '체내 납 배출 약 복용' 공장 조사",
+   "url": "https://n.news.naver.com/mnews/article/001/0016372960?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-13",
+   "count": 4
+  },
+  {
    "id": "ce81c9e0be73",
    "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
    "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
    "source": "thefirstmedia.net",
    "cat": "law",
+   "day": "2026-10-13",
+   "count": 2
+  },
+  {
+   "id": "94f66e9ec5d3",
+   "title": "위험성평가 인정사업장 10곳 중 1곳서 산재",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
+   "source": "안전신문",
+   "cat": "hlt",
    "day": "2026-10-13",
    "count": 2
   },
@@ -50,18 +68,191 @@
    "cat": "tech",
    "day": "2026-10-13",
    "count": 2
-  },
-  {
-   "id": "2c198ebef3b6",
-   "title": "노동부 국감 핵심 쟁점은⋯'노란봉투법' 실효성·'메가특구' 공방 예고...",
-   "url": "https://www.etoday.co.kr/news/view/2634596",
-   "source": "이투데이",
-   "cat": "law",
-   "day": "2026-10-13",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "\"특별연장근로가 산재 유발\" 지적에…노동장관 \"개선 검토\"",
+   "summary": "크다\"며 \"고용노동부가 인가해 준 특별연장근로 사업장의 질병 산재 발생 비율이 전체 사업장 대비 최대 2.3배 높다\"고 비판했다. 서 의원은 김 장관에게 지난 5년간 특별연장근로 인가 사업장에 대한 전수조사와 산업안전...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005425460?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/10/13/2026101312102635509",
+   "source": "머니투데이",
+   "published": "2026-10-13T12:14+09:00",
+   "cat": "law",
+   "id": "74cfae535a13",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "“5일 작업을 3일 만에?”…DL이앤씨 부천발전소 사망사고, 안전수칙 위...",
+   "summary": "부천지청은 사고 직후 작업중지 명령을 내리고 원인 조사에 착수했다. 노동당국은 작업계획서와 안전수칙 준수 여부를 확인하고, DL이앤씨 등 관계 업체의 산업안전보건법 및 중대재해처벌법 위반 여부를 살펴볼 방침이다.",
+   "url": "https://n.news.naver.com/mnews/article/138/0002244522?sid=101",
+   "orig": "https://www.ddaily.co.kr/page/view/2026101312123394457",
+   "source": "디지털데일리",
+   "published": "2026-10-13T12:13+09:00",
+   "cat": "sev",
+   "id": "59e4f43ab99a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "與김한규, '납 배출 주사 꼼수'에 \"직접 처벌 어려워...산안법 보완할 것...",
+   "summary": "고용노동부는 해당 의혹 등과 관련해 정밀 감독을 진행해 산업안전보건법 위반 사항을 적발해 입건·송치하고, 주사 투약 행위는 업무방해 혐의로 경찰에 수사 의뢰했다. 현재 울산경찰청이 수사 중이다. DN오토모티브는...",
+   "url": "https://n.news.naver.com/mnews/article/123/0002391728?sid=100",
+   "orig": "http://www.joseilbo.com/news/news_read.php?uid=577271&class=32&grp=",
+   "source": "joseilbo.com",
+   "published": "2026-10-13T11:57+09:00",
+   "cat": "law",
+   "id": "b2cb29b41997",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "한국남동발전 이현빈 사장, 취임 첫 현장 일정서 발전소 안전관리 점검",
+   "summary": "한국남동발전은 이현빈 사장이 12일 두 사업소를 잇달아 찾아 안전경영 활동을 펼쳤다고 밝혔다. 이번 방문은 사업소의 안전관리 체계를 직접 살피고 안전을 최우선으로 하는 문화를 정착시키기 위한 취지로 진행됐다....",
+   "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184021",
+   "orig": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184021",
+   "source": "newsmaker.or.kr",
+   "published": "2026-10-13T11:54+09:00",
+   "cat": "tech",
+   "id": "dffd21534e79",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "\"납 검사 앞두고 납 배출 약 먹었나\"...광주노동청, 광산구 납축전지 공...",
+   "summary": "고용노동부 지침에 따라 지난달 7일 지역 납축전지 제조공장 등 2곳을 점검하는 과정에서 해당 공장의 약물... 이를 위해 근로자 139명 전원에게 임시건강진단을 받도록 명령했으며, 한국산업안전보건공단을 통해...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=925965",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=925965",
+   "source": "남도일보",
+   "published": "2026-10-13T11:48+09:00",
+   "cat": "law",
+   "id": "47cb378f2db5",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "대전대 '로쏘㈜성심당' 재직자 대상 직무능력 향상 과정 진행",
+   "summary": "기업의 경쟁력 제고 일환인 이번 재직자 향상 과정은 고용노동부의 지역·산업 맞춤형 인력양성사업으로... 예방, 식중독 예방 등 HACCP(식품안전관리기준)에 적합한 K-Food 위생관리 제도를 주요 내용으로 하고 있다.",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1186501",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1186501",
+   "source": "금강일보",
+   "published": "2026-10-13T11:46+09:00",
+   "cat": "law",
+   "id": "0429bfbec62a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "'비타민 주사'로 속여 납 배출제 투약 의혹…與, 국감서 조사 확대 촉구",
+   "summary": "조용훈 김우진 한재준 임윤지 기자 = 고용노동부 국정감사에서 자동차 베터리 제조업체 DN오토모티브가... 안호영 더불어민주당 의원은 이번 의혹이 특수건강검진의 신뢰성과 산업안전보건제도 전반을 흔들 수 있다고...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009224442?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6318130",
+   "source": "뉴스1",
+   "published": "2026-10-13T11:42+09:00",
+   "cat": "law",
+   "id": "4340547766aa",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "한화 폭발사고·LIG 뇌물의혹…방사청 국감서 안전·공정성 도마에",
+   "summary": "사고 이후 실시한 특별감독에서는 기본적인 안전조치 위반이 대거 확인됐다. 고용노동부가 이달 발표한... 수원지검 방위사업·산업기술범죄수사부는 지난 8월 방사청 직원에게 뇌물을 제공한 혐의로 LIG D&A 관계자를...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708613?sid=100",
+   "orig": "https://biz.heraldcorp.com/article/10900863?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-13T11:35+09:00",
+   "cat": "acc",
+   "id": "3c7e1e42330c",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "국감 고심하는 김영훈 고용노동부 장관",
+   "summary": "김영훈 고용노동부 장관(가운데)이 13일 국회에서 열린 기후에너지환경노동위원회 국정감사에서 잠시 생각에 잠겨 있다. 오른쪽은 권창준 차관. 왼쪽은 류현철 산업안전보건본부장. 2026.10.13",
+   "url": "https://n.news.naver.com/mnews/article/001/0016373134?sid=100",
+   "orig": "https://www.yna.co.kr/view/PYH20261013084100013?input=1196m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T11:32+09:00",
+   "cat": "law",
+   "id": "3b8f78cd146e",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "경영계 산재 대응 인식 전환, 제도·현장 괴리 메우기 '과제'",
+   "summary": "오학수 일본 노동정책연구·연수기구 특임연구원은 한국 중대재해처벌법이 기존 산업안전보건 관련... 일본에서도 오토바이 배달원 등이 개인사업자로 분류되는 경우가 있지만, 기업의 지휘·감독을 받는 실질적...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016784",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016784",
+   "source": "경남도민일보",
+   "published": "2026-10-13T11:32+09:00",
+   "cat": "law",
+   "id": "f188fa7f113f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김해서 제조로봇 안전교육 시작, 현장 근로자 대응 역량 강화",
+   "summary": "교육은 고용노동부에 근로자 안전보건교육기관으로 등록된 한국산업안전협회와 협력해 10~11월 김해·대구·서울에서 총 네 차례 진행한다. 첫 교육은 13~14일 한국로봇리퍼브센터에서 정원 30명 규모로 운영하며, 두...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=718352",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=718352",
+   "source": "newstown.co.kr",
+   "published": "2026-10-13T11:28+09:00",
+   "cat": "law",
+   "id": "a829370b8ea4",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "방진복 입고 국감장 나온 정혜경 “반도체 호황, 하청에도 돌아가야”",
+   "summary": "정 의원은 2024년 고용노동부 국정감사에도 급식 노동자 복장을 하고 참석해 화제가 됐다. 당시엔 학교 급식 노동자의 과도한 업무량과 산재 문제 등을 강조하려는 취지였다.",
+   "url": "https://n.news.naver.com/mnews/article/023/0004003525?sid=102",
+   "orig": "https://www.chosun.com/national/labor/2026/10/13/N4ZQWTBYERECNAXEMSOIFSAMZA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "조선일보",
+   "published": "2026-10-13T11:27+09:00",
+   "cat": "law",
+   "id": "fcbabffc2ff1",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[스타트업모닝커피1414회] 와트, 스마트글라스로 현장 기록과 안전관리...",
+   "summary": "현장 기술의 가치는 새로운 기기를 갖추는 것뿐 아니라 기존 업무 안에서 지속적으로 활용될 수 있는지에... 방송에서는 이러한 관점에서 와트의 스마트글라스와 기록·협업·안전관리 솔루션을 소개했습니다. 와트가...",
+   "url": "https://platum.kr/archives/296097",
+   "orig": "https://platum.kr/archives/296097",
+   "source": "platum.kr",
+   "published": "2026-10-13T11:24+09:00",
+   "cat": "tech",
+   "id": "c1b8f1d585ad",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "‘납 배출 주사’ 국감 도마에…DN오토모티브 대표 증인 요구",
+   "summary": "의혹이 고용노동부 국정감사에서 도마에 올랐다. 더불어민주당 의원들은 회사 대표이사의 증인 출석을... 노동부는 배터리 제조 동종 사업장 14곳에 대한 기획감독에도 착수했다. 한국산업안전보건공단은 퇴직자를 포함한...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708581?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10900816?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-13T11:20+09:00",
+   "cat": "law",
+   "id": "28416f1a74d9",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "건설현장 '안전점검' 강화 특별교육",
    "summary": "교육은 이성청 한국산업안전보건공단 서울광역본부 건설안전팀장이 맡아 실제 건설현장 사망사고 사례와 추락재해 예방대책을 중심으로 진행한다. 교육에선 공사 현장의 위험요인을 사전에 파악하고 관리하는 방법을...",
@@ -214,7 +405,26 @@
    "published": "2026-10-13T10:53+09:00",
    "cat": "law",
    "id": "4062304d59ec",
-   "related": [],
+   "related": [
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000072892",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000072892",
+     "title": "'체내 납 배출' 약 복용한 광주 제조공장 노동당국 조사"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009224483?sid=102",
+     "orig": "https://www.news1.kr/local/gwangju-jeonnam/6318165",
+     "title": "광주 납축전지 공장 체내 납 배출 약물 복용 정황…당국, 조사 착수"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014249645?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261013_0003823790",
+     "title": "광주 제조공장 근로자 '납 배출 약' 복용 의혹…노동당국 조사"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -312,7 +522,14 @@
    "published": "2026-10-13T09:34+09:00",
    "cat": "hlt",
    "id": "94f66e9ec5d3",
-   "related": [],
+   "related": [
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261013113852176",
+     "orig": "https://www.ajunews.com/view/20261013113852176",
+     "title": "이철규 의원, 위험성평가 인정사업장 사고재해 5년새 44% 증가…산재보..."
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -647,7 +864,14 @@
    "published": "2026-10-13T03:10+09:00",
    "cat": "law",
    "id": "7a1553594fbe",
-   "related": [],
+   "related": [
+    {
+     "source": "hinews.co.kr",
+     "url": "https://www.hinews.co.kr/view.php?ud=202610131133132980cd8b879b3c_48",
+     "orig": "https://www.hinews.co.kr/view.php?ud=202610131133132980cd8b879b3c_48",
+     "title": "DN오토모티브, 울산공장 작업환경 논란에 사과…“책임 회피 없이 엄중..."
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -1446,6 +1670,12 @@
      "url": "https://www.globalepic.co.kr/view.php?ud=20261013103457449048439a4874_29",
      "orig": "https://www.globalepic.co.kr/view.php?ud=20261013103457449048439a4874_29",
      "title": "[Ceo’s Speech] 허윤홍 GS건설 대표 \"피지컬 AI로 안전한 현장 만들 터”"
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002708598?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10900835?ref=naver",
+     "title": "허윤홍 GS건설 대표 “피지컬AI로 협력사와 미래 이끌 것”"
     }
    ],
    "day": "2026-10-12",
@@ -1717,6 +1947,12 @@
      "url": "https://www.newstnt.com/news/articleView.html?idxno=722519",
      "orig": "https://www.newstnt.com/news/articleView.html?idxno=722519",
      "title": "GS건설, 협력사와 '그랑 파트너스 피에스타' 개최…Physical AI·동반성장..."
+    },
+    {
+     "source": "스마트투데이",
+     "url": "https://www.smarttoday.co.kr/ko-kr/articles/112592",
+     "orig": "https://www.smarttoday.co.kr/ko-kr/articles/112592",
+     "title": "GS건설, ‘그랑 파트너스 피에스타 2026’ 개최…협력사와 피지컬 AI 활..."
     }
    ],
    "day": "2026-10-12",
