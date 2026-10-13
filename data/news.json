@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T14:19+09:00",
+ "updatedAt": "2026-10-13T15:25+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,24 @@
    "count": 4
   },
   {
+   "id": "a173d02cd574",
+   "title": "경주시, 근로자 산업안전 의식 제고 나서",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
+   "source": "dkilbo.com",
+   "cat": "hlt",
+   "day": "2026-10-13",
+   "count": 3
+  },
+  {
+   "id": "96ec4c4d8fcc",
+   "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
+   "source": "포인트데일리",
+   "cat": "sev",
+   "day": "2026-10-13",
+   "count": 3
+  },
+  {
    "id": "cc9b48b2f4c3",
    "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
    "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
@@ -43,34 +61,322 @@
    "count": 3
   },
   {
-   "id": "a173d02cd574",
-   "title": "경주시, 근로자 산업안전 의식 제고 나서",
-   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
-   "source": "dkilbo.com",
-   "cat": "hlt",
-   "day": "2026-10-13",
-   "count": 2
-  },
-  {
-   "id": "ce81c9e0be73",
-   "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
-   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
-   "source": "thefirstmedia.net",
+   "id": "a3b548d17e45",
+   "title": "울산 민주노총 \"납 노출 의혹 DN오토모티브 특별근로감독하라\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016373838?sid=102",
+   "source": "연합뉴스",
    "cat": "law",
-   "day": "2026-10-13",
-   "count": 2
-  },
-  {
-   "id": "94f66e9ec5d3",
-   "title": "위험성평가 인정사업장 10곳 중 1곳서 산재",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
-   "source": "안전신문",
-   "cat": "hlt",
    "day": "2026-10-13",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "함안군, 중소사업장 산업재해 예방 나선다···3개 기관 업무협약 체결",
+   "summary": "함안군 관계자는 \"이번 실태조사로 지역 내 중소사업장의 안전보건 현황을 면밀히 파악하고, 법 개정에 따른 기업들의 부담을 덜 수 있는 기초자료를 확보하겠다\"며 \"앞으로도 지역 산업재해 예방에 최선을 다하겠다\"고...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=156282",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=156282",
+   "source": "smartbizn.com",
+   "published": "2026-10-13T15:22+09:00",
+   "cat": "tech",
+   "id": "1b3d85e56115",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "4t 장비 추락해 근로자 사망…담양 중공업 대표 집행유예",
+   "summary": "광주지법 형사11단독 김성준 부장판사는 13일 중대재해처벌법상 산업재해치사 혐의로 기소된 중공업 업체... 재판부는 사업장의 안전관리체계가 제대로 작동하지 않아 사망사고로 이어진 점을 지적했다. 김 부장판사는...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000541600?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2375723.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-13T15:20+09:00",
+   "cat": "sev",
+   "id": "596017ff45cf",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 부산북부지청, 15일 ‘바로면접 바로채용 2026년 사상구 일자...",
+   "summary": "고용노동부 부산북부지청(지청장 윤철민)은 청년층 취업활성화의 일환으로 ‘바로면접 바로채용 2026년... 홍보, 산업안전 및 노동상담 컨설팅 등 다채로운 행사로 진행된다. 특히 부대행사로 MBTI 진단, AI 디지털기술을...",
+   "url": "https://www.lawissue.co.kr/view.php?ud=2026101315144621739a8c8bf58f_12",
+   "orig": "https://www.lawissue.co.kr/view.php?ud=2026101315144621739a8c8bf58f_12",
+   "source": "로이슈",
+   "published": "2026-10-13T15:18+09:00",
+   "cat": "sev",
+   "id": "0fcabb43924d",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "울산 민주노총 \"납 노출 의혹 DN오토모티브 특별근로감독하라\"",
+   "summary": "노동부는 지난 3∼4월 사업장 정밀 감독을 벌여 산업안전보건법 위반 68건을 적발해 입건·송치하고, 검진 전 주사 투약에 대해 업무방해 혐의로 경찰에 수사를 의뢰했다. 이외에 노사정 추천 전문가 9명으로 구성된...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016373838?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261013126700057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T15:04+09:00",
+   "cat": "law",
+   "id": "a3b548d17e45",
+   "related": [
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005341946?sid=102",
+     "orig": "https://www.hankyung.com/article/202610139041h",
+     "title": "울산 민주노총 \"납 노출 의혹 DN오토모티브 특별근로감독하라\""
+    }
+   ],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 이용우 의원, 포괄임금 오남용 지적…김영훈 \"연내 법 개정...",
+   "summary": "이용우 더불어민주당 의원이 포괄임금 오남용 사업장에 대한 고용노동부의 미흡한 조치와 임금체불·중대재해 처벌 제도의 문제점을 지적했다. 김영훈 고용노동부 장관은 이에 포괄임금계약 제한을 위한 연내 법 개정을...",
+   "url": "https://www.newspim.com/news/view/20261013000876",
+   "orig": "https://www.newspim.com/news/view/20261013000876",
+   "source": "뉴스핌",
+   "published": "2026-10-13T15:03+09:00",
+   "cat": "law",
+   "id": "6ea696a13c1f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "반도체 세척·車부품 안착도 로봇이…휴머노이드 20대 현장 투입",
+   "summary": "정부는 고용노동부의 위험성평가와 위험 감소 조치를 전제로 실증을 허용했다. 작업자와 휴머노이드가 같은 공간에서 일할 때 발생할 수 있는 위험 요인을 확인하고 안전조치의 효과를 검증한다. 여기서 확보한 데이터는...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004670746?sid=101",
+   "orig": "https://www.sedaily.com/article/20100860?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-13T15:01+09:00",
+   "cat": "law",
+   "id": "fd9f2e250c76",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "하청근로자 ‘플랜트 감전死’… 원청 대형건설사 중처법 첫 무죄",
+   "summary": "특히 재판부는 중대재해처벌법이 요구하는 안전보건관리체계는 사업장에서 전형적이고 예측 가능한 위험이 사망ㆍ부상으로 이어지는 것을 예방하기 위한 것이라고 강조했다. 통상적으로 예측할 수 없는 위험 때문에...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131331062280358",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610131331062280358",
+   "source": "대한경제",
+   "published": "2026-10-13T15:00+09:00",
+   "cat": "sev",
+   "id": "84fbdf04fb94",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "인천대 AI, 폭염 산업재해 막는다…삼성전자와 기술 개발",
+   "summary": "이 기술은 삼성전자와의 산학협력을 통해 웨어러블 기반 산업안전보건 플랫폼으로 발전했다. 삼성전자가 고용노동부와 협력해 고도화한 갤럭시 워치 기반 기업용 열스트레스 관리 시스템에 인천대 연구팀의 예측...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003142263?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1700916/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-13T15:00+09:00",
+   "cat": "tech",
+   "id": "7744af905277",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "4t 터닝기 추락, 근로자 깔려 사망…중공업 대표는 '집유'",
+   "summary": "광주지법 형사11단독 김성준 부장판사는 13일 중대재해처벌법상 산업재해치사 혐의로 기소된 중공업 대표이사 A(54)씨에게 징역 1년에 집행유예 2년을 선고했다. A씨와 함께 재판에 넘겨진 현장 관리감독자 B(52)씨에게는...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014250239?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261013_0003824086",
+   "source": "뉴시스",
+   "published": "2026-10-13T14:56+09:00",
+   "cat": "sev",
+   "id": "b2915886e9c8",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "전남광주서 노동자 130여명 ‘납 농도’ 검사···납축전지 업체 근무",
+   "summary": "노동청은 고용노동부 지침에 따라 납축전지 업체들이 납 배출을 촉진하는 약물을 노동자들에게 투약했는지 여부를 조사하고 있다. 노동청은 지난달 30일 한국산업안전보건공단과 합동으로 해당 사업장에 대한 정밀 안전...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003475974?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610131456001",
+   "source": "경향신문",
+   "published": "2026-10-13T14:56+09:00",
+   "cat": "law",
+   "id": "8a3129849bae",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "대전대, 전자조달 역량강화 2차년도 초청연수",
+   "summary": "이번 교육은 고용노동부의 지역·산업 맞춤형 인력양성사업으로 마련됐으며, 교차 오염 예방과 식중독 방지 등 식품안전관리인증기준(HACCP)에 부합하는 K-푸드 위생관리 실무를 집중 다뤘다. 노용호 HRD사업단...",
+   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416119",
+   "orig": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416119",
+   "source": "ccnnews.co.kr",
+   "published": "2026-10-13T14:54+09:00",
+   "cat": "law",
+   "id": "31c873a03ccf",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "\"산업 현장의 노하우에 학술적 깊이를 더하다\"… 배화여대, 2026학년도 2...",
+   "summary": "이날 센터 측은 지난 2021년부터 2025년까지 고용노동부가 실시한 일학습병행 성과평가에서 5년 연속 최우수... 일학습병행 산업안전사고 ZERO 챌린지'를 제시해 안전 의식을 높였다. 또 배화여대 모바일소프트웨어과...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130981",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=130981",
+   "source": "dailysmart.co.kr",
+   "published": "2026-10-13T14:50+09:00",
+   "cat": "law",
+   "id": "51bd224e32da",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "납 축전지 공장 노동자들 '납 배출 약' 복용 의혹…노동청, 기획감독",
+   "summary": "이번 감독은 광주노동청이 지난달 7일 고용노동부 지침에 따라 관할구역의 납 축전지 제조공장 2곳을... 광주노동청은 지난달 30일 한국산업안전보건공단과 합동으로 해당 사업장의 작업환경을 측정했으며, 재직 노동자...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004198220?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6590672?utm_source=naver&utm_medium=article&utm_campaign=20261013024735",
+   "source": "노컷뉴스",
+   "published": "2026-10-13T14:48+09:00",
+   "cat": "law",
+   "id": "40dd6ca88e45",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "삼성전자 손잡은 인천대, 'AI 건설안전보건 연구센터' 출범…산업안전 ...",
+   "summary": "삼성전자는 고용노동부와 협력해 시스템을 고도화했으며, 최근 주요 기업 경영진을 대상으로 열린 'Business Insight Forum 2026'에서 본 연구 성과를 산업안전보건 전략의 대표 핵심 사례로 소개했다. 센터는 향후 △VLM(비전...",
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=240452",
+   "orig": "https://www.ngonews.kr/news/articleView.html?idxno=240452",
+   "source": "ngonews.kr",
+   "published": "2026-10-13T14:48+09:00",
+   "cat": "law",
+   "id": "4ede843b40cc",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[단독] 중대재해 사건 맡은 특사경, ‘전직 특사경’ 노무사에 수사정보...",
+   "summary": "나경원 의원은 “중대재해 사망사고의 진상을 밝혀야 할 특사경이 오히려 지역 내 전·현직 특사경과 수사 정보를 주고받으며 사건에 개입한 것으로 보인다”며 “고용노동부는 단순 개인의 비위 사실로 사건을 축소할 게...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003557565?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25469311",
+   "source": "중앙일보",
+   "published": "2026-10-13T14:47+09:00",
+   "cat": "sev",
+   "id": "5614a345879f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "서울시회, 입찰참가자격 사실조사·추락재해 안전보건 교육 실시",
+   "summary": "또 달비계 등 건설현장의 추락사고 예방을 위해 회원사들이 반드시 알아야 할 내용을 안전보건공단 강사가 상세히 설명하고, 안전교육 수강자를 대상으로 교육 수료증도 교부할 예정이다. 김홍수 회장은 \"우리 회원사들이...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=326943",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=326943",
+   "source": "대한전문건설신문",
+   "published": "2026-10-13T14:34+09:00",
+   "cat": "tech",
+   "id": "e9140d237ffe",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "인천대, AI 기반 산업안전보건 연구거점 구축 본격화",
+   "summary": "사진=인천대 제공 최근 기후변화로 폭염이 일상화되고 중대재해처벌법 시행 이후 산업안전보건 관리의 중요성이 커지면서, 산업현장에서는 작업자의 건강상태를 실시간으로 반영하는 ‘개인 맞춤형 안전보건관리...",
+   "url": "https://dhnews.co.kr/news/view/1065590514117548",
+   "orig": "https://dhnews.co.kr/news/view/1065590514117548",
+   "source": "dhnews.co.kr",
+   "published": "2026-10-13T14:28+09:00",
+   "cat": "hlt",
+   "id": "4d214d67664a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "아산시 농촌 인력난의 민낯...외국인 근로자 없으면 농사 못 짓나",
+   "summary": "육성, 스마트농업 전환을 서두르고 있다. 농업을 지역 소비와 기업 급식, 첨단기술을 연결하는... 산업안전, 통역·고충처리 등 관리책임도 커진다. 아산시는 2027년 전담조직 구성을 추진하는 만큼 근로자 권익보호와...",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713561",
+   "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=713561",
+   "source": "뉴스프리존",
+   "published": "2026-10-13T14:26+09:00",
+   "cat": "tech",
+   "id": "ab96bc11bcee",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "금호건설, 2027년도 외주·자재 협력회사 모집…'안전보건 역량 검증 강...",
+   "summary": "회사는 최근 근로자의 스마트폰을 활용해 현장 내 위치와 위험구역 접근 여부를 실시간으로 확인하는 ‘스마트안전관제시스템’을 개발, 관련 기술의 특허를 출원했다. 현재 전국 64개 현장의 관리자 사전등록을...",
+   "url": "https://www.viva100.com/article/20261013500697",
+   "orig": "https://www.viva100.com/article/20261013500697",
+   "source": "브릿지경제",
+   "published": "2026-10-13T14:24+09:00",
+   "cat": "tech",
+   "id": "815a3e48903e",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[교육소식]대전대, 독립국가연합 조달전문가 초청 연수 등",
+   "summary": "고용노동부의 지역·산업 맞춤형 인력양성사업으로, 총 3차례에 걸쳐 70여명의 중간관리자를 대상으로... 현장의 개인위생과 교차 오염, 이물혼입 예방 등 HACCP(식품안전관리기준)에 적합한 위생관리가 주요 내용이다.",
+   "url": "https://n.news.naver.com/mnews/article/003/0014250057?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261013_0003824003",
+   "source": "뉴시스",
+   "published": "2026-10-13T14:21+09:00",
+   "cat": "law",
+   "id": "c46e6c0d5b2b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "광주 배터리 공장서도 \"납 배출 약 먹었다\"… 노동청, 건강 진단 명령",
+   "summary": "13일 광주고용노동청에 따르면 노동당국은 지난달 7, 8일 광산구에 있는 납축전지 제조업체 2곳을 대상으로 산업안전보건 기획 감독을 실시했다. 고용노동부 지침에 따라 전국 납 취급 사업장을 점검하는 과정이었다. 이...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000959154?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101313280003548?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-13T14:21+09:00",
+   "cat": "law",
+   "id": "15a60e2774e6",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "대구경북 건설업 산재 사망 상반기 35명…대구·경북 전국 3·4위",
+   "summary": "건설업 산재 사망자는 2021년 551명에서 2023년 486명으로 감소했으나 2024년 496명, 지난해 569명으로 다시 증가했다. 산업재해를 당한 노동자 역시 2021년 2만9943명에서 지난해 3만6059명으로 늘었으며, 올해 상반기에만...",
+   "url": "https://www.kbmaeil.com/article/20261013500171",
+   "orig": "https://www.kbmaeil.com/article/20261013500171",
+   "source": "경북매일",
+   "published": "2026-10-13T14:20+09:00",
+   "cat": "sev",
+   "id": "2f907fc23e46",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "전남광주서도 강제 ‘납 배출’ 정황…노동자 “약 먹은 것 같다” 진술",
+   "summary": "광주노동청과 한국산업안전보건공단이 합동으로 진행한 작업환경측정에서는 문제점을 발견하지 못한... 앞서 고용노동부는 울산지역 납축전지 제조공장에서 납 노출 관리 부실과 건강진단 왜곡 의심 사례가 나오자 전국...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002827209?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/honam/1282125.html",
+   "source": "한겨레",
+   "published": "2026-10-13T14:18+09:00",
+   "cat": "law",
+   "id": "2e7a0579a585",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "울산항만공사, '건설현장·항만시설물 안전컨설팅' 용역 착수",
    "summary": "주요 내용에는 건설현장의 중대산업재해 예방을 위한 안전관리 실태 점검, 항만시설물의 중대시민재해 예방을 위한 안전관리체계 점검, 안전보건 관계 법령에 따른 의무 이행 여부 확인, 현장 및 발주처 안전관리 담당자...",
@@ -80,7 +386,14 @@
    "published": "2026-10-13T14:16+09:00",
    "cat": "hlt",
    "id": "09380469af7b",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019075",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019075",
+     "title": "UPA, 건설현장·항만시설물 안전점검 본격화"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -171,7 +484,14 @@
    "published": "2026-10-13T13:54+09:00",
    "cat": "law",
    "id": "02992c028867",
-   "related": [],
+   "related": [
+    {
+     "source": "한겨레",
+     "url": "https://n.news.naver.com/mnews/article/028/0002827223?sid=102",
+     "orig": "https://www.hani.co.kr/arti/society/labor/1282139.html",
+     "title": "김영훈 “메가특구 노동특례 신중히…정년연장 법안 연내 처리돼야”"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -593,6 +913,12 @@
      "url": "https://www.kbsm.net/news/view.php?idx=537417",
      "orig": "https://www.kbsm.net/news/view.php?idx=537417",
      "title": "경주시, 근로자 산업안전 의식 제고 나서"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2005355",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2005355",
+     "title": "경주시, 근로자 산업안전 골든벨 개최…180여명 참여"
     }
    ],
    "day": "2026-10-13",
@@ -854,6 +1180,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009224091?sid=101",
      "orig": "https://www.news1.kr/realestate/general/6317953",
      "title": "[국감브리핑] 상반기 건설현장 산재 사망 243명…추락사 73명 '최다'"
+    },
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=508331",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=508331",
+     "title": "[뉴스워커_김위상 의원] 건설업 산재 사망자 상반기 243명…추락 사고만..."
     }
    ],
    "day": "2026-10-13",
@@ -2265,6 +2597,12 @@
      "url": "https://www.smarttoday.co.kr/ko-kr/articles/112592",
      "orig": "https://www.smarttoday.co.kr/ko-kr/articles/112592",
      "title": "GS건설, ‘그랑 파트너스 피에스타 2026’ 개최…협력사와 피지컬 AI 활..."
+    },
+    {
+     "source": "sisacast.kr",
+     "url": "http://www.sisacast.kr/news/articleView.html?idxno=100942",
+     "orig": "http://www.sisacast.kr/news/articleView.html?idxno=100942",
+     "title": "GS건설, 80곳 협력사 대표 대상 '그랑 파트너스 피에스타 2026' 개최"
     }
    ],
    "day": "2026-10-12",
