@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T10:20+09:00",
+ "updatedAt": "2026-10-13T11:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,31 +25,13 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "2c198ebef3b6",
-   "title": "노동부 국감 핵심 쟁점은⋯'노란봉투법' 실효성·'메가특구' 공방 예고...",
-   "url": "https://www.etoday.co.kr/news/view/2634596",
-   "source": "이투데이",
+   "id": "ce81c9e0be73",
+   "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
+   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
+   "source": "thefirstmedia.net",
    "cat": "law",
    "day": "2026-10-13",
    "count": 2
-  },
-  {
-   "id": "152690268cbd",
-   "title": "건설업계, 기술·인재·상생에 투자…현장 경쟁력 높인다",
-   "url": "http://www.dailypop.kr/news/articleView.html?idxno=103308",
-   "source": "dailypop.kr",
-   "cat": "tech",
-   "day": "2026-10-13",
-   "count": 1
-  },
-  {
-   "id": "94f66e9ec5d3",
-   "title": "위험성평가 인정사업장 10곳 중 1곳서 산재",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
-   "source": "안전신문",
-   "cat": "hlt",
-   "day": "2026-10-13",
-   "count": 1
   },
   {
    "id": "96ec4c4d8fcc",
@@ -58,10 +40,236 @@
    "source": "포인트데일리",
    "cat": "sev",
    "day": "2026-10-13",
-   "count": 1
+   "count": 2
+  },
+  {
+   "id": "cc9b48b2f4c3",
+   "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
+   "source": "이뉴스투데이",
+   "cat": "tech",
+   "day": "2026-10-13",
+   "count": 2
+  },
+  {
+   "id": "2c198ebef3b6",
+   "title": "노동부 국감 핵심 쟁점은⋯'노란봉투법' 실효성·'메가특구' 공방 예고...",
+   "url": "https://www.etoday.co.kr/news/view/2634596",
+   "source": "이투데이",
+   "cat": "law",
+   "day": "2026-10-13",
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "건설현장 '안전점검' 강화 특별교육",
+   "summary": "교육은 이성청 한국산업안전보건공단 서울광역본부 건설안전팀장이 맡아 실제 건설현장 사망사고 사례와 추락재해 예방대책을 중심으로 진행한다. 교육에선 공사 현장의 위험요인을 사전에 파악하고 관리하는 방법을...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246441",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246441",
+   "source": "세이프타임즈",
+   "published": "2026-10-13T11:16+09:00",
+   "cat": "tech",
+   "id": "fbcdaaa4e61d",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "올해 상반기 건설 산재 사망 대구 19명·경북 16명…전국 3·4위",
+   "summary": "국민의힘 김위상 의원실이 고용노동부로부터 제출받은 자료에 따르면 전국 건설업 산재 사망자는 243명으로, 이 중 대구가 19명, 경북은 16명으로 집계됐습니다. 김 의원은 반복되는 건설현장 사고를 줄이기 위해 실효성...",
+   "url": "https://www.tbc.co.kr/news/view?pno=20261013095306AE06752&id=212052",
+   "orig": "https://www.tbc.co.kr/news/view?pno=20261013095306AE06752&id=212052",
+   "source": "tbc.co.kr",
+   "published": "2026-10-13T11:14+09:00",
+   "cat": "sev",
+   "id": "be4c242b6633",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "경주시, 근로자 산업안전 의식 제고 나서",
+   "summary": "이날 산업안전보건 관련 특강에 이어 산업안전 법령과 작업 현장 안전수칙 등을 주제로 한 퀴즈대회가 진행됐다. 참가자들은 총 50문항의 문제를 풀며 산업안전보건에 대한 이해를 높였으며, 최종 3명이 심화문제에...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
+   "source": "dkilbo.com",
+   "published": "2026-10-13T11:10+09:00",
+   "cat": "hlt",
+   "id": "a173d02cd574",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[죽음의 일터]① '소년공 대통령' 산재와 싸우지만… 현장선 하루 6명 숨...",
+   "summary": "다만 제조업 사망자는 92명으로 25명, 37.3% 늘었다. 8일 숨진 6명 가운데 2명이 제조업 사업장에서 일했다. 노동부의 중대재해 알림에는 숨진 노동자의 이름과 나이, 고용 형태가 적혀 있지 않다. 사고가 난 시각과 장소, 재해...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078210",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078210",
+   "source": "뉴스클레임",
+   "published": "2026-10-13T11:08+09:00",
+   "cat": "sev",
+   "id": "10855ba85e8d",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "되고세이퍼 GO, CSAP SaaS 표준등급 취득… 안전보건 이행 기록 통합 관...",
+   "summary": "김용필 되고시스템 대표는 “공공기관의 안전보건관리를 서류 중심에서 시스템 중심으로 전환하는 출발점이 되겠다”며 “공공부문 안전보건관리의 새로운 기준을 세워 나가겠다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/029/0003052744?sid=105",
+   "orig": "https://www.dt.co.kr/article/12088726?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-13T11:02+09:00",
+   "cat": "law",
+   "id": "d9708b58b577",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "반복되는 '나 홀로 작업' 사망사고…'2인 1조' 제도화 시급",
+   "summary": "이번 통계는 전체 산재 사망자를 모두 포함한 자료는 아니지만, 혼자 작업하다 사망하는 사고가 반복되고 있다는 점에서 위험작업의 인력 배치와 안전관리 실태를 점검할 필요성을 보여준다. 혼자 일하던 노동자의...",
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=71589",
+   "orig": "https://www.newswhoplus.com/news/articleView.html?idxno=71589",
+   "source": "newswhoplus.com",
+   "published": "2026-10-13T11:00+09:00",
+   "cat": "sev",
+   "id": "2a1011473452",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[ESGX 이슈 5] 대기업 온실가스 배출량 감소…반도체·IT는 증가",
+   "summary": "노동부는 특수건강진단 결과를 왜곡하려는 목적이 있었는지 확인하기 위해 경찰에 수사를 의뢰했다. 노사정 추천 전문가 9명으로 구성된 위원회도 노동자 건강과 작업환경 등을 조사할 예정이다. DN오토모티브는...",
+   "url": "https://www.etoday.co.kr/news/view/2635056",
+   "orig": "https://www.etoday.co.kr/news/view/2635056",
+   "source": "이투데이",
+   "published": "2026-10-13T11:00+09:00",
+   "cat": "hlt",
+   "id": "7e9c9f13c8a1",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김해 한국로봇리퍼브센터서 '2026 첨단제조로봇 실증사업 로봇작업 특별...",
+   "summary": "이번 교육은 고용노동부에 근로자 안전보건교육기관으로 등록된 ㈜한국산업안전협회와 협력해 10월부터 11월까지 김해·대구·서울에서 총 4회 진행된다. 김해는 13~14일 한국로봇리퍼브센터에서 정원 30명 규모로 첫...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=578689",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=578689",
+   "source": "newsgn.com",
+   "published": "2026-10-13T10:56+09:00",
+   "cat": "law",
+   "id": "6ce0dd378f37",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "되고시스템, 18년 안전관리 시스템 구축 경험 SaaS로…‘되고세이퍼 GO’...",
+   "summary": "되고시스템은 공공기관용 통합 안전보건관리 서비스 ‘되고세이퍼 GO’가 한국인터넷진흥원(KISA)의 CSAP SaaS 표준등급 인증을 취득했다. 회사는 그동안 국내 기업 100여 곳과 공공기관에 시스템을 구축하며 축적한 운영...",
+   "url": "http://www.segyebiz.com/newsView/20261013509621?OutUrl=naver",
+   "orig": "http://www.segyebiz.com/newsView/20261013509621?OutUrl=naver",
+   "source": "segyebiz.com",
+   "published": "2026-10-13T10:56+09:00",
+   "cat": "law",
+   "id": "2a8d0490afe5",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김해서 ‘로봇작업 특별교육’ 오늘부터 시작… 16시간 무료, 전국 4회차...",
+   "summary": "교육은 고용노동부에 근로자 안전보건교육기관으로 등록된 한국산업안전협회와 손잡고 10월부터 11월까지 김해·대구·서울에서 네 차례 열린다. 첫 교육은 13일부터 14일까지 한국로봇리퍼브센터 2층 강의실에서 30명...",
+   "url": "https://www.viva100.com/article/20261013500471",
+   "orig": "https://www.viva100.com/article/20261013500471",
+   "source": "브릿지경제",
+   "published": "2026-10-13T10:54+09:00",
+   "cat": "law",
+   "id": "fff9cb1dcbf0",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "'AI로 중대재해 차단' 농어촌공사 홍성지사, 건설현장 안전 강화",
+   "summary": "안전보건협의체는 산업재해 예방을 위해 매월 운영되는 정기 회의로, 공사현장의 위험요인을 살피고 현장 관계자들을 대상으로 안전교육을 실시한다.이번 회의에서는 작업 전 안전점검회의(TBM) 실시와 신규 근로자...",
+   "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238206",
+   "orig": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238206",
+   "source": "충청투데이",
+   "published": "2026-10-13T10:54+09:00",
+   "cat": "tech",
+   "id": "d00ad5258125",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "광주노동청, '체내 납 배출 약 복용' 공장 조사",
+   "summary": "지난달 7일 고용노동부의 지침으로 지역 납축전지 제조공장 등 2곳을 점검하던 중 이 공장에서 약 복용 의심... 이를 위해 공장 근로자 139명 전원에게 임시건강진단 명령을 내렸고, 한국산업안전보건공단을 통해 사업장의...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016372960?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261013073100054?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T10:53+09:00",
+   "cat": "law",
+   "id": "4062304d59ec",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "엑셀·서류로 흩어진 안전관리 기록 통합...‘되고세이퍼 GO’ CSAP 인증...",
+   "summary": "김용필 되고시스템 대표는 “공공기관의 안전보건관리를 서류 중심에서 시스템 중심으로 전환하는 출발점이 되겠다”며 “공공부문 안전보건관리의 새로운 기준을 세워 나가겠다”고 밝혔다. 회사는 무료 체험과 PoC...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026101310455243656cf2d78c68_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=2026101310455243656cf2d78c68_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-13T10:48+09:00",
+   "cat": "tech",
+   "id": "343a982f8f0b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "DN오토모티브 ,'납 배출 촉진 주사' 의혹에 \"회피 없이 책임질 것\"",
+   "summary": "회사는 \"고용노동부 지도하에 작업환경 개선을 위해 노·사·정 추천 외부 전문가 9인으로 출범한 위원회를... 노동부는 해당 공장에 대해 정밀 감독을 진행했으며, 총 68건의 산업안전보건법 위반 사항을 적발해 입건...",
+   "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407052",
+   "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407052",
+   "source": "todaykorea.co.kr",
+   "published": "2026-10-13T10:42+09:00",
+   "cat": "law",
+   "id": "7c0f456aecdd",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김해서 제조로봇 안전교육…4회 중 2회 지역서 진행",
+   "summary": "교육은 고용노동부 등록 안전보건교육기관인 한국산업안전협회와 협력해 10~11월 김해·대구·서울에서 총 4회 운영한다. 김해에서는 한국로봇리퍼브센터에서 1차...",
+   "url": "http://www.breaknews.com/1242516",
+   "orig": "http://www.breaknews.com/1242516",
+   "source": "브레이크뉴스",
+   "published": "2026-10-13T10:34+09:00",
+   "cat": "law",
+   "id": "ad9a37c5647f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관 \"일하는 사람 권리 기본법 연내 제정 지원\"",
+   "summary": "산재·체불 대응…노동 특례는 대화로 산업재해와 임금체불 대응도 주요 과제로 꼽았다. 노동부에 따르면 올해 상반기 일터의 사고사망자는 전년 동기 대비 11.8% 감소해 통계 작성 이후 가장 낮은 수준을 기록했다. 그는...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009224116?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6317947",
+   "source": "뉴스1",
+   "published": "2026-10-13T10:26+09:00",
+   "cat": "law",
+   "id": "568ea67cee4b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
    "summary": "중대재해처벌법상 공공기관의 경영책임자는 기관장이다. 기관장은 안전보건관리체계를 구축해 이행하고 이를 반기마다 점검해야 하며, 사고가 발생할 경우 관련 의무를 수행했다는 점을 입증해야 한다. 되고세이퍼...",
@@ -71,7 +279,14 @@
    "published": "2026-10-13T10:16+09:00",
    "cat": "law",
    "id": "ce81c9e0be73",
-   "related": [],
+   "related": [
+    {
+     "source": "thepowernews.co.kr",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=2026101310504854576cf2d78c68_7",
+     "orig": "https://www.thepowernews.co.kr/view.php?ud=2026101310504854576cf2d78c68_7",
+     "title": "되고시스템, 공공 안전보건 SaaS 시장 확대...‘되고세이퍼 GO’ CSAP 취득"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -110,7 +325,14 @@
    "published": "2026-10-13T09:24+09:00",
    "cat": "sev",
    "id": "96ec4c4d8fcc",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009224091?sid=101",
+     "orig": "https://www.news1.kr/realestate/general/6317953",
+     "title": "[국감브리핑] 상반기 건설현장 산재 사망 243명…추락사 73명 '최다'"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -240,7 +462,14 @@
    "published": "2026-10-13T08:10+09:00",
    "cat": "tech",
    "id": "cc9b48b2f4c3",
-   "related": [],
+   "related": [
+    {
+     "source": "job-post.co.kr",
+     "url": "https://www.job-post.co.kr/news/articleView.html?idxno=231875",
+     "orig": "https://www.job-post.co.kr/news/articleView.html?idxno=231875",
+     "title": "서초구, 건축공사장 관계자 특별안전교육 실시…산업재해 예방 강화"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -1211,6 +1440,12 @@
      "url": "https://www.g-enews.com/view.php?ud=202610121639035092aa6f4cdad_1",
      "orig": "https://www.g-enews.com/view.php?ud=202610121639035092aa6f4cdad_1",
      "title": "GS건설, 협력사와 '피지컬 AI' 혁신 공유…동반성장 강화"
+    },
+    {
+     "source": "globalepic.co.kr",
+     "url": "https://www.globalepic.co.kr/view.php?ud=20261013103457449048439a4874_29",
+     "orig": "https://www.globalepic.co.kr/view.php?ud=20261013103457449048439a4874_29",
+     "title": "[Ceo’s Speech] 허윤홍 GS건설 대표 \"피지컬 AI로 안전한 현장 만들 터”"
     }
    ],
    "day": "2026-10-12",
@@ -1527,6 +1762,12 @@
      "url": "https://www.newspim.com/news/view/20261012001334",
      "orig": "https://www.newspim.com/news/view/20261012001334",
      "title": "GS건설, 협력사 상생행사 개최...\"피지컬 AI 도입·실질적 지원 강화\""
+    },
+    {
+     "source": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=317805",
+     "orig": "https://www.cnbizm.com/news/articleView.html?idxno=317805",
+     "title": "GS건설, 협력사와 '현장 피지컬 AI 도입' 논의… 상생협력 강화"
     }
    ],
    "day": "2026-10-12",
@@ -2204,6 +2445,12 @@
      "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069391",
      "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069391",
      "title": "\"비타민 주사라며 납 배출 촉진 주사 맞혀\"...경찰, DN오토모티브 업무..."
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009224094?sid=101",
+     "orig": "https://www.news1.kr/finance/general-stock/6317948",
+     "title": "'비타민 주사' 논란 DN오토모티브, 이틀째 급락 [핫종목]"
     }
    ],
    "day": "2026-10-12",
