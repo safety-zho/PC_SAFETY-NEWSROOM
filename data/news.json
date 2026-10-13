@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T17:21+09:00",
+ "updatedAt": "2026-10-13T18:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 4
   },
   {
+   "id": "a173d02cd574",
+   "title": "경주시, 근로자 산업안전 의식 제고 나서",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=556928",
+   "source": "dkilbo.com",
+   "cat": "hlt",
+   "day": "2026-10-13",
+   "count": 4
+  },
+  {
    "id": "cc9b48b2f4c3",
    "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
    "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
@@ -52,25 +61,252 @@
    "count": 4
   },
   {
-   "id": "f94b78b93c4e",
-   "title": "30년간 '나홀로 작업' 사망 노동자 1만442명…전체 사망자의 42%",
-   "url": "https://n.news.naver.com/mnews/article/001/0016374292?sid=100",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-10-13",
-   "count": 3
-  },
-  {
-   "id": "4d214d67664a",
-   "title": "인천대, AI 기반 산업안전보건 연구거점 구축 본격화",
-   "url": "https://dhnews.co.kr/news/view/1065590514117548",
-   "source": "dhnews.co.kr",
-   "cat": "hlt",
+   "id": "20710b0d9126",
+   "title": "남부발전, '저탄장 스마트 출입관리 시스템' 운영… 예방형 안전관리 본...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=203998",
+   "source": "energydaily.co.kr",
+   "cat": "tech",
    "day": "2026-10-13",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "[기획] \"폭염 속 근로자 심부체온, AI가 실시간 예측\"…인천대 '건설안전...",
+   "summary": "기후변화에 따른 폭염의 일상화와 중대재해처벌법 시행으로 산업현장 근로자의 안전 보건 관리가 기업... 최근 고용노동부가 폭염 대비 현장 불시 점검을 강화하고 「폭염안전 5대 기본수칙」 이행을 독려하는...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261013010003195",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261013010003195",
+   "source": "중도일보",
+   "published": "2026-10-13T18:16+09:00",
+   "cat": "law",
+   "id": "fc8a126c1c68",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "서천호 의원, 원전 안전관리 부실 지적…\"수사인력·냉각설비·인사 검...",
+   "summary": "그러나 서 의원은 \"기관장 선임 승인 권한이 형식적으로 운영돼서는 안 된다\"며 \"후보자의 전문성과 경영 능력을 검증할 심사기준을 마련하고 평가기록도 명확히 남겨야 한다\"고 강조했다. 또 서 의원은 \"원전 안전은...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016861",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016861",
+   "source": "경남도민일보",
+   "published": "2026-10-13T18:16+09:00",
+   "cat": "law",
+   "id": "c99a59714e74",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "환노위 노동부 감사, 메가특구 노동특례 공방 [2026 국감]",
+   "summary": "국민의힘 윤재옥 의원은 한화그룹의 반복되는 사망사고를 거론하며 그룹 차원의 책임 있는 답변을 요구했다.... 중대재해처벌법 사건의 양형기준에 적극적으로 의견을 내라는 요구에 김 장관은 \"아리셀 판결에서도...",
+   "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=205108",
+   "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=205108",
+   "source": "시사온",
+   "published": "2026-10-13T18:00+09:00",
+   "cat": "law",
+   "id": "0b486cceffaf",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[국감 현장] \"코레일 '커피·빵' 미리주문 서비스에 SPC계열사만 입점…...",
+   "summary": "국회 국토교통위원회 소속 윤종군 더불어민주당 의원은 13일 한국철도공사(코레일)를 대상으로 한... 던킨도너츠, 파리바게뜨 등 입점 매장이 전부 SPC 계열 업체만 있다. 다른 업체들이 하나도 없다\"면서 \"알아보니 이...",
+   "url": "https://n.news.naver.com/mnews/article/656/0000189386?sid=100",
+   "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2306732",
+   "source": "대전일보",
+   "published": "2026-10-13T17:59+09:00",
+   "cat": "law",
+   "id": "cdf345c4cb3b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": [
+    "SPC계열"
+   ]
+  },
+  {
+   "title": "[2026 국감] 김영훈 장관 \"노란봉투법으로 '교섭 쓰나미' 없었다\"(종합)",
+   "summary": "김영훈 고용노동부 장관은 13일 \"노란봉투법(개정 노동조합법)이 만들어지면 1년 내내 교섭 쓰나미, 파업... 조사 결과 산재가 늘어난 특별연장근로 인가 사업장은 장시간 노동 산업안전보건 근로감독을 실시해야...",
+   "url": "https://www.newspim.com/news/view/20261013001259",
+   "orig": "https://www.newspim.com/news/view/20261013001259",
+   "source": "뉴스핌",
+   "published": "2026-10-13T17:54+09:00",
+   "cat": "law",
+   "id": "d579205a74c6",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "2인 1조 대책 나왔지만…홀로 작업 사망 비중 57%",
+   "summary": "위험한 일을 혼자 하다 숨진 노동자 비중이 최근 5년 전체 조사대상 산재 사망자의 절반을 넘어섰다. 국회 기후에너지환경노동위원회 김정호(더불어민주당·김해 을) 위원장이 한국산업안전보건공단에서 받은...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016855",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016855",
+   "source": "경남도민일보",
+   "published": "2026-10-13T17:52+09:00",
+   "cat": "sev",
+   "id": "75fe164ef695",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "野 김소희 \"코레일, 4조 안전 예산에도 산재 피해 114명으로 늘어\"",
+   "summary": "국민의힘 김소희 의원이 한국철도공사(코레일)의 안전 예산 증액에도 산업 재해 피해가 증가한 것을 두고... 했다\"며 \"경찰, 고용노동부 수사가 한창 중일 때였다\"고 덧붙였다. 김영훈 고용노동부 장관은 \"코레일...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000644657?sid=100",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/13/2026101390217.html",
+   "source": "TV조선",
+   "published": "2026-10-13T17:52+09:00",
+   "cat": "law",
+   "id": "18abb496ed9f",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 공공기관 이전부터 통행료까지…울산 현안 집중 제기",
+   "summary": "김 의원은 현재 울산혁신도시에 근로복지공단과 한국산업인력공단, 한국산업안전보건공단, 고용노동부 고객상담센터가 자리 잡고 있는 만큼 고용노동 분야 기관을 추가로 집적해 기관 간 정책 연계와 현장 대응력을...",
+   "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069069",
+   "orig": "https://www.iusm.co.kr/news/articleView.html?idxno=1069069",
+   "source": "울산매일",
+   "published": "2026-10-13T17:50+09:00",
+   "cat": "law",
+   "id": "e5842ae7d60d",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "노동자에 ‘납 배출 주사’…경찰, 수사 의뢰 두달 만에 임원 소환",
+   "summary": "이번 조사는 고용노동부가 사 쪽의 이런 행위가 정부의 건강보호조처를 방해한 것으로 보고 지난 8월13일... 이후 노동부는 3월23일부터 4월17일까지 안전보건감독을 통해 산업안전보건법 위반 68건을 적발해 입건·송치하고...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002827283?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/yeongnam/1282208.html",
+   "source": "한겨레",
+   "published": "2026-10-13T17:50+09:00",
+   "cat": "law",
+   "id": "9064cbdd3b2a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "DN오토모티브, ‘납 배출 주사’ 투약 의혹…노동부 국감서 진상 규명 ...",
+   "summary": "쿠키뉴스=김지현 기자 | 고용노동부 국정감사에서 자동차 배터리 제조업체 DN오토모티브가 노동자들에게 납... 안호영 더불어민주당 의원도 이번 의혹을 두고 특수건강검진의 신뢰성, 산업안전보건제도 전반을 위태롭게 할...",
+   "url": "https://www.kukinews.com/article/view/kuk202610130196",
+   "orig": "https://www.kukinews.com/article/view/kuk202610130196",
+   "source": "쿠키뉴스",
+   "published": "2026-10-13T17:38+09:00",
+   "cat": "law",
+   "id": "5ff9078c2c79",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "남부발전, 저탄장 작업자 위치 실시간 관리",
+   "summary": "임경규 한국남부발전 삼척빛드림본부장은 \"스마트 기술을 활용한 사전 예방 중심의 안전관리 체계를 마련해 안전사고 제로를 달성하겠다\"고 말했다. 저탄장 스마트 출입관리 시스템 개요도.",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=342134",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=342134",
+   "source": "국토일보",
+   "published": "2026-10-13T17:36+09:00",
+   "cat": "tech",
+   "id": "8c8709abda9c",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "'홀로 작업' 산재 사망 30년간 1만442명…'2인1조' 법제화 지지부진",
+   "summary": "이는 같은 기간 근로감독관 등이 조사한 산재 사망자 2만 4520명의 42.6%에 달한다. 최근 10년으로 범위를 좁히면 홀로 작업하다 숨진 노동자의 비율은 더 높아진다. 2015년부터 2024년까지 조사 대상 산재 사망자 6991명...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009225558?sid=102",
+   "orig": "https://www.news1.kr/local/busan-gyeongnam/6318755",
+   "source": "뉴스1",
+   "published": "2026-10-13T17:31+09:00",
+   "cat": "sev",
+   "id": "d1abb23bb43b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "로봇 100만대 들인 아마존 창고, 중상 40% 줄고 경상 77% 많았다",
+   "summary": "미 산업안전보건청(OSHA)에 따르면 미국 창고업 노동자의 부상·질병 발생률은 통상 전체 산업 평균의 두 배가 넘는다. 아마존의 물류 자동화는 2012년 로봇업체 키바시스템스를 인수하면서 본격화됐다. 초기에는 선반을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014250915?sid=103",
+   "orig": "https://www.newsis.com/view/NISX20261013_0003824469",
+   "source": "뉴시스",
+   "published": "2026-10-13T17:31+09:00",
+   "cat": "acc",
+   "id": "26f7f19e3d36",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "\"날짜 정해 주사 맞으라 재촉\"…DN오토모티브 노동자 증언",
+   "summary": "관련해 고용노동부는 회사를 업무방해 혐의로 경찰에 수사 의뢰했다. 2021년 입사해 배터리 극판을 쌓는... 노동부는 지난 3∼4월 사업장 정밀 감독을 벌여 산업안전보건법 위반 68건을 적발해 입건·송치하고, 검진 전 주사...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374396?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261013164300057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-13T17:28+09:00",
+   "cat": "law",
+   "id": "e8d160797d8a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 김소희 \"산업재해 1위 코레일, 사고 책임까지 하청업체에 전...",
+   "summary": "아울러 청도 열차사고와 관련한 원청 경영책임자 중대재해처벌법 수사 결과를 국회에 보고하고, 중대재해처벌법 시행 이후 공공기관 사망사고에 대한 경영책임자 처분 현황을 제출할 것을 촉구했다.",
+   "url": "https://www.newspim.com/news/view/20261013001209",
+   "orig": "https://www.newspim.com/news/view/20261013001209",
+   "source": "뉴스핌",
+   "published": "2026-10-13T17:24+09:00",
+   "cat": "law",
+   "id": "a51e1e4d7c37",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "반도체·자동차 공장에 휴머노이드 투입...제조현장 AI 실증 본격화",
+   "summary": "현행 '산업안전보건기준에 관한 규칙'은 고정형 산업용 로봇을 전제로 안전펜스 설치 등을 요구한다. 사람과 공간을 공유하며 자유롭게 움직이는 휴머노이드에는 적용하기 어려운 규정이다. 정부는 고용노동부의 위험성...",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727670",
+   "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1727670",
+   "source": "EBN",
+   "published": "2026-10-13T17:24+09:00",
+   "cat": "law",
+   "id": "1a825ac1c502",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "에스유하이테크, 품질·환경·안전보건 등 ISO 3종 인증 획득",
+   "summary": "에스유하이테크(대표 임태규)가 ISO 9001(품질경영시스템), ISO 14001(환경경영시스템), ISO 45001(안전보건경영시스템) 등 국제표준 경영시스템 인증 3종을 획득했다고 13일 밝혔다. 에스유하이테크는 건물 기계설비...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005425759?sid=101",
+   "orig": "https://www.mt.co.kr/industry/2026/10/13/2026101315350710518",
+   "source": "머니투데이",
+   "published": "2026-10-13T17:23+09:00",
+   "cat": "tech",
+   "id": "87c382281f78",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "이훈기 의원 \"삼성전자 피폭 수사 2년 5개월째⋯검찰 보완수사만 세 차...",
+   "summary": "확인과 법 위반 증거 보강 등을 요구했다. 노동부가 의뢰한 대한의사협회 의료감정에서는 피해가 '질병'이 아닌 '부상'이라는 판단이 나왔으나 산업안전보건법 위반 수사가 끝나지 않아 중대재해처벌법 위반 여부도...",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=263480",
+   "orig": "http://www.finomy.com/news/articleView.html?idxno=263480",
+   "source": "finomy.com",
+   "published": "2026-10-13T17:22+09:00",
+   "cat": "law",
+   "id": "ea68a39495b2",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "민주노총, 납축전지 공장 '납 배출 약물 복용 의혹' 규명 촉구",
    "summary": "광주지방고용노동청은 지난달 광산구 소재 납축전지 제조업체 2곳을 대상으로 진행한 산업안전보건 기획 감독 과정에서 관련 정황을 포착했다. 당시 근로자 면담 중 \"체내 납 배출을 촉진하는 경구용 약을 복용한 적이...",
@@ -106,7 +342,20 @@
    "published": "2026-10-13T17:06+09:00",
    "cat": "tech",
    "id": "20710b0d9126",
-   "related": [],
+   "related": [
+    {
+     "source": "e-platform.net",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=106086",
+     "orig": "http://www.e-platform.net/news/articleView.html?idxno=106086",
+     "title": "남부발전, 저탄장 스마트 출입관리 시스템 구축…'안전사고 ZERO화' 앞장"
+    },
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001402329?sid=101",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026101318163173608",
+     "title": "남부발전, ‘저탄장 스마트 출입관리 시스템’ 구축…‘안전사고 0’ 도..."
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -291,7 +540,14 @@
    "published": "2026-10-13T16:28+09:00",
    "cat": "sev",
    "id": "3ea10fa7ab7a",
-   "related": [],
+   "related": [
+    {
+     "source": "프레시안",
+     "url": "https://n.news.naver.com/mnews/article/002/0002460756?sid=102",
+     "orig": "https://www.pressian.com/pages/articles/2026101317140022408?utm_source=naver&utm_medium=search",
+     "title": "중대재해 사망사고 내부자료 노무사에 유출 의혹…노동부 특사경 입건"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -402,7 +658,14 @@
    "published": "2026-10-13T16:05+09:00",
    "cat": "law",
    "id": "64b2b061b741",
-   "related": [],
+   "related": [
+    {
+     "source": "jeollailbo.com",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813535",
+     "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=813535",
+     "title": "노무사에 미공개정보 유출...노동부 특사경 조사"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -785,7 +1048,14 @@
    "published": "2026-10-13T14:48+09:00",
    "cat": "law",
    "id": "4ede843b40cc",
-   "related": [],
+   "related": [
+    {
+     "source": "kyosu.net",
+     "url": "https://www.kyosu.net/news/articleView.html?idxno=211198",
+     "orig": "https://www.kyosu.net/news/articleView.html?idxno=211198",
+     "title": "인천대, AI 건설안전보건 연구센터 출범…삼성과 웨어러블 열스트레스 ..."
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -1254,7 +1524,14 @@
    "published": "2026-10-13T12:28+09:00",
    "cat": "law",
    "id": "949c7d4afb64",
-   "related": [],
+   "related": [
+    {
+     "source": "worklaw.co.kr",
+     "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39629",
+     "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39629",
+     "title": "[2026 국감] 노동부 장관 “메가특구 주52시간 예외 신중해야…정년 연..."
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -1500,6 +1777,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2005355",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2005355",
      "title": "경주시, 근로자 산업안전 골든벨 개최…180여명 참여"
+    },
+    {
+     "source": "프라임경제",
+     "url": "http://www.newsprime.co.kr/news/article.html?no=750813",
+     "orig": "http://www.newsprime.co.kr/news/article.html?no=750813",
+     "title": "경주시, 산업안전 골든벨로 근로자 안전의식 높여"
     }
    ],
    "day": "2026-10-13",
@@ -1669,7 +1952,14 @@
    "published": "2026-10-13T10:42+09:00",
    "cat": "law",
    "id": "7c0f456aecdd",
-   "related": [],
+   "related": [
+    {
+     "source": "seoulfn.com",
+     "url": "https://www.seoulfn.com/news/articleView.html?idxno=639975",
+     "orig": "https://www.seoulfn.com/news/articleView.html?idxno=639975",
+     "title": "[국감] DN오토모티브 '납 배출 주사' 의혹 도마…조사 확대 요구"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
