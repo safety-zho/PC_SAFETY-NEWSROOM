@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T09:28+09:00",
+ "updatedAt": "2026-10-13T10:20+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,24 @@
    "count": 2
   },
   {
+   "id": "152690268cbd",
+   "title": "건설업계, 기술·인재·상생에 투자…현장 경쟁력 높인다",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=103308",
+   "source": "dailypop.kr",
+   "cat": "tech",
+   "day": "2026-10-13",
+   "count": 1
+  },
+  {
+   "id": "94f66e9ec5d3",
+   "title": "위험성평가 인정사업장 10곳 중 1곳서 산재",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
+   "source": "안전신문",
+   "cat": "hlt",
+   "day": "2026-10-13",
+   "count": 1
+  },
+  {
    "id": "96ec4c4d8fcc",
    "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
    "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
@@ -41,27 +59,48 @@
    "cat": "sev",
    "day": "2026-10-13",
    "count": 1
-  },
-  {
-   "id": "334cbd238f27",
-   "title": "“중금속·화학물질 노출 점검”…전남광주시, 산단 인근 주민 건강모니...",
-   "url": "https://n.news.naver.com/mnews/article/081/0003688328?sid=102",
-   "source": "서울신문",
-   "cat": "hlt",
-   "day": "2026-10-13",
-   "count": 1
-  },
-  {
-   "id": "fafeb6c7b64b",
-   "title": "[포커스] \"거제서 레바논까지\"… '갈증 소방수' 동아오츠카 올여름 내내...",
-   "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815560",
-   "source": "startuptoday.co.kr",
-   "cat": "tech",
-   "day": "2026-10-13",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "되고시스템, 안전보건 관리 SaaS CSAP 획득",
+   "summary": "중대재해처벌법상 공공기관의 경영책임자는 기관장이다. 기관장은 안전보건관리체계를 구축해 이행하고 이를 반기마다 점검해야 하며, 사고가 발생할 경우 관련 의무를 수행했다는 점을 입증해야 한다. 되고세이퍼...",
+   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
+   "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=210653",
+   "source": "thefirstmedia.net",
+   "published": "2026-10-13T10:16+09:00",
+   "cat": "law",
+   "id": "ce81c9e0be73",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "건설업계, 기술·인재·상생에 투자…현장 경쟁력 높인다",
+   "summary": "안전관리 측면에서는 산업안전보건관리비 선지급과 고위험 공종의 안전관리 전담자 배치 비용 지원을 시행하고 있다. 2021년부터는 공정경쟁낙찰제를 도입해 협력사의 적정 이윤 확보와 경영 안정도 지원하고 있다....",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=103308",
+   "orig": "http://www.dailypop.kr/news/articleView.html?idxno=103308",
+   "source": "dailypop.kr",
+   "published": "2026-10-13T09:40+09:00",
+   "cat": "tech",
+   "id": "152690268cbd",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "위험성평가 인정사업장 10곳 중 1곳서 산재",
+   "summary": "올해 상반기에도 4개 사업장에서 사망사고가 발생했다. 이와관련해 노동부에 따르면 지난해 1월 위험성평가 인정기준과 사후관리를 강화한 이후 새롭게 인정받은 사업장에서는 중대재해가 발생하지 않았다....",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250975",
+   "source": "안전신문",
+   "published": "2026-10-13T09:34+09:00",
+   "cat": "hlt",
+   "id": "94f66e9ec5d3",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
    "summary": "국회 기후에너지환경노동위원회 소속 국민의힘 김위상 의원이 고용노동부로부터 제출받은 자료에 따르면, 2026년 상반기 건설업 산재 사망자는 사고 사망 138명과 질병 사망 105명 등 총 243명이다. 사고...",
@@ -188,6 +227,19 @@
    "published": "2026-10-13T08:13+09:00",
    "cat": "tech",
    "id": "7ab43c99401e",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "서초구, 건축공사장 관계자 특별안전교육…산업재해 예방 강화",
+   "summary": "강의는 이성청 안전보건공단 서울광역본부 건설안전팀장이 맡는다. 주요 교육 내용은 △건설현장 안전보건 관리체계 구축 △위험성평가의 이해와 개선 방향 △작업계획서 작성·검토 △작업 전 안전점검(TBM) 및 자율...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479391",
+   "source": "이뉴스투데이",
+   "published": "2026-10-13T08:10+09:00",
+   "cat": "tech",
+   "id": "cc9b48b2f4c3",
    "related": [],
    "day": "2026-10-13",
    "watch": []
@@ -781,6 +833,12 @@
      "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53580",
      "orig": "https://www.koreareport.co.kr/news/articleView.html?idxno=53580",
      "title": "GS건설, 협력사 80여 곳과 상생 행사…현장 로봇 활용 논의"
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=20261013094819926467191f6c6e_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=20261013094819926467191f6c6e_12",
+     "title": "GS건설, 협력사 대표 80명과 상생 논의…“피지컬 AI로 현장 바꾼다”"
     }
    ],
    "day": "2026-10-12",
@@ -1254,7 +1312,14 @@
    "published": "2026-10-12T16:14+09:00",
    "cat": "tech",
    "id": "c35cd9fc2634",
-   "related": [],
+   "related": [
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914253",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914253",
+     "title": "한국기술교육대 앵커사업단 '5개 지산학연협의회', '현장 맞춤형 산학협..."
+    }
+   ],
    "day": "2026-10-12",
    "watch": []
   },
@@ -1411,6 +1476,12 @@
      "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883328",
      "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=883328",
      "title": "\"협력사와 건설산업 미래 함께한다\"... GS건설, 그랑 파트너스 피에스타..."
+    },
+    {
+     "source": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=722519",
+     "orig": "https://www.newstnt.com/news/articleView.html?idxno=722519",
+     "title": "GS건설, 협력사와 '그랑 파트너스 피에스타' 개최…Physical AI·동반성장..."
     }
    ],
    "day": "2026-10-12",
@@ -1482,6 +1553,12 @@
      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321973",
      "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=321973",
      "title": "GS건설, 협력사 80여곳과 상생 행사…피지컬 AI 현장 적용 논의"
+    },
+    {
+     "source": "FETV",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311632",
+     "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=311632",
+     "title": "GS건설, 협력사 80곳과 '피지컬 AI' 현장 혁신 논의"
     }
    ],
    "day": "2026-10-12",
