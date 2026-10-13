@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-13T08:22+09:00",
+ "updatedAt": "2026-10-13T09:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,34 +34,151 @@
    "count": 2
   },
   {
-   "id": "7ab43c99401e",
-   "title": "서초구, 건설현장 추락사고 예방 교육…“안전관리 강화”",
-   "url": "https://n.news.naver.com/mnews/article/018/0006386851?sid=101",
-   "source": "이데일리",
-   "cat": "tech",
-   "day": "2026-10-13",
-   "count": 1
-  },
-  {
-   "id": "7139cdf8b67a",
-   "title": "옹벽 작업하던 노동자 16m 아래로 추락해 사망",
-   "url": "https://news.knn.co.kr/news/article/193100",
-   "source": "knn.co.kr",
+   "id": "96ec4c4d8fcc",
+   "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
+   "source": "포인트데일리",
    "cat": "sev",
    "day": "2026-10-13",
    "count": 1
   },
   {
-   "id": "c3f3f59c138f",
-   "title": "[상당인관관계 규범적 판단을 ①] 직업병의 신속·공정한 판단 막는 인...",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237175",
-   "source": "매일노동뉴스",
+   "id": "334cbd238f27",
+   "title": "“중금속·화학물질 노출 점검”…전남광주시, 산단 인근 주민 건강모니...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003688328?sid=102",
+   "source": "서울신문",
    "cat": "hlt",
+   "day": "2026-10-13",
+   "count": 1
+  },
+  {
+   "id": "fafeb6c7b64b",
+   "title": "[포커스] \"거제서 레바논까지\"… '갈증 소방수' 동아오츠카 올여름 내내...",
+   "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815560",
+   "source": "startuptoday.co.kr",
+   "cat": "tech",
    "day": "2026-10-13",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[2026 국감] 건설업 상반기 산재 사망 243명…추락·끼임·부딪힘에 95명...",
+   "summary": "국회 기후에너지환경노동위원회 소속 국민의힘 김위상 의원이 고용노동부로부터 제출받은 자료에 따르면, 2026년 상반기 건설업 산재 사망자는 사고 사망 138명과 질병 사망 105명 등 총 243명이다. 사고...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322034",
+   "source": "포인트데일리",
+   "published": "2026-10-13T09:24+09:00",
+   "cat": "sev",
+   "id": "96ec4c4d8fcc",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "외국인고용사업장 5만9669개소ⵈ 3년 만에 16.9% 늘었는데 노동부 정기 ...",
+   "summary": "고용노동부장관은 외국인근로자의 적절한 고용관리 등을 위해 매년 1회 이상 외국인고용사업장에 대한 지도·점검계획을 수립해야 한다. 해당 계획에 따라 선정된 사업장의 근로조건, 산업안전보건조치 이행실태...",
+   "url": "http://www.intn.co.kr/news/articleView.html?idxno=2053978",
+   "orig": "http://www.intn.co.kr/news/articleView.html?idxno=2053978",
+   "source": "intn.co.kr",
+   "published": "2026-10-13T09:22+09:00",
+   "cat": "law",
+   "id": "22429042e2e1",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "경기도, 상반기 건설 산재 사망 58명 전국 최다…서울의 2배 넘어",
+   "summary": "올해 상반기 건설업 산재 사망자가 가장 많이 나온 지역은 경기도인 것으로 확인됐다. 경기도 지역 사망자는 58명으로, 서울(25명)의 2배를 넘었다. 국회 기후에너지환경노동위원회 소속 국민의힘 김위상...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000127108?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261013580040",
+   "source": "kyeonggi.com",
+   "published": "2026-10-13T09:10+09:00",
+   "cat": "sev",
+   "id": "4882ae3abe0a",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 수주랠리 뒤 산재 사망 늘었다…조선업 지난해 62명 '최근 5...",
+   "summary": "지난해 산재 사망자는 62명으로 최근 5년 가운데 가장 많았고, 올해도 상반기에만 43명이 숨졌다. 산업재해를 당한 노동자 역시 매년 3000명을 웃돌고 있다. 특히 최근 5년여간 발생한 산재 사망자 가운데 약 78%가...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=135724",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=135724",
+   "source": "popcornnews.net",
+   "published": "2026-10-13T09:00+09:00",
+   "cat": "sev",
+   "id": "8c1686b02875",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "“중금속·화학물질 노출 점검”…전남광주시, 산단 인근 주민 건강모니...",
+   "summary": "전남광주시는 광주환경보건센터와 함께 광산구 하남동과 수완동 일대 주민을 대상으로 ‘산업단지 인근 주민 건강모니터링’을 추진, 오는 15일까지 참여 주민 100명을 모집한다고 13일 밝혔다. 이 사업은 산업단지 인근...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003688328?sid=102",
+   "orig": "https://www.seoul.co.kr/news/society/2026/10/13/20261013500024?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-13T08:57+09:00",
+   "cat": "hlt",
+   "id": "334cbd238f27",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "삼성전자 연구원 사망 산재 인정…과로 대책 도마에",
+   "summary": "뇌졸중으로 사망했다. A씨는 건강검진에서 뇌심혈관 질환 위험도가 동년배 남성 평균보다 낮다는 평가를... 노동을 거듭하다가 입사 1년 만에 스스로 목숨을 끊어 유족이 지난 5월 산재를 신청하고 심사가 진행 중이다.",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618163",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618163",
+   "source": "mdtoday.co.kr",
+   "published": "2026-10-13T08:54+09:00",
+   "cat": "sev",
+   "id": "34cedd174a72",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 노란봉투법 시행 7개월…원청 교섭범위·후속조치 시험대",
+   "summary": "한국산업안전보건공단 등 산하기관은 23일 감사를 받는다. 노동부와 경사노위 종합감사는 27일 예정돼 있다. 가장 큰 쟁점은 노란봉투법 시행 이후 현장 변화다. 개정 노조법은 원청이 하청 노동자의 근로조건을...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003142007?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1700658/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-13T08:52+09:00",
+   "cat": "law",
+   "id": "a22c729705cc",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "외국인 고용사업장 17% 늘 때 정기 점검은 3% 증가 그쳐",
+   "summary": "외국인 노동자를 고용한 사업장이 3년 새 17% 가까이 늘었지만, 고용노동부의 정기 지도·점검을 받은... 외국인 고용사업장에 대한 정기 지도·점검은 사업장의 근로조건과 산업안전보건조치 이행실태, 관계 법령 준수...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002708398?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10900376?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-13T08:28+09:00",
+   "cat": "law",
+   "id": "5cb237e39ce6",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[포커스] \"거제서 레바논까지\"… '갈증 소방수' 동아오츠카 올여름 내내...",
+   "summary": "고용노동부·안전보건공단 등과 손잡고 건설현장과 농촌, 군부대를 돌며 음료를 나누고 온열질환 예방법도 함께 알린다. 박철호 동아오츠카 대표이사 사장은 \"앞으로도 지역사회와의 협력을 통해 실질적인 도움이 되는...",
+   "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815560",
+   "orig": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815560",
+   "source": "startuptoday.co.kr",
+   "published": "2026-10-13T08:28+09:00",
+   "cat": "tech",
+   "id": "fafeb6c7b64b",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
   {
    "title": "서초구, 건설현장 추락사고 예방 교육…“안전관리 강화”",
    "summary": "사진=서초구 오는 14일 서초문화예술회관 아트홀에서 진행되는 이번 교육은 건설현장 산업재해 예방을 위해 건축주와 감리자, 시공업체 등 공사 관계자의 안전관리 역량을 높이기 위해 마련됐다. 이성청 안전보건공단...",
@@ -566,6 +683,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123133",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=123133",
      "title": "DN오토모티브, 납 수치 은폐 의혹에 사과…\"조사 협조\""
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012272413?sid=101",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8684038&ref=A",
+     "title": "DN오토모티브, 납 수치 은폐 의혹에 사과…“조사 적극 협조”"
     }
    ],
    "day": "2026-10-12",
@@ -1282,6 +1405,12 @@
      "url": "http://www.popcornnews.net/news/articleView.html?idxno=135690",
      "orig": "http://www.popcornnews.net/news/articleView.html?idxno=135690",
      "title": "GS건설, 80곳 협력사와 상생 논의...'그랑파트너스피에스타' 개최"
+    },
+    {
+     "source": "getnews.co.kr",
+     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=883328",
+     "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=883328",
+     "title": "\"협력사와 건설산업 미래 함께한다\"... GS건설, 그랑 파트너스 피에스타..."
     }
    ],
    "day": "2026-10-12",
@@ -2603,6 +2732,12 @@
      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246430",
      "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246430",
      "title": "인천환경공단 이사장 '중처법 위반' 혐의로 송치"
+    },
+    {
+     "source": "lghellovision.net",
+     "url": "http://news.lghellovision.net/news/articleView.html?idxno=557976",
+     "orig": "http://news.lghellovision.net/news/articleView.html?idxno=557976",
+     "title": "인천환경공단 이사장 중대재해법 위반 송치"
     }
    ],
    "day": "2026-10-12",
