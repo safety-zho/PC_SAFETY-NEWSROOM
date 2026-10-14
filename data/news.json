@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T13:31+09:00",
+ "updatedAt": "2026-10-14T14:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "충청일보",
    "cat": "law",
    "day": "2026-10-14",
-   "count": 4
+   "count": 5
   },
   {
    "id": "a6ec78c9bf21",
@@ -43,25 +43,132 @@
    "count": 3
   },
   {
-   "id": "971b2ca75cd6",
-   "title": "울산 화학공장 화재로 연기·불꽃 치솟아…인근 근로자 수천명 대피",
-   "url": "https://n.news.naver.com/mnews/article/021/0002824997?sid=102",
-   "source": "문화일보",
-   "cat": "acc",
+   "id": "3cf41b963e58",
+   "title": "리스크제로, ‘춘천~속초 철도건설’ 스마트 안전관리시스템 구축 사업...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003053061?sid=105",
+   "source": "디지털타임스",
+   "cat": "tech",
    "day": "2026-10-14",
    "count": 2
   },
   {
-   "id": "cce918ffe7f9",
-   "title": "해양교통안전공단, 안전공공기관 감사협의회 개최",
-   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304129",
-   "source": "투데이에너지",
+   "id": "6413406f34f9",
+   "title": "경남도, ‘2026년 경남도 산업재해 예방 우수기업 인증 사업’ 접수",
+   "url": "https://www.viva100.com/article/20261014500654",
+   "source": "브릿지경제",
+   "cat": "tech",
+   "day": "2026-10-14",
+   "count": 2
+  },
+  {
+   "id": "9f9dcb700a8e",
+   "title": "경북교육청, 교육시설 공사현장 22곳 점검…부실시공·안전사고 예방",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610140922018970477",
+   "source": "대한경제",
    "cat": "tech",
    "day": "2026-10-14",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "울산 온산공단 화학공장서 큰불…작업자 7천 명 대피, 인명피해 없어",
+   "summary": "화재 당시 공장 안에 있던 근로자 16명은 모두 대피해 다치지 않은 것으로 전해졌습니다. 검은 연기와 화학물질 냄새가 주변으로 확산하면서 인근 에쓰오일 샤힌 프로젝트 패키지 1 건설현장에서도 작업이 중단됐습니다....",
+   "url": "https://news.knn.co.kr/news/article_sns/1824",
+   "orig": "https://news.knn.co.kr/news/article_sns/1824",
+   "source": "knn.co.kr",
+   "published": "2026-10-14T14:26+09:00",
+   "cat": "hlt",
+   "id": "d5c7c195e990",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 화학물질 공장 화재 4시간 만에 진화… 인명 피해 없어",
+   "summary": "불이 나면서 공장 직원 13명을 비롯해 인근 에쓰오일(S-Oil)의 대규모 석유화학시설 ‘샤힌 프로젝트’ 건설 현장 근로자 7000여명이 모두 대피했다. 이번 화재는 인화성 물질을 출하하기 위해 저장 탱크에서 200리터(L)...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001197905?sid=102",
+   "orig": "https://biz.chosun.com/topics/topics_social/2026/10/14/6CVCBKF6N5E2XPDRXHWDFE74YA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-14T14:24+09:00",
+   "cat": "acc",
+   "id": "59370b061400",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "종로구, 한국재난안전기술원·법무법인 B&H와 중대재해 예방 협력",
+   "summary": "이번 협약은 안전보건 관련 규정과 업무 절차가 현장에서 제대로 이행되고 있는지 확인하고, 위험요인... 진단 대상은 중대산업재해와 중대시민재해 분야로 나뉜다. 산업재해 분야에서는 도로 유지관리와 환경미화...",
+   "url": "https://idsn.co.kr/news/view/1065589949887435",
+   "orig": "https://idsn.co.kr/news/view/1065589949887435",
+   "source": "idsn.co.kr",
+   "published": "2026-10-14T14:18+09:00",
+   "cat": "tech",
+   "id": "0034a64d08b6",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "한국자격증협회, 안전관리자 자격 과정 개설...수강료 전액 지원",
+   "summary": "교육은 작업환경 측정과 위험성 평가, 산업보건, 안전보호구 점검, 화학물질 취급, 밀폐공간 작업, 화재·피난 훈련, 근골격계 질환 예방, 중대재해 대응, 응급조치 등 10개 분야로 구성된다. 강의와 시험은 모두 온라인으로...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=322189",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=322189",
+   "source": "더퍼블릭",
+   "published": "2026-10-14T13:52+09:00",
+   "cat": "hlt",
+   "id": "e384c296c22e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "시커먼 연기에 폭발음 '쾅쾅'…울산 화학업체서 큰불",
+   "summary": "울산의 한 화학제품 제조공장에서 발생한 대형 화재로 폭발음이 잇따르고 검은 연기가 공단 일대를 뒤덮으면서 인근 근로자 수천 명이 긴급 대피했다. 14일 소방청에 따르면 이날 오전 9시 41분께 울산 울주군 온산읍에...",
+   "url": "https://n.news.naver.com/mnews/article/215/0001269130?sid=102",
+   "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610140098&t=NN",
+   "source": "한국경제TV",
+   "published": "2026-10-14T13:45+09:00",
+   "cat": "acc",
+   "id": "a97e98c0b978",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[진주소식]국토안전관리원, 농가주부연합회와 협약 등",
+   "summary": "이번 협약은 무림페이퍼(주)가 주최하는 종이비행기 날리기 대회와 연계해 안전문화를 확산의 계기로 활용하고, 산업안전의 중요성을 알리기 위한 목적에서 체결됐다. 협약을 통해 고용노동부 진주지청은 안전보건...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014252743?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261014_0003825572",
+   "source": "뉴시스",
+   "published": "2026-10-14T13:35+09:00",
+   "cat": "law",
+   "id": "ed899ea4f473",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "리스크제로, ‘춘천~속초 철도건설’ 스마트 안전관리시스템 구축 사업...",
+   "summary": "리스크제로는 AI 사고예측·예방 스마트 안전관리 솔루션 전문기업으로, 산업안전보건법 및 중대재해처벌법 대응을 위한 ‘리스크제로 3.0’, ‘제로가드(ZeroGuard)’, ‘제로메이트(Zeromate AI)’ 등을 개발·운영하고...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003053061?sid=105",
+   "orig": "https://www.dt.co.kr/article/12089046?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-10-14T13:34+09:00",
+   "cat": "tech",
+   "id": "3cf41b963e58",
+   "related": [
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004166577?sid=101",
+     "orig": "https://www.segye.com/newsView/20261014513937?OutUrl=naver",
+     "title": "리스크제로, 춘천~속초 철도건설 6개 공구 스마트안전관리 구축용역 수..."
+    }
+   ],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "강원 학교급식실 환기시설 공사 '부실' 지적···\"원인 규명 해야\"",
    "summary": "한국산업안전보건공단이 300건의 계약을 분석한 결과, 87%(262건)가 수의계약으로 맺어졌으며 특정 업체가 공사 금액의 80%를 독식한 것으로 드러나 특혜 논란이 일었다. 무엇보다 전체 공사 중 설계도면이 없는 경우가 34....",
@@ -214,7 +321,14 @@
    "published": "2026-10-14T12:08+09:00",
    "cat": "tech",
    "id": "6413406f34f9",
-   "related": [],
+   "related": [
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004198675?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6591329?utm_source=naver&utm_medium=article&utm_campaign=20261014015047",
+     "title": "경남도, '산업재해 예방 우수기업' 인센티브 지원"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -279,7 +393,14 @@
    "published": "2026-10-14T11:42+09:00",
    "cat": "tech",
    "id": "9f9dcb700a8e",
-   "related": [],
+   "related": [
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=724806",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=724806",
+     "title": "경북교육청, 교육시설 공사현장 22곳 점검…부실시공·안전사고 예방"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -331,7 +452,14 @@
    "published": "2026-10-14T11:34+09:00",
    "cat": "acc",
    "id": "dc6c5e7f316c",
-   "related": [],
+   "related": [
+    {
+     "source": "globale.co.kr",
+     "url": "https://www.globale.co.kr/news/articleView.html?idxno=41036",
+     "orig": "https://www.globale.co.kr/news/articleView.html?idxno=41036",
+     "title": "울산 온산 화학공장 '톨루엔 폭발' 화재, 근로자 7,000여명 대피"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -577,6 +705,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014252586?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261014_0003825553",
      "title": "노동부 천안지청, '산재예방대책' 레드존+ 천안·아산까지 확대"
+    },
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104634",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1104634",
+     "title": "중대재해 잇따르자 노동부 '레드존+' 천안·아산까지 확대…산업현장 집..."
     }
    ],
    "day": "2026-10-14",
