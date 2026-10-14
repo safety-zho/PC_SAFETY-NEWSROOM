@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T09:36+09:00",
+ "updatedAt": "2026-10-14T10:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "a6ec78c9bf21",
+   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-14",
+   "count": 3
+  },
+  {
    "id": "cce918ffe7f9",
    "title": "해양교통안전공단, 안전공공기관 감사협의회 개최",
    "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304129",
@@ -34,19 +43,10 @@
    "count": 2
   },
   {
-   "id": "a6ec78c9bf21",
-   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
-   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-14",
-   "count": 2
-  },
-  {
-   "id": "a659cb43c9aa",
-   "title": "[2026국감] 산재 여부 기다리다 유족연금 절반만…5년 넘게 기다린 경우...",
-   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313098",
-   "source": "스트레이트뉴스",
+   "id": "47cc999aa405",
+   "title": "올해 철도 건설현장서 4명 숨져… \"스마트 안전장비 도입해야\"",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251003",
+   "source": "안전신문",
    "cat": "sev",
    "day": "2026-10-14",
    "count": 1
@@ -71,6 +71,123 @@
   }
  ],
  "articles": [
+  {
+   "title": "노동부 천안지청 '레드존(Redzone+)' 천안·아산까지 확대해 중대재해 예...",
+   "summary": "고용노동부 천안지청은 14일 최근 관내 중대재해가 잇따라 발생함에 따라 기존 당진지역을 중심으로 추진해... 대전지방고용노동청과 관할 지청 전체가 참여하는 광역 단위의 합동점검을 추진하고 한국산업안전보건공단과...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2446181",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2446181",
+   "source": "충청일보",
+   "published": "2026-10-14T10:22+09:00",
+   "cat": "law",
+   "id": "2033a0783325",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "올해 철도 건설현장서 4명 숨져… \"스마트 안전장비 도입해야\"",
+   "summary": "철도공단이 발주한 현장서 발생한 올해 노동자 사망사고는 추락과 끼임이 각각 2건이었다. 지난 1월 신분당선 광교-호매실 공사현장과 7월 평택-오송 2복선화 용와터널서 끼임 사고로 노동자가 숨진 것. 올 2월...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251003",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251003",
+   "source": "안전신문",
+   "published": "2026-10-14T10:18+09:00",
+   "cat": "sev",
+   "id": "47cc999aa405",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "용정순 도의원, 학교급식실 환기시설 개선공사 부실 질타...공사 완료학...",
+   "summary": "아울러 지난 2025년 한국산업안전보건공단이 개선공사 완료학교를 대상으로 실시한 표본점검 결과 강원지역 18개교 가운데 13개교가 부적정 판정을 받아 부적정 비율이 72.2%에 달했으며 전국은 점검학교 301개교 중...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92342",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92342",
+   "source": "eroun.net",
+   "published": "2026-10-14T10:18+09:00",
+   "cat": "tech",
+   "id": "c9b8a291f6dc",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "\"신장 하나뿐인 직원도 맞았다\"…'비타민 주사' 추가 증언",
+   "summary": "고용노동부는 지난 3~4월 정밀 감독에서 산업안전보건법 위반 사항 68건을 적발해 입건·송치하고 과태료 4620만원을 부과했다. 이재명 대통령도 지난 12일 이번 사건을 “용납할 수 없는 중대한 인권 침해”라며 엄중한...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006387622?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03030726645612920&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-14T10:05+09:00",
+   "cat": "law",
+   "id": "84443c7a8caa",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[시선집중] 산업보건전문가 \"DN 다녀온 뒤 바지에 구멍이...안전관리 담...",
+   "summary": "☏ 이정화 > 사측과 그리고 병원에서 이 산업안전보건법 업무를 방해한 거죠. 고용노동부의 업무를 방해했다. ☏ 진행자 > 아, 고용노동부의 업무를 방해했다? ☏ 이정화 > 네. ☏ 진행자 > 그래서 회사와 병원을 고발...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001528948?sid=100",
+   "orig": "https://n.news.naver.com/mnews/article/214/0001528948?sid=100",
+   "source": "n.news.naver.com",
+   "published": "2026-10-14T10:02+09:00",
+   "cat": "law",
+   "id": "d79a1dcaff45",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "불길 속 진입로 찾는 가상모형 도마큰시장 안전관리의 진화",
+   "summary": "디지털트윈 기술을 도입해 초기 대응을 돕는 사업이 추진된다. 대전서부소방서는 14일 대강당에서 동반성장위원회와 '도마큰시장 디지털트윈 기반 스마트 안전·활성화 플랫폼 구축사업' 상생협약을 체결한다. 공모...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2446131",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2446131",
+   "source": "충청일보",
+   "published": "2026-10-14T10:02+09:00",
+   "cat": "tech",
+   "id": "27d201936a20",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "“의료용 대마 상용화, 안전관리부터”…‘국가 원료관리센터’ 설치 촉...",
+   "summary": "(원료·제품 안전성) △관리(제조시설 반입량) 등 4개 분야로, 원료 생산·반입 이력 추적과 재고 관리, 품질기준 준수 여부를 국가가 감독해야 한다는 취지다. 이 의원은 “대마 성분의 희귀·난치성 질환 치료제인...",
+   "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68664",
+   "orig": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68664",
+   "source": "akomnews.com",
+   "published": "2026-10-14T09:50+09:00",
+   "cat": "law",
+   "id": "cc83d6d43503",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[시선집중] “‘DN에서 왔다’ 하면 바로 주사실로...병원선 ‘피부 미...",
+   "summary": "제가 입사한 이후에는 계속 진행해 왔었고 우리가 문제 제기를 하고 산업안전보건본부장님 오셔서 회담 때... 그랬더니 고용노동부에서는 이 비용을 회사가 지급하기 때문에 이 부분은 회사가 하자는 대로 할 수밖에...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001528942?sid=100",
+   "orig": "https://n.news.naver.com/mnews/article/214/0001528942?sid=100",
+   "source": "n.news.naver.com",
+   "published": "2026-10-14T09:45+09:00",
+   "cat": "law",
+   "id": "e5f7a1aec1f4",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "예산군, 계절근로자 정착 돕고 산림경영 기반 넓힌다",
+   "summary": "예산군이 농촌 인력의 한 축을 담당하는 외국인 계절근로자의 안정적인 정착을 지원하고, 산림경영과 산불... 내용은 출입국 관련 사항과 기초 법질서, 근로계약·임금 등 근로관계, 국내 생활문화, 안전수칙 등...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329661",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329661",
+   "source": "aflnews.co.kr",
+   "published": "2026-10-14T09:40+09:00",
+   "cat": "tech",
+   "id": "e93bc415a83f",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "[2026국감] 산재 여부 기다리다 유족연금 절반만…5년 넘게 기다린 경우...",
    "summary": "의원실] 산업재해 등 재해보상금을 받을 가능성이 있다는 이유로 국민연금 유족연금이나 장애연금을 절반만 지급받다가 나머지 절반을 받기까지 최장 5년 넘게 걸린 사례가 있었던 것으로 나타났다. 14일 국회 보건복...",
@@ -262,6 +379,12 @@
      "url": "https://n.news.naver.com/mnews/article/277/0005828160?sid=105",
      "orig": "https://view.asiae.co.kr/article/2026101409045758968",
      "title": "[2026국감]국가공무원 공채 4명 중 1명은 과학기술직…6년 새 비중 최고"
+    },
+    {
+     "source": "tjb.co.kr",
+     "url": "https://www.tjb.co.kr/news05/bodo/view/id/104777",
+     "orig": "https://www.tjb.co.kr/news05/bodo/view/id/104777",
+     "title": "AI 시대 공무원도 달라졌다…국가공무원 4명 중 1명은 과학기술직"
     }
    ],
    "day": "2026-10-14",
