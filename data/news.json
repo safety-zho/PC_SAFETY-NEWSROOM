@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T10:30+09:00",
+ "updatedAt": "2026-10-14T11:26+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 3
   },
   {
+   "id": "2033a0783325",
+   "title": "노동부 천안지청 '레드존(Redzone+)' 천안·아산까지 확대해 중대재해 예...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2446181",
+   "source": "충청일보",
+   "cat": "law",
+   "day": "2026-10-14",
+   "count": 2
+  },
+  {
    "id": "cce918ffe7f9",
    "title": "해양교통안전공단, 안전공공기관 감사협의회 개최",
    "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304129",
@@ -41,36 +50,191 @@
    "cat": "tech",
    "day": "2026-10-14",
    "count": 2
-  },
-  {
-   "id": "47cc999aa405",
-   "title": "올해 철도 건설현장서 4명 숨져… \"스마트 안전장비 도입해야\"",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251003",
-   "source": "안전신문",
-   "cat": "sev",
-   "day": "2026-10-14",
-   "count": 1
-  },
-  {
-   "id": "8905c7632aca",
-   "title": "울산항만공사 변재영 사장 \"안전한 울산항 조성하는 데 최선\"",
-   "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=127901",
-   "source": "yangsanilbo.com",
-   "cat": "hlt",
-   "day": "2026-10-14",
-   "count": 1
-  },
-  {
-   "id": "407fe7fb04d6",
-   "title": "[안전상황실·14일] 청주 건물 천장 보수하던 60대 '추락사고'",
-   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246318",
-   "source": "세이프타임즈",
-   "cat": "acc",
-   "day": "2026-10-14",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "어촌어항공단, '위험성평가·SES 보드 우수사례 경진대회' 개최",
+   "summary": "한편 '위험성평가'는 사업장의 유해·위험요인을 사전 파악해 부상이나 질병을 예방하는 안전관리 과정이다. 'TBM'은 작업 전 근로자들이 모여 위험요인과 안전 대책을 점검하는 미팅이다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009226688?sid=101",
+   "orig": "https://www.news1.kr/economy/idustry-trade/6319573",
+   "source": "뉴스1",
+   "published": "2026-10-14T11:23+09:00",
+   "cat": "law",
+   "id": "fbcd406af66e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "펄스웨이브, 신보 ‘리틀펭귄’ 선정…산업안전 AI 기술 사업화 확대",
+   "summary": "한국수자원공사 안동댐 현장서 AI 실증 추진…투자옵션부보증 승인 산업안전 분야에 특화된 인공지능(AI) 기술을 개발하는 펄스웨이브(대표 이동현)가 신용보증기금의 스타트업 육성 프로그램에 선정되며 기술 개발과...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141114146000517",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141114146000517",
+   "source": "대한경제",
+   "published": "2026-10-14T11:20+09:00",
+   "cat": "tech",
+   "id": "6bc1d342c5ca",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 화학공장 화재로 연기·불꽃 치솟아…인근 근로자 수천명 대피",
+   "summary": "소방당국은 당시 인근에서 작업중이던 10여명의 근로자들이 모두 대피한 것으로 보고 있다. 이날 화재는 공장 내 시너, 톨루엔 등 인화성 물질이 들어있는 옥외탱크 1대가 폭발해 화재 발생한 것으로 전해졌다. 인근에...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002824997?sid=102",
+   "orig": "https://www.munhwa.com/article/11623358?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-14T11:18+09:00",
+   "cat": "acc",
+   "id": "971b2ca75cd6",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "농어촌공사, 현장 안전관리 강화",
+   "summary": "안전 예산 1257억 원 편성·전담인력 확대 한국농어촌공사가 산업재해 예방을 위해 안전관리 예산과... 다만 건설현장 공사감독 인력은 2024년 813명에서 2025년 788명, 올해 8월 기준 756명으로 감소했다. 공사는...",
+   "url": "https://www.farmnmarket.com/news/article.html?no=28166",
+   "orig": "https://www.farmnmarket.com/news/article.html?no=28166",
+   "source": "farmnmarket.com",
+   "published": "2026-10-14T11:16+09:00",
+   "cat": "law",
+   "id": "127ff45c2d0a",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "10년간 맞은 비타민 주사가 '중금속 배출 약'이었다??DN오토모티브 노사...",
+   "summary": "노조가 이를 막아섰지만, 고용노동부는 \"비용을 회사가 지급하기 때문에 회사가 하자는 대로 할 수밖에 없다\"는 입장을 보였다고 천 부지회장은 전했다. 산업안전보건법에 따라 사업주는 노동자의 건강을 유지·증진하고...",
+   "url": "https://lawtalknews.co.kr/article/HFLPNDBCW216",
+   "orig": "https://lawtalknews.co.kr/article/HFLPNDBCW216",
+   "source": "lawtalknews.co.kr",
+   "published": "2026-10-14T11:10+09:00",
+   "cat": "law",
+   "id": "f56b5095910e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 석화업체 저장탱크서 ‘펑펑’…화재로 작업자 10여명 대피",
+   "summary": "석유화학업체 ㈜부승화학 옥외저장탱크에서 불이 났다. 사고 당시 옥외저장탱크 주변에서 노동자 10여명이... 부승화학은 석유화학물질을 유통·보관·판매하는 사업장으로 톨루엔, 시너 등 인화성 물질을 다량 보유...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002827373?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/yeongnam/1282300.html",
+   "source": "한겨레",
+   "published": "2026-10-14T11:06+09:00",
+   "cat": "acc",
+   "id": "2d445bb9e75e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "경북교육청, 30억 이상 공사현장 점검… 안전·품질관리 강화",
+   "summary": "주요 점검 항목은 △시공·품질·환경관리 상태 △현장대리인 상주 및 근무 실태 △산업안전보건관리비 적정 집행 여부 △추락·낙하 방지 등 안전시설물 설치 상태 △임시소방시설 설치 및 화재 예방 수칙 준수 여부...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000959347?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101410130003566?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-14T11:01+09:00",
+   "cat": "hlt",
+   "id": "3f26c6a8d765",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 울주군 온산읍 소재 공장서 화재…인근 근로자·주민 대피 당부",
+   "summary": "울산 울주군 온산읍의 한 공장에서 화재가 발생해 인근 근로자와 주민들에게 대피 안내가 내려졌다. 14일 울주군에 따르면 이날 오전 9시 41분께 울주군 온산읍 학남리 58-7 소재 공장에서 불이 났다. 이에 울주군은...",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=773313",
+   "orig": "https://www.slist.kr/news/articleView.html?idxno=773313",
+   "source": "slist.kr",
+   "published": "2026-10-14T11:00+09:00",
+   "cat": "acc",
+   "id": "461f6d1bd794",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "인천 뿌리산업 ‘청년 실종’…일터를 바꿔야 사람이 온다",
+   "summary": "이진양 중부지방고용노동청 산업안전 감독관은 ‘중대재해처벌법의 이해’를 주제로 산업재해 예방을 위한 기본수칙과 법 적용 관련 주요 사항을 설명한다. 최관병 중부지방고용노동청장은 “청년이 오래 일하고 싶은...",
+   "url": "https://www.viva100.com/article/20261014500546",
+   "orig": "https://www.viva100.com/article/20261014500546",
+   "source": "브릿지경제",
+   "published": "2026-10-14T10:52+09:00",
+   "cat": "law",
+   "id": "573df666a9d6",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "한화·포스코이앤씨 중대재해, 노동부 국정감사 도마위",
+   "summary": "계열사를 포함한 한화서 중대재해처벌법 시행 이후 19건, 23명 사망했고 한화오션서 8건, 8명 사망, 한화서 8건, 8명 사망하고 2022년과 올해도 비슷한 유형의 사망사고가 났다는 것이 지적됐다. 올해 발생한 한화오션...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251005",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251005",
+   "source": "안전신문",
+   "published": "2026-10-14T10:50+09:00",
+   "cat": "law",
+   "id": "20088fca882e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "서울시, 노후교량 안전관리 강화… 드론·전문가 투입해 사각지대 없앤...",
+   "summary": "스마트 안전도시' 구상의 일환이다. 시는 인공지능(AI)과 로봇을 활용해 점검 사각지대를 줄이고 위험 요소를 조기에 발견하는 데 초점을 맞췄다. 이를 위해 오세훈 서울시장은 지난 12일 한강대교에서 무인점검 신기술...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005828282?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026101408431717709",
+   "source": "아시아경제",
+   "published": "2026-10-14T10:50+09:00",
+   "cat": "tech",
+   "id": "7b2f96d76b54",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[경남소식]도, 산재 예방 우수 중소기업 30일까지 모집 등",
+   "summary": "경남도는 2026년 산업재해 예방 우수기업 인증사업'에 참여할 상시근로자 5인 이상 100인 미만 도내... 선정된 기업에는 인증서와 현판을 수여하고, 중소기업육성자금 이차보전 우대 지원(연 최대 2.1%)과 법정 안전보건교...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014252003?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261014_0003825337",
+   "source": "뉴시스",
+   "published": "2026-10-14T10:42+09:00",
+   "cat": "tech",
+   "id": "f0423b6e9afa",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[영상] 울산 온산 화학공장서 폭발음 잇따라…공단 근로자 수천명 대피",
+   "summary": "화재 과정에서 폭발음이 잇따르면서 인근 에쓰오일 ‘샤힌 프로젝트’ 건설 현장의 근로자 수천 명이 긴급 대피했다. 울산소방본부에 따르면 이날 오전 9시 41분께 울주군 온산읍 학남리 부승화학 공장에서 화재가...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001402382?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026101410322274543",
+   "source": "부산일보",
+   "published": "2026-10-14T10:39+09:00",
+   "cat": "acc",
+   "id": "7060c4b34d1e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[14일 화성시] 연말 만료 공유재산 183필지 대부계약 갱신 추진 등",
+   "summary": "이번 교육은 한국산업안전보건공단(경기광역본부)와 협력해 건축공사 현장에서 반복적으로 발생하는 안전사고의 주요 원인을 분석하고, 사고 유형별 예방대책과 대응요령을 공유함으로써 공사 관계자의 안전의식을...",
+   "url": "https://www.asiatime.co.kr/article/20261014500095",
+   "orig": "https://www.asiatime.co.kr/article/20261014500095",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-14T10:38+09:00",
+   "cat": "tech",
+   "id": "252be8fcab9f",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "노동부 천안지청 '레드존(Redzone+)' 천안·아산까지 확대해 중대재해 예...",
    "summary": "고용노동부 천안지청은 14일 최근 관내 중대재해가 잇따라 발생함에 따라 기존 당진지역을 중심으로 추진해... 대전지방고용노동청과 관할 지청 전체가 참여하는 광역 단위의 합동점검을 추진하고 한국산업안전보건공단과...",
@@ -80,7 +244,14 @@
    "published": "2026-10-14T10:22+09:00",
    "cat": "law",
    "id": "2033a0783325",
-   "related": [],
+   "related": [
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004198579?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6591223?utm_source=naver&utm_medium=article&utm_campaign=20261014112346",
+     "title": "노동부 천안지청, '레드존' 천안·아산까지 확대…중대재해 예방 총력"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -729,6 +900,12 @@
      "url": "https://n.news.naver.com/mnews/article/011/0004670979?sid=102",
      "orig": "https://www.sedaily.com/article/20101225?ref=naver",
      "title": "‘비타민 주사’라며 납 배출 주사 의혹…경찰, DN오토모티브 임원 조사..."
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005426076?sid=102",
+     "orig": "https://www.mt.co.kr/society/2026/10/14/2026101410400514172",
+     "title": "얼굴 한쪽 마비·혈뇨...경찰 '납배출 주사' DN오토모티브 임원 조사"
     }
    ],
    "day": "2026-10-13",
@@ -1672,6 +1849,12 @@
      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479753",
      "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479753",
      "title": "함안군, 중소사업장 산업재해 예방 선제 대응"
+    },
+    {
+     "source": "경남도민일보",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2016887",
+     "orig": "https://www.idomin.com/news/articleView.html?idxno=2016887",
+     "title": "함안군, 중소사업장 산재위험 실태조사 업무협약"
     }
    ],
    "day": "2026-10-13",
