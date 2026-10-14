@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T15:34+09:00",
+ "updatedAt": "2026-10-14T16:38+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,6 +52,15 @@
    "count": 3
   },
   {
+   "id": "49a5da8a5a8c",
+   "title": "[위클리오늘] 경기도, '노동안전보건 공모전' 수상작 6점 선정·시상",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798058",
+   "source": "weeklytoday.com",
+   "cat": "hlt",
+   "day": "2026-10-14",
+   "count": 2
+  },
+  {
    "id": "0a1c38b86999",
    "title": "박지원 \"특수형태·플랫폼 노동자 83만명, 국민연금 사각지대 해소 시급...",
    "url": "https://www.newspim.com/news/view/20261014001071",
@@ -59,18 +68,198 @@
    "cat": "law",
    "day": "2026-10-14",
    "count": 2
-  },
-  {
-   "id": "09845f2ca943",
-   "title": "화학제품 공장서 끼임 사고…50대 노동자 사망",
-   "url": "https://n.news.naver.com/mnews/article/079/0004198759?sid=102",
-   "source": "노컷뉴스",
-   "cat": "sev",
-   "day": "2026-10-14",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "[국감현장] 특고·플랫폼 노동자 45.8% 국민연금 보험료 전액 부담…노...",
+   "summary": "14일 국회 보건복지위원회의 국민연금공단 국정감사에서 더불어민주당 박지원 의원은 특수형태... 특히 고용보험과 산재보험이 특수형태 근로종사자와 플랫폼 노동자에 대한 적용 범위를 단계적으로 확대해 온 것과 달리...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618766",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=618766",
+   "source": "mdtoday.co.kr",
+   "published": "2026-10-14T16:36+09:00",
+   "cat": "law",
+   "id": "70b8e2cc9ee7",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "\"안전·채용차별\"…이부환 한화에어로 대표, 내부 리스크 수습 중책",
+   "summary": "노동부는 회사의 생산량 증가와 신규채용 확대가 이뤄졌음에도 안전보건 관리인력이 그에 맞춰 충원되지 않은 점을 산업안전 기반 부실 원인으로 지적했다. 사법처리 대상에는 안전보건규칙 위반 184건과 하청 노동자...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256494",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=256494",
+   "source": "insightkorea.co.kr",
+   "published": "2026-10-14T16:30+09:00",
+   "cat": "law",
+   "id": "9a4a2b9c7c29",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "대전서부소방서, 전국 최초 디지털트윈 기술로 전통시장 안전관리 플랫...",
+   "summary": "사업의 핵심은 전국 최초로 전통시장을 가상모형(디지털트윈) 기술로 구현해 평상시엔 시장 활성화를 지원하고, 화재 발생 시엔 현장지휘에 필요한 핵심 정보를 제공하는 스마트 안전관리 플랫폼을 구축하는 것이다....",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914733",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914733",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-14T16:30+09:00",
+   "cat": "tech",
+   "id": "bddcb93cf0b9",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[이슈] 양산부산대병원 물류센터 공사장서 50대 노동자 사망… 홍용종합...",
+   "summary": "사고 직후 신고가 접수돼 병원 응급실로 옮겨졌지만 끝내 사망 판정을 받았다. 사고가 난 곳은... 시공사 측은 사고 당일 고용노동부에 신고했고, 노동부는 작업 절차와 안전관리 실태를 조사하며 중대재해처벌법 적용...",
+   "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815882",
+   "orig": "https://www.startuptoday.co.kr/news/articleView.html?idxno=815882",
+   "source": "startuptoday.co.kr",
+   "published": "2026-10-14T16:22+09:00",
+   "cat": "sev",
+   "id": "60d5b7c635c4",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 진주지청, 무림페이퍼와 안전문화 확산 '의기투합'",
+   "summary": "연계해 안전문화를 확산의 계기로 활용하고, 산업안전의 중요성을 알리기 위한 목적에서 마련됐다.... 사진/고용노동부 진주지청 고용노동부 진주지청은 이번 협약을 통해 안전보건 활동에 대한 기술적 지원 등을...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3721538",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3721538",
+   "source": "국제뉴스",
+   "published": "2026-10-14T16:20+09:00",
+   "cat": "law",
+   "id": "93eaa7be2c90",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "대구시, 상반기 산재 사망자 역대 최저…전년 대비 73% 급감했다",
+   "summary": "고용부 조사 결과 상반기 사망자 3명 기록…최근 5년 내 최저치 달성 소규모 건설·제조 현장 맞춤형 4대 대책... 예성희 중대재해예방과장은 \"현장의 안전의식이 개선되고 있으나 위험 요소는 여전히 존재하는 만큼...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92403",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92403",
+   "source": "eroun.net",
+   "published": "2026-10-14T16:16+09:00",
+   "cat": "sev",
+   "id": "0a2d28a628fd",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[인물탐방] 배효섭, 고속도로 현장 안전지도를 그리다 … \"현장 문제를...",
+   "summary": "배효섭 신공항하이웨이㈜ 안전총괄실 수석이 지난 7월 산업재해 예방에 기여한 공로로 고용노동부장관상을 수상한 뒤 표창장을 들고 기념촬영을 하고 있다. 신공항하이웨이 포토 인천국제공항고속도로 개통과 함께...",
+   "url": "http://www.incheonnews.com/news/articleView.html?idxno=441723",
+   "orig": "http://www.incheonnews.com/news/articleView.html?idxno=441723",
+   "source": "incheonnews.com",
+   "published": "2026-10-14T16:16+09:00",
+   "cat": "law",
+   "id": "b28de2840659",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "산단공 경북본부·구미산단경영자협의회, 16일 '근로자 가족 문화 한마...",
+   "summary": "가족이 안전경영의 중요성을 자연스럽게 공유하도록 유도한다. 미래형 스마트 산단 인프라를 소개하는... 도로 안전 실증 기술을 선보인다. 부스 현장에서는 산단 교통 개선 우선순위와 선호 교통서비스에 대한 스티커...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001034329?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026101415512382859",
+   "source": "매일신문",
+   "published": "2026-10-14T16:14+09:00",
+   "cat": "tech",
+   "id": "a979a6de48aa",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "UPA, 건설현장 안전관리자 대상 VR 안전체험 교육",
+   "summary": "한국산업안전보건공단 지원으로 이뤄진 이번 교육은 기존의 이론 전달 방식을 넘어, 작업자가 현장에서 맞닥뜨릴 수 있는 사고 상황을 가상으로 겪어보며 실질적인 대처 능력을 키우는 데 집중했다. 교육 과정에서는...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003142769?sid=101",
+   "orig": "https://www.dailian.co.kr/news/view/1701522/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-14T16:12+09:00",
+   "cat": "tech",
+   "id": "85f617551d35",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[사설] 산재 줄이려면 예방·보호 구조 바꿔야",
+   "summary": "산업재해보상보험법상 사고성 사망과 직업성 질병 사망을 합하면 연간 2000명 안팎이 산업재해로 숨지고 있다. 날마다 5~6명의 노동자가 산업 현장에서 목숨을 잃는 현실을 개선하기 위해 중대재해처벌법이 제정됐다....",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2016934",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2016934",
+   "source": "경남도민일보",
+   "published": "2026-10-14T15:56+09:00",
+   "cat": "law",
+   "id": "018a5560a486",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 경기도, '노동안전보건 공모전' 수상작 6점 선정·시상",
+   "summary": "일하는 노동자의 작업 모습을 담은 작품이다. 짧은 영상 부문 최우수상에는 팀 '2만크레딧'(대표 백수현)의 '안전설명서'가 선정됐다. 추락·끼임·넘어짐 등 산업현장의 위험요인을 캐릭터로 표현하고, '멈춰, 보고...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798058",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=798058",
+   "source": "weeklytoday.com",
+   "published": "2026-10-14T15:56+09:00",
+   "cat": "hlt",
+   "id": "49a5da8a5a8c",
+   "related": [
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445709",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=445709",
+     "title": "경기도, '2026 노동안전보건 공모전' 시상식 개최…수상작 6점 선정"
+    }
+   ],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 인천광역본부, 건설기계 사고 예방 세미나…\"작업계획·사...",
+   "summary": "한국산업안전보건공단 인천광역본부가 건설기계·장비 사고 예방을 위해 건설현장 관계자를 대상으로... 행사에는 인천을 비롯해 부천·고양·파주·의정부·남양주 등 경기 서북부지역 건설현장 안전관리자와 관리감독자...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202610141537158233be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=202610141537158233be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-14T15:50+09:00",
+   "cat": "tech",
+   "id": "6d4244dd4bbc",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "애경 케미칼 공장에서 지게차 끼임 사고로 노동자 1명 사망",
+   "summary": "A씨는 애경케미칼 소속이 아닌 지게차 업체 소속 노동자로 알려졌으며, 경찰과 노동당국은 정확한 사고 경위와 함께 중대재해처벌 위반 혐의 적용을 검토하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/659/0000047748?sid=102",
+   "orig": "http://www.jmbc.co.kr/news/view/68768",
+   "source": "jmbc.co.kr",
+   "published": "2026-10-14T15:36+09:00",
+   "cat": "sev",
+   "id": "c8d01c1e37b5",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 청주지청, '무재해 릴레이 캠페인' 13회차 진행",
+   "summary": "［동양일보 홍승태 기자］ 고용노동부 청주지청(지청장 연창석)이 지역 내 건설·제조업 사업장의 중대재해 사망사고를 막기 위해 추진 중인 '무재해 릴레이 캠페인'이 13주차를 맞았다. 이번 주자로는 롯데건설이 시공하는...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=869318",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=869318",
+   "source": "동양일보",
+   "published": "2026-10-14T15:36+09:00",
+   "cat": "law",
+   "id": "20c8a90dee08",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "창원시설공단, '2026 AI 안전관리 대상' 선정",
    "summary": "상복공원 등 위험근무지와 이용객 밀집구간에 대한 모니터링도 강화하고 있으며, 앞으로 스마트 관제기술을 활용한 안전관리체계 고도화와 직영주차장 20개소의 전면 무인화를 추진해 시설 운영의 안전성과 효율성을...",
@@ -1570,6 +1759,19 @@
    "published": "2026-10-13T23:22+09:00",
    "cat": "law",
    "id": "a906bcaaeed6",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "\"KTX-산천 태화강역 정차, 5차 국가철도망 구축계획 반영을\"",
+   "summary": "기후에너지환경노동위 노동부에 대한 감사에서 더불어민주당 김태선 의원(동구)은 자동차 배터리 제조사 DN오토모티브가 특수건강진단을 앞두고 노동자들에게 킬레이션 주사를 반복 투여해 혈중 납 수치를 낮춰온 실태를...",
+   "url": "https://www.ulsanpress.net/news/articleView.html?idxno=584634",
+   "orig": "https://www.ulsanpress.net/news/articleView.html?idxno=584634",
+   "source": "울산신문",
+   "published": "2026-10-13T21:42+09:00",
+   "cat": "hlt",
+   "id": "ffe3142166ff",
    "related": [],
    "day": "2026-10-13",
    "watch": []
