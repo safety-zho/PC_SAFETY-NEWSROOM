@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T12:29+09:00",
+ "updatedAt": "2026-10-14T13:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "충청일보",
    "cat": "law",
    "day": "2026-10-14",
-   "count": 3
+   "count": 4
   },
   {
    "id": "a6ec78c9bf21",
@@ -62,6 +62,136 @@
   }
  ],
  "articles": [
+  {
+   "title": "강원 학교급식실 환기시설 공사 '부실' 지적···\"원인 규명 해야\"",
+   "summary": "한국산업안전보건공단이 300건의 계약을 분석한 결과, 87%(262건)가 수의계약으로 맺어졌으며 특정 업체가 공사 금액의 80%를 독식한 것으로 드러나 특혜 논란이 일었다. 무엇보다 전체 공사 중 설계도면이 없는 경우가 34....",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479999",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479999",
+   "source": "이뉴스투데이",
+   "published": "2026-10-14T13:25+09:00",
+   "cat": "tech",
+   "id": "73fe40795bd2",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 화학공장서 톨루엔 옮기다 화재…저장탱크 7기로 불길 번져",
+   "summary": "화재 당시 폭발음이 잇따르고 검은 연기가 치솟으면서 건설 현장 근로자 약 7000명이 대피했다. 공장 작업자 16명도 모두 대피했으며 현재까지 인명피해는 없는 것으로 파악됐다. 소방청장은 현장에 가용 소방력을 최대한...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005589033?sid=102",
+   "orig": "https://www.fnnews.com/news/202610141311406253",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-14T13:16+09:00",
+   "cat": "acc",
+   "id": "b9806b815271",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "청주시 상수도사업본부, 중대재해 예방 안전보건 교육",
+   "summary": "교육은 한국산업안전보건공단의 협조로 진행됐으며 산업안전보건법과 중대재해 처벌 등에 관한 법률의 주요 내용을 중심으로 실제 산업재해 사례와 관련 판례 등을 살폈다. 특히 실제 중대산업재해 발생 사례를 분석하고...",
+   "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=359839",
+   "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=359839",
+   "source": "ccreview.co.kr",
+   "published": "2026-10-14T13:12+09:00",
+   "cat": "tech",
+   "id": "af0e9d7cf401",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "용정순 강원도의원 \"강원 학교급식실 종사자, 건강 보호대책 시급\"",
+   "summary": "지난해 한국산업안전보건공단이 개선공사 완료학교를 대상으로 실시한 표본점검 결과 강원지역 18개교 가운데 13개교가 부적정 판정(72.2%)을 받았다. 전국 부적정 판정 비율은 17.9%로 기록됐다. 용 도의원은 \"시공상...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004198647?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6591292?utm_source=naver&utm_medium=article&utm_campaign=20261014010646",
+   "source": "노컷뉴스",
+   "published": "2026-10-14T13:07+09:00",
+   "cat": "law",
+   "id": "2690500de746",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "\"AI로 건설현장 안전 지킨다\"…인천대, AI-HSE 출범",
+   "summary": "삼성전자와의 산학협력을 통해 이 기술은 웨어러블 기반 산업안전보건 플랫폼으로 고도화됐다. 삼성전자는 고용노동부와 협력해 갤럭시 워치 기반 B2B용 열스트레스 관리 시스템을 고도화했으며, 이 과정에서...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3721176",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3721176",
+   "source": "국제뉴스",
+   "published": "2026-10-14T13:02+09:00",
+   "cat": "tech",
+   "id": "1fe4a399960d",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "황정아 의원, 노동·개인정보 등 다양한 행정 분야에서 과학기술직 비중...",
+   "summary": "같은 기간 고용노동부는 6.0%에서 77.5%, 개인정보보호위원회는 25.0%에서 83.3%, 기후에너지환경부는 37.3... 과학기술직의 국가공무원 확대는 AI 대전환과 함께 기후·에너지 대응, 산업안전 등 다양한 행정 분야에서...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914639",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=914639",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-14T13:00+09:00",
+   "cat": "law",
+   "id": "60f5d2472761",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "고용노동부 천안지청, 천안·아산 산업재해 예방대책 확대",
+   "summary": "고용노동부천안지청 고용노동부 천안지청이 최근 잇따른 중대재해 발생에 대응해 산업재해 예방 대책인... 당진지역을 산업재해 위험지역인 '레드존'으로 지정해 주말 불시점검, 고위험 작업 집중관리, 사업장 안전관리...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7188847",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7188847",
+   "source": "한국아이닷컴",
+   "published": "2026-10-14T13:00+09:00",
+   "cat": "law",
+   "id": "9c618f31038e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 온산공단 화학공장 톨루엔 탱크 폭발 화재… 인근 근로자 7000여 명...",
+   "summary": "대형 화재가 발생해 소방 당국이 국가소방동원령을 발령하고 진화 작업을 벌이고 있다. 다행히 공장 내부 작업자들이 신속히 대피해 인명 피해는 발생하지 않았으나, 유독성 검은 연기 등으로 인근 공사 현장 근로자 등...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003688817?sid=100",
+   "orig": "https://www.seoul.co.kr/news/publicnews/2026/10/14/20261014500102?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-14T12:54+09:00",
+   "cat": "acc",
+   "id": "9d9b6bf6be5d",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 더불어민주당 화성병 지역위원회-화성시, 2026년 제1차 당정...",
+   "summary": "한국산업안전보건공단(경기광역본부)와 협력해 건축공사 현장에서 반복적으로 발생하는 안전사고의 주요 원인을 분석하고, 사고 유형별 예방대책과 대응요령을 공유함으로써 공사 관계자의 안전의식을 높이고 현장...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=797987",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=797987",
+   "source": "weeklytoday.com",
+   "published": "2026-10-14T12:50+09:00",
+   "cat": "tech",
+   "id": "b9ecbe6acb9e",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[단독]'안전문화 선도'라면서… 대한산업안전협회 내 '직장 내 괴롭힘'...",
+   "summary": "'안전문화를 선도하는 최고의 종합컨설팅기관'이라고 자임하는 대한산업안전협회(고용노동부 지정기관) 내에서 직장 내 괴롭힘 사건이 발생해 충격을 주고 있다. 14일 본지 취재에 따르면 광주지방고용노동청 여수지청은...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251007",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251007",
+   "source": "안전신문",
+   "published": "2026-10-14T12:44+09:00",
+   "cat": "law",
+   "id": "e353e5469b64",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "울산 온산공단 화학공장서 폭발 화재…소방 '대응 1단계' 진화 중",
    "summary": "이날 화재로 인근 공장 근로자 수천 명이 긴급 대피하는 소동이 빚어졌다. ▲ 14일 오전 울산 온산공단 화학공장에서 폭발과 함께 화재가 발생, 검은 연기가 올라오고 있는 모습. [뉴시스] 울산소방본부 등에 따르면...",
@@ -441,6 +571,12 @@
      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1414630",
      "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1414630",
      "title": "노동부 천안지청, '레드존+' 천안·아산까지 확대…중대재해 예방 총력"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014252586?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261014_0003825553",
+     "title": "노동부 천안지청, '산재예방대책' 레드존+ 천안·아산까지 확대"
     }
    ],
    "day": "2026-10-14",
