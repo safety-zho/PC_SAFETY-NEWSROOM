@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T08:28+09:00",
+ "updatedAt": "2026-10-14T09:36+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,29 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "43f73e45ca2f",
-   "title": "‘중금속 배출 주사’ 처벌 공백…정부·국회, 산안법 개정 나선다",
-   "url": "https://n.news.naver.com/mnews/article/011/0004671017?sid=102",
-   "source": "서울경제",
-   "cat": "law",
-   "day": "2026-10-14",
-   "count": 1
-  },
-  {
-   "id": "414a69eec702",
-   "title": "[율곡로] 고위험 직종",
-   "url": "https://n.news.naver.com/mnews/article/001/0016374800?sid=100",
-   "source": "연합뉴스",
-   "cat": "hlt",
-   "day": "2026-10-14",
-   "count": 1
-  },
-  {
    "id": "cce918ffe7f9",
    "title": "해양교통안전공단, 안전공공기관 감사협의회 개최",
    "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304129",
    "source": "투데이에너지",
    "cat": "tech",
+   "day": "2026-10-14",
+   "count": 2
+  },
+  {
+   "id": "a6ec78c9bf21",
+   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-14",
+   "count": 2
+  },
+  {
+   "id": "a659cb43c9aa",
+   "title": "[2026국감] 산재 여부 기다리다 유족연금 절반만…5년 넘게 기다린 경우...",
+   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313098",
+   "source": "스트레이트뉴스",
+   "cat": "sev",
+   "day": "2026-10-14",
+   "count": 1
+  },
+  {
+   "id": "8905c7632aca",
+   "title": "울산항만공사 변재영 사장 \"안전한 울산항 조성하는 데 최선\"",
+   "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=127901",
+   "source": "yangsanilbo.com",
+   "cat": "hlt",
    "day": "2026-10-14",
    "count": 1
   },
@@ -59,18 +68,126 @@
    "cat": "acc",
    "day": "2026-10-14",
    "count": 1
-  },
-  {
-   "id": "2631a595194d",
-   "title": "[단독] 축산업자가 안전관리?…20명 사상자 낸 ‘공포의 레일바이크’",
-   "url": "https://n.news.naver.com/mnews/article/025/0003557754?sid=102",
-   "source": "중앙일보",
-   "cat": "sev",
-   "day": "2026-10-14",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[2026국감] 산재 여부 기다리다 유족연금 절반만…5년 넘게 기다린 경우...",
+   "summary": "의원실] 산업재해 등 재해보상금을 받을 가능성이 있다는 이유로 국민연금 유족연금이나 장애연금을 절반만 지급받다가 나머지 절반을 받기까지 최장 5년 넘게 걸린 사례가 있었던 것으로 나타났다. 14일 국회 보건복...",
+   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=313098",
+   "orig": "https://www.straightnews.co.kr/news/articleView.html?idxno=313098",
+   "source": "스트레이트뉴스",
+   "published": "2026-10-14T09:28+09:00",
+   "cat": "sev",
+   "id": "a659cb43c9aa",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "한국안심일터기술원 경기지사 개소… 산재예방 지원 확대",
+   "summary": "사고사망자는 242명으로 전년보다 20명 증가했다. 경기지사는 위험성평가와 안전보건관리체계 구축, 안전보건진단 등 중소사업장 맞춤형 기술지도와 노무·법률 자문을 지원할 계획이다. 조철호 원장은 \"현장 중심의...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250999",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250999",
+   "source": "안전신문",
+   "published": "2026-10-14T09:26+09:00",
+   "cat": "tech",
+   "id": "91c58e64558a",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "에버헨, 창립 10주년인 내년 '매출 200% 성장, 특허 출원 확대' 적극 추...",
+   "summary": "소방 안전 분야의 기술 개발에 집중해 왔다. 최근에는 맨홀 등 밀폐공간 질식사고를 원천 차단하는... 작업자의 진입 가능 시점을 자동으로 판단해 스마트폰과 관리자에게 즉시 통보함으로서 안전사고를 근원적으로...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373387",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=373387",
+   "source": "electimes.com",
+   "published": "2026-10-14T09:26+09:00",
+   "cat": "tech",
+   "id": "10c4a81c5a8f",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "[팩트로 본 외국인 보론②] E-9 노동자와 AI 연구자를 같은 '외국인'으로...",
+   "summary": "행정안전부가 발표하는 '외국인주민'은 또 다르다. 2024년 외국인주민 258만3,626명에는 외국 국적자뿐... _____________ 법무법인 사람&스마트 이민·비자정책연구센터는 출입국·외국인 행정 현장 경험을 갖춘...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=90481",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=90481",
+   "source": "eroun.net",
+   "published": "2026-10-14T09:20+09:00",
+   "cat": "tech",
+   "id": "09972abef935",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사 변재영 사장 \"안전한 울산항 조성하는 데 최선\"",
+   "summary": "이번 용역의 주요 내용은 ▲건설현장 중대산업재해 예방을 위한 안전관리 실태 점검 ▲항만시설물 중대시민재해 예방을 위한 안전관리체계 점검 ▲안전보건 관계 법령에 따른 의무 이행 여부 확인 ▲현장 및 발주처...",
+   "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=127901",
+   "orig": "http://www.yangsanilbo.com/news/articleView.html?idxno=127901",
+   "source": "yangsanilbo.com",
+   "published": "2026-10-14T09:14+09:00",
+   "cat": "hlt",
+   "id": "8905c7632aca",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "【데일리 ESG 정책 브리핑】산업 규제특례·화학물질 관리제도 개편",
+   "summary": "설명회는 10월 14일부터 23일까지 전국 3개 권역에서 열리며, 산업계의 화학물질 안전제도 이행을 지원하기... 공급망 분야에서는 주요 품목의 원활한 도입과 기업의 예측 가능한 경영환경 조성을 위한 상시 소통 필요성에...",
+   "url": "https://www.impacton.net/news/articleView.html?idxno=30237",
+   "orig": "https://www.impacton.net/news/articleView.html?idxno=30237",
+   "source": "impacton.net",
+   "published": "2026-10-14T09:14+09:00",
+   "cat": "law",
+   "id": "4e5fe32bc4b2",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "한전, 전기공사협회와 상생 '맞손'…안전·품질·제도개선 협력",
+   "summary": "실제 전기공사 현장은 감전과 추락, 끼임 등 중대재해 위험이 높은 작업환경으로 꼽힌다. 2017년부터 올해... 협력업체 현장에서도 2021년 여주 감전 사망사고와 2022년 남원 활선작업차 깔림 사고 등이 잇따르고 있다. 이에...",
+   "url": "https://www.asiatime.co.kr/article/20261014500039",
+   "orig": "https://www.asiatime.co.kr/article/20261014500039",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-14T09:10+09:00",
+   "cat": "law",
+   "id": "1b355227d17a",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "화성특례시, 건축공사 관계자 150여명 대상 안전사고 예방교육 실시",
+   "summary": "이번 교육은 한국산업안전보건공단 경기광역본부와 협력해 마련됐으며, 건축공사 현장에서 발생하는 주요 사고 유형과 예방대책, 사고 발생 시 대응요령을 공유하는 방식으로 진행됐다. 주요 교육내용은 산업재해 발생...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=654213",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654213",
+   "source": "경인매일",
+   "published": "2026-10-14T08:58+09:00",
+   "cat": "tech",
+   "id": "5e29f076956a",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "“공무원도 이공계 선호” 과학기술직 비중 급증",
+   "summary": "고용노동부도 6%에서 77.5%로 확대됐으며 개인정보위원회는 25%에서 83.3%로 상승했다. 기후에너지환경부... 이 같은 과학기술직 확대는 인공지능(AI) 대전환과 기후·에너지 대응 및 산업안전 등 다양한 행정...",
+   "url": "https://n.news.naver.com/mnews/article/050/0000111937?sid=101",
+   "orig": "https://magazine.hankyung.com/business/article/202610140265b",
+   "source": "한국경제",
+   "published": "2026-10-14T08:37+09:00",
+   "cat": "law",
+   "id": "82bc9727c3f4",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "‘중금속 배출 주사’ 처벌 공백…정부·국회, 산안법 개정 나선다",
    "summary": "현행 산업안전보건법상 특수건강진단 기준치를 회피하기 위해 약물을 투약해도 마땅한 처벌 규정이 없었던... 제시하며 법 개정 필요성을 짚었다. 김 의원에 따르면 미국 직업안전보건청(OSHA) 규정에는 ‘사용자는 자신이...",
@@ -106,7 +223,14 @@
    "published": "2026-10-14T07:36+09:00",
    "cat": "tech",
    "id": "cce918ffe7f9",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014251454?sid=101",
+     "orig": "https://www.newsis.com/view/NISX20261014_0003824875",
+     "title": "해양교통안전공단, 9개 안전 공공기관과 사고 예방 협력 논의"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -132,7 +256,14 @@
    "published": "2026-10-14T07:00+09:00",
    "cat": "law",
    "id": "a6ec78c9bf21",
-   "related": [],
+   "related": [
+    {
+     "source": "아시아경제",
+     "url": "https://n.news.naver.com/mnews/article/277/0005828160?sid=105",
+     "orig": "https://view.asiae.co.kr/article/2026101409045758968",
+     "title": "[2026국감]국가공무원 공채 4명 중 1명은 과학기술직…6년 새 비중 최고"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -1113,7 +1244,14 @@
    "published": "2026-10-13T16:22+09:00",
    "cat": "law",
    "id": "0ed082aa3159",
-   "related": [],
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=250998",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=250998",
+     "title": "한국안전진흥협회-함안군-경상국립대, 중소사업장 산재예방 협력"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
@@ -1405,7 +1543,14 @@
    "published": "2026-10-13T15:22+09:00",
    "cat": "tech",
    "id": "1b3d85e56115",
-   "related": [],
+   "related": [
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479753",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2479753",
+     "title": "함안군, 중소사업장 산업재해 예방 선제 대응"
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
