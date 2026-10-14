@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T17:31+09:00",
+ "updatedAt": "2026-10-14T18:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,7 @@
    "source": "대한경제",
    "cat": "tech",
    "day": "2026-10-14",
-   "count": 4
+   "count": 6
   },
   {
    "id": "49a5da8a5a8c",
@@ -61,16 +61,133 @@
    "count": 3
   },
   {
-   "id": "a6ec78c9bf21",
-   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
-   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
-   "source": "연합뉴스",
-   "cat": "law",
+   "id": "6413406f34f9",
+   "title": "경남도, ‘2026년 경남도 산업재해 예방 우수기업 인증 사업’ 접수",
+   "url": "https://www.viva100.com/article/20261014500654",
+   "source": "브릿지경제",
+   "cat": "tech",
    "day": "2026-10-14",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "농협손보 경기총국, 중대재해보험 가입기념 현판식",
+   "summary": "NH농협손해보험 경기총국(총국장 박정묵)이 13일 포천 소흘농협(조합장 김재원)에서 중대재해배상책임보험 가입 기념 현판식을 열었다(사진). 소흘농협은 중대재해 발생에 따른 손해배상책임과 비용 부담 등에 대비하기...",
+   "url": "https://n.news.naver.com/mnews/article/662/0000106122?sid=102",
+   "orig": "https://www.nongmin.com/article/20261014500372",
+   "source": "nongmin.com",
+   "published": "2026-10-14T18:27+09:00",
+   "cat": "tech",
+   "id": "a42b76a2f113",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "교통안전공단·하림, 생닭 운반차 안전사고 예방 위해 '맞손'",
+   "summary": "이밖에 중소기업의 안전 기술 개발과 성장을 지원하는 기술 분야 상생 경영을 위해 교통안전공단이 힘을 보탠다. 중소기업은 생닭 운반차 작업자의 추락·낙상과 적재물 이탈 등을 예방할 수 있는 안전장치를 설계...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1414913",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1414913",
+   "source": "한국아이닷컴",
+   "published": "2026-10-14T18:26+09:00",
+   "cat": "tech",
+   "id": "a20b23a8bf58",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "AI·기후에너지·산업안전 대응...\"과학기술직 국가공무원 증가\"",
+   "summary": "같은 기간 고용노동부는 6.0%에서 77.5%, 개인정보보호위원회는 25.0%에서 83.3%, 기후에너지환경부는 37.3... 황정아 국회의원실 과학기술직의 국가공무원 확대는 AI 대전환과 함께 기후·에너지 대응, 산업안전 등...",
+   "url": "http://www.lec.co.kr/news/articleView.html?idxno=752855",
+   "orig": "http://www.lec.co.kr/news/articleView.html?idxno=752855",
+   "source": "lec.co.kr",
+   "published": "2026-10-14T18:18+09:00",
+   "cat": "law",
+   "id": "46efbc4b96c7",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, 고위험 작업 대응 VR 교육 실시…근로자 안전 강화",
+   "summary": "이번 교육은 한국산업안전보건공단의 지원으로 마련됐으며, 이론 중심의 기존 교육에서 벗어나 근로자가 현장에서 겪을 수 있는 다양한 재해 상황을 직접 체험하고 사고 발생 시 대응 역량을 높이는 데 목적을 뒀다....",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3721702",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3721702",
+   "source": "국제뉴스",
+   "published": "2026-10-14T18:10+09:00",
+   "cat": "tech",
+   "id": "17060d2c35e4",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "대구 지역 산업재해 사망자 절반 이상 감소",
+   "summary": "대구시는 지난해 발생한 산재 사망사고 통계를 분석해 관리에 사각지대가 발생하지 않도록 역량을 모아왔다고 소개했다. 지난해 사망자 19명 가운데 60% 이상이 50억원 미만 소규모 사업장과 건설업, 떨어짐 사고에...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=557161",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=557161",
+   "source": "dkilbo.com",
+   "published": "2026-10-14T18:00+09:00",
+   "cat": "sev",
+   "id": "4ff8c1e91cc5",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "전국 산업시설 대형 화재 잇따라…포항남부소방서, 공장 안전관리 당부",
+   "summary": "공장 화재는 가연성 자재와 화학물질 등 위험물이 많아 불이 빠르게 확산할 수 있으며, 대규모 인명·재산... 또 용접 등 화기 작업 시 안전수칙을 준수하고 주변 가연물을 제거하는 한편, 전기설비 점검과 근로자 대상...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=557191",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=557191",
+   "source": "dkilbo.com",
+   "published": "2026-10-14T18:00+09:00",
+   "cat": "acc",
+   "id": "530794c471cf",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "현대힘스 대불2공장, AI 안전관제 시스템 구축···산재 예방 강화",
+   "summary": "현대힘스 대불2공장이 천장크레인을 활용한 인공지능(AI) 기반 스마트 안전관제 시스템을 구축하고... 이어 \"지속적인 안전기술 투자와 현장 개선으로 근로자가 안심하고 일할 수 있는 작업환경을 조성하고, 지역...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480197",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480197",
+   "source": "이뉴스투데이",
+   "published": "2026-10-14T17:45+09:00",
+   "cat": "tech",
+   "id": "c1e8b49bd0ca",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "온산산단 화학공장서 불 근로자 7천명 긴급 대피",
+   "summary": "인명 피해는 없는 것으로 파악됐으나 석유화학 제품이 불에 타면서 검은 연기가 하늘로 치솟았고, 화재가 인근 공장으로 확산할 수도 있어 산단 근로자와 주민은 불안에 떨었다. 소방청은 국가소방동원령을 내리고 부산...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005748702?sid=102",
+   "orig": "https://www.mk.co.kr/article/12175997",
+   "source": "매일경제",
+   "published": "2026-10-14T17:45+09:00",
+   "cat": "tech",
+   "id": "5ab6f83be0db",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, 건설현장·항만시설물 안전컨설팅 착수",
+   "summary": "주요 내용은 ▲건설현장 중대산업재해 예방을 위한 안전관리 실태 점검, ▲항만시설물 중대시민재해 예방을 위한 안전관리체계 점검, ▲안전보건 관계 법령에 따른 의무 이행 여부 확인, ▲현장 및 발주처 안전관리...",
+   "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323086",
+   "orig": "https://www.klnews.co.kr/news/articleView.html?idxno=323086",
+   "source": "klnews.co.kr",
+   "published": "2026-10-14T17:38+09:00",
+   "cat": "hlt",
+   "id": "446238fce8f5",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "김제시, 하반기부터 유해 작업장 환경측정 실시",
    "summary": "이번 측정은 산업안전보건법 제125조에 따라 근로자의 건강 보호와 안전한 작업환경 조성을 위해 추진된다. 김제시는 매년 상·하반기 두 차례 정기적으로 작업환경측정을 진행해 오고 있다. 하반기 작업환경측정 대상은...",
@@ -282,7 +399,14 @@
    "published": "2026-10-14T16:20+09:00",
    "cat": "law",
    "id": "93eaa7be2c90",
-   "related": [],
+   "related": [
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=492706",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=492706",
+     "title": "진주 고용노동부·무림페이퍼 안전문화 확산 MOU"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -425,7 +549,14 @@
    "published": "2026-10-14T15:32+09:00",
    "cat": "tech",
    "id": "f11441951ec1",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019258",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019258",
+     "title": "창원시설공단, '2026 AI 안전관리 대상' 수상"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -490,7 +621,14 @@
    "published": "2026-10-14T15:18+09:00",
    "cat": "sev",
    "id": "a6388c8de792",
-   "related": [],
+   "related": [
+    {
+     "source": "경북매일",
+     "url": "https://www.kbmaeil.com/article/20261014500565",
+     "orig": "https://www.kbmaeil.com/article/20261014500565",
+     "title": "대구 산재 사고사망자 상반기 3명…5년 새 최저"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -804,7 +942,14 @@
    "published": "2026-10-14T13:45+09:00",
    "cat": "acc",
    "id": "a97e98c0b978",
-   "related": [],
+   "related": [
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000915637?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/MYH202610141813261UB",
+     "title": "하늘 덮은 연기에 폭발음도…울산 화학업체서 불"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -999,6 +1144,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004198675?sid=102",
      "orig": "https://www.nocutnews.co.kr/news/6591329?utm_source=naver&utm_medium=article&utm_campaign=20261014015047",
      "title": "경남도, '산업재해 예방 우수기업' 인센티브 지원"
+    },
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=492757",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=492757",
+     "title": "경남도, 산업재해 예방 앞장선 우수기업 찾는다"
     }
    ],
    "day": "2026-10-14",
@@ -1083,6 +1234,18 @@
      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078457",
      "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078457",
      "title": "경북교육청 교육시설 공사현장 22곳 집중 점검"
+    },
+    {
+     "source": "동아일보",
+     "url": "https://n.news.naver.com/mnews/article/382/0001299025?sid=102",
+     "orig": "https://sports.donga.com/region/article/all/20261014/134842362/1",
+     "title": "경북교육청, 학교 시설공사 22개 현장 점검…부실시공·안전사고 예방"
+    },
+    {
+     "source": "프라임경제",
+     "url": "http://www.newsprime.co.kr/news/article.html?no=750998",
+     "orig": "http://www.newsprime.co.kr/news/article.html?no=750998",
+     "title": "경북교육청, 교육시설 공사장 22곳 집중 점검···안전관리 강화"
     }
    ],
    "day": "2026-10-14",
@@ -1674,6 +1837,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014251454?sid=101",
      "orig": "https://www.newsis.com/view/NISX20261014_0003824875",
      "title": "해양교통안전공단, 9개 안전 공공기관과 사고 예방 협력 논의"
+    },
+    {
+     "source": "klnews.co.kr",
+     "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323087",
+     "orig": "https://www.klnews.co.kr/news/articleView.html?idxno=323087",
+     "title": "KOMSA, 안전공공기관 감사협의회 개최"
     }
    ],
    "day": "2026-10-14",
@@ -2094,6 +2263,12 @@
      "url": "https://n.news.naver.com/mnews/article/023/0004003812?sid=102",
      "orig": "https://www.chosun.com/national/regional/2026/10/14/YZYCAS3HPJG4XNZF5S3LEZJ7PQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
      "title": "건강검진 앞두고 ‘납 배출 주사’ 의혹… DN오토모티브 수사 본격화"
+    },
+    {
+     "source": "usmbc.co.kr",
+     "url": "https://www.usmbc.co.kr/NewsArticle/867378",
+     "orig": "https://www.usmbc.co.kr/NewsArticle/867378",
+     "title": "'납 배출 주사 의혹' DN오토모티브‥경찰 조사"
     }
    ],
    "day": "2026-10-13",
