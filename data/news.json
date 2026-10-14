@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-14T16:38+09:00",
+ "updatedAt": "2026-10-14T17:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,22 +43,13 @@
    "count": 4
   },
   {
-   "id": "a6ec78c9bf21",
-   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
-   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-14",
-   "count": 3
-  },
-  {
    "id": "49a5da8a5a8c",
    "title": "[위클리오늘] 경기도, '노동안전보건 공모전' 수상작 6점 선정·시상",
    "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798058",
    "source": "weeklytoday.com",
    "cat": "hlt",
    "day": "2026-10-14",
-   "count": 2
+   "count": 3
   },
   {
    "id": "0a1c38b86999",
@@ -67,10 +58,169 @@
    "source": "뉴스핌",
    "cat": "law",
    "day": "2026-10-14",
-   "count": 2
+   "count": 3
+  },
+  {
+   "id": "a6ec78c9bf21",
+   "title": "국가공무원 공채에 과학기술직 바람…4명 중 1명 차지",
+   "url": "https://n.news.naver.com/mnews/article/001/0016374757?sid=105",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-14",
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "김제시, 하반기부터 유해 작업장 환경측정 실시",
+   "summary": "이번 측정은 산업안전보건법 제125조에 따라 근로자의 건강 보호와 안전한 작업환경 조성을 위해 추진된다. 김제시는 매년 상·하반기 두 차례 정기적으로 작업환경측정을 진행해 오고 있다. 하반기 작업환경측정 대상은...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3721640",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3721640",
+   "source": "국제뉴스",
+   "published": "2026-10-14T17:26+09:00",
+   "cat": "hlt",
+   "id": "3e43de13b23b",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "근로복지공단, 이주노동자 산재 치료비·재활비 지원에 800만원 후원",
+   "summary": "산업재해보상보험은 외국인근로자에게도 적용되는 제도다. 고용노동부의 외국인근로자 사회보험 관련... 모국어와 한글로 이름을 새긴 안전모를 이주노동자들에게 배부하고, 작업현장에서 상대방을 '야', '너' 등으로...",
+   "url": "https://idsn.co.kr/news/view/1065600885853080",
+   "orig": "https://idsn.co.kr/news/view/1065600885853080",
+   "source": "idsn.co.kr",
+   "published": "2026-10-14T17:20+09:00",
+   "cat": "law",
+   "id": "55e0c00377bf",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "기업 40% “노동위 원청 사용자성 판정, 지침 어긋나”",
+   "summary": "기자]개정 노동조합법(노란봉투법) 시행 이후 노동위원회의 원청 사용자성 판정이 법률과 고용노동부... 부정적으로 본 기업들은 그 이유로 산업안전보건법 등 공법상 의무 이행을 사용자성 인정 근거로 활용한 점(52.0...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141545107710596",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610141545107710596",
+   "source": "대한경제",
+   "published": "2026-10-14T17:02+09:00",
+   "cat": "law",
+   "id": "9bdbab40fa20",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "가축위생방역지원본부, 노사 공동 안전보건경영방침 선포",
+   "summary": "가축위생방역지원본부는 14일 본부장과 노동조합 위원장, 본부 관리감독자, 각 소속기관 안전보건관리책임자 등이 참석한 가운데 '노사 공동 안전보건경영방침 선포식'을 개최했다. 사진=가축위생방역지원본부...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322309",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322309",
+   "source": "포인트데일리",
+   "published": "2026-10-14T17:02+09:00",
+   "cat": "tech",
+   "id": "0ab84c6d7b2b",
+   "related": [
+    {
+     "source": "라이브뉴스",
+     "url": "https://www.livesnews.com/news/article.html?no=64964",
+     "orig": "https://www.livesnews.com/news/article.html?no=64964",
+     "title": "위생방역본부, 노사 공동 안전보건경영방침 선포식 개최"
+    }
+   ],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "과로 기업, 얼마나 나아졌을까… 대만 반도체·전기전자 노동자에게 물...",
+   "summary": "야오린 대만전기노조 사무국장은 “신주과학단지의 근로·산업 안전보건 감독은 노동부가 아닌 신주과학단지관리국에서 한다”며 “과학단지에만 예외를 둬서 노동을 중요시하지 않은 처사라고 생각한다”고...",
+   "url": "https://n.news.naver.com/mnews/article/036/0000054314?sid=102",
+   "orig": "https://h21.hani.co.kr/arti/society/society_general/60013.html",
+   "source": "한겨레",
+   "published": "2026-10-14T16:58+09:00",
+   "cat": "law",
+   "id": "ee2705a75ade",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "종로구, 중대산업재해·시민재해 예방·대응 실무협의체 운영",
+   "summary": "중대산업재해에는 사망자 1명 이상이 발생한 경우 등이 포함된다. 안전보건 확보 의무를 위반해 사망 사고에 이르게 하면 1년 이상의 징역 또는 10억원 이하의 벌금에 처할 수 있다. 다만 상시근로자 5명 미만 사업장은...",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160288641243314",
+   "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160288641243314",
+   "source": "siminilbo.co.kr",
+   "published": "2026-10-14T16:56+09:00",
+   "cat": "tech",
+   "id": "1d205193b7a1",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "울산 화학공장 화재, 4시간 만에 완진…저장탱크 7기로 번져 연기·폭발...",
+   "summary": "화재 직후 업체 작업자 12명과 인근 공사 현장 근로자 약 7천명이 대피했다. 인접한 에쓰오일 샤힌프로젝트 공사장에서도 일부 작업이 중단됐다. 진화 이후 일부 공정이 재개됐으나 화재 현장과 가까운 작업장은 잿가루...",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=773424",
+   "orig": "https://www.slist.kr/news/articleView.html?idxno=773424",
+   "source": "slist.kr",
+   "published": "2026-10-14T16:54+09:00",
+   "cat": "acc",
+   "id": "2f61ae31bb58",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "정부를 상대로 한 교섭 요구, 어디까지 가능한가",
+   "summary": "들어가며 개정 노동조합 및 노동관계조정법(이하 '개정 노동조합법') 제2조 제2호는 사업주 등 직접... 안전·보건상 필요한 조치를 결정하기 어려운 사정을 근거로 정부가 위탁기관 소속 근로자의 작업환경·산업안전에 관해...",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=106&in_cate2=0&gopage=1&bi_pidx=39613",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=106&in_cate2=0&gopage=1&bi_pidx=39613",
+   "source": "worklaw.co.kr",
+   "published": "2026-10-14T16:54+09:00",
+   "cat": "law",
+   "id": "4105d823c831",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "쿠팡에서 아들 잃은 부모의 6년···“산재 은폐 의혹 진상 밝혀야”",
+   "summary": "하지만 이듬해 2월 근로복지공단은 장 씨의 사망을 업무상 재해로 인정했다. 산재 조사 과정에서는 야간노동 가중치를 반영한 사망 직전 일주일의 노동시간이 62시간 10분에 달한다는 사실도 확인됐다. 사망 전 2~12주간...",
+   "url": "https://www.newsmin.co.kr/news/138008/",
+   "orig": "https://www.newsmin.co.kr/news/138008/",
+   "source": "newsmin.co.kr",
+   "published": "2026-10-14T16:50+09:00",
+   "cat": "law",
+   "id": "e9fb3e4a9e44",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "산업안전 교섭의제의 교섭단위 분리",
+   "summary": "들어가며 개정 노동조합법(노란봉투법) 시행 이후 원청과 하청 노동조합 간 단체교섭에 대한 판단이... 산업안전보건법상 의무와 단체교섭 의무의 구별 그렇다면 산업안전보건법상 의무를 이행한다는 사실만으로...",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=106&in_cate2=0&gopage=1&bi_pidx=39612",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=106&in_cate2=0&gopage=1&bi_pidx=39612",
+   "source": "worklaw.co.kr",
+   "published": "2026-10-14T16:46+09:00",
+   "cat": "law",
+   "id": "aabe70957006",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
+   "title": "전북 완주 공장 공사 현장에서 50대 노동자 끼임사",
+   "summary": "오늘(14일) 오전 9시 35분쯤 전북 완주군 봉동읍 공장 설비 공사 현장에서 협력업체 노동자인 50대 남성이 끼임 사고로 숨졌습니다. 이 남성은 공사장 설비 구조물과 지게차 사이에 끼여 병원으로 옮겨졌지만...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012273591?sid=102",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8685552&ref=A",
+   "source": "KBS",
+   "published": "2026-10-14T16:37+09:00",
+   "cat": "acc",
+   "id": "be4906760f17",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
   {
    "title": "[국감현장] 특고·플랫폼 노동자 45.8% 국민연금 보험료 전액 부담…노...",
    "summary": "14일 국회 보건복지위원회의 국민연금공단 국정감사에서 더불어민주당 박지원 의원은 특수형태... 특히 고용보험과 산재보험이 특수형태 근로종사자와 플랫폼 노동자에 대한 적용 범위를 단계적으로 확대해 온 것과 달리...",
@@ -216,6 +366,12 @@
      "url": "http://www.econonews.co.kr/news/articleView.html?idxno=445709",
      "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=445709",
      "title": "경기도, '2026 노동안전보건 공모전' 시상식 개최…수상작 6점 선정"
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016376997?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261014155600060?input=1195m",
+     "title": "경기도, 노동안전보건 사진·영상 6점 시상"
     }
    ],
    "day": "2026-10-14",
@@ -301,6 +457,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009227667?sid=105",
      "orig": "https://www.news1.kr/bio/welfare-medical/6319947",
      "title": "특수형태·플랫폼 노동자 83만명, 국민연금 사각지대에 방치"
+    },
+    {
+     "source": "jeollailbo.com",
+     "url": "http://www.jeollailbo.com/news/articleView.html?idxno=813673",
+     "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=813673",
+     "title": "특수형태·플랫폼 노동자 83만 명, 국민연금 사각지대 방치"
     }
    ],
    "day": "2026-10-14",
@@ -361,7 +523,14 @@
    "published": "2026-10-14T15:11+09:00",
    "cat": "tech",
    "id": "8a13b917d304",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342212",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342212",
+     "title": "국토안전관리원, 건설현장 폐추락방지망 재활용 추진"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -465,7 +634,14 @@
    "published": "2026-10-14T14:47+09:00",
    "cat": "tech",
    "id": "0b63eebd4397",
-   "related": [],
+   "related": [
+    {
+     "source": "한국아이닷컴",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7188943",
+     "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7188943",
+     "title": "울산항만공사, VR 안전교육 확대 추진…체험 넘어 현장 적용 모색"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -1912,6 +2088,12 @@
      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400272.html",
      "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/14/2026101400272.html",
      "title": "노동자 217명에 '납 배출 주사' 의혹 … DN오토모티브 이어 의료기관도..."
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004003812?sid=102",
+     "orig": "https://www.chosun.com/national/regional/2026/10/14/YZYCAS3HPJG4XNZF5S3LEZJ7PQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "건강검진 앞두고 ‘납 배출 주사’ 의혹… DN오토모티브 수사 본격화"
     }
    ],
    "day": "2026-10-13",
@@ -4026,6 +4208,19 @@
      "title": "DN오토모티브 임원, '납 배출 주사' 의혹 경찰 조사"
     }
    ],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "노동장관 \"메가특구 노동특례, 대화 통해 답 찾을 것\"",
+   "summary": "김 장관은 13일 국회 기후에너지환경노동위원회에서 진행된 고용노동부 국정감사에서 \"고용노동정책에서... 이어 \"산재 감소 추세를 이어갈 수 있도록 지방정부와 업종별 협회 등 관계기관이 협력해 작은 사업장에 대한...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005425376?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/10/13/2026101310221848536",
+   "source": "머니투데이",
+   "published": "2026-10-13T10:41+09:00",
+   "cat": "law",
+   "id": "b63a403d70bd",
+   "related": [],
    "day": "2026-10-13",
    "watch": []
   },
