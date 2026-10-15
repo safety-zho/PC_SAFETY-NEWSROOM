@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T15:35+09:00",
+ "updatedAt": "2026-10-15T16:39+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "폴리뉴스",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 28
+   "count": 31
   },
   {
    "id": "0acf2ee67911",
@@ -49,7 +49,7 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-15",
-   "count": 10
+   "count": 11
   },
   {
    "id": "f8b77a589bab",
@@ -58,7 +58,7 @@
    "source": "뉴스1",
    "cat": "law",
    "day": "2026-10-15",
-   "count": 9
+   "count": 10
   },
   {
    "id": "921803ea24fe",
@@ -71,6 +71,441 @@
   }
  ],
  "articles": [
+  {
+   "title": "중대재해법 위반 확정 37개 사업장 공개…경북 6곳 포함",
+   "summary": "이 사고로 박영민 전 영풍 대표이사는 중대재해처벌법 시행 후 처음으로 구속기소됐으나 이후 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐다. 기본적인 안전조치 미흡으로 발생한 사망사고도 공표 대상에...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087358",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4087358",
+   "source": "경북일보",
+   "published": "2026-10-15T16:36+09:00",
+   "cat": "sev",
+   "id": "4a01340101f1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "특고·플랫폼 놓고 노동계 \"근기법 적용\" 같은 날 노동부 \"일 기본법\"",
+   "summary": "깨지는 개정안을 제시했다. 다만, 근로자 추정제 도입을 두고 법 체계상 보완점도 제기됐다. 토론에 나선... 노동부는 기본법을 토대로 소득기반 고용보험 도입, 산업안전보건법 적용 확대 등을 추진하고, 가칭 'K...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004199277?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6592185?utm_source=naver&utm_medium=article&utm_campaign=20261015043600",
+   "source": "노컷뉴스",
+   "published": "2026-10-15T16:36+09:00",
+   "cat": "law",
+   "id": "fd7c68d0f2aa",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "대구공공시설관리공단, 시각언어모델 도입으로 AI 안전관리 대상 영예",
+   "summary": "또 현장 안전사고 빅데이터를 면밀히 분석해 산업재해 발생 유형을 사전에 예측하고 주의보와 경보를... 문기봉 이사장은 이번 수상에 대해 \"공단의 안전보건 체계를 고도화하기 위해 전사적으로 기울여 온 혁신의 결과...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=557328",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=557328",
+   "source": "dkilbo.com",
+   "published": "2026-10-15T16:36+09:00",
+   "cat": "tech",
+   "id": "323960d4a80f",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 대구광역본부, 민관 협업 근로자 안전교육 프로그램 실시",
+   "summary": "안전보건공단 대구광역본부는 지난 7일 신용보증기금 본사에서 대구 혁신도시 입주기업 안전보건업무 담당자 등 100여 명을 대상으로 근로자 증진 캠페인 및 안전수칙 교육을 실시했다. 이날 행사는 대구시...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001034626?sid=004",
+   "orig": "https://www.imaeil.com/page/view/2026101516325432760",
+   "source": "매일신문",
+   "published": "2026-10-15T16:35+09:00",
+   "cat": "tech",
+   "id": "88406c270d61",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 정준호 \"쿠팡, 언중위 제소 남발\"…7곳 경쟁사 4건 vs 쿠팡 4...",
+   "summary": "문제는 조정신청이 노동자의 사망과 과로, 산업재해 등 공익적 성격이 강한 보도에 집중됐다는 점이다.... 연도별로는 과로사와 산재 문제가 사회적 논란으로 떠올랐던 2024년 19건으로 정점을 찍었다. 이후 2025년...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322479",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322479",
+   "source": "포인트데일리",
+   "published": "2026-10-15T16:34+09:00",
+   "cat": "law",
+   "id": "9cca4747f2d6",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "렛츠런파크 부산경남 \"임직원도, 협력사도 함께 안전\"",
+   "summary": "사진=한국마사회 교육은 한국산업안전보건공단의 '찾아가는 VR 안전교육' 프로그램을 활용해 마련됐다. 설명을 듣는 데 그치는 강의형 교육과 달리, 위험 상황을 실감 나게 경험하게 해 사고 대응 능력과 안전의식을 함께...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873239",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873239",
+   "source": "한스경제",
+   "published": "2026-10-15T16:32+09:00",
+   "cat": "tech",
+   "id": "4670938bd0bc",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[패트롤]의성군-군위군-청송군",
+   "summary": "이날 강사로 나선 한국산업안전보건공단 대구광역본부 안원환 본부장은 중대재해처벌법 등 관련 법령과 공공기관의 안전보건관리 책임을 설명했다. 특히 실제 사고 사례를 중심으로 발생 원인과 예방대책을 공유하고...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261015026056775",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261015026056775",
+   "source": "에너지경제",
+   "published": "2026-10-15T16:30+09:00",
+   "cat": "tech",
+   "id": "4ee233f6033e",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "홍성소방서, 폭발·붕괴 대비 합동훈련",
+   "summary": "안전공단 자동차부품인증지원센터에서 '2026년 재난대비 긴급구조종합훈련'을 했다. 이번 훈련은 대형 재난 현장 대응능력을 높이고 관계기관 간 협력체계를 점검하기 위해 마련했다. 홍성군과 홍성경찰서, 홍성군보건소...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=869610",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=869610",
+   "source": "동양일보",
+   "published": "2026-10-15T16:26+09:00",
+   "cat": "tech",
+   "id": "7549ede92a86",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "한국산업안전보건공단 제주지역본부, 추락재해 예방 캠페인 전개",
+   "summary": "제주산재예방감독팀, 제주특별자치도 안전정책과와 함께 지난 14일 제주시 내 화북공업단지 일원에서 추락재해 예방 캠페인을 전개했다. 이번 캠페인은 최근 다수 발생하고 있는 지붕 보수 및 태양광 설치공사 중 사망사고...",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600502",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=600502",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-10-15T16:24+09:00",
+   "cat": "tech",
+   "id": "85dde93bbc7d",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "울산교육청 사회적경제 가치나눔 장터 '북적'",
+   "summary": "울산산업고 원예디자인과 학생들은 프리저브드 꽃을 활용한 미니 디퓨저 만들기를 선보였으며 한국산업안전보건공단은 생활 속 재해 예방을 주제로 가상현실(VR) 안전체험을 운영했다. 행사 기간 일부 제품은 최대 50...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014256633?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261015_0003827809",
+   "source": "뉴시스",
+   "published": "2026-10-15T16:16+09:00",
+   "cat": "tech",
+   "id": "22fe0efc1884",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "고양·파주, 안전불감증 '비상'…10월 들어 산재 사망 5건 발생",
+   "summary": "고용노동부 고양지청, 관내 업체 대상 감독 강화…\"시정기회 없이 즉시 사법처리 등 엄정 조치할 것\" 고용노동부 고양지청이 최근 산재 사망사고가 빈번하게 발생함에 따라 관내 기업들을 대상으로 기획 감독에 나섰다....",
+   "url": "https://n.news.naver.com/mnews/article/002/0002461145?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026101515510354158?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-15T16:12+09:00",
+   "cat": "sev",
+   "id": "0b5ea40a0a2c",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 서울광역본부, 용산역서 감정노동자 보호 캠페인…\"따뜻한...",
+   "summary": "한국산업안전보건공단 서울광역본부가 정신건강의 날을 맞아 감정노동자 보호와 일상 속 존중·배려 문화를 알리는 캠페인을 펼쳤다. 15일 안전보건공단 서울광역본부는 서울 용산역 일대에서 한국철도공사와 함께...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202610151558255414be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=202610151558255414be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-15T16:12+09:00",
+   "cat": "tech",
+   "id": "2a2a3a9298c7",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "국토안전관리원, 첨단 안전점검 기술 성능평가체계 구축 나서",
+   "summary": "국토안전관리원은 15일 경남 진주 본사에서 부산시설공단과 스마트 안전관리 기술의 성능평가 및 현장 실증을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양 기관은 부산시설공단이 관리하는 시설물에 스마트 점검·진단 및...",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419937",
+   "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419937",
+   "source": "bizwork.co.kr",
+   "published": "2026-10-15T16:12+09:00",
+   "cat": "tech",
+   "id": "05ad3f3c9078",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단-KT, 안전 분야 시너지 효과 창출 기대",
+   "summary": "한국산업안전보건공단(KOSHA)이 국민 생활 전반을 연결하는 KT와 안전 분야에서 시너지 효과를 창출하게 됐다. 공단은 15일 주식회사 KT와 '안전문화 확산 및 안전 격차 해소'를 위한 업무협약을 체결했다고 밝혔다. 그간 KT는...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304230",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=304230",
+   "source": "투데이에너지",
+   "published": "2026-10-15T16:10+09:00",
+   "cat": "tech",
+   "id": "cd28fa63be28",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "청년 프리랜서 고용보험 가입 17.5%…1인 가구 '생활 안전망' 필요",
+   "summary": "한편 고용노동부는 이날 '일하는 사람 기본법'의 연내 제정을 추진하고, 이를 토대로 소득기반 고용보험 도입과 산업안전보건법 적용 확대 등을 추진하겠다고 밝혔다. 노무제공자의 생활안정과 복지, 권익 보호를...",
+   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50827",
+   "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50827",
+   "source": "1conomynews.co.kr",
+   "published": "2026-10-15T16:08+09:00",
+   "cat": "law",
+   "id": "9ab4fa337072",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "롯데테크 시공 인천 건설현장서 외국인 근로자 사망... 원인 조사 중",
+   "summary": "현장을 확인한 근로감독관은 <뉴스락>과의 통화에서 \"정확한 사망 원인은 아직 밝혀지지 않았다\"며 \"부검 등 사인 확인 결과를 토대로 업무 관련성을 판단해야 한다\"고 설명했다. 이에 따라 중대재해 해당 여부도 향후...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138031",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=138031",
+   "source": "newslock.co.kr",
+   "published": "2026-10-15T16:04+09:00",
+   "cat": "sev",
+   "id": "764f893ace94",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "한화 건설부문, 음성인식·AI 사진분석 탑재 '안전퀵문고' 가동",
+   "summary": "이로 인해 한국어 표기에 서툰 다국적 외국인 인력이나 작은 모바일 화면 조작이 어려운 고령 노동자들에게... 추락, 낙하, 끼임 등 반복되는 현장 사고를 선제적으로 차단하기 위해 작업자의 경험적 직관에만 의존하던...",
+   "url": "http://www.ttlnews.com/news/articleView.html?idxno=3152115",
+   "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3152115",
+   "source": "ttlnews.com",
+   "published": "2026-10-15T16:04+09:00",
+   "cat": "tech",
+   "id": "7e081345b747",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "계룡시 2026년 3분기 산업안전보건위원회 개최",
+   "summary": "충남 계룡시는 15일 시청 재난상황실에서 '2026년 3분기 산업안전보건위원회'를 개최했다. 이번 위원회에는 근로자 위원과 사용자 위원 각 6명씩 총 12명이 참석한 가운데 사업장 내 유해·위험 요인을 살피고 산업재해...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=932231",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=932231",
+   "source": "cctimes.kr",
+   "published": "2026-10-15T16:04+09:00",
+   "cat": "hlt",
+   "id": "953634f0e424",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "대체 통로 없이 이동하고 전원 차단 없이 청소…중대재해 부른 안전관리...",
+   "summary": "다쳐 사망했다. 이 사고로 재판에 넘겨진 대표 이모 씨는 지난 3월 대법원에서 징역 3년이 확정됐다. 2022년 1월 중대재해처벌법 시행 이후 경영책임자에게 내려진 확정판결 중 가장 높은 형량이다. 나머지 경영책임자 중...",
+   "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=53678",
+   "orig": "https://www.koreareport.co.kr/news/articleView.html?idxno=53678",
+   "source": "koreareport.co.kr",
+   "published": "2026-10-15T16:02+09:00",
+   "cat": "law",
+   "id": "5d02429f27f8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "부산 산하 지방공기업 5곳, 안전보건 협의회 첫 회의 개최",
+   "summary": "고용노동부와 안전보건공단은 지난 4월 지방공기업 안전활동 수준평가를 처음 본격 시행했고, 올해는 단위 32개 기관에 적용한 뒤 2027년 167개 지방공기업으로 확대할 계획이라고 밝혔다. 배경란 부산도시공사...",
+   "url": "http://www.metroseoul.co.kr/article/20261015500422",
+   "orig": "http://www.metroseoul.co.kr/article/20261015500422",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-15T16:02+09:00",
+   "cat": "tech",
+   "id": "c64009959500",
+   "related": [
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112577",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112577",
+     "title": "부산 5개 공기업, 안전보건 협의회 첫 회의"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "제주 지붕･태양광 공사 중 추락사고 예방 캠페인",
+   "summary": "최근 지붕 보수 및 태양광 설비 공사 현장에서 추락 사망사고가 잇따르자 노동당국과 지자체가 합동으로 안전 점검 및 캠페인에 나섰다. 광주지방고용노동청 제주산재예방감독팀은 한국산업안전보건공단 제주지역본부...",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=507420",
+   "orig": "https://www.jejusori.net/news/articleView.html?idxno=507420",
+   "source": "제주의소리",
+   "published": "2026-10-15T16:00+09:00",
+   "cat": "tech",
+   "id": "4f2b669e9708",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[봉 박사의 건설 현장 이야기]중대재해처벌법 시행 그 후, 무엇이 변했...",
+   "summary": "고용노동부 공식 통계에서도 중대재해처벌법 시행 이후 사망자 수가 뚜렷한 감소세를 보였다고 단정하기 어렵다는 분석이 있다. 2022년 874명, 2023년 812명, 2024년 827명, 2025년 872명 등 산재 사망자 수가 들쭉날쭉한 상황이다....",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1105056",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1105056",
+   "source": "ccdn.co.kr",
+   "published": "2026-10-15T15:56+09:00",
+   "cat": "law",
+   "id": "d8035af52123",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "HL만도 익산공장서 또 끼임사고",
+   "summary": "지난 7월 하청노동자 고 김승모 씨가 숨진 HL만도 평택공장 사고 이후 석 달도 지나지 않아 익산공장에서 또다시 끼임사고가 발생했다. 금속노조는 평택공장 사망사고 이후 마련한 재발방지 대책이 다른 공장에서도 제대로...",
+   "url": "https://newscham.net/130051/",
+   "orig": "https://newscham.net/130051/",
+   "source": "newscham.net",
+   "published": "2026-10-15T15:56+09:00",
+   "cat": "acc",
+   "id": "d0b5025e7616",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "대전시교육청, 교원 및 행정실장 등 990여 명 대상 중대재해 예방교육 ...",
+   "summary": "대전시교육청(교육감 오석진)이 일선 학교와 교육행정기관의 산업안전보건 관리 체계를 강화하고 교육 가족... 강연에는 공신력을 갖춘 고용노동부 지정 안전보건교육기관의 전문 강사진이 대거 초빙되어 일선 학교와 산하...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=508804",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=508804",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-15T15:50+09:00",
+   "cat": "law",
+   "id": "1fcce28e2d96",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "박진호 안전보건공단 실장, AI 대전환 시대 산업안전보건 미래전략 제시",
+   "summary": "박진호 안전보건공단 AI 디지털전략 실장./사진= 한보총 제공 박진호 안전보건공단 AI 디지털전략 실장이 인공지능(AI) 기술의 확산에 따른 산업환경 변화와 산업안전보건 분야의 미래 대응전략을 제시했다. 박 실장은...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251036",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251036",
+   "source": "안전신문",
+   "published": "2026-10-15T15:50+09:00",
+   "cat": "tech",
+   "id": "c845ea819b03",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "KT, 고객 접점·업무용 차량으로 안전문화 알린다",
+   "summary": "KT는 서울 종로구 KT광화문빌딩 웨스트에서 한국산업안전보건공단과 '산업현장 안전문화 확산 및 안전격차 해소를 위한 업무협약'을 체결했다고 15일 밝혔다. 회사의 인프라와 공단의 산업안전 전문성을 결합할 계획이다....",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2006435",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006435",
+   "source": "m-i.kr",
+   "published": "2026-10-15T15:50+09:00",
+   "cat": "tech",
+   "id": "fac44f881f4d",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "기후재난 대응도 AI 시대…재난안전경영協, 안전관리자 역량강화 교육",
+   "summary": "재난안전경영협회는 지난 7일 서울 영등포구 스마트도시협회 교육장에서 '기후재난대응 AI활용 관리자... 협회는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 2026년 AI 활용 산업맞춤형 혁신바우처...",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419934",
+   "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419934",
+   "source": "bizwork.co.kr",
+   "published": "2026-10-15T15:42+09:00",
+   "cat": "tech",
+   "id": "a9744a708b99",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "광주상의, 제조업 CEO·안전관리자 대상 안전 워크숍 개최",
+   "summary": "가운데 'CEO 안전 인식 개선 교육 워크숍'을 열었다. 고용노동부와 전남광주통합특별시가 지원하는 '융·복합 가전산업 고용환경 혁신 패키지 지원사업'의 일환이다. 16일까지 1박 2일 일정으로 열리는 이번 행사는 전문...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1415262",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1415262",
+   "source": "한국아이닷컴",
+   "published": "2026-10-15T15:40+09:00",
+   "cat": "law",
+   "id": "aa3e239fd75f",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 이동통신 소식_KT, LG유플러스(10.15)",
+   "summary": "▲ KT노동조합 김인관 위원장(좌측 3번째), 한국산업안전보건공단 김현중 이사장(좌측 4번째) 그리고 KT CSHO(안전보건총괄) 김영인 부사장(좌측 5번째)을 비롯한 KT, 한국산업안전보건공단 임직원이 기념 촬영을 하고 있다....",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798153",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=798153",
+   "source": "weeklytoday.com",
+   "published": "2026-10-15T15:40+09:00",
+   "cat": "tech",
+   "id": "b836528a39fd",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "노동부 \"DN오토모티브 납 조작 검진기관 개입 의혹도 수사 요청\"",
+   "summary": "또 노동부는 지난 4월에 이어 이달에도 전국 모든 특수건강진단기관 및 직업병안심센터에 킬레이션 모니터링 및 의심사례 신고를 요청했다. 노동부는 수사 결과 특수건강진단기관의 위법 사실이 확인되면 가능한 모든...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016379524?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261015129500530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-15T15:36+09:00",
+   "cat": "hlt",
+   "id": "19037cdc360f",
+   "related": [
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001529289?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6858216_36918.html",
+     "title": "노동부 \"DN오토모티브 납 조작 검진기관 개입 의혹도 수사 요청\""
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014256661?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261015_0003827820",
+     "title": "노동부, '납배출주사' DN오토모티브 검진기관도 수사 요청"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112580",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112580",
+     "title": "노동부, DN오토모티브 납 수치 조작 의혹 검진기관도 수사 요청"
+    },
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003558190?sid=102",
+     "orig": "https://www.joongang.co.kr/article/25470048",
+     "title": "“납 수치 조작, 검진기관 개입도 수사해달라”…노동부, DN오토모티브..."
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "\"따뜻한 말 한마디가 안전한 일터 만든다\"",
+   "summary": "/사진 = 안전보건공단 서울광역본부 제공 고객응대 과정에서 감정적 어려움을 겪는 노동자들의 정신건강을 보호하고 이들을 존중하는 사회적 분위기를 조성하기 위한 캠페인이 서울 용산역에서 열렸다. 안전보건공단...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251035",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251035",
+   "source": "안전신문",
+   "published": "2026-10-15T15:36+09:00",
+   "cat": "tech",
+   "id": "85bfb283ef31",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "\"타이핑 대신 말로\"···한화 건설부문, 안전신고 문턱 낮췄다",
    "summary": "고용노동부 잠정 통계에서는 지난해 상반기 산재 사망자 가운데 외국인이 38명으로 전체의 13.2%를 차지했다. 고령화도 빠르다. 공제회 '건설기성 및 건설기능인력 동향'에 따르면 올해 4월 기준 건설기능인력 평균...",
@@ -145,7 +580,14 @@
    "published": "2026-10-15T15:18+09:00",
    "cat": "law",
    "id": "c5a85147731c",
-   "related": [],
+   "related": [
+    {
+     "source": "asiatime.co.kr",
+     "url": "https://www.asiatime.co.kr/article/20261015500284",
+     "orig": "https://www.asiatime.co.kr/article/20261015500284",
+     "title": "인천공항, 산안법 위반 430건 무더기 적발…현장 안전관리 '경고등'"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -171,7 +613,20 @@
    "published": "2026-10-15T15:16+09:00",
    "cat": "sev",
    "id": "0c0bc21ecc9a",
-   "related": [],
+   "related": [
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2119821",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2119821",
+     "title": "롯데케미칼 자회사 롯데테크 건설현장 근로자 1명 사망"
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123326",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=123326",
+     "title": "롯데케미칼 자회사 롯데테크 건설현장서 근로자 사망…경찰·노동부 조..."
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -596,6 +1051,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009230123?sid=102",
      "orig": "https://www.news1.kr/local/daejeon-chungnam/6321270",
      "title": "천안 대원산업 폭발사고 피해 이주노동자 유족, 사측과 합의"
+    },
+    {
+     "source": "대전일보",
+     "url": "https://n.news.naver.com/mnews/article/656/0000189615?sid=102",
+     "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2307259",
+     "title": "천안 대원산업 화재 폭발 피해 이주노동자 유족, 사측과 합의"
     }
    ],
    "day": "2026-10-15",
@@ -610,7 +1071,14 @@
    "published": "2026-10-15T13:56+09:00",
    "cat": "law",
    "id": "88d459fc4f03",
-   "related": [],
+   "related": [
+    {
+     "source": "ifm.kr",
+     "url": "https://news.ifm.kr/news/articleView.html?idxno=481781",
+     "orig": "https://news.ifm.kr/news/articleView.html?idxno=481781",
+     "title": "인천공항 산업안전법 위반 430건 적발...과태료 9억"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -838,6 +1306,12 @@
      "url": "https://n.news.naver.com/mnews/article/002/0002461069?sid=102",
      "orig": "https://www.pressian.com/pages/articles/2026101511290574662?utm_source=naver&utm_medium=search",
      "title": "대구군위군, 중대재해 예방교육 실시...공직사회 안전의식 강화"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261015500942",
+     "orig": "https://www.viva100.com/article/20261015500942",
+     "title": "대구시 군위군, 중대재해 예방 교육으로 안전의식 강화"
     }
    ],
    "day": "2026-10-15",
@@ -1440,6 +1914,12 @@
      "url": "https://www.news2day.co.kr/article/20261015500107",
      "orig": "https://www.news2day.co.kr/article/20261015500107",
      "title": "청년 프리랜서 고용보험 가입률 17.5%…노동부 \"일하는 사람 기본법 연..."
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2636288",
+     "orig": "https://www.etoday.co.kr/news/view/2636288",
+     "title": "사각지대 놓인 청년 프리랜서⋯노동장관 \"일하는 사람 기본법 연내 제정..."
     }
    ],
    "day": "2026-10-15",
@@ -1675,6 +2155,24 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019454",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019454",
      "title": "안전보건공단·KT, 안전문화 확산·안전격차 해소 '맞손'"
+    },
+    {
+     "source": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=318147",
+     "orig": "https://www.cnbizm.com/news/articleView.html?idxno=318147",
+     "title": "KT·산업안전보건공단, 산업현장 안전문화 확산 위해 손잡았다"
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202610151548111353f4ab64559d_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=202610151548111353f4ab64559d_12",
+     "title": "한국산업안전보건공단, KT와 안전문화 확산 업무협약 체결"
+    },
+    {
+     "source": "ftoday.co.kr",
+     "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367389",
+     "orig": "http://www.ftoday.co.kr/news/articleView.html?idxno=367389",
+     "title": "KT, 한국산업안전보건공단과 안전문화 확산 협력"
     }
    ],
    "day": "2026-10-15",
@@ -1990,6 +2488,12 @@
      "url": "https://n.news.naver.com/mnews/article/214/0001529240?sid=102",
      "orig": "https://imnews.imbc.com/news/2026/society/article/6858156_36918.html",
      "title": "올 상반기 중대재해사업장 37곳‥경영책임자 1명 징역 3년 확정"
+    },
+    {
+     "source": "sidae.com",
+     "url": "https://n.news.naver.com/mnews/article/417/0001161049?sid=101",
+     "orig": "https://www.sidae.com/article/2026101514030994601",
+     "title": "37개 중대재해 사업장 공개…경영책임자 1명 실형"
     }
    ],
    "day": "2026-10-15",
@@ -2010,6 +2514,12 @@
      "url": "https://idsn.co.kr/news/view/1065577552504589",
      "orig": "https://idsn.co.kr/news/view/1065577552504589",
      "title": "중대재해처벌법 위반 사업장 37곳 명단 공표…경영책임자 39명 형 확정"
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037726",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037726",
+     "title": "중대산업재해 사업장 37곳 공표…경영책임자 39명 중 실형 1명"
     }
    ],
    "day": "2026-10-15",
@@ -2036,6 +2546,12 @@
      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407186",
      "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407186",
      "title": "노동부, 형 확정 중대재해 사업장 37곳 공표···징역 3년 실형 포함"
+    },
+    {
+     "source": "worktoday.co.kr",
+     "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90468",
+     "orig": "http://www.worktoday.co.kr/news/articleView.html?idxno=90468",
+     "title": "노동부, 중대산업재해 사업장 37곳 명단 공개"
     }
    ],
    "day": "2026-10-15",
@@ -2563,6 +3079,19 @@
    "watch": []
   },
   {
+   "title": "[핫 이슈] 2026 국회 국정감사 ② LH 공급 실행력 도마에…그린리모델링...",
+   "summary": "기후환경노동위의 고용노동부 국감에서는 감독 이후에도 건설현장 사망사고가 반복되는 문제가 도마에 올랐다. 포스코이앤씨 본사와 현장을 감독하고 개선을 요구했지만 이후에도 철근 낙하와 추락으로 노동자가...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52282",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52282",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-14T18:12+09:00",
+   "cat": "law",
+   "id": "d12d80be767b",
+   "related": [],
+   "day": "2026-10-14",
+   "watch": []
+  },
+  {
    "title": "울산항만공사, 고위험 작업 대응 VR 교육 실시…근로자 안전 강화",
    "summary": "이번 교육은 한국산업안전보건공단의 지원으로 마련됐으며, 이론 중심의 기존 교육에서 벗어나 근로자가 현장에서 겪을 수 있는 다양한 재해 상황을 직접 체험하고 사고 발생 시 대응 역량을 높이는 데 목적을 뒀다....",
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3721702",
@@ -2967,6 +3496,12 @@
      "url": "https://n.news.naver.com/mnews/article/001/0016376997?sid=102",
      "orig": "https://www.yna.co.kr/view/AKR20261014155600060?input=1195m",
      "title": "경기도, 노동안전보건 사진·영상 6점 시상"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003689313?sid=102",
+     "orig": "https://www.seoul.co.kr/news/publicnews/local_govern/kyungki_do/2026/10/15/20261015500197?wlog_tag3=naver",
+     "title": "송규근 경기도의원 ‘노동안전보건 공모전 시상식’ 참석"
     }
    ],
    "day": "2026-10-14",
@@ -4904,6 +5439,32 @@
    "published": "2026-10-13T19:00+09:00",
    "cat": "law",
    "id": "37003d723692",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "김영훈 \"메가특구 노동특례 신중 검토\"… 노사정 대화로 해법 모색",
+   "summary": "조화시킬지가 국정감사에서 주요 쟁점으로 떠올랐다. 김영훈 고용노동부 장관은 노동 특례에 신중한 검토가... 특히 최근 5년간 특별연장근로 인가 사업장의 산업재해와 장시간 노동 간 연관성을 전수조사하고 산재가...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3439961",
+   "orig": "https://www.newscj.com/news/articleView.html?idxno=3439961",
+   "source": "천지일보",
+   "published": "2026-10-13T19:00+09:00",
+   "cat": "law",
+   "id": "ff2c93340a91",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 노동 국감] 메가프로젝트 노동시간 문제 집중 제기",
+   "summary": "국회 기후에너지환경노동위원회의 13일 고용노동부 국정감사에서 정부의 3대 메가프로젝트가 도마에... 현행 특별연장근로도 '산재 인가' 수준··· \"메가특구법은 더 심각한 방향\" 서왕진 조국혁신당 의원은 이미 운영...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41638",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41638",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-13T18:33+09:00",
+   "cat": "law",
+   "id": "64a10076ee30",
    "related": [],
    "day": "2026-10-13",
    "watch": []
