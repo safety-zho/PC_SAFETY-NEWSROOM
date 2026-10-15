@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T10:30+09:00",
+ "updatedAt": "2026-10-15T11:29+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,13 +25,13 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "f8b77a589bab",
-   "title": "청년 프리랜서 고용보험 17.5%…'일하는 사람 기본법' 연내 제정",
-   "url": "https://n.news.naver.com/mnews/article/421/0009229095?sid=101",
-   "source": "뉴스1",
-   "cat": "law",
+   "id": "0acf2ee67911",
+   "title": "킨텍스, 'AI 안전관리 어워즈' 대상 수상…마이스 업계 최초",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
+   "source": "joongangenews.com",
+   "cat": "tech",
    "day": "2026-10-15",
-   "count": 6
+   "count": 10
   },
   {
    "id": "0723df4178cf",
@@ -40,25 +40,16 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-15",
-   "count": 5
+   "count": 8
   },
   {
-   "id": "0acf2ee67911",
-   "title": "킨텍스, 'AI 안전관리 어워즈' 대상 수상…마이스 업계 최초",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
-   "source": "joongangenews.com",
-   "cat": "tech",
+   "id": "f8b77a589bab",
+   "title": "청년 프리랜서 고용보험 17.5%…'일하는 사람 기본법' 연내 제정",
+   "url": "https://n.news.naver.com/mnews/article/421/0009229095?sid=101",
+   "source": "뉴스1",
+   "cat": "law",
    "day": "2026-10-15",
-   "count": 5
-  },
-  {
-   "id": "b4a89e7e20ab",
-   "title": "영풍·현우·일광폴리머 등 중대재해 유죄 확정 37개 사업장 공개",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251025",
-   "source": "안전신문",
-   "cat": "sev",
-   "day": "2026-10-15",
-   "count": 2
+   "count": 7
   },
   {
    "id": "debd3036d2d2",
@@ -67,10 +58,227 @@
    "source": "paxetv.com",
    "cat": "tech",
    "day": "2026-10-15",
+   "count": 4
+  },
+  {
+   "id": "104a0962c257",
+   "title": "인천시설공단, '저탄소·AI 안전관리·ESG 대상' 3개 부문 대상",
+   "url": "https://www.incheontoday.com/news/articleView.html?idxno=324959",
+   "source": "incheontoday.com",
+   "cat": "tech",
+   "day": "2026-10-15",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "[국감 워치] '주 52시간 미만'에도 과로사 위험…배달·택배 등 운수업 ...",
+   "summary": "[사진제공=뉴시스] 현행 산업재해(이하 산재) 판정에서는 주 52시간이 과로사(뇌심혈관계질병)의 업무상... 업무상 질병 여부를 확인하기 위한 역학조사가 진행되는 동안 사망한 노동자는 2020년 이후 매년 20~30명에...",
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130077",
+   "orig": "https://www.ntoday.co.kr/news/articleView.html?idxno=130077",
+   "source": "시사오늘",
+   "published": "2026-10-15T11:26+09:00",
+   "cat": "hlt",
+   "id": "dc0e42358a8e",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "“배기장치도, 안전난간도 없었다”…중대재해 사업장 37곳 공개",
+   "summary": "4명의 사상자를 낸 영풍 석포제련소와 법 시행 이후 최고 형량이 확정된 일광폴리머 등이 이름을 올렸다.... 이 사고로 영풍 대표이사는 중대재해처벌법 시행 이후 경영책임자 중 처음 구속기소됐다. 형량은 징역 1년...",
+   "url": "https://www.kukinews.com/article/view/kuk202610150097",
+   "orig": "https://www.kukinews.com/article/view/kuk202610150097",
+   "source": "쿠키뉴스",
+   "published": "2026-10-15T11:24+09:00",
+   "cat": "law",
+   "id": "9b04cefb71e8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "\"작은 위험도 놓치지 않는다\"···군위군, 중대재해 사전 예방에 집중",
+   "summary": "교육 현장에서는 한국산업안전보건공단 대구광역본부 안원환 본부장이 강연자로 나서 중대재해처벌법 등 안전 관련 법령의 주요 사항을 짚었다. 특히 공공기관이 갖춰야 할 안전보건관리 책임과 실제 사고 사례를...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=751088",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=751088",
+   "source": "프라임경제",
+   "published": "2026-10-15T11:20+09:00",
+   "cat": "tech",
+   "id": "bc66db1fb1a9",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "담양군, 가을 농번기 농기계 안전사고 주의 당부",
+   "summary": "군은 두 보험료의 80%를 지원하며, 영세·고령 농가 경영주에게는 안전재해보험 자부담금 20%를 추가 지원한다. 트랙터, 콤바인, 이앙기 등 15개 기종이 대상인 농기계 종합보험의 경우, 주요 3개 기종(트랙터·콤바인...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1415125",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1415125",
+   "source": "한국아이닷컴",
+   "published": "2026-10-15T11:20+09:00",
+   "cat": "acc",
+   "id": "ab0f694ea473",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "인천시설공단, 친환경 시설관리·디지털 안전관리 성과 인정",
+   "summary": "이번 시상은 인공지능과 신재생에너지 기술을 활용해 지속가능한 저탄소 스마트도시 조성에 기여한 공공기관과 기업을 선정하고, 환경과 안전을 고려한 경영 사례를 확산하기 위해 마련됐다. 공단은 그동안 노후 설비...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=654443",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654443",
+   "source": "경인매일",
+   "published": "2026-10-15T11:10+09:00",
+   "cat": "tech",
+   "id": "d2b3dc9951df",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동부 장관 “올해 ‘일하는 사람 기본법’ 제정 위해 최선 지...",
+   "summary": "고용노동부는 15일 서울고용노동청에서 김영훈 장관과 청년 프리랜서 등 20여명이 참석한 가운데 ‘청년... 정부는 현장 의견을 반영해 ‘일하는 사람 기본법’의 연내 제정과 소득 기반 고용보험 도입, 산업안전보건법...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000127547?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261015580129",
+   "source": "kyeonggi.com",
+   "published": "2026-10-15T11:08+09:00",
+   "cat": "law",
+   "id": "2ae11e912240",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "‘비타민 주사’로 납수치 낮췄나…DN오토모티브 경찰 수사 속도",
+   "summary": "고용노동부는 의혹이 제기되자 지난 3월쯤 DN오토모티브 사업장을 감독했다. 그 결과 산업안전보건법 위반 사항 68건을 적발하고 과태료 4620만원을 부과하는 등 조치했다. 또 지난 4월 21일부터 5월7일까지 납 노출 공정에...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003558080?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25469923",
+   "source": "중앙일보",
+   "published": "2026-10-15T11:02+09:00",
+   "cat": "law",
+   "id": "5c8ff0cf29e2",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "복합리조트 인스파이어, '감정노동자 보호 우수기업' 인증 획득",
+   "summary": "고객응대 현장 관리자 18명이 감정노동관리사 자격을 취득했고, ISO 45001 안전보건경영시스템 인증에 이어 올해 감정노동 우수사례 발표대회에서 대상(고용노동부 장관상)을 수상했다. 위험상황이 발생하면 이머전시...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069654",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069654",
+   "source": "경상일보",
+   "published": "2026-10-15T10:58+09:00",
+   "cat": "tech",
+   "id": "03b93b4b9851",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "산재 인정 6년째…쿠팡 과로사 은폐 의혹 규명 촉구",
+   "summary": "앞서 근로복지공단은 장 씨의 사망을 산업재해로 인정했지만, 지난해(2025년) 12월 쿠팡 경영진이 고인의 노동강도를 축소하려 했다는 의혹이 제기됐습니다. 이에 대해 쿠팡은 전직 임원의 왜곡된 주장이라며 의혹을...",
+   "url": "https://www.tbc.co.kr/news/view?pno=20261015084824AE06875&id=212159",
+   "orig": "https://www.tbc.co.kr/news/view?pno=20261015084824AE06875&id=212159",
+   "source": "tbc.co.kr",
+   "published": "2026-10-15T10:54+09:00",
+   "cat": "hlt",
+   "id": "823fe12799d1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "형 확정 중대재해사업장, 평균 3.6개 조항 위반",
+   "summary": "이번 공표 사업장에는 중대재해처벌법 시행 이후 현재까지 가장 무거운 형인 징역 3년의 실형이 확정된 사업장, 다수 사상자가 발생해 처음으로 경영책임자가 구속·기소됐다가 최종심에서 징역 1년 6개월, 집행유예...",
+   "url": "http://www.srtimes.kr/news/articleView.html?idxno=214853",
+   "orig": "http://www.srtimes.kr/news/articleView.html?idxno=214853",
+   "source": "srtimes.kr",
+   "published": "2026-10-15T10:52+09:00",
+   "cat": "sev",
+   "id": "b203991c4ad3",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "온열질환 산재 5년간 244명…직역별 현황 파악은 '깜깜'",
+   "summary": "국회 기후에너지환경노동위원회 소속 더불어민주당 이건태 의원이 15일 고용노동부로부터 제출받은 자료에 따르면, 2021년부터 2025년까지 온열질환 산재 승인 노동자는 모두 244명, 이 중 사망자는 25명으로 집계됐다....",
+   "url": "https://news.cpbc.co.kr/article/1176349?division=NAVER",
+   "orig": "https://news.cpbc.co.kr/article/1176349?division=NAVER",
+   "source": "cpbc.co.kr",
+   "published": "2026-10-15T10:50+09:00",
+   "cat": "law",
+   "id": "c643de9eade0",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "의정부시, 45명 대상 하반기 관리감독자 안전보건교육 실시",
+   "summary": "이번 교육은 산업안전보건법에 따라 현업 부서 관리감독자의 안전보건 역량을 강화하고, 사업장 내 유해 및 위험 요인을 사전에 파악해 산업재해를 예방하기 위해 마련됐다. 교육에는 관리감독자 45명이 참석했으며, 8시간...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3722209",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3722209",
+   "source": "국제뉴스",
+   "published": "2026-10-15T10:40+09:00",
+   "cat": "law",
+   "id": "49a4257ac3b1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "한화 건설부문 \"잠재 위험요인까지 찾아\" AI 안전관리 고도화",
+   "summary": "㈜한화 건설부문이 음성인식과 인공지능(AI) 사진분석 기술을 활용해 건설현장 안전관리 체계 고도화에 나선다. 근로자 위험요인 신고 절차를 간소화하는 동시에 AI를 통해 잠재적 위험요인까지 발굴하고 개선대책을...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=751067",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=751067",
+   "source": "프라임경제",
+   "published": "2026-10-15T10:34+09:00",
+   "cat": "tech",
+   "id": "6a5238614fe1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "일광폴리머, 중대재해법 최고형 '징역 3년'…첫 구속기소 영풍은 '집행...",
+   "summary": "일광폴리머 대표는 중대재해처벌법 시행 이후 가장 무거운 징역 3년의 실형을 확정받았다. 법 시행 이후 처음으로 경영책임자가 구속기소된 영풍 석포제련소는 징역 1년 6개월에 집행유예 3년이 확정됐다. 이번 공표...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003475321?sid=100",
+   "orig": "https://www.etnews.com/20261015000149",
+   "source": "전자신문",
+   "published": "2026-10-15T10:32+09:00",
+   "cat": "sev",
+   "id": "09d97f0f9329",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "울산시, 납 배출 사업장 특별 점검…위반시 사법처분 등 강력 대응",
+   "summary": "울산=곽시열 기자 최근 울산지역 한 기업체에서 납 노출에 따른 산업안전보건과 관련해 논란이 제기되자... 경찰은 고용노동부로부터 이 행위가 정부의 근로자에 대한 건강보호 조치를 방해했다는 수사 의뢰를 받고...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002825286?sid=102",
+   "orig": "https://www.munhwa.com/article/11623651?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-15T10:31+09:00",
+   "cat": "acc",
+   "id": "4c587a11bd05",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "전남테크노파크, '기업에 인재를 구직자에 일자리를'... 1500명 운집",
+   "summary": "고용노동부 여수고용노동지청, 광주전남지방중소벤처기업청, 광주지방보훈청 제대군인지원센터, 한국산업... 산업안전과 제조공정 자동화 기술을 직접 만져보고 체감하는 3대 인공지능(AI) 특화 체험 부스도 현장에서...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=508712",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=508712",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-15T10:30+09:00",
+   "cat": "tech",
+   "id": "2d92f2780667",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "산업현장 안전부터 시민축제까지… 기업들의 현장 소통",
    "summary": "KT는 산업안전보건공단과 협약을 맺고 통신업 종사자와 협력사의 안전관리 역량을 높이기로 했다. 삼표시멘트는 강원 삼척시의 지역축제에 참여해 시민들을 위한 체험 프로그램을 운영했다. 배달의민족 운영사...",
@@ -93,7 +301,14 @@
    "published": "2026-10-15T10:16+09:00",
    "cat": "tech",
    "id": "104a0962c257",
-   "related": [],
+   "related": [
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2006233",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006233",
+     "title": "인천시설공단, 저탄소·AI 안전관리·ESG 3개 부문 대상"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -175,6 +390,12 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000542258?sid=102",
      "orig": "https://news.tf.co.kr/read/life/2376554.htm",
      "title": "청년 프리랜서 고용보험 가입률 17.5%…'일하는 사람 기본법' 연내 제정"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000645000?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590093.html",
+     "title": "노동부, 청년 프리랜서 오픈마이크 개최…\"일하는 사람 기본법 연내 제..."
     }
    ],
    "day": "2026-10-15",
@@ -241,7 +462,14 @@
    "published": "2026-10-15T09:42+09:00",
    "cat": "tech",
    "id": "8e09152be2ab",
-   "related": [],
+   "related": [
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873042",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873042",
+     "title": "KT, 산업현장 안전 사각지대 줄인다…안전보건공단과 맞손"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -285,6 +513,19 @@
    "watch": []
   },
   {
+   "title": "㈜아이티유, AI 다국어 안전교육 기술로 건설안전 혁신…포르투갈 스마...",
+   "summary": "특히 다양한 국적의 근로자가 함께 일하는 건설현장에서는 안전관리자의 설명을 모든 작업자가 이해하는 것이 중요하다. AI 다국어 음성 기술은 이러한 소통 문제를 개선하고 안전교육의 실효성을 높이는 수단으로...",
+   "url": "https://www.livesnews.com/news/article.html?no=64982",
+   "orig": "https://www.livesnews.com/news/article.html?no=64982",
+   "source": "라이브뉴스",
+   "published": "2026-10-15T09:24+09:00",
+   "cat": "tech",
+   "id": "8da5b0f834d8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
    "title": "영풍·현우·일광폴리머 등 중대재해 유죄 확정 37개 사업장 공개",
    "summary": "영풍과 현우, 일광폴리머, 신성산업, 케이피텍 등 중대재해처벌법 위반으로 유죄가 확정된 37개 사업장의... 1명이 사망했다. 인화성 증기가 발생할 수 있는 작업이었지만 폭발 위험을 방지할 설비와 증기 배출조치가...",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251025",
@@ -319,6 +560,18 @@
      "url": "https://www.businessplus.kr/news/articleView.html?idxno=118206",
      "orig": "https://www.businessplus.kr/news/articleView.html?idxno=118206",
      "title": "㈜한화 건설부문, AI 사진분석·음성신고 도입…현장 안전관리 개선"
+    },
+    {
+     "source": "mediafine.co.kr",
+     "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=92627",
+     "orig": "https://www.mediafine.co.kr/news/articleView.html?idxno=92627",
+     "title": "(주)한화 건설부문, 안전신문고에 음성인식·AI 도입…현장 위험요인 관..."
+    },
+    {
+     "source": "koreaittimes.com",
+     "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158175",
+     "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=158175",
+     "title": "한화 건설부문, AI·음성인식 접목해 건설현장 안전관리 혁신"
     }
    ],
    "day": "2026-10-15",
@@ -346,7 +599,14 @@
    "published": "2026-10-15T09:02+09:00",
    "cat": "law",
    "id": "e29a21bd2601",
-   "related": [],
+   "related": [
+    {
+     "source": "미디어펜",
+     "url": "https://www.mediapen.com/news/view/1130123",
+     "orig": "https://www.mediapen.com/news/view/1130123",
+     "title": "중대재해법 형 확정 사업장 37곳 추가 공표…처벌 90% 이상 '집행유예'"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -411,7 +671,14 @@
    "published": "2026-10-15T09:00+09:00",
    "cat": "sev",
    "id": "ee9cb9205c1c",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500129.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500129.html",
+     "title": "영풍 석포제련소부터 일광폴리머까지… 중대재해 형 확정 37곳 명단 공개"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -461,6 +728,24 @@
      "url": "https://n.news.naver.com/mnews/article/008/0005426643?sid=101",
      "orig": "https://www.mt.co.kr/economy/2026/10/15/2026101509470342122",
      "title": "중대재해 사업장 37곳 공개…징역 3년 실형 확정 사례도"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002418992?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202610151038313273",
+     "title": "올해 상반기 중대재해사업장 37곳...대표 1명 징역 3년"
+    },
+    {
+     "source": "smartbizn.com",
+     "url": "https://www.smartbizn.com/news/articleView.html?idxno=156478",
+     "orig": "https://www.smartbizn.com/news/articleView.html?idxno=156478",
+     "title": "노동부, 중대재해 사업장 37곳 공표···경영책임자 1명 징역 3년 확정"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003476428?sid=102",
+     "orig": "https://www.khan.co.kr/article/202610151104001",
+     "title": "올 상반기 중대재해 형 확정 사업장 37곳…실형 선고 1명뿐"
     }
    ],
    "day": "2026-10-15",
@@ -475,7 +760,14 @@
    "published": "2026-10-15T09:00+09:00",
    "cat": "sev",
    "id": "6cd0f1630b52",
-   "related": [],
+   "related": [
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065577552504589",
+     "orig": "https://idsn.co.kr/news/view/1065577552504589",
+     "title": "중대재해처벌법 위반 사업장 37곳 명단 공표…경영책임자 39명 형 확정"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -532,6 +824,36 @@
      "url": "https://n.news.naver.com/mnews/article/005/0001878832?sid=102",
      "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000022786&cp=nv",
      "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈’ 대상 수상"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2006234",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006234",
+     "title": "킨텍스, 마이스 업계 최초 AI 안전관리 어워즈 대상 수상"
+    },
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000959584?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026101510110000756?did=NA",
+     "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈 대상’ 수상"
+    },
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/605260?ref=naver",
+     "orig": "https://www.naeil.com/news/read/605260?ref=naver",
+     "title": "킨텍스 ‘AI 안전관리 어워즈’ 대상 수상"
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005426740?sid=102",
+     "orig": "https://www.mt.co.kr/policy/2026/10/15/2026101511010925354",
+     "title": "킨텍스, AI로 전시장 안전 지킨다…마이스 업계 최초 안전관리 대상"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009229404?sid=102",
+     "orig": "https://www.news1.kr/local/gyeonggi/6321010",
+     "title": "킨텍스, 마이스 업계 최초 'AI 안전관리 어워즈' 대상 수상"
     }
    ],
    "day": "2026-10-15",
@@ -910,7 +1232,14 @@
    "published": "2026-10-14T18:40+09:00",
    "cat": "tech",
    "id": "88bdc8c73bb2",
-   "related": [],
+   "related": [
+    {
+     "source": "youngnong.co.kr",
+     "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71066",
+     "orig": "https://www.youngnong.co.kr/news/articleView.html?idxno=71066",
+     "title": "하림·한국교통안전공단, 화물차 안전관리 협력…동물복지 운송 개선도..."
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
