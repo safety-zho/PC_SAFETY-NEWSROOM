@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T11:29+09:00",
+ "updatedAt": "2026-10-15T12:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,13 +25,31 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "8e09152be2ab",
+   "title": "KT·산업안전보건공단, 산업현장 안전문화 확산 맞손",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745773",
+   "source": "폴리뉴스",
+   "cat": "tech",
+   "day": "2026-10-15",
+   "count": 13
+  },
+  {
    "id": "0acf2ee67911",
    "title": "킨텍스, 'AI 안전관리 어워즈' 대상 수상…마이스 업계 최초",
    "url": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 10
+   "count": 12
+  },
+  {
+   "id": "f8b77a589bab",
+   "title": "청년 프리랜서 고용보험 17.5%…'일하는 사람 기본법' 연내 제정",
+   "url": "https://n.news.naver.com/mnews/article/421/0009229095?sid=101",
+   "source": "뉴스1",
+   "cat": "law",
+   "day": "2026-10-15",
+   "count": 9
   },
   {
    "id": "0723df4178cf",
@@ -43,34 +61,232 @@
    "count": 8
   },
   {
-   "id": "f8b77a589bab",
-   "title": "청년 프리랜서 고용보험 17.5%…'일하는 사람 기본법' 연내 제정",
-   "url": "https://n.news.naver.com/mnews/article/421/0009229095?sid=101",
-   "source": "뉴스1",
-   "cat": "law",
-   "day": "2026-10-15",
-   "count": 7
-  },
-  {
    "id": "debd3036d2d2",
    "title": "한화 건설부문, '안전신문고'에 AI·음성인식 도입…현장 안전관리 고도...",
    "url": "http://www.paxetv.com/news/articleView.html?idxno=284194",
    "source": "paxetv.com",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 4
-  },
-  {
-   "id": "104a0962c257",
-   "title": "인천시설공단, '저탄소·AI 안전관리·ESG 대상' 3개 부문 대상",
-   "url": "https://www.incheontoday.com/news/articleView.html?idxno=324959",
-   "source": "incheontoday.com",
-   "cat": "tech",
-   "day": "2026-10-15",
-   "count": 2
+   "count": 6
   }
  ],
  "articles": [
+  {
+   "title": "코이텐트 에어텐트, 폭염 속 건설현장 근로자 지킨다···시원한 그늘막...",
+   "summary": "열사병 사망이 중대재해처벌법 적용 대상이 될 수 있는 만큼, 폭염기 근로자 쉼터를 어떻게 확보하느냐가 건설사의 안전관리 역량을 가늠하는 기준이 되고 있다. 코이텐트는 프리미엄 원단과 두터운 공기층을 갖춘...",
+   "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55305",
+   "orig": "https://www.enetnews.co.kr/news/articleView.html?idxno=55305",
+   "source": "enetnews.co.kr",
+   "published": "2026-10-15T12:26+09:00",
+   "cat": "hlt",
+   "id": "44db83374462",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "킨텍스, AI 안전 인증 이어 안전관리 대상…지능형 CCTV·스마트센서 활...",
+   "summary": "킨텍스는 지난 14일 고양시 킨텍스에서 열린 '2026 도시안전기술박람회'에서 도시재생안전협회가 주관하는... 기반 스마트센서도 활용하고 있다. 킨텍스는 센서에서 수집한 정보와 시설 운영데이터를 연계해 설비...",
+   "url": "http://www.metroseoul.co.kr/article/20261015500187",
+   "orig": "http://www.metroseoul.co.kr/article/20261015500187",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-15T12:20+09:00",
+   "cat": "tech",
+   "id": "5441a3bf853b",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "한화 건설부문, 건설현장 노동자의 위험 요인 신고 편의성 'AI 기능' 도입",
+   "summary": "한화 건설부문 측은 \"외국인과 고령 근로자를 비롯해 누구나 쉽게 이용할 수 있는 안전관리 환경을 만드는 것이 중요하다\"며 \"앞으로도 현장의 목소리와 AI 기술을 접목해 근로자가 자발적으로 참여하는 안전문화를...",
+   "url": "http://www.digitalbizon.com/news/articleView.html?idxno=2344023",
+   "orig": "http://www.digitalbizon.com/news/articleView.html?idxno=2344023",
+   "source": "digitalbizon.com",
+   "published": "2026-10-15T12:20+09:00",
+   "cat": "tech",
+   "id": "e85d17afbf20",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "㈜한화 건설부문, 음성신고·AI 분석으로 현장 안전관리 개선",
+   "summary": "김윤해 ㈜한화 건설부문 안전환경경영실장은 \"외국인과 고령 근로자를 비롯해 누구나 쉽게 이용할 수 있는 안전관리 환경을 만드는 것이 중요하다\"며 \"현장 의견과 AI 기술을 접목해 안전신문고를 지속적으로 개선하고...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495550",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495550",
+   "source": "핀포인트뉴스",
+   "published": "2026-10-15T12:10+09:00",
+   "cat": "tech",
+   "id": "e9a5c31731d4",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "럭셔리 주얼리 PR 출신이 퇴사 후에도 버리지 못 한 7가지 직업병",
+   "summary": "오랫동안 한 분야에 몸담으며 자연스럽게 생겨난 저만의 직업병들. 오늘은 일을 떠난 지금도 제일상 속에 고스란히 남아 있는 일곱 가지 습관을 이야기해보려 합니다. 1. 얼굴보다 먼저 보이는 것이 생겼다. 20대 중반, 워치...",
+   "url": "https://www.marieclairekorea.com/fashion/2026/10/watch-jewelry-industry-insider-7-habits/?utm_source=naver&utm_medium=partnership",
+   "orig": "https://www.marieclairekorea.com/fashion/2026/10/watch-jewelry-industry-insider-7-habits/?utm_source=naver&utm_medium=partnership",
+   "source": "marieclairekorea.com",
+   "published": "2026-10-15T12:02+09:00",
+   "cat": "hlt",
+   "id": "9bfd24b0d6b5",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "차별에, 체불에... 그들이 더 많이 다치고 죽는 이유 [이달의 기업살인...",
+   "summary": "해당 공사 현장에서는 지난 6월 26일에도 하청업체 소속 노동자가 거푸집에 깔려 사망하는 중대재해가 발생한 바 있음. 2026-09-03 끼임 1 서울 / 12시 47분경 / 서울시 성동구 성수동 소재 자동차 공업사 3층에서...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002532293?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003274583&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-15T12:01+09:00",
+   "cat": "law",
+   "id": "6cf00cd296a2",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "송규근 경기도의원, 산재 예방은 위험 사전 발견·즉시 조치부터… 제도...",
+   "summary": "노동현장의 산업재해를 예방할 수 있도록 필요한 제도와 정책을 지속적으로 살피고 뒷받침하겠다\"고 밝혔다. 고양시노동권익센터 주관 행사에는 행정2부지사와 고양시 관계자, 고양노동지청장, 안전보건공단 지사장...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=654456",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654456",
+   "source": "경인매일",
+   "published": "2026-10-15T11:38+09:00",
+   "cat": "tech",
+   "id": "fd1cd31c7ed3",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "폭언 걱정 덜고 일할 권리를 위한 계룡시 노사 협의",
+   "summary": "충남 계룡시는 15일 시청 본청 재난상황실에서 '2026 3분기 산업안전보건위원회'를 열었다. 근로자 위원과 사용자 위원 각 6명씩 12명이 참석해 소속 상시근로자의 근무 환경과 산업재해 예방을 위한 안건을 심의했다. 주요...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2446448",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2446448",
+   "source": "충청일보",
+   "published": "2026-10-15T11:36+09:00",
+   "cat": "hlt",
+   "id": "7dc6687f937e",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "KT-산안공 맞손…통신현장 안전관리 강화",
+   "summary": "제공=KTKT가 고용노동부 산하 한국산업안전보건공단과 손잡고 통신업 종사자와 협력사의 안전관리 역량 강화에 나선다.KT는 15일 서울 종로구 KT광화문빌딩 웨스트에서 한국산업안전보건공단과 '산업현장 안전문화 확산...",
+   "url": "https://news.mtn.co.kr/article/2026101509252323350",
+   "orig": "https://news.mtn.co.kr/article/2026101509252323350",
+   "source": "mtn.co.kr",
+   "published": "2026-10-15T11:32+09:00",
+   "cat": "law",
+   "id": "91aacf0a2861",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "질의 답하는 남광우 한국환경산업보건기술원장",
+   "summary": "남광우 한국환경산업보건기술원장이 15일 오전 서울 여의도 국회에서 열린 기후에너지환경노동위원회 국정감사에서 자료제출건으로 질의에 답하고 있다. 2026.10.15. ks@newsis.com",
+   "url": "https://n.news.naver.com/mnews/article/003/0014255326?sid=100",
+   "orig": "https://www.newsis.com/view/NISI20261015_0021489948",
+   "source": "뉴시스",
+   "published": "2026-10-15T11:32+09:00",
+   "cat": "hlt",
+   "id": "f4eefcac8a58",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016378764?sid=100",
+     "orig": "https://www.yna.co.kr/view/PYH20261015096600013?input=1196m",
+     "title": "질의 답하는 남광우 한국환경산업보건기술원장"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "업무용 차량도 안전 홍보에…KT, 소규모 사업장 안전격차 줄인다",
+   "summary": "|스마트투데이=최아랑 기자| KT는 한국산업안전보건공단과 산업현장 안전문화 확산 및 사업장 간 안전격차 해소를 위한 업무협약을 체결했다고 15일 밝혔다. 양 기관은 지역별 안전문화실천추진단과 연계해 통신업...",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/112692",
+   "orig": "https://www.smarttoday.co.kr/ko-kr/articles/112692",
+   "source": "스마트투데이",
+   "published": "2026-10-15T11:32+09:00",
+   "cat": "tech",
+   "id": "cd19886770b5",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "KT, 전국 통신 인프라 타고 '산업 안전문화' 전파",
+   "summary": "KT는 15일 서울 종로구 KT 광화문빌딩 WEST에서 한국산업안전보건공단과 '산업현장 안전문화 확산 및 안전격차 해소를 위한 업무협약(MOU)'을 체결했다고 이날 밝혔다. 이번 협약으로 양 기관은 공단의 안전 전문성과...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=280589",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=280589",
+   "source": "financialpost.co.kr",
+   "published": "2026-10-15T11:30+09:00",
+   "cat": "tech",
+   "id": "55b46aae852a",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "KT, 산업안전공단과 업무협약…통신 인프라로 안전격차 줄인다",
+   "summary": "KT가 한국산업안전보건공단과 손잡고 산업현장의 안전문화 확산과 사업장 간 안전관리 격차 해소에 나선다. KT는 15일 서울 종로구 KT광화문빌딩 웨스트(WEST)에서 한국산업안전보건공단과 ‘산업현장 안전문화 확산 및...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003143087?sid=105",
+   "orig": "https://www.dailian.co.kr/news/view/1701780/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-15T11:30+09:00",
+   "cat": "tech",
+   "id": "b7cd3c3ef60a",
+   "related": [
+    {
+     "source": "마이데일리",
+     "url": "https://n.news.naver.com/mnews/article/117/0004115278?sid=105",
+     "orig": "https://www.mydaily.co.kr/page/view/2026101509142456597",
+     "title": "KT, 산업안전보건공단과 안전격차 줄인다…통신 인프라 활용"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단-KT, 안전문화·격차해소 협력",
+   "summary": "한국산업안전보건공단이 KT와 안전문화 확산 및 안전격차 해소를 위한 협력에 나선다. 공단은 15일 KT 광화문 본사에서 KT와 이 같은 내용의 업무협약을 체결했다. KT는 그간 △안전문화실천추진단 참여 △원·하청...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005589647?sid=102",
+   "orig": "https://www.fnnews.com/news/202610151100150242",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-15T11:30+09:00",
+   "cat": "tech",
+   "id": "921803ea24fe",
+   "related": [
+    {
+     "source": "newsquest.co.kr",
+     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302697",
+     "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=302697",
+     "title": "협력사·소규모 사업장까지…KT·안전보건공단, 안전격차 해소 협력"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전문화 확산·안전격차 해소 맛손",
+   "summary": "한국산업안전보건공단은 서울 종로구 KT 광화문 본사에서 KT와 ‘안전문화 확산 및 안전격차 해소를 위한 업무협약’을 15일 체결했다. 협약식에는 김현중 공단 이사장과 김영인 KT 부사장이 참석했다. 두 기관은 공단의...",
+   "url": "https://www.naeil.com/news/read/605126?ref=naver",
+   "orig": "https://www.naeil.com/news/read/605126?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-10-15T11:30+09:00",
+   "cat": "tech",
+   "id": "33a7049029e1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "[국감 워치] '주 52시간 미만'에도 과로사 위험…배달·택배 등 운수업 ...",
    "summary": "[사진제공=뉴시스] 현행 산업재해(이하 산재) 판정에서는 주 52시간이 과로사(뇌심혈관계질병)의 업무상... 업무상 질병 여부를 확인하기 위한 역학조사가 진행되는 동안 사망한 노동자는 2020년 이후 매년 20~30명에...",
@@ -396,6 +612,18 @@
      "url": "https://n.news.naver.com/mnews/article/448/0000645000?sid=102",
      "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/15/2026101590093.html",
      "title": "노동부, 청년 프리랜서 오픈마이크 개최…\"일하는 사람 기본법 연내 제..."
+    },
+    {
+     "source": "gosiweek.com",
+     "url": "https://www.gosiweek.com/article/1065580195622967",
+     "orig": "https://www.gosiweek.com/article/1065580195622967",
+     "title": "청년 프리랜서 고용보험 가입 17.5%뿐…정부, ‘일하는 사람 기본법’ ..."
+    },
+    {
+     "source": "뉴스투데이",
+     "url": "https://www.news2day.co.kr/article/20261015500107",
+     "orig": "https://www.news2day.co.kr/article/20261015500107",
+     "title": "청년 프리랜서 고용보험 가입률 17.5%…노동부 \"일하는 사람 기본법 연..."
     }
    ],
    "day": "2026-10-15",
@@ -468,6 +696,72 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873042",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=873042",
      "title": "KT, 산업현장 안전 사각지대 줄인다…안전보건공단과 맞손"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009229436?sid=105",
+     "orig": "https://www.news1.kr/it-science/cc-newmedia/6320824",
+     "title": "KT, 산업안전보건공단과 맞손…산업현장 안전격차 해소 나서"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014255313?sid=105",
+     "orig": "https://www.newsis.com/view/NISX20261015_0003826804",
+     "title": "KT, 산업현장 안전격차 줄인다…안전보건공단과 협력"
+    },
+    {
+     "source": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707285",
+     "orig": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707285",
+     "title": "KT, 산업현장 안전문화 확산…산업안전보건공단과 업무협약"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261015093512421",
+     "orig": "https://www.ajunews.com/view/20261015093512421",
+     "title": "KT, 한국산업안전보건공단과 안전문화 확산 위해 맞손"
+    },
+    {
+     "source": "newsdream.kr",
+     "url": "http://www.newsdream.kr/news/articleView.html?idxno=120049",
+     "orig": "http://www.newsdream.kr/news/articleView.html?idxno=120049",
+     "title": "KT, 안전보건공단과 맞손… 산업현장 안전문화 확산 및 격차 해소"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072073",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072073",
+     "title": "KT, 한국산업안전보건공단과 '안전문화 확산' 맞손"
+    },
+    {
+     "source": "아이뉴스24",
+     "url": "https://n.news.naver.com/mnews/article/031/0001066285?sid=105",
+     "orig": "http://www.inews24.com/view/2015200",
+     "title": "KT, 한국산업안전보건공단과 안전문화 확산 맞손"
+    },
+    {
+     "source": "지디넷코리아",
+     "url": "https://n.news.naver.com/mnews/article/092/0002441068?sid=105",
+     "orig": "https://zdnet.co.kr/view/?no=20261015113421",
+     "title": "KT, 산업안전보건공단과 통신 현장 안전관리 강화"
+    },
+    {
+     "source": "eroun.net",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=92505",
+     "orig": "https://www.eroun.net/news/articleView.html?idxno=92505",
+     "title": "KT, 한국산업안전보건공단과 '산업현장 안전문화 확산' 위해 맞손"
+    },
+    {
+     "source": "techholic.co.kr",
+     "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223256",
+     "orig": "http://www.techholic.co.kr/news/articleView.html?idxno=223256",
+     "title": "KT, 산업안전보건공단과 산업현장 안전격차 줄인다"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=137949",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=137949",
+     "title": "KT, 안전보건공단과 산업현장 안전문화 확산 협력"
     }
    ],
    "day": "2026-10-15",
@@ -482,6 +776,19 @@
    "published": "2026-10-15T09:38+09:00",
    "cat": "hlt",
    "id": "5fa96ce814bd",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "포스코이앤씨, 산재 관련 국감 증인 채택 '막바지 논의'",
+   "summary": "포스코이앤씨의 중대재해와는 별개 사안이다. 산업재해 책임을 따지는 국토위에서도 경영진 출석을 둘러싼... 하지만 국감 이후에도 사망사고는 이어졌다. 두 달 후인 12월 18일 서울 여의도 신안산선 4-2공구에서는 철근...",
+   "url": "https://kpenews.com/View.aspx?No=4264364",
+   "orig": "https://kpenews.com/View.aspx?No=4264364",
+   "source": "kpenews.com",
+   "published": "2026-10-15T09:34+09:00",
+   "cat": "law",
+   "id": "07cd5eed1a0f",
    "related": [],
    "day": "2026-10-15",
    "watch": []
@@ -572,6 +879,18 @@
      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158175",
      "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=158175",
      "title": "한화 건설부문, AI·음성인식 접목해 건설현장 안전관리 혁신"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610151217462238205868f676_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610151217462238205868f676_30",
+     "title": "한화 건설부문, 음성인식·AI 사진분석 도입해 현장 안전관리 강화"
+    },
+    {
+     "source": "skyedaily.com",
+     "url": "https://m.skyedaily.com/news_view.html?ID=313008",
+     "orig": "https://m.skyedaily.com/news_view.html?ID=313008",
+     "title": "한화 건설부문, 현장 안전관리 강화… 음성인식·AI 사진분석 도입"
     }
    ],
    "day": "2026-10-15",
@@ -786,6 +1105,12 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000542182?sid=102",
      "orig": "https://news.tf.co.kr/read/life/2376456.htm",
      "title": "노동부, 중대재해 사업장 37곳 공표…징역 3년 실형 포함"
+    },
+    {
+     "source": "todaykorea.co.kr",
+     "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407186",
+     "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407186",
+     "title": "노동부, 형 확정 중대재해 사업장 37곳 공표···징역 3년 실형 포함"
     }
    ],
    "day": "2026-10-15",
@@ -854,6 +1179,18 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009229404?sid=102",
      "orig": "https://www.news1.kr/local/gyeonggi/6321010",
      "title": "킨텍스, 마이스 업계 최초 'AI 안전관리 어워즈' 대상 수상"
+    },
+    {
+     "source": "weeklytoday.com",
+     "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798174",
+     "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=798174",
+     "title": "[위클리오늘] 킨텍스, 마이스 업계 최초 'AI 안전관리 어워즈' 대상 수상"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3722344",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3722344",
+     "title": "킨텍스, 도시재생안전협회 'AI 안전관리 어워즈' 대상 수상"
     }
    ],
    "day": "2026-10-15",
@@ -1421,6 +1758,12 @@
      "url": "https://www.livesnews.com/news/article.html?no=64964",
      "orig": "https://www.livesnews.com/news/article.html?no=64964",
      "title": "위생방역본부, 노사 공동 안전보건경영방침 선포식 개최"
+    },
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187094",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1187094",
+     "title": "가축위생방역지원본부, 노사 공동 안전보건경영방침 선포"
     }
    ],
    "day": "2026-10-14",
