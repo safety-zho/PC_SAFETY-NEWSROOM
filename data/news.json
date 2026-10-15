@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T08:29+09:00",
+ "updatedAt": "2026-10-15T09:34+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,43 +25,313 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "c464034472ce",
-   "title": "농업인 재해율 일반 산재 보다 8배 높아",
-   "url": "http://www.amnews.co.kr/news/articleView.html?idxno=75009",
-   "source": "amnews.co.kr",
+   "id": "0723df4178cf",
+   "title": "올 상반기 중대재해사업장 37곳…경영책임자 1명 징역 3년 확정",
+   "url": "https://n.news.naver.com/mnews/article/001/0016377944?sid=102",
+   "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-15",
-   "count": 1
+   "count": 4
   },
   {
-   "id": "9f20a6f3f115",
-   "title": "물가 쇼크에 나스닥 1.9% 급락…AI·반도체 동반 추락",
-   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=65801",
-   "source": "newsroad.co.kr",
-   "cat": "acc",
-   "day": "2026-10-15",
-   "count": 1
-  },
-  {
-   "id": "24782fa2275f",
-   "title": "[2026년 가스기술사 제언] ⑩ AI와 가스안전관리, 경험의 안전에 지능을...",
-   "url": "https://www.gasnews.com/news/articleView.html?idxno=127134",
-   "source": "가스신문",
+   "id": "0acf2ee67911",
+   "title": "킨텍스, 'AI 안전관리 어워즈' 대상 수상…마이스 업계 최초",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
+   "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 1
+   "count": 4
   },
   {
-   "id": "d56036aa800c",
-   "title": "[단독-중대재해 리포트 ⑤] '집행유예' 선고되면 검찰은 항소 포기했다",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237206",
-   "source": "매일노동뉴스",
+   "id": "971318cc7a5b",
+   "title": "노동부, 중대재해 사업장 37곳 공표…징역 3년 실형 포함",
+   "url": "https://n.news.naver.com/mnews/article/421/0009228854?sid=101",
+   "source": "뉴스1",
    "cat": "sev",
    "day": "2026-10-15",
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "노동자 납 노출 우려 속...울산시, 납 배출사업장 특별점검 나서",
+   "summary": "▲울산시청 (사진, 연합뉴스 제공) 울산시가 산업현장의 유해물질 노출과 환경오염을 예방하기 위해 납... 고용노동부는 지난 8월 해당 사안을 업무방해 혐의로 경찰에 수사 의뢰했으며, 울산경찰청은 지난 13일 회사 임원...",
+   "url": "https://idsn.co.kr/news/view/1065572852716569",
+   "orig": "https://idsn.co.kr/news/view/1065572852716569",
+   "source": "idsn.co.kr",
+   "published": "2026-10-15T09:32+09:00",
+   "cat": "law",
+   "id": "8972c481f987",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "올해 상반기 중대재해처벌법, 경영책임자 실형 선고 단 1명",
+   "summary": "중대재해처벌법에 따르면 종사자 사망 시 1년 이상의 징역 또는 10억원 이하의 벌금이 부과된다. 경영책임자 외에 해당 법인이나 기관에게도 사망 시 최대 50억원, 부상·질병 시 최대 10억원 이하의 벌금형이 부과할 수...",
+   "url": "https://n.news.naver.com/mnews/article/243/0000104227?sid=101",
+   "orig": "https://economist.co.kr/article/view/ecn202610150005",
+   "source": "economist.co.kr",
+   "published": "2026-10-15T09:26+09:00",
+   "cat": "sev",
+   "id": "2dcc688b3087",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "영풍·현우·일광폴리머 등 중대재해 유죄 확정 37개 사업장 공개",
+   "summary": "영풍과 현우, 일광폴리머, 신성산업, 케이피텍 등 중대재해처벌법 위반으로 유죄가 확정된 37개 사업장의... 1명이 사망했다. 인화성 증기가 발생할 수 있는 작업이었지만 폭발 위험을 방지할 설비와 증기 배출조치가...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251025",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251025",
+   "source": "안전신문",
+   "published": "2026-10-15T09:20+09:00",
+   "cat": "sev",
+   "id": "b4a89e7e20ab",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "한화 건설부문, '안전신문고'에 AI·음성인식 도입…현장 안전관리 고도...",
+   "summary": "김윤해 한화 건설부문 안전환경경영실장은 \"외국인과 고령 근로자를 비롯해 누구나 쉽게 이용할 수 있는 안전관리 환경을 만드는 것이 중요하다\"며 \"앞으로도 현장의 목소리와 AI기술을 접목해 '안전신문고'를 지속적으로...",
+   "url": "http://www.paxetv.com/news/articleView.html?idxno=284194",
+   "orig": "http://www.paxetv.com/news/articleView.html?idxno=284194",
+   "source": "paxetv.com",
+   "published": "2026-10-15T09:08+09:00",
+   "cat": "tech",
+   "id": "debd3036d2d2",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "서부발전, AI로 건설현장 위험 예측… 스마트 안전관리 혁신",
+   "summary": "위치관제·스마트 안전장비로 사고 예방 강화 작업중지권·‘말해봐YOU’ 활성화…근로자 참여형 안전문화 확산 한국서부발전이 인공지능(AI)과 디지털 기술을 활용해 발전소 건설 현장의 안전관리 체계를 고도화하고 있다....",
+   "url": "https://n.news.naver.com/mnews/article/022/0004166861?sid=101",
+   "orig": "https://www.segye.com/newsView/20261015505538?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-15T09:03+09:00",
+   "cat": "tech",
+   "id": "63b50f354791",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "노동부, 중대재해처벌법 확정 사업장 37곳 추가 공표…누적 81곳",
+   "summary": "2m의 이동식 비계 위에서 보호구 없이 작업하던 중 추락했지만 별다른 안전조치 없이 작업을 재개한 뒤 다음 날 사망한 사례도 있는 것으로 나타났다. 법 위반 사업장의 안전관리 실태도 드러났다. 중대재해처벌법...",
+   "url": "https://www.ajunews.com/view/20261015083404019",
+   "orig": "https://www.ajunews.com/view/20261015083404019",
+   "source": "아주경제",
+   "published": "2026-10-15T09:02+09:00",
+   "cat": "law",
+   "id": "e29a21bd2601",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "인텔 이스라엘 반도체 공장서 폭발 사고... 작업자 1명 사망",
+   "summary": "미국 반도체종합기업(IDM) 인텔이 이스라엘 남부 키르얏 갓(Kiryat Gat)에서 운영하는 반도체 생산시설에서 가스 폭발 사고가 일어났다. 현지 작업자 중 1명이 숨지고 2명이 다쳤다. 키르얏 갓은 인텔의 이스라엘 내 주요...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002440987?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261015083445",
+   "source": "지디넷코리아",
+   "published": "2026-10-15T09:02+09:00",
+   "cat": "sev",
+   "id": "a7f996358680",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "올해 상반기 중대재해 형 확정 37곳 공개…추락사 14곳 최다",
+   "summary": "올해 상반기 중대재해처벌법 위반으로 형이 확정·통보된 사업장 37곳의 명칭과 재해 내용·원인 등이... 주요 사례는 △영풍 석포제련소(2023년 12월) 탱크 모터 교체 중 삼수소화비소 중독으로 1명 사망·3명이 부상...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004198964?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6591726?utm_source=naver&utm_medium=article&utm_campaign=20261015090056",
+   "source": "노컷뉴스",
+   "published": "2026-10-15T09:01+09:00",
+   "cat": "acc",
+   "id": "b9e81140603e",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "“노동자 추락 뒤 작업 재개해 사망”...중대재해 사업장 92% 위험 점검...",
+   "summary": "중대재해처벌법 위반으로 형이 확정된 사업장 10곳 중 9곳은 현장의 위험요인을 확인하고 개선하는 점검 의무를 제대로 이행하지 않은 것으로 나타났다. 법 시행 이후 공표된 사업장 81곳 가운데 75곳이 해당 의무를...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002709531?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10903145?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-15T09:01+09:00",
+   "cat": "sev",
+   "id": "b87f1fb6a169",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "중처법 시행 이후 경영책임자 3명 실형·77명 집행유예…사업장 추가 공...",
+   "summary": "2022년 중대재해처벌법 시행 이후 올해 상반기까지 경영 책임자 3명이 중대재해로 기소돼 실형이 확정된 것으로 집계됐습니다. 고용노동부는 오늘(14일) '중대산업재해 발생 사업장 공표' 보도 자료를 통해 이같이...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012274098?sid=101",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8686350&ref=A",
+   "source": "KBS",
+   "published": "2026-10-15T09:01+09:00",
+   "cat": "sev",
+   "id": "c068534aeeb3",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "'4명 사상' 영풍·'징역 3년' 일광폴리머…중대재해 형 확정 37곳 공개",
+   "summary": "일광폴리머 대표는 이 사고로 2022년 중대재해법 실행 이후 가장 무거운 형량인 징역 3년의 실형이 확정됐다. 기본적인 안전조치 미흡으로 발생한 사망사고도 공표 대상에 포함됐다. 2024년 2월 경기 포천시 대경중학교...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014254577?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261015_0003826603",
+   "source": "뉴시스",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "sev",
+   "id": "ee9cb9205c1c",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "중대재해 사업장 37곳 공표…일광폴리머·영풍 석포제련소 포함",
+   "summary": "1.2m 높이 이동식 비계 위에서 기본적인 보호구 없이 작업하다 떨어진 후, 별다른 조치 없이 작업을 재개했다가 다음 날 노동자가 사망한 사업장도 공표됐다. 현행법은 중대산업재해 발생 이후 형이 확정·통보됐다면...",
+   "url": "https://www.newspim.com/news/view/20261014001213",
+   "orig": "https://www.newspim.com/news/view/20261014001213",
+   "source": "뉴스핌",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "law",
+   "id": "1d4169763ad6",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "올 상반기 중대재해사업장 37곳…경영책임자 1명 징역 3년 확정",
+   "summary": "다쳐 사망했다. 이 사고로 재판에 넘겨진 대표 이모씨는 지난 3월 대법원에서 징역 3년이 확정됐다. 2022년 1월 중대재해처벌법 시행 이후 경영책임자에게 내려진 확정판결 중 가장 높은 형량이다. 이번 공표된 사업장...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016377944?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261014135100530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "law",
+   "id": "0723df4178cf",
+   "related": [
+    {
+     "source": "youthdaily.co.kr",
+     "url": "https://www.youthdaily.co.kr/news/article.html?no=228380",
+     "orig": "https://www.youthdaily.co.kr/news/article.html?no=228380",
+     "title": "올 상반기 중대재해법 위반 사업장 37곳…경영책임자 실형은 1명"
+    },
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/321598/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/321598/?sc=Naver",
+     "title": "상반기 중대재해사업장 37곳…경영책임자 1명 징역 3년 확정"
+    },
+    {
+     "source": "newscape.co.kr",
+     "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125103",
+     "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125103",
+     "title": "중대재해처벌법 형 확정 사업장 37곳…경영책임자 실형은 단 1명"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "중대재해 사업장 37곳 추가 공개…경영책임자 39명 중 실형 1명",
+   "summary": "사고 이후 별다른 조치 없이 작업을 재개했고 결국 다음 날 노동자가 사망했다. 중대재해처벌법에 따른 사업장 공표는 2023년 9월부터 반기별로 이뤄지고 있다. 2023년 3곳, 2024년 12곳, 2025년 29곳에 이어 올해 상반기...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003142932?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1701436/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "sev",
+   "id": "6cd0f1630b52",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "노동부, 중대재해 사업장 37곳 공표…징역 3년 실형 포함",
+   "summary": "법 시행 이후 가장 무거운 징역 3년의 실형이 확정된 사업장도 포함됐다. 노동부는 15일 중대재해처벌법에... 다수의 사상자를 내 처음으로 경영책임자가 구속 기소됐다 최종심에서 징역 1년 6개월, 집행유예 3년이...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009228854?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6320106",
+   "source": "뉴스1",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "sev",
+   "id": "971318cc7a5b",
+   "related": [
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000542182?sid=102",
+     "orig": "https://news.tf.co.kr/read/life/2376456.htm",
+     "title": "노동부, 중대재해 사업장 37곳 공표…징역 3년 실형 포함"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "킨텍스, 'AI 안전관리 어워즈' 대상 수상…마이스 업계 최초",
+   "summary": "|중앙이코노미뉴스 고영규 기자|킨텍스는 '2026 도시안전기술박람회'에서 도시재생안전협회가 수여하는 'AI... 이와 함께 온도·연기·가스 등을 감지하는 IoT 기반 스마트센서와 시설 운영데이터를 연계해 설비...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=555107",
+   "source": "joongangenews.com",
+   "published": "2026-10-15T09:00+09:00",
+   "cat": "tech",
+   "id": "0acf2ee67911",
+   "related": [
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002825254?sid=102",
+     "orig": "https://www.munhwa.com/article/11623619?ref=naver",
+     "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈’ 대상 수상"
+    },
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006388284?sid=100",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=02824086645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "킨텍스, 마이스업계 최초 'AI 안전관리 어워즈' 대상 '쾌거'"
+    },
+    {
+     "source": "위키트리",
+     "url": "https://www.wikitree.co.kr/articles/1166360",
+     "orig": "https://www.wikitree.co.kr/articles/1166360",
+     "title": "킨텍스, 마이스 업계 첫 'AI 안전관리 대상' 영예"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "산재 받을 ‘가능성’에 연금 절반 깎았다…나머지 받기까지 최장 64개...",
+   "summary": "이날 국정감사에서 “중복수급이 실제로 발생할 경우 급여 조정은 필요하지만, 향후 환수금이 발생할 수 있다는 행정상 우려만으로 연금을 제한하는 것은 적절하지 않다”고 지적했다. 산재보상금을 받을...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004166853?sid=102",
+   "orig": "https://www.segye.com/newsView/20261015505244?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-15T08:41+09:00",
+   "cat": "law",
+   "id": "919a90763358",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "올 상반기 대구 산업재해 사고사망자 73% 감소",
+   "summary": "고용노동부에 따르면 상반기 대구의 산재 사고사망자는 3명으로, 지난해 같은 기간 11명보다 8명 줄었고 최근 5년간 같은 기간 중 가장 적었습니다. 대구시는 지난 해 사망사고의 63%가 소규모 사업장과 건설업, 추락...",
+   "url": "https://www.tbc.co.kr/news/view?pno=20261014153048AE06838&id=212137",
+   "orig": "https://www.tbc.co.kr/news/view?pno=20261014153048AE06838&id=212137",
+   "source": "tbc.co.kr",
+   "published": "2026-10-15T08:40+09:00",
+   "cat": "sev",
+   "id": "f15ed7459f32",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "농업인 재해율 일반 산재 보다 8배 높아",
    "summary": "농업인 사망사고의 주범인 농기계 사고는 전체 사망자의 58.4%(2025년 기준 171명)를 차지했으며, 경운기와 트랙터, SS기(스프레이어) 등의 전도·전복 사고가 주를 이뤘다. 특히 농기계 교통사고 치사율은 15.3%로, 일반...",
@@ -859,7 +1129,14 @@
    "published": "2026-10-14T15:50+09:00",
    "cat": "tech",
    "id": "6d4244dd4bbc",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342251",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342251",
+     "title": "안전보건공단 인천광역본부, 건설기계 사고 예방 역량 강화"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
@@ -2594,6 +2871,19 @@
    "watch": []
   },
   {
+   "title": "[국감] 포스코이앤씨 신안산선 반복 사망, 노동장관 \"지위 고하 막론 엄...",
+   "summary": "포쓰저널 이현민 기자 장인화 포스코그룹 회장이 2025년 7월31일 인천 송도 포스코이앤씨 본사에서 포스코에서 빈발하고 있는 산재 사망 사고와 관련해 발언하고 있다./유튜브갈무리 김영훈 고용노동부 장관이 포스코그룹...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2119683",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2119683",
+   "source": "포쓰저널",
+   "published": "2026-10-13T19:54+09:00",
+   "cat": "sev",
+   "id": "79e42f5510c5",
+   "related": [],
+   "day": "2026-10-13",
+   "watch": []
+  },
+  {
    "title": "노동부 장관 “포스코 교섭 적극 지도…신안산선 사고 엄중 조치”",
    "summary": "김영훈 장관은 포스코그룹 사업장인 신안산선 철도 건설 현장에서 노동자 사망 사고가 반복된 데에 대해 “중대재해처벌법 등 관련법 위반 여부를 엄밀히 살펴보고 있다”며 “지위 고하를 막론하고 위법 사실이...",
    "url": "https://n.news.naver.com/mnews/article/056/0012272864?sid=101",
@@ -2602,7 +2892,14 @@
    "published": "2026-10-13T19:37+09:00",
    "cat": "law",
    "id": "03090ea1445b",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014251144?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261013_0003824662",
+     "title": "김영훈 \"포스코 교섭 적극 지도…신안산선 사고 엄중 조치\""
+    }
+   ],
    "day": "2026-10-13",
    "watch": []
   },
