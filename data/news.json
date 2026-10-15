@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T17:31+09:00",
+ "updatedAt": "2026-10-15T18:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "폴리뉴스",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 38
+   "count": 40
   },
   {
    "id": "0acf2ee67911",
@@ -71,6 +71,233 @@
   }
  ],
  "articles": [
+  {
+   "title": "'쿵' 소리…주안노인문화센터 공사장서 中노동자 추락사",
+   "summary": "인천 미추홀구 주안노인문화센터 신축 공사 현장에서 추락한 50대 노동자가 숨져 경찰이 조사에 나섰다.... 경찰은 A씨의 정확한 사망 원인을 파악하기 위해 국립과학수사연구원(국과수)에 부검을 의뢰했다. 또 현장...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014256909?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261015_0003828024",
+   "source": "뉴시스",
+   "published": "2026-10-15T18:05+09:00",
+   "cat": "acc",
+   "id": "72b431c6b7b6",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "올 상반기 중대재해 형 확정 사업장 37곳 공개…경기도 내 9곳",
+   "summary": "중대재해 사례를 보면 용인 한 사업장에선 2022년 7월 롤러를 따라 이동 중인 합성수지 필름에 붙어 있던 이물질을 손으로 제거하는 작업 중 롤러에 끼여 사망하는 사고가 났다. 작업 위치를 이동하지 않고 조작하도록...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037779",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037779",
+   "source": "기호일보",
+   "published": "2026-10-15T18:02+09:00",
+   "cat": "law",
+   "id": "e2563308976c",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사 변재영 사장 \"울산항의 안전관리 역량 지속 강화\"",
+   "summary": "한국산업안전보건공단의 지원으로 진행된 이번 교육은 이론중심의 교육에서 벗어나 근로자가 현장에서 접할 수 있는 다양한 재해 상황을 체험하고 사고 발생 시 올바른 대응 역량을 갖추기 위해 마련됐다. 이번 교육은...",
+   "url": "http://www.yangsanilbo.com/news/articleView.html?idxno=127956",
+   "orig": "http://www.yangsanilbo.com/news/articleView.html?idxno=127956",
+   "source": "yangsanilbo.com",
+   "published": "2026-10-15T17:58+09:00",
+   "cat": "tech",
+   "id": "7d60c0dff90e",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "상반기 37개 사업장 중대재해 처벌",
+   "summary": "사업장이 중대재해처벌법 위반 사업장 명단에 올랐다. 15일 고용노동부는 올해 상반기(1~6월)... 작업장에 가스 밀폐설비 등이 설치되지 않은 사실이 드러나 이 회사 대표이사는 중대재해법 시행 후 첫 구속기소된...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005343037?sid=101",
+   "orig": "https://www.hankyung.com/article/2026101547841",
+   "source": "한국경제",
+   "published": "2026-10-15T17:57+09:00",
+   "cat": "law",
+   "id": "2361a066ef2f",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[ICT 종합] 네이버페이 및 스카이월드와이드 소식 외",
+   "summary": "-KT(대표이사 박윤영)가 한국산업안전보건공단과 산업현장의 안전문화 확산 및 사업장 간 안전격차 해소에 나선다. 양 기관은 이번 협약으로 공단의 산업안전 전문성과 KT의 통신 인프라와 고객 접점을 활용해...",
+   "url": "https://www.gamevu.co.kr/news/articleView.html?idxno=61462",
+   "orig": "https://www.gamevu.co.kr/news/articleView.html?idxno=61462",
+   "source": "gamevu.co.kr",
+   "published": "2026-10-15T17:56+09:00",
+   "cat": "tech",
+   "id": "c0b8a2d112b8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "“대기업 노하우 벤치마킹”…제조·조선업 안전관리 강화",
+   "summary": "광주지방고용노동청과 안전보건공단 광주광역본부는 이번 벤치마킹이 단순한 사업장 견학에 그치지 않고 지역 산업현장의 실질적인 안전관리 개선으로 이어질 수 있도록 우수 사례의 현장 적용과 확산을 유도할...",
+   "url": "http://www.jndn.com/article.php?aid=1792053794441238004",
+   "orig": "http://www.jndn.com/article.php?aid=1792053794441238004",
+   "source": "jndn.com",
+   "published": "2026-10-15T17:46+09:00",
+   "cat": "tech",
+   "id": "274dfebbd5f8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[건설오늘] 한화 건설부문, AI로 현장 안전관리 강화 外 현대엔지니어링...",
+   "summary": "한화 건설부문이 인공지능(AI) 기반 위험요인 분석 기능을 도입해 현장 안전관리를 강화한다. 현대엔지니어링은 베트남 기후변화 대응 사업의 교육·환경 인프라를 현지 기관에 이양했다. 대우건설은 탄소저감...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3440628",
+   "orig": "https://www.newscj.com/news/articleView.html?idxno=3440628",
+   "source": "천지일보",
+   "published": "2026-10-15T17:44+09:00",
+   "cat": "tech",
+   "id": "8033e65277d2",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "대구공공시설관리공단, '2026 저탄소·AI 안전관리 어워즈' 대상 수상",
+   "summary": "안전사고 빅데이터를 분석해 산업재해 위험 시 주의보와 교육 자료를 제공하는 '안전사이렌' 제도도 운영해... 문기봉 대구공공시설관리공단 이사장은 \"이번 수상은 안전보건 관리 체계에 AI 기술을 접목한 노력의 결실...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92532",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92532",
+   "source": "eroun.net",
+   "published": "2026-10-15T17:42+09:00",
+   "cat": "tech",
+   "id": "e37c27028dd6",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "국토안전관리원, 어촌 안전·스마트 점검 협력 확대…기관 2곳과 업무협...",
+   "summary": "한국어촌어항공단과 서남해안 시설안전·지역상생 협력 부산시설공단과 스마트 점검·측량기술 현장 실증 추진 국토안전관리원이 어촌지역 시설물 안전관리와 스마트 점검기술 실증을 각각 외부 전문기관과 연계한다....",
+   "url": "https://www.nspna.com/news/?mode=view&newsid=831882",
+   "orig": "https://www.nspna.com/news/?mode=view&newsid=831882",
+   "source": "NSP통신",
+   "published": "2026-10-15T17:38+09:00",
+   "cat": "tech",
+   "id": "251ccbba00b5",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[국감] 정준호 \"쿠팡, 언론중재 조정 신청 44건…언론사 대응 부담 키워...",
+   "summary": "쿠팡의 조정 신청은 노동자 사망과 과로, 산업재해 및 노동환경 등을 다룬 보도에 집중된 것으로 파악됐다.... 과로사·산재를 다룬 공익보도였고, 정정을 청구하고도 허위로 판명된 사례가 사실상 없었다는 점에서...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2119836",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2119836",
+   "source": "포쓰저널",
+   "published": "2026-10-15T17:36+09:00",
+   "cat": "law",
+   "id": "b0d69127a19f",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "'추락방지 미실시' 등 인천공항 안전보건 법령 위반 430건",
+   "summary": "감독 결과 산업안전보건법 위반 사항은 수하물 구역 171건과 나머지 공항 구역 259건 등 430건으로 집계됐으며, 이 가운데 244건은 사법 조처됐다. 대표적으로 수하물처리장에서 컨베이어 유지·보수에 필요한 작업 발판을...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016379964?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261015161000065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-15T17:36+09:00",
+   "cat": "acc",
+   "id": "4a4e6dc60124",
+   "related": [
+    {
+     "source": "국제신문",
+     "url": "https://n.news.naver.com/mnews/article/658/0000158566?sid=101",
+     "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261015.99099004511",
+     "title": "‘'추락방지 미실시’ 등 인천공항 안전보건 법령 위반 무더기 적발"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "‘4명 사상’ 영풍 석포제련소, 중대산업재해 발생 사업장 명단 올라",
+   "summary": "중대재해처벌법 제13조와 같은 법 시행령 제12조에 따른 조치로, 경북 봉화군에 위치한 영풍 석포제련소도... 이 사고는 중대재해처벌법 시행 이후 경영책임자가 처음으로 구속·기소된 사건으로 알려졌다. 영풍...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000127641?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261015580474",
+   "source": "kyeonggi.com",
+   "published": "2026-10-15T17:33+09:00",
+   "cat": "sev",
+   "id": "96c01885f1c2",
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/605273?ref=naver",
+     "orig": "https://www.naeil.com/news/read/605273?ref=naver",
+     "title": "‘4명 사상’ 영풍 석포제련소, 중대산업재해 발생 사업장 명단에"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138046",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=138046",
+     "title": "'1명 사망·3명 부상' 영풍 석포제련소, 중대산업재해 사업장 명단에"
+    },
+    {
+     "source": "한국경제TV",
+     "url": "https://n.news.naver.com/mnews/article/215/0001269318?sid=101",
+     "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150157&t=NN",
+     "title": "\"4명 사상\"…영풍 석포제련소, 중대산업재해 사업장 '불명예'"
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2636393",
+     "orig": "https://www.etoday.co.kr/news/view/2636393",
+     "title": "영풍 석포제련소, 중대산업재해 사업장 명단 포함…대표 징역형 확정"
+    }
+   ],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "재단법인 피플, 미래일터안전보건포럼 개최",
+   "summary": "백은미 대한건설보건학회 회장은 \"피지컬 AI는 위험작업을 대체하고 작업자의 신체적 부담을 줄여 산업재해를 예방할 가능성을 제시하고 있다\"며 \"기술 혁신과 인간의 안전이 조화를 이루는 미래 일터의 방향을 모색하는...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=751170",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=751170",
+   "source": "프라임경제",
+   "published": "2026-10-15T17:32+09:00",
+   "cat": "tech",
+   "id": "856eec7bfaea",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "아직도 하청 소속인데… \"직접고용 다 된 줄 알았다\"는 노동장관에 분통",
+   "summary": "인터뷰에서 고용노동부 장관의 상황 인식에 분노를 감추지 않았다. 태안화력발전소 하청노동자 직접고용... 발전산업 고용·안전 협의체를 구성했다. 협의체는 지난 2월 한전KPS 하청노동자를 직접 고용하기로 합의하고...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000959736?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101509240000108?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-15T17:31+09:00",
+   "cat": "law",
+   "id": "9882146d7c74",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "노동자 3명 숨진 천안 기름공장…16년간 노동부 감독 기록 '0'",
+   "summary": "이주노동자의 산업재해 사망 위험은 한국인 노동자의 3배가 넘는다. 뉴스타파가 올해 언론 보도로 확인한... 유족을 지원해 온 '대원산업 중대재해 피해자가족지원모임'은 합의 이후 \"위험의 이주화가 갈수록 확산되고...",
+   "url": "https://n.news.naver.com/mnews/article/607/0000003549?sid=102",
+   "orig": "https://newstapa.org/article/cmrcs",
+   "source": "newstapa.org",
+   "published": "2026-10-15T17:30+09:00",
+   "cat": "sev",
+   "id": "aad72a6b40d1",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "국토안전관리원·부산시설공단, 스마트 안전관리 기술 실증 협력",
    "summary": "(사진제공 : 국토안전관리원) 국토안전관리원이 부산시설공단과 손잡고 스마트 시설물 안전관리 기술의 성능 검증과 현장 활용 기반 마련에 나선다. 국토안전관리원은 오늘(15일) 경남 진주 본사 대회의실에서...",
@@ -379,7 +606,14 @@
    "published": "2026-10-15T16:12+09:00",
    "cat": "tech",
    "id": "05ad3f3c9078",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019518",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019518",
+     "title": "국토안전관리원, 부산시설공단과 첨단 안전기술 성능평가 협약"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -912,7 +1146,14 @@
    "published": "2026-10-15T14:56+09:00",
    "cat": "tech",
    "id": "dd17f7512f2b",
-   "related": [],
+   "related": [
+    {
+     "source": "울산매일",
+     "url": "https://www.iusm.co.kr/news/articleView.html?idxno=1069198",
+     "orig": "https://www.iusm.co.kr/news/articleView.html?idxno=1069198",
+     "title": "울산 온산읍 화학제품 제조업체 화재 현장 합동감식"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -1480,6 +1721,12 @@
      "url": "https://www.viva100.com/article/20261015500942",
      "orig": "https://www.viva100.com/article/20261015500942",
      "title": "대구시 군위군, 중대재해 예방 교육으로 안전의식 강화"
+    },
+    {
+     "source": "dkilbo.com",
+     "url": "https://www.dkilbo.com/news/articleView.html?idxno=557347",
+     "orig": "https://www.dkilbo.com/news/articleView.html?idxno=557347",
+     "title": "군위군, 공무원 대상 중대재해 예방교육 실시"
     }
    ],
    "day": "2026-10-15",
@@ -1785,7 +2032,14 @@
    "published": "2026-10-15T11:20+09:00",
    "cat": "tech",
    "id": "bc66db1fb1a9",
-   "related": [],
+   "related": [
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480660",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480660",
+     "title": "\"작은 위험도 놓치지 않는다\"… 군위군, '2026 하반기 중대재해 예방 교..."
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -2402,6 +2656,18 @@
      "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666318",
      "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=666318",
      "title": "KT, 산업현장 안전격차 해소…안전보건공단과 협력"
+    },
+    {
+     "source": "gokorea.kr",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=881546",
+     "orig": "https://www.gokorea.kr/news/articleView.html?idxno=881546",
+     "title": "KT, 산업안전보건공단과 안전문화 확산 맞손"
+    },
+    {
+     "source": "한국경제TV",
+     "url": "https://n.news.naver.com/mnews/article/215/0001269316?sid=101",
+     "orig": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610150135&t=NNv",
+     "title": "“통신업 안전문화 확산”…안전보건공단·KT ‘맞손’"
     }
    ],
    "day": "2026-10-15",
@@ -2636,6 +2902,12 @@
      "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500129.html",
      "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/15/2026101500129.html",
      "title": "영풍 석포제련소부터 일광폴리머까지… 중대재해 형 확정 37곳 명단 공개"
+    },
+    {
+     "source": "starnewskorea.com",
+     "url": "https://n.news.naver.com/mnews/article/108/0003479075?sid=004",
+     "orig": "https://www.starnewskorea.com/business-life/2026/10/15/2026101518150027784",
+     "title": "노동부, '4명 사상' 영풍·'징역 3년' 일광폴리머 포함 중대재해 사업장..."
     }
    ],
    "day": "2026-10-15",
@@ -3406,7 +3678,14 @@
    "published": "2026-10-14T17:38+09:00",
    "cat": "hlt",
    "id": "446238fce8f5",
-   "related": [],
+   "related": [
+    {
+     "source": "ksg.co.kr",
+     "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148266",
+     "orig": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148266",
+     "title": "울산항만공사, 건설현장·항만시설물 안전컨설팅 본격 착수"
+    }
+   ],
    "day": "2026-10-14",
    "watch": []
   },
