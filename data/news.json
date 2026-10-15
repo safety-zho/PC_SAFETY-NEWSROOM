@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-15T16:39+09:00",
+ "updatedAt": "2026-10-15T17:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "폴리뉴스",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 31
+   "count": 38
   },
   {
    "id": "0acf2ee67911",
@@ -40,7 +40,7 @@
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 15
+   "count": 16
   },
   {
    "id": "0723df4178cf",
@@ -67,10 +67,153 @@
    "source": "파이낸셜뉴스",
    "cat": "tech",
    "day": "2026-10-15",
-   "count": 7
+   "count": 9
   }
  ],
  "articles": [
+  {
+   "title": "국토안전관리원·부산시설공단, 스마트 안전관리 기술 실증 협력",
+   "summary": "(사진제공 : 국토안전관리원) 국토안전관리원이 부산시설공단과 손잡고 스마트 시설물 안전관리 기술의 성능 검증과 현장 활용 기반 마련에 나선다. 국토안전관리원은 오늘(15일) 경남 진주 본사 대회의실에서...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=342292",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=342292",
+   "source": "국토일보",
+   "published": "2026-10-15T17:24+09:00",
+   "cat": "tech",
+   "id": "17438fb97623",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "울주군 폭발 화재 업체 합동감식‥화재 원인 파악",
+   "summary": "경찰과 소방, 국과수 등 합동감식단이 어제(10/14) 폭발 화재가 발생한 울주군 온산읍의 화학물질... 큰 화재가 발생해 4시간 10분 만에 꺼졌으며, 이 불로 인근 공사 현장 노동자 7천 명 등이 대피하는 소동이 벌어졌습니다.",
+   "url": "https://www.usmbc.co.kr/NewsArticle/867648",
+   "orig": "https://www.usmbc.co.kr/NewsArticle/867648",
+   "source": "usmbc.co.kr",
+   "published": "2026-10-15T17:12+09:00",
+   "cat": "acc",
+   "id": "ef88dce4a1f6",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "군위군, 중대재해 막는다···공직자 안전교육 강화",
+   "summary": "이날 교육은 한국산업안전보건공단 대구광역본부 안원환 본부장이 맡아 중대재해처벌법 등 관련 법령과 공공기관의 안전보건관리 책임을 설명했다. 실제 사고 사례를 바탕으로 발생 원인과 예방대책을 공유하고 업무...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019493",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019493",
+   "source": "cnbnews.com",
+   "published": "2026-10-15T17:08+09:00",
+   "cat": "tech",
+   "id": "1d5c86f493fc",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "송규근 경기도의원, 노동안전보건 공모전 참석…산재 예방 제도 강화 강...",
+   "summary": "고양시노동권익센터가 주관한 이날 행사에는 경기도 행정2부지사와 고양시 관계자, 고양노동지청장, 안전보건공단 지사장, 노동안전지킴이 등 130여 명이 참석했다. 송 의원은 산업재해 예방을 위해 행정기관과 사업장...",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=723141",
+   "orig": "https://www.newstnt.com/news/articleView.html?idxno=723141",
+   "source": "newstnt.com",
+   "published": "2026-10-15T17:04+09:00",
+   "cat": "tech",
+   "id": "e3365b243303",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "인천공항지역지부, 원청 교섭 결렬···23일 파업 예고",
+   "summary": "인천공항지역지부는 사측이 교대제 개편과 노동 시간은 산업안전 의제가 아니란 입장을 유지해 지난 7일 결렬을 선언했다고 밝혔다. 문설희 인천공항지역지부 정책기획국장은 \"지난달 고용노동부가 내놓은 공공부문...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41655",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41655",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-15T17:02+09:00",
+   "cat": "law",
+   "id": "c2ccb11deefa",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "난청 산재 '노화 탓' 돌린 의사…법원은 \"업무상 재해\"",
+   "summary": "업무상 질병의 기준을 정하고 있는 산재보험법 시행령은 85dB 이상의 연속음에 3년 이상 노출돼 한 귀의 청력 손실이 40dB 이상이어야 소음성 난청을 인정합니다. 공단은 “장기간 근무력을 고려해도 소음 노출 인정...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1316823&inflow=N",
+   "orig": "http://www.newstomato.com/ReadNews.aspx?no=1316823&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-10-15T17:02+09:00",
+   "cat": "hlt",
+   "id": "289d602fb274",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "중대재해로 처벌 확정 37곳 공개…역대 최다·최고형 징역 3년",
+   "summary": "의무 중대재해처벌법 위반 확정 사업장 공표 *생성형 AI 이미지 중대재해처벌법 위반으로 형이 확정된... 3년은 법 시행 이후 가장 무거운 실형입니다. 여러 명의 사상자가 나와 처음으로 경영책임자가 구속·기소된...",
+   "url": "https://www.tjb.co.kr/news05/bodo/view/id/104863",
+   "orig": "https://www.tjb.co.kr/news05/bodo/view/id/104863",
+   "source": "tjb.co.kr",
+   "published": "2026-10-15T17:00+09:00",
+   "cat": "tech",
+   "id": "ed6027a78638",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "호반산업, 붕괴사고 '영업정지' 통보에 법적 절차 진행",
+   "summary": "현대엔지니어링과 호반산업은 공동이행 방식으로 공사를 맡아 같은 수준의 처분이 예고됐다. 현대엔지니어링은 이와 별개로 고용노동부 요청에 따라 서울시가 내린 영업정지 3개월 처분에 대해 법원의 집행정지 결정을...",
+   "url": "https://www.fetv.co.kr/news/articleView.html?idxno=311842",
+   "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=311842",
+   "source": "FETV",
+   "published": "2026-10-15T17:00+09:00",
+   "cat": "acc",
+   "id": "6804415ad85a",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "안전장치·출입통제 미흡…충북 중대재해 발생 사업장 2곳 공표",
+   "summary": "고용노동부에 따르면 중대재해처벌법 시행 이후 올해 상반기까지 형이 확정·통보된 사업장은 모두... 이번에 공표된 37개 사업장의 경영책임자 39명 가운데 1명은 실형을, 35명은 징역형의 집행유예를 선고받았다. 나머지...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1513619",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1513619",
+   "source": "중부매일",
+   "published": "2026-10-15T16:52+09:00",
+   "cat": "sev",
+   "id": "b104985af074",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "[Telecom & Now] 피지컬 AI부터 토큰 팩토리까지…KT, 그룹 AX 성과 공유...",
+   "summary": "◆KT, 안전보건공단과 산업현장 안전격차 줄인다 KT가 한국산업안전보건공단과 함께 산업 현장의 안전문화 확산과 사업장 간 안전격차 해소에 나선다. KT는 한국산업안전보건공단과 산업현장 안전 문화 확산 및...",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1728012",
+   "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1728012",
+   "source": "EBN",
+   "published": "2026-10-15T16:44+09:00",
+   "cat": "tech",
+   "id": "8e9a66b2c3a8",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
+  {
+   "title": "인천 상수도 공사장서 80대 보행자 굴삭기에 쾅…\"사망\"",
+   "summary": "인천상수도사업본부가 발주한 상수도 공사 중 A씨를 미처 보지 못하고 친 것으로 파악됐다. 고용노동부 인천북부지청은 작업 중지를 명령하고 사고 경위와 산업안전보건법·중대재해처벌법 위반 여부 등을 조사 중이다.",
+   "url": "https://n.news.naver.com/mnews/article/003/0014256701?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261015_0003827852",
+   "source": "뉴시스",
+   "published": "2026-10-15T16:38+09:00",
+   "cat": "sev",
+   "id": "20d2fc89b884",
+   "related": [],
+   "day": "2026-10-15",
+   "watch": []
+  },
   {
    "title": "중대재해법 위반 확정 37개 사업장 공개…경북 6곳 포함",
    "summary": "이 사고로 박영민 전 영풍 대표이사는 중대재해처벌법 시행 후 처음으로 구속기소됐으나 이후 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐다. 기본적인 안전조치 미흡으로 발생한 사망사고도 공표 대상에...",
@@ -488,6 +631,12 @@
      "url": "https://n.news.naver.com/mnews/article/025/0003558190?sid=102",
      "orig": "https://www.joongang.co.kr/article/25470048",
      "title": "“납 수치 조작, 검진기관 개입도 수사해달라”…노동부, DN오토모티브..."
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009230629?sid=101",
+     "orig": "https://www.news1.kr/economy/employment-labor/6321520",
+     "title": "노동부 \"DN오토모티브 납 조작, 검진기관 관여도 수사 요청했다\""
     }
    ],
    "day": "2026-10-15",
@@ -880,7 +1029,14 @@
    "published": "2026-10-15T14:36+09:00",
    "cat": "tech",
    "id": "521f4ffa0539",
-   "related": [],
+   "related": [
+    {
+     "source": "남도일보",
+     "url": "https://www.namdonews.com/news/articleView.html?idxno=926273",
+     "orig": "https://www.namdonews.com/news/articleView.html?idxno=926273",
+     "title": "\"안전경영 의식 높이자\"…광주상의, CEO 안전 교육 워크숍"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -1123,6 +1279,12 @@
      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=718648",
      "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=718648",
      "title": "부산도시공사, 지방공기업 5곳 안전관리 협력…첫 협의회서 공동 대응 ..."
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261015001057",
+     "orig": "https://www.newspim.com/news/view/20261015001057",
+     "title": "부산도시공사, 지방공기업 안전보건 협의회 첫 회의…\"안전관리 역량 강..."
     }
    ],
    "day": "2026-10-15",
@@ -1156,6 +1318,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014255877?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261015_0003827399",
      "title": "대전·충남 산재 승인 중대재해 33건, 재해 조사 누락"
+    },
+    {
+     "source": "ccnnews.co.kr",
+     "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416299",
+     "orig": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416299",
+     "title": "어기구 \"대전노동청 등 3곳, 산재 승인 중대재해 33건 조사 누락\""
     }
    ],
    "day": "2026-10-15",
@@ -1430,7 +1598,14 @@
    "published": "2026-10-15T11:32+09:00",
    "cat": "law",
    "id": "91aacf0a2861",
-   "related": [],
+   "related": [
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495687",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495687",
+     "title": "KT, 산업안전보건공단과 맞손…통신업 종사자·협력사 안전관리 강화"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -1545,6 +1720,18 @@
      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209706",
      "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=209706",
      "title": "KT, 산업안전보건공단과 협력사·소규모 사업장 안전격차 해소 나선다"
+    },
+    {
+     "source": "mtnews.net",
+     "url": "https://www.mtnews.net/news/articleView.html?idxno=26237",
+     "orig": "https://www.mtnews.net/news/articleView.html?idxno=26237",
+     "title": "안전보건공단-KT, 안전문화 확산 및 안전격차 해소 업무협약 체결"
+    },
+    {
+     "source": "국민일보",
+     "url": "https://n.news.naver.com/mnews/article/005/0001878930?sid=102",
+     "orig": "https://www.kmib.co.kr/article/view.asp?arcid=9000022926&cp=nv",
+     "title": "안전보건공단·KT, 원하청 안전격차 해소 맞손"
     }
    ],
    "day": "2026-10-15",
@@ -2173,6 +2360,48 @@
      "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=367389",
      "orig": "http://www.ftoday.co.kr/news/articleView.html?idxno=367389",
      "title": "KT, 한국산업안전보건공단과 안전문화 확산 협력"
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261015500523",
+     "orig": "http://www.metroseoul.co.kr/article/20261015500523",
+     "title": "안전보건공단-KT, 산업현장 안전문화 확산 맞손"
+    },
+    {
+     "source": "it-b.co.kr",
+     "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90267",
+     "orig": "https://www.it-b.co.kr/news/articleView.html?idxno=90267",
+     "title": "KT, 한국산업안전보건공단과 손잡고 안전문화 확산 나선다"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610151633467404be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610151633467404be44c0aacd_30",
+     "title": "안전보건공단, KT와 안전문화 확산 맞손…원·하청 안전격차 해소 협력"
+    },
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006388858?sid=105",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=05077446645613248&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "KT, 산업안전보건공단과 안전문화 확산 나선다"
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342286",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342286",
+     "title": "안전보건공단·KT, 안전문화 확산·안전격차 해소 '맞손'"
+    },
+    {
+     "source": "thefirstmedia.net",
+     "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=210998",
+     "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=210998",
+     "title": "KT, 산업안전보건공단과 손잡고 안전문화 확산…소규모 사업장 지원"
+    },
+    {
+     "source": "kfenews.co.kr",
+     "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666318",
+     "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=666318",
+     "title": "KT, 산업현장 안전격차 해소…안전보건공단과 협력"
     }
    ],
    "day": "2026-10-15",
@@ -2520,6 +2749,12 @@
      "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037726",
      "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037726",
      "title": "중대산업재해 사업장 37곳 공표…경영책임자 39명 중 실형 1명"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261015501214",
+     "orig": "https://www.viva100.com/article/20261015501214",
+     "title": "중처법 위반 사업장 37곳 공개…경영책임자 실형 단 1명"
     }
    ],
    "day": "2026-10-15",
@@ -2650,6 +2885,12 @@
      "url": "https://n.news.naver.com/mnews/article/009/0005749052?sid=102",
      "orig": "https://www.mk.co.kr/article/12176712",
      "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈’ 대상 수상"
+    },
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151504453620766",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610151504453620766",
+     "title": "킨텍스, 마이스 업계 최초 'AI 안전관리 어워즈' 대상 수상!"
     }
    ],
    "day": "2026-10-15",
