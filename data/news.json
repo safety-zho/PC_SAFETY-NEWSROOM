@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T10:31+09:00",
+ "updatedAt": "2026-10-16T11:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,16 +31,7 @@
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 4
-  },
-  {
-   "id": "e906cc3753aa",
-   "title": "\"중대재해 없는 현장 만든다\"…삼표그룹, 3분기 임원 안전세션서 안전경...",
-   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
-   "source": "더페어",
-   "cat": "tech",
-   "day": "2026-10-16",
-   "count": 2
+   "count": 7
   },
   {
    "id": "55a282c027b0",
@@ -49,7 +40,7 @@
    "source": "헤럴드경제",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 2
+   "count": 3
   },
   {
    "id": "850a879ba8c6",
@@ -57,6 +48,15 @@
    "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495760",
    "source": "핀포인트뉴스",
    "cat": "law",
+   "day": "2026-10-16",
+   "count": 3
+  },
+  {
+   "id": "e906cc3753aa",
+   "title": "\"중대재해 없는 현장 만든다\"…삼표그룹, 3분기 임원 안전세션서 안전경...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
+   "source": "더페어",
+   "cat": "tech",
    "day": "2026-10-16",
    "count": 2
   },
@@ -71,6 +71,149 @@
   }
  ],
  "articles": [
+  {
+   "title": "DN오토모티브, '킬레이션 주사 투여' 의혹 논란…노조 \"역학조사 범위 ...",
+   "summary": "이에 대해 고용노동부는 산업안전보건법 위반 사항과 관련해 노동자 건강 보호 조치를 방해한 혐의로 울산경찰청에 수사를 의뢰한 상황이다. 노조는 회사가 지난 2023년부터 2025년까지 특수건강진단을 1~2개월 앞둔...",
+   "url": "https://www.100ssd.co.kr/news/articleView.html?idxno=213559",
+   "orig": "https://www.100ssd.co.kr/news/articleView.html?idxno=213559",
+   "source": "100ssd.co.kr",
+   "published": "2026-10-16T11:22+09:00",
+   "cat": "law",
+   "id": "3b3fd357d231",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "배달업 산재 꾸준히 늘더니... 4년 만에 1.6배",
+   "summary": "16일 고용노동부로부터 제출받은 자료에 따르면 배달업(퀵서비스업) 산재가 4년만에 약 1.58배 폭증한 것으로 나타났다. 연도별 배달업 산업재해 승인건수는 △2021년 4721건 △2022년 6761건 △2023년 7391건...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078853",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3078853",
+   "source": "뉴스클레임",
+   "published": "2026-10-16T11:18+09:00",
+   "cat": "law",
+   "id": "a64e5b5ff562",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "﻿비뇨의학, 대학병원 기피…지방 '수련 붕괴' 위기",
+   "summary": "학회는 지방 인력 공백의 원인으로 수도권 환자 쏠림에 따른 지방 대학병원의 경영 악화 및 보상 불균형... 고난도 암 수술과 남성 난임 진료, 요로결석 등 응급 처치 수가를 현실화하고 의료사고처리특례법 등 안전장치...",
+   "url": "https://www.dailymedi.com/news/news_view.php?wr_id=941500",
+   "orig": "https://www.dailymedi.com/news/news_view.php?wr_id=941500",
+   "source": "dailymedi.com",
+   "published": "2026-10-16T11:18+09:00",
+   "cat": "acc",
+   "id": "a7c0a1aee9d9",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "원주시시설관리공단, 근골격계 질환 예방…근로자 건강관리 강화",
+   "summary": "행사에는 공단 관리감독자와 근로자 대표인 명예산업안전감독관 등이 참석해 부서별·공정별 유해요인 조사 결과를 공유했다. 이어 근골격계 질환 예방을 위한 통증 관리 요령 등 보건교육도 진행했다. 공단은 이번 조사...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480986",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2480986",
+   "source": "이뉴스투데이",
+   "published": "2026-10-16T11:13+09:00",
+   "cat": "tech",
+   "id": "c314e040df79",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[단독] 인력난에 허덕이는 노동감독관.. 휴직·퇴직 급증",
+   "summary": "16일 국회 기후에너지환경노동위원회 소속 국민의힘 김소희 의원이 고용노동부로부터 받은 자료에 따르면 올해 9월 기준 노동감독관(산업안전감독관 포함) 휴직자는 422명으로 전년(316명) 대비 33.5% 늘어난 것으로...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005749518?sid=101",
+   "orig": "https://www.mk.co.kr/article/12177638",
+   "source": "매일경제",
+   "published": "2026-10-16T11:03+09:00",
+   "cat": "law",
+   "id": "12aca86733cd",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "강화군, 현업근로자 안전교육 강화…중대재해 예방 나선다",
+   "summary": "강화군이 현업근로자의 안전의식을 높이고 산업재해를 예방하기 위한 현장 중심의 안전보건교육을 실시했다. 강화군은 지난 15일 군청 진달래홀에서 현업근로자 100여 명을 대상으로 안전보건교육을 진행했다고 밝혔다....",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714294",
+   "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=714294",
+   "source": "뉴스프리존",
+   "published": "2026-10-16T11:00+09:00",
+   "cat": "tech",
+   "id": "8506f5070ac8",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "\"약배송, 안전관리 면밀히 고려\"한다는 복지부…국회는 '정책근거' 부족...",
+   "summary": "비대면진료 제도화에 따른 의약품 배송 확대를 두고 보건복지부가 의약품 안전관리 등을 면밀히 고려하면서... 2026년에는 업무 재설계 및 정보화전략계획을 수립하고, 2026년 12월에는 국민건강보험공단에 시스템 구축...",
+   "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=546505",
+   "orig": "https://www.kpanews.co.kr/news/articleView.html?idxno=546505",
+   "source": "kpanews.co.kr",
+   "published": "2026-10-16T11:00+09:00",
+   "cat": "law",
+   "id": "673671d7b467",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "삼표그룹 경영진, 안전관리 책임 강화...중대재해 교육 진행",
+   "summary": "삼표그룹이 중대재해 예방을 위해 경영진의 안전관리 책임을 강화하고 현장 중심의 안전문화 정착에 나서고 있다. 단순한 안전교육이나 점검에 그치지 않고 현장에서 효과가 확인된 안전관리 방식을 전 계열사로 확산해...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005590223?sid=101",
+   "orig": "https://www.fnnews.com/news/202610160937518230",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-16T10:42+09:00",
+   "cat": "tech",
+   "id": "183fdcf57775",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "삼표그룹, 계열사 안전관리 사례 공유...중대재해 예방 방안 논의",
+   "summary": "▲ 삼표그룹이 지난 8일 '2026년 3분기 임원 안전세션'을 진행했다.(사진: 삼표그룹 제공) 산업현장의... 외부 안전보건 전문 컨설팅 기관이 ‘중대재해(SIF) 예방 문화 조성’을 주제로 교육을 진행했으며, 안전한 작업행동을...",
+   "url": "https://idsn.co.kr/news/view/1065577041215892",
+   "orig": "https://idsn.co.kr/news/view/1065577041215892",
+   "source": "idsn.co.kr",
+   "published": "2026-10-16T10:40+09:00",
+   "cat": "tech",
+   "id": "a55bf40e1d51",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "킨텍스, 마이스 업계 최초 ‘AI 안전관리 어워즈’ 대상…첨단 기술로 ...",
+   "summary": "최상운 기자 | 킨텍스(KINTEX, 대표이사 이민우)가 지난 14일 킨텍스에서 열린 ‘2026 도시안전기술박람회’... 시설물의 이상징후를 조기에 파악하기 위한 스마트센서 활용도 확대하고 있다. 온도와 연기, 가스 등을...",
+   "url": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580093.html",
+   "orig": "http://digitalchosun.dizzo.com/site/data/html_dir/2026/10/15/2026101580093.html",
+   "source": "digitalchosun.dizzo.com",
+   "published": "2026-10-16T10:36+09:00",
+   "cat": "tech",
+   "id": "6b48c7c477cd",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "노동부 여수지청·안전보건공단 전남동부지사, 건설현장 추락사고 예방...",
+   "summary": "/사진 = 안전보건공단 전남동부지사 제공 고용노동부와 안전보건공단이 건설현장 주요 사망사고 원인인 추락재해를 예방하기 위해 여수·광양지역 건설근로자들을 대상으로 현장 밀착형 안전캠페인을 전개했다....",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251046",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251046",
+   "source": "안전신문",
+   "published": "2026-10-16T10:34+09:00",
+   "cat": "tech",
+   "id": "1b9b0de2def5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "콘크리트는 공장서, 냉동설비는 AI로… 변화하는 산업현장",
    "summary": "건설·산업 현장에서 시공방식 개선과 안전관리, 설비 운영 자동화를 위한 기술 도입이 이어지고 있다.... 외부 안전보건 전문기관이 참여한 교육에서는 중대재해 예방을 위한 조직문화와 근로자의 안전행동을...",
@@ -405,6 +548,12 @@
      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495783",
      "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495783",
      "title": "삼표그룹, 전 계열사 경영진 안전세션…현장 안전관리 강화"
+    },
+    {
+     "source": "updownnews.co.kr",
+     "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319175",
+     "orig": "https://www.updownnews.co.kr/news/articleView.html?idxno=319175",
+     "title": "삼표그룹, 전 계열사 경영진 '안전세션'…중대재해 예방·현장관리 강화"
     }
    ],
    "day": "2026-10-16",
@@ -425,6 +574,12 @@
      "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229002",
      "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229002",
      "title": "한국산업인력공단, 고용노동부 공공기관 2026년 10월 브랜드평판 1위"
+    },
+    {
+     "source": "cbci.co.kr",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=616240",
+     "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=616240",
+     "title": "한국산업인력공단, 10월 고용노동부 공공기관 브랜드평판 1위…근로복지..."
     }
    ],
    "day": "2026-10-16",
@@ -522,6 +677,24 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2006610",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006610",
      "title": "용인시니어클럽, 노인정책 추진 유공 국무총리표창 수상"
+    },
+    {
+     "source": "job-post.co.kr",
+     "url": "https://www.job-post.co.kr/news/articleView.html?idxno=232674",
+     "orig": "https://www.job-post.co.kr/news/articleView.html?idxno=232674",
+     "title": "용인시니어클럽, 노인정책 유공 국무총리표창 수상"
+    },
+    {
+     "source": "newsworks.co.kr",
+     "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=856694",
+     "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=856694",
+     "title": "용인시니어클럽, 노인정책 유공 국무총리표창"
+    },
+    {
+     "source": "siminilbo.co.kr",
+     "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263675803999",
+     "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263675803999",
+     "title": "용인시니어클럽, 노인정책 추진 유공 국무총리표창"
     }
    ],
    "day": "2026-10-16",
@@ -1601,6 +1774,18 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019518",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019518",
      "title": "국토안전관리원, 부산시설공단과 첨단 안전기술 성능평가 협약"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189241",
+     "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7189241",
+     "title": "국토안전원·부산시설공단, '첨단안전관리 기술 성능평가체계 개발' MOU"
+    },
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001402764?sid=102",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026101610512852723",
+     "title": "부산시설공단-국토안전관리원, 첨단 안전점검 기술 검증체계 구축 맞손"
     }
    ],
    "day": "2026-10-15",
