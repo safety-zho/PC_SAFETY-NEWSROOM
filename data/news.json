@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T16:36+09:00",
+ "updatedAt": "2026-10-16T17:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,7 @@
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 8
+   "count": 10
   },
   {
    "id": "55a282c027b0",
@@ -61,16 +61,270 @@
    "count": 4
   },
   {
-   "id": "8707d82f9693",
-   "title": "'죽음의 일터' 영암 대불국가산단…2년간 산재 사망 15명",
-   "url": "https://n.news.naver.com/mnews/article/003/0014258370?sid=102",
-   "source": "뉴시스",
-   "cat": "sev",
+   "id": "4cbdc1e26468",
+   "title": "중노위원장 \"공공기관 이전으로 근로조건 바뀌면 노조법상 교섭 대상\"",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4439667",
+   "source": "einfomax.co.kr",
+   "cat": "law",
    "day": "2026-10-16",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "\"작업 전 붕괴 위험 확인해야\"…노동장관, 건설현장 불시점검",
+   "summary": "한편 노동부는 12월 15일까지 가설구조물 설치·해체, 콘크리트 타설, 건축물 철거·해체, 굴착·관로공사 등 붕괴 위험이 높은 건설현장을 집중 점검한다. 지방고용노동관서와 한국산업안전보건공단을 통해 위험현장을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014259004?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261016_0003829549",
+   "source": "뉴시스",
+   "published": "2026-10-16T17:23+09:00",
+   "cat": "law",
+   "id": "0bcaf09b1680",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "지방으로 넓어지는 노동감독… 중소기업 노무관리도 달라진다",
+   "summary": "고용노동부)의 지휘·감독 아래 일관성과 통일성을 유지하며 실행된다고 설명했다. 먼저 지방정부는 상호 사전 협의돼 명단이 확정된 '30인 미만 사업장을 대상으로 감독'을 실시한다. 감독 범위는 근로기준법, 산업안전보...",
+   "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523800",
+   "orig": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=523800",
+   "source": "ilyoseoul.co.kr",
+   "published": "2026-10-16T17:18+09:00",
+   "cat": "law",
+   "id": "3f2e3bc77665",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "한화에어로 반복 폭발… 대전 노동청 감독 부실 질타",
+   "summary": "고용노동부는 지난 6월 사고 이후 해당 사업장에 대한 특별감독에서 산업안전보건법 위반 473건을 적발했다. 이 가운데 189건은 사법처리하고, 284건에는 과태료를 부과할 예정이다. 한편 한화에어로 대전사업장에서는...",
+   "url": "https://n.news.naver.com/mnews/article/656/0000189722?sid=102",
+   "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2307428",
+   "source": "대전일보",
+   "published": "2026-10-16T17:17+09:00",
+   "cat": "acc",
+   "id": "9c50cce024a5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "'현장 20년' 정남성 본부장이 이끄는 한난의 AI 안전관리 혁신",
+   "summary": "AI를 활용한 업무 혁신과 현장 안전을 주요 경영 방향으로 제시하며 건설본부를 이끌고 있다. 정 본부장은 박람회에 앞서 지난 9월 첨단 기술 고도화 성과를 공유하는 자리를 마련했다. 당시 시연 현장에서는 열수축케이싱...",
+   "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=55375",
+   "orig": "https://www.enetnews.co.kr/news/articleView.html?idxno=55375",
+   "source": "enetnews.co.kr",
+   "published": "2026-10-16T17:14+09:00",
+   "cat": "tech",
+   "id": "4d7f2bea4db6",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "신정훈 \"산재 유족진술 누락한채 유족급여 안줘\"…노동청 질타",
+   "summary": "중 사망한 고인의 유족이 올해 4월16일 근로복지공단으로부터 근로자성 불인정을 이유로 유족급여 부지급(不支給-지급 불가) 결정을 통보받았다. 공단은 고용노동부의 중대 재해조사 결과를 주요 근거로 삼았다. 신 의원은...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014258988?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261016_0003829528",
+   "source": "뉴시스",
+   "published": "2026-10-16T17:13+09:00",
+   "cat": "sev",
+   "id": "146a3a702ce5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "신정훈 의원, 산재 유족급여 부지급·장애인 유족 조사 누락 의혹 '질타...",
+   "summary": "중 사망한 고인의 유족은 올해 4월 16일 근로복지공단으로부터 근로자성 불인정을 이유로 유족급여 부지급 결정을 통보받았다. 지난 14일 근로복지공단이 제출한 답변에는 '고용노동부에서 실시한 중대재해조사 결과...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000542870?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2377344.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-16T17:06+09:00",
+   "cat": "sev",
+   "id": "0e29965dbbbf",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "중노위원장 \"CJ대한통운 파기, 대법원 상황 영향\" 조희대 언급?",
+   "summary": "뒤집으면서 법 개정의 근거 자체가 흔들렸다는 지적이 나왔다. 한편 박 위원장은 공공기관 지방 이전과... 산업안전보건법상 의무 이행만으로는 원청의 사용자성이 인정되지 않는다는 김영훈 노동부 장관의 발언과 중노위...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004199655?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6592742?utm_source=naver&utm_medium=article&utm_campaign=20261016050412",
+   "source": "노컷뉴스",
+   "published": "2026-10-16T17:05+09:00",
+   "cat": "law",
+   "id": "dd8043fcfb20",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "코레일 비상임이사·청년 직원, 안전관리 등 경영 현안 논의",
+   "summary": "회의에서는 경영여건과 안전관리, 기술혁신을 주요 의제로 다뤘다. 주니어보드 소속 직원들은 현장 업무와 관련한 고충을 설명하고 개선 의견을 제시했다. 비상임이사들은 공사의 주요 의사결정이 이뤄지는 과정을...",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=745935",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=745935",
+   "source": "폴리뉴스",
+   "published": "2026-10-16T17:03+09:00",
+   "cat": "tech",
+   "id": "0e96049d51c6",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "해썹인증원, 식용곤충 안전관리로 'ESG 혁신정책 대상' 우수상 수상",
+   "summary": "이를 기관의 ESG 경영과 연계해 실천하는 한편, 국내 최초로 2개소에 식용곤충 생산단계 안전관리 인증을 부여했다. 특히 이번 수상은 지난 4월 한국정책학회가 주관한 '2026 제15회 한국정책대상'에서 공공기관 부문 우수...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481180",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2481180",
+   "source": "이뉴스투데이",
+   "published": "2026-10-16T17:02+09:00",
+   "cat": "tech",
+   "id": "eca4344036e7",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "노동부 장관, 부산 건설현장 붕괴사고 예방 불시점검",
+   "summary": "노동부는 지방관서와 안전보건공단 등을 통해 위험 현장을 지속 발굴하고, 안전조치가 미흡하거나 위험도가 높은 현장은 불시점검·감독을 실시하는 등 붕괴사고 예방에 집중할 계획이다.",
+   "url": "https://n.news.naver.com/mnews/article/018/0006389535?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=04503446645613576&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-16T17:00+09:00",
+   "cat": "law",
+   "id": "094af904d088",
+   "related": [
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261016164629391",
+     "orig": "https://www.ajunews.com/view/20261016164629391",
+     "title": "김영훈 노동장관, 부산 건설현장 불시점검…\"붕괴 위험 의심되면 즉시 ..."
+    }
+   ],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "삼표그룹, 중대재해 예방 해법은 현장에···임원진 안전관리 점검",
+   "summary": "| 스마트비즈 = 최형호 기자 | 건설·산업 현장 안전관리 수준을 높이기 위해 경영진의 역할과 현장 구성원의... 외부 안전보건 전문 컨설팅 기관이 참여한 교육에서는 '중대재해(SIF) 예방 문화 조성'을 주제로 안전행동을...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=156723",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=156723",
+   "source": "smartbizn.com",
+   "published": "2026-10-16T16:58+09:00",
+   "cat": "tech",
+   "id": "65199674cd0a",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "\"8년 새 13명 사망 한화에어로, 대전노동청 감독 미비\"",
+   "summary": "된 감독을 하지 않았다는 지적이 나왔다. 16일 국회 기후에너지환경노동위원회 소속 국민의힘 윤재옥(대구... 윤 의원에 따르면 한국산업안전보건공단은 2018년 폭발 사고 이후 재해조사를 벌이고 의견서에 '해당...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016381962?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261016140900063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-16T16:56+09:00",
+   "cat": "sev",
+   "id": "885bf92f39a7",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "DN오토모티브모티브, '납 배출 주사' 의혹에 공식 사과…구체적 해명은...",
+   "summary": "고용노동부는 DN오토모티브 울산공장에서 산업안전보건법 위반 사항 68건을 적발하고 과태료 4620만원을 부과했다. 지난 8월에는 주사 투약 의혹과 관련해 업무방해 혐의로 경찰에 수사를 의뢰했다. DN오토모티브는 주사...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=315918",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=315918",
+   "source": "ppss.kr",
+   "published": "2026-10-16T16:51+09:00",
+   "cat": "law",
+   "id": "cbef6ae19809",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동부 장관 \"붕괴사고, 작업 전 위험 제거 중요\"",
+   "summary": "노동부는 지방관서와 안전보건공단 등을 통해 위험현장을 지속 발굴하고, 안전조치가 미흡하거나 위험도가 높은 현장은 불시점검·감독을 실시하는 등 붕괴사고 예방에 집중할 계획이다. 김 장관은 \"공사 기간이나...",
+   "url": "https://www.newspim.com/news/view/20261016001297",
+   "orig": "https://www.newspim.com/news/view/20261016001297",
+   "source": "뉴스핌",
+   "published": "2026-10-16T16:51+09:00",
+   "cat": "law",
+   "id": "cfca5309c3ab",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "'7명 사망' 현대아울렛 화재…소방업체 소장 징역 3년·점장 1년(종합)",
+   "summary": "근로자 사망에 따른 산업안전보건법 위반 혐의, 안전보건협의체 미구성·합동점검 의무 위반 혐의 등은... 이번 화재와 관련해 김형종 전 현대백화점 사장도 중대재해처벌법 위반 혐의로 2024년 4월 대전지방고용노동청에...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016381952?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261016123851063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-16T16:50+09:00",
+   "cat": "sev",
+   "id": "791db12ad300",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "부산도시공사 등 5개 기관, 안전보건협의회 출범… 공기업 간 협력 강화",
+   "summary": "이날 회의에는 부산도시공사를 비롯해 부산교통공사, 부산시설공단, 부산환경공단, 부산관광공사 등 5개 기관의 안전보건 관계자들이 참석했다. 참석자들은 협의회 운영방안과 지방공기업 안전활동 수준평가에 대한 기관...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005829639?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026101615520551879",
+   "source": "아시아경제",
+   "published": "2026-10-16T16:41+09:00",
+   "cat": "tech",
+   "id": "43f57dafd4ab",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[2026 국정감사] 중노위원장 \"공공기관 지방이전·통폐합도 단체교섭 대...",
+   "summary": "노란봉투법(개정 노동조합법)상 단체교섭 대상이 될 수 있다는 입장을 밝혔다. 박 위원장은 16일 국회... 박 위원장은 원청의 사용자성을 판단할 때 산업안전보건법이나 중대재해처벌법 등에 따른 의무 이행만으로...",
+   "url": "https://www.ajunews.com/view/20261016163103342",
+   "orig": "https://www.ajunews.com/view/20261016163103342",
+   "source": "아주경제",
+   "published": "2026-10-16T16:40+09:00",
+   "cat": "law",
+   "id": "abb696747e8e",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "이재용·최태원 출석 놓고 싸우다 산재 기업도 못 불렀다",
+   "summary": "여야가 이재용 삼성전자 회장과 최태원 SK그룹 회장의 증인 채택을 놓고 대치하면서 산업재해와 임금체불... 지난 13일 고용노동부 국감에서는 이용우 민주당 의원이 “그나마 채택한 기업 증인들은 속된 말로 만만한 곳...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003476775?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610161638001",
+   "source": "경향신문",
+   "published": "2026-10-16T16:38+09:00",
+   "cat": "law",
+   "id": "f6d5bd1d8038",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "진화하는 노인일자리…'용인시니어클럽' 혁신적 변화 눈길",
+   "summary": "용인시니어클럽은 2024년 한국산업안전보건공단으로부터 '위험성평가 우수사업장' 인증을 받는 등 현장 중심의 안전관리 체계와 맞춤형 매뉴얼을 구축, 어르신들이 안심하고 일할 수 있는 환경을 조성했다. 이 같은 성과에...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014258887?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261016_0003829422",
+   "source": "뉴시스",
+   "published": "2026-10-16T16:35+09:00",
+   "cat": "tech",
+   "id": "0b1db550fdb8",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "'7명 사망' 현대아울렛 화재 참사…원·하청 관계자 4명 1심서 실형·법...",
    "summary": "점검하거나 감독할 의무가 있었다고 보기도 어렵다는 이유에서다. 재판부는 현대아울렛 관계자들의... 반면 산업안전보건법 위반 혐의 가운데 노동자 사망과 관련된 부분 등은 범죄의 증명이 부족하다며 무죄로 판단했다....",
@@ -80,7 +334,14 @@
    "published": "2026-10-16T16:33+09:00",
    "cat": "sev",
    "id": "46dd42551608",
-   "related": [],
+   "related": [
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2119914",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2119914",
+     "title": "7명 숨진 현대아울렛 대전점 화재 참사, 원·하청 책임자 4명 실형"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -171,6 +432,19 @@
    "published": "2026-10-16T16:04+09:00",
    "cat": "hlt",
    "id": "8d7daf09f6e1",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "경고에도 쌓인 폐박스, 멈춰둔 소방시설···7명 숨진 대전 현대아울렛...",
+   "summary": "노동자 사망으로 인한 산업안전보건법 위반 등 일부 공소사실은 무죄로 봤다. 재판부는 “피고인들의 업무상 과실로 7명이 사망하고 1명이 중상을 입는 중대한 피해가 발생했고 업무상 주의의무 위반의 정도도 가볍지...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003476767?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610161603001",
+   "source": "경향신문",
+   "published": "2026-10-16T16:03+09:00",
+   "cat": "sev",
+   "id": "461f24ba4c6e",
    "related": [],
    "day": "2026-10-16",
    "watch": []
@@ -294,6 +568,12 @@
      "url": "https://n.news.naver.com/mnews/article/374/0000538234?sid=101",
      "orig": "https://biz.sbs.co.kr/article_hub/20000340458?division=NAVER",
      "title": "중노위원장 \"공공기관 이전으로 근로조건 바뀌면 노조법상 교섭 대상\""
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016382041?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261016087051530?input=1195m",
+     "title": "중노위원장 \"공공기관 지방이전·통폐합, 노조법상 교섭 대상\"(종합)"
     }
    ],
    "day": "2026-10-16",
@@ -428,6 +708,18 @@
      "url": "https://www.onews.tv/news/articleView.html?idxno=289325",
      "orig": "https://www.onews.tv/news/articleView.html?idxno=289325",
      "title": "\"중대재해 제로 달성\"… 부영그룹, 2026 하반기 안전·보건관리자 워크..."
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261016001259",
+     "orig": "https://www.newspim.com/news/view/20261016001259",
+     "title": "부영그룹, 하반기 안전·보건관리자 워크숍 개최…'중대재해 제로' 총력"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000100997",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000100997",
+     "title": "부영그룹, 안전·보건관리자 워크숍 개최…중대재해 예방 논의"
     }
    ],
    "day": "2026-10-16",
@@ -704,7 +996,14 @@
    "published": "2026-10-16T13:30+09:00",
    "cat": "tech",
    "id": "30e55d094186",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610161704332117be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610161704332117be44c0aacd_30",
+     "title": "안전보건공단 경기남부지사, 네팔 등 5개국 신규 입국 '외국인 근로자'..."
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -1037,7 +1336,14 @@
    "published": "2026-10-16T10:36+09:00",
    "cat": "tech",
    "id": "6b48c7c477cd",
-   "related": [],
+   "related": [
+    {
+     "source": "m-economynews.com",
+     "url": "https://www.m-economynews.com/news/article.html?no=71769",
+     "orig": "https://www.m-economynews.com/news/article.html?no=71769",
+     "title": "킨텍스, '도시안전기술박람회' AI 안전관리 어워즈' 대상 수상"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
