@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T12:28+09:00",
+ "updatedAt": "2026-10-16T13:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,25 +52,103 @@
    "count": 3
   },
   {
-   "id": "e906cc3753aa",
-   "title": "\"중대재해 없는 현장 만든다\"…삼표그룹, 3분기 임원 안전세션서 안전경...",
-   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
-   "source": "더페어",
-   "cat": "tech",
+   "id": "472df638d28f",
+   "title": "대불산단서 2년간 노동자 15명 사망…노동당국 감독 도마",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=926338",
+   "source": "남도일보",
+   "cat": "sev",
    "day": "2026-10-16",
    "count": 2
   },
   {
-   "id": "7a571fc9a254",
-   "title": "국회, 법사위 등 11개 국감…대법관 재제청·농협 개혁 등 쟁점",
-   "url": "https://n.news.naver.com/mnews/article/001/0016380298?sid=100",
-   "source": "연합뉴스",
-   "cat": "law",
+   "id": "a55bf40e1d51",
+   "title": "삼표그룹, 계열사 안전관리 사례 공유...중대재해 예방 방안 논의",
+   "url": "https://idsn.co.kr/news/view/1065577041215892",
+   "source": "idsn.co.kr",
+   "cat": "tech",
    "day": "2026-10-16",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "경사노위 위원장 \"민주노총 불참 아쉬워…대표성 보완 과제\"",
+   "summary": "박수근 중앙노동위원회 위원장은 공공기관 지방이전 및 통폐합 결정은 노란봉투법(개정 노동조합법)상... 있다\"며 \"산업안전보건법 및 중대재해처벌법상 의무 이행 조치는 사용자성 판단 근거에서 제외해야 한다\"고...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016381313?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261016087000530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-16T13:23+09:00",
+   "cat": "law",
+   "id": "0af4e1940a49",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "산업안전보건본부장 \"위험성평가와 연계된 보건관리 이뤄지도록 할 것\"",
+   "summary": "고용노동부 국정감사(왼쪽부터 류현철 산업안전보건본부장, 김영훈 고용노동부 장관) / 사진 = 연합뉴스. 류현철 산업안전보건본부장이 최근 한 사업장의 노동자들 납 중독 은폐 의혹에 대한 해명과 함께 \"위험성 평가와...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251049",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251049",
+   "source": "안전신문",
+   "published": "2026-10-16T13:22+09:00",
+   "cat": "law",
+   "id": "30a598ab6131",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "대구 학교 급식노동자들, 화상 입어도 자부담...\"교육청이 지원해야\"",
+   "summary": "고온의 조리기구를 다루고, 뜨거운 불과 기름 앞에서 일하다 화상을 입어 근로복지공단에 산업재해를... 산재를 줄이기 위해 보건관리자·안전관리자들이 지속적으로 현장에 나가 보호구 착용 등을 안내하고 있다\"고 밝혔다.",
+   "url": "https://www.pn.or.kr/news/articleView.html?idxno=34243",
+   "orig": "https://www.pn.or.kr/news/articleView.html?idxno=34243",
+   "source": "pn.or.kr",
+   "published": "2026-10-16T13:08+09:00",
+   "cat": "tech",
+   "id": "20dbb743a2c8",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "강화군, 산업재해 사례로 안전관리 교육…근로자 안전역량 강화 나선다",
+   "summary": "박용철 강화군수는 \"산업재해 예방의 출발점은 근로자 개개인의 안전의식과 기본 안전수칙 준수\"라며, 앞으로도 현장 중심의 안전보건교육과 지속적인 예방활동을 통해 안전한 사업장 조성에 힘쓰겠다고 밝혔다. 강화군은...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3723576",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3723576",
+   "source": "국제뉴스",
+   "published": "2026-10-16T13:02+09:00",
+   "cat": "tech",
+   "id": "97516daeb85c",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "서울공소청, 중대범죄 기소체계 정비…산업안전·공판 강화",
+   "summary": "고용노동부 특별사법경찰관 협력 창구는 공공·형사2부가 맡는다. 전담 명칭도 바뀌었다. 기존 중대산업재해 전담은 안전을 강조하는 취지에서 ‘산업안전’으로, 대공 전담은 간첩죄를 ‘적국’에서 ‘외국 또는 이에...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003689651?sid=102",
+   "orig": "https://www.seoul.co.kr/news/society/2026/10/16/20261016500126?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-16T12:44+09:00",
+   "cat": "law",
+   "id": "eae0d0ea8d82",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "경주시산림조합, 산불예방 숲가꾸기사업 현장교육…안전관리 강화",
+   "summary": "숲가꾸기사업이 안전하고 내실 있게 추진될 수 있도록 지원할 계획이다. 한편 경주시산림조합은 산림사업 관리업무대행과 산림경영지도 활동 등을 통해 지역 사유림의 체계적인 경영과 산림자원 관리에도 힘쓰고 있다....",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072513",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072513",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-16T12:32+09:00",
+   "cat": "tech",
+   "id": "703556db81ed",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "서울공소청 중대범죄기소부·공공형사부 등 업무분장 마무리",
    "summary": "다만 고용노동부 특별사법경찰관 협력창구는 공공·형사 제2부로 일원화했다. 전담 명칭도 바뀌었다. 기존 중대산업재해 전담은 안전을 강조하는 취지에서 '산업안전'으로, 대공 전담은 간첩죄를 '적국'에서 '외국 또는...",
@@ -106,7 +184,14 @@
    "published": "2026-10-16T11:58+09:00",
    "cat": "sev",
    "id": "472df638d28f",
-   "related": [],
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/605360?ref=naver",
+     "orig": "https://www.naeil.com/news/read/605360?ref=naver",
+     "title": "대불산단서 2년간 노동자 15명 산재 사망"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -262,7 +347,14 @@
    "published": "2026-10-16T10:40+09:00",
    "cat": "tech",
    "id": "a55bf40e1d51",
-   "related": [],
+   "related": [
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2119888",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2119888",
+     "title": "삼표그룹 전 계열사 중대재해 예방·현장 안전관리 강화"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -405,7 +497,14 @@
    "published": "2026-10-16T09:26+09:00",
    "cat": "tech",
    "id": "1fb74ce190a5",
-   "related": [],
+   "related": [
+    {
+     "source": "aitimes.com",
+     "url": "https://www.aitimes.com/news/articleView.html?idxno=216326",
+     "orig": "https://www.aitimes.com/news/articleView.html?idxno=216326",
+     "title": "FTC, 오픈AI·앤트로픽에 소환장 발부…\"AI 안전사고·소비자 피해 조사..."
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
