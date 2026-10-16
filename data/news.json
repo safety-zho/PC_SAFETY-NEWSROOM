@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T14:28+09:00",
+ "updatedAt": "2026-10-16T15:33+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,25 @@
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 9
+   "count": 12
+  },
+  {
+   "id": "cc1c8f4639ef",
+   "title": "부영그룹, 하반기 안전·보건관리자 워크숍 개최...현장 안전관리 강화",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555701",
+   "source": "joongangenews.com",
+   "cat": "tech",
+   "day": "2026-10-16",
+   "count": 5
+  },
+  {
+   "id": "0af4e1940a49",
+   "title": "경사노위 위원장 \"민주노총 불참 아쉬워…대표성 보완 과제\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016381313?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-16",
+   "count": 4
   },
   {
    "id": "55a282c027b0",
@@ -43,34 +61,191 @@
    "count": 4
   },
   {
-   "id": "850a879ba8c6",
-   "title": "한국산업인력공단, 10월 고용노동부 공공기관 브랜드평판 1위…근로복지...",
-   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495760",
-   "source": "핀포인트뉴스",
-   "cat": "law",
+   "id": "8707d82f9693",
+   "title": "'죽음의 일터' 영암 대불국가산단…2년간 산재 사망 15명",
+   "url": "https://n.news.naver.com/mnews/article/003/0014258370?sid=102",
+   "source": "뉴시스",
+   "cat": "sev",
    "day": "2026-10-16",
    "count": 3
-  },
-  {
-   "id": "5d0fdb4d1ee3",
-   "title": "한국공항공사, 안전경영 실천 결의대회 개최... 중대재해 예방 강화",
-   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138099",
-   "source": "newslock.co.kr",
-   "cat": "tech",
-   "day": "2026-10-16",
-   "count": 2
-  },
-  {
-   "id": "0af4e1940a49",
-   "title": "경사노위 위원장 \"민주노총 불참 아쉬워…대표성 보완 과제\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016381313?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-16",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "노란봉투법 판정 기준 도마에…중노위원장 사건 참여도 논란",
+   "summary": "김 의원은 또 김영훈 노동부 장관이 지난 6월 기자회견에서 산업안전보건법상 도급인의 의무 이행만으로... 김 의원은 올해 6~7월 재심 사건 39건 가운데 36건에 박 위원장이 참여했다며, 법 개정 과정에 관여한 위원장이...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005427471?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/10/16/2026101615042379994",
+   "source": "머니투데이",
+   "published": "2026-10-16T15:25+09:00",
+   "cat": "law",
+   "id": "963310331b8a",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "폭행·괴롭힘·산재 은폐 의혹 노동자 사망…진정 지연에 노동청 사과",
+   "summary": "북한이탈주민 노동자가 장시간 노동과 폭행, 직장 내 괴롭힘 등을 겪었다는 의혹이 제기된 가운데 사망 이후... 산재 은폐와 임금 차별 의혹도 나왔다. 김 의원은 고인이 산업재해 신청을 요구하자 회사 측이 이를 막으려...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005427466?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/10/16/2026101613574521647",
+   "source": "머니투데이",
+   "published": "2026-10-16T15:18+09:00",
+   "cat": "sev",
+   "id": "6ab12de45a74",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "대법원이 뒤집은 ‘노란봉투법’ 토대, 박수근 “대법 상황 탓”",
+   "summary": "중노위 결정을 기초 삼아 법을 개정했는데, 이 결정 자체가 부인된 것이기 때문이다. 고용노동부 해석 지침... 그는 “산업안전보건법 및 중대재해처벌법상 의무 이행 조치를 하는 게 오히려 사용자성 인정 땐 기업에...",
+   "url": "https://n.news.naver.com/mnews/article/023/0004004251?sid=102",
+   "orig": "https://www.chosun.com/national/labor/2026/10/16/JG4UN7PLWFCNDPA7VUTXFO6T5I/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "조선일보",
+   "published": "2026-10-16T15:05+09:00",
+   "cat": "law",
+   "id": "995f69002189",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 김소희 \"안전 챙겼더니 원청 사용자 됐다\"…노란봉투법 기...",
+   "summary": "김소희 국민의힘 의원이 16일 노란봉투법(개정 노동조합법) 시행 이후 원청기업의 산업안전 의무 이행이... 김 의원은 산업안전보건법과 중대재해처벌법이 원청에 하청 노동자의 안전보건 확보 의무를 부과하고...",
+   "url": "https://www.newspim.com/news/view/20261016000961",
+   "orig": "https://www.newspim.com/news/view/20261016000961",
+   "source": "뉴스핌",
+   "published": "2026-10-16T14:55+09:00",
+   "cat": "law",
+   "id": "caae56eb2be1",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "동서울대, 취업 경쟁력 높인다…150명 '커리어점프업' 참여",
+   "summary": "동서울대학교는 고용노동부의 '대학 재학생 맞춤형 고용서비스 사업'과 연계해 운영 중인 '커리어점프업... 실내건축기사, 산업안전기사, 자동차정비산업기사 등 6개 교육과정을 운영 완료했다. 현재는 청소년지도사 2급...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1019586",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1019586",
+   "source": "cnbnews.com",
+   "published": "2026-10-16T14:54+09:00",
+   "cat": "law",
+   "id": "476106e41ac0",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "영암 대불산단 2년새 노동자 15명 산재로 숨져…\"광주노동청 부실감독\"",
+   "summary": "국회 기후에너지노동환경위원회 소속 서왕진 조국혁신당 의원이 광주지방고용노동청으로부터 제출받은 '대불산단 산재사망 발생현황'을 보면 지난해부터 올해 2분기까지 대불산단 노동자 13명이 산재로 숨졌다. 여기에...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004199576?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6592617?utm_source=naver&utm_medium=article&utm_campaign=20261016024111",
+   "source": "노컷뉴스",
+   "published": "2026-10-16T14:42+09:00",
+   "cat": "sev",
+   "id": "02233f0f02e5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "부영그룹, 하반기 안전·보건관리자 워크숍 개최...현장 안전관리 강화",
+   "summary": "부영그룹은 지난 2019년 한국산업안전보건공단으로부터 KOSHA 18001 인증을 취득한 이후 이를 KOSHA-MS로 전환해 운영하고 있다. 매년 사업장별 특성을 반영한 안전관리 방침을 수립하고 전사적인 안전교육도 진행하고 있다....",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555701",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=555701",
+   "source": "joongangenews.com",
+   "published": "2026-10-16T14:42+09:00",
+   "cat": "tech",
+   "id": "cc1c8f4639ef",
+   "related": [
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104200",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1104200",
+     "title": "부영그룹, '2026년 하반기 안전·보건관리자 워크숍' 실시"
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495962",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495962",
+     "title": "부영그룹, 안전·보건관리자 워크숍 열고 현장 대응 점검"
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600231.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/16/2026101600231.html",
+     "title": "부영그룹, 안전·보건관리자 워크숍 … 본사·현장 협력체계 확립"
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=20261016145857555a9fc143920_1",
+     "orig": "https://www.g-enews.com/view.php?ud=20261016145857555a9fc143920_1",
+     "title": "부영그룹, 안전·보건관리자 워크숍…현장 대응 역량 강화"
+    }
+   ],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "한국지역난방공사, 신기술을 통한 열수송관 안전관리 혁신",
+   "summary": "한국지역난방공사 정남성 건설본부장(오른쪽)이 도시안전기술박람회에서 AI 자율 열화상 진단 장비를... 한난 정남성 본부장은 \"AI와 로봇 기술을 현장에 적극적으로 접목해 국내 배관망 안전관리의 패러다임을 한 단계...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127211",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127211",
+   "source": "가스신문",
+   "published": "2026-10-16T14:42+09:00",
+   "cat": "tech",
+   "id": "3c9119218443",
+   "related": [
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591632326406",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591632326406",
+     "title": "한국지역난방공사, AI로 열수송관 이상 진단…안전관리 자동화"
+    }
+   ],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "日 미에현 고객갑질 조례, 벌금 425만원 형사처벌",
+   "summary": "고용노동부가 발표한 감정노동 실태조사에서도 서비스직 노동자 상당수가 고객의 폭언이나 과도한 요구로... 한 노무사는 \"현행 산업안전보건법에 고객 응대 근로자 보호 조항이 있지만 처벌보다는 사업주의 보호 의무에...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=881696",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=881696",
+   "source": "gokorea.kr",
+   "published": "2026-10-16T14:34+09:00",
+   "cat": "law",
+   "id": "6bc256a8b510",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 김포시, '24만보 걷고 김포페이 받자'...제5기 건강걷기 챌...",
+   "summary": "교육은 근로자가 실제 작업 현장에서 활용할 수 있는 실무 중심의 내용으로 구성됐으며, 주요 교육내용은 ▲정부의 산업안전 정책 방향 ▲산업안전보건법의 주요 내용과 근로자의 안전보건 의무 ▲작업 현장별 유해...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798394",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=798394",
+   "source": "weeklytoday.com",
+   "published": "2026-10-16T14:34+09:00",
+   "cat": "hlt",
+   "id": "82c61a33dc74",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "창원 내서도서관 공사현장에 국토안전관리원 컨설팅",
+   "summary": "이번 컨설팅은 경상남도와 국토안전관리원이 체결한 업무협약에 힘입어 이뤄진 사업이다. 공사비 300억 원 미만의 공공 건축 공사 현장에 스마트 장비를 지원하고 현장을 직접 방문해 지도·교육을 실시함으로써 담당...",
+   "url": "https://www.viva100.com/article/20261016500476",
+   "orig": "https://www.viva100.com/article/20261016500476",
+   "source": "브릿지경제",
+   "published": "2026-10-16T14:30+09:00",
+   "cat": "tech",
+   "id": "6c6336a1f6b4",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "\"AI·로봇으로 열수송관 이상 감지\"…한난, 안전관리 기술 혁신 박차",
    "summary": "정 본부장은 건설처장, 삼송지사장 등을 거친 현장 전문가로 AI 전환을 통한 업무 혁신과 안전 경영을 강조해 왔다. 정 본부장은 박람회 출품에 앞서 지난 9월 산·학·연 관계자들을 대상으로 기술 시연회를 열고...",
@@ -80,7 +255,14 @@
    "published": "2026-10-16T14:26+09:00",
    "cat": "tech",
    "id": "83f813c25809",
-   "related": [],
+   "related": [
+    {
+     "source": "energydaily.co.kr",
+     "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204120",
+     "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204120",
+     "title": "\"AI·로봇이 열수송관 안전관리 책임진다\""
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -184,7 +366,20 @@
    "published": "2026-10-16T14:03+09:00",
    "cat": "sev",
    "id": "8707d82f9693",
-   "related": [],
+   "related": [
+    {
+     "source": "lghellovision.net",
+     "url": "http://news.lghellovision.net/news/articleView.html?idxno=558616",
+     "orig": "http://news.lghellovision.net/news/articleView.html?idxno=558616",
+     "title": "대불산단, 최근 2년 새 산재 사망 15명"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112815",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4112815",
+     "title": "영암 대불산단 산재사망, 2년간 15명"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -275,6 +470,18 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009232222?sid=101",
      "orig": "https://www.news1.kr/economy/employment-labor/6322472",
      "title": "경사노위 위원장 \"민주노총 참여 기대했는데…대표성 보완해야\""
+    },
+    {
+     "source": "아시아경제",
+     "url": "https://n.news.naver.com/mnews/article/277/0005829550?sid=101",
+     "orig": "https://view.asiae.co.kr/article/2026101614352976317",
+     "title": "경사노위 위원장 \"민주노총 사회적 대화 불발 아쉬워…대표성은 보완 과..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014258638?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261016_0003829196",
+     "title": "경사노위 위원장 \"민주노총 참여 기대했는데…대표성 보완 필요\""
     }
    ],
    "day": "2026-10-16",
@@ -1100,6 +1307,24 @@
      "url": "http://www.metroseoul.co.kr/article/20261016500078",
      "orig": "http://www.metroseoul.co.kr/article/20261016500078",
      "title": "용인시 용인시니어클럽, 노인정책 유공 국무총리표창 수상"
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037794",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3037794",
+     "title": "용인시 '용인시니어클럽', 노인정책 추진 유공 국무총리표창 수상"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=654635",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654635",
+     "title": "용인시니어클럽, 노인정책 추진 유공 국무총리표창 수상"
+    },
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/321729/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/321729/?sc=Naver",
+     "title": "‘용인시니어클럽’, 노인정책 추진 유공 국무총리표창"
     }
    ],
    "day": "2026-10-16",
@@ -1858,6 +2083,12 @@
      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251044",
      "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251044",
      "title": "부산시설공단-국토안전관리원, 첨단 시설물 안전점검 기술 검증 협력"
+    },
+    {
+     "source": "nbntv.co.kr",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026127",
+     "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026127",
+     "title": "부산시설공단, 국토안전관리원과 스마트 안전진단 기술 업무협약 체결"
     }
    ],
    "day": "2026-10-15",
