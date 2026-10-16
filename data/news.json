@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T11:28+09:00",
+ "updatedAt": "2026-10-16T12:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "joongangenews.com",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 7
+   "count": 9
   },
   {
    "id": "55a282c027b0",
@@ -40,7 +40,7 @@
    "source": "헤럴드경제",
    "cat": "tech",
    "day": "2026-10-16",
-   "count": 3
+   "count": 4
   },
   {
    "id": "850a879ba8c6",
@@ -71,6 +71,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "서울공소청 중대범죄기소부·공공형사부 등 업무분장 마무리",
+   "summary": "다만 고용노동부 특별사법경찰관 협력창구는 공공·형사 제2부로 일원화했다. 전담 명칭도 바뀌었다. 기존 중대산업재해 전담은 안전을 강조하는 취지에서 '산업안전'으로, 대공 전담은 간첩죄를 '적국'에서 '외국 또는...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016381166?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261016082100004?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-16T12:22+09:00",
+   "cat": "law",
+   "id": "026e5b85feb9",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "녹아내린 노동시장과 노동자 건강",
+   "summary": "대입을 넘어 취업 시장에서의 'N수'도 흔한 현상이 되고, '하닉고시'라는 이름이 생길 정도로 대기업의 취업... 과거의 임노동 관계를 전제로 한 근로기준법과 산업안전보건법 등으로는 작동성은 둘째 치고 제도적으로...",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=101&in_cate2=0&gopage=1&bi_pidx=39620",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=101&in_cate2=0&gopage=1&bi_pidx=39620",
+   "source": "worklaw.co.kr",
+   "published": "2026-10-16T12:02+09:00",
+   "cat": "law",
+   "id": "b611f0b2ccda",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "대불산단서 2년간 노동자 15명 사망…노동당국 감독 도마",
+   "summary": "16일 서왕진 조국혁신당 의원이 광주지방고용노동청에서 제출받은 자료에 따르면 대불산단에서는 2025년부터 2026년 2분기까지 산재 사망사고 13건이 발생했다. 여기에 올해 7월 대한조선에서 발생한 사망사고와 9월...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=926338",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=926338",
+   "source": "남도일보",
+   "published": "2026-10-16T11:58+09:00",
+   "cat": "sev",
+   "id": "472df638d28f",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "복합리조트 인스파이어, '감정노동자 보호 우수기업' 인증 획득",
+   "summary": "고객응대 현장 관리자 18명이 감정노동관리사 자격을 취득했고, ISO 45001 안전보건경영시스템 인증에 이어 올해 감정노동 우수사례 발표대회에서 대상(고용노동부 장관상)을 수상했다. 위험상황이 발생하면 이머전시...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069785",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1069785",
+   "source": "경상일보",
+   "published": "2026-10-16T11:56+09:00",
+   "cat": "tech",
+   "id": "25c2de480663",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[종합] 사망사고에 오너 유죄·자금흐름 의혹까지…강산건설 덮친 악재",
+   "summary": "2022년에는 화성 송산그린시티 주택 신축공사 현장에서 근로자 1명이 사망하는 사고가 발생했다. 당시 고용노동부는 작업중지 명령을 내렸다. 해당 사고와 관련한 중대재해처벌법 적용 여부는 확인되지 않았다. 박재윤...",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45555",
+   "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45555",
+   "source": "financialreview.co.kr",
+   "published": "2026-10-16T11:30+09:00",
+   "cat": "sev",
+   "id": "be2aa72b0c6e",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "사천소방서, 항공기 추락 등 가정한 긴급구조 훈련…13개 기관 협력 강...",
+   "summary": "사천시보건소, 공군 제3훈련비행단, 한국전력공사, KT, 국립공원공단, 병원 등 13개 기관·단체 소속 인원... 재난안전통신망(PS-LTE)을 활용한 기관 간 협업 체계도 확인했다. 임순재 사천소방서장은 \"유관기관 간...",
+   "url": "https://www.newspim.com/news/view/20261015001326",
+   "orig": "https://www.newspim.com/news/view/20261015001326",
+   "source": "뉴스핌",
+   "published": "2026-10-16T11:27+09:00",
+   "cat": "tech",
+   "id": "1387ddec1ba6",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "DN오토모티브, '킬레이션 주사 투여' 의혹 논란…노조 \"역학조사 범위 ...",
    "summary": "이에 대해 고용노동부는 산업안전보건법 위반 사항과 관련해 노동자 건강 보호 조치를 방해한 혐의로 울산경찰청에 수사를 의뢰한 상황이다. 노조는 회사가 지난 2023년부터 2025년까지 특수건강진단을 1~2개월 앞둔...",
@@ -554,6 +632,12 @@
      "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319175",
      "orig": "https://www.updownnews.co.kr/news/articleView.html?idxno=319175",
      "title": "삼표그룹, 전 계열사 경영진 '안전세션'…중대재해 예방·현장관리 강화"
+    },
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1104168",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1104168",
+     "title": "삼표그룹, 경영진 80여 명 모여 현장 안전관리 점검"
     }
    ],
    "day": "2026-10-16",
@@ -695,6 +779,18 @@
      "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263675803999",
      "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160263675803999",
      "title": "용인시니어클럽, 노인정책 추진 유공 국무총리표창"
+    },
+    {
+     "source": "비즈월드",
+     "url": "http://www.bizwnews.com/news/articleView.html?idxno=149035",
+     "orig": "http://www.bizwnews.com/news/articleView.html?idxno=149035",
+     "title": "용인시, 어르신 일자리 넓힌 시니어클럽 국무총리표창 수상"
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261016500078",
+     "orig": "http://www.metroseoul.co.kr/article/20261016500078",
+     "title": "용인시 용인시니어클럽, 노인정책 유공 국무총리표창 수상"
     }
    ],
    "day": "2026-10-16",
