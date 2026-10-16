@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T09:33+09:00",
+ "updatedAt": "2026-10-16T10:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,11 +34,29 @@
    "count": 4
   },
   {
+   "id": "e906cc3753aa",
+   "title": "\"중대재해 없는 현장 만든다\"…삼표그룹, 3분기 임원 안전세션서 안전경...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
+   "source": "더페어",
+   "cat": "tech",
+   "day": "2026-10-16",
+   "count": 2
+  },
+  {
    "id": "55a282c027b0",
    "title": "삼표그룹, 전 계열사 경영진 80명 모여 안전관리 점검",
    "url": "https://n.news.naver.com/mnews/article/016/0002710056?sid=101",
    "source": "헤럴드경제",
    "cat": "tech",
+   "day": "2026-10-16",
+   "count": 2
+  },
+  {
+   "id": "850a879ba8c6",
+   "title": "한국산업인력공단, 10월 고용노동부 공공기관 브랜드평판 1위…근로복지...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=495760",
+   "source": "핀포인트뉴스",
+   "cat": "law",
    "day": "2026-10-16",
    "count": 2
   },
@@ -53,6 +71,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "콘크리트는 공장서, 냉동설비는 AI로… 변화하는 산업현장",
+   "summary": "건설·산업 현장에서 시공방식 개선과 안전관리, 설비 운영 자동화를 위한 기술 도입이 이어지고 있다.... 외부 안전보건 전문기관이 참여한 교육에서는 중대재해 예방을 위한 조직문화와 근로자의 안전행동을...",
+   "url": "https://www.pressman.kr/news/articleView.html?idxno=104036",
+   "orig": "https://www.pressman.kr/news/articleView.html?idxno=104036",
+   "source": "pressman.kr",
+   "published": "2026-10-16T10:24+09:00",
+   "cat": "tech",
+   "id": "a75201ce573c",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[기고] 정년연장·포괄임금금지, 함께 봐야 하는 이유",
+   "summary": "포괄임금 금지를 담은 근로기준법 개정안도 하반기 국회 통과가 필요하다고 했다. 현장에서 보면 두 법안은... (전)서울지방노동위원회 국선노무사/ 한국산업안전보건공단 안전보건관리체계구축 컨설턴트/ ISO45001심사원",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=751215",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=751215",
+   "source": "프라임경제",
+   "published": "2026-10-16T09:52+09:00",
+   "cat": "law",
+   "id": "1f3fe9e5326a",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "“직접고용 끝난 줄 알았다”는 노동부 장관…한전KPS 하청노동자 전환...",
+   "summary": "노조는 고 김용균 노동자와 고 김충현 노동자의 사망사고 이후에도 태안화력발전소 하청노동자 가운데 직접고용 정규직으로 전환된 사람이 단 한 명도 없다며, 반복되는 중대재해를 막기 위해 정부가 약속한 직접고용...",
+   "url": "https://newscham.net/130054/",
+   "orig": "https://newscham.net/130054/",
+   "source": "newscham.net",
+   "published": "2026-10-16T09:46+09:00",
+   "cat": "law",
+   "id": "2437584da8fb",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "'용인이 하면 다르다\"... 노인일자리 정책 국무총리표창 수상",
+   "summary": "용인시니어클럽은 2024년 한국산업안전보건공단으로부터 위험성평가 우수사업장 인정서를 받았다. 사업장별 특성을 고려한 안전관리체계 구축과 맞춤형 안전매뉴얼 마련, 위험성평가 및 안전교육 등을 통해 안전한...",
+   "url": "https://www.tournews21.com/news/articleView.html?idxno=145857",
+   "orig": "https://www.tournews21.com/news/articleView.html?idxno=145857",
+   "source": "tournews21.com",
+   "published": "2026-10-16T09:42+09:00",
+   "cat": "tech",
+   "id": "b80536dc7f82",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 김위상 \"배달업 산재 4년 새 58% 급증…보호대책 마련해야\"",
+   "summary": "의원이 고용노동부로부터 제출받은 자료에 따르면 배달업(퀵서비스업) 산업재해 승인 건수는 2021년... 김위상 의원은 \"시장 성장에 발맞춰 라이더들이 안전하게 일할 수 있는 환경 조성이 절실하다\"며 \"실효성...",
+   "url": "https://www.newspim.com/news/view/20261016000235",
+   "orig": "https://www.newspim.com/news/view/20261016000235",
+   "source": "뉴스핌",
+   "published": "2026-10-16T09:40+09:00",
+   "cat": "law",
+   "id": "7f75838849b0",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "렛츠런파크 부산경남, 생명나눔·산업안전 동시 강화",
+   "summary": "한국산업안전보건공단의 '찾아가는 VR 안전교육' 프로그램을 활용해 실제 작업 현장에서 발생할 수 있는 위험 상황과 대응 방법을 체험하도록 했다. 참가자들은 VR 기기를 착용하고 다양한 산업재해 상황을 간접 경험하며...",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87656",
+   "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=87656",
+   "source": "industrynews.co.kr",
+   "published": "2026-10-16T09:34+09:00",
+   "cat": "tech",
+   "id": "593c94cd4070",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "QR코드 찍으면 안전교육 끝? 현장은 그렇게 안전해지지 않는다",
    "summary": "이상이 사망한 기업에 영업이익의 최대 5%까지 과징금을 부과할 수 있도록 하는 산업안전보건법 개정안이 통과됐다. 반복적으로 중대재해가 발생한 건설사에 대한 등록말소 요청 근거도 마련됐다. 다만 개정안은 공포 후...",
@@ -153,7 +249,14 @@
    "published": "2026-10-16T08:58+09:00",
    "cat": "tech",
    "id": "e906cc3753aa",
-   "related": [],
+   "related": [
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=419952",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=419952",
+     "title": "삼표그룹, 중대재해 예방 총력…'3분기 임원 안전세션' 개최"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -316,7 +419,14 @@
    "published": "2026-10-16T07:04+09:00",
    "cat": "law",
    "id": "850a879ba8c6",
-   "related": [],
+   "related": [
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229002",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229002",
+     "title": "한국산업인력공단, 고용노동부 공공기관 2026년 10월 브랜드평판 1위"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -2064,6 +2174,12 @@
      "url": "https://ic.newdaily.co.kr/site/data/html/2026/10/16/2026101600002.html",
      "orig": "https://ic.newdaily.co.kr/site/data/html/2026/10/16/2026101600002.html",
      "title": "인천국제공항 산업안전법 위반 430건 적발...과태료 9억 부과"
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1243456",
+     "orig": "http://www.breaknews.com/1243456",
+     "title": "인천공항, 산업안전보건법 위반 430건 적발..안전 불감증 심각"
     }
    ],
    "day": "2026-10-15",
@@ -2652,6 +2768,12 @@
      "url": "https://tk.newdaily.co.kr/site/data/html/2026/10/15/2026101500365.html",
      "orig": "https://tk.newdaily.co.kr/site/data/html/2026/10/15/2026101500365.html",
      "title": "군위군, 중대재해 예방 교육···현장 안전관리 강화"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072496",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5072496",
+     "title": "군위군, 공무원 대상 중대재해 예방교육 실시"
     }
    ],
    "day": "2026-10-15",
@@ -2910,6 +3032,12 @@
      "url": "https://www.tournews21.com/news/articleView.html?idxno=145830",
      "orig": "https://www.tournews21.com/news/articleView.html?idxno=145830",
      "title": "한국산업안전보건공단, KT와 업무협약…협력사·소규모 사업장 안전격차..."
+    },
+    {
+     "source": "가스신문",
+     "url": "https://www.gasnews.com/news/articleView.html?idxno=127203",
+     "orig": "https://www.gasnews.com/news/articleView.html?idxno=127203",
+     "title": "안전보건공단, KT와 안전문화 확산·안전격차 해소 '손잡다'"
     }
    ],
    "day": "2026-10-15",
