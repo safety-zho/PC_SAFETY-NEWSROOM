@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-16T08:28+09:00",
+ "updatedAt": "2026-10-16T09:33+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "587d5ee3ca13",
+   "title": "'용인시니어클럽', 노인정책 추진 유공 국무총리표창 수상",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=555471",
+   "source": "joongangenews.com",
+   "cat": "tech",
+   "day": "2026-10-16",
+   "count": 4
+  },
+  {
    "id": "55a282c027b0",
    "title": "삼표그룹, 전 계열사 경영진 80명 모여 안전관리 점검",
    "url": "https://n.news.naver.com/mnews/article/016/0002710056?sid=101",
@@ -41,36 +50,178 @@
    "cat": "law",
    "day": "2026-10-16",
    "count": 2
-  },
-  {
-   "id": "9491ed918999",
-   "title": "산안비 올려도 부족···사용처 실태조사한다",
-   "url": "https://www.koscaj.com/news/articleView.html?idxno=326978",
-   "source": "대한전문건설신문",
-   "cat": "hlt",
-   "day": "2026-10-16",
-   "count": 1
-  },
-  {
-   "id": "78ba7f5e99fd",
-   "title": "[단독-중대재해 리포트 ⑥] '조희대 코트' 중대재해 무죄율, 형사재판의...",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237231",
-   "source": "매일노동뉴스",
-   "cat": "sev",
-   "day": "2026-10-16",
-   "count": 1
-  },
-  {
-   "id": "9b5630967b18",
-   "title": "서울시 산업재해 5년여간 340건…사고 원인 66% ‘근로자 부주의’",
-   "url": "http://wemakenews.co.kr/news/view.php?no=26560",
-   "source": "wemakenews.co.kr",
-   "cat": "acc",
-   "day": "2026-10-16",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "QR코드 찍으면 안전교육 끝? 현장은 그렇게 안전해지지 않는다",
+   "summary": "이상이 사망한 기업에 영업이익의 최대 5%까지 과징금을 부과할 수 있도록 하는 산업안전보건법 개정안이 통과됐다. 반복적으로 중대재해가 발생한 건설사에 대한 등록말소 요청 근거도 마련됐다. 다만 개정안은 공포 후...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002532394?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003275553&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-16T09:31+09:00",
+   "cat": "law",
+   "id": "41d8bf40f9b5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "에스원, 화학물질 물류센터에 AI 안전 솔루션 구축",
+   "summary": "전북 완주테크노밸리에 위치한 동원로엑스 스마트 케미컬 물류센터가 2차전지, 반도체, 화학소재 원료 보관... 산업현장 안전 관리 기술을 선보이고 있다. 동원로엑스 전북지점은 물류센터 준공 단계부터 에스원과 협력해...",
+   "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88671",
+   "orig": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88671",
+   "source": "ekoreanews.co.kr",
+   "published": "2026-10-16T09:30+09:00",
+   "cat": "tech",
+   "id": "f908decd69b0",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "美 FTC, 오픈AI·앤트로픽 조사…AI 안전사고 책임 따진다",
+   "summary": "FTC는 문서 확보에 이어 두 회사의 고위 경영진에게 제품 관련 증언을 요구할 계획이다. AI 모델의 안전성을 평가하는 외부 연구기관 등에도 추가 조사요구서를 발송할 예정이다. 양사에는 AI 모델이 외부 시스템과 연결돼...",
+   "url": "https://www.ziksir.com/news/articleView.html?idxno=149618",
+   "orig": "https://www.ziksir.com/news/articleView.html?idxno=149618",
+   "source": "직썰",
+   "published": "2026-10-16T09:26+09:00",
+   "cat": "tech",
+   "id": "1fb74ce190a5",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[단독] 노동감독관, 8개월 새 59명 퇴사… 작년 한 해보다 47% 많아",
+   "summary": "통해 법 위반 여부를 점검한다. 산업재해가 발생하면 산업안전보건법 위반 혐의도 수사한다. 일반 행정 업무뿐 아니라 특별사법경찰관으로서 형사사건 수사까지 맡는 것이다. 이달 2일부터 시행된 개정 형사소송법에...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001198326?sid=102",
+   "orig": "https://biz.chosun.com/topics/topics_social/2026/10/16/BAKY5SYGM5GGTA7HVQ2VTC3PQY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-16T09:14+09:00",
+   "cat": "law",
+   "id": "c71432f2f5aa",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[경기도 노동이야기⑭] '경기도 노동감독관'의 모든 것",
+   "summary": "도민이 체감할 수 있는 안전하고 공정한 일터를 만들기 위해 지난 7월 고용노동부와 중앙-지방 노동감독... 지방노동감독관은 상시 근로자 30인 미만 사업장을 대상으로 근로기준법, 산업안전보건법 등 노동관계 법령 준수...",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=481816",
+   "orig": "https://news.ifm.kr/news/articleView.html?idxno=481816",
+   "source": "ifm.kr",
+   "published": "2026-10-16T09:12+09:00",
+   "cat": "law",
+   "id": "6b29db05031e",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "안산시 단원보건소, '찾아가는 외국인 근로자 무료 결핵검진' 실시",
+   "summary": "매일일보 = 송훈희 기자 | 안산시 단원보건소는 대한결핵협회와 협력해 반월·시화국가산업단지 내 사업장을 대상으로 '찾아가는 외국인 근로자 무료 결핵검진'을 실시하고 있다고 16일 밝혔다. 이번 검진은 의료기관...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2006651",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006651",
+   "source": "m-i.kr",
+   "published": "2026-10-16T09:08+09:00",
+   "cat": "hlt",
+   "id": "4918c9a42b19",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "온다레, 무화염 배관 접합 기술 도입의향 18개사 확보…사업화 추진",
+   "summary": "2026년 한국산업안전보건공단 안전신기술 공모전에서 최우수상을 수상했으며, 충청남도 '모두의 창업 페스티벌 in 충남'과 NEXTSTAGE 이노스타 챌린지 IR 등에서도 성과를 거뒀다. 한국동서발전과 한국생산성본부가...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3722244",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3722244",
+   "source": "국제뉴스",
+   "published": "2026-10-16T09:00+09:00",
+   "cat": "tech",
+   "id": "22884eae7568",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "\"중대재해 없는 현장 만든다\"…삼표그룹, 3분기 임원 안전세션서 안전경...",
+   "summary": "삼표그룹이 계열사 최고경영진과 안전 책임자들을 모아 현장 밀착형 안전 리더십 확립과 선제적인 중대재해 예방 방안을 다졌다. 건설기초소재 전문기업 삼표그룹은 서울 바비엥2 교육센터에서 전 계열사 대표이사 및...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=90866",
+   "source": "더페어",
+   "published": "2026-10-16T08:58+09:00",
+   "cat": "tech",
+   "id": "e906cc3753aa",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "울산 건설업 사망 20명 '10년 내 최다'…안전관리 '구멍'",
+   "summary": "사고사망자는 20명으로 집계됐다. 근로복지공단 산재보상 승인 기준으로 확인 가능한 2016년 이후 10년 가운데 가장 많은 규모다. 울산 건설업 사고사망자는 △2016년 17명 △2017년 13명 △2018년 10명 △2019년 14명...",
+   "url": "https://www.asiatime.co.kr/article/20261016500042",
+   "orig": "https://www.asiatime.co.kr/article/20261016500042",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-16T08:56+09:00",
+   "cat": "sev",
+   "id": "213dec8f8d75",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "몸집 키운 ECM 스킨부스터…안전관리 기준 '어디까지'",
+   "summary": "지난 13일 국회 보건복지위원회의 식품의약품안전처 국정감사에서는 ECM 스킨부스터의 안전성과... 향후 규제 논의에서는 제품의 제조 방식과 안전성 자료를 토대로 관리 기준을 구체화하면서, 산업 성장과 소비자 보호...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=751205",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=751205",
+   "source": "프라임경제",
+   "published": "2026-10-16T08:56+09:00",
+   "cat": "law",
+   "id": "fbb5b16c6f13",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "외국인·고령노동자 신고 편의성↑ '안전퀵문고' 도입 어디?",
+   "summary": "㈜한화 건설부문 관계자는 \"외국인과 고령 근로자를 비롯해 누구나 쉽게 이용할 수 있는 안전관리 환경을 만드는 것이 중요하다\"며 \"앞으로도 현장의 목소리와 AI기술을 접목해 안전신문고를 지속적으로 개선하고...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251039",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251039",
+   "source": "안전신문",
+   "published": "2026-10-16T08:56+09:00",
+   "cat": "tech",
+   "id": "d8e347166312",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "한국폴리텍 대전 이전론에 울산도 유치전… 대전시 대응 시험대",
+   "summary": "울산에는 근로복지공단과 한국산업인력공단, 한국산업안전보건공단, 고용노동부 고객상담센터 등이 자리 잡고 있는 만큼 관련 기관을 추가로 유치하면 근로복지와 산업안전, 직업훈련, 노사관계 등 고용노동 분야의 정책...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261015010003998",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261015010003998",
+   "source": "중도일보",
+   "published": "2026-10-16T08:54+09:00",
+   "cat": "law",
+   "id": "2023de9c0c61",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 석유공사 경영평가 B→D 추락…안전인력 결원 7배, R&D 예산은...",
+   "summary": "이 같은 상황은 공사가 강조해 온 안전경영 성과와도 대비된다. 공사는 올해 5월 8년 연속 중대재해 무사고를 발표했다. 그러나 무사고 기록을 유지하려면 사고 발생 여부뿐 아니라 위험요인 점검, 예방 활동...",
+   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97187",
+   "orig": "http://www.newsian.co.kr/news/articleView.html?idxno=97187",
+   "source": "뉴시안",
+   "published": "2026-10-16T08:42+09:00",
+   "cat": "acc",
+   "id": "8c4e3873a995",
+   "related": [],
+   "day": "2026-10-16",
+   "watch": []
+  },
   {
    "title": "[부산 브리핑 모음(10월16일)] 부산 광안리서 ‘블루푸드 웨이브 페스타...",
    "summary": "이번 교육은 한국산업안전보건공단의 ‘찾아가는 VR 안전교육’ 프로그램을 활용해 현장에서 발생할 수 있는 각종 위험 상황을 가상으로 체험하고, 사고 대응 능력과 안전의식을 높이기 위해 마련됐다. 참가자들은 VR...",
@@ -243,7 +394,26 @@
    "published": "2026-10-16T06:30+09:00",
    "cat": "tech",
    "id": "587d5ee3ca13",
-   "related": [],
+   "related": [
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004671879?sid=102",
+     "orig": "https://www.sedaily.com/article/20102299?ref=naver",
+     "title": "용인시니어클럽, 노인정책 유공 국무총리표창 영예"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3723146",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3723146",
+     "title": "용인시니어클럽, 노인정책 유공 국무총리표창…일자리 창출 성과"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2006610",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2006610",
+     "title": "용인시니어클럽, 노인정책 추진 유공 국무총리표창 수상"
+    }
+   ],
    "day": "2026-10-16",
    "watch": []
   },
@@ -929,6 +1099,12 @@
      "url": "https://n.news.naver.com/mnews/article/382/0001299288?sid=101",
      "orig": "https://sports.donga.com/economy/article/all/20261015/134851668/1",
      "title": "영풍 석포제련소 ‘4명 사상’…중대산업재해 사업장 명단 포함 [PS]"
+    },
+    {
+     "source": "한국금융신문",
+     "url": "https://www.fntimes.com/html/view.php?ud=2026101608533622047de3572ddd_18",
+     "orig": "https://www.fntimes.com/html/view.php?ud=2026101608533622047de3572ddd_18",
+     "title": "'4명 사상' 영풍 석포제련소, 중대산업재해 사업장 명단에"
     }
    ],
    "day": "2026-10-15",
@@ -982,7 +1158,14 @@
    "published": "2026-10-15T17:24+09:00",
    "cat": "tech",
    "id": "17438fb97623",
-   "related": [],
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251044",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251044",
+     "title": "부산시설공단-국토안전관리원, 첨단 시설물 안전점검 기술 검증 협력"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -1282,7 +1465,14 @@
    "published": "2026-10-15T16:12+09:00",
    "cat": "tech",
    "id": "2a2a3a9298c7",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3723165",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3723165",
+     "title": "안전보건공단 서울광역본부, 용산역서 감정노동자 보호 캠페인"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
@@ -2793,7 +2983,14 @@
    "published": "2026-10-15T11:20+09:00",
    "cat": "acc",
    "id": "ab0f694ea473",
-   "related": [],
+   "related": [
+    {
+     "source": "aflnews.co.kr",
+     "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329796",
+     "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329796",
+     "title": "담양군, 가을 농번기 농기계 안전사고 예방 당부"
+    }
+   ],
    "day": "2026-10-15",
    "watch": []
   },
