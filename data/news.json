@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T09:34+09:00",
+ "updatedAt": "2026-10-19T10:33+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,43 +34,186 @@
    "count": 2
   },
   {
-   "id": "c0b602c12a8a",
-   "title": "중진공, 2027년 경제전망·소비트렌드·산업안전 세미나 개최",
-   "url": "https://www.sentv.co.kr/article/view/sentv202610190030",
-   "source": "서울경제TV",
+   "id": "703d50ed6939",
+   "title": "부영그룹, 전국 현장 안전·보건관리자 워크숍 개최",
+   "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312003",
+   "source": "FETV",
    "cat": "tech",
    "day": "2026-10-19",
    "count": 1
   },
   {
-   "id": "d62ec9a36e78",
-   "title": "올해 대전.천안서 화재.폭발로 22명 사망…노동부 집중점검",
-   "url": "https://www.tjb.co.kr/news05/bodo/view/id/104991",
-   "source": "tjb.co.kr",
-   "cat": "sev",
-   "day": "2026-10-19",
-   "count": 1
-  },
-  {
-   "id": "f47927285d87",
-   "title": "고흥 외국인 노동자 임금체불 5,490만원 적발…625명 전수점검",
-   "url": "https://www.geconomy.co.kr/news/article.html?no=324520",
-   "source": "geconomy.co.kr",
+   "id": "7e395117d661",
+   "title": "\"직접고용 완료된 줄 알았다\"는 장관... 하청노동자들은 계속 다치고 있...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002532608?sid=102",
+   "source": "오마이뉴스",
    "cat": "law",
    "day": "2026-10-19",
    "count": 1
   },
   {
-   "id": "07822d3c05c0",
-   "title": "에스원, 호텔 안전관리 공백 대응… AI 영상분석·화재 감지·AED 관리 지...",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279047",
-   "source": "businesskorea.co.kr",
+   "id": "97fab413780d",
+   "title": "최다 산재 한전MCS… 최다 사망 한국전력 하청업체",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079048",
+   "source": "뉴스클레임",
+   "cat": "sev",
+   "day": "2026-10-19",
+   "count": 1
+  },
+  {
+   "id": "b83632bed029",
+   "title": "케이투세이프티, 저고도 추락 보호 '스마트 에어백 베스트'로 건설안전...",
+   "url": "http://www.ktnews.com/news/articleView.html?idxno=149473",
+   "source": "ktnews.com",
    "cat": "acc",
    "day": "2026-10-19",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "부영그룹, 전국 현장 안전·보건관리자 워크숍 개최",
+   "summary": "KOSHA-MS는 한국산업안전보건공단이 운영하는 안전관리 체계 인증이다. 부영그룹은 2019년 이 공단의 'KOSHA 18001' 인증을 받았다. 이후 최신 표준인 KOSHA-MS로 바꿔 운영하고 있다. 올해는 '지금, 나부터 법규 및 규정을...",
+   "url": "https://www.fetv.co.kr/news/articleView.html?idxno=312003",
+   "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=312003",
+   "source": "FETV",
+   "published": "2026-10-19T10:32+09:00",
+   "cat": "tech",
+   "id": "703d50ed6939",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "\"직접고용 완료된 줄 알았다\"는 장관... 하청노동자들은 계속 다치고 있...",
+   "summary": "한 하청노동자는 체인 블록 작업 중에 손가락 일부가 절단되는 중대한 사고를 겪었다. 김충현 노동자 사망 이후 한국파워오엔엠(현 kp솔루션)에서만 3건의 산업재해가 있었다. 사고의 발생 경위와 원인은 각 사건 별로...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002532608?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003276286&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-19T10:26+09:00",
+   "cat": "law",
+   "id": "7e395117d661",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "최다 산재 한전MCS… 최다 사망 한국전력 하청업체",
+   "summary": "박해철,중대재해,한국전력공사 전력 공공기관 사망사고 현황. 출처=각 공공기관. 박해철 의원실 제공. 기후에너지환경부 산하 전력 공공기관들의 현장 노동자 안전 관리에 심각한 적신호가 켜졌다. 자회사인 '한전MCS...",
+   "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079048",
+   "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079048",
+   "source": "뉴스클레임",
+   "published": "2026-10-19T10:24+09:00",
+   "cat": "sev",
+   "id": "97fab413780d",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "\"피지컬AI 시대, 산업안전관리 어떻게...철저한 보안 테스트·검증 필수...",
+   "summary": "백은미 대한건설보건학회 회장은 축사를 통해 \"피지컬 AI는 다양한 산업현장에서 위험작업을 대체하고, 작업자의 신체적 부담을 줄이며, 산업재해를 예방할 수 있는 새로운 가능성을 제시하고 있다\"며 \"오늘 포럼이...",
+   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97298",
+   "orig": "http://www.newsian.co.kr/news/articleView.html?idxno=97298",
+   "source": "뉴시안",
+   "published": "2026-10-19T10:20+09:00",
+   "cat": "tech",
+   "id": "c1061ebc40c7",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "\"발전공기업 5사 산재 사상자 92.3%는 협력·하청업체 소속\"",
+   "summary": "발전사에서 산재로 확정된 사상자 수는 총 222명으로 집계됐다. 발전사별로는 남동발전이 61명으로 가장... (협력사) 사망 사고 등 가장 최근에 발생한 사고는 포함되지 않았다. 전체 사상자 222명 가운데 협력...",
+   "url": "https://n.news.naver.com/mnews/article/658/0000158819?sid=101",
+   "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261019.99099005121",
+   "source": "국제신문",
+   "published": "2026-10-19T10:08+09:00",
+   "cat": "sev",
+   "id": "9bbb3f4eccca",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "케이투세이프티, 저고도 추락 보호 '스마트 에어백 베스트'로 건설안전...",
+   "summary": "중심으로 안전화, 작업복, 방한 의류, 안전대 등 산업현장용 보호장비를 선보였다. K2 Safety... 있는 안전장비가 필요하다는 설명이다. 고용노동부가 2021년 12월 발표한 자료에 따르면 2018년부터 2021년 9월까지 발생한...",
+   "url": "http://www.ktnews.com/news/articleView.html?idxno=149473",
+   "orig": "http://www.ktnews.com/news/articleView.html?idxno=149473",
+   "source": "ktnews.com",
+   "published": "2026-10-19T10:06+09:00",
+   "cat": "acc",
+   "id": "b83632bed029",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "남동발전 여수사업장, '30m 높이 야간 홀로 점검'... 하청 노동자 '추락...",
+   "summary": "발전소 현장에서 하청 노동자가 단독 작업을 이어가다 사망하는 비극은 과거부터 끊이지 않고 반복되어 온... 사고가 발생한 원청 사업장인 한국남동발전은 상시적인 중대재해처벌법 적용 대상 기업에 해당한다. 원청과...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509156",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509156",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-19T10:02+09:00",
+   "cat": "acc",
+   "id": "02e3d287e532",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[연재] 산업현장 안전에 미래 달렸다 – 금속 교정기 회전축에 옷이 말...",
+   "summary": "한국산업안전보건공단과 협업으로 매주 철강·금속업계 현장에 사고 사례를 분석하고 대안을 지속 제공할 예정이다. 이번에 소개할 재해 사례는 '금속 교정기 회전축에 옷이 말림' 건이다. 해당 사고는 지난 2015년 1월...",
+   "url": "http://www.snmnews.com/news/articleView.html?idxno=576049",
+   "orig": "http://www.snmnews.com/news/articleView.html?idxno=576049",
+   "source": "snmnews.com",
+   "published": "2026-10-19T09:58+09:00",
+   "cat": "tech",
+   "id": "0670213c07eb",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "서부·중부발전, 5년간 산재 사상자 '100% 하청'",
+   "summary": "9월까지 산재로 확정된 사상자는 모두 222명이다. 이 가운데 서부발전 사상자는 34명, 중부발전은 32명이었다. 두 회사의 사상자 66명은 전원 협력·하청업체 소속이었다. 사망자도 중부발전 2명, 서부발전 1명으로 모두...",
+   "url": "https://www.asiatime.co.kr/article/20261019500099",
+   "orig": "https://www.asiatime.co.kr/article/20261019500099",
+   "source": "asiatime.co.kr",
+   "published": "2026-10-19T09:56+09:00",
+   "cat": "sev",
+   "id": "7fa903fda33d",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "35도 찜통 근무에 상사 폭언까지…태아 산재 인정 사례 보니",
+   "summary": "지난 3월에는 화학물질 노출 가능성과 업무 스트레스를 겪은 바이오업체 연구원의 계류유산이, 2022년에는 상사의 폭언 등 괴롭힘을 겪은 콜센터 노동자의 자궁내 태아사망이 각각 산재로 인정됐다. 국민건강보험공단...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005428125?sid=102",
+   "orig": "https://www.mt.co.kr/policy/2026/10/19/2026101909185991620",
+   "source": "머니투데이",
+   "published": "2026-10-19T09:44+09:00",
+   "cat": "hlt",
+   "id": "1987c5b46a9e",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "【데일리 ESG 정책 브리핑】사회적가치 비즈니스모델 공모전 등",
+   "summary": "건설현장 붕괴사고 집중 감독…12월 15일까지 불시점검 고용노동부가 10월 16일부터 12월 15일까지 붕괴사고... 노동부는 지방관서와 한국산업안전보건공단을 통해 위험현장을 발굴하고, 안전조치가 미흡하거나 위험도가...",
+   "url": "https://www.impacton.net/news/articleView.html?idxno=30297",
+   "orig": "https://www.impacton.net/news/articleView.html?idxno=30297",
+   "source": "impacton.net",
+   "published": "2026-10-19T09:38+09:00",
+   "cat": "law",
+   "id": "3b2a75251746",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
   {
    "title": "중진공, 2027년 경제전망·소비트렌드·산업안전 세미나 개최",
    "summary": "중소벤처기업진흥공단(중진공)이 중소벤처기업의 내년도 경영전략 수립을 돕기 위해 경제·소비트렌드 전망과 산업안전 대응 방안을 공유하는 온라인 세미나를 마련했다. 중진공은 오는 22일과 11월 3일 두 차례에...",
@@ -837,6 +980,18 @@
      "url": "https://n.news.naver.com/mnews/article/081/0003690049?sid=102",
      "orig": "https://www.seoul.co.kr/news/society/accident/2026/10/19/20261019010006?wlog_tag3=naver",
      "title": "현대제철 당진 공장서 끼임사고… 또 노동자 사망"
+    },
+    {
+     "source": "ngonews.kr",
+     "url": "https://www.ngonews.kr/news/articleView.html?idxno=240828",
+     "orig": "https://www.ngonews.kr/news/articleView.html?idxno=240828",
+     "title": "현대제철 당진공장서 협력업체 40대 근로자 끼임 사고로 사망"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000543160?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2377717.htm",
+     "title": "현대제철 당진 공장서 끼임사고…협력업체 40대 노동자 사망"
     }
    ],
    "day": "2026-10-18",
@@ -942,6 +1097,12 @@
      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496258",
      "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=496258",
      "title": "한난, AI·로봇으로 열수송관 안전관리 전환"
+    },
+    {
+     "source": "the-biz.co.kr",
+     "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729471",
+     "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=729471",
+     "title": "한난, AI 진단 차량·로봇으로 열수송관 안전관리 강화"
     }
    ],
    "day": "2026-10-18",
@@ -1005,6 +1166,12 @@
      "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237257",
      "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237257",
      "title": "'화재·폭발' 사고사망 2배 증가, 노동부 집중점검"
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246581",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246581",
+     "title": "화재·폭발 산재사망 '2배' … 노동부, 위험 사업장 집중점검"
     }
    ],
    "day": "2026-10-18",
