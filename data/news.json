@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T13:32+09:00",
+ "updatedAt": "2026-10-19T14:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 3
   },
   {
+   "id": "ee9b6d439252",
+   "title": "발전 5사 산재 사망자 11명 전원 하청, 사상자도 92.3% 집중",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45600",
+   "source": "financialreview.co.kr",
+   "cat": "sev",
+   "day": "2026-10-19",
+   "count": 3
+  },
+  {
    "id": "9ba11c197ffc",
    "title": "충남도 농기원, 명예산업안전감독관 위촉",
    "url": "http://www.cctimes.kr/news/articleView.html?idxno=932688",
@@ -43,11 +52,11 @@
    "count": 2
   },
   {
-   "id": "ee9b6d439252",
-   "title": "발전 5사 산재 사망자 11명 전원 하청, 사상자도 92.3% 집중",
-   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45600",
-   "source": "financialreview.co.kr",
-   "cat": "sev",
+   "id": "0a49c7e1aaae",
+   "title": "대전대·삼육대 학생들, 산업안전·보건 뉴스레터 52개 제작",
+   "url": "https://n.news.naver.com/mnews/article/421/0009235601?sid=102",
+   "source": "뉴스1",
+   "cat": "hlt",
    "day": "2026-10-19",
    "count": 2
   },
@@ -59,18 +68,87 @@
    "cat": "sev",
    "day": "2026-10-19",
    "count": 2
-  },
-  {
-   "id": "12cda5cefff6",
-   "title": "건설근로자공제회, 중소 건설현장 휴게 시설에 2억 투입",
-   "url": "https://n.news.naver.com/mnews/article/079/0004199956?sid=102",
-   "source": "노컷뉴스",
-   "cat": "hlt",
-   "day": "2026-10-19",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "타워크레인 노동자 사망사고에 청와대 앞 무기한 농성…\"안전하게 일할...",
+   "summary": "1명 사망·1명 중상…DL이앤씨 \"설치작업 직접 관여하지 않았다\" 이로운넷 = 편집위원 김성환 경기 부천의... 산업안전보건법과 중대재해처벌법 위반 여부도 조사하고 있다. 노동계 \"설치순서 지키지 않았다\"…작업기간 단축...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92809",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92809",
+   "source": "eroun.net",
+   "published": "2026-10-19T14:22+09:00",
+   "cat": "sev",
+   "id": "52f2f7b82bee",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "현대제철 당진공장, '보수 작업 중 죽음' 반복",
+   "summary": "노동당국은 '산업안전보건법'과 '중대재해처벌법' 위반 여부를 조사 중이다. 전원 차단과 불시 가동 방지... 당진공장에서는 2024년 12월 배관의 일산화탄소 누출로 보수 작업자 1명이 사망했다. 약 1년 10개월이 흐른 이번...",
+   "url": "https://www.bzeronews.com/news/articleView.html?idxno=824046",
+   "orig": "https://www.bzeronews.com/news/articleView.html?idxno=824046",
+   "source": "bzeronews.com",
+   "published": "2026-10-19T14:22+09:00",
+   "cat": "sev",
+   "id": "01792486d698",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "산업단지공단 울산본부, 국가산단 합동 안전캠페인",
+   "summary": "캠페인에는 산안협 참여 기관인 한국산업안전보건공단, 한국전기안전공사, 한국환경공단, 한국가스안전공사와 경남권중대산업사고예방센터 등 안전·환경 유관기관, 입주기업 관계자들이 함께했다. 참여 기관들은...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009236325?sid=102",
+   "orig": "https://www.news1.kr/local/ulsan/6324502",
+   "source": "뉴스1",
+   "published": "2026-10-19T14:06+09:00",
+   "cat": "tech",
+   "id": "c0c636c24455",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "포천시, 현업업무 근로자 500여명 대상 안전보건교육 실시",
+   "summary": "매일일보 = 김정종 기자 | 경기 포천시는 15일부터 16일까지 이틀간 시 소속 현업업무 근로자 500여명을 대상으로 하반기 정기 안전보건교육을 실시했다. 이번 교육은 산업재해와 직업성 질환을 예방하고 근로자의...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2007518",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2007518",
+   "source": "m-i.kr",
+   "published": "2026-10-19T13:56+09:00",
+   "cat": "tech",
+   "id": "e209ebf9dff3",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, AI 활용 안전관리 전문교육...직원 40명 역량 강화",
+   "summary": "이사장은 \"AI 기술을 안전관리 업무에 효과적으로 활용하기 위해서는 직원들의 실무 역량 강화가 무엇보다 중요하다\"며 \"앞으로도 현장 중심의 전문교육을 확대하고, 위험요인을 선제적으로 발굴·개선하는 스마트...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=654742",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654742",
+   "source": "경인매일",
+   "published": "2026-10-19T13:50+09:00",
+   "cat": "tech",
+   "id": "33bbed8a341f",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "현대제철 당진공장 하청 노동자 '끼임 참변'… 노동부 중대재해 조사 착...",
+   "summary": "위험 업무 과정에서 하청 노동자가 또다시 희생됨에 따라 현장의 허술한 안전 관리망을 향한 비판이 커질 전망이다. 고용노동부 천안지청 건설산재예방감독과 관계자는 \"사고 발생 직후 현장에 인력을 투입해 조사를...",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026210",
+   "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026210",
+   "source": "nbntv.co.kr",
+   "published": "2026-10-19T13:48+09:00",
+   "cat": "acc",
+   "id": "4cb0313fdbce",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
   {
    "title": "AI 시대, 연구실 안전보건관리 세미나 개최",
    "summary": "모든 산업과 연구현장을 근본적으로 바꾸어 놓는 거대한 전환기를 맞이하고 있다\"며, \"오늘 세미나가 AI 기술 도입에 따른 연구실 내의 새로운 위험요소를 찾아내고, AI 기술을 활용하여 연구실 안전보건관리를 더욱...",
@@ -438,7 +516,14 @@
    "published": "2026-10-19T10:47+09:00",
    "cat": "hlt",
    "id": "0a49c7e1aaae",
-   "related": [],
+   "related": [
+    {
+     "source": "아시아투데이",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010005933",
+     "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261019010005933",
+     "title": "대전대·삼육대 학생들, 산업안전·보건 유용 정보 제공 호응"
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
@@ -509,6 +594,12 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874061",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874061",
      "title": "[이슈국감] 발전 5사 산재 사망자 전원 하청…사상자도 대부분 협력사"
+    },
+    {
+     "source": "포인트데일리",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322770",
+     "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=322770",
+     "title": "[2026 국감] 발전 5사 산재 사상자 90% 협력·하청 노동자…사망자 11명 ..."
     }
    ],
    "day": "2026-10-19",
@@ -1449,6 +1540,12 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000543160?sid=101",
      "orig": "https://news.tf.co.kr/read/economy/2377717.htm",
      "title": "현대제철 당진 공장서 끼임사고…협력업체 40대 노동자 사망"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138171",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=138171",
+     "title": "현대제철 당진공장서 40대 협력업체 근로자 사망"
     }
    ],
    "day": "2026-10-18",
