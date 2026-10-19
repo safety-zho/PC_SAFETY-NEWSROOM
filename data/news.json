@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T15:39+09:00",
+ "updatedAt": "2026-10-19T16:47+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "3304bcd57712",
+   "title": "노동부 \"DN오토모티브 납조작, 왜곡된 행태…산안법 처벌 한계\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016386224?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-10-19",
+   "count": 8
+  },
+  {
+   "id": "6a29200f205a",
+   "title": "'납 배출 주사' 파문…노동부, 납 취급 사업장 150여 곳 감독",
+   "url": "https://n.news.naver.com/mnews/article/421/0009236619?sid=101",
+   "source": "뉴스1",
+   "cat": "law",
+   "day": "2026-10-19",
+   "count": 4
+  },
+  {
    "id": "9ba11c197ffc",
    "title": "충남도 농기원, 명예산업안전감독관 위촉",
    "url": "http://www.cctimes.kr/news/articleView.html?idxno=932688",
    "source": "cctimes.kr",
    "cat": "law",
+   "day": "2026-10-19",
+   "count": 4
+  },
+  {
+   "id": "0a49c7e1aaae",
+   "title": "대전대·삼육대 학생들, 산업안전·보건 뉴스레터 52개 제작",
+   "url": "https://n.news.naver.com/mnews/article/421/0009235601?sid=102",
+   "source": "뉴스1",
+   "cat": "hlt",
    "day": "2026-10-19",
    "count": 4
   },
@@ -41,36 +68,263 @@
    "cat": "sev",
    "day": "2026-10-19",
    "count": 4
-  },
-  {
-   "id": "3304bcd57712",
-   "title": "노동부 \"DN오토모티브 납조작, 왜곡된 행태…산안법 처벌 한계\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016386224?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-19",
-   "count": 3
-  },
-  {
-   "id": "0a49c7e1aaae",
-   "title": "대전대·삼육대 학생들, 산업안전·보건 뉴스레터 52개 제작",
-   "url": "https://n.news.naver.com/mnews/article/421/0009235601?sid=102",
-   "source": "뉴스1",
-   "cat": "hlt",
-   "day": "2026-10-19",
-   "count": 3
-  },
-  {
-   "id": "c3fbbf6b0236",
-   "title": "한국마사회 '렛츠런파크 영천', 안전보건 협의체 개최…산업재해 예방 ...",
-   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=50856",
-   "source": "1conomynews.co.kr",
-   "cat": "tech",
-   "day": "2026-10-19",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "노동부 “‘납 배출 주사’, 산안법 적용 안돼…제재 법률 논의에 적극...",
+   "summary": "국내 대형 자동차 배터리 제조사인 디엔(DN)오토모티브의 ‘납 배출 주사’ 투약 의혹과 관련해 고용노동부가 “현행 산업안전보건법으로 처벌할 수 없다”며 “이렇게 산업안전보건 제도를 무력화하는 행위를 제재하는...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002828101?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1283069.html",
+   "source": "한겨레",
+   "published": "2026-10-19T16:44+09:00",
+   "cat": "law",
+   "id": "fc96e5122cf8",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "2년간 산재 사망 노동자만 15명···‘죽음의 산단’ 언제까지",
+   "summary": "전남광주시 영암군에 있는 대불산단에서 지난 2년간 각종 중대 산업재해로 사망한 노동자가 15명에 이르는 것으로 나타났다. 대불산단은 조선 기자재와 선박 블록 제조 등 고위험 사업장이 밀집해 있다. 19일 국회...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003477179?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610191637001",
+   "source": "경향신문",
+   "published": "2026-10-19T16:37+09:00",
+   "cat": "sev",
+   "id": "2156123d11fb",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "지난해 기후부 산하 사업장서 숨진 경남 노동자 2명",
+   "summary": "사망자 12명 가운데 최소 10명은 한전 소속 정규직이 아닌 협력업체 노동자였다. 산업재해 신청이 가장 많은 기관은 한국전력공사 자회사 한전MCS다. 2022년부터 2026년까지 산재 신청은 198건으로, 전체 산하기관 신청 건수...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2017319",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2017319",
+   "source": "경남도민일보",
+   "published": "2026-10-19T16:36+09:00",
+   "cat": "sev",
+   "id": "5c0dd050099d",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 김주영, 태아 산재 보상 확대 촉구",
+   "summary": "이른바 '태아 산재' 제도의 보상 범위를 확대해야 한다는 지적이 나왔다. 실제 고온 작업장에서 근무한 임신... 19일 김주영 더불어민주당 의원이 국정감사를 위해 근로복지공단으로부터 제출받은 자료에 따르면 2023년부터...",
+   "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=666515",
+   "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=666515",
+   "source": "kfenews.co.kr",
+   "published": "2026-10-19T16:32+09:00",
+   "cat": "law",
+   "id": "3f983acd5345",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감]여야, 한전 및 발전공기업 방만 경영·안전불감증 '집중 포화...",
+   "summary": "중대재해 분야에서는 한국전력이 총 12건을 기록하며 가장 많았다. 전신주·철탑 작업 중 감전 5건, 고소작업차·전신주 추락 4건, 굴착기·전신주 충돌 및 깔림 3건 순이었다. 사망자 12명 중 최소 10명이 한전 정규직이...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373638",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=373638",
+   "source": "electimes.com",
+   "published": "2026-10-19T16:30+09:00",
+   "cat": "law",
+   "id": "4f61ee7ffd11",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "임신 노동자 자녀 건강손상 산재 7건 인정…작업환경 보호 강화 목소리",
+   "summary": "유산·사산·조산 관련 산재는 2022년부터 올해 7월까지 처리된 12건 가운데 10건이 승인됐다. 인정 사례에는 업무상 스트레스와 직장 내 괴롭힘, 화학물질 노출 가능성 등이 검토된 계류유산과 자궁 내 태아 사망 등이...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073464",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073464",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-19T16:30+09:00",
+   "cat": "hlt",
+   "id": "00ca50c8e905",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "한국산업안전보건공단, 울산 폐칼·폐가위 수거 및 재활용 추진",
+   "summary": "한국산업안전보건공단(KOSHA, 이사장 김현중)은 19일 울산 중구 큰애기하우스 앞에서 수행기업 및 협력기관과 함께 '2026 울산 지역문제 해결을 위한 안전나눔 전달식'을 개최했다고 밝혔다. 이번 행사는 울산 주민이 발굴한...",
+   "url": "https://www.lawissue.co.kr/view.php?ud=202610191623086198f4ab64559d_12",
+   "orig": "https://www.lawissue.co.kr/view.php?ud=202610191623086198f4ab64559d_12",
+   "source": "로이슈",
+   "published": "2026-10-19T16:26+09:00",
+   "cat": "tech",
+   "id": "051aae441e7a",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "비판 의식했나... 공익기금 만들고 노동자·중기 돕겠다는 빅테크들",
+   "summary": "리스크와 안전성 우려를 불식시키기 위한 보여주기 식에 그칠지 주목된다. 앤트로픽은 18일(현지시간) 주주... 테크기업이 경영진에게 기업 성장에 연동한 보상을 주는 관행처럼, 기업가치 상승분의 일부를 공익에...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000960331?sid=105",
+   "orig": "https://www.hankookilbo.com/news/article/A2026101915060000189?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-19T16:25+09:00",
+   "cat": "tech",
+   "id": "c59914bbab24",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "부산지하철 하청노조, 원청 상대 ‘쟁의권 확보 파업’ 첫 사례 되나",
+   "summary": "특히 김영훈 고용노동부 장관이 지난 3월 ‘원청교섭 모범사례’라며 방문했던 부산교통공사 하청노조는... 인천공항지역지부는 공사가 교섭 범위를 ‘산업안전’으로 제한하고, ‘4조 2교대 도입과 연속 야간근무...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002828094?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1283062.html",
+   "source": "한겨레",
+   "published": "2026-10-19T16:18+09:00",
+   "cat": "law",
+   "id": "5d304f04ad6e",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "류현철 \"DN오토모티브 납 배출 주사, 현행법상 처벌 한계\"",
+   "summary": "납 노출 고위험 사업장 150여곳 감독 추진 류현철 고용노동부 산업안전보건본부장은 DN오토모티브 노동자 납 노출 논란과 관련해 \"작업환경 개선 없이 노동자의 혈중 납 수치만 낮추려는 왜곡된 기업 행태가 분명하다\"고...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000543400?sid=102",
+   "orig": "https://news.tf.co.kr/read/life/2378021.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-19T16:06+09:00",
+   "cat": "law",
+   "id": "79ae3825f9eb",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "‘비타민 주사’ 속여 납 배출 주사 맞았는데…노동부 “현행법상 처벌...",
+   "summary": "노동부는 향후 국회가 법 개정에 나서면 협조하겠다는 입장이다. 류현철 노동부 산업안전보건본부장은 19일 정부세종청사에서 기자들과 만나 “킬레이션 치료로 사전에 혈중 납 수치를 떨어뜨리는 문제는 현재 산안법으로...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003477163?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610191605001",
+   "source": "경향신문",
+   "published": "2026-10-19T16:05+09:00",
+   "cat": "law",
+   "id": "6c119247912d",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "‘나혼산’ 또 구설수…구성환 번지점프 안전 논란에 노동부 진정 [MK★...",
+   "summary": "파악하고 산업안전보건법에 따른 사업주의 안전조치 의무가 제대로 이행됐는지 조사해 달라고 요청했다. 작성자가 공개한 내용에 따르면 해당 진정은 고용노동부 중부지방고용노동청 강원지청 산재예방감독과에 배정된...",
+   "url": "https://www.mk.co.kr/article/12179686",
+   "orig": "https://www.mk.co.kr/article/12179686",
+   "source": "매일경제",
+   "published": "2026-10-19T16:05+09:00",
+   "cat": "law",
+   "id": "e1145bdbab58",
+   "related": [
+    {
+     "source": "starnewskorea.com",
+     "url": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
+     "orig": "https://www.starnewskorea.com/broadcast-show/2026/10/19/2026101916061583363",
+     "title": "'나혼산', 이번엔 '구성환 번지' 안전문제..노동부 진정行 [스타이슈]"
+    }
+   ],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, AI로 현장 위험 잡는다…생성형 AI 활용 위험성평가 실무...",
+   "summary": "“AI 기술을 안전관리 업무에 효과적으로 활용하려면 직원들의 실무 역량 강화가 무엇보다 중요하다”며 “현장 중심의 전문교육을 확대하고 위험요인을 선제적으로 발굴·개선해 공단 전반에 스마트 안전관리 체계를...",
+   "url": "https://ic.newdaily.co.kr/site/data/html/2026/10/19/2026101900325.html",
+   "orig": "https://ic.newdaily.co.kr/site/data/html/2026/10/19/2026101900325.html",
+   "source": "뉴데일리",
+   "published": "2026-10-19T16:04+09:00",
+   "cat": "tech",
+   "id": "c2e0a8c5a5eb",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "\"발전5사 산재 사상자 92%, 하청 노동자\"…사망도 하청에 집중",
+   "summary": "최근 5년간 산재 사상자 222명…남동발전 61명으로 최다 하청업체 사망자 11명 중 동서발전 8명 '위험의 외주화 금지' 민주노총 집회(기사 본문과 직접적 연관 없음) 최근 5년간 국내 발전공기업 5곳에서 산업재해로...",
+   "url": "https://www.tjb.co.kr/news05/bodo/view/id/105025",
+   "orig": "https://www.tjb.co.kr/news05/bodo/view/id/105025",
+   "source": "tjb.co.kr",
+   "published": "2026-10-19T15:54+09:00",
+   "cat": "sev",
+   "id": "edacbc7ab6b1",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "납 수치 낮추려 주사까지…노동부 “DN오토모티브, 현행법으론 처벌 한...",
+   "summary": "이어 국회에서 킬레이션처럼 산업안전보건 제도를 무력화하는 행위를 제재하는 법률 개정이 논의될 경우 적극적으로 협조하겠다고 밝혔다. 중대재해처벌법 적용 여부에 대해서는 개별 노동자의 건강 상태를 추가로...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003558902?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25470931",
+   "source": "중앙일보",
+   "published": "2026-10-19T15:53+09:00",
+   "cat": "law",
+   "id": "a17073884832",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "‘검진 전 납 수치 낮추기’ 처벌 사각지대…노동부, 제도 개선 착수",
+   "summary": "DN오토모티브의 혈중 납 농도 조작 의혹과 관련해 정부가 현행 산업안전보건법으로 직접 처벌하기 어렵다며 제도 개선 필요성을 제기했다. 고용노동부는 전국 납 취급 고위험 사업장 약 150곳으로 감독을 확대하고 유사한...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003144326?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1703228/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-10-19T15:48+09:00",
+   "cat": "law",
+   "id": "1f1209140a57",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "\"작업환경 개선 대신 납 수치만 꼼수 조작\"...노동부, DN오토모티브 처...",
+   "summary": "고용노동부가 자동차 부품업체 DN오토모티브의 노동자 혈중 납 농도 조작 의혹과 관련해 현행 산업안전보건법으로는 처벌에 한계가 있다며 제도 보완의 필요성을 강조했다. 류현철 노동부 산업안전보건본부장은 19일...",
+   "url": "https://www.livebiz.today/news/articleView.html?idxno=205718",
+   "orig": "https://www.livebiz.today/news/articleView.html?idxno=205718",
+   "source": "livebiz.today",
+   "published": "2026-10-19T15:48+09:00",
+   "cat": "law",
+   "id": "53e440abbbcd",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "노동부, DN오토모티브 납 수치 조작 의혹 \"최대한 행정절차 진행 중\"",
+   "summary": "고용노동부가 자동차 부품업체 DN오토모티브의 노동자 혈중 납 농도 조작 의혹과 관련해 \"할 수 있는... 류현철 노동부 산업안전보건본부장은 오늘(19일) 정부세종청사에서 열린 기자간담회에서 \"이번 사안의 핵심은...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113243",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113243",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-19T15:44+09:00",
+   "cat": "law",
+   "id": "5a0a8db29895",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[단독] ‘미운털’ 박힌 ‘나혼산’ 구성환 번지 논란 노동청 갔다",
+   "summary": "고용노동부 중부지방고용노동청 강원지청 산재예방감독과는 ‘나혼산’ 현장 직원의 추락방지 안전조치를 확인해달라는 산업안전 진정을 접수해 관련 사항을 조사할 예정이다. 핵심은 높은 점프대에서 출연자의...",
+   "url": "https://sports.khan.co.kr/article/202610191539003?pt=nv",
+   "orig": "https://sports.khan.co.kr/article/202610191539003?pt=nv",
+   "source": "경향신문",
+   "published": "2026-10-19T15:40+09:00",
+   "cat": "law",
+   "id": "0f97f1847301",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
   {
    "title": "\"중대재해·사망·부상 '0'의 기적\"… 농어촌공사 강원, 안전관리 '트리...",
    "summary": "이번 수상은 올해 3분기 동안 중대재해는 물론 사망사고와 일반 부상사고가 단 한 건도 발생하지 않는 이른바 '트리플 제로(Triple ZERO)'를 달성한 데 따른 성과다. 실제로 강원지역본부의 사고 감소 추세는 수치로도 명백히...",
@@ -132,7 +386,14 @@
    "published": "2026-10-19T15:26+09:00",
    "cat": "law",
    "id": "99cdeb92fde9",
-   "related": [],
+   "related": [
+    {
+     "source": "cpbc.co.kr",
+     "url": "https://news.cpbc.co.kr/article/1176408?division=NAVER",
+     "orig": "https://news.cpbc.co.kr/article/1176408?division=NAVER",
+     "title": "노동부, DN오토모티브 '혈중 납 수치 조작 의혹'에 \"산안법 개정 필요\""
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
@@ -151,6 +412,12 @@
      "url": "http://www.metroseoul.co.kr/article/20261019500407",
      "orig": "http://www.metroseoul.co.kr/article/20261019500407",
      "title": "안양시, 산업안전보건 우수기업 2곳 선정"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261019501168",
+     "orig": "https://www.viva100.com/article/20261019501168",
+     "title": "안양시, 산업안전보건 우수기업 인센티브 제공"
     }
    ],
    "day": "2026-10-19",
@@ -255,6 +522,36 @@
      "url": "https://n.news.naver.com/mnews/article/214/0001529957?sid=102",
      "orig": "https://imnews.imbc.com/news/2026/society/article/6859019_36918.html",
      "title": "노동부 \"DN오토모티브 납조작, 왜곡된 행태‥산안법 처벌 한계\""
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000538595?sid=101",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000340826?division=NAVER",
+     "title": "노동부 \"납 조작 의혹 DN오토모티브, 산안법 처벌 한계\""
+    },
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002826197?sid=102",
+     "orig": "https://www.munhwa.com/article/11624577?ref=naver",
+     "title": "노동부 “DN오토모티브 납조작, 산안법 처벌 한계”"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000917154?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261019160620e9k",
+     "title": "노동부 \"DN오토모티브 납 조작 의혹, 왜곡 행태 분명…산안법 처벌은 한..."
+    },
+    {
+     "source": "쿠키뉴스",
+     "url": "https://www.kukinews.com/article/view/kuk202610190179",
+     "orig": "https://www.kukinews.com/article/view/kuk202610190179",
+     "title": "노동부 “DN오토모티브 납 배출 주사…산안법 처벌 한계”"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=149948",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=149948",
+     "title": "노동부 \"DN오토모티브 납 조작, 산안법 처벌 한계\"…법 개정 필요성 제..."
     }
    ],
    "day": "2026-10-19",
@@ -301,6 +598,12 @@
      "url": "https://n.news.naver.com/mnews/article/056/0012276291?sid=101",
      "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8689090&ref=A",
      "title": "노동부 “납 배출 주사, 현행법상 처벌 한계”"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002420731?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202610191604144620",
+     "title": "노동부 \"납 배출 주사 엄중히 대처...산안법 처벌은 한계\""
     }
    ],
    "day": "2026-10-19",
@@ -321,6 +624,18 @@
      "url": "https://n.news.naver.com/mnews/article/016/0002711327?sid=101",
      "orig": "https://biz.heraldcorp.com/article/10907202?ref=naver",
      "title": "노동부, 납 노출 고위험 사업장 150여곳 감독 추진"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004200259?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6593549?utm_source=naver&utm_medium=article&utm_campaign=20261019034847",
+     "title": "노동부, '납 배출 주사' 논란에…고위험 사업장 150곳 감독"
+    },
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000960327?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026101915560000208?did=NA",
+     "title": "'납 배출 주사' 파문에… 노동부, 납 취급 사업장 150여 곳 감독"
     }
    ],
    "day": "2026-10-19",
@@ -667,7 +982,14 @@
    "published": "2026-10-19T12:02+09:00",
    "cat": "law",
    "id": "1f38209b3f59",
-   "related": [],
+   "related": [
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509308",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509308",
+     "title": "충남교육청, 신임 학교장 등 100여 명 대상 2차 관리감독자 안전보건교..."
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
@@ -894,6 +1216,12 @@
      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1416144",
      "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1416144",
      "title": "[포토뉴스] 대전대, 삼육대 학생들과 산업안전·보건 뉴스레터 52개 제작..."
+    },
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1187791",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1187791",
+     "title": "대전대·삼육대, 산업안전·보건 뉴스레터 52개 제작·배포"
     }
    ],
    "day": "2026-10-19",
@@ -1037,6 +1365,18 @@
      "url": "http://www.popcornnews.net/news/articleView.html?idxno=136444",
      "orig": "http://www.popcornnews.net/news/articleView.html?idxno=136444",
      "title": "[2026 국감] 발전 5사 산재 사상자 222명 중 205명 협력·하청업체 소속"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009236790?sid=102",
+     "orig": "https://www.news1.kr/local/daegu-gyeongbuk/6324723",
+     "title": "김위상 \"국내 발전 5사 산재 사상자 90% 하청업체 소속\""
+    },
+    {
+     "source": "newscape.co.kr",
+     "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125183",
+     "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125183",
+     "title": "5년간 발전 5사 산재 사상자 90%는 협력·하청업체 소속"
     }
    ],
    "day": "2026-10-19",
@@ -1090,7 +1430,14 @@
    "published": "2026-10-19T09:56+09:00",
    "cat": "sev",
    "id": "7fa903fda33d",
-   "related": [],
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251072",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251072",
+     "title": "발전 5사 산재 사상자 90% 이상은 협력·하청업체 소속… 서부발전은 10..."
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
