@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T08:26+09:00",
+ "updatedAt": "2026-10-19T09:34+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,20 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "12cda5cefff6",
+   "title": "건설근로자공제회, 중소 건설현장 휴게 시설에 2억 투입",
+   "url": "https://n.news.naver.com/mnews/article/079/0004199956?sid=102",
+   "source": "노컷뉴스",
+   "cat": "hlt",
+   "day": "2026-10-19",
+   "count": 2
+  },
+  {
+   "id": "c0b602c12a8a",
+   "title": "중진공, 2027년 경제전망·소비트렌드·산업안전 세미나 개최",
+   "url": "https://www.sentv.co.kr/article/view/sentv202610190030",
+   "source": "서울경제TV",
+   "cat": "tech",
+   "day": "2026-10-19",
+   "count": 1
+  },
+  {
+   "id": "d62ec9a36e78",
+   "title": "올해 대전.천안서 화재.폭발로 22명 사망…노동부 집중점검",
+   "url": "https://www.tjb.co.kr/news05/bodo/view/id/104991",
+   "source": "tjb.co.kr",
+   "cat": "sev",
+   "day": "2026-10-19",
+   "count": 1
+  },
+  {
    "id": "f47927285d87",
    "title": "고흥 외국인 노동자 임금체불 5,490만원 적발…625명 전수점검",
    "url": "https://www.geconomy.co.kr/news/article.html?no=324520",
    "source": "geconomy.co.kr",
    "cat": "law",
-   "day": "2026-10-19",
-   "count": 1
-  },
-  {
-   "id": "55cf0ea3cc93",
-   "title": "CCTV 바꾸지 않고 AI 더했다…에스원, 공공시설 안전관리 확대",
-   "url": "https://www.thepublic.kr/news/articleView.html?idxno=322653",
-   "source": "더퍼블릭",
-   "cat": "tech",
    "day": "2026-10-19",
    "count": 1
   },
@@ -50,27 +68,61 @@
    "cat": "acc",
    "day": "2026-10-19",
    "count": 1
-  },
-  {
-   "id": "07c5eaf10d21",
-   "title": "냉·난방기도 부족한 건설현장…건설근로자공제회, 촤대 500만원 지원",
-   "url": "https://www.g-enews.com/view.php?ud=202610190652151483ea13369bfa_1",
-   "source": "글로벌이코노믹",
-   "cat": "hlt",
-   "day": "2026-10-19",
-   "count": 1
-  },
-  {
-   "id": "df2547a292bd",
-   "title": "[단독-중대재해 리포트 ⑦] '두 번 기소' KCC건설 '무죄' 직후 또 사망사...",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237255",
-   "source": "매일노동뉴스",
-   "cat": "sev",
-   "day": "2026-10-19",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "중진공, 2027년 경제전망·소비트렌드·산업안전 세미나 개최",
+   "summary": "중소벤처기업진흥공단(중진공)이 중소벤처기업의 내년도 경영전략 수립을 돕기 위해 경제·소비트렌드 전망과 산업안전 대응 방안을 공유하는 온라인 세미나를 마련했다. 중진공은 오는 22일과 11월 3일 두 차례에...",
+   "url": "https://www.sentv.co.kr/article/view/sentv202610190030",
+   "orig": "https://www.sentv.co.kr/article/view/sentv202610190030",
+   "source": "서울경제TV",
+   "published": "2026-10-19T09:14+09:00",
+   "cat": "tech",
+   "id": "c0b602c12a8a",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "경제전망부터 중대재해 대응까지…중진공, 무료 세미나",
+   "summary": "산업안전을 다루는 온라인 세미나를 연다. 총 2회에 걸쳐 회차별 200명을 모집하며 참가비는 무료다.... 중진공은 SSUP을 통해 제조AI·스마트공장과 기술, 경영 등 중소벤처기업에 특화된 온·오프라인 교육을 운영하고...",
+   "url": "https://www.etoday.co.kr/news/view/2637148",
+   "orig": "https://www.etoday.co.kr/news/view/2637148",
+   "source": "이투데이",
+   "published": "2026-10-19T08:46+09:00",
+   "cat": "tech",
+   "id": "753312b21cf5",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "올해 대전.천안서 화재.폭발로 22명 사망…노동부 집중점검",
+   "summary": "3월 대전 자동차부품 공장 화재로 14명이, 6월 대전 방산업체 폭발로 5명이 목숨을 잃었습니다. 8월에는 충남... 고용노동부는 12월에는 옥외작업 노동자를 대상으로 한파안전 5대 기본수칙을 지키는지 집중점검할...",
+   "url": "https://www.tjb.co.kr/news05/bodo/view/id/104991",
+   "orig": "https://www.tjb.co.kr/news05/bodo/view/id/104991",
+   "source": "tjb.co.kr",
+   "published": "2026-10-19T08:44+09:00",
+   "cat": "sev",
+   "id": "d62ec9a36e78",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "씨이랩, 건설현장 안전관리 사업에 디지털 트윈 접목…\"XAIVA 적용 확대\"",
+   "summary": "비전 AI 기반 안전관리 기술을 선보였습니다. 회사는 실시간 위험 감지 솔루션 'XAIVA'와 디지털 트윈 기술을 중심으로 건설현장의 사고 감지와 사전 예측 적용 방안을 소개했습니다. XAIVA는 130종 이상의 비전 모델을...",
+   "url": "http://www.paxetv.com/news/articleView.html?idxno=284426",
+   "orig": "http://www.paxetv.com/news/articleView.html?idxno=284426",
+   "source": "paxetv.com",
+   "published": "2026-10-19T08:38+09:00",
+   "cat": "tech",
+   "id": "089c60272cfe",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
   {
    "title": "고흥 외국인 노동자 임금체불 5,490만원 적발…625명 전수점검",
    "summary": "노동부는 임금체불과 중간착취, 근로조건 미명시, 산업안전보건법 위반 등 24건을 형사입건하고 과태료 630만 원을 부과했다. 이어 계절근로자를 고용한 취약사업장 5곳을 추가 점검한 결과에서도 모두 노동관계법...",
@@ -249,7 +301,14 @@
    "published": "2026-10-19T06:01+09:00",
    "cat": "hlt",
    "id": "12cda5cefff6",
-   "related": [],
+   "related": [
+    {
+     "source": "youthdaily.co.kr",
+     "url": "https://www.youthdaily.co.kr/news/article.html?no=228503",
+     "orig": "https://www.youthdaily.co.kr/news/article.html?no=228503",
+     "title": "건설근로자공제회, 중·소규모 건설현장 휴게시설 개선 지원…1곳당 5백..."
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
@@ -985,6 +1044,12 @@
      "url": "https://n.news.naver.com/mnews/article/020/0003755737?sid=102",
      "orig": "https://www.donga.com/news/Society/article/all/20261018/134861316/1",
      "title": "사업장 화재·폭발 사망자 2배로…정부, 위험 사업장 집중점검"
+    },
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065572874371955",
+     "orig": "https://idsn.co.kr/news/view/1065572874371955",
+     "title": "화재·폭발 사고사망자 1년 새 2배...고용노동부, 위험사업장 집중점검"
     }
    ],
    "day": "2026-10-18",
