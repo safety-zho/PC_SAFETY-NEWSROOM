@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-19T12:29+09:00",
+ "updatedAt": "2026-10-19T13:32+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,10 +34,28 @@
    "count": 3
   },
   {
+   "id": "9ba11c197ffc",
+   "title": "충남도 농기원, 명예산업안전감독관 위촉",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=932688",
+   "source": "cctimes.kr",
+   "cat": "law",
+   "day": "2026-10-19",
+   "count": 2
+  },
+  {
    "id": "ee9b6d439252",
    "title": "발전 5사 산재 사망자 11명 전원 하청, 사상자도 92.3% 집중",
    "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45600",
    "source": "financialreview.co.kr",
+   "cat": "sev",
+   "day": "2026-10-19",
+   "count": 2
+  },
+  {
+   "id": "9bbb3f4eccca",
+   "title": "\"발전공기업 5사 산재 사상자 92.3%는 협력·하청업체 소속\"",
+   "url": "https://n.news.naver.com/mnews/article/658/0000158819?sid=101",
+   "source": "국제신문",
    "cat": "sev",
    "day": "2026-10-19",
    "count": 2
@@ -50,18 +68,87 @@
    "cat": "hlt",
    "day": "2026-10-19",
    "count": 2
-  },
-  {
-   "id": "60617558b171",
-   "title": "현대제철 당진공장서 또 노동자 사망…\"안전관리 도마 위\"",
-   "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/18/2026101800102.html",
-   "source": "뉴데일리",
-   "cat": "sev",
-   "day": "2026-10-19",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "AI 시대, 연구실 안전보건관리 세미나 개최",
+   "summary": "모든 산업과 연구현장을 근본적으로 바꾸어 놓는 거대한 전환기를 맞이하고 있다\"며, \"오늘 세미나가 AI 기술 도입에 따른 연구실 내의 새로운 위험요소를 찾아내고, AI 기술을 활용하여 연구실 안전보건관리를 더욱...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127235",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127235",
+   "source": "가스신문",
+   "published": "2026-10-19T13:24+09:00",
+   "cat": "tech",
+   "id": "d5dedf9e1ef5",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "전북교육청, 산업안전보건 담당자 역량 강화교육",
+   "summary": "전북특별자치도교육청은 교육 현장의 산업재해를 예방하고 안전한 근무환경을 조성하기 위해 산업안전보건 업무 담당자의 전문성 강화에 나선다. 전북교육청은 19일부터 오는 21일까지 3일간 익산...",
+   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302670",
+   "orig": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1302670",
+   "source": "jeonmae.co.kr",
+   "published": "2026-10-19T13:10+09:00",
+   "cat": "tech",
+   "id": "cd5e2541c14e",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "올해 온열질환 산재사망 6명, 작년 2배",
+   "summary": "19일 국회 기후에너지환경노동위원회 박해철 의원(더불어민주당·경기 안산병) 의원이 근로복지공단에서 제출받은 자료에 따르면 올해 9월 말 기준 온열질환 산재사망 승인 건수는 6건으로 나타났다. 지난해 9월 말...",
+   "url": "https://www.naeil.com/news/read/605610?ref=naver",
+   "orig": "https://www.naeil.com/news/read/605610?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-10-19T13:06+09:00",
+   "cat": "sev",
+   "id": "296bcb70b555",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "충남교육청, 신규 학교장 100여 명 대상 산업재해 예방교육",
+   "summary": "고용노동부는 학교의 조리·급식, 시설 유지관리, 경비 및 통학 보조 업무 등을 산업안전보건법상 현업업무로 분류하고 있다. 이에 따라 학교 관리감독자의 역할도 사고 발생 후 대응에 그치지 않고 작업환경의 위험요인을...",
+   "url": "http://www.sisanews24.co.kr/19675",
+   "orig": "http://www.sisanews24.co.kr/19675",
+   "source": "sisanews24.co.kr",
+   "published": "2026-10-19T13:04+09:00",
+   "cat": "law",
+   "id": "91a8e7744494",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[2026 차세대 리더-환경·NGO·종교] 정진임 투명사회를위한정보공개센...",
+   "summary": "감춰진 정보를 '알권리'로 내가 일할 일터가 얼마나 안전한지 알기란 쉽지 않다. 취업을 준비하는 청년이... 정 소장은 산재 정보 공개를 위해 고용노동부와 법적 다툼까지 겪었다. 끝내 1·2심을 연달아 승소했지만, 국가의...",
+   "url": "https://n.news.naver.com/mnews/article/586/0000140285?sid=102",
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=390096",
+   "source": "시사저널",
+   "published": "2026-10-19T13:00+09:00",
+   "cat": "law",
+   "id": "4d7e5cc9ccf0",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "폭염 속 온열질환 산재 사망 6건…최근 5년간 최다",
+   "summary": "온열질환으로 인한 산재 사망 승인 건수도 올해 9월 말 기준 6건을 기록했다. 2022년 5건, 2023년 4건, 2024년 2건, 2025년 5건을 넘어선 수치다. 고용노동부는 올해 여름철 폭염을 '기후재난'으로 규정하고 단계별...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073217",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073217",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-19T12:30+09:00",
+   "cat": "sev",
+   "id": "033438c9b6f4",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
   {
    "title": "AI 대체 위험도 '높음'… 노무사들의 사회적 역할은?",
    "summary": "산업안전보건, 중대재해 예방, 인사노무, 컨설팅, 교육 강의 지원에 노무사 인력풀의 중요성이 크다\"고 했다. 이에 대해 참석한 김동현 고용노동부 기획조정실 지능정보화 기획팀 과장은 \"소상공인 부담 이해하고 어려움이...",
@@ -110,7 +197,14 @@
    "published": "2026-10-19T12:06+09:00",
    "cat": "law",
    "id": "9ba11c197ffc",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3725493",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3725493",
+     "title": "충남도 농업기술원, 명예산업안전감독관 위촉…산업재해 예방 강화"
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
@@ -468,7 +562,14 @@
    "published": "2026-10-19T10:08+09:00",
    "cat": "sev",
    "id": "9bbb3f4eccca",
-   "related": [],
+   "related": [
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=136444",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=136444",
+     "title": "[2026 국감] 발전 5사 산재 사상자 222명 중 205명 협력·하청업체 소속"
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
