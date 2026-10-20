@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T12:30+09:00",
+ "updatedAt": "2026-10-20T13:29+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "위키트리",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 11
+   "count": 12
   },
   {
    "id": "60945f524dd3",
@@ -41,6 +41,15 @@
    "cat": "tech",
    "day": "2026-10-20",
    "count": 7
+  },
+  {
+   "id": "643718bdc12f",
+   "title": "李대통령, 김영훈 '산재사망 감소' 보고에 \"노동자가 장관 한 효과\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016387879?sid=100",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-10-20",
+   "count": 6
   },
   {
    "id": "054d66b676ca",
@@ -59,18 +68,48 @@
    "cat": "sev",
    "day": "2026-10-20",
    "count": 5
-  },
-  {
-   "id": "643718bdc12f",
-   "title": "李대통령, 김영훈 '산재사망 감소' 보고에 \"노동자가 장관 한 효과\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016387879?sid=100",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-10-20",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "한국맥도날드 산재 2년 새 53% 늘어…음식·숙박업 최다",
+   "summary": "음식·숙박업 산재 인정자는 2023년 1만2028명에서 지난해 1만3012명으로 8% 많아졌다. 사망자는 2023년 35명에서 지난해 23명으로 줄었지만 올해는 상반기에만 21명이 숨졌다. 박 의원은 \"산재 예방은 각 업종과 현장의...",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=482153",
+   "orig": "https://news.ifm.kr/news/articleView.html?idxno=482153",
+   "source": "ifm.kr",
+   "published": "2026-10-20T13:12+09:00",
+   "cat": "law",
+   "id": "092fc404bc31",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "노봉·중처법 이어 ‘보안공시 의무’… 업계 “해커 표적 찍어주는 꼴...",
+   "summary": "기업들로서는 노란봉투법(노동조합법 개정)과 상법 개정, 산업안전보건법 개정에 이어 정보보호 공시 의무라는 또 다른 부담을 떠안게 된 셈이다. 신규 편입된 중소형 상장사들은 내년 1월부터 △정보보호 투자 현황...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002826447?sid=101",
+   "orig": "https://www.munhwa.com/article/11624797?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-20T13:00+09:00",
+   "cat": "law",
+   "id": "60555d6803a0",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "영천경마공원 개장 한달 4만명 방문...최대 200억 세수 기대",
+   "summary": "이 같은 협의체 운영은 산업안전보건법에 따른 원청과 협력업체의 공동 안전관리 의무와 연결된다. 산업안전보건법 제64조는 도급 사업장에서 원청과 협력업체가 참여하는 안전보건 협의체를 구성하도록 규정하고 있다....",
+   "url": "https://www.g-enews.com/view.php?ud=20261020104406991f7ba87f45b_1",
+   "orig": "https://www.g-enews.com/view.php?ud=20261020104406991f7ba87f45b_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-20T12:38+09:00",
+   "cat": "hlt",
+   "id": "24e73ed42cfd",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
   {
    "title": "경남, 산재예방 우수기업 8곳 인증 모집",
    "summary": "선정 기업에는 산업재해예방 우수기업 인증서와 상장, 현판을 수여한다. 인증일부터 3년간 경상남도 중소기업육성자금 이차보전 우대와 법정 안전보건교육도 지원한다. 이차보전 우대율은 연 최대 2.1%다. 세부 신청...",
@@ -287,6 +326,18 @@
      "url": "https://n.news.naver.com/mnews/article/052/0002421110?sid=100",
      "orig": "https://www.ytn.co.kr/_ln/0101_202610201205235687",
      "title": "이 대통령, '산재사망 감소' 보고에 \"노동자가 장관 한 효과\""
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/009/0005751146?sid=100",
+     "orig": "https://www.mk.co.kr/article/12180456",
+     "title": "“직걸고 산재 줄이겠다던 노동자가 장관 한 효과”…이 대통령, 김영훈..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014265658?sid=100",
+     "orig": "https://www.newsis.com/view/NISX20261020_0003833194",
+     "title": "이 대통령, 산재 사망자 감소에 \"노동자가 장관을 한 효과\""
     }
    ],
    "day": "2026-10-20",
@@ -436,6 +487,18 @@
      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915683",
      "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915683",
      "title": "NH농협손해보험 대전총국, '중대재해 예방·안전경영 실천' 현판식 열어"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1416484",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1416484",
+     "title": "[포토뉴스] 대전 유성농협, '중대재해 예방·안전경영 실천' 현판식 개최"
+    },
+    {
+     "source": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=723956",
+     "orig": "https://www.newstnt.com/news/articleView.html?idxno=723956",
+     "title": "NH농협손해보험 대전총국, 유성농협 '중대재해 예방·안전경영 실천' 현..."
     }
    ],
    "day": "2026-10-20",
@@ -757,6 +820,12 @@
      "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407389",
      "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407389",
      "title": "23명 사망 '아리셀 참사' 박순관 대표, 징역 4년 확정(종합)"
+    },
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/605748?ref=naver",
+     "orig": "https://www.naeil.com/news/read/605748?ref=naver",
+     "title": "‘아리셀’ 박순관 대표 징역 4년 확정"
     }
    ],
    "day": "2026-10-20",
@@ -1324,6 +1393,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004200527?sid=102",
      "orig": "https://www.nocutnews.co.kr/news/6593855?utm_source=naver&utm_medium=article&utm_campaign=20261020100056",
      "title": "산재 사망 3분기까지 366명…통계 작성 이후 첫 '300명대'"
+    },
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/605683?ref=naver",
+     "orig": "https://www.naeil.com/news/read/605683?ref=naver",
+     "title": "9월까지 산재사망 366명, 역대 최저"
     }
    ],
    "day": "2026-10-20",
@@ -1875,6 +1950,12 @@
      "url": "https://n.news.naver.com/mnews/article/658/0000158936?sid=102",
      "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005573",
      "title": "‘23명 사망’ 아리셀 박순관 대표 징역 4년 확정"
+    },
+    {
+     "source": "worknworld.kctu.org",
+     "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510139",
+     "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510139",
+     "title": "'23명 사망' 아리셀 중대재해참사 대표, 징역 15년서 4년, 감형 확정"
     }
    ],
    "day": "2026-10-20",
@@ -2831,6 +2912,12 @@
      "url": "https://www.sportschosun.com/entertainment/2026-10-19/202610190100122170007927",
      "orig": "https://www.sportschosun.com/entertainment/2026-10-19/202610190100122170007927",
      "title": "\"직원 안전장치는?\" '나혼산' 구성환 번지점프, 안전불감증 논란에 노동..."
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000177.html",
+     "orig": "https://www.newdaily.co.kr/site/data/html/2026/10/20/2026102000177.html",
+     "title": "'나혼산' 또 구설, 이번엔 번지점프 안전 문제 … 노동부 진정 접수"
     }
    ],
    "day": "2026-10-19",
