@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T08:32+09:00",
+ "updatedAt": "2026-10-20T09:37+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "60945f524dd3",
+   "title": "풀무원샘물-대한산업보건·안전협회, 근로자 노동 환경 개선 위해 '맞손...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=136512",
+   "source": "popcornnews.net",
+   "cat": "tech",
+   "day": "2026-10-20",
+   "count": 3
+  },
+  {
    "id": "c5d256b004dd",
    "title": "풀무원샘물, 대한산업보건협회·대한산업안전협회와 산업재해 예방 협약",
    "url": "https://www.lawissue.co.kr/view.php?ud=202610200823059022204ead0791_12",
    "source": "로이슈",
    "cat": "tech",
+   "day": "2026-10-20",
+   "count": 2
+  },
+  {
+   "id": "d8bbc4ec75eb",
+   "title": "풀무원샘물, 산업보건·안전 전문기관과 근로환경 개선 MOU 체결",
+   "url": "https://www.fntimes.com/html/view.php?ud=202610200818421285923defd0cc_18",
+   "source": "한국금융신문",
+   "cat": "hlt",
    "day": "2026-10-20",
    "count": 2
   },
@@ -41,18 +59,243 @@
    "cat": "acc",
    "day": "2026-10-20",
    "count": 2
-  },
-  {
-   "id": "60945f524dd3",
-   "title": "풀무원샘물-대한산업보건·안전협회, 근로자 노동 환경 개선 위해 '맞손...",
-   "url": "http://www.popcornnews.net/news/articleView.html?idxno=136512",
-   "source": "popcornnews.net",
-   "cat": "tech",
-   "day": "2026-10-20",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "3분기까지 산재 사고사망자 366명…전년比 19.9% 감소",
+   "summary": "쿠키뉴스=김지현 기자 | 올해 3분기까지 산업재해 사고사망자가 지난해 같은 기간보다 20% 가까이 감소한 것으로 나타났다. 건설업과 기타 업종에서 사망자가 줄었지만 제조업에서는 오히려 증가했다. 20일...",
+   "url": "https://www.kukinews.com/article/view/kuk202610200016",
+   "orig": "https://www.kukinews.com/article/view/kuk202610200016",
+   "source": "쿠키뉴스",
+   "published": "2026-10-20T09:34+09:00",
+   "cat": "sev",
+   "id": "054d66b676ca",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "[전문가칼럼]산재 수사 '한 사건·한 수사계획'으로 가야 한다",
+   "summary": "산업안전보건법과 중대재해처벌법 위반 여부를 수사하고, 경찰은 형법상 업무상과실치사상 혐의를 수사한다. 같은 사고라도 노동부는 현장의 안전조치와 경영책임자의 안전보건 확보의무를, 경찰은 업무상 과실과 사망...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251080",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251080",
+   "source": "안전신문",
+   "published": "2026-10-20T09:24+09:00",
+   "cat": "law",
+   "id": "12a377939acb",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "[재해 사망자 급감] 3분기 누적 사망자 첫 300명대",
+   "summary": "류현철 노동부산업안전보건본부장은 “사고사망자 감소라는 의미 있는 결과를 거두게 된 것은 노·사·정을 비롯한 다양한 주체들이 한마음으로 힘을 합친 덕분”이라며 “동일 유형의 중대재해 반복 문제가 여전히...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610200820262010232",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610200820262010232",
+   "source": "대한경제",
+   "published": "2026-10-20T09:22+09:00",
+   "cat": "sev",
+   "id": "246d3f3ba0e0",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "무사고 2000일 풀무원샘물…안전·보건 관리 더 촘촘해진다",
+   "summary": "풀무원샘물은 대한산업보건협회, 대한산업안전협회와 근로자의 안전·보건 증진을 위한 3자 업무협약을 체결했다고 20일 밝혔다. 협약식은 지난 19일 경기 포천시 풀무원샘물 이동공장에서 열렸다. 백동옥 풀무원샘물...",
+   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=302983",
+   "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=302983",
+   "source": "newsquest.co.kr",
+   "published": "2026-10-20T09:20+09:00",
+   "cat": "acc",
+   "id": "7d43bfe8032d",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "김종민 의원 '반도체 특수가스, 사고 후 점검 아닌 사전 실증체계 필요...",
+   "summary": "고용노동부가 이후 SK하이닉스 청주캠퍼스를 포함한 반도체 제조업 사업장 27곳을 집중 점검한 결과 산업안전보건법 위반사항 338건이 확인됐다. 이 가운데 청주캠퍼스에서만 화재·폭발·누출 위험요인 등을 포함해...",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106241",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106241",
+   "source": "e-platform.net",
+   "published": "2026-10-20T09:16+09:00",
+   "cat": "acc",
+   "id": "7499e5225e24",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "고용부, 올해 상반기 중대재해 발생 사업장 공표",
+   "summary": "노동자가 사망한 사업장도 포함됐다. 다만 이번 공표에 관리업 관련 사항은 없었다. 김영훈 고용부 장관은 \"고용부는 소규모 기업에 대한 재해예방 컨설팅 등 지원과 함께 중대재해 발생 사업장에 대해서는 엄정한...",
+   "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113067",
+   "orig": "http://www.aptn.co.kr/news/articleView.html?idxno=113067",
+   "source": "aptn.co.kr",
+   "published": "2026-10-20T09:10+09:00",
+   "cat": "sev",
+   "id": "3d30b24dad62",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"폐칼·가위, 이곳에 버리세요!\" 울산에 안전수거함 등장",
+   "summary": "19일 울산큰애기하우스 앞에서는 한국산업안전보건공단과 사업 수행기업, 협력기관 관계자들이 참석한 가운데 '2026 울산 지역문제 해결을 위한 안전나눔 전달식'이 열렸다. 현장에 설치된 수거함은 폐칼·폐가위를...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92866",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92866",
+   "source": "eroun.net",
+   "published": "2026-10-20T09:10+09:00",
+   "cat": "tech",
+   "id": "f051bcc1e182",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "맥도날드 산재 재해자 664명, 음식·숙박업 4년간 최다",
+   "summary": "같은 기간 기타 식료품 제조업에서도 17명의 산재 사망자가 발생했다. 두 업종의 사망자를 합하면 121명이다. 다만 사업장별 재해자 수는 고용 규모와 근로시간 등을 반영한 재해율이 아닌 누적 인원으로, 기업별...",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45633",
+   "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45633",
+   "source": "financialreview.co.kr",
+   "published": "2026-10-20T09:08+09:00",
+   "cat": "acc",
+   "id": "f5a16c2b883c",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "9월까지 산재 사망 366명…중대재해법 시행 후 첫 300명대",
+   "summary": "산업재해 현황’에 따르면 올해 3분기까지 산재사고로 사망한 노동자는 366명으로 전년 동기(457명)보다... 노동부는 “위험 사업장, 중대재해 반복발생 기업의 사업장 등에 대한 엄중한 감독 기조를 유지할 것”...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006391958?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=02820806645614888&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-20T09:02+09:00",
+   "cat": "sev",
+   "id": "89f85ce2e8b3",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "3분기 산재 사망 91명 감소…5인 미만도 34명 줄었다",
+   "summary": "노동부는 \"연말까지 산재 사망사고 감축 추세를 공고히 하기 위해 고위험 사업장, 중대재해 반복발생 기업의 사업장 등에 대한 엄중한 감독 기조를 유히할 것\"이라며 \"지방정부, 민간 기관과의 협력 등 소규모...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005591556?sid=102",
+   "orig": "https://www.fnnews.com/news/202610200819380208",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-20T09:01+09:00",
+   "cat": "sev",
+   "id": "2edce6745f4a",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "풀무원샘물, 이동공장 무사고 2000일 달성…3자 협약으로 안전망 강화",
+   "summary": "풀무원샘물은 20일 대한산업보건협회 및 대한산업안전협회와 '근로자 안전문화 확산 및 산업재해 예방'을 위한 3자 업무협약(MOU)을 체결했다고 밝혔다. 지난 19일 경기도 포천시 이동공장에서 열린 협약식에는 백동옥...",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279152",
+   "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279152",
+   "source": "businesskorea.co.kr",
+   "published": "2026-10-20T09:00+09:00",
+   "cat": "tech",
+   "id": "7d396f028bf8",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "격무·폭염 등에 임신 노동자 자녀 건강 손상 사례 잇달아",
+   "summary": "2022년부터 올해까지 처리된 유산·사산·조산 산재는 12건 중 10건이 승인됐다. 주로 계류유산, 조기분만, 자궁내 태아사망 등이었다. 과도한 업무 압박과 직장 내 괴롭힘으로 인한 스트레스 속에서 발생한 것으로...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251079",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251079",
+   "source": "안전신문",
+   "published": "2026-10-20T08:52+09:00",
+   "cat": "hlt",
+   "id": "5713044cf4d5",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "한국남동발전 여수발전본부, 두 달 새 화재·추락사…안전관리 도마 [현...",
+   "summary": "전남 여수국가산업단지 내 한국남동발전(KOEN) 여수발전본부에서 두 달 사이 화재와 근로자 사망사고가... 협력업체 노동자 A씨가 약 30m 높이에서 추락하는 사고가 발생했다. 한국남동발전 여수발전본부 [사진=센트럴경제]...",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=107279",
+   "orig": "http://www.newskr.kr/news/articleView.html?idxno=107279",
+   "source": "newskr.kr",
+   "published": "2026-10-20T08:52+09:00",
+   "cat": "acc",
+   "id": "1302d1b961b7",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"라이더들이 시민안전 지켜\"… 올 상반기 도로 위험 요소 3823건 신고",
+   "summary": "고용노동부와 한국산업안전보건공단의 노무제공자 사고성재해예방사업의 일환이다. 올해는 서울 서부, 성남, 수원, 부천 등 4개 지역에서 총 40명의 배달라이더가 위촉, 활동을 진행했다. 라이더 안전지킴이들은 지난 5월...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251076",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251076",
+   "source": "안전신문",
+   "published": "2026-10-20T08:52+09:00",
+   "cat": "law",
+   "id": "638ad748ab8f",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "풀무원샘물, 대한산업안전협회 등과 안전 문화 확산 MOU 체결",
+   "summary": "풀무원샘물이 대한산업보건협회, 대한산업안전협회와 함께 근로자 안전문화 조성과 산업재해 방지에 협력하는 3자 업무협약을 체결하고 선진 안전관리 체계 구축에 나섰다. 풀무원샘물은 대한산업보건협회...",
+   "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4157",
+   "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=4157",
+   "source": "newsmap.co.kr",
+   "published": "2026-10-20T08:48+09:00",
+   "cat": "tech",
+   "id": "d8beda6a5a7f",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "'직장생활 경험해볼까'...청년 76명, 한국전력공사, 대한산업보건협회 ...",
+   "summary": "일자리지원재단은 지난 16일 서울 마포구 공유스페이스 포엘에서 「한국전력공사, 대한산업보건협회 미래내일 일경험 프로그램 합동 수료식 및 성과공유회」를 개최했다. 이번 행사는 고용노동부가 시행하는 미래내일...",
+   "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193454",
+   "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193454",
+   "source": "wikileaks-kr.org",
+   "published": "2026-10-20T08:46+09:00",
+   "cat": "law",
+   "id": "6dea884221ba",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "“주 52시간 안 넘어도 과로사 위험”…운수·통신업 산재 승인률 24% 육...",
+   "summary": "뇌심혈관계질병 산재 판정에서 ‘주 52시간’ 초과 여부가 중요한 잣대로 작용하고 있지만, 택배·배달... 이는 노동시간 내에서 일하더라도 과로 위험에 더 취약하고 업무상 인과관계가 뚜렷하다는 뜻이다. 서비스업...",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=915245",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=915245",
+   "source": "경기신문",
+   "published": "2026-10-20T08:38+09:00",
+   "cat": "hlt",
+   "id": "bf81c432f508",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"근로자 안전문화 확산한다\" 풀무원샘물, 산업안전·보건협회와 맞손",
+   "summary": "올해 3월에는 한국산업안전보건공단으로부터 '위험성평가 우수사업장' 인정을 받았으며, 5월에는 위험성평가 우수사례 지역 발표대회에서 중부지방고용노동청장상(우수상)을 수상했다. 백동옥 풀무원샘물 대표는...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014264475?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261020_0003832603",
+   "source": "뉴시스",
+   "published": "2026-10-20T08:33+09:00",
+   "cat": "tech",
+   "id": "7a816333ee65",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
   {
    "title": "풀무원샘물, 대한산업보건협회·대한산업안전협회와 산업재해 예방 협약",
    "summary": "풀무원샘물이 대한산업보건협회, 대한산업안전협회와 근로자 안전문화 확산 및 산업재해 예방을 위한 3자 업무협약을 체결했다. 20일 풀무원샘물에 따르면 협약식은 19일 포천 이동공장에서 열렸으며, 각 기관...",
@@ -82,7 +325,14 @@
    "published": "2026-10-20T08:22+09:00",
    "cat": "hlt",
    "id": "d8bbc4ec75eb",
-   "related": [],
+   "related": [
+    {
+     "source": "lcnews.co.kr",
+     "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=209905",
+     "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=209905",
+     "title": "풀무원샘물, 산업보건·안전 전문기관과 3자 MOU 체결…사업장 안전관리..."
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -147,6 +397,19 @@
    "published": "2026-10-20T07:52+09:00",
    "cat": "tech",
    "id": "9fd017b1a83a",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "직원들 몰래 '납 배출 주사' 맞춰도‥\"처벌할 법도 없는 게 현실\" [모닝...",
+   "summary": "노상철> 지금 킬레이션 방법에 대해서는 특히 미국 산업안전보건법에서는 예방적 킬레이션을 절대 금지를... 노상철> 고용노동부에서는 지난 8월 12일날 위계에 의한 공무상 업무 집행 방해 행위로 사업주를 고발한 적이...",
+   "url": "https://n.news.naver.com/mnews/article/214/0001530120?sid=102",
+   "orig": "https://imnews.imbc.com/replay/2026/nwtoday/article/6859213_37012.html",
+   "source": "MBC",
+   "published": "2026-10-20T07:43+09:00",
+   "cat": "law",
+   "id": "d696fb599f0c",
    "related": [],
    "day": "2026-10-20",
    "watch": []
@@ -238,6 +501,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009237553?sid=101",
      "orig": "https://www.news1.kr/industry/distribution/6325250",
      "title": "풀무원샘물, 산업보건·안전협회와 근로환경 개선 협력"
+    },
+    {
+     "source": "뉴스클레임",
+     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079231",
+     "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079231",
+     "title": "풀무원샘물 산업보건·안전협회와 3자 MOU"
     }
    ],
    "day": "2026-10-20",
@@ -838,6 +1107,19 @@
    "published": "2026-10-19T17:26+09:00",
    "cat": "tech",
    "id": "34db970f1966",
+   "related": [],
+   "day": "2026-10-19",
+   "watch": []
+  },
+  {
+   "title": "[충남 24시] 충남도, 서산 석유화학 고부가가치 전환·미래항공산업 육...",
+   "summary": "고용노동부 공모사업과 연계해 폭발·화재 사고와 축사 지붕 개량 공사 중 추락사고 예방에도 집중한다.... 명의 노동자가 산업재해로 목숨을 잃었다\"며 \"4년 내 업무상 사고 재해자와 사고 사망자를 50% 감축하는 등 도민의...",
+   "url": "https://n.news.naver.com/mnews/article/586/0000140374?sid=102",
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=390739",
+   "source": "시사저널",
+   "published": "2026-10-19T17:26+09:00",
+   "cat": "tech",
+   "id": "75c6bfff8d1c",
    "related": [],
    "day": "2026-10-19",
    "watch": []
@@ -1663,6 +1945,12 @@
      "url": "http://www.ujeil.com/news/articleView.html?idxno=393750",
      "orig": "http://www.ujeil.com/news/articleView.html?idxno=393750",
      "title": "노동부 \"납조작, 왜곡된 행태… 산안법 처벌 한계\""
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246638",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246638",
+     "title": "산안법 비켜간 DN오토모티브 '킬레이션' … 노동부 \"처벌 한계\""
     }
    ],
    "day": "2026-10-19",
@@ -2072,6 +2360,12 @@
      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2446866",
      "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2446866",
      "title": "명예산업안전감독관 위촉"
+    },
+    {
+     "source": "aflnews.co.kr",
+     "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=329977",
+     "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=329977",
+     "title": "충남도농기원, 명예산업안전감독관 위촉…현장 위험요인 직접 점검"
     }
    ],
    "day": "2026-10-19",
