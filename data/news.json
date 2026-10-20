@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T15:34+09:00",
+ "updatedAt": "2026-10-20T16:39+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "위키트리",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 17
+   "count": 19
   },
   {
    "id": "b665f9834730",
@@ -40,7 +40,7 @@
    "source": "gokorea.kr",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 10
+   "count": 14
   },
   {
    "id": "643718bdc12f",
@@ -49,7 +49,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 10
+   "count": 12
   },
   {
    "id": "60945f524dd3",
@@ -58,7 +58,7 @@
    "source": "popcornnews.net",
    "cat": "tech",
    "day": "2026-10-20",
-   "count": 9
+   "count": 10
   },
   {
    "id": "054d66b676ca",
@@ -67,10 +67,440 @@
    "source": "쿠키뉴스",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 6
+   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "대구시, 노후시설 1734곳 긴급점검…가을철 안전관리 강화",
+   "summary": "대구시가 직접 관리하는 공공시설 89곳은 전수 점검하고, 공사·공단 등이 관리하는 129곳에 대해서도 자체... 점검에는 건축·전기·가스 분야 민간전문가와 안전보건지킴이 등 현장 전문인력이 참여한다. 신고 내용과 점검...",
+   "url": "https://www.kbmaeil.com/article/20261020500514",
+   "orig": "https://www.kbmaeil.com/article/20261020500514",
+   "source": "경북매일",
+   "published": "2026-10-20T16:36+09:00",
+   "cat": "tech",
+   "id": "1cccec0e336c",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "한국서부발전 평택발전본부, 협력사와 안전한 일터 조성 ‘한뜻’…안...",
+   "summary": "이번 행사는 한국산업안전보건공단이 주관하는 대·중소기업 안전보건 상생협력사업의 하나로 마련됐으며, 협력업체의 안전보건관리체계 구축과 산업재해 예방을 위한 실무교육에 중점을 뒀다. 이날 세미나에서는...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000128337?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261020580429",
+   "source": "kyeonggi.com",
+   "published": "2026-10-20T16:33+09:00",
+   "cat": "tech",
+   "id": "5cba65bc764c",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "23명 희생에도…법은 '박순관 징역 4년'",
+   "summary": "사업주의 누적된 위험관리 실패로 다수의 노동자가 사망했음에도 솜방망이 처벌을 확정해 대법원이 중대재해처벌법을 부정했다는 비판이 거셉니다. 2024년 6월 리튬 1차전지 제조 공장에서 발생한 폭발·화재 사고로...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1317310&inflow=N",
+   "orig": "http://www.newstomato.com/ReadNews.aspx?no=1317310&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-10-20T16:32+09:00",
+   "cat": "hlt",
+   "id": "4a057f61793e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "이 대통령, 노동부 장관 '극찬·국회는 '갑갑'? [앵커리포트]",
+   "summary": "(박수) ('산재 사망사고 발생' 기업에 과징금 부과) 아직 안 됐어요?] [김영훈 / 고용노동부 장관 (오늘, 제45회 국무회의) : 아직 법안 통과는 안 됐습니다.] [이재명 / 대통령 : (한숨) 정말 제가 작년부터 얘기했는데 그렇죠....",
+   "url": "https://n.news.naver.com/mnews/article/052/0002421254?sid=100",
+   "orig": "https://www.ytn.co.kr/_ln/0101_202610201631322213",
+   "source": "YTN",
+   "published": "2026-10-20T16:31+09:00",
+   "cat": "law",
+   "id": "09a50ca65cc4",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "'아리셀 화재 참사' 대표 징역 4년 확정…1심 15년서 대폭 감형",
+   "summary": "대법원 1부는 20일 중대재해처벌법 위반 등 혐의로 기소된 박 대표의 상고를 기각하고 징역 4년을 확정했다.... 사망자 가운데 20명은 파견근로자였다. 항소심은 박 대표가 안전보건 확보 의무를 위반한 점은 인정했지만...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189863",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7189863",
+   "source": "한국아이닷컴",
+   "published": "2026-10-20T16:30+09:00",
+   "cat": "sev",
+   "id": "239c38262e8e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "대구경북 산재 사망자 크게 줄었다…대구 62.5%·경북 25% 감소",
+   "summary": "경북은 전년 대비 감소했음에도 전국에서 두 번째로 사고사망자가 많아 산업현장 안전관리의 중요성이 여전히 큰 상황이다. 고용노동부는 연말까지 고위험 사업장과 중대재해 반복 발생 기업에 대한 점검...",
+   "url": "https://www.kbmaeil.com/article/20261020500278",
+   "orig": "https://www.kbmaeil.com/article/20261020500278",
+   "source": "경북매일",
+   "published": "2026-10-20T16:30+09:00",
+   "cat": "sev",
+   "id": "77b93d540461",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "국감서 비만약 안전관리 지적···규제 지연에 식약처 \"심사 결과 봐야...",
+   "summary": "관련 고시를 개정할 계획이었지만 규제심사가 이어지면서 후속 절차를 마무리하지 못했다. ◆비만약 유통 19배 증가···안전성·처방 문제 제기 비만치료제 유통량은 빠르게 증가했다. 지난 13일 국회 보건복지위원회...",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=264090",
+   "orig": "http://www.finomy.com/news/articleView.html?idxno=264090",
+   "source": "finomy.com",
+   "published": "2026-10-20T16:22+09:00",
+   "cat": "law",
+   "id": "3a6dd75337af",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "나눔부터 안전까지, 상생의 현장",
+   "summary": "풀무원샘물은 지난 19일 경기 포천시 이동공장에서 대한산업보건협회, 대한산업안전협회와 근로자 안전문화 확산 및 산업재해 예방을 위한 3자 업무협약을 체결했다. 이동공장의 무사고 2000일 달성을 계기로 근로자의...",
+   "url": "https://www.pressman.kr/news/articleView.html?idxno=104076",
+   "orig": "https://www.pressman.kr/news/articleView.html?idxno=104076",
+   "source": "pressman.kr",
+   "published": "2026-10-20T16:22+09:00",
+   "cat": "tech",
+   "id": "21bff27c9621",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "동대문구, 22일 ‘온·오프라인 취업박람회’",
+   "summary": "한편, ‘서울지방고용노동청’은 고용노동부 소속 지방행정기관으로, 서울지역의 고용정책 집행과 근로자... 근로감독과 산업안전보건 지도·점검도 수행한다. 서울고용센터 등 산하 고용센터를 통해 구직자 상담과...",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287236908086",
+   "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160287236908086",
+   "source": "siminilbo.co.kr",
+   "published": "2026-10-20T16:20+09:00",
+   "cat": "law",
+   "id": "8426acafe91e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "“낮은 사다리도 위험”… K2 Safety, 추락 감지 ‘에어백 조끼’ 내놔",
+   "summary": "하지만 고용노동부가 2018년부터 2021년 9월까지 사다리 사고사망자 143명을 분석한 결과, 94명(65.7%)이 3.5m 이하에서 떨어져 숨졌다. 산업안전 브랜드 K2 Safety(케이투세이프티)는 이 같은 저고도 작업자를 위한 착용형...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003756292?sid=101",
+   "orig": "https://www.donga.com/news/Economy/article/all/20261020/134875617/1",
+   "source": "동아일보",
+   "published": "2026-10-20T16:19+09:00",
+   "cat": "acc",
+   "id": "aa4bbd28e7e3",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관 '안전해질 계기'라던 현대제철, 38일 만에 또 끼임 사망",
+   "summary": "처음으로 중대재해처벌법 위반 혐의로 검찰에 송치됐다. 이후에도 2023년 12월 당진공장 하청 노동자 추락, 2024년 2월 인천공장 폐수처리장 유해가스 사고, 같은 해 12월 당진공장 부생가스 배관 점검 중 사망이 이어졌다....",
+   "url": "https://www.goodkyung.com/news/articleView.html?idxno=292589",
+   "orig": "https://www.goodkyung.com/news/articleView.html?idxno=292589",
+   "source": "goodkyung.com",
+   "published": "2026-10-20T16:16+09:00",
+   "cat": "sev",
+   "id": "d5ccdc93154a",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "K2 Safety 스마트 에어백 베스트, 건설안전혁신상 수상",
+   "summary": "안전보건공단 2024년 건설업 산업재해 통계에 따르면 총 사고사망자 328명 중 182명(55.5%)이 추락(떨어짐)으로 사망한 것으로 집계됐다. 저고도 작업 환경에서도 추락 사고의 치명도는 높다. 고용노동부가 집계한...",
+   "url": "https://www.fashionbiz.co.kr/article/230436",
+   "orig": "https://www.fashionbiz.co.kr/article/230436",
+   "source": "fashionbiz.co.kr",
+   "published": "2026-10-20T16:10+09:00",
+   "cat": "tech",
+   "id": "70a2ef310fe2",
+   "related": [
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005344495?sid=101",
+     "orig": "https://www.hankyung.com/article/202610203684O",
+     "title": "K2 Safety '스마트 에어백 베스트', 2026 건설안전혁신상 수상"
+    }
+   ],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "올해 산재 사망 366명, 역대 최저…李 “노동자가 노동장관 한 효과”",
+   "summary": "3분기 누적으로 산재 사망자가 300명대에 진입한 것은 이번이 처음이다. 업종별로는 건설업 산재 사망자가 150명으로 전년 동기 대비 28.6%(60명) 감소했다. 반면 대전 안전공업, 한화에어로스페이스 폭발 사고 여파로...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003756288?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261020/134875178/1",
+   "source": "동아일보",
+   "published": "2026-10-20T16:08+09:00",
+   "cat": "sev",
+   "id": "5eb94f472efb",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"불기소 처분했는데 또 사망사고\" 동국제강 포항공장 산재 '도마'",
+   "summary": "손솔 진보당 의원은 20일 대구광역공소청에서 열린 국회 법제사법위원회의 국정감사에서 동국제강 포항공장에서 발생한 산재 사망사고를 언급하며 \"중대재해처벌법에 따른 경영책임자의 의무 이행을 지나치게 관대하게...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009239389?sid=102",
+   "orig": "https://www.news1.kr/local/daegu-gyeongbuk/6326130",
+   "source": "뉴스1",
+   "published": "2026-10-20T16:05+09:00",
+   "cat": "sev",
+   "id": "f2493b1f8b6f",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "한국전력 공공기관 산재 사고 1위 ‘위험의 외주화’",
+   "summary": "특히 중대재해인 사망사고 피해자 대부분이 하청업체 소속 노동자였던 것으로 드러나 ‘위험의 외주화’가 여전하다는 지적이 나왔다. 20일 국회 기후에너지환경노동위원회 더불어민주당 박해철 국회의원(경기...",
+   "url": "http://www.kwangju.co.kr/article.php?aid=1792479600804468005",
+   "orig": "http://www.kwangju.co.kr/article.php?aid=1792479600804468005",
+   "source": "광주일보",
+   "published": "2026-10-20T16:04+09:00",
+   "cat": "acc",
+   "id": "986af91cbe8c",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "민관 손잡고 산업현장 자원순환 확대",
+   "summary": "한국산업안전보건공단이 주최하고 사회적기업 우시산과 무한상사 사회적협동조합이 공동 주관하는 이번 협약은 산업현장에서 발생하는 폐자원을 새로운 제품으로 되돌리고, 새활용(업사이클링) 제품의 구매와...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=92942",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=92942",
+   "source": "eroun.net",
+   "published": "2026-10-20T15:58+09:00",
+   "cat": "tech",
+   "id": "ee6190117bcd",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"국회 입법 참 갑갑\"… 이 대통령, '산재 감소' 속 안전 제재 법안 처리...",
+   "summary": "3분기 산재 사망 366명, 통계 집계 이래 '역대 최저' 李 \"노동자 장관 효과, 생명 구한 위대한 일... 정부는 연말까지 고위험 사업장 및 중대재해 반복 발생 사업장을 대상으로 엄정한 감독 기조를 유지하는 한편, 다음 달...",
+   "url": "https://www.ajunews.com/view/20261020150538808",
+   "orig": "https://www.ajunews.com/view/20261020150538808",
+   "source": "아주경제",
+   "published": "2026-10-20T15:56+09:00",
+   "cat": "law",
+   "id": "008c29ac8925",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"퇴근 못 했을 200~300명이 돌아온 것\"…이 대통령, 산재 감소에 \"위대한...",
+   "summary": "이재명 대통령이 산재 사망자 감소 보고에 \"위대한 일을 한 것\"이라며 김영훈 고용노동부 장관을 격려했습니다. 이 대통령은 오늘(20일) 청와대 국무회의에서 김 장관으로부터 올해 들어 3분기까지 산재 사망자 수가...",
+   "url": "https://n.news.naver.com/mnews/article/437/0000516613?sid=100",
+   "orig": "https://news.jtbc.co.kr/article/NB12323915?influxDiv=NAVER",
+   "source": "JTBC",
+   "published": "2026-10-20T15:54+09:00",
+   "cat": "law",
+   "id": "6573e03b7cb5",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "李 \"주택공급 전격전\" 주문한 날…건설현장 멈춰 세울 '산안법' 통과됐...",
+   "summary": "개정안은 최근 1년간 산재로 근로자 3명 이상이 숨진 경우 사업주에게 영업이익의 5% 범위에서 과징금을... 포스코이앤씨는 지난해 현장에서 사망사고가 5건 잇따랐다. 결국 고용부가 본사와 전국 현장 62곳을...",
+   "url": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002044.html",
+   "orig": "https://realty.chosun.com/site/data/html_dir/2026/10/20/2026102002044.html",
+   "source": "조선일보",
+   "published": "2026-10-20T15:52+09:00",
+   "cat": "law",
+   "id": "4cdf545bf498",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "올해 3분기 사고사망자 300명대 첫 진입",
+   "summary": "노동부는 \"지난해부터 이어져 온 이재명 정부의 강력한 산재 근절 의지가 현장 노사의 안전의식에 일정 부분 변화를 가져온 것으로 보인다\"고 분석했다. 건설업·추락 사고사망 '뚝' 업종별로는 건설업과...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237299",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237299",
+   "source": "매일노동뉴스",
+   "published": "2026-10-20T15:52+09:00",
+   "cat": "sev",
+   "id": "1ba252710148",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "한솔로지스틱스, 운송·보관 넘어 물동량 진단·해결책 설계…산업별 맞...",
+   "summary": "지난해에는 고용노동부 주관 ‘위험성평가 우수사례 발표대회’에서 최우수상을 받았다. 올해도 한국철도공사와 해양수산부 주관 안전 관련 평가에서 최우수상을 받았다. 한솔로지스틱스 관계자는 “다양한 산업에서...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005344479?sid=101",
+   "orig": "https://www.hankyung.com/article/2026102024791",
+   "source": "한국경제",
+   "published": "2026-10-20T15:52+09:00",
+   "cat": "law",
+   "id": "c6c53c5ec338",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"산업현장 폐자원을 새 제품으로\"…27개 기관·기업 자원순환 협약",
+   "summary": "한국산업안전보건공단이 주최하고 우시산과 무한상사 사회적협동조합이 공동 주관하는 이번 협약은 폐자원의 재활용부터 제품 생산과 구매까지 이어지는 협력체계 구축을 목표로 한다. 협력의 출발점은 2022년 시작한...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004200740?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6594262?utm_source=naver&utm_medium=article&utm_campaign=20261020034859",
+   "source": "노컷뉴스",
+   "published": "2026-10-20T15:49+09:00",
+   "cat": "tech",
+   "id": "3ad3d6e2df7c",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "서울에너지공사, 노후 열수송관 안전관리 강화… AI 감시체계 도입",
+   "summary": "서울에너지공사 황보연 사장은 \"이번 AI 스마트 안전관리 체계 구축은 단순한 신기술 도입을 넘어 사고 발생 이후 대응에 치우쳤던 안전관리의 패러다임을 사전 예방 중심으로 전환하는 계기가 될 것\"이라고 전했다....",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106259",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106259",
+   "source": "e-platform.net",
+   "published": "2026-10-20T15:48+09:00",
+   "cat": "tech",
+   "id": "5cd7de0c72de",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "민주당 정청래 밀어내면 달라질 줄 알았나 : 이재명 입법 지원 불만 \"정...",
+   "summary": "이재명 대통령은 20일 오전 국무회의에서 김영훈 고용노동부 장관이 '재해조사 대상 사망사고 통계'와 관련해... 기업들이 안전조치를 위반했을 때 경제적으로 부담이 커져야 산업재해를 예방하게 된다는 것이다. 특히 \"가서...",
+   "url": "https://www.huffingtonpost.kr/article/261376",
+   "orig": "https://www.huffingtonpost.kr/article/261376",
+   "source": "허프포스트코리아",
+   "published": "2026-10-20T15:46+09:00",
+   "cat": "law",
+   "id": "89da4b30c65b",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "'고위험 사업장 관리 강화'... 대전고용노동청, '화재·폭발 사고예방 집...",
+   "summary": "이번 집중점검은 올해 대전지역에서 발생한 중대 산업재해와도 맞닿아 있다. 지난 3월 대전의 한 자동차부품 공장에서 화재가 발생해 노동자 14명이 숨졌으며 6월에는 대전 소재 방산업체에서 폭발 사고로 5명이 사망했다....",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915821",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915821",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-20T15:42+09:00",
+   "cat": "tech",
+   "id": "91fed04393df",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "산재도 AI로 미리 잡는다…사업장 위험예측체계 법제화 추진",
+   "summary": "개정안은 산업안전보건법 제9조를 개정해 고용노동부 장관이 AI 등 디지털 기술을 활용해 사업장이나 작업의 산업재해 발생 위험을 분석·예측하는 체계를 개발·운영할 수 있도록 하는 내용을 담았다. 해당 예측 결과는...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204213",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204213",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-20T15:42+09:00",
+   "cat": "law",
+   "id": "22cf9477d901",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "LH 경기남부지역본부-한국산업안전보건공단, 'EGS 안전·상생 협의체' 공...",
+   "summary": "한국토지주택공사(LH) 경기남부지역본부는 20일 성남시 분당구 본부 사옥에서 한국산업안전보건공단과 함께 공동주택 및 시설관리 현장 근로자의 안전보건 역량 강화와 안전한 근무환경 조성을 위한 '2026년 ESG 안전...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038226",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3038226",
+   "source": "기호일보",
+   "published": "2026-10-20T15:42+09:00",
+   "cat": "tech",
+   "id": "a1912c66bf74",
+   "related": [
+    {
+     "source": "OBS",
+     "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541112",
+     "orig": "https://www.obsnews.co.kr/news/articleView.html?idxno=1541112",
+     "title": "LH경기남부본부, ESG 안전·상생협의체 개최"
+    }
+   ],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "관풍루",
+   "summary": "○…李 대통령, 20일 김영훈 고용노동부 장관의 '산재사망 감소' 보고에 \"노동자가 장관 한 효과다. (총리에게)박수만 치지말고 포상도 하고 격려도 하라\"고 주문. 그러면 대통령 자리엔 어떤 인사를 앉혀야 국민이...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001035508?sid=110",
+   "orig": "https://www.imaeil.com/page/view/2026102014402437163",
+   "source": "매일신문",
+   "published": "2026-10-20T15:41+09:00",
+   "cat": "law",
+   "id": "f7de5f248cfe",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "국토부 항공정책실에 '공항안전관리단' 신설…ICAO 평가 대비",
+   "summary": "건설·운영 감독 기능을 강화하는 게 골자다. ICAO의 항공안전 평가는 국토부를 비롯해... 평가 결과는 국가 신인도와 항공산업 경쟁력에 직결된다. 이에 국토부는 2차관 소속 항공정책실에 '공항안전관리단'을 신설하고...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014266450?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261020_0003832744",
+   "source": "뉴시스",
+   "published": "2026-10-20T15:40+09:00",
+   "cat": "law",
+   "id": "66a32c653890",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "충남도, 구조구급과 신설·노동감독 인력 40명 증원 추진",
+   "summary": "도는 노동감독 전담조직을 구축하고 인력 40명을 증원해 소규모 사업장과 산업현장의 안전관리, 노동자 권익 보호 기능을 강화할 방침이다. 이는 도가 최근 제시한 2030년까지 산업재해 사고 사망자와 업무상 사고...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000543789?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2378512.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-20T15:38+09:00",
+   "cat": "law",
+   "id": "e5752acc72f4",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "대법 \"안전관리 맡겼다고 면책 안 돼\"… 23명 화재 참사 아리셀 대표 징...",
+   "summary": "연관기사 • '23명 사망' 아리셀 대표 구속... 중대재해법 위반 업주, 첫 영장 발부 (www.hankookilbo.com/news/article/A2024082900290003049) • ‘23명 사망’ 화성 아리셀 대표 구속… 중대재해법 첫 사례 (www.hankookilbo.com...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000960546?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102011000004246?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-20T15:37+09:00",
+   "cat": "sev",
+   "id": "749eef56b3b1",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "[기획] 공사규모 따라 사고 발생도 달라…기준도 천차만별",
+   "summary": "20일 고용노동부가 발표한 '3분기 누적 재해조사 대상 사망사고 발생 현황'에 따르면 올해 3분기까지 건설업... 지난해 대규모 건설현장에서 사고가 잇따르면서 정부는 중대재해가 반복적으로 발생하는 기업에 대해...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2008179",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2008179",
+   "source": "m-i.kr",
+   "published": "2026-10-20T15:34+09:00",
+   "cat": "acc",
+   "id": "25519cb0a72d",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
   {
    "title": "'아리셀 참사' 대표 4년형…양대노총 \"중대재해법 무력화\"",
    "summary": "이날 대법원 1부(주심 천대엽 대법관)는 중대재해처벌법 위반 등 혐의로 기소된 박 대표에게 징역 4년을... 한국노총은 \"중대재해처벌법이 존재하더라도 중대한 법 위반에 합당한 처벌이 뒤따르지 않는다면, 법은 사실상...",
@@ -145,7 +575,14 @@
    "published": "2026-10-20T14:58+09:00",
    "cat": "tech",
    "id": "7aadcdf98e9d",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009239318?sid=102",
+     "orig": "https://www.news1.kr/society/court-prosecution/6326074",
+     "title": "아리셀 대표 징역 4년 확정…노동계 \"중처법 취지 훼손\""
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -466,6 +903,30 @@
      "url": "https://n.news.naver.com/mnews/article/014/0005591825?sid=100",
      "orig": "https://www.fnnews.com/news/202610201439459758",
      "title": "산재 사망 기업에 영업익 최대 5% 과징금…靑 국무회의 통과"
+    },
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016388408?sid=100",
+     "orig": "https://www.yna.co.kr/view/AKR20261020049000001?input=1195m",
+     "title": "1년에 산재 3명 이상 숨지면 영업익 5% 과징금…국무회의 의결"
+    },
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075004",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000075004",
+     "title": "1년에 산재 사망 3명 이상 기업, 영업익 5% 과징금…산안법 개정안 국무..."
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=150049",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=150049",
+     "title": "[이슈 직썰] \"산재 사망 3명 땐 영업익 최대 5% 과징금\"···기업 '안전..."
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246659",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246659",
+     "title": "산재 사망 3명 이상 기업에 '영업익 5%' 과징금"
     }
    ],
    "day": "2026-10-20",
@@ -808,6 +1269,18 @@
      "url": "https://n.news.naver.com/mnews/article/138/0002245323?sid=101",
      "orig": "https://www.ddaily.co.kr/page/view/2026102014334369822",
      "title": "李 대통령, 산재사망 감소에 김영훈 노동 격려…\"노동자가 노동부 장관..."
+    },
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005429050?sid=100",
+     "orig": "https://www.mt.co.kr/politics/2026/10/20/2026102015323264990",
+     "title": "李대통령, 산재 사망 19.9% 감소에 \"노동자가 장관된 효과\" 격려"
+    },
+    {
+     "source": "mtn.co.kr",
+     "url": "https://news.mtn.co.kr/article/2026102015480154609",
+     "orig": "https://news.mtn.co.kr/article/2026102015480154609",
+     "title": "이재명 대통령, '산재사망 감소' 보고에 \"노동자가 노동장관 한 효과\""
     }
    ],
    "day": "2026-10-20",
@@ -937,6 +1410,12 @@
      "url": "https://n.news.naver.com/mnews/article/119/0003144687?sid=100",
      "orig": "https://www.dailian.co.kr/news/view/1703619/?sc=Naver",
      "title": "李대통령, 산재 사망 20% 감소에 \"획기적 성과\"…포상 지시"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073964",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5073964",
+     "title": "李대통령, '산재사망 감소'에 \"획기적 성과…포상하라\""
     }
    ],
    "day": "2026-10-20",
@@ -1332,6 +1811,18 @@
      "url": "https://www.newscj.com/news/articleView.html?idxno=3441718",
      "orig": "https://www.newscj.com/news/articleView.html?idxno=3441718",
      "title": "23명 목숨 앗아간 아리셀 참사, 대표 징역 4년 확정(종합)"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=654904",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=654904",
+     "title": "'23명 사망' 화성 아리셀 참사 박순관 대표 징역 4년 확정"
+    },
+    {
+     "source": "아이뉴스24",
+     "url": "https://n.news.naver.com/mnews/article/031/0001067525?sid=102",
+     "orig": "http://www.inews24.com/view/2016910",
+     "title": "대법원, '아리셀 참사' 박순관 대표 징역 4년 확정"
     }
    ],
    "day": "2026-10-20",
@@ -1398,7 +1889,14 @@
    "published": "2026-10-20T10:02+09:00",
    "cat": "sev",
    "id": "7ebf71f43b5f",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스토마토",
+     "url": "http://www.newstomato.com/ReadNews.aspx?no=1317358&inflow=N",
+     "orig": "http://www.newstomato.com/ReadNews.aspx?no=1317358&inflow=N",
+     "title": "3분기 산재 사망 첫 300명대…'역대 최저'"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -1560,6 +2058,12 @@
      "url": "https://www.youthdaily.co.kr/news/article.html?no=228584",
      "orig": "https://www.youthdaily.co.kr/news/article.html?no=228584",
      "title": "올해 9월까지 산재 사망자 366명…통계 작성 이래 '역대 최저'"
+    },
+    {
+     "source": "segyebiz.com",
+     "url": "http://www.segyebiz.com/newsView/20261020517531?OutUrl=naver",
+     "orig": "http://www.segyebiz.com/newsView/20261020517531?OutUrl=naver",
+     "title": "3분기 누적 산재사망 전년비 20% 감소…역대 최저치"
     }
    ],
    "day": "2026-10-20",
@@ -1755,6 +2259,12 @@
      "url": "https://n.news.naver.com/mnews/article/021/0002826403?sid=102",
      "orig": "https://www.munhwa.com/article/11624800?ref=naver",
      "title": "올해 산재 사망자 366명… 전년비 19% 줄어 ‘최저’"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261020500622",
+     "orig": "https://www.viva100.com/article/20261020500622",
+     "title": "올 3분기까지 산재 사망자 366명 ‘역대 최저’"
     }
    ],
    "day": "2026-10-20",
@@ -2081,6 +2591,12 @@
      "url": "http://www.beyondpost.co.kr/view.php?ud=20261020082040755246a9e4dd7f_30",
      "orig": "http://www.beyondpost.co.kr/view.php?ud=20261020082040755246a9e4dd7f_30",
      "title": "풀무원샘물, 산업안전·보건협회와 근로자 안전 강화 협약"
+    },
+    {
+     "source": "updownnews.co.kr",
+     "url": "https://www.updownnews.co.kr/news/articleView.html?idxno=319224",
+     "orig": "https://www.updownnews.co.kr/news/articleView.html?idxno=319224",
+     "title": "풀무원샘물, 산업보건·안전협회와 산업재해 예방 협력...이동공장 '무사..."
     }
    ],
    "day": "2026-10-20",
@@ -2107,6 +2623,12 @@
      "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158302",
      "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=158302",
      "title": "풀무원샘물, 산업보건·안전 전문기관과 손잡고 재해 예방 강화"
+    },
+    {
+     "source": "nbntv.co.kr",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026292",
+     "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4026292",
+     "title": "풀무원샘물, 근로자 안전문화 확산 3자 MOU 체결"
     }
    ],
    "day": "2026-10-20",
@@ -2345,6 +2867,12 @@
      "url": "https://n.news.naver.com/mnews/article/001/0016388905?sid=101",
      "orig": "https://www.yna.co.kr/view/AKR20261020103000030?input=1195m",
      "title": "[게시판] 풀무원샘물, 산업보건·안전협회와 근로환경 개선 협약"
+    },
+    {
+     "source": "newsinside.kr",
+     "url": "https://www.newsinside.kr/news/articleView.html?idxno=5028995",
+     "orig": "https://www.newsinside.kr/news/articleView.html?idxno=5028995",
+     "title": "풀무원샘물, 산업보건·안전협회와 근로환경 개선 협약"
     }
    ],
    "day": "2026-10-20",
@@ -3256,6 +3784,12 @@
      "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7189687",
      "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7189687",
      "title": "승강기안전공단·산업보건협회, 안전한 일터 위해 '맞손'"
+    },
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003476871?sid=103",
+     "orig": "https://www.etnews.com/20261020000346",
+     "title": "한국승강기안전공단 - 대한산업보건협회 승강기 종사원 건강증진 위해 ..."
     }
    ],
    "day": "2026-10-19",
