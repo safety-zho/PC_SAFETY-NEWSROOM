@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-20T11:27+09:00",
+ "updatedAt": "2026-10-20T12:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "위키트리",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 8
+   "count": 11
   },
   {
    "id": "60945f524dd3",
@@ -49,28 +49,158 @@
    "source": "쿠키뉴스",
    "cat": "sev",
    "day": "2026-10-20",
+   "count": 6
+  },
+  {
+   "id": "39944a5bda85",
+   "title": "李대통령, 산재 사망 20% 감소에 노동부 격려… “획기적 성과”",
+   "url": "https://n.news.naver.com/mnews/article/016/0002711712?sid=100",
+   "source": "헤럴드경제",
+   "cat": "sev",
+   "day": "2026-10-20",
    "count": 5
   },
   {
-   "id": "7d396f028bf8",
-   "title": "풀무원샘물, 이동공장 무사고 2000일 달성…3자 협약으로 안전망 강화",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279152",
-   "source": "businesskorea.co.kr",
-   "cat": "tech",
-   "day": "2026-10-20",
-   "count": 4
-  },
-  {
-   "id": "2411f2a4666f",
-   "title": "3분기 산재 사망자 366명 '역대 최저'…건설업 감소에도 제조업은 증가",
-   "url": "https://www.ajunews.com/view/20261020084820354",
-   "source": "아주경제",
+   "id": "643718bdc12f",
+   "title": "李대통령, 김영훈 '산재사망 감소' 보고에 \"노동자가 장관 한 효과\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016387879?sid=100",
+   "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-20",
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "경남, 산재예방 우수기업 8곳 인증 모집",
+   "summary": "선정 기업에는 산업재해예방 우수기업 인증서와 상장, 현판을 수여한다. 인증일부터 3년간 경상남도 중소기업육성자금 이차보전 우대와 법정 안전보건교육도 지원한다. 이차보전 우대율은 연 최대 2.1%다. 세부 신청...",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=394560",
+   "orig": "https://www.vegannews.co.kr/news/article.html?no=394560",
+   "source": "vegannews.co.kr",
+   "published": "2026-10-20T12:24+09:00",
+   "cat": "tech",
+   "id": "bcffbe776fe4",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "올해 3분기 산재 사망사고 19.9% '뚝'…통계 작성 이래 '역대 최저'",
+   "summary": "노동부는 연말까지 산재 사망사고 감축 흐름을 이어가기 위해 고위험 사업장과 중대재해 반복 발생 기업을 대상으로 엄정하고 강도 높은 감독 기조를 유지할 방침이다. 특히 대형 인명피해로 이어질 수 있는 화재...",
+   "url": "https://www.mediapen.com/news/view/1131202",
+   "orig": "https://www.mediapen.com/news/view/1131202",
+   "source": "미디어펜",
+   "published": "2026-10-20T12:16+09:00",
+   "cat": "sev",
+   "id": "04438e70f549",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"노동자가 장관 한 효과\"…이 대통령이 김영훈 극찬한 이유는?",
+   "summary": "이재명 대통령은 오늘(20일) 김영훈 고용노동부 장관으로부터 산재 사망 감소 통계를 보고받고 \"노동자가 노동부 장관을 한 효과가 아닐까 싶다\"고 말했습니다. 이 대통령은 이날 청와대에서 주재한 국무회의에서 \"이건...",
+   "url": "https://n.news.naver.com/mnews/article/057/0001974300?sid=100",
+   "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5226032",
+   "source": "매일경제",
+   "published": "2026-10-20T12:16+09:00",
+   "cat": "law",
+   "id": "8a8be18bad9d",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "“주거안정이 국정성패 좌우”… 李, 성난 민심에 ‘닥공’ 재촉구",
+   "summary": "이 대통령은 김영훈 고용노동부 장관으로부터 산재 사망 감소 통계를 보고받고 “정말 획기적인 성과”라며 “노동자가 노동부 장관을 한 효과가 아닐까 싶다”고 격려하기도 했다. 그는 한성숙 국무총리를 향해 “박수만...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002826442?sid=100",
+   "orig": "https://www.munhwa.com/article/11624844?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-20T12:05+09:00",
+   "cat": "law",
+   "id": "b027ee17e72e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "1~9월 산재 사망자 366명 역대 최저…대형 화재·폭발에 제조업만 ‘역...",
+   "summary": "정부는 연말까지 산재 사망사고 감축 추세를 이어가기 위해 고위험 사업장, 중대재해 반복발생 기업의 사업장 등에 대한 엄중한 감독 기조를 유지한다는 방침이다. 대형 인명피해로 이어질 수 있는 화재...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003559143?sid=101",
+   "orig": "https://www.joongang.co.kr/article/25471208",
+   "source": "중앙일보",
+   "published": "2026-10-20T11:48+09:00",
+   "cat": "sev",
+   "id": "afc3c25aa40e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "이 대통령, '산재사망 과징금' 시행 지연에 \"국회 입법 갑갑\"",
+   "summary": "산재사망자 감소 칭찬…한 총리에 \"포상도 하고 격려도 하라\" 이재명 대통령이 '산재 사망사고 발생' 기업에 과징금을 부과하는 정책 추진이 늦어지는 상황에 \"국회 입법도 참 갑갑하긴 하다\"고 말했습니다. 오늘(20일) 오전...",
+   "url": "https://n.news.naver.com/mnews/article/422/0000917459?sid=100",
+   "orig": "http://www.yonhapnewstv.co.kr/news/AKR2026102011451970u",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-10-20T11:46+09:00",
+   "cat": "sev",
+   "id": "d9068ba1a56b",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "함평 공장서 용접 중 유증기 폭발…근로자 2명 화상",
+   "summary": "20일 오전 9시 43분쯤 전남광주 함평군 학교면 한 공장에서 근로자 2명이 화상을 입었다는 신고가 접수됐다.... 당국은 용접 중 유증기 폭발로 사고가 난 것으로 보고 있다. 폭발로 인한 화재 등 2차 사고는 발생하지 않았다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009238375?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6325725",
+   "source": "뉴스1",
+   "published": "2026-10-20T11:42+09:00",
+   "cat": "acc",
+   "id": "371038f79d96",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "李대통령, '산재 사망사고 감소' 노동부 장관에 \"위대한 일\" 극찬",
+   "summary": "이 대통령은 20일 청와대에서 열린 국무회의에서 김 장관으로부터 올해초~3분기 산재 사망자 수가 전년 동기 대비 19.9% 감소했다는 보고를 받고 이같이 말했다. 이 대통령은 \"(김 장관이) 직을 걸고 산재를 줄여보겠다고...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005428915?sid=100",
+   "orig": "https://www.mt.co.kr/politics/2026/10/20/2026102011300842006",
+   "source": "머니투데이",
+   "published": "2026-10-20T11:37+09:00",
+   "cat": "sev",
+   "id": "59800e80d844",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "아리셀 참사 박순관 15년→4년 확정…안전관리 부실 책임 인정",
+   "summary": "대법, 비상구 유지 의무 위반 무죄·유족 합의 반영 원심 유지 사업총괄·안전보건책임자 간 중대재해 책임... 절차, 재해 예방 예산, 대응 매뉴얼을 갖추지 않아 현장 담당자들의 업무상 주의의무 위반과 사망사고로...",
+   "url": "https://www.ajunews.com/view/20261020111450039",
+   "orig": "https://www.ajunews.com/view/20261020111450039",
+   "source": "아주경제",
+   "published": "2026-10-20T11:28+09:00",
+   "cat": "sev",
+   "id": "fa5168490649",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망 줄었지만… 제조업은 화재·폭발에 더 쓰러졌다",
+   "summary": "사망자는 지난해 26명에서 올해 38명으로 12명(46.2%) 증가했다. 깔림·뒤집힘은 41명으로 11명(36.7%), 끼임은... 외국인 노동자도 제조업에서는 사망자가 증가했다. 전체 외국인 사고사망자는 60명에서 48명으로 12명...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000141.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/20/2026102000141.html",
+   "source": "뉴데일리",
+   "published": "2026-10-20T11:28+09:00",
+   "cat": "sev",
+   "id": "826217a66f34",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
   {
    "title": "산업재해 사망자 3분기 기준 최저…전년 대비 91명 감소",
    "summary": "산업안전보건본부 류현철 본부장은 건설업 산재 감소와 관련해 경기 변동만으로는 설명할 수 없다고... 정부는 반복되는 중대재해 발생 사업장에 대한 감독을 강화하고, 9월에는 HD현대중공업과 현대건설을...",
@@ -93,7 +223,14 @@
    "published": "2026-10-20T11:24+09:00",
    "cat": "sev",
    "id": "957c9308f3c5",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014265341?sid=102",
+     "orig": "https://www.newsis.com/view/NISI20261020_0021496374",
+     "title": "아리셀 중대재해 참사 대법원 선고 입장발표 기자회견"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -132,7 +269,26 @@
    "published": "2026-10-20T11:14+09:00",
    "cat": "sev",
    "id": "643718bdc12f",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001199071?sid=100",
+     "orig": "https://biz.chosun.com/policy/politics/president_office/2026/10/20/IWFKVSZGX5DPJKD3WZZ4XBRQCI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "李 “산재 사망 감소, 노동자가 장관을 한 효과... 획기적 성과”"
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012276980?sid=100",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690094&ref=A",
+     "title": "‘산재사망 감소’ 보고에…이 대통령 “노동자가 장관 한 효과”"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002421110?sid=100",
+     "orig": "https://www.ytn.co.kr/_ln/0101_202610201205235687",
+     "title": "이 대통령, '산재사망 감소' 보고에 \"노동자가 장관 한 효과\""
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -236,7 +392,32 @@
    "published": "2026-10-20T11:05+09:00",
    "cat": "sev",
    "id": "39944a5bda85",
-   "related": [],
+   "related": [
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001530171?sid=100",
+     "orig": "https://imnews.imbc.com/news/2026/politics/article/6859269_36911.html",
+     "title": "이 대통령, '산재사망 감소' 보고에 \"정말 획기적 성과\""
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261020000576",
+     "orig": "https://www.newspim.com/news/view/20261020000576",
+     "title": "李대통령, '산재 사망 감소'에 \"획기적 성과…노동자 장관 효과\""
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2637841",
+     "orig": "https://www.etoday.co.kr/news/view/2637841",
+     "title": "李대통령, 산재사망 감소에 “획기적 성과…노동자가 장관 된 효과”"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003144687?sid=100",
+     "orig": "https://www.dailian.co.kr/news/view/1703619/?sc=Naver",
+     "title": "李대통령, 산재 사망 20% 감소에 \"획기적 성과\"…포상 지시"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -249,7 +430,14 @@
    "published": "2026-10-20T11:05+09:00",
    "cat": "tech",
    "id": "6c51b96790fd",
-   "related": [],
+   "related": [
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915683",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=915683",
+     "title": "NH농협손해보험 대전총국, '중대재해 예방·안전경영 실천' 현판식 열어"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -436,6 +624,19 @@
    "watch": []
   },
   {
+   "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+   "summary": "9월까지 산업재해로 인한 사망자는 366명으로 1년 전보다 91명(19.9%) 감소하며 통계 작성 이래 역대... 대전 안전공업 및 한화에어로스페이스 폭발 사고 여파로 제조업 사망자는 소폭 증가했다. 고용노동부가...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016387598?sid=100",
+   "orig": "https://www.yna.co.kr/view/AKR20261020061600011?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-20T10:30+09:00",
+   "cat": "law",
+   "id": "88793e637338",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
    "title": "전북 산재 사망 47% 감소.. 전국 평균 감소율 웃돌아",
    "summary": "전북 지역 산재 사망자가 지난해보다 47% 감소했습니다. 고용노동부에 따르면 올 3/4분기 전북 지역 산업재해 사망자는 모두 12명으로 23명을 기록한 지난해보다 11명 감소했고, 전국적으로도 20%가까이 줄어든 366명을...",
    "url": "https://n.news.naver.com/mnews/article/659/0000047916?sid=102",
@@ -538,6 +739,24 @@
      "url": "https://n.news.naver.com/mnews/article/277/0005830898?sid=102",
      "orig": "https://view.asiae.co.kr/article/2026102010233360934",
      "title": "'근로자 23명 사망 화재 참사' 아리셀 대표, 징역 4년 확정"
+    },
+    {
+     "source": "iminju.net",
+     "url": "http://www.iminju.net/news/articleView.html?idxno=171109",
+     "orig": "http://www.iminju.net/news/articleView.html?idxno=171109",
+     "title": "'23명 사망' 아리셀 참사…박순관 대표, 징역 4년 확정"
+    },
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004673084?sid=102",
+     "orig": "https://www.sedaily.com/article/20103710?ref=naver",
+     "title": "‘23명 사망’ 아리셀 참사 박순관 대표 징역 4년 확정...‘경영 책임자..."
+    },
+    {
+     "source": "todaykorea.co.kr",
+     "url": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407389",
+     "orig": "https://www.todaykorea.co.kr/news/articleView.html?idxno=407389",
+     "title": "23명 사망 '아리셀 참사' 박순관 대표, 징역 4년 확정(종합)"
     }
    ],
    "day": "2026-10-20",
@@ -649,6 +868,12 @@
      "url": "https://n.news.naver.com/mnews/article/277/0005830841?sid=102",
      "orig": "https://view.asiae.co.kr/article/2026102010285744296",
      "title": "서울에너지공사, 3년간 41억 들여 AI 안전관리 체계 구축"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003144682?sid=102",
+     "orig": "https://www.dailian.co.kr/news/view/1703587/?sc=Naver",
+     "title": "서울에너지공사, AI 스마트 안전관리 구축…\"예방 중심 체계 대전환\""
     }
    ],
    "day": "2026-10-20",
@@ -727,6 +952,12 @@
      "url": "https://n.news.naver.com/mnews/article/656/0000190015?sid=102",
      "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2308196",
      "title": "산재 사망자 20% 줄었지만… 대전 화재·폭발사고에 제조업은 늘었다"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001530180?sid=102",
+     "orig": "https://imnews.imbc.com/replay/2026/nw1200/article/6859278_36967.html",
+     "title": "올해 산재 사망 줄었지만‥화재·폭발은 증가"
     }
    ],
    "day": "2026-10-20",
@@ -787,7 +1018,14 @@
    "published": "2026-10-20T10:00+09:00",
    "cat": "sev",
    "id": "5408d5744ba1",
-   "related": [],
+   "related": [
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012276994?sid=101",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8690108&ref=A",
+     "title": "산재 사망자 지난해보다 20% 감소"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -800,7 +1038,14 @@
    "published": "2026-10-20T10:00+09:00",
    "cat": "sev",
    "id": "4bd34375ecd3",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001199082?sid=102",
+     "orig": "https://biz.chosun.com/topics/topics_social/2026/10/20/KDFU2TVTYJFIBOP3YUJIGCKKWI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "올 3분기 누적 산재 사망 366명…통계 작성 이후 역대 최저"
+    }
+   ],
    "day": "2026-10-20",
    "watch": []
   },
@@ -916,6 +1161,12 @@
      "url": "https://n.news.naver.com/mnews/article/214/0001530154?sid=102",
      "orig": "https://imnews.imbc.com/news/2026/society/article/6859249_36918.html",
      "title": "올해 3분기까지 산재 사망자 366명‥작년보다 91명 줄어"
+    },
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002826403?sid=102",
+     "orig": "https://www.munhwa.com/article/11624800?ref=naver",
+     "title": "올해 산재 사망자 366명… 전년비 19% 줄어 ‘최저’"
     }
    ],
    "day": "2026-10-20",
@@ -1618,6 +1869,12 @@
      "url": "https://n.news.naver.com/mnews/article/032/0003477337?sid=102",
      "orig": "https://www.khan.co.kr/article/202610201011021",
      "title": "[속보]대법, 아리셀 대표 ‘징역 15년→4년 감형’ 확정…“23명 죽었는..."
+    },
+    {
+     "source": "국제신문",
+     "url": "https://n.news.naver.com/mnews/article/658/0000158936?sid=102",
+     "orig": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261020.99099005573",
+     "title": "‘23명 사망’ 아리셀 박순관 대표 징역 4년 확정"
     }
    ],
    "day": "2026-10-20",
@@ -1977,7 +2234,14 @@
    "published": "2026-10-19T18:22+09:00",
    "cat": "tech",
    "id": "181b1e9f1814",
-   "related": [],
+   "related": [
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=932869",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=932869",
+     "title": "안전보건공단 대전세종광역본부, 안전의식 개선 캠페인"
+    }
+   ],
    "day": "2026-10-19",
    "watch": []
   },
