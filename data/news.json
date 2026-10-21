@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T11:28+09:00",
+ "updatedAt": "2026-10-21T12:29+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 5
   },
   {
+   "id": "85246cb6e1d7",
+   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 4
+  },
+  {
    "id": "5b642f7ca018",
    "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
    "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
@@ -52,25 +61,166 @@
    "count": 3
   },
   {
-   "id": "85246cb6e1d7",
-   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
-   "source": "헤럴드경제",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 3
-  },
-  {
-   "id": "fa6011027a56",
-   "title": "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
-   "url": "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
-   "source": "아시아경제",
-   "cat": "law",
+   "id": "0dfcc6feae2b",
+   "title": "늘어난 임금근로자 10명 중 9명은 비정규직…비중 38.5% '역대 최대'",
+   "url": "https://n.news.naver.com/mnews/article/031/0001067913?sid=101",
+   "source": "아이뉴스24",
+   "cat": "hlt",
    "day": "2026-10-21",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "대전 엠플러스병원, 근로복지공단 산재 보험 의료기관 지정",
+   "summary": "이번 지정을 통해 엠플러스병원은 산업현장에서 발생하는 각종 근골격계 손상과 신경계 질환 등으로 치료가 필요한 산재 환자들에게 진료부터 재활에 이르는 의료서비스를 제공할 수 있게 됐다. 한편, 대전...",
+   "url": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45165",
+   "orig": "https://www.hemophilia.co.kr/news/articleView.html?idxno=45165",
+   "source": "hemophilia.co.kr",
+   "published": "2026-10-21T12:14+09:00",
+   "cat": "hlt",
+   "id": "cd6e86a403be",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사·전기공사협회, 시공품질·안전관리 강화 맞손",
+   "summary": "중소 전기공사업체에는 신청을 받아 안전보건경영시스템 컨설팅을 지원한다. 이를 통해 시공 현장의 실무 역량을 강화하고 업체별 여건에 맞는 안전관리 활동을 뒷받침한다는 방침이다. 남화영 전기안전공사 사장은...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100157.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/21/2026102100157.html",
+   "source": "뉴데일리",
+   "published": "2026-10-21T12:14+09:00",
+   "cat": "tech",
+   "id": "54781f37770a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "비정규직 867만명 넘어 역대 최대…근로자 10명 중 4명꼴",
+   "summary": "산업별 비정규직 비중은 보건사회복지업이 21.5%로 가장 높았고 숙박음식점업(9.9%), 사업시설관리업(9.8%)이 뒤를 이었다. 정규직과 비정규직의 임금 격차도 확대됐다. 지난 6~8월 정규직의 월평균 임금은...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005592371?sid=101",
+   "orig": "https://www.fnnews.com/news/202610211107270437",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-21T12:01+09:00",
+   "cat": "hlt",
+   "id": "f97f675f3bdb",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "비정규직 근로자 867만명으로 ‘역대 최대’… 비중도 23년 만에 가장 높...",
+   "summary": "산업별로는 보건사회복지업 비정규직이 186만7000명으로 전체의 21.5%를 차지해 가장 많았다. 숙박음식업은 85만6000명(9.9%), 사업시설지원업은 85만1000명(9.8%)으로 뒤를 이었다. 전년 동월 대비로는...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001199342?sid=101",
+   "orig": "https://biz.chosun.com/policy/policy_sub/2026/10/21/HDQMAO26BFF4ZBOSY4AWP5Q2HE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-21T12:01+09:00",
+   "cat": "hlt",
+   "id": "f39008b73542",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"다음 주부터 그만 나오세요\"...한시적 근로자 600만 명 넘었다",
+   "summary": "산업별로는 보건 사회 복지업이 186만7,000명(21.5%)으로 가장 많았다. 정규직과 비정규직의 임금 격차는 뚜렷했다. 최근 3개월간 월평균 임금은 정규직이 405만2,000원으로 전년보다 15만6,000원 늘어난 반면...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000960738?sid=101",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102110280001913?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-21T12:01+09:00",
+   "cat": "hlt",
+   "id": "bebe0b8de2d8",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "늘어난 임금근로자 90%가 비정규직…\"고령층·시간제 고용 확대 영향\"",
+   "summary": "산업별로도 고령층 비중이 높은 보건·사회복지업 비정규직은 11만2000명 늘었다. 총 규모는 186만7000명으로 전체 21.5% 수준이다. 김락현 데이터처 고용통계과장은 이날 정부세종청사에서 가진 관련 브리핑에서...",
+   "url": "https://www.etoday.co.kr/news/view/2638321",
+   "orig": "https://www.etoday.co.kr/news/view/2638321",
+   "source": "이투데이",
+   "published": "2026-10-21T12:00+09:00",
+   "cat": "hlt",
+   "id": "7c9d0c6600df",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "늘어난 임금근로자 10명 중 9명은 비정규직…비중 38.5% '역대 최대'",
+   "summary": "산업별로는 보건사회복지업 비중이 21.5%로 가장 높았다. 숙박음식업이 9.9%, 사업시설지원업이 9.8%였다. 국가데이터처는 보건사회복지업에서 비정규직이 11만2000명가량 늘었다고 설명했다. 전체 비정규직...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001067913?sid=101",
+   "orig": "http://www.inews24.com/view/2017342",
+   "source": "아이뉴스24",
+   "published": "2026-10-21T12:00+09:00",
+   "cat": "hlt",
+   "id": "0dfcc6feae2b",
+   "related": [
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003145157?sid=102",
+     "orig": "https://www.dailian.co.kr/news/view/1704109/?sc=Naver",
+     "title": "늘어난 임금근로자 10명 중 9명은 비정규직…정규직과 임금 격차 194만원"
+    }
+   ],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "정기선 HD현대 회장, 산재 빈발...리더십 연착륙 '부담'",
+   "summary": "추정되는 사망 사고가 발생하는 등 중대재해가 끊이지 않고 있다. 결국 주무 부처인 노동부도 강도 높은 카드를 내밀었다. 노동부는 8~9월 감독관 약 50명을 투입한 HD현대중공업을 대상으로 한 고강도 감독에서 859건의...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874725",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874725",
+   "source": "한스경제",
+   "published": "2026-10-21T11:56+09:00",
+   "cat": "law",
+   "id": "05a0accdd240",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[기획] 광양시, '일자리 대상 12년 연속 수상'... 맞춤형 취업 지원 확대",
+   "summary": "시는 현장 체감도가 높은 일자리 정책을 지속 추진해 온 성과를 대외적으로 인정받아 지난 8월 고용노동부... 전기기능사와 산업안전관리 등 중장년층의 재도약을 돕는 자격증 취득 과정도 폭넓게 병행하고 있다. 이...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509763",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509763",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-21T11:50+09:00",
+   "cat": "law",
+   "id": "97daa25454a7",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[핫이슈] '노예 노동' 악명 BYD 브라질 공장서 또 참사…중국인 노동자...",
+   "summary": "기인한 사망 사고가 터진 것이다. 브라질 노동검찰(MPT)은 원·하청 간 불법 파견과 무리한 공기 단축 여부에... BYD 현장 직원이자 사내 산업재해·괴롭힘예방위원회(CIPA) 위원으로 활동 중인 금속노조 간부 우에슬레이...",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=92128",
+   "orig": "https://www.the-today.com/news/articleView.html?idxno=92128",
+   "source": "the-today.com",
+   "published": "2026-10-21T11:40+09:00",
+   "cat": "sev",
+   "id": "15d8ce170c09",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "공주시, '중대재해 사각지대 해소'... 공직자 200여 명 특별교육",
+   "summary": "이날 집합 교육장에서는 중대재해처벌법의 핵심 골자를 비롯해 도급·용역·위탁 사업 추진 시 수반되는 법적 개념과 한계, 안전 및 보건 확보 의무 사항, 사업장 유형별 산업재해 예방 수칙, 현업 관리감독자의 현장 대응...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509699",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509699",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-21T11:30+09:00",
+   "cat": "law",
+   "id": "4c94b3aaf2f1",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "전기공사 실무·안전관리 지원...시공 단계부터 재해 예방",
    "summary": "중소 전기공사업체에는 신청을 받아 안전보건경영시스템 컨설팅을 지원한다. 두 기관이 보유한 안전보건관리 프로그램과 기법도 공유, 업체별 여건에 맞는 안전관리 활동을 뒷받침할 방침이다. 교육과 컨설팅을...",
@@ -249,7 +399,14 @@
    "published": "2026-10-21T10:58+09:00",
    "cat": "tech",
    "id": "2251a93b282d",
-   "related": [],
+   "related": [
+    {
+     "source": "m-economynews.com",
+     "url": "https://www.m-economynews.com/news/article.html?no=71929",
+     "orig": "https://www.m-economynews.com/news/article.html?no=71929",
+     "title": "S-OIL, 정기보수 현장 안전 강화...원하청 합동 안전캠페인"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -632,6 +789,12 @@
      "url": "https://n.news.naver.com/mnews/article/215/0001269913?sid=101",
      "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210045&t=NN",
      "title": "목숨 앗아간 일터…중대재해 반복 11곳 중 8곳 '건설'"
+    },
+    {
+     "source": "시사저널",
+     "url": "https://n.news.naver.com/mnews/article/586/0000140509?sid=101",
+     "orig": "https://www.sisajournal.com/news/articleView.html?idxno=391046",
+     "title": "중대재해 보고 '건설사 쏠림'…현대건설·포스코이앤씨 6건씩"
     }
    ],
    "day": "2026-10-21",
@@ -646,7 +809,14 @@
    "published": "2026-10-21T08:18+09:00",
    "cat": "law",
    "id": "e54617ffd1c0",
-   "related": [],
+   "related": [
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261021500604",
+     "orig": "https://www.viva100.com/article/20261021500604",
+     "title": "인천시설공단 검단근로자복합문화센터 개관 앞두고 노사합동 안전점검"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
