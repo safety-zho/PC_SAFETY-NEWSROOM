@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T13:30+09:00",
+ "updatedAt": "2026-10-21T14:29+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 13
   },
   {
+   "id": "85246cb6e1d7",
+   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 5
+  },
+  {
    "id": "72322b4b41f8",
    "title": "작년 1월 이후 중대재해 발생 기업 99곳…포스코이앤씨·현대건설 최다",
    "url": "https://n.news.naver.com/mnews/article/032/0003477563?sid=101",
@@ -41,15 +50,6 @@
    "cat": "sev",
    "day": "2026-10-21",
    "count": 5
-  },
-  {
-   "id": "85246cb6e1d7",
-   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
-   "source": "헤럴드경제",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 4
   },
   {
    "id": "5b642f7ca018",
@@ -61,16 +61,205 @@
    "count": 3
   },
   {
-   "id": "0dfcc6feae2b",
-   "title": "늘어난 임금근로자 10명 중 9명은 비정규직…비중 38.5% '역대 최대'",
-   "url": "https://n.news.naver.com/mnews/article/031/0001067913?sid=101",
-   "source": "아이뉴스24",
-   "cat": "hlt",
+   "id": "a2c0c14ccdc2",
+   "title": "\"회사 경계 넘어 위험 공유\"…서부발전, 14개 협력사와 공동 안전관리 ...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
+   "source": "더페어",
+   "cat": "tech",
    "day": "2026-10-21",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "안전 강조한 정기선 회장, 취임 1주년도 중대재해 사망사고로 '얼룩'",
+   "summary": "시사위크=권정두 기자 올 들어 중대재해 사망사고가 잇따랐던 HD현대그룹에서 또 다시 사망사고가 발생했다. 안전을 특히 강조했던 정기선 회장의 취임 1주년마저 사망사고로 얼룩지게 된 모습이다. HD현대그룹...",
+   "url": "https://www.sisaweek.com/news/articleView.html?idxno=238499",
+   "orig": "https://www.sisaweek.com/news/articleView.html?idxno=238499",
+   "source": "시사위크",
+   "published": "2026-10-21T14:26+09:00",
+   "cat": "sev",
+   "id": "df23d8abc29c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서부발전, 협력사 14곳과 '공동 안전관리' 협약...소비자 관심도 상승",
+   "summary": "한국서부발전이 협력사 간 공동 안전관리 체계를 구축하고 근로자의 작업중지권 행사를 활성화하는 등 산업재해 예방을 위한 현장 중심의 안전 경영을 강화한다고 21일 밝혔다. 서부발전은 이날 충남 태안발전본부에서...",
+   "url": "https://www.thebigdata.co.kr/view.php?ud=202610211422261292bbceadc3c9_23",
+   "orig": "https://www.thebigdata.co.kr/view.php?ud=202610211422261292bbceadc3c9_23",
+   "source": "thebigdata.co.kr",
+   "published": "2026-10-21T14:26+09:00",
+   "cat": "tech",
+   "id": "e692e90e08b6",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "이종배 의원 'AI 활용 산재위험 예측체계 구축·지원법' 대표발의",
+   "summary": "국민의힘 이종배 국회의원(충북 충주·사진)은 21일 인공지능(AI) 등 디지털 기술을 활용해 산업재해 발생 위험을 사전에 예측하고 예방활동의 실효성을 높이기 위한 '산업안전보건법 일부개정법률안'을 대표발의했다고...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=933160",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=933160",
+   "source": "cctimes.kr",
+   "published": "2026-10-21T14:10+09:00",
+   "cat": "tech",
+   "id": "e180b0f6b651",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "충남 공주시, 중대산업재해 예방 특별교육 실시",
+   "summary": "교육에는 중대재해처벌법 주요 내용, 도급·용역·위탁 사업의 법적 개념과 책임, 안전·보건 확보 의무, 산업재해 예방 조치, 관리감독자의 현업사업장 대응 방안 등이 집중적으로 다뤄졌다. 계약 단계부터 위험 요인을...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106035",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106035",
+   "source": "ccdn.co.kr",
+   "published": "2026-10-21T14:10+09:00",
+   "cat": "tech",
+   "id": "d8ebc42a8a8e",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "“위험정보 공유·합동점검 추진”…서부발전, 협력사와 산업재해 예방...",
+   "summary": "안전동행은 서부발전 경영진이 반기마다 사업소를 찾아 협력사·근로자 대표와 안전현안을 논의하는 소통 프로그램이다. 서부발전은 이날 작업중지권 운영 성과와 주요 안전대책을 공유하고 근로자 건의 사항을...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005751761?sid=101",
+   "orig": "https://www.mk.co.kr/article/12181639",
+   "source": "매일경제",
+   "published": "2026-10-21T14:10+09:00",
+   "cat": "tech",
+   "id": "7ffb3763612b",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대전 유성농협, 중대재해 예방·경영 안정 나서 ‘주목’",
+   "summary": "유성농협은 최근 본점에서 ‘중대재해 예방·안전경영 실천 현판식’을 열고 NH농협손해보험 대전총국(총국장 이광원)으로부터 현판을 전달받았다. 이번 행사는 중대재해배상책임보험에 선도적으로 가입한 유성농협의...",
+   "url": "https://n.news.naver.com/mnews/article/662/0000106618?sid=102",
+   "orig": "https://www.nongmin.com/article/20261021500167",
+   "source": "nongmin.com",
+   "published": "2026-10-21T14:07+09:00",
+   "cat": "tech",
+   "id": "818edcc25940",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서산시, '공공부문 첫 마음봄 사업장 도입'... 근로자 마음 건강 돌봄",
+   "summary": "김용란 서산시보건소장은 \"근로자들이 마음 편히 일할 수 있는 일터를 만드는 데 이번 협약이 든든한 발판이 되기를 기대한다\"고 말했다. 이어 지역 산업체와의 유기적인 상생 협력을 지속적으로 확대해 관내 근로자들의...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509748",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509748",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-21T14:06+09:00",
+   "cat": "tech",
+   "id": "1b4deff6bf82",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "임실군, 중소사업장 산업재해 예방 무료 컨설팅 실시",
+   "summary": "임실군이 중소규모 사업장의 산업재해 예방을 위해 현장 방문 무료 컨설팅을 실시한다. 사진=임실군 청사... 컨설팅 주요 내용은 안전보건관리체계 구축, 작업공정별 위험성평가, 안전보건교육, 보호구 관리, 기계·설비...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3728009",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3728009",
+   "source": "국제뉴스",
+   "published": "2026-10-21T14:06+09:00",
+   "cat": "tech",
+   "id": "03214be8ce4a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서부발전, 협력사와 함께 안전관리 강화… 작업중지권 행사 23배 증가",
+   "summary": "한국서부발전이 협력사 간 공동 안전관리 체계를 구축하고 근로자의 작업중지권 활성화에 나서는 등 산업재해 예방을 위한 현장 중심 안전경영을 강화하고 있다. 근로자의 작업중지·안전조치 요구가 지난해보다 약 23배...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204248",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204248",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-21T13:58+09:00",
+   "cat": "tech",
+   "id": "468371415735",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"회사 경계 넘어 위험 공유\"…서부발전, 14개 협력사와 공동 안전관리 ...",
+   "summary": "안전동행은 서부발전 경영진이 반기마다 사업 현장을 찾아 협력사 관계자들과 안전 현안을 점검하는 소통 기구다. 이날 행사에서 서부발전을 비롯한 1·2차 협력사 14곳은 공동 안전관리 업무협약을 체결하고 발전소 내...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
+   "source": "더페어",
+   "published": "2026-10-21T13:56+09:00",
+   "cat": "tech",
+   "id": "a2c0c14ccdc2",
+   "related": [
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874747",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874747",
+     "title": "서부발전, 협력사 14곳과 안전관리 협약"
+    }
+   ],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 인제군, 가을철 산불방지 총력... 예방부터 초동 진화까지...",
+   "summary": "교육 대상은 지역공동체일자리사업 35명, 행복일자리사업 10명, 자체일자리사업 128명 등 총 173명으로, 「산업안전보건법」에 따른 정기 안전보건교육으로 진행됐다. 이날 교육에는 한국산업안전보건공단 강사가 초빙돼...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=798954",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=798954",
+   "source": "weeklytoday.com",
+   "published": "2026-10-21T13:52+09:00",
+   "cat": "tech",
+   "id": "67e565964a14",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "부평구시설관리공단, 현장 근로자 참여형 안전관리로 위험성평가 우수...",
+   "summary": "15일 공단이 운영하는 부평국민체육센터가 '위험성평가 우수사업장' 재인정을 획득했다고 밝혔다. 위험성평가 우수사업장 인정은 사업장이 스스로 유해·위험요인을 찾아 개선하는 안전보건 활동을 종합적으로 심사해...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=655135",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=655135",
+   "source": "경인매일",
+   "published": "2026-10-21T13:38+09:00",
+   "cat": "tech",
+   "id": "d031f608e757",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "중대재해 되풀이되는 포스코이앤씨..장인화 안전경영 시험대",
+   "summary": "포스코이앤씨가 잇따른 사망사고로 최고경영진까지 나서 안전관리체계 개편에 착수했지만, 이후에도 중대재해가 반복되면서 장인화 포스코그룹 회장의 안전경영이 시험대에 올랐다. 장 회장은 지난해 회장 직속...",
+   "url": "https://www.peoplewatch.co.kr/article/view/ppw202610210007",
+   "orig": "https://www.peoplewatch.co.kr/article/view/ppw202610210007",
+   "source": "peoplewatch.co.kr",
+   "published": "2026-10-21T13:34+09:00",
+   "cat": "law",
+   "id": "c9f7837557d9",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단-NH농협은행, 농촌·중소도시 감정노동자 보호 협력",
+   "summary": "/사진 = 안전보건공단 제공 안전보건공단과 NH농협은행이 상대적으로 안전보건 정보 접근성이 낮은 농촌과 중소도시의 감정노동자 보호를 위해 협력을 확대한다. 안전보건공단은 21일 NH농협은행 울산중앙금융센터에서...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
+   "source": "안전신문",
+   "published": "2026-10-21T13:32+09:00",
+   "cat": "tech",
+   "id": "08cb58ce2fc1",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "현대제철 당진제철소서 하청 노동자 또 사망…\"경영책임자 엄중 책임\"",
    "summary": "원청의 안전관리 책임을 둘러싼 논란이 확산하고 있다. 반복되는 산업재해에도 불구하고 현장의 안전조치가... 위한 안전조치가 제대로 이행됐는지가 핵심 쟁점으로 떠올랐다. 고용노동부와 경찰은 작업 전 동력 차단과...",
@@ -158,7 +347,14 @@
    "published": "2026-10-21T12:14+09:00",
    "cat": "tech",
    "id": "54781f37770a",
-   "related": [],
+   "related": [
+    {
+     "source": "the-pr.co.kr",
+     "url": "https://www.the-pr.co.kr/news/articleView.html?idxno=62982",
+     "orig": "https://www.the-pr.co.kr/news/articleView.html?idxno=62982",
+     "title": "한국전기안전공사, 전기공사협회와 시공 품질·안전관리 강화 나선다"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -308,7 +504,14 @@
    "published": "2026-10-21T11:24+09:00",
    "cat": "law",
    "id": "180b348c6ef3",
-   "related": [],
+   "related": [
+    {
+     "source": "동양일보",
+     "url": "https://www.dynews.co.kr/news/articleView.html?idxno=870289",
+     "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=870289",
+     "title": "어기구 \"폭염 예방장비 지원금 87억원 초과지급, 환수는 0원\""
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -451,7 +654,14 @@
    "published": "2026-10-21T11:01+09:00",
    "cat": "law",
    "id": "205c551c56a7",
-   "related": [],
+   "related": [
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=916058",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=916058",
+     "title": "공주시, 중대산업재해 예방 특별교육 실시"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -647,7 +857,14 @@
    "published": "2026-10-21T09:14+09:00",
    "cat": "tech",
    "id": "f5eef41e2b77",
-   "related": [],
+   "related": [
+    {
+     "source": "동양일보",
+     "url": "https://www.dynews.co.kr/news/articleView.html?idxno=870328",
+     "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=870328",
+     "title": "이종배 의원, AI 활용 산업재해 위험예측법 대표발의"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -860,6 +1077,12 @@
      "url": "https://n.news.naver.com/mnews/article/586/0000140509?sid=101",
      "orig": "https://www.sisajournal.com/news/articleView.html?idxno=391046",
      "title": "중대재해 보고 '건설사 쏠림'…현대건설·포스코이앤씨 6건씩"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=724774",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=724774",
+     "title": "중대재해 보고 147건…반복 기업 11곳 중 건설사 8곳"
     }
    ],
    "day": "2026-10-21",
@@ -1605,6 +1828,19 @@
      "title": "충남 논산서 30대 외국인 노동자 끼임 사고로 숨져"
     }
    ],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "30초 걸린 '23명 사망에 징역 4년' 대법 선고…아리셀 유족 \"국가에 버려...",
+   "summary": "보도자료로 배포된 대법원의 판결 이유 대법원 1부가 이날 피고인과 검사의 상고를 모두 기각하면서 중대재해처벌법·산업안전보건법 위반 등 혐의로 기소된 박 대표에게는 징역 4년, 박 대표 아들인 박중언 아리셀...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002461866?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026102014052507566?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-20T18:39+09:00",
+   "cat": "sev",
+   "id": "8183b1f5eff0",
+   "related": [],
    "day": "2026-10-20",
    "watch": []
   },
