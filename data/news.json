@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T08:29+09:00",
+ "updatedAt": "2026-10-21T09:34+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-21",
-   "count": 3
+   "count": 8
+  },
+  {
+   "id": "85246cb6e1d7",
+   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 2
   },
   {
    "id": "5b3800c6603e",
@@ -41,36 +50,237 @@
    "cat": "law",
    "day": "2026-10-21",
    "count": 2
-  },
-  {
-   "id": "af7c4d796ce5",
-   "title": "TSMC 가오슝 공장 건설현장 추락사고로 작업 중단…3명 사망",
-   "url": "https://n.news.naver.com/mnews/article/030/0003476987?sid=105",
-   "source": "전자신문",
-   "cat": "sev",
-   "day": "2026-10-21",
-   "count": 1
-  },
-  {
-   "id": "e8dbf2a885fe",
-   "title": "[역사 속 오늘] 10월 21일…트라팔가 해전에서 성수대교 붕괴까지",
-   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=100767",
-   "source": "upkoreanews.kr",
-   "cat": "acc",
-   "day": "2026-10-21",
-   "count": 1
-  },
-  {
-   "id": "0773e9e996df",
-   "title": "업무상 질병 처리기간 '평균' 아닌 질병별로 봐야",
-   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237314",
-   "source": "매일노동뉴스",
-   "cat": "hlt",
-   "day": "2026-10-21",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "맥도날드, 산재 재해자 3년 반 동안 664명…음식·숙박업 최다",
+   "summary": "같은 기간 음식·숙박업 산재 사망자는 2023년 35명, 2024년 25명, 지난해 23명, 올해 상반기 21명 등 총 104명이었다. 사망자에는 업무상 사고뿐 아니라 질병으로 숨진 노동자와 사업장 밖 교통사고 사망자도...",
+   "url": "https://www.datasom.co.kr/news/articleView.html?idxno=210432",
+   "orig": "https://www.datasom.co.kr/news/articleView.html?idxno=210432",
+   "source": "datasom.co.kr",
+   "published": "2026-10-21T09:30+09:00",
+   "cat": "acc",
+   "id": "b8c978d85176",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
+   "summary": "KCC건설이 보고한 3건 역시 고용노동부 조사에서 개인 질병에 따른 사망으로 판단돼 중대재해 대상에서 제외됐다. 개별 사고 중 사상자가 3명 이상 발생한 사례는 총 8건으로 나타났다. 인명피해가 가장 컸던 사고는...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026102109270373598",
+   "source": "아시아경제",
+   "published": "2026-10-21T09:27+09:00",
+   "cat": "law",
+   "id": "fa6011027a56",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "국힘 이종배 의원, AI 활용 산업안전보건법 개정안 발의…위험 예측 강...",
+   "summary": "국민의힘 이종배(충북 충주)의원은 21일, 인공지능과 빅데이터 등 첨단기술을 통해 사업장별 산재 위험을 사전에 예측하고 예방활동의 효과를 높이는 내용의 산업안전보건법 일부개정법률안을 대표발의했다고 밝혔다. 이...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3727440",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3727440",
+   "source": "국제뉴스",
+   "published": "2026-10-21T09:14+09:00",
+   "cat": "tech",
+   "id": "f5eef41e2b77",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "'K-등산 성지' 관악산, 가을철 안전관리 강화",
+   "summary": "지난 17일 관악산에서 등산객들의 안전한 이동을 위해 인파를 관리하는 안전요원들 모습. 스마트 기술과 유관기관 간 협력 체계를 활용한 촘촘한 감시망도 가동된다. 구는 관악산 내 119개소에 설치된 323대의 CCTV를 통해...",
+   "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303493",
+   "orig": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303493",
+   "source": "jeonmae.co.kr",
+   "published": "2026-10-21T09:14+09:00",
+   "cat": "tech",
+   "id": "901be051c1f9",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[오늘의유통] LG생활건강·풀무원샘물, 안전 중심 사회공헌 확대",
+   "summary": "풀무원샘물은 지난 19일 경기 포천 이동공장에서 대한산업보건협회, 대한산업안전협회와 ‘근로자 안전문화 확산 및 산업재해 예방’을 위한 3자 업무협약(MOU)을 체결했다. 이번 협약은 이동공장의 무사고 2000일...",
+   "url": "https://sateconomy.co.kr/news/view/1065603154585261",
+   "orig": "https://sateconomy.co.kr/news/view/1065603154585261",
+   "source": "sateconomy.co.kr",
+   "published": "2026-10-21T09:10+09:00",
+   "cat": "tech",
+   "id": "aa2246b64770",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
+   "summary": "당진,당진신문,시대,어기구의원,국정감사,온열질환예방장비,냉방장비지원금,이동식에어컨,냉방능력과대표기,보조금초과지급,부정수급,환수,한국산업안전보건공단,고용노동부,폭염,노동자건강,영세사업장...",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
+   "orig": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
+   "source": "idjnews.kr",
+   "published": "2026-10-21T09:08+09:00",
+   "cat": "law",
+   "id": "5b642f7ca018",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[기고-신유림]안전보건공시, 숫자를 넘어 현장의 예방으로.",
+   "summary": "대상 기업은 안전보건관리체제, 산업재해 발생 현황, 전년도 활동 실적과 해당 연도 계획, 안전보건 투자, 재발 방지 대책 등을 매년 4월 30일까지 고용노동부 장관이 지정하는 인터넷 홈페이지에 게시해야 한다. 특히...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251110",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251110",
+   "source": "안전신문",
+   "published": "2026-10-21T09:08+09:00",
+   "cat": "law",
+   "id": "e223b4fa7e34",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "고위험 사업장 산재 예방에 AI 활용 추진...\"인공지능(AI)· 빅데이터 등...",
+   "summary": "국회 이종배 의원(국민의힘,충북 충주)은 산업재해 예방의 실효성을 높이기 위한 '산업안전보건법' 일부개정법률안을 대표발의했다고 21일 밝혔다. 이 의원은 \"정부가 산업재해 예방을 위해 막대한 예산과 인력을...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497083",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=497083",
+   "source": "핀포인트뉴스",
+   "published": "2026-10-21T09:04+09:00",
+   "cat": "tech",
+   "id": "a858fab6c513",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "21개월간 중대재해 147건…3건 이상 보고 기업 11곳",
+   "summary": "KCC건설도 보고된 3건 모두 고용노동부 조사에서 개인질병에 따른 사망으로 판단돼 중대재해 대상에서 제외됐다. 개별 사고 중 사상자가 3명 이상 발생한 사례는 총 8건으로 나타났다. 가장 많은 사상자가 발생한...",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=228633",
+   "orig": "https://www.youthdaily.co.kr/news/article.html?no=228633",
+   "source": "youthdaily.co.kr",
+   "published": "2026-10-21T09:02+09:00",
+   "cat": "law",
+   "id": "da9b8f0dbbf2",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[이슈국감] 폭염 예방 보조금 87억원 줄줄…환수액 '0원'",
+   "summary": "21일 국회 기후에너지환경노동위원회 소속 어기구 더불어민주당 의원이 고용노동부로부터 제출받은... 한국산업안전보건공단이 사업장의 투자계획과 장비 도입 여부를 확인한 뒤 지원금을 지급하는 방식으로...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874642",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874642",
+   "source": "한스경제",
+   "published": "2026-10-21T08:58+09:00",
+   "cat": "law",
+   "id": "f5b50cae772d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "남동발전 협력사 한전산업개발 사망사고에 \"의도적 자해행위 따른 사망...",
+   "summary": "지난 17일 한국남동발전 여수발전본부의 협력사 한전산업개발 소속 노동자 사망사고에 대해 영상자료를... 즉 이들 회사의 입장은 \"(회사의) 안전관리상 문제로 작업 중 중대재해가 발생한 것으로 단정하지 말아달라\"는...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251109",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251109",
+   "source": "안전신문",
+   "published": "2026-10-21T08:54+09:00",
+   "cat": "sev",
+   "id": "3174f3ed0b2a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "李대통령, '산재 저감 보고' 김영훈 노동장관에 박수·칭찬",
+   "summary": "\"연간 산재 사망자 규모는 매년 전쟁 치르는 만큼 많지 않나\"라고 한 이 대통령은 김 장관에 산재 저감에 대한 칭찬과 함께 한성숙 국무총리를 향해 \"포상 예산 많이 만들었지 않나. 연말까지 기다릴 것 없이 포상하라\"고...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251108",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251108",
+   "source": "안전신문",
+   "published": "2026-10-21T08:54+09:00",
+   "cat": "law",
+   "id": "4fdb1d020e5f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "아직도 '예방 vs 처벌'…산재 보도 이분법에서 벗어나야",
+   "summary": "10월 20일 동아일보는 고용노동부가 공개한 재해조사보고서 168건을 분석한 기사 <산재 사망자 59%는 일용직… 안전모 안 쓴 채 1m 추락해 숨지기도>를 보도했다. 같은 날 <건설현장서 숨진 10명 중 8명, 일한 지 6개월도 안 된...",
+   "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=318565",
+   "orig": "https://www.mediaus.co.kr/news/articleView.html?idxno=318565",
+   "source": "mediaus.co.kr",
+   "published": "2026-10-21T08:44+09:00",
+   "cat": "law",
+   "id": "862d1dcaf37a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[만평] \"국내 발전 공기업 산업재해 사상자 90%가 협력·하청업체 소속...",
+   "summary": "국민의힘 김위상 의원은 \"본사 사상자는 거의 없고 사망자가 전원 하청업체에서 발생했다는 사실은 위험이 어디에 몰려 있는지를 그대로 보여줍니다.\"라며 발전 5개사의 실질적인 산재 방지 대책과 구체적인 이행 계획...",
+   "url": "https://n.news.naver.com/mnews/article/657/0000056505?sid=102",
+   "orig": "https://dgmbc.com/NewsArticle/868393",
+   "source": "dgmbc.com",
+   "published": "2026-10-21T08:43+09:00",
+   "cat": "sev",
+   "id": "840ac7e15e77",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대건설·포스코이앤씨 중대재해 최다 보고, 안전 실태는?",
+   "summary": "작년 4월과 12월, 그리고 올해 6월에 이르기까지 세 명의 사망자가 발생한 것으로 전해졌다. 현대건설은 6건의 중대재해를 통해 총 7명의 사상자를 기록했으며, 샤힌 에틸렌 시설 건설 현장에서 발생한 사고로 인해 두...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=882186",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=882186",
+   "source": "gokorea.kr",
+   "published": "2026-10-21T08:40+09:00",
+   "cat": "law",
+   "id": "56130bcbe21d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "이종배 국회의원, AI로 산재 위험 미리 찾는다...예측체계 구축 법안 발...",
+   "summary": "국민의힘 이종배 의원(충북 충주·4선)은 사업장과 개별 작업 단위의 산업재해 위험도를 디지털 기술로 산출하고 관련 기술 개발을 지원하는 산업안전보건법 일부개정법률안을 대표발의했다고 10월 21일 밝혔다. 개정안의...",
+   "url": "http://www.ttlnews.com/news/articleView.html?idxno=3153756",
+   "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3153756",
+   "source": "ttlnews.com",
+   "published": "2026-10-21T08:38+09:00",
+   "cat": "law",
+   "id": "7bf6a87d1591",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
+   "summary": "보고 이후 사망 원인이 개인 질환으로 판단돼 중대재해 대상에서 제외된 사례와 중대재해 해당 여부가 확정되지 않은 사례도 포함돼 있어, 확정된 중대재해 발생 건수와는 차이가 있다.",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10909367?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-21T08:34+09:00",
+   "cat": "law",
+   "id": "85246cb6e1d7",
+   "related": [
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/050/0000112185?sid=101",
+     "orig": "https://magazine.hankyung.com/business/article/202610214984b",
+     "title": "'건설사 저승사자'···중대재해 반복 보고 11곳 중 8곳 '건설'"
+    }
+   ],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "인천시설공단, 검단근로자복합문화센터 개관 앞두고 노사합동 안전점검",
    "summary": "이날 점검에는 김 이사장을 비롯해 노동조합 위원장, 명예산업안전감독관, 안전관리 전담 부서 직원 등이 참여했다. 참석자들은 건축·기계·전기·소방 분야의 안전기준 충족 여부를 확인하고, 시설 이용자의 이동 동선과...",
@@ -280,6 +490,19 @@
    "watch": []
   },
   {
+   "title": "울산 HD현대일렉 신축 공사장서 40대 작업자 ‘추락사’",
+   "summary": "20일 HD현대일렉트릭(267260)의 중대재해 발생 공시에 따르면 19일 오전 8시 52분 종속회사인 HD현대플라스포의... 문제는 이 같은 산재 사망사고가 HD현대 계열사 전반에 만연해 있다는 점이다. 특히 그룹의 본산인...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004673372?sid=101",
+   "orig": "https://www.sedaily.com/article/20104017?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-21T06:01+09:00",
+   "cat": "acc",
+   "id": "e4ccaee2497e",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
    "title": "작년 이후 중대재해 3건 이상 기업 11곳…8곳이 건설사",
    "summary": "현대건설이 보고한 6건의 중대재해 사례에서는 사망자 6명, 부상자 1명 등 7명의 사상자가 나온 것으로 나타났다. 현대건설의 경우 샤힌 에틸렌 시설 건설공사 현장에서 올해 6월 토사 붕괴에 따른 협착 사고와 9월...",
    "url": "https://n.news.naver.com/mnews/article/001/0016390124?sid=102",
@@ -300,6 +523,36 @@
      "url": "https://www.ceoscoredaily.com/page/view/2026101614201101718",
      "orig": "https://www.ceoscoredaily.com/page/view/2026101614201101718",
      "title": "2025년 이후 중대재해 보고 3건 이상 기업만 11곳…포스코이앤씨·현대건..."
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=123559",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=123559",
+     "title": "지난해 이후 중대재해 3건 이상 발생 기업 11곳 중 8곳이 건설사"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000101152",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000101152",
+     "title": "[뉴스 앤 데이터] 중대재해 3건 이상 보고 기업 11곳…8곳이 건설사"
+    },
+    {
+     "source": "the-today.com",
+     "url": "https://www.the-today.com/news/articleView.html?idxno=92109",
+     "orig": "https://www.the-today.com/news/articleView.html?idxno=92109",
+     "title": "지난해 이후 중대재해 3건 이상 기업 11곳…건설사 8곳"
+    },
+    {
+     "source": "worktoday.co.kr",
+     "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=90698",
+     "orig": "http://www.worktoday.co.kr/news/articleView.html?idxno=90698",
+     "title": "중대재해 3건 이상 기업 11곳 중 건설사가 8곳 … 포스코이앤씨·현대건..."
+    },
+    {
+     "source": "wolyo.co.kr",
+     "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319345",
+     "orig": "https://www.wolyo.co.kr/news/articleView.html?idxno=319345",
+     "title": "지난해 1월 이후 중대재해 3건 이상 기업 11곳...8곳이 '건설사'"
     }
    ],
    "day": "2026-10-21",
@@ -547,6 +800,32 @@
    "watch": []
   },
   {
+   "title": "李 “소방관은 작은 신…소방-경찰 등 안전 핵심 기능 대대적 정비”",
+   "summary": "이재명 대통령은 20일 “무엇보다 소방, 경찰, 재난재해 예방, 보건의료 등의 국민 안전을 위한 핵심 기능에... 이 대통령은 국무회의에서 김영훈 고용노동부 장관이 올해 3분기 누적 산업재해 사망자 수가 366명으로 지난해...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003756345?sid=100",
+   "orig": "https://www.donga.com/news/Politics/article/all/20261020/134875198/1",
+   "source": "동아일보",
+   "published": "2026-10-20T20:15+09:00",
+   "cat": "law",
+   "id": "e4f6daab3bf1",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"세아베스틸 군산공장 사망사고 반복…안전경영 책임 구멍\"",
+   "summary": "이재명 정부가 반복 사망사고 기업에 대한 제재 강화를 산재 감축의 핵심 과제로 내세운 것도 같은 맥락이다. 지난 1일 국회를 통과한 산업안전보건법 개정안에도 다수·반복 사망사고 발생 사업장에 대한 과징금 부과...",
+   "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448892",
+   "orig": "http://www.jeonmin.co.kr/news/articleView.html?idxno=448892",
+   "source": "jeonmin.co.kr",
+   "published": "2026-10-20T20:00+09:00",
+   "cat": "sev",
+   "id": "8d2e2d8fff70",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
    "title": "목숨 앗아간 비극 되풀이 안 된다… 대전노동청, 화재·폭발 위험 사업...",
    "summary": "아울러 마성균 대전지방고용노동청장이 직접 현장을 찾아 불시 점검을 실시하고, 한국산업안전보건공단도 패트롤 점검 및 기술 지도 과정에서 화재·폭발 위험 요인을 함께 확인하는 등 산재 예방 역량을 총동원한다....",
    "url": "https://cc.newdaily.co.kr/site/data/html/2026/10/20/2026102000309.html",
@@ -581,6 +860,19 @@
    "published": "2026-10-20T19:28+09:00",
    "cat": "sev",
    "id": "d93ce3283e3e",
+   "related": [],
+   "day": "2026-10-20",
+   "watch": []
+  },
+  {
+   "title": "\"사망 3명 이상시 영업익 5% 몰수\"…산업안전보건법 개정안 공포",
+   "summary": "이번에 통과된 산안법 개정안의 핵심은 사망 사고를 낸 기업에 가해지는 경제적 제재가 강화됐다는 점이다.... 해당 조치로 징수된 과징금은 전액 산재보험 기금으로 귀속되며, 노후 위험 설비 교체와 소규모 영세...",
+   "url": "http://www.srtimes.kr/news/articleView.html?idxno=215350",
+   "orig": "http://www.srtimes.kr/news/articleView.html?idxno=215350",
+   "source": "srtimes.kr",
+   "published": "2026-10-20T19:16+09:00",
+   "cat": "sev",
+   "id": "18117558fa27",
    "related": [],
    "day": "2026-10-20",
    "watch": []
