@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T14:29+09:00",
+ "updatedAt": "2026-10-21T15:35+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,25 +52,311 @@
    "count": 5
   },
   {
-   "id": "5b642f7ca018",
-   "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
-   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
-   "source": "idjnews.kr",
-   "cat": "law",
+   "id": "08cb58ce2fc1",
+   "title": "안전보건공단-NH농협은행, 농촌·중소도시 감정노동자 보호 협력",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
+   "source": "안전신문",
+   "cat": "tech",
    "day": "2026-10-21",
    "count": 3
   },
   {
-   "id": "a2c0c14ccdc2",
-   "title": "\"회사 경계 넘어 위험 공유\"…서부발전, 14개 협력사와 공동 안전관리 ...",
-   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
-   "source": "더페어",
-   "cat": "tech",
+   "id": "fa6011027a56",
+   "title": "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
+   "source": "아시아경제",
+   "cat": "law",
    "day": "2026-10-21",
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "2년 손발 묶인 LIG D&A⋯ 맞수 한화, 방산 수주판 쓸어담나",
+   "summary": "이 때문에 지난 6월 대전사업장 폭발 사고(사망 5명)로 중대재해처벌법 및 산업안전보건법 위반 수사를 받는 한화에어로스페이스 또한 향후 입찰 제한 심의대에 오를 수도 있고, 징계가 가능성도 높은 편이다. 한화...",
+   "url": "https://www.viva100.com/article/20261021500932",
+   "orig": "https://www.viva100.com/article/20261021500932",
+   "source": "브릿지경제",
+   "published": "2026-10-21T15:32+09:00",
+   "cat": "hlt",
+   "id": "5d981a2e645c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "뇌물 철퇴 맞은 LIG D&A…1.9조 KF-21 유도탄 계약 '불투명'",
+   "summary": "21일 업계에 따르면 LIG D&A는 전날 방사청의 제재 결정 직후 \"기소 사실만을 근거로 제재 처분을 내린 것에... 지난 6월 대전사업장에서 일어난 폭발로 근로자 5명이 숨져 중대재해처벌법 수사가 진행 중이다....",
+   "url": "http://www.srtimes.kr/news/articleView.html?idxno=215401",
+   "orig": "http://www.srtimes.kr/news/articleView.html?idxno=215401",
+   "source": "srtimes.kr",
+   "published": "2026-10-21T15:32+09:00",
+   "cat": "tech",
+   "id": "417305839e8b",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "농어촌공사 구미·김천지사, 건설현장 산업재해 예방 총력",
+   "summary": "이날 협의체에는 건설현장 관계자와 공사감독, 현장대리인 등이 참석해 산업재해 예방을 위한 안전관리 방안을 공유하고 안전하고 청렴한 근로환경 조성에 협력하기로 했다. 나창식 구미·김천지사장은 \"공사감독과...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417059",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1417059",
+   "source": "한국아이닷컴",
+   "published": "2026-10-21T15:30+09:00",
+   "cat": "law",
+   "id": "29676c59d868",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "‘10명 중 9명 여성’ 의상·미술 방송 스태프... 성희롱 경험·최저 임...",
+   "summary": "프로젝트 구성도 관계성으로 진행된다\"며 \"산업안전보건위원회를 프로젝트 때마다 만들 수 없는 현실인... 이찬웅 고용노동부 근로기준정책과 서기관은 \"근로시간 파편화를 해소하기 위해서는 근로 감독이 이뤄져야...",
+   "url": "https://n.news.naver.com/mnews/article/310/0000141008?sid=103",
+   "orig": "https://www.womennews.co.kr/news/articleView.html?idxno=283566",
+   "source": "womennews.co.kr",
+   "published": "2026-10-21T15:27+09:00",
+   "cat": "law",
+   "id": "ab3d629d260f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[이슈+] '아리셀 판결' 징역 15년에서 4년으로‥대폭 감형 이유는?",
+   "summary": "Q. 현대제철서도 노동자 '끼임 사망 사고'‥상황은? Q. '아리셀 판결' 중처법 다른 판례에도 영향? 기사 본문의 인터뷰 내용을 인용할 경우, [MBC 뉴스외전]과의 인터뷰라고 밝혀주시기 바랍니다.",
+   "url": "https://n.news.naver.com/mnews/article/214/0001530477?sid=102",
+   "orig": "https://imnews.imbc.com/replay/2026/nw1400/article/6859629_36974.html",
+   "source": "MBC",
+   "published": "2026-10-21T15:24+09:00",
+   "cat": "law",
+   "id": "96f689a94d11",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대형 프랜차이즈·급식업체, 알고보니 산재 온실?..맥도날드 ‘최다’",
+   "summary": "특히, 대중에게 잘 알려진 유명 대기업 계열 프랜차이즈와 급식업체들이 산재... 사망 사고도 이어졌다. 음식·숙박업에서는 2023년부터 2026년 상반기까지 3년 반...",
+   "url": "http://www.breaknews.com/1244629",
+   "orig": "http://www.breaknews.com/1244629",
+   "source": "브레이크뉴스",
+   "published": "2026-10-21T15:22+09:00",
+   "cat": "law",
+   "id": "50ba9c63b0de",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[단독]노인일자리 사망자 20개월간 17명…산재보상 못받아",
+   "summary": "끝내 사망했다. 해당 사건은 당일 체감온도 35도를 웃도는 폭염에도 온열질환 관련성에 대한 면밀한 조사... 공공형 일자리는 공익활동 성격으로 분류돼 산업안전보건법 및 산업재해보상보험(산재보험) 적용 대상에서...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003756567?sid=100",
+   "orig": "https://www.donga.com/news/Politics/article/all/20261021/134882482/1",
+   "source": "동아일보",
+   "published": "2026-10-21T15:21+09:00",
+   "cat": "sev",
+   "id": "30ce9123d571",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "폭언 막고 마음건강 지킨다…안전보건공단·NH농협은행, 공동 캠페인",
+   "summary": "한국산업안전보건공단(이사장 김현중)이 NH농협은행(은행장 강태영)과 농촌과 중소도시 감정노동자의 인권 보호와 중소사업장 안전문화 확산에 나섰다. 안전보건공단과 NH농협은행은 21일 NH농협은행...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229142",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229142",
+   "source": "에너지신문",
+   "published": "2026-10-21T15:20+09:00",
+   "cat": "tech",
+   "id": "035e8a8a592d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서부발전, 근로자 작업중지·안전조치 요구 전년比 23배↑",
+   "summary": "서부발전은 이날 충남 태안발전본부에서 '최고경영자(CEO)와 함께하는 안전동행' 행사를 열고 1·2차 협력사 14곳과 공동 안전관리 업무협약을 체결했다. 협약은 여러 협력사가 동일한 공간에서 작업하는 발전소 특성을...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2008668",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2008668",
+   "source": "m-i.kr",
+   "published": "2026-10-21T15:20+09:00",
+   "cat": "tech",
+   "id": "538e5f7bbed2",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[진주소식]국토안전관리원 새활용 사업에 안전용품 기부 등",
+   "summary": "두 기업은 국토안전원의 사업 취지에 공감하고 현장에서 사용한 안전모와 안전조끼를 전달했다. ◇경남농기원, 아제르바이잔 농업공무원 초청해 스마트농업 기술 전수 경남도농업기술원은 오는 30일까지 아제르바이잔...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014269198?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261021_0003835240",
+   "source": "뉴시스",
+   "published": "2026-10-21T15:14+09:00",
+   "cat": "tech",
+   "id": "371081becd43",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[교육소식]건양사이버대 산업안전소방학과 취업 특강 등",
+   "summary": "우선 한국산업안전보건공단 대전세종광역본부 문영준 차장이 온라인으로 공단 채용 동향과 전형 준비 전략, 직무 이해 방안 등을 소개했다. 또 건양대 논산캠퍼스에서 이 대학 재난안전소방학과 최승규 외래교수가...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014269176?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261021_0003834961",
+   "source": "뉴시스",
+   "published": "2026-10-21T15:06+09:00",
+   "cat": "tech",
+   "id": "96f668b4fec0",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "사각지대 없는 안전제주, 제주 중대재해 예방의 새로운 출발",
+   "summary": "제주특별자치도는 이러한 사각지대를 해소하기 위해 고용노동부 공모사업을 통해 국비 12억 원을 확보하고 '지역 중대재해 예방 사각지대 해소 지원사업'을 추진하고 있다. 이번 사업은 ▲5인 미만 사업장의 안전보건관리...",
+   "url": "http://www.samdailbo.com/news/articleView.html?idxno=271595",
+   "orig": "http://www.samdailbo.com/news/articleView.html?idxno=271595",
+   "source": "samdailbo.com",
+   "published": "2026-10-21T15:02+09:00",
+   "cat": "law",
+   "id": "5bdd3fd946c3",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서부발전, 근로자 작업중지권 활성화…협력사 안전관리 경계 허문다",
+   "summary": "서부발전은 21일 충남 태안발전본부에서 이상용 기술안전부사장과 협력사 대표, 근로자 대표 등 60여명이 참석한 가운데 하반기 ‘최고경영자(CEO)와 함께하는 안전동행’을 개최했다고 이날 밝혔다. 서부발전에 따르면...",
+   "url": "https://www.g-enews.com/view.php?ud=202610211457266458ea13369bfa_1",
+   "orig": "https://www.g-enews.com/view.php?ud=202610211457266458ea13369bfa_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-21T15:02+09:00",
+   "cat": "tech",
+   "id": "21fb989ebc21",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대엔지니어링, 2년째 정비사업 수주 0건…돌파구는 데이터센터",
+   "summary": "위해 안전관리 역량을 강화하는 것도 주요 과제다. 국회 기후에너지환경노동위원회 소속 김주영 더불어민주당 의원이 고용노동부에서 제출받은 '최근 5년간 20대 건설사 재해조사 대상 사망사고 현황'에 따르면...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000544155?sid=101",
+   "orig": "https://news.tf.co.kr/read/economy/2379003.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-21T15:01+09:00",
+   "cat": "law",
+   "id": "8d5059c76283",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "아리셀 경영책임자 징역 4년…민변 \"중대재해 책임 묻기 어려워졌다\"",
+   "summary": "비상구 설치 의무, 법 해석이 가른 책임 민변이 핵심 쟁점으로 제기한 것은 산업안전보건법령상 비상구와... 민변은 조희대 대법원장 취임 이후 중대재해처벌법 사건에서 경영책임자에 대한 무죄 판결과 실형 선고 비율...",
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=241095",
+   "orig": "https://www.ngonews.kr/news/articleView.html?idxno=241095",
+   "source": "ngonews.kr",
+   "published": "2026-10-21T14:56+09:00",
+   "cat": "hlt",
+   "id": "9d2842d75933",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "LIG 막히고, 한화 떨고…K-방산 초비상 걸렸다 [배창학의 방산인사이드...",
+   "summary": "방사청 관계자는 한국경제TV에 에어로도 LIG처럼 기소되면 위원회를 열어 처벌 여부를 판단할 것이라고... 고용노동부 특별 감독에서 473건의 위반 사항이 적발됐으며 중대재해처벌법에 관해 조사를 받는 중입니다....",
+   "url": "https://n.news.naver.com/mnews/article/215/0001269944?sid=101",
+   "orig": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210085&t=NNv",
+   "source": "한국경제TV",
+   "published": "2026-10-21T14:45+09:00",
+   "cat": "law",
+   "id": "8f86b41d6829",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "5년간 7명 중대재해로 숨진 현대제철…“위험의 외주화 끝내야”",
+   "summary": "현대제철에선 2022년부터 5년간 노동자 7명이 중대재해로 사망했다. 김씨 사고 외에도 이달 당진제철소에선 지난 4일 감전 사고로 협력업체 노동자 3명이, 19일 철강 절단기계에 넘어지는 사고로 협력업체 노동자 1명이...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002828436?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/chungcheong/1283421.html",
+   "source": "한겨레",
+   "published": "2026-10-21T14:44+09:00",
+   "cat": "sev",
+   "id": "a7c8aa6ee13a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대구시회, '4대 사회보험 실무 및 건설현장 안전관리 강습회'​ 개최",
+   "summary": "이날 강습회에서는 이우광 안전보건공단 대구서부지사 부장이 달비계 작업 중심으로 건설현장 안전관리에 대해 강의했으며, 권태경 한국경영원 본부장은 고용·산재보험료(노무제공자 포함) 신고 실무에 대해 설명했다....",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327056",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327056",
+   "source": "대한전문건설신문",
+   "published": "2026-10-21T14:42+09:00",
+   "cat": "tech",
+   "id": "0f7a4802ed4f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "공주시, 도급·용역·위탁 사업 안전관리 강화…공직자 특별교육",
+   "summary": "이날 교육에서는 △중대재해처벌법의 주요 내용 △도급·용역·위탁 사업의 법적 개념과 책임 △안전·보건 확보 의무 △산업재해 예방 조치 △현업사업장 관리감독자의 대응 방안 등을 중점적으로 다뤘다. 특히 계약...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2008475",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2008475",
+   "source": "m-i.kr",
+   "published": "2026-10-21T14:40+09:00",
+   "cat": "law",
+   "id": "1d1db866add2",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "김포골드라인 노동자들 \"민간위탁 중단하고 즉각 공영화해야\"",
+   "summary": "해당 노동자는 병원으로 이송돼 치료받았으며, 작업 당시 화학물질 취급 안전교육과 적절한 개인보호구가 제공되지 않았다는 주장이다. 박찬연 지부장은 전문업체가 수행해야 할 위험 작업을 현장 유지보수 노동자에게...",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510144",
+   "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510144",
+   "source": "worknworld.kctu.org",
+   "published": "2026-10-21T14:40+09:00",
+   "cat": "hlt",
+   "id": "3a30bd9355de",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[JOB리포트] 고용노동부, 동일가치노동 동일임금 법제화…‘직무급 전환...",
+   "summary": "18일 관계부처 등에 따르면 고용노동부는 오는 12월 동일가치노동 동일임금 실현 로드맵 발표를 목표로 전문가... 생산량처럼 수치로 드러나는 결과에는 높은 점수를 주면서 돌봄·상담의 부담이나 안전관리의 예방적 기여를...",
+   "url": "https://www.news2day.co.kr/article/20261021500169",
+   "orig": "https://www.news2day.co.kr/article/20261021500169",
+   "source": "뉴스투데이",
+   "published": "2026-10-21T14:38+09:00",
+   "cat": "law",
+   "id": "d56db91639df",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "HD현대플라스포 신공장서 중대재해 발생...부분 작업중지",
+   "summary": "작업자 1명이 개구부에서 아래로 추락해 사망했으며 추가적인 부상자는 없었다.숨진 작업자는 시험설비 설치 전문업체인 복산전기 소속이다. 해당 작업의 안전관리 주체는 HD현대플라스포였다.HD현대 측은 사고 경위에...",
+   "url": "https://www.insight.co.kr/news/578622",
+   "orig": "https://www.insight.co.kr/news/578622",
+   "source": "인사이트",
+   "published": "2026-10-21T14:36+09:00",
+   "cat": "sev",
+   "id": "a4a903465c3d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "안전 강조한 정기선 회장, 취임 1주년도 중대재해 사망사고로 '얼룩'",
    "summary": "시사위크=권정두 기자 올 들어 중대재해 사망사고가 잇따랐던 HD현대그룹에서 또 다시 사망사고가 발생했다. 안전을 특히 강조했던 정기선 회장의 취임 1주년마저 사망사고로 얼룩지게 된 모습이다. HD현대그룹...",
@@ -256,7 +542,20 @@
    "published": "2026-10-21T13:32+09:00",
    "cat": "tech",
    "id": "08cb58ce2fc1",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1020363",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1020363",
+     "title": "안전보건공단·농협은행, 농촌·중소도시 감정노동자 인권 보호 나서"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610211513224863be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610211513224863be44c0aacd_30",
+     "title": "안전보건공단·NH농협은행, 농촌·중소도시 감정노동자 인권 보호 맞손"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -282,7 +581,14 @@
    "published": "2026-10-21T13:14+09:00",
    "cat": "hlt",
    "id": "185cc16b9d6c",
-   "related": [],
+   "related": [
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106125",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106125",
+     "title": "대전 중구, 옥외작업 근로자 160명 심폐소생술 교육"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -843,6 +1149,12 @@
      "url": "https://www.newscj.com/news/articleView.html?idxno=3441912",
      "orig": "https://www.newscj.com/news/articleView.html?idxno=3441912",
      "title": "법 시행 5년 지났지만 여전히 중대재해 반복… 포스코이앤씨·현대건설..."
+    },
+    {
+     "source": "s-journal.co.kr",
+     "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=44681",
+     "orig": "https://www.s-journal.co.kr/news/articleView.html?idxno=44681",
+     "title": "법 시행 5년에도 계속되는 중대재해 …포스코이앤씨·현대건설 사망사고..."
     }
    ],
    "day": "2026-10-21",
@@ -2054,6 +2366,18 @@
      "url": "https://www.fntimes.com/html/view.php?ud=202610202131351767dd55077bc2_18",
      "orig": "https://www.fntimes.com/html/view.php?ud=202610202131351767dd55077bc2_18",
      "title": "서안성농협, ‘중대재해 배상책임보험 현판식’ 개최… 안전경영 강화"
+    },
+    {
+     "source": "jeonmae.co.kr",
+     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303840",
+     "orig": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303840",
+     "title": "양동농협, 중대재해 배상책임보험 현판식 개최…안전경영 강화"
+    },
+    {
+     "source": "aflnews.co.kr",
+     "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330074",
+     "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=330074",
+     "title": "마장농협 '중대재해 배상책임보험' 현판식"
     }
    ],
    "day": "2026-10-20",
