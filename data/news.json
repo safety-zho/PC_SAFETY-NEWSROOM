@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T18:30+09:00",
+ "updatedAt": "2026-10-22T08:31+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,426 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "5c08138d7dc7",
-   "title": "작년 이후 중대재해 3건 이상 기업 11곳…8곳이 건설사",
-   "url": "https://n.news.naver.com/mnews/article/001/0016390124?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 15
-  },
-  {
-   "id": "85246cb6e1d7",
-   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
-   "source": "헤럴드경제",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 7
-  },
-  {
-   "id": "72322b4b41f8",
-   "title": "작년 1월 이후 중대재해 발생 기업 99곳…포스코이앤씨·현대건설 최다",
-   "url": "https://n.news.naver.com/mnews/article/032/0003477563?sid=101",
-   "source": "경향신문",
-   "cat": "sev",
-   "day": "2026-10-21",
-   "count": 5
-  },
-  {
-   "id": "08cb58ce2fc1",
-   "title": "안전보건공단-NH농협은행, 농촌·중소도시 감정노동자 보호 협력",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
-   "source": "안전신문",
+   "id": "72bafd9a7553",
+   "title": "[인터뷰] 한국가스안전공사 조상현 신임 안전관리이사 \"업계와 소통·예...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127267",
+   "source": "가스신문",
    "cat": "tech",
-   "day": "2026-10-21",
-   "count": 4
+   "day": "2026-10-22",
+   "count": 1
   },
   {
-   "id": "185cc16b9d6c",
-   "title": "대전 중구, 옥외근로자 대상 심폐소생술 교육",
-   "url": "https://www.newstnt.com/news/articleView.html?idxno=724186",
-   "source": "newstnt.com",
+   "id": "8d5d7c2bfb10",
+   "title": "[한진 톺아보기] 노란봉투법·사망사고 겹악재…떠났던 '노무통' 다시 불...",
+   "url": "https://dealsite.co.kr/articles/170859",
+   "source": "dealsite.co.kr",
+   "cat": "sev",
+   "day": "2026-10-22",
+   "count": 1
+  },
+  {
+   "id": "03849532963d",
+   "title": "[장욱희의 중장년 취업에세이] 전역 군인, 군 경험 직무가치로 재구성하...",
+   "url": "https://www.newspim.com/news/view/20261021000296",
+   "source": "뉴스핌",
+   "cat": "law",
+   "day": "2026-10-22",
+   "count": 1
+  },
+  {
+   "id": "89750f098959",
+   "title": "[단독] 정부, 업무상 질병 '추정 원칙' 입법 추진",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237336",
+   "source": "매일노동뉴스",
    "cat": "hlt",
-   "day": "2026-10-21",
-   "count": 4
+   "day": "2026-10-22",
+   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[인터뷰] 한국가스안전공사 조상현 신임 안전관리이사 \"업계와 소통·예...",
+   "summary": "중심의 안전관리 강화와 기술 기반의 사고예방체계 구축을 제시했다. 1995년 공사에 입사해 30여년간 가스안전... 기반 안전관리도 강화할 계획이다. 이어, 온라인 불법 가스제품 단속과 스마트글라스·드론 등을 활용한...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127267",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127267",
+   "source": "가스신문",
+   "published": "2026-10-22T07:54+09:00",
+   "cat": "tech",
+   "id": "72bafd9a7553",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "부·울·경 건설기계 사고예방 세미나… 현장 안전관리 역량 강화",
+   "summary": "고용노동부 부산지방고용노동청과 안전보건공단 부산광역본부는 지난 21일 아르피나에서 건설현장 안전관리자 등을 대상으로 '부산권역 건설기계 사고예방 릴레이 세미나'를 개최했다. 이번 세미나는 인건비와 자재비...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005831776?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026102207163522882",
+   "source": "아시아경제",
+   "published": "2026-10-22T07:52+09:00",
+   "cat": "tech",
+   "id": "a23cd2fcd50c",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "[한진 톺아보기] 노란봉투법·사망사고 겹악재…떠났던 '노무통' 다시 불...",
+   "summary": "중 사망\"했다고 밝혔다. 그러면서 산업안전보건법상 중대재해 해당 여부는 불분명하다고 덧붙였다. 사건 후 석 달이 흘렀지만 수사 결과는 아직 나오지 않았다. 업무상 과실치사 여부는 경찰이, 산업안전보건법 및...",
+   "url": "https://dealsite.co.kr/articles/170859",
+   "orig": "https://dealsite.co.kr/articles/170859",
+   "source": "dealsite.co.kr",
+   "published": "2026-10-22T07:02+09:00",
+   "cat": "sev",
+   "id": "8d5d7c2bfb10",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "[장욱희의 중장년 취업에세이] 전역 군인, 군 경험 직무가치로 재구성하...",
+   "summary": "안전이나 재난대응 경험은 산업안전이나 재난관리 분야와 연결할 수 있다. 교육훈련 경험은 기업교육이나... 또한 대학생 취업 및 창업 교육, 고용노동부, 중소벤처기업부 정책연구를 수행하였으며 공공부문...",
+   "url": "https://www.newspim.com/news/view/20261021000296",
+   "orig": "https://www.newspim.com/news/view/20261021000296",
+   "source": "뉴스핌",
+   "published": "2026-10-22T07:00+09:00",
+   "cat": "law",
+   "id": "03849532963d",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "올해 제조업 사고사망자 132명…전년比 10.9%↑",
+   "summary": "업종별로는 건설업 사망자가 150명으로 28.6%(60명), 기타 업종이 84명으로 34.4%(44명) 감소했다. 고용노동부는 연말까지 고위험 사업장과 중대재해 반복 발생 기업에 대한 감독을 이어갈 계획이다. 특히 대형...",
+   "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51049",
+   "orig": "http://www.ferrotimes.com/news/articleView.html?idxno=51049",
+   "source": "ferrotimes.com",
+   "published": "2026-10-22T06:42+09:00",
+   "cat": "sev",
+   "id": "44b5f2dc2f06",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "또 끼임 사망사고 현대제철 \"전면 감독해야\"",
+   "summary": "분석에 따르면 현대제철은 이번 사고를 포함 2022년부터 5년간 7명의 노동자가 중대재해로 사망했다. 국회 기후에너지환경노동위원회 박해철 더불어민주당 의원이 노동부에서 받은 자료를 보면 현대제철은 같은 유형의...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237335",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237335",
+   "source": "매일노동뉴스",
+   "published": "2026-10-22T06:34+09:00",
+   "cat": "sev",
+   "id": "db2f107ecb70",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "[단독] 정부, 업무상 질병 '추정 원칙' 입법 추진",
+   "summary": "의학적으로 업무관련성이 증명된 질병만 산재로 인정하겠다는 의도여서 규범적 판단을 위축시킬 수 있다는 지적이 잇따랐다. 규범적 판단이란 업무상 질병이나 사망 인과관계를 의학적·자연과학적으로 명백히 증명하지...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237336",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237336",
+   "source": "매일노동뉴스",
+   "published": "2026-10-22T06:34+09:00",
+   "cat": "hlt",
+   "id": "89750f098959",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "[단독] \"납 쏘는 실탄사격장\" 2년 흘러도 여전히 '사각지대'",
+   "summary": "하지만 21일 <매일노동뉴스> 취재를 종합하면 실탄사격장은 사실상 고용노동부 관리·감독의 '사각지대'에... 류현철 노동부 산업안전보건본부장은 지난 19일 기자간담회에서 \"전국 150여개 납 취급 사업장을 철저히...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237324",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237324",
+   "source": "매일노동뉴스",
+   "published": "2026-10-22T06:34+09:00",
+   "cat": "law",
+   "id": "0a8a66a78ed8",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "지방정부 노동감독 권한으로 산재 제대로 예방하려면",
+   "summary": "▲ 유청희 한국노동안전보건연구소 집행위원장 지난 4월 노동감독관 직무집행법이 제정됨에 따라... 지방정부는 30명 미만 소규모 사업장의 노동시간·임금 등 노동권 침해, 산업재해 예방 감독 등에 책임을 맡게 된다....",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237348",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237348",
+   "source": "매일노동뉴스",
+   "published": "2026-10-22T06:34+09:00",
+   "cat": "law",
+   "id": "15d8e74ad741",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "삼호개발, 폐자원 순환경제 구축...친환경 건설문화 확산",
+   "summary": "삼호개발은 서울 코엑스에서 열린 ‘산업현장 폐자원 순환경제 협력 거버넌스 확대 업무협약식(사진)’에 참석해 한국산업안전보건공단과 사회적기업 우시산을 비롯한 공공기관, 건설기업, 지방자치단체 등과 협약을...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211625254260585",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610211625254260585",
+   "source": "대한경제",
+   "published": "2026-10-22T06:20+09:00",
+   "cat": "tech",
+   "id": "a1a590bb43ab",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "건설안전 '사전예방' 트렌드 확산, 'AI'가 이끈다",
+   "summary": "건설현장의 중대재해 예방 기술이 사고 발생 이후 요란하게 작동하던 '사후 알림' 체계에서 인공지능(AI)이... 세이프웨어는 고소 작업 근로자의 최대 사망 원인인 '추락 사고'를 원천 방어하는 신형 스마트 웨어러블...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52419",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52419",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-22T06:06+09:00",
+   "cat": "tech",
+   "id": "011da3097758",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "산안법 개정에 전문업계, '기대반 우려반'",
+   "summary": "산업안전보건법 개정으로 하도급공사의 안전관리비 확보와 공사기간 연장 근거가 강화됐지만, 과징금과 작업중지에 따른 전문건설업계의 부담도 커질 수 있다는 지적이 제기됐다. 지난 21일 대한건설정책연구원에 따르면...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52420",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52420",
+   "source": "kmecnews.co.kr",
+   "published": "2026-10-22T06:06+09:00",
+   "cat": "law",
+   "id": "811ef2d019d1",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "[사설] 반복되는 산업·건설 현장의 노동자 사망 줄일 수 없나",
+   "summary": "사설 충남지역 산업·건설 현장에서 노동자들의 안전사고 사망이 여전히 이어지고 있다. 지난 18일 당진... 지난 19일 충남도는 중대산업재해 예방 및 안전 일터 확산 선포식을 열었다. 충남 8개 시·군 100개 사업장과...",
+   "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238791",
+   "orig": "https://www.cctoday.co.kr/news/articleView.html?idxno=2238791",
+   "source": "충청투데이",
+   "published": "2026-10-22T06:02+09:00",
+   "cat": "sev",
+   "id": "82c916e18d3e",
+   "related": [],
+   "day": "2026-10-22",
+   "watch": []
+  },
+  {
+   "title": "광진구, '2026년 핼러윈 기간 다중운집인파 특별 안전관리대책' 시행......",
+   "summary": "공간의 안전을 함께 살필 계획이다. 또한 스마트정보과와 연계해 인파밀집감지 지능형 씨씨티비(CCTV) 25대와... 알려주는 기술이다. 이 시스템은 서울시 핼러윈 대비 AI 인파 관리 시스템을 구축하여 군중 밀집 지역의...",
+   "url": "https://www.cnbizm.com/news/articleView.html?idxno=318810",
+   "orig": "https://www.cnbizm.com/news/articleView.html?idxno=318810",
+   "source": "cnbizm.com",
+   "published": "2026-10-21T22:32+09:00",
+   "cat": "tech",
+   "id": "3bcb28a99785",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "삼양식품, 파리서 불닭 마케팅…농심·대상 신제품 확대",
+   "summary": "올 3월 한국산업안전보건공단의 '위험성평가 우수사업장' 인정을 받았고, 지난 5월에는 위험성평가 우수사례 지역 발표대회에서 중부지방고용노동청장상을 수상했다.",
+   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2340422",
+   "orig": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2340422",
+   "source": "webeconomy.co.kr",
+   "published": "2026-10-21T22:08+09:00",
+   "cat": "tech",
+   "id": "cfbf980dc1d3",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "S-OIL, 온산공장 정기보수 기간 현장 안전관리 강화",
+   "summary": "S-OIL은 21일 온산공장 정문과 후문에서 고용노동부 울산지청, 안전보건공단 울산지역본부와 함께 정기보수 현장 안전캠페인을 진행했다고 밝혔다. 이번 캠페인은 안전우선, 절차준수, 무재해 달성을 주제로 정기보수...",
+   "url": "https://www.ulsanpress.net/news/articleView.html?idxno=585170",
+   "orig": "https://www.ulsanpress.net/news/articleView.html?idxno=585170",
+   "source": "울산신문",
+   "published": "2026-10-21T21:42+09:00",
+   "cat": "tech",
+   "id": "3bf43e134862",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "중대재해법은 왔지만 안전 인력은 없다…중소기업의 딜레마",
+   "summary": "노동자가 일하다 사망하는 중대산업재해가 발생하면 경영책임자에게 법적 책임을 물을 수 있는 범위가 넓어졌지만, 소규모 사업장의 안전관리 여건은 여전히 취약하다는 지적이 나온다. 법이 요구하는...",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610212119291581cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610212119291581cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-21T21:24+09:00",
+   "cat": "law",
+   "id": "09e10c9cf232",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "안전 매뉴얼은 있는데…산재는 왜 반복되나",
+   "summary": "고용노동부가 발표한 2025년 재해조사 대상 사고사망자 통계에 따르면 지난해 산업재해 사고사망자는... 중대재해처벌법 시행 이후 기업들은 안전보건관리체계를 마련하고 관련 절차를 정비해 왔다. 그러나 제도의 존재...",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610212111479514cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610212111479514cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-21T21:20+09:00",
+   "cat": "law",
+   "id": "2086428c750a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "위험은 하청에, 책임은 어디에…중대재해법의 빈틈",
+   "summary": "2026년 8월에는 SK 계열사인 SK멀티유틸리티의 대표가 하청 노동자 사망사고와 관련한 중대재해처벌법 위반 혐의에 대해 무죄를 확정받았다. 재판에서는 사고 원인과 경영진의 예방조치 의무가 쟁점이 됐다....",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610212106051937cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610212106051937cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-21T21:12+09:00",
+   "cat": "law",
+   "id": "d2a0187d4f0c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "중대재해법에도 사망자 다시 늘었다…현장은 달라졌나",
+   "summary": "중대재해처벌법 시행 이후 사망자가 줄어든 시기가 있었지만 지난해 다시 증가했다. 이 통계만으로 법의 실패를 단정할 수는 없지만, 법 시행 자체를 산업재해 감소의 성과로 평가하기도 어렵다. 제도의 성패는 기업이...",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610212055353093cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610212055353093cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-21T21:02+09:00",
+   "cat": "sev",
+   "id": "fd39f0a7f330",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "아리셀 대표 징역 4년 확정…중대재해법, 경영책임의 경계 어디까지",
+   "summary": "중대재해처벌법상 경영책임자의 안전보건 확보 의무 위반은 인정됐지만, 대규모 인명 피해를 낳은... 사망자 상당수는 외국인 노동자였으며, 파견근로자도 다수 포함됐다. 화재가 발생한 뒤 작업자들이 신속하게 대피하지...",
+   "url": "https://www.hinews.co.kr/view.php?ud=202610212052252783cd8b879b3c_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=202610212052252783cd8b879b3c_48",
+   "source": "hinews.co.kr",
+   "published": "2026-10-21T20:56+09:00",
+   "cat": "law",
+   "id": "9d54e307b11d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[알쓸다정] \"안전관리 맡겼으니 책임 없다?\"... 대법원이 그어버린 선",
+   "summary": "핵심은 중대재해가 발생했을 때 현장 관리자가 아니라 기업의 최고 의사결정권자, 즉 경영책임자를 형사처벌할 수 있게 한 데 있다. 아리셀 화재는 50인 미만 사업장 확대 적용 이후 사망자 수가 가장 많은 사건으로, 법...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=882311",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=882311",
+   "source": "gokorea.kr",
+   "published": "2026-10-21T20:52+09:00",
+   "cat": "law",
+   "id": "876492d10d63",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"죽지 않고 일하고 싶다\"…생활폐기물 노동자들, 정부·지자체 직접교섭...",
+   "summary": "이영훈 민주일반연맹 비상대책위원장은 근로복지공단 자료를 근거로 2021년부터 올해 상반기까지 산재 사망이 인정된 환경미화원이 400명에 이른다고 밝혔다. 또한 2024년 기준 전국 228개 지자체 가운데 198곳이 3인 1조를...",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510150",
+   "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510150",
+   "source": "worknworld.kctu.org",
+   "published": "2026-10-21T20:38+09:00",
+   "cat": "law",
+   "id": "2e65b5440c56",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "‘폐쇄 위기’ 울산해바라기센터, 내년 7월까지 운영 연장… 산재병원 ...",
+   "summary": "울산시청은 해당 시점에 맞춰 센터를 근로복지공단 울산병원(산재병원)으로 옮기기 위해 관계 부처와 협의 중이나, 이전이 확정되지는 않은 상태다. 김상욱 울산시장은 21일 국회 행정안전위원회의 울산시 국정감사에서...",
+   "url": "https://n.news.naver.com/mnews/article/310/0000141026?sid=100",
+   "orig": "https://www.womennews.co.kr/news/articleView.html?idxno=283597",
+   "source": "womennews.co.kr",
+   "published": "2026-10-21T19:36+09:00",
+   "cat": "law",
+   "id": "069dec52fd19",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "울산경찰 ‘납배출 주사 의혹’ DN오토모티브 압수수색",
+   "summary": "앞서 고용노동부는 지난 8월 13일 특수건강진단 직전 킬레이션 투약 행위가 정부의 근로자 건강보호 조치를... 노동부는 앞선 안전보건감독에서 산업안전보건법 위반 68건을 적발해 입건·송치하고 과태료 4620만 원을...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001403537?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102119313162849",
+   "source": "부산일보",
+   "published": "2026-10-21T19:33+09:00",
+   "cat": "law",
+   "id": "86d9f329ebe0",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016392581?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261021169800057?input=1195m",
+     "title": "울산경찰, 노동자에 '납 배출 주사' 의혹 DN오토모티브 압수수색"
+    },
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003559561?sid=102",
+     "orig": "https://www.joongang.co.kr/article/25471698",
+     "title": "‘비타민’이라며 노동자에 납 배출 주사…DN오토모티브 압수수색"
+    },
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000075624",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000075624",
+     "title": "경찰, '납 배출 주사 은폐 의혹' DN오토모티브 압수수색"
+    }
+   ],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "32년 산업안전 외길…\"中企 안전, CEO가 직접 챙겨야\"",
+   "summary": "고용노동부의 지원을 받아 ‘산업안전 일경험 상생협력 아카데미’도 진행하고 있다. 이 총장은 “산업안전 분야에 관심 있는 청년이 사업장에서 실제 업무를 경험하도록 하는 프로그램”이라고 설명했다. 이...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005345130?sid=101",
+   "orig": "https://www.hankyung.com/article/2026102168191",
+   "source": "한국경제",
+   "published": "2026-10-21T18:39+09:00",
+   "cat": "law",
+   "id": "547e6c117dce",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대만 TSMC 공사장서 철골 구조물추락…노동자 4명 모두 숨져",
+   "summary": "대만 반도체 위탁생산 업체 TSMC의 신축 공사 현장에서 철골 구조물이 추락해 작업자 4명이 숨졌다. ET투데이... 끝내 사망했다. 이로써 이번 사고로 인한 사망자는 모두 4명으로 늘었다. 사망 근로자의 나이는 33~37세로...",
+   "url": "https://n.news.naver.com/mnews/article/076/0004458282?sid=102",
+   "orig": "https://www.sportschosun.com/life/2026-10-21/202610210100137650008975",
+   "source": "sportschosun.com",
+   "published": "2026-10-21T18:38+09:00",
+   "cat": "sev",
+   "id": "427e6e782b75",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "감정노동 보호에 금융 인센티브까지…안전보건공단·농협, 농촌·중소도...",
+   "summary": "한국산업안전보건공단과 NH농협은행은 21일 울산 남구 NH농협은행 울산중앙금융센터에서 '감정노동자 인권강화 캠페인'을 공동으로 진행했다. 이번 행사는 양 기관이 지난 7월 체결한 업무협약의 후속 조치이자...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204266",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204266",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-21T18:34+09:00",
+   "cat": "tech",
+   "id": "758279a77f0e",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "대한건설협회 “매출 3% 과징금 건설안전특별법, 인프라 건설 사실상 불...",
    "summary": "산업재해 사망사고 발생 기업에 영업이익의 최고 5% 과징금을 부과하는 산업안전보건법 개정안이 최근... 협회는 “여기에 중대재해처벌법, 산업안전보건법 등에 따른 과징금 부과 법안까지 현실화하면 사실상 대기업도...",
@@ -907,7 +1281,14 @@
    "published": "2026-10-21T15:06+09:00",
    "cat": "tech",
    "id": "96f668b4fec0",
-   "related": [],
+   "related": [
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482994",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2482994",
+     "title": "건양사이버대 산업안전소방학과, 취업·자격증 실무교육 강화"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -985,6 +1366,19 @@
    "published": "2026-10-21T14:44+09:00",
    "cat": "sev",
    "id": "a7c8aa6ee13a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "민변, '아리셀 참사' 11년 깎인 형량 확정에 \"사법 역사 치욕\"",
+   "summary": "민변은 \"이 사건은 중대재해처벌법 시행 이후 가장 큰 인명 피해가 발생한 사건이고 국민적 관심이 매우... 2021년 9월 대법원 2부(주심 천대엽 대법관)는 이 사건으로 기소된 삼성중공업 등의 산업안전보건법 위반 등 혐의...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014268993?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261021_0003835189",
+   "source": "뉴시스",
+   "published": "2026-10-21T14:44+09:00",
+   "cat": "sev",
+   "id": "0bd845eee356",
    "related": [],
    "day": "2026-10-21",
    "watch": []
@@ -1084,6 +1478,32 @@
      "title": "서부발전, 협력사 14곳과 공동 안전관리…작업중지권 620건"
     }
    ],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대제철, \"15년간 최소 30명 숨졌다\"…'죽음의 레이스' 언제까지",
+   "summary": "대표적인 사례가 2022년 3월 당진공장에서 발생한 사망사고다. 당시 50대 노동자가 고온의 도금 관련 설비에 추락해 숨졌으며, 현대제철은 중대재해처벌법 위반 혐의로 검찰에 송치된 것으로 보도됐다. 2024년 인천공장...",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=100761",
+   "orig": "https://www.upkoreanews.kr/news/articleView.html?idxno=100761",
+   "source": "upkoreanews.kr",
+   "published": "2026-10-21T14:26+09:00",
+   "cat": "sev",
+   "id": "c79d85210b4d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대아산, 협력사 직원 심정지 사망…안동 공사현장 작업 중 발생",
+   "summary": "노동당국이 작업중지 명령을 내린 가운데 경찰과 고용노동부가 사고 경위와 안전관리 실태를 조사하고 있다.... 현대아산은 지난 19일 대구지방고용노동청 안동지청으로부터 산업재해 또는 작업 중 질병 발생에 따른...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580305972455",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065580305972455",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-10-21T14:26+09:00",
+   "cat": "sev",
+   "id": "ae269758abb0",
+   "related": [],
    "day": "2026-10-21",
    "watch": []
   },
@@ -1220,6 +1640,12 @@
      "url": "https://www.asiatime.co.kr/article/20261021500329",
      "orig": "https://www.asiatime.co.kr/article/20261021500329",
      "title": "서부발전, 협력사 14곳과 공동 안전관리 강화"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=724854",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=724854",
+     "title": "서부발전, 14개 협력사와 공동 안전관리 체계 구축…산재 예방 총력"
     }
    ],
    "day": "2026-10-21",
@@ -1291,6 +1717,24 @@
      "url": "https://www.ekn.kr/web/view.php?key=20261021027419428",
      "orig": "https://www.ekn.kr/web/view.php?key=20261021027419428",
      "title": "안전보건공단·NH농협은행, 울산서 감정노동자 인권강화 캠페인 공동 진..."
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=342674",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=342674",
+     "title": "안전보건공단·NH농협은행, 감정노동자 인권 보호 '맞손'"
+    },
+    {
+     "source": "ujeil.com",
+     "url": "http://www.ujeil.com/news/articleView.html?idxno=393885",
+     "orig": "http://www.ujeil.com/news/articleView.html?idxno=393885",
+     "title": "산업안전보건공단-NH농협, 감정노동자 인권강화 홍보"
+    },
+    {
+     "source": "industrynews.co.kr",
+     "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87971",
+     "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=87971",
+     "title": "안전보건공단·농협은행, 감정노동자 인권 보호 맞손"
     }
    ],
    "day": "2026-10-21",
@@ -1663,7 +2107,20 @@
    "published": "2026-10-21T11:09+09:00",
    "cat": "tech",
    "id": "79508ef8f3ce",
-   "related": [],
+   "related": [
+    {
+     "source": "ujeil.com",
+     "url": "http://www.ujeil.com/news/articleView.html?idxno=393901",
+     "orig": "http://www.ujeil.com/news/articleView.html?idxno=393901",
+     "title": "'무재해 달성' S-OIL, 정기보수 기간 합동 안전캠페인"
+    },
+    {
+     "source": "경상일보",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070243",
+     "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070243",
+     "title": "\"무사고 정기보수 목표\" S-OIL, 합동 안전캠페인"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -2138,6 +2595,12 @@
      "url": "https://n.news.naver.com/mnews/article/366/0001199440?sid=100",
      "orig": "https://biz.chosun.com/policy/politics/assembly/2026/10/21/D2LHS2YPYZARNJA3A52ZQSKF7Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "title": "국힘 이종배, AI활용 산재위험 예측체계 구축법 발의"
+    },
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106249",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106249",
+     "title": "AI활용 산재위험 예측체계 구축 법제화 추진"
     }
    ],
    "day": "2026-10-21",
