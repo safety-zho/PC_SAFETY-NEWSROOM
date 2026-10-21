@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T17:33+09:00",
+ "updatedAt": "2026-10-21T18:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,6 +52,15 @@
    "count": 5
   },
   {
+   "id": "08cb58ce2fc1",
+   "title": "안전보건공단-NH농협은행, 농촌·중소도시 감정노동자 보호 협력",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
+   "source": "안전신문",
+   "cat": "tech",
+   "day": "2026-10-21",
+   "count": 4
+  },
+  {
    "id": "185cc16b9d6c",
    "title": "대전 중구, 옥외근로자 대상 심폐소생술 교육",
    "url": "https://www.newstnt.com/news/articleView.html?idxno=724186",
@@ -59,18 +68,152 @@
    "cat": "hlt",
    "day": "2026-10-21",
    "count": 4
-  },
-  {
-   "id": "a2c0c14ccdc2",
-   "title": "\"회사 경계 넘어 위험 공유\"…서부발전, 14개 협력사와 공동 안전관리 ...",
-   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
-   "source": "더페어",
-   "cat": "tech",
-   "day": "2026-10-21",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "대한건설협회 “매출 3% 과징금 건설안전특별법, 인프라 건설 사실상 불...",
+   "summary": "산업재해 사망사고 발생 기업에 영업이익의 최고 5% 과징금을 부과하는 산업안전보건법 개정안이 최근... 협회는 “여기에 중대재해처벌법, 산업안전보건법 등에 따른 과징금 부과 법안까지 현실화하면 사실상 대기업도...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001403526?sid=101",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102118193291786",
+   "source": "부산일보",
+   "published": "2026-10-21T18:24+09:00",
+   "cat": "law",
+   "id": "a8cb2a2966ef",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[기업하기 힘든 대한민국] 고강도 산재 과징금에 메가특구 52시간 제외 ...",
+   "summary": "이상이 사망한 경우 영업이익의 최대 5%를 과징금으로 부과할 수 있도록 하는 것이 핵심이다. 산업계에서는 처벌의 중첩에 대해 난색을 표하고 있다. 이미 중대재해처벌법과 산업안전보건법 등에 따라 형사처벌과...",
+   "url": "https://www.ajunews.com/view/20261021153517621",
+   "orig": "https://www.ajunews.com/view/20261021153517621",
+   "source": "아주경제",
+   "published": "2026-10-21T18:20+09:00",
+   "cat": "law",
+   "id": "f5d92b2f3a5d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "컨베이어벨트 끼어 숨진 20대 외국인.. \"중처법 위반\"",
+   "summary": "지난해 1월 원주의 한 석재공장에서 발생한20대 우즈베키스탄 유학생 끼임 사망사고와관련해 사업주의 중대재해처벌법 위반이확정됐습니다. 고용노동부가 공표한올 상반기 중대산업재해 발생 사실에 따르면,사고 당시...",
+   "url": "https://chmbc.co.kr/article/14104651",
+   "orig": "https://chmbc.co.kr/article/14104651",
+   "source": "chmbc.co.kr",
+   "published": "2026-10-21T18:16+09:00",
+   "cat": "sev",
+   "id": "8c305b5a18f8",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "울산산재사망노동자디지털기록관 개관…1천67명 기록",
+   "summary": "울산에서 산업재해 사고로 숨진 노동자 1천67명 기록을 모은 온라인 기록관이 문을 열었다. 울산산재사망노... 사업은 지역언론사 울산저널이 지역신문발전기금을 지원받아 민주노총 울산본부, 중대재해 없는...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016392437?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261021158100057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-21T18:13+09:00",
+   "cat": "sev",
+   "id": "5225271ab5f1",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"정의선이 책임자\"···현대제철 하청노동자 사망에 노조 반발",
+   "summary": "현대자동차그룹 본사 앞에서는 사망사고에 대한 책임을 촉구하는 집회가 진행됐으며, 금속노조는... 노조는 이번 사고를 포함해 2022년부터 올해까지 현대제철에서 중대재해로 숨진 노동자가 7명이라고 밝혔다. 끼임과...",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=264225",
+   "orig": "http://www.finomy.com/news/articleView.html?idxno=264225",
+   "source": "finomy.com",
+   "published": "2026-10-21T18:10+09:00",
+   "cat": "sev",
+   "id": "0239fcdddd40",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "노동부 진주지청 겨울 대비 집중점검 돌입",
+   "summary": "지난 3월 대전 자동차부품 공장 화재로 14명이 숨지고, 8월 충남 천안 제조업 공장 화재로 3명이 사망하는 등... 달라\"며 \"사업주는 근로자 안전을 최우선으로 삼아 화기 작업 관리, 인화성 물질 보관·표시, 정전기 방지 조치...",
+   "url": "http://www.gndomin.com/news/articleView.html?idxno=493599",
+   "orig": "http://www.gndomin.com/news/articleView.html?idxno=493599",
+   "source": "경남도민신문",
+   "published": "2026-10-21T18:10+09:00",
+   "cat": "law",
+   "id": "51d2aa67d824",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "한승구 건협 회장 “중소 건설사 진짜 어렵다…경영난 해소 위해 인프라...",
+   "summary": "산업안전보건법 개정안에 이어 건설안전특별법까지 산업재해에 따른 과징금 등 잇따르는 규제에 대해서는 건설산업을 위축시키고 정부의 신속한 주택공급을 가로막는 걸림돌이 될 수 있다며 우려를 표명했다. 한승구...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004673744?sid=101",
+   "orig": "https://www.sedaily.com/article/20104499?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-21T18:06+09:00",
+   "cat": "law",
+   "id": "8daf9acde2a9",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "서부발전, 협력사 14곳과 '안전동행'… 산업재해 예방 협력 강화",
+   "summary": "현행 산업안전보건법 제64조도 도급인과 협력사의 공동 안전관리 의무를 규정했다. 원청 사업자는 협력사와 안전보건 협의체를 구성하고 작업장을 점검해야 한다. 여러 업체의 작업이 겹쳐 화재·폭발 등의 위험이...",
+   "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=729676",
+   "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=729676",
+   "source": "the-biz.co.kr",
+   "published": "2026-10-21T17:54+09:00",
+   "cat": "tech",
+   "id": "ce2037da367d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "통영 HSG중공업 관계사 하청업체 이주노동자, 배관 청소 중 숨져",
+   "summary": "노동부는 사고 경위와 안전조치 이행 여부 등을 살피며 중대재해처벌법 위반 여부를 수사하고 있다. 경찰은 정확한 사망 원인을 밝히기 위해 부검을 의뢰했으며, 22일 진행할 예정이다. 통영경찰서 관계자는 \"명확한 사망...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2017587",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2017587",
+   "source": "경남도민일보",
+   "published": "2026-10-21T17:46+09:00",
+   "cat": "sev",
+   "id": "94484bb1f654",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "TSMC, 대만 가오슝 신축 공장서 근로자 4명 사망… 전국 철골 작업 중단",
+   "summary": "당국은 조사 결과에 따라 산업안전보건 관련 법률을 적용할 방침이다. 사고가 발생한 F22는 TSMC가 가오슝에 구축 중인 첨단 반도체 생산단지다. TSMC는 지난해 4분기 2나노미터(㎚·10억분의 1m) 공정 양산을 시작했으며...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001199469?sid=105",
+   "orig": "https://biz.chosun.com/it-science/ict/2026/10/21/BEYQEGSPDNHPZLPMLQRM3Q37EM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-21T17:38+09:00",
+   "cat": "sev",
+   "id": "f1f9a5791b93",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "이 대통령 산재 '예방적 제재' 입법 주문, 사망사고 없어도 안전조치 위...",
+   "summary": "지난 1일 국회를 통과한 산업안전보건법 개정안이 노동자 사망사고 발생을 전제로 영업이익에 연동된 과징금을 부과하는 것과 달리 추가 입법이 이뤄지면 사망사고 없이 안전조치 의무를 위반한 기업에도 과징금을...",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=449943",
+   "orig": "https://www.businesspost.co.kr/BP?command=article_view&num=449943",
+   "source": "비즈니스포스트",
+   "published": "2026-10-21T17:32+09:00",
+   "cat": "sev",
+   "id": "63843819401d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "3분기 광주·전남 산재사망 30명으로 감소",
    "summary": "올해 3분기(1~9월) 누적 광주·전남 지역 산업재해 사고사망자가 30명으로 지난해 같은 기간보다 14명(31.8... 고용부는 연말까지 감소 흐름을 굳히기 위해 고위험 사업장과 중대재해 반복 발생 기업에 대한 엄정한...",
@@ -275,7 +418,14 @@
    "published": "2026-10-21T16:26+09:00",
    "cat": "tech",
    "id": "605e5d75d3ab",
-   "related": [],
+   "related": [
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417187",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1417187",
+     "title": "서부발전, 협력사와 현장 맞춤형 공동 안전관리 체계 구축"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -470,6 +620,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=557123",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=557123",
      "title": "대한건설협회 \"매출액 3% 과징금, 주택 공급 위축 우려\""
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003691225?sid=101",
+     "orig": "https://www.seoul.co.kr/news/economy/estate/2026/10/21/20261021500297?wlog_tag3=naver",
+     "title": "건설협회 “‘매출 3% 과징금’ 건설안전법, 주택 공급·건설산업 위축..."
     }
    ],
    "day": "2026-10-21",
@@ -1129,6 +1285,12 @@
      "url": "http://www.beyondpost.co.kr/view.php?ud=202610211513224863be44c0aacd_30",
      "orig": "http://www.beyondpost.co.kr/view.php?ud=202610211513224863be44c0aacd_30",
      "title": "안전보건공단·NH농협은행, 농촌·중소도시 감정노동자 인권 보호 맞손"
+    },
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261021027419428",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261021027419428",
+     "title": "안전보건공단·NH농협은행, 울산서 감정노동자 인권강화 캠페인 공동 진..."
     }
    ],
    "day": "2026-10-21",
@@ -2046,6 +2208,12 @@
      "url": "https://www.viva100.com/article/20261021500604",
      "orig": "https://www.viva100.com/article/20261021500604",
      "title": "인천시설공단 검단근로자복합문화센터 개관 앞두고 노사합동 안전점검"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014269707?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261021_0003835660",
+     "title": "인천시설공단, 검단근로자문화센터 사전 안전점검…11월 개관"
     }
    ],
    "day": "2026-10-21",
