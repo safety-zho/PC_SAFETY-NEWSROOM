@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T10:34+09:00",
+ "updatedAt": "2026-10-21T11:28+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-21",
-   "count": 11
+   "count": 13
   },
   {
    "id": "72322b4b41f8",
@@ -39,6 +39,24 @@
    "url": "https://n.news.naver.com/mnews/article/032/0003477563?sid=101",
    "source": "경향신문",
    "cat": "sev",
+   "day": "2026-10-21",
+   "count": 5
+  },
+  {
+   "id": "5b642f7ca018",
+   "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
+   "source": "idjnews.kr",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 3
+  },
+  {
+   "id": "85246cb6e1d7",
+   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
    "day": "2026-10-21",
    "count": 3
   },
@@ -50,27 +68,230 @@
    "cat": "law",
    "day": "2026-10-21",
    "count": 2
-  },
-  {
-   "id": "5b642f7ca018",
-   "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
-   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
-   "source": "idjnews.kr",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 2
-  },
-  {
-   "id": "85246cb6e1d7",
-   "title": "중대재해 반복 보고 기업 11곳 중 8곳이 건설사…현대건설·포스코이앤...",
-   "url": "https://n.news.naver.com/mnews/article/016/0002712137?sid=101",
-   "source": "헤럴드경제",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "전기공사 실무·안전관리 지원...시공 단계부터 재해 예방",
+   "summary": "중소 전기공사업체에는 신청을 받아 안전보건경영시스템 컨설팅을 지원한다. 두 기관이 보유한 안전보건관리 프로그램과 기법도 공유, 업체별 여건에 맞는 안전관리 활동을 뒷받침할 방침이다. 교육과 컨설팅을...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229122",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229122",
+   "source": "에너지신문",
+   "published": "2026-10-21T11:26+09:00",
+   "cat": "tech",
+   "id": "3711c4cfd2ae",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[뉴스워커_어기구 의원] 노동자 폭염 막을 지원금 87억원 초과지급…1년...",
+   "summary": "21일 더불어민주당 어기구 의원이 고용노동부로부터 제출받은 자료에 따르면, 2020년부터 2025년까지... 온열질환 예방장비 지원사업은 영세사업장의 냉방 여건을 개선하기 위한 제도로, 한국산업안전보건공단이...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509697",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509697",
+   "source": "newsworker.co.kr",
+   "published": "2026-10-21T11:24+09:00",
+   "cat": "law",
+   "id": "180b348c6ef3",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대제철서 또 하청노동자 끼임 사망…금속노조 “5년간 7명 숨져”",
+   "summary": "금속노조에 따르면 현대제철에서는 2022년부터 올해까지 이번 사고를 포함해 노동자 7명이 중대재해로 사망했다. 특히 이번 사고는 현대제철과 4개 자회사 노사가 산업안전보건 관리체계 개선에 합의한 지 38일 만에...",
+   "url": "https://newscham.net/130073/",
+   "orig": "https://newscham.net/130073/",
+   "source": "newscham.net",
+   "published": "2026-10-21T11:20+09:00",
+   "cat": "sev",
+   "id": "7f9ca7cd5991",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "'중대재해처벌법 5년차' 반복되는 대형 사고…작년부터 11곳서 3건 이상...",
+   "summary": "HL D&I의 올해 사망 보고 2건은 조사 결과 개인질환에 따른 것으로 확인돼 내사 종결됐으며, KCC건설이 보고한 3건 또한 고용노동부 조사에서 모두 개인질병 사망으로 판단돼 중대재해 적용 대상에서 제외됐다. 단일...",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=87901",
+   "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=87901",
+   "source": "industrynews.co.kr",
+   "published": "2026-10-21T11:20+09:00",
+   "cat": "acc",
+   "id": "d6d51c2e765f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사, 디지털 기반 안전관리체계 전환 시동…전기공사협회와 ...",
+   "summary": "구체적으로는 시공업체를 대상으로 온라인 사용전점검 실무교육을 연 3회 운영하고, 중소 전기공사업체에는 신청할 경우 안전보건경영시스템 컨설팅을 지원할 계획이다. 이를 통해 시공 현장의 실무 역량을 높이고...",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106290",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106290",
+   "source": "e-platform.net",
+   "published": "2026-10-21T11:20+09:00",
+   "cat": "tech",
+   "id": "59b8c2e364de",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대한안전보건교육원, '2026 한국건설·안전박람회' 성료… \"안전교육 운...",
+   "summary": "고용노동부 등록 안전보건교육기관인 대한안전보건교육원(kshec.co.kr)은 2026년 10월 14일부터 16일까지 경기... 한국건설·안전박람회'에 참가해, 건설기업 맞춤형 산업안전보건교육 운영방안을 선보이며 행사를 성공적으로...",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335308",
+   "orig": "http://www.e2news.com/news/articleView.html?idxno=335308",
+   "source": "이투뉴스",
+   "published": "2026-10-21T11:18+09:00",
+   "cat": "tech",
+   "id": "e8b08b780f6c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[연중기획 / 저출산 초고령화 시대, 대한민국의 나아갈 길] 노인 일자리...",
+   "summary": "보육·교육·노인·장애인 시설 운영 및 지원, 노인적합형 전문 서비스(안전관리·환경보존·국민편의 지원... 고용노동부의 취업 서비스 고용24가 제공하는 중장년내일센터(https://www.elifeplan.or.kr)도 퇴직 예정자나 퇴직자...",
+   "url": "https://monthly.chosun.com/news/articleView.html?idxno=71726",
+   "orig": "https://monthly.chosun.com/news/articleView.html?idxno=71726",
+   "source": "조선일보",
+   "published": "2026-10-21T11:16+09:00",
+   "cat": "law",
+   "id": "6be82226fc2f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[단독] 사망사고 뒤 또 과태료…포스코 광양제철소 3년 연속 안전의무 ...",
+   "summary": "지난 13일 국회 기후에너지환경노동위원회 국정감사에서 김영훈 고용노동부 장관은 포스코이앤씨가 시공하는 신안산선 철도 건설 현장의 사망사고와 관련해 중대재해처벌법 등 관련법 위반 여부를 살펴 위법 사실이...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005751684?sid=102",
+   "orig": "https://www.mk.co.kr/article/12181546",
+   "source": "매일경제",
+   "published": "2026-10-21T11:15+09:00",
+   "cat": "sev",
+   "id": "a9b6d0a8f3a4",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "S-OIL, 정기보수 기간 '합동 안전캠페인'… 고용부·안전공단과 현장 점...",
+   "summary": "S-OIL은 21일 온산공장 정문과 후문에서 고용노동부 울산지청, 안전보건공단 울산지역본부와 합동 안전캠페인을 진행했다. 이번 캠페인은 정기보수(T＆I) 기간 발생할 수 있는 중대재해를 막기 위해 기획했다. 행사에는...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005831434?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026102111090116005",
+   "source": "아시아경제",
+   "published": "2026-10-21T11:09+09:00",
+   "cat": "tech",
+   "id": "79508ef8f3ce",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "임실군 민간기업 중대재해 예방 무료 안전컨설팅 나서",
+   "summary": "임실군이 관내 중소규모 사업장의 안전관리 비용 부담을 줄이고 산업재해를 예방하기 위해 찾아가는... 주요 지원은 안전보건관리체계 구축과 이행사항 안내를 비롯해 작업공정별 유해·위험요인 제거 및 개선하는...",
+   "url": "http://www.domin.co.kr/news/articleView.html?idxno=1572591",
+   "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1572591",
+   "source": "전북도민일보",
+   "published": "2026-10-21T11:08+09:00",
+   "cat": "hlt",
+   "id": "214d723f40bb",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[로컬 게시판] 에쓰오일, 고용노동부 울산지청 등과 정기보수 대비 합동...",
+   "summary": "에쓰오일은 21일 온산공장 정문과 후문에서 고용노동부 울산지청, 안전보건공단 울산지역본부 등과 함께 정기보수(T&I) 기간 중대재해 예방을 위한 합동 안전캠페인을 실시했다. 임직원 및 협력사 관계자 100여 명이...",
+   "url": "https://www.betanews.net/article/view/beta202610210091",
+   "orig": "https://www.betanews.net/article/view/beta202610210091",
+   "source": "betanews.net",
+   "published": "2026-10-21T11:04+09:00",
+   "cat": "tech",
+   "id": "241c029e5c45",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "인천시설공단, 노사 합동 현장점검…시민 이용 안전성 확인",
+   "summary": "인천시설공단은 20일 김재보 이사장과 노조 위원장, 명예산업안전감독관, 안전관리 전담 부서 직원 등이 참여한 가운데 검단근로자복합문화센터 현장점검을 진행했다. 이번 점검은 개관 전 시설의 안전기준 충족 여부와...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2008452",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2008452",
+   "source": "m-i.kr",
+   "published": "2026-10-21T11:02+09:00",
+   "cat": "law",
+   "id": "c11a82e06cb1",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "공주시, 공직자 대상 중대재해처벌법 특별교육 실시",
+   "summary": "이날 교육에서는 ▲중대재해처벌법 주요 내용 ▲도급·용역·위탁 사업의 법적 개념과 책임 ▲안전·보건 확보 의무 ▲산업재해 예방 조치 ▲관리감독자의 현업사업장 대응 방안 등이 집중적으로 다뤄졌다. 특히 계약...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719236",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=719236",
+   "source": "newstown.co.kr",
+   "published": "2026-10-21T11:01+09:00",
+   "cat": "law",
+   "id": "205c551c56a7",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "에쓰오일, 정기보수 현장 안전 강화…원하청 합동 안전캠페인",
+   "summary": "에쓰오일은 21일 울산 온산공장 정문과 후문에서 고용노동부 울산지청, 안전보건공단 울산지역본부와 함께 정기보수(T&I) 기간 중대재해 예방을 위한 합동 안전캠페인을 진행했다고 밝혔다. 캠페인은 안전우선, 절차준수...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016390822?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261021073300057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-21T10:58+09:00",
+   "cat": "tech",
+   "id": "2251a93b282d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "뜨겁게 싸우고 심마니 된 철의 노동자",
+   "summary": "적절히 대응도 못하고 임기만 채웠는데, 후임자가 결국 금속노조 재가입을 성사시켰다.” ―2026년 7월 에이치엘(HL)만도 경기 평택공장에서 20대 비정규직 노동자가 끼임 사고로 목숨을 잃었다. “정규직의 위험을...",
+   "url": "https://n.news.naver.com/mnews/article/036/0000054346?sid=102",
+   "orig": "https://h21.hani.co.kr/arti/society/society_general/60055.html",
+   "source": "한겨레",
+   "published": "2026-10-21T10:56+09:00",
+   "cat": "law",
+   "id": "87d830fb3e61",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "김민석, 원내에 법안처리 상황 보고 요청…\"신속 점검 필요성\"",
+   "summary": "앞서 이재명 대통령은 전날(20일) 청와대에서 열린 국무회의에서 고용노동부로부터 산업안전 관련 입법 속도가 느리다는 보고를 받고 한숨을 쉬며 \"갑갑하다\"고 토로한 바 있다. 김 대표는 이날 오전 당 유튜브 '민티07'에서...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009240939?sid=100",
+   "orig": "https://www.news1.kr/politics/assembly/6326984",
+   "source": "뉴스1",
+   "published": "2026-10-21T10:56+09:00",
+   "cat": "law",
+   "id": "2c7cfceaa396",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[인터뷰]박봉식 한국비계기술원 부원장",
+   "summary": "기술원은 산업안전보건법 제140조에 따른 위험작업 종사자를 대상으로 고용노동부 지정 기능습득 교육을 실시하고 있다. 비계·거푸집·흙막이 등 가설공사 작업자와 이동식 고소작업대·이동식크레인 조종자를 위한...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251085",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251085",
+   "source": "안전신문",
+   "published": "2026-10-21T10:38+09:00",
+   "cat": "tech",
+   "id": "e7a14d436963",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "중대재해법 시행 5년 차에도 사고 반복…건설업계 '최다'",
    "summary": "포스코이앤씨에서는 사망자 6명과 부상자 3명 등 총 9명의 사상자가 발생했다. 이 가운데 신안산선 공사 현장에서만 3건이 중대재해 건으로 보고됐다. 현대건설에서도 6건의 사고로 6명이 숨지고 1명이 다쳤다. 특히...",
@@ -249,6 +470,12 @@
      "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45674",
      "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45674",
      "title": "어기구 의원 \"노동자 폭염 막을 87억 샜는데…환수는 0원\""
+    },
+    {
+     "source": "뉴스클레임",
+     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079467",
+     "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3079467",
+     "title": "\"노동자 더위 막을 돈 87억원 샜는데… 환수액 0원\""
     }
    ],
    "day": "2026-10-21",
@@ -399,6 +626,12 @@
      "url": "https://n.news.naver.com/mnews/article/050/0000112185?sid=101",
      "orig": "https://magazine.hankyung.com/business/article/202610214984b",
      "title": "'건설사 저승사자'···중대재해 반복 보고 11곳 중 8곳 '건설'"
+    },
+    {
+     "source": "한국경제TV",
+     "url": "https://n.news.naver.com/mnews/article/215/0001269913?sid=101",
+     "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210045&t=NN",
+     "title": "목숨 앗아간 일터…중대재해 반복 11곳 중 8곳 '건설'"
     }
    ],
    "day": "2026-10-21",
@@ -477,6 +710,18 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000544004?sid=101",
      "orig": "https://news.tf.co.kr/read/economy/2378796.htm",
      "title": "중대재해 발생 기업 100곳 육박…포스코이앤씨·현대건설 6건 최다"
+    },
+    {
+     "source": "esgeconomy.com",
+     "url": "https://www.esgeconomy.com/news/articleView.html?idxno=17074",
+     "orig": "https://www.esgeconomy.com/news/articleView.html?idxno=17074",
+     "title": "포스코이앤씨·현대건설, 작년 이후 중대재해 사고 6건 '최다' 오명"
+    },
+    {
+     "source": "mdtoday.co.kr",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=619945",
+     "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=619945",
+     "title": "포스코이앤씨·현대건설, 중대재해 보고 '최다'"
     }
    ],
    "day": "2026-10-21",
@@ -707,6 +952,18 @@
      "url": "https://www.livebiz.today/news/articleView.html?idxno=205777",
      "orig": "https://www.livebiz.today/news/articleView.html?idxno=205777",
      "title": "작년 이후 중대재해 3건 이상 발생 건설사 8곳...현대건설·포스코이앤..."
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074137",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5074137",
+     "title": "작년 이후 중대재해 3건 이상 기업 11곳…건설사가 8곳"
+    },
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001403399?sid=101",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026102111073235228",
+     "title": "중대재해 반복 기업 11곳 중 8곳은 ‘건설사’"
     }
    ],
    "day": "2026-10-21",
@@ -1729,6 +1986,12 @@
      "url": "https://n.news.naver.com/mnews/article/015/0005344495?sid=101",
      "orig": "https://www.hankyung.com/article/202610203684O",
      "title": "K2 Safety '스마트 에어백 베스트', 2026 건설안전혁신상 수상"
+    },
+    {
+     "source": "kdpress.co.kr",
+     "url": "https://www.kdpress.co.kr/news/articleView.html?idxno=209410",
+     "orig": "https://www.kdpress.co.kr/news/articleView.html?idxno=209410",
+     "title": "K2 Safety, 저고도 작업 '스마트 에어백 베스트'로 건설안전혁신상 수상"
     }
    ],
    "day": "2026-10-20",
