@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T09:34+09:00",
+ "updatedAt": "2026-10-21T10:34+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,34 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-21",
-   "count": 8
+   "count": 11
+  },
+  {
+   "id": "72322b4b41f8",
+   "title": "작년 1월 이후 중대재해 발생 기업 99곳…포스코이앤씨·현대건설 최다",
+   "url": "https://n.news.naver.com/mnews/article/032/0003477563?sid=101",
+   "source": "경향신문",
+   "cat": "sev",
+   "day": "2026-10-21",
+   "count": 3
+  },
+  {
+   "id": "fa6011027a56",
+   "title": "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
+   "source": "아시아경제",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 2
+  },
+  {
+   "id": "5b642f7ca018",
+   "title": "당진 어기구 의원 \"노동자 더위 막을 돈 87억원 샜는데..환수액 0원\"",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303396",
+   "source": "idjnews.kr",
+   "cat": "law",
+   "day": "2026-10-21",
+   "count": 2
   },
   {
    "id": "85246cb6e1d7",
@@ -41,18 +68,100 @@
    "cat": "law",
    "day": "2026-10-21",
    "count": 2
-  },
-  {
-   "id": "5b3800c6603e",
-   "title": "현대아산 안동 현장 거푸집 작업 부분중지",
-   "url": "https://www.vegannews.co.kr/news/article.html?no=394850",
-   "source": "vegannews.co.kr",
-   "cat": "law",
-   "day": "2026-10-21",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "중대재해법 시행 5년 차에도 사고 반복…건설업계 '최다'",
+   "summary": "포스코이앤씨에서는 사망자 6명과 부상자 3명 등 총 9명의 사상자가 발생했다. 이 가운데 신안산선 공사 현장에서만 3건이 중대재해 건으로 보고됐다. 현대건설에서도 6건의 사고로 6명이 숨지고 1명이 다쳤다. 특히...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006392687?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03007766645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-21T10:24+09:00",
+   "cat": "acc",
+   "id": "802fe691352f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "법무법인 한강파트너스 창원, 중대산업재해 사건 대응 전문성 강화",
+   "summary": "2024년에는 대검찰청에서 중대산업재해 분야 우수검사로 선정됐으며, 중대재해처벌법 위반 사건을 수사·기소한 경험도 보유하고 있다. 한강파트너스는 중대재해 사건이 형사수사뿐 아니라 산업안전과 노동, 행정 등 여러...",
+   "url": "https://n.news.naver.com/mnews/article/243/0000104488?sid=101",
+   "orig": "https://economist.co.kr/article/view/ecn202610210008",
+   "source": "economist.co.kr",
+   "published": "2026-10-21T10:06+09:00",
+   "cat": "hlt",
+   "id": "237ca5600a1e",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "【데일리 ESG 정책 브리핑】EU 포장재 규제 지원·제조 AI 국제인증 확대",
+   "summary": "제조현장에서 인공지능 전환(M.AX)이 확대되면서 AI 시스템의 안전성과 신뢰성을 검증할 수 있는 시험... 고용노동부는 10월 20일 이 같은 내용의 산업재해 현황 잠정통계를 발표했다. 올해 3분기 누적 사고사망자 366명은...",
+   "url": "https://www.impacton.net/news/articleView.html?idxno=30335",
+   "orig": "https://www.impacton.net/news/articleView.html?idxno=30335",
+   "source": "impacton.net",
+   "published": "2026-10-21T10:02+09:00",
+   "cat": "tech",
+   "id": "17c34457e1e8",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "“사고 나도 또 난다”..중대재해 반복 주요 기업 살펴보니",
+   "summary": "반면, HL D&I와 KCC건설의 경우 보고된 사망 건수 중 일부 또는 전부가 고용노동부 조사 결과 개인질병에 따른 사망으로 판단돼 중대재해 대상에서 최종 제외되기도...",
+   "url": "http://www.breaknews.com/1244493",
+   "orig": "http://www.breaknews.com/1244493",
+   "source": "브레이크뉴스",
+   "published": "2026-10-21T10:00+09:00",
+   "cat": "acc",
+   "id": "53895a631f01",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[단독] 대통령도 산재 피해자인데...산재병원 의료장비는 '골골'",
+   "summary": "2023년 9월 민주당 대표 시절에는 단식으로 건강이 악화돼 직업병·산재 노동자 치료에 뿌리를 둔 녹색병원에 입원하기도 했다. 대통령 취임 이후에도 산업재해 예방과 노동자 생명 보호를 주요 과제로 강조해 왔다....",
+   "url": "https://n.news.naver.com/mnews/article/629/0000543979?sid=100",
+   "orig": "https://news.tf.co.kr/read/ptoday/2378686.htm",
+   "source": "tf.co.kr",
+   "published": "2026-10-21T10:00+09:00",
+   "cat": "hlt",
+   "id": "94fb24a1260d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "신현송 한국은행 총재 “원·달러 환율, 추가 하락 여지 있다” [이주의...",
+   "summary": "신 총재는 10월 12일 국회 재정경제기획위원회의 한국은행 국정감사에서 “지금 환율은 예전의 익숙한... 10월 13일 국회 김위상 의원실이 고용노동부와 근로복지공단에서 받은 자료에 따르면 산재보험 복수취득...",
+   "url": "https://n.news.naver.com/mnews/article/050/0000112191?sid=101",
+   "orig": "https://magazine.hankyung.com/business/article/202610140982b",
+   "source": "한국경제",
+   "published": "2026-10-21T09:57+09:00",
+   "cat": "law",
+   "id": "e06719ec4152",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "'대전만 급증'…산재사망자 줄었는데 대전은 5명→24명↑",
+   "summary": "임업 사망사고는 3분기 누적 기준 지난해 9명에서 3명으로 6명, 66.7% 줄었습니다. 정부는 연말까지 감소 추세를 굳히기 위해 고위험 사업장과 중대재해 반복 발생 기업의 사업장에 대한 엄중한 감독 기조를...",
+   "url": "https://www.tjb.co.kr/news05/bodo/view/id/105120",
+   "orig": "https://www.tjb.co.kr/news05/bodo/view/id/105120",
+   "source": "tjb.co.kr",
+   "published": "2026-10-21T09:40+09:00",
+   "cat": "sev",
+   "id": "6fd008b9593d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "맥도날드, 산재 재해자 3년 반 동안 664명…음식·숙박업 최다",
    "summary": "같은 기간 음식·숙박업 산재 사망자는 2023년 35명, 2024년 25명, 지난해 23명, 올해 상반기 21명 등 총 104명이었다. 사망자에는 업무상 사고뿐 아니라 질병으로 숨진 노동자와 사업장 밖 교통사고 사망자도...",
@@ -75,7 +184,14 @@
    "published": "2026-10-21T09:27+09:00",
    "cat": "law",
    "id": "fa6011027a56",
-   "related": [],
+   "related": [
+    {
+     "source": "천지일보",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3441912",
+     "orig": "https://www.newscj.com/news/articleView.html?idxno=3441912",
+     "title": "법 시행 5년 지났지만 여전히 중대재해 반복… 포스코이앤씨·현대건설..."
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -127,7 +243,14 @@
    "published": "2026-10-21T09:08+09:00",
    "cat": "law",
    "id": "5b642f7ca018",
-   "related": [],
+   "related": [
+    {
+     "source": "financialreview.co.kr",
+     "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45674",
+     "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45674",
+     "title": "어기구 의원 \"노동자 폭염 막을 87억 샜는데…환수는 0원\""
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -342,7 +465,20 @@
    "published": "2026-10-21T07:35+09:00",
    "cat": "sev",
    "id": "72322b4b41f8",
-   "related": [],
+   "related": [
+    {
+     "source": "smarttimes.co.kr",
+     "url": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49897",
+     "orig": "http://www.smarttimes.co.kr/news/articleView.html?idxno=49897",
+     "title": "현대건설·포스코이앤씨, 중대재해 보고 각 6건 '최다'"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000544004?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2378796.htm",
+     "title": "중대재해 발생 기업 100곳 육박…포스코이앤씨·현대건설 6건 최다"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -553,6 +689,24 @@
      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319345",
      "orig": "https://www.wolyo.co.kr/news/articleView.html?idxno=319345",
      "title": "지난해 1월 이후 중대재해 3건 이상 기업 11곳...8곳이 '건설사'"
+    },
+    {
+     "source": "newsfc.co.kr",
+     "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=81880",
+     "orig": "http://www.newsfc.co.kr/news/articleView.html?idxno=81880",
+     "title": "기업 11곳이 작년 이후 중대재해 3건이상 보고…8곳은 건설사"
+    },
+    {
+     "source": "아이뉴스24",
+     "url": "https://n.news.naver.com/mnews/article/031/0001067798?sid=101",
+     "orig": "http://www.inews24.com/view/2017184",
+     "title": "중대재해 3건 이상 기업 11곳…포스코이앤씨·현대건설 6건 '최다'"
+    },
+    {
+     "source": "livebiz.today",
+     "url": "https://www.livebiz.today/news/articleView.html?idxno=205777",
+     "orig": "https://www.livebiz.today/news/articleView.html?idxno=205777",
+     "title": "작년 이후 중대재해 3건 이상 발생 건설사 8곳...현대건설·포스코이앤..."
     }
    ],
    "day": "2026-10-21",
@@ -1991,6 +2145,12 @@
      "url": "https://www.jasm.co.kr/news/view/322340/?sc=Naver",
      "orig": "https://www.jasm.co.kr/news/view/322340/?sc=Naver",
      "title": "노동계, 아리셀 대표 징역 4년 확정에 \"중처법 무력화 판결\""
+    },
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=916066",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=916066",
+     "title": "민주노총 경기본부, 아리셀 대표 징역 4년 확정에 \"중대재해법 무력화\""
     }
    ],
    "day": "2026-10-20",
@@ -4607,6 +4767,12 @@
      "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510139",
      "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510139",
      "title": "'23명 사망' 아리셀 중대재해참사 대표, 징역 15년서 4년, 감형 확정"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001530303?sid=102",
+     "orig": "https://imnews.imbc.com/replay/2026/nwdesk/article/6859429_37004.html",
+     "title": "'23명 사망' 아리셀 대표, 결국 '징역 4년' 대폭 감형 확정"
     }
    ],
    "day": "2026-10-20",
