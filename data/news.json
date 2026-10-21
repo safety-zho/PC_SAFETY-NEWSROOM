@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T12:29+09:00",
+ "updatedAt": "2026-10-21T13:30+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "현대제철 당진제철소서 하청 노동자 또 사망…\"경영책임자 엄중 책임\"",
+   "summary": "원청의 안전관리 책임을 둘러싼 논란이 확산하고 있다. 반복되는 산업재해에도 불구하고 현장의 안전조치가... 위한 안전조치가 제대로 이행됐는지가 핵심 쟁점으로 떠올랐다. 고용노동부와 경찰은 작업 전 동력 차단과...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20219",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20219",
+   "source": "lawleader.co.kr",
+   "published": "2026-10-21T13:14+09:00",
+   "cat": "sev",
+   "id": "b61187eb47dd",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "대전 중구, 옥외근로자 대상 심폐소생술 교육",
+   "summary": "구는 AI를 활용한 정기위험성평가와 겨울철 산업안전보건점검·안전보건교육도 추진할 방침이다. 특수건강진단과 유해인자 작업환경측정 등을 통해 근무환경 관리도 이어갈 계획이다.",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=724186",
+   "orig": "https://www.newstnt.com/news/articleView.html?idxno=724186",
+   "source": "newstnt.com",
+   "published": "2026-10-21T13:14+09:00",
+   "cat": "hlt",
+   "id": "185cc16b9d6c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "음식·숙박업 산재 피해자 2년 연속 증가",
+   "summary": "산재 사망자도 이어졌다. 음식·숙박업 산재 사망자는 2023년 35명, 2024년 25명, 지난해 23명, 올해 상반기 21명으로 2023년 이후 모두 104명에 달했다. 기타 식료품 제조업 재해자는 2023년 881명에서 2024년 846명으로...",
+   "url": "https://www.naeil.com/news/read/605887?ref=naver",
+   "orig": "https://www.naeil.com/news/read/605887?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-10-21T13:04+09:00",
+   "cat": "law",
+   "id": "42d3673c8282",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대제철 당진제철소서 40대 협력업체 노동자 끼임 사고로 숨져",
+   "summary": "당진,당진신문,시대,현대제철,현대제철당진제철소,당진제철소,끼임사고,사망사고,협력업체노동자,하청노동자,일용직노동자,슬래그처리설비,산업재해,중대재해,중대재해처벌법,안전조치,고용노동부,노동안전,산재사망...",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=303409",
+   "orig": "https://www.idjnews.kr/news/articleView.html?idxno=303409",
+   "source": "idjnews.kr",
+   "published": "2026-10-21T12:58+09:00",
+   "cat": "sev",
+   "id": "c29249bac10f",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "귀와 눈을 모두 가진 세계 유일의 안전 플랫폼… 린솔 '세이프티 노바'...",
+   "summary": "올해 6월 1일부터 산업안전보건법에 따라 위험성 평가가 전 사업장에 적용되고 근로자 참여·결과 공유·기록... 안전관리 감독의 성격도 바뀌었다. 올해 고용노동부는 시정 중심 점검을 폐지하고 적발 시 즉시 제재로...",
+   "url": "https://kr.aving.net/news/articleView.html?idxno=1815830",
+   "orig": "https://kr.aving.net/news/articleView.html?idxno=1815830",
+   "source": "kr.aving.net",
+   "published": "2026-10-21T12:38+09:00",
+   "cat": "law",
+   "id": "84e317d74f55",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "대전 엠플러스병원, 근로복지공단 산재 보험 의료기관 지정",
    "summary": "이번 지정을 통해 엠플러스병원은 산업현장에서 발생하는 각종 근골격계 손상과 신경계 질환 등으로 치료가 필요한 산재 환자들에게 진료부터 재활에 이르는 의료서비스를 제공할 수 있게 됐다. 한편, 대전...",
