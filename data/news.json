@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-21T15:35+09:00",
+ "updatedAt": "2026-10-21T16:41+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-10-21",
-   "count": 13
+   "count": 14
   },
   {
    "id": "85246cb6e1d7",
@@ -40,7 +40,7 @@
    "source": "헤럴드경제",
    "cat": "law",
    "day": "2026-10-21",
-   "count": 5
+   "count": 6
   },
   {
    "id": "72322b4b41f8",
@@ -52,25 +52,383 @@
    "count": 5
   },
   {
-   "id": "08cb58ce2fc1",
-   "title": "안전보건공단-NH농협은행, 농촌·중소도시 감정노동자 보호 협력",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251116",
-   "source": "안전신문",
-   "cat": "tech",
+   "id": "185cc16b9d6c",
+   "title": "대전 중구, 옥외근로자 대상 심폐소생술 교육",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=724186",
+   "source": "newstnt.com",
+   "cat": "hlt",
    "day": "2026-10-21",
-   "count": 3
+   "count": 4
   },
   {
-   "id": "fa6011027a56",
-   "title": "법 시행 5년 지났지만 중대재해 반복…포스코이앤씨·현대건설 신고 최...",
-   "url": "https://n.news.naver.com/mnews/article/277/0005831304?sid=101",
-   "source": "아시아경제",
-   "cat": "law",
+   "id": "a2c0c14ccdc2",
+   "title": "\"회사 경계 넘어 위험 공유\"…서부발전, 14개 협력사와 공동 안전관리 ...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=91457",
+   "source": "더페어",
+   "cat": "tech",
    "day": "2026-10-21",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "인제군 일자리사업 참여자 안전보건교육 실시",
+   "summary": "교육 대상은 지역공동체일자리사업 35명, 행복일자리사업 10명, 자체일자리사업 128명 등 총 173명으로 ‘산업안전보건법’에 따른 정기 안전보건교육으로 진행됐다. 교육에는 한국산업안전보건공단 강사가 오후 2시부터...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001225334?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261021501294",
+   "source": "강원일보",
+   "published": "2026-10-21T16:30+09:00",
+   "cat": "tech",
+   "id": "eb047f535292",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[울산소식]S-OIL, 중대재해 예방 '합동 안전 캠페인' 등",
+   "summary": "S-OIL은 21일 울산 온산공장 정문과 후문에서 고용노동부 울산지청, 안전보건공단 울산본부 관계자 등 100여명이 참석한 가운데 정기보수(T&I) 기간 중대재해 예방을 위한 합동 안전 캠페인을 했다. 참석자들은 출근길...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014269520?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261021_0003834516",
+   "source": "뉴시스",
+   "published": "2026-10-21T16:30+09:00",
+   "cat": "tech",
+   "id": "29e193641237",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "HD현대일렉트릭 공사현장서 협력사 직원 사망…중대재해 조사",
+   "summary": "부산지방고용노동청 울산동부지청의 명령에 따라 일부 작업은 중지된 상태입니다. 한편 HD현대중공업은 올해 중대재해 4건을 보고했으며, 이로 인한 사망자는 4명으로 집계됐습니다.",
+   "url": "https://n.news.naver.com/mnews/article/374/0000539050?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000341332?division=NAVER",
+   "source": "SBS",
+   "published": "2026-10-21T16:28+09:00",
+   "cat": "sev",
+   "id": "ce7f41bfd266",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[공기업 브리핑] 서부발전, 태안서 공동 안전관리 체계 가동...한 현장 ...",
+   "summary": "서부발전은 21일 충남 태안발전본부에서 하반기 'CEO와 함께하는 안전동행'을 열었다. 경영진이 반기마다 사업소를 찾아 협력사·근로자 대표와 안전 현안을 논의하는 프로그램이다. 이상용 기술안전부사장과 협력사...",
+   "url": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816682",
+   "orig": "https://www.startuptoday.co.kr/news/articleView.html?idxno=816682",
+   "source": "startuptoday.co.kr",
+   "published": "2026-10-21T16:26+09:00",
+   "cat": "tech",
+   "id": "605e5d75d3ab",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "현대제철, 5년간 7명 숨져… 하청노동자 여전히 안전 사각지대",
+   "summary": "현대제철에서는 2022년 중대재해처벌법 시행 이후 노동자 7명이 숨졌다. 반복되는 참변에 죽음을 막을... 금속노조는 21일 오전 충남 대전지방고용노동청 천안지청 앞에서 기자회견을 열고 현대제철 하청노동자 사망...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000960815?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102116000002767?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-21T16:21+09:00",
+   "cat": "sev",
+   "id": "207e12277b38",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "건설협회 “산안법 중복 처벌 과도…주택공급 차질 우려”",
+   "summary": "권혁진 대한건설협회 상근부회장은 21일 서울 강남구에서 열린 기자 간담회에서 “이미 중대재해처벌법으로 건설업계가 심각하게 어려움을 겪고 있다”며 “이중 삼중으로 동일한 사망 사고에 대해 중복 처벌하는...",
+   "url": "https://n.news.naver.com/mnews/article/215/0001269971?sid=101",
+   "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610210149&t=NN",
+   "source": "한국경제TV",
+   "published": "2026-10-21T16:19+09:00",
+   "cat": "law",
+   "id": "8bbc4786bddb",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "안전법 겹겹이…한승구 \"건설사 못 버틴다\"",
+   "summary": "중대산업재해가 발생하면 사업주와 경영책임자에게 형사책임을 묻도록 규정하고 있다. 여기에 이달 1일 국회 본회의를 통과한 산업안전보건법 개정안은 안전·보건조치 의무 위반으로 1년간 근로자 3명이상이 사망하면...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007074",
+   "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261021010007074",
+   "source": "아시아투데이",
+   "published": "2026-10-21T16:16+09:00",
+   "cat": "law",
+   "id": "313b698cb17e",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[사설] 참사 재발 방지 취지 외면한 아리셀 판결",
+   "summary": "중대재해처벌법 판결상 최고형이었던 징역 15년형이 최종적으로 11년, 8년이나 줄어들었으니 비판이... 최근 고용노동부 통계에 따르면 화재와 폭발로 인한 산재 사망자가 늘어나는 추세다. 아리셀 화재참사는 리튬전지를...",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1334733",
+   "orig": "https://www.incheonilbo.com/news/articleView.html?idxno=1334733",
+   "source": "인천일보",
+   "published": "2026-10-21T16:16+09:00",
+   "cat": "sev",
+   "id": "5ba68d476fa3",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"김유정역과 김유정문학촌 영어 표기 달라 정비 필요\"",
+   "summary": "변용대 의원은 지난해 발생한 생활폐기물 수거 노동자 사망사고를 언급하며 \"주간작업이 원칙인데도 야간작업을 유지하는 이유가 무엇이냐\"고 질의했다. 이어 해당 사고의 산업재해 인정 여부와 중대재해처벌법 적용...",
+   "url": "https://n.news.naver.com/mnews/article/654/0000206664?sid=102",
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2079533",
+   "source": "강원도민일보",
+   "published": "2026-10-21T16:15+09:00",
+   "cat": "law",
+   "id": "e5c5bc2c3462",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "KBS 상담사 \"신체 훼손 협박받는 '공영방송 욕받이' 돼\"",
+   "summary": "김 위원은 kt is가 현행 산업안전보건법상 '고객응대근로자'인 상담사들을 보호하기 위한 사업자로서의... 제도가 실질적으로 이행되도록 관리·감독해야 할 책임이 누구에게 있는지 함께 물어야 한다\"고 했다.",
+   "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=318586",
+   "orig": "https://www.mediaus.co.kr/news/articleView.html?idxno=318586",
+   "source": "mediaus.co.kr",
+   "published": "2026-10-21T16:12+09:00",
+   "cat": "law",
+   "id": "7e030ccd1743",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "종합건설업 폐업 역대 최대…건설협회 “매출 3% 과징금, 135만호 공급 차...",
+   "summary": "대한건설협회는 “매출액의 3% 과징금은 상한액을 감안하더라도, 기업 재무건전성을 심각하게 훼손하고 대기업마저 감당하기 어려운 수준”이라며 “여기에 중대재해처벌법(해당 사업 매출액 2% 이내), 산업안전보건법...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002712528?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10910316?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-21T16:12+09:00",
+   "cat": "law",
+   "id": "18aaa7f6d411",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "“70년 넘은 ‘근로기준법 제11조’ 족쇄 풀고, 가사노동자 법‧제도적...",
+   "summary": "사회안전망, 그리고 사회적으로 소외되어 온 20만~30만 비공식 가사노동자의 보호를 위한 법‧제도 개선 및... 변호사, 고용노동부 노무제공지원과 허기훈 과장이 참석해 법 개정과 현장 지원 방안에 대한 논의를 펼쳤다.",
+   "url": "http://news.inochong.org/detail.php?number=6642&thread=22r07",
+   "orig": "http://news.inochong.org/detail.php?number=6642&thread=22r07",
+   "source": "inochong.org",
+   "published": "2026-10-21T16:10+09:00",
+   "cat": "law",
+   "id": "45731d28ca68",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "K방산, 글로벌시장서 날지만 국내선 추락중...지속가능성 시험대",
+   "summary": "일반 제조업과 마찬가지로 에너지 사용과 탄소배출, 공급망 관리가 중요하지만, 방산기업에는 윤리적인 계약 관행과 기술 안전성, 국가안보에 대한 책임, 이사회와 경영진의 책임성이 특히 중요하다. 첫째, 윤리경영과...",
+   "url": "https://www.esgeconomy.com/news/articleView.html?idxno=17083",
+   "orig": "https://www.esgeconomy.com/news/articleView.html?idxno=17083",
+   "source": "esgeconomy.com",
+   "published": "2026-10-21T16:10+09:00",
+   "cat": "acc",
+   "id": "db4a5ef3ae58",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "한승구 건협회장 “고사 직전 건설업계, '트리플 규제' 과도”",
+   "summary": "중대재해처벌법과 산업안전보건법에 따른 제재 부담이 있는 상황에서 안전관리 의무 위반으로 사망사고가 발생하면 매출액의 최대 3%(상한 1000억원)의 과징금을 부과하는 건설안전특별법안까지 논의되는 데 대한...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006393047?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=04444406645615216&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-21T16:06+09:00",
+   "cat": "law",
+   "id": "447f3ae5798a",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "한승구 건협회장 “산안법 개정안, 주택공급 위축 부를 것”",
+   "summary": "이어 최근 국회 문턱을 넘은 산업안전보건법(이하 산안법) 개정안에 대해서는 “정부의 주택공급 확대 정책에 역행하는 법안”이라며 재고를 촉구했다. 한승구 회장은 오늘(21일) 건설협회 출입기자단을 대상으로...",
+   "url": "https://news.mtn.co.kr/news-detail/2026102115581299482",
+   "orig": "https://news.mtn.co.kr/news-detail/2026102115581299482",
+   "source": "mtn.co.kr",
+   "published": "2026-10-21T16:02+09:00",
+   "cat": "law",
+   "id": "69b6e7ad8ebc",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "건양사이버대, 한국산업안전보건공단 채용 특강",
+   "summary": "한국산업안전보건공단은 산업재해 예방과 안전보건 관련 기술 지원 및 연구를 수행하기 위해 설립된 고용노동부 산하 준정부기관이다. 또 소방설비기사 실기 대비 특강도 실시됐다. 이번 교육은 건양대 재난안전소방학과...",
+   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416575",
+   "orig": "http://www.ccnnews.co.kr/news/articleView.html?idxno=416575",
+   "source": "ccnnews.co.kr",
+   "published": "2026-10-21T16:02+09:00",
+   "cat": "tech",
+   "id": "9b9462306e92",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "한승구 대한건설협회장 “지방 건설사들, 면허 반납까지 고민”",
+   "summary": "협회는 중대재해처벌법에 더해 산업안전보건법상 과징금과 건설안전특별법 제정이 추진되면서 업계... 이상이 사망하는 산업재해가 발생하면 해당 기업에 영업이익의 최대 5%를 과징금으로 부과할 수 있도록 했다....",
+   "url": "https://n.news.naver.com/mnews/article/366/0001199422?sid=101",
+   "orig": "https://biz.chosun.com/real_estate/real_estate_general/2026/10/21/ENXSE2PPCJCDJC6TM3DROLS6KY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-10-21T16:01+09:00",
+   "cat": "law",
+   "id": "4eb5e99effa8",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "건설협회 \"매출 3% 과징금 건설안전법 제정시 주택공급 어려워\"",
+   "summary": "\"기업 재무건전성 훼손 심각…견딜 수 있을 만큼의 규제 필요\" 산업재해 사망사고 발생 기업에 영업이익의... 협회는 \"여기에 중대재해처벌법, 산업안전보건법 등에 따른 과징금 부과 법안까지 현실화하면 사실상 대기업도...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016392092?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261021120800003?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "law",
+   "id": "6178e70bbd70",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "농협손보 경남총국, 일운농협 중대재해배상보험 가입식",
+   "summary": "NH농협손해보험 경남총국(총국장 공재현)은 일운농협 본점(조합장 이성균)에서 중대재해배상책임보험 가입... 한편 고용노동부 '2026년 3분기 산업재해 현황 부가통계-재해조사 대상 사망사고 발생 현황' 자료에 따르면...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014269447?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261021_0003835419",
+   "source": "뉴시스",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "law",
+   "id": "889531c10f09",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "건협 \"매출 3% 과징금 과도…135만가구 주택 공급 차질 우려\"",
+   "summary": "기존 중대재해처벌법과 산업안전보건법에 더해 추가 제재까지 도입되면 건설업계의 사업 위축은 물론... 해당 법안은 중대 사망사고 발생 시 매출액의 최대 3%에 해당하는 과징금을 부과하는 내용을 담고 있다. 건협은...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009242077?sid=101",
+   "orig": "https://www.news1.kr/realestate/general/6327317",
+   "source": "뉴스1",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "law",
+   "id": "91da8bbf0413",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "한승구 건협회장 \"건설업 밑바닥 안 움직여…현장 체감할 정책 필요\"",
+   "summary": "중대재해처벌법과 산업안전보건법에 이어 건설안전특별법까지 제재가 중첩될 경우 건설사의 경영 부담이... 이어 \"동일한 사망사고에 대해 이중·삼중으로 중복 처벌하는 것은 업계 입장에서는 받아들이기 어렵다\"고...",
+   "url": "https://www.newspim.com/news/view/20261021000886",
+   "orig": "https://www.newspim.com/news/view/20261021000886",
+   "source": "뉴스핌",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "law",
+   "id": "31433a1586d3",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[선임기자 칼럼]건설산업의 위기, 공사비 현실화와 합리적 제도 개선이...",
+   "summary": "개정 노동조합법과 관련해서는 원청의 하청 근로자 안전관리 활동이 노동조합법상 사용자성 판단에 영향을 미칠 수 있다는 우려가 나온다. 산업안전보건법 등에 따라 원청이 하청 근로자의 안전을 관리하는 것은 법적...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113819",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113819",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "law",
+   "id": "be563deaea89",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"AI로 도시 안전관리\"…인천경제청, 스마트시티 기반 확대",
+   "summary": "확충해 관제센터의 데이터 처리 성능과 운영 안정성을 높일 방침이다. 인천경제청은 맨홀 관리에도 사물인터넷(IoT) 기술을 적용하고, 교통 정보를 분석해 안전 관리에 활용하는 '스마트 교차로'도 확대할 예정이다.",
+   "url": "https://n.news.naver.com/mnews/article/001/0016392091?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261021129300065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-21T16:00+09:00",
+   "cat": "tech",
+   "id": "010ccb21863d",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 부산본부, ‘건설기계 사고 예방 세미나’ 성료",
+   "summary": "고용노동부 부산지방고용노동청(청장 이창길)과 안전보건공단 부산광역본부(본부장 정종득)는 21일 부산 해운대 아르피나에서 건설현장 안전관리자 등을 대상으로 ‘부산권역 건설기계 사고예방 릴레이 세미나’를...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001403469?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102115491983587",
+   "source": "부산일보",
+   "published": "2026-10-21T15:54+09:00",
+   "cat": "tech",
+   "id": "f2173184e4a3",
+   "related": [
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261021501158",
+     "orig": "https://www.viva100.com/article/20261021501158",
+     "title": "부산고용노동청·안전보건공단, 건설기계 사고예방 세미나 개최"
+    }
+   ],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "K-드라마 성공 뒤엔…스태프 ‘1주 최대 평균 70시간’ 혹사 노동",
+   "summary": "산업재해를 유발하는 핵심 요인이다. 고용노동부는 업무량이 1주일 안에 기존보다 30% 이상 늘거나 적응이 어려울 정도로 업무 강도가 높아지는 등의 변화를 ‘단기 과로’로 본다. 토론회에 참석한 최민 한국노동안전...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002828457?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/media/1283442.html",
+   "source": "한겨레",
+   "published": "2026-10-21T15:40+09:00",
+   "cat": "law",
+   "id": "1321757e9cbe",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "[기자수첩] 산재 사망자 ‘역대 최저’…안전한 일터 향한 의미 있는 변...",
+   "summary": "산재 사망자 366명이라는 숫자는 여전히 무겁다. 다만 지난해보다 사망자가 91명 줄었다는 점은 의미가 있다. 이 흐름이 앞으로도 이어져, 일터에서 목숨을 잃는 노동자가 한 명이라도 더 줄어들기를 기대한다.",
+   "url": "https://www.viva100.com/article/20261021500524",
+   "orig": "https://www.viva100.com/article/20261021500524",
+   "source": "브릿지경제",
+   "published": "2026-10-21T15:38+09:00",
+   "cat": "sev",
+   "id": "1abb4fa96f66",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"주계약자공동도급 상시화·산안법 후속 보완 시급\"",
+   "summary": "이번 호는 △산업동향 '주계약자 공동도급 현황 및 활성화 방안' △정책동향 '산업안전보건법 일부개정법률안의 주요 내용 및 시사점' △시장동향 '2027년 정부 SOC 예산안 분석과 건설시장 전망' 등 세 가지 주제로...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327058",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327058",
+   "source": "대한전문건설신문",
+   "published": "2026-10-21T15:34+09:00",
+   "cat": "law",
+   "id": "9aa4cd623c5c",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
   {
    "title": "2년 손발 묶인 LIG D&A⋯ 맞수 한화, 방산 수주판 쓸어담나",
    "summary": "이 때문에 지난 6월 대전사업장 폭발 사고(사망 5명)로 중대재해처벌법 및 산업안전보건법 위반 수사를 받는 한화에어로스페이스 또한 향후 입찰 제한 심의대에 오를 수도 있고, 징계가 가능성도 높은 편이다. 한화...",
@@ -93,6 +451,19 @@
    "published": "2026-10-21T15:32+09:00",
    "cat": "tech",
    "id": "417305839e8b",
+   "related": [],
+   "day": "2026-10-21",
+   "watch": []
+  },
+  {
+   "title": "\"일자리 만들고, 떠나지 않게 잡는다\"…광양시 고용정책 눈길",
+   "summary": "이번 정책의 핵심은 철강산업 고용위기 대응이다. 광양시는 지난 2월 고용노동부로부터 고용위기... 중장년층을 대상으로 전기기능사와 산업안전관리 등 재취업 교육을 실시하고, 신중년 사회공헌사업에도 85명이...",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=746424",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=746424",
+   "source": "폴리뉴스",
+   "published": "2026-10-21T15:32+09:00",
+   "cat": "law",
+   "id": "566460da9f51",
    "related": [],
    "day": "2026-10-21",
    "watch": []
@@ -379,7 +750,14 @@
    "published": "2026-10-21T14:26+09:00",
    "cat": "tech",
    "id": "e692e90e08b6",
-   "related": [],
+   "related": [
+    {
+     "source": "프라임경제",
+     "url": "http://www.newsprime.co.kr/news/article.html?no=751852",
+     "orig": "http://www.newsprime.co.kr/news/article.html?no=751852",
+     "title": "서부발전, 협력사 14곳과 공동 안전관리…작업중지권 620건"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -392,7 +770,14 @@
    "published": "2026-10-21T14:10+09:00",
    "cat": "tech",
    "id": "e180b0f6b651",
-   "related": [],
+   "related": [
+    {
+     "source": "충북일보",
+     "url": "https://www.inews365.com/news/article.html?no=940254",
+     "orig": "https://www.inews365.com/news/article.html?no=940254",
+     "title": "이종배, 'AI 활용 산재위험 예측체계 구축·지원법' 대표발의"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -489,6 +874,12 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874747",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=874747",
      "title": "서부발전, 협력사 14곳과 안전관리 협약"
+    },
+    {
+     "source": "asiatime.co.kr",
+     "url": "https://www.asiatime.co.kr/article/20261021500329",
+     "orig": "https://www.asiatime.co.kr/article/20261021500329",
+     "title": "서부발전, 협력사 14곳과 공동 안전관리 강화"
     }
    ],
    "day": "2026-10-21",
@@ -587,6 +978,18 @@
      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106125",
      "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1106125",
      "title": "대전 중구, 옥외작업 근로자 160명 심폐소생술 교육"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1417064",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1417064",
+     "title": "[대전중구소식] '옥외작업 근로자 심폐소생술 교육' 실시 외"
+    },
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=509777",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=509777",
+     "title": "대전 중구, '현장 응급대처 역량 강화'... 옥외근로자 160명 심폐소생술..."
     }
    ],
    "day": "2026-10-21",
@@ -986,6 +1389,12 @@
      "url": "https://www.m-economynews.com/news/article.html?no=71929",
      "orig": "https://www.m-economynews.com/news/article.html?no=71929",
      "title": "S-OIL, 정기보수 현장 안전 강화...원하청 합동 안전캠페인"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004201211?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6594936?utm_source=naver&utm_medium=article&utm_campaign=20261021035111",
+     "title": "에쓰오일, 정기보수 기간 중대재해 예방 합동 안전캠페인 실시"
     }
    ],
    "day": "2026-10-21",
@@ -1358,7 +1767,14 @@
    "published": "2026-10-21T08:38+09:00",
    "cat": "law",
    "id": "7bf6a87d1591",
-   "related": [],
+   "related": [
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001199440?sid=100",
+     "orig": "https://biz.chosun.com/policy/politics/assembly/2026/10/21/D2LHS2YPYZARNJA3A52ZQSKF7Y/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "국힘 이종배, AI활용 산재위험 예측체계 구축법 발의"
+    }
+   ],
    "day": "2026-10-21",
    "watch": []
   },
@@ -1395,6 +1811,12 @@
      "url": "https://www.cstimes.com/news/articleView.html?idxno=724774",
      "orig": "https://www.cstimes.com/news/articleView.html?idxno=724774",
      "title": "중대재해 보고 147건…반복 기업 11곳 중 건설사 8곳"
+    },
+    {
+     "source": "뉴시안",
+     "url": "http://www.newsian.co.kr/news/articleView.html?idxno=97453",
+     "orig": "http://www.newsian.co.kr/news/articleView.html?idxno=97453",
+     "title": "중대재해 끊이지 않는 기업 11곳…포스코이앤씨 등 8곳이 건설사"
     }
    ],
    "day": "2026-10-21",
@@ -1734,6 +2156,12 @@
      "url": "https://n.news.naver.com/mnews/article/082/0001403399?sid=101",
      "orig": "https://www.busan.com/view/busan/view.php?code=2026102111073235228",
      "title": "중대재해 반복 기업 11곳 중 8곳은 ‘건설사’"
+    },
+    {
+     "source": "koreastocknews.com",
+     "url": "http://www.koreastocknews.com/news/articleView.html?idxno=121855",
+     "orig": "http://www.koreastocknews.com/news/articleView.html?idxno=121855",
+     "title": "작년 이후 중대재해 3건 이상 기업 11곳, 건설은 포스코이앤씨·산업은..."
     }
    ],
    "day": "2026-10-21",
