@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-26T10:06+09:00",
+ "updatedAt": "2026-10-26T13:11+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-10-26",
-   "count": 4
+   "count": 5
+  },
+  {
+   "id": "63c28e397ea5",
+   "title": "남부발전, ‘천장크레인 중대재해 예방 AI 위험감지 로봇’ 개발 착수",
+   "url": "https://n.news.naver.com/mnews/article/092/0002442356?sid=105",
+   "source": "지디넷코리아",
+   "cat": "tech",
+   "day": "2026-10-26",
+   "count": 3
   },
   {
    "id": "55690eb4688b",
@@ -52,16 +61,414 @@
    "count": 3
   },
   {
-   "id": "b0acb836283c",
-   "title": "안전난간 없이 아파트 외벽 작업하다 추락사…업체 대표 징역형 집유",
-   "url": "https://n.news.naver.com/mnews/article/421/0009248882?sid=102",
-   "source": "뉴스1",
-   "cat": "acc",
+   "id": "143beb4971b3",
+   "title": "동서발전 음성발전본부, 'AI 안전보건관리계획서 작성 도우미' 개발",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1514375",
+   "source": "중부매일",
+   "cat": "tech",
    "day": "2026-10-26",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "김위상 \"태양광 공사 추락사 막아야\"",
+   "summary": "▲김위상 의원은 태양광 설비공사 산재 사망자 38명 중 95%가 추락사고로 숨졌고 올해 상반기에만 7명이 사망했다며 고위험 지붕 작업장에 대한 긴급 안전점검을 촉구했다.사진=의원실 태양광 설비공사 현장의...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3732547",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3732547",
+   "source": "국제뉴스",
+   "published": "2026-10-26T13:06+09:00",
+   "cat": "acc",
+   "id": "afb4599944b7",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "군산소방서, 건설현장 추락사고 대비 응급처치 교육 강화",
+   "summary": "추락사고는 외상이 겉으로 드러나지 않더라도 척추 손상 등 심각한 부상으로 이어질 수 있어 환자의 상태를... 이번 교육은 사고 발생 이후의 대응 능력을 높이는 동시에 근로자 스스로 작업장 내 위험요인을 인식하고...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=814715",
+   "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=814715",
+   "source": "jeollailbo.com",
+   "published": "2026-10-26T12:52+09:00",
+   "cat": "tech",
+   "id": "193c052a3a42",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "중대재해벌법도 대형 건설사 '특혜'?…거의 모두 '부분 작업중지'",
+   "summary": "반복적으로 사망사고를 내는 대기업들에게 100% 부분 중지 처분을 내리고 보름 남짓 만에 작업을 재개시켜주는 것은 노동부의 심각한 직무유기 내지 대기업 봐주기\"라고 강하게 질타했다. 이어 \"중대재해 이후의...",
+   "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125336",
+   "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125336",
+   "source": "newscape.co.kr",
+   "published": "2026-10-26T12:04+09:00",
+   "cat": "law",
+   "id": "561e4bb864d3",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "[단독] ‘대원안전 최우선’ 규정 무색… 소방공무원 안전관리 위반 532...",
+   "summary": "지난 16일 부천 오정구의 한 금속 사출 인쇄공장에서 화재가 발생했을 당시 현장 대원은 오전 8시 47분 3층 근로자들이 모두 대피했다고 전달한 데 이어, 1분 뒤 지휘부에 “안에 인화물질이 있는 것으로 추정된다”고...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002827839?sid=102",
+   "orig": "https://www.munhwa.com/article/11626256?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-26T11:57+09:00",
+   "cat": "acc",
+   "id": "aada2cfac81c",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "동서발전 음성발전본부, 'AI 안전보건관리계획서 작성 도우미' 개발",
+   "summary": "안전보건관리계획서는 협력사(수급인)가 공사 전에 작성해 제출하고, 발주처의 감독부서와 안전부서에서... 산업안전보건 관련 법령과 한국동서발전 사내 규정도 연계해 담당자가 관련 조항을 일일이 찾아볼 필요가...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1514375",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1514375",
+   "source": "중부매일",
+   "published": "2026-10-26T11:52+09:00",
+   "cat": "tech",
+   "id": "143beb4971b3",
+   "related": [
+    {
+     "source": "ccreview.co.kr",
+     "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=360873",
+     "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=360873",
+     "title": "음성발전본부, 'AI 안전보건관리계획서 작성 도우미' 개발"
+    }
+   ],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "박해철 의원 “중대재해 작업중지 대부분 ‘부분 중지’...대기업 해제...",
+   "summary": "반복적으로 사망사고를 내는 대기업에 대부분 부분 중지 처분을 내리고 짧은 기간 안에 작업을 재개하도록 하는 것은 대기업 봐주기가 아닌지 의문”이라고 지적했다. 이어 “중대재해 이후 작업중지 기간은...",
+   "url": "https://www.m-economynews.com/news/article.html?no=72109",
+   "orig": "https://www.m-economynews.com/news/article.html?no=72109",
+   "source": "m-economynews.com",
+   "published": "2026-10-26T11:46+09:00",
+   "cat": "law",
+   "id": "4ea912d63fa5",
+   "related": [
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1245633",
+     "orig": "http://www.breaknews.com/1245633",
+     "title": "박해철 의원 \"중대재해 작업중지 10건 중 9건 '부분 중지'…대기업엔 더..."
+    }
+   ],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "폐안전모 기부해 다시 '쓸모' 있게···KCC, 산업현장 자원순환 동참",
+   "summary": "산업안전보건법에 따라 추락 및 감전 위험 방지용 안전모는 안전인증 대상 보호구에 해당한다. 재생원료를 사용하더라도 해당 용도의 안전기준을 충족해야 한다는 의미다. 환경표지 인증은 같은 용도의 제품 중 자원...",
+   "url": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260206",
+   "orig": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=260206",
+   "source": "여성경제신문",
+   "published": "2026-10-26T11:42+09:00",
+   "cat": "tech",
+   "id": "c67708ccdefe",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "문금주 의원 \"생산자 직접 거래 수산물 출하대금 정산재원 마련해야\"",
+   "summary": "어업인의 경영 불안으로 이어질 수 있다는 지적이다. 문금주 의원은 \"농산부류와 달리 수산부류는 안정적인... 정산 안전장치를 조속히 마련해야 한다\"고 강조했다. 아울러 \"정산회사의 운영자금과 출하대금 지급 현황을...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=330344",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=330344",
+   "source": "aflnews.co.kr",
+   "published": "2026-10-26T11:34+09:00",
+   "cat": "law",
+   "id": "0219be11ea80",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "원전 PPA 요금 전가·태양광 추락사·산안위 위반 '도마'",
+   "summary": "국회 기후에너지환경노동위원회 소속 의원들이 원전 PPA(전력구매계약)의 부작용과 태양광 공사 현장의 산재 사망, 사업장 내 산업안전보건위원회 유명무실화를 지적하며 대책 마련을 촉구했다. ◆\"원전 PPA, 특정...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=373880",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=373880",
+   "source": "electimes.com",
+   "published": "2026-10-26T11:24+09:00",
+   "cat": "acc",
+   "id": "8c547480eb53",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "남부발전, ‘천장크레인 중대재해 예방 AI 위험감지 로봇’ 개발 착수",
+   "summary": "알리는 스마트 통합 안전관리 시스템을 개발한다. 특히 이번 시스템은 영상 기반 AI 기술을 적용해 포인트클라우드 데이터를 처리하는 라이다 방식 보다 적은 연산 자원으로 신속하게 검출 결과를 직관적으로 확인할 수...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002442356?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261026112031",
+   "source": "지디넷코리아",
+   "published": "2026-10-26T11:21+09:00",
+   "cat": "tech",
+   "id": "63c28e397ea5",
+   "related": [
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000545464?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2380668.htm",
+     "title": "남부발전·위드로봇, 천장크레이 중대재해 예방 과제 착수"
+    },
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003478630?sid=100",
+     "orig": "https://www.etnews.com/20261026000205",
+     "title": "남부발전, 중대재해 예방 'AI 위험감지 로봇' 개발 착수"
+    }
+   ],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "표선면, 기간제근로자 산업안전보건교육 실시",
+   "summary": "표선면(면장 오시열)은 지난 23일 면사무소 다목적실에서 환경분야 기간제근로자 70명을 대상으로 현장 안전사고 예방을 위한 산업안전보건교육을 실시했다. 이날 교육은 ▲응급 심정지 발생 시 대응 방법 및 심폐소생술...",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=427470",
+   "orig": "https://www.newsjeju.net/news/articleView.html?idxno=427470",
+   "source": "newsjeju.net",
+   "published": "2026-10-26T11:16+09:00",
+   "cat": "tech",
+   "id": "6f093b1005bc",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "안전퀴즈부터 건강상담까지…경기동부 안실단, 여주오곡나루 축제서 안...",
+   "summary": "경기동부 안실단에는 고용노동부 성남지청과 한국산업안전보건공단 경기동부지사, 관내 6개 지자체 등이 참여해 '원팀(One Team)'으로 지역의 자생적인 안전문화 조성에 힘을 모으고 있다. 행사장에 마련된 안전부스에서는...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202610261053366792be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=202610261053366792be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-10-26T11:04+09:00",
+   "cat": "law",
+   "id": "562ba3b2d552",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "건설업, 산업안전보건위 의무 위반 가장 많다",
+   "summary": "26일 국회 기후에너지환경노동위원회 더불어민주당 최기상 의원(서울 금천)이 고용노동부로부터 제출받은 자료에 따르면 2021년부터 2025년까지 산업안전보건위원회 관련 산업안전보건법 위반으로 부과된...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246822",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246822",
+   "source": "세이프타임즈",
+   "published": "2026-10-26T10:58+09:00",
+   "cat": "law",
+   "id": "8f5fab9a16fa",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "함안군, 지역 내 공장 및 창고 화재 안전 민관 합동 실태조사 추진",
+   "summary": "소방청, 고용노동부, 환경부 등 관계 부처가 함께 마련한 '공장·창고 화재안전 실태조사 추진계획'에 따라... 예방조치 △산업 및 화학 안전 분야: 위험물, 유해화학물질 저장 및 안전관리 준수 여부 등이다. 조사 결과와...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=581336",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=581336",
+   "source": "newsgn.com",
+   "published": "2026-10-26T10:58+09:00",
+   "cat": "acc",
+   "id": "08879f97f911",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "남부발전, 천장크레인 관련 중대재해 예방 위해 첨단 기술 개발한다",
+   "summary": "알리는 스마트 통합 안전관리 시스템을 개발한다. 특히 이번 시스템은 영상 기반 AI 기술을 적용하여 포인트클라우드 데이터를 처리하는 라이다(LiDAR) 방식 대비 적은 연산 자원으로 신속하게 검출 결과를 직관적으로...",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106410",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106410",
+   "source": "e-platform.net",
+   "published": "2026-10-26T10:58+09:00",
+   "cat": "tech",
+   "id": "c335a742bc22",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "태양광 공사 산재 사망 경북·대구가 1·2위",
+   "summary": "26일 국회 기후에너지환경노동위원회 소속 김위상 국민의힘 의원(비례)이 고용노동부로부터 제출받은 자료에 따르면, 2020년부터 2026년 상반기까지 태양광 설비공사 중 발생한 산재 사망자는 총 38명, 부상자는...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=726450",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=726450",
+   "source": "경북도민일보",
+   "published": "2026-10-26T10:54+09:00",
+   "cat": "sev",
+   "id": "714bd3db1c5b",
+   "related": [
+    {
+     "source": "idaegu.co.kr",
+     "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563344",
+     "orig": "https://www.idaegu.co.kr/news/articleView.html?idxno=563344",
+     "title": "김위상 \"태양광 공사 산재 사망 6년간 38명…대구·경북서만 12명 숨져\""
+    }
+   ],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "중대재해 작업중지 기간 단축 논란…대기업 평균 19일, 전체 사업장 절...",
+   "summary": "반복적으로 사망사고가 발생하는 대기업에 대부분 부분 작업중지 처분을 내리고 짧은 기간 안에 작업을 재개하도록 하는 것은 노동당국의 대기업 봐주기가 아닌지 의문\"이라고 지적했다. 이어 \"중대재해 이후 작업중지...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204378",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204378",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-26T10:50+09:00",
+   "cat": "law",
+   "id": "1ad1ca64a409",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "부산 도장업체서 11ｍ 추락사…대표 징역형 집행유예",
+   "summary": "▲ 부산지방법원 동부지원 과거 두 차례 사망사고가 발생한 부산의 한 도장업체에서 또다시 근로자가... 26일 법조계에 따르면 부산지법 동부지원 형사3단독 노행남 판사는 중대재해처벌법 위반과 산업안전보건법 위반...",
+   "url": "https://idsn.co.kr/news/view/1065574817534801",
+   "orig": "https://idsn.co.kr/news/view/1065574817534801",
+   "source": "idsn.co.kr",
+   "published": "2026-10-26T10:50+09:00",
+   "cat": "acc",
+   "id": "8b47f98e0ba8",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "대형 건설사들, 중대재해 영업정지에 '취소소송' 후 계속 수주",
+   "summary": "고용노동부가 산업안전보건법과 중대재해처벌법 위반 여부를 수사했지만, 아직 수사 결과가 확정되거나 영업정지 등 제재 처분이 내려지지 않아 수주 활동을 이어가고 있다. 포스코이앤씨는 전날 서울 동작구...",
+   "url": "https://www.kbsm.net/news/view.php?idx=538947",
+   "orig": "https://www.kbsm.net/news/view.php?idx=538947",
+   "source": "kbsm.net",
+   "published": "2026-10-26T10:44+09:00",
+   "cat": "law",
+   "id": "1cad4534d982",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "[단독] 중처법 시행 4.5년…실형 선고 법원은 단 5곳",
+   "summary": "‘중대재해 처벌 등에 관한 법률’ 제6조 제1항은 안전·보건 확보의무를 위반해 사망자가 발생하면 사업주나 경영책임자를 ‘1년 이상의 징역 또는 10억 원 이하의 벌금’에 처하도록 규정하고 있다. 제7조 제1호는...",
+   "url": "https://n.news.naver.com/mnews/article/215/0001270443?sid=100",
+   "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610260047&t=NN",
+   "source": "한국경제TV",
+   "published": "2026-10-26T10:41+09:00",
+   "cat": "sev",
+   "id": "09c29e42e4b3",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "[르포]\"시신 운구차에 남편 장화가…\" 지게차 참변에 유족들 울분",
+   "summary": "사망사고에 대해 제주동부경찰서에서 사건을 넘겨받는 대로 업무상 과실치사 혐의로 도내 모 화물운송업체 관계자를 수사할 예정이다. 광주지방고용노동청 제주산재예방감독팀도 산업안전보건법 위반과 중대재해처벌...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004202627?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6596866?utm_source=naver&utm_medium=article&utm_campaign=20261026104009",
+   "source": "노컷뉴스",
+   "published": "2026-10-26T10:41+09:00",
+   "cat": "sev",
+   "id": "fb3d572d2951",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "또, 또, 또 추락사 발생했는데…책임 부인한 대표는 집행유예",
+   "summary": "과거 두 차례 사망사고가 발생했던 부산의 한 도장업체에서 또 작업자가 추락해 숨지는 사고가 발생해 업체 대표가 징역형 집행유예를 선고받았다. 부산지법 동부지원 형사3단독 노행남 판사는 중대재해처벌법 위반...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004202624?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6596865?utm_source=naver&utm_medium=article&utm_campaign=20261026103609",
+   "source": "노컷뉴스",
+   "published": "2026-10-26T10:37+09:00",
+   "cat": "acc",
+   "id": "646e0ec57cd1",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "경기도, 12월 ‘지방노동감독관’ 시행 앞두고 무료 노무컨설팅",
+   "summary": "임금체불·근로조건·산업안전 법령 준수 여부를 점검하고 개선을 지도할 수 있게 된다. 앞서 도는 지난 7월 고용노동부와 노동감독 협업 협약을 체결했으며, 지방노동감독관 170명 충원과 전담 조직 신설을 추진 중이다....",
+   "url": "https://n.news.naver.com/mnews/article/022/0004169680?sid=102",
+   "orig": "https://www.segye.com/newsView/20261026505975?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-10-26T10:32+09:00",
+   "cat": "law",
+   "id": "afa91f15157b",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "태양광 설비공사 중 사망사고 6년간 38명 달해…95%가 추락사",
+   "summary": "국회 기후에너지환경노동위원회 소속 김위상 의원(국민의힘)이 고용노동부로부터 제출받은 자료에 따르면, 2020년부터 2026년 상반기까지 태양광 설비공사 중 산재 사망자는 총 38명, 부상자는 731명으로 집계됐다....",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106408",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106408",
+   "source": "e-platform.net",
+   "published": "2026-10-26T10:24+09:00",
+   "cat": "sev",
+   "id": "0488bb7fcbb8",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "[연재] 산업현장 안전에 미래 달렸다 – 배관 해체·설치 시 화재",
+   "summary": "부상자들은 동종 경력이 16년과 24년에 이르는 숙련자였다. 한국산업안전보건공단은 해당 사고가 설비... 아울러 공단은 화재 위험작업 전 관리감독자가 작업 준비와 절차를 수립하고 작업장 내 위험물 현황을 파악할 것을...",
+   "url": "http://www.snmnews.com/news/articleView.html?idxno=576388",
+   "orig": "http://www.snmnews.com/news/articleView.html?idxno=576388",
+   "source": "snmnews.com",
+   "published": "2026-10-26T10:16+09:00",
+   "cat": "acc",
+   "id": "76c12d1c367e",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "FITI시험연구원, 용접 방화포 불티관통 시험 서비스 개시",
+   "summary": "이번 서비스 확대는 화기 작업 시 성능인증을 받은 용접 방화포 사용을 의무화한 고용노동부 '산업안전보건기준에 관한 규칙' 개정에 맞춰 추진됐다. 개정 규칙에 따라 용접 방화포는 소방청 고시 '방화포의 성능인증 및...",
+   "url": "http://www.snmnews.com/news/articleView.html?idxno=576367",
+   "orig": "http://www.snmnews.com/news/articleView.html?idxno=576367",
+   "source": "snmnews.com",
+   "published": "2026-10-26T10:16+09:00",
+   "cat": "law",
+   "id": "8e3439883c4f",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "'근로자 또 추락사'…도장업체 대표, 중대재해처벌법 집유",
+   "summary": "추락 사망사고가 발생해 업체 대표가 징역형 집행유예를 선고받았다. 26일 법조계에 따르면 부산지법 동부지원 형사3단독 노행남 판사는 중대재해처벌법 위반(산업재해치사)과 산업안전보건법 위반, 업무상과실치사...",
+   "url": "https://www.ajunews.com/view/20261026084326849",
+   "orig": "https://www.ajunews.com/view/20261026084326849",
+   "source": "아주경제",
+   "published": "2026-10-26T10:12+09:00",
+   "cat": "acc",
+   "id": "dfd48527b5c9",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "한화오션엔지니어링·부산인력개발원·고용노동부 통영지청, 'Ocean QM DX ...",
+   "summary": "한화오션엔지니어링(대표 조부근)과 대한상공회의소 부산인력개발원(원장 조준원), 고용노동부통영지청... 24시간 안전관리 드론 시스템(SHIP:24)이다. 교육생들은 드론·영상·데이터 분석 등 다양한 디지털 기술을...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070540",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070540",
+   "source": "경상일보",
+   "published": "2026-10-26T10:10+09:00",
+   "cat": "law",
+   "id": "53f9e24d62fd",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
   {
    "title": "청년일자리 강소기업 등 200곳 한자리에…부산서 KB굿잡 채용박람회",
    "summary": "아주경제=김성서 기자 biblekim@ajunews.com 세종시 정부세종청사 11동 고용노동부. 2023.10.13[사진=유대길 기자... 이용한 산업안전 체험도 제공한다. 노동부는 이번 채용박람회가 청년 구직자들에게 역량 있는 중소...",
@@ -356,6 +763,12 @@
      "url": "https://www.naeil.com/news/read/606316?ref=naver",
      "orig": "https://www.naeil.com/news/read/606316?ref=naver",
      "title": "세차례 사망사고 난 도장업체 대표 집행유예"
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246817",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246817",
+     "title": "두 차례 '사망사고' 도장업체서 또 추락사 … 대표 '집행유예'"
     }
    ],
    "day": "2026-10-26",
@@ -728,7 +1141,14 @@
    "published": "2026-10-25T14:10+09:00",
    "cat": "sev",
    "id": "dcb47fb62b2d",
-   "related": [],
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016399890?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261026053000062?input=1195m",
+     "title": "속초시, 올해 산재 사망사고 '0건'…2년 연속 사망사고 없어"
+    }
+   ],
    "day": "2026-10-25",
    "watch": []
   },
