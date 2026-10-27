@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-27T13:30+09:00",
+ "updatedAt": "2026-10-27T19:18+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "아시아경제",
    "cat": "sev",
    "day": "2026-10-27",
-   "count": 10
+   "count": 15
   },
   {
    "id": "d704d66b3dc8",
@@ -39,6 +39,15 @@
    "url": "https://n.news.naver.com/mnews/article/001/0016401937?sid=102",
    "source": "연합뉴스",
    "cat": "sev",
+   "day": "2026-10-27",
+   "count": 13
+  },
+  {
+   "id": "153475fdc297",
+   "title": "김영훈 \"쿠팡 산재 은폐 의혹, 기소 못했지만 분명 잘못된 행위\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016403022?sid=101",
+   "source": "연합뉴스",
+   "cat": "law",
    "day": "2026-10-27",
    "count": 8
   },
@@ -59,18 +68,941 @@
    "cat": "acc",
    "day": "2026-10-27",
    "count": 5
-  },
-  {
-   "id": "5e65685618cf",
-   "title": "전재식 한신공영 대표, 시흥 현장서 근로자 뇌·심혈관질환 예방 점검",
-   "url": "https://www.mediapen.com/news/view/1132710",
-   "source": "미디어펜",
-   "cat": "tech",
-   "day": "2026-10-27",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "부당노동·산재·체불 책임자 없는 환노위…野김형동 \"왜 잣대가 다른가...",
+   "summary": "환노위 국정감사는 이날이 마지막으로, 끝내 책임자를 못 부른 것이다. 야당은 산재 기업 등에 대한 별도 청문회를 하자고 촉구했지만 현재로서는 열리지 않을 전망이다. 김 의원은 \"2026년도에도 국정감사에서 매우...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005432520?sid=100",
+   "orig": "https://www.mt.co.kr/politics/2026/10/27/2026102718205410886",
+   "source": "머니투데이",
+   "published": "2026-10-27T19:13+09:00",
+   "cat": "law",
+   "id": "0efbac28e9d9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[2026국감-환노위] 대통령은 '규제 합리화', 노동부는 '사회적 대화'…주...",
+   "summary": "한화 계열사서 4년여간 21명 사망…윤재옥 \"산재 대책 실효성 부족\" 산업재해 예방 대책의 실효성도 도마 위에 올랐다. 윤재옥 국민의힘 의원은 한화오션을 비롯한 한화그룹 계열사에서 반복적으로 중대재해가 발생한 점을...",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747030",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=747030",
+   "source": "폴리뉴스",
+   "published": "2026-10-27T18:35+09:00",
+   "cat": "law",
+   "id": "2b7c0e362b7c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "광주 근로자 10명 중 4명 이상 비정규직…청년·고령층서 '뚜렷'",
+   "summary": "산업별로는 숙박·음식점업이 69.7％로 가장 높았고 보건·사회복지서비스업 53.8％, 건설업 45.3％ 등이 뒤를 이었다. 주당 평균 노동시간은 정규직 41.89시간, 비정규직 28.68시간으로 전체 평균은 36....",
+   "url": "https://n.news.naver.com/mnews/article/001/0016404188?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261027176500054?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-27T18:35+09:00",
+   "cat": "hlt",
+   "id": "d8edf246828f",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "중노위도 현대차 원청 사용자성 ‘인정’…“식당ㆍ보안 산업안전에 지...",
+   "summary": "지난 3월 10일 개정 노동조합법(노란봉투법)이 시행되자 금속노조 현대그린푸드지회와 보안지회는 현대차를... 중노위는 산업안전보건에 대해 현대차가 실질적 지배력을 가진다고 봤다. 중노위는 \"현대차는 사내...",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39681",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=124&in_cate2=0&gopage=1&bi_pidx=39681",
+   "source": "worklaw.co.kr",
+   "published": "2026-10-27T18:16+09:00",
+   "cat": "law",
+   "id": "9f73cb85a364",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "쿠팡 산재은폐 처벌 공백에 '김범석 방지법' 추진…노동부 \"적극 검토\"",
+   "summary": "그러나 쿠팡의 경우 산재 사망 사실 자체는 신고했기 때문에 해당 조항에 따른 은폐 행위로 처벌하기 어렵다는 것이다. 서 의원은 \"재해 신고 이후 그 재해와 업무의 관련성을 입증할 자료를 조작하거나 없애는 행위에...",
+   "url": "https://news.cpbc.co.kr/article/1176599?division=NAVER",
+   "orig": "https://news.cpbc.co.kr/article/1176599?division=NAVER",
+   "source": "cpbc.co.kr",
+   "published": "2026-10-27T18:08+09:00",
+   "cat": "law",
+   "id": "49e421cf2054",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "\"주52시간 예외는 위헌\" 여당 의원도 지적… 노동장관 \"그런 주장 가능...",
+   "summary": "앞서 노동부는 쿠팡 계열사 기획감독과 노동자 장덕준씨 사망 사고 관련 산재 은폐 의혹 수사 결과를 22일 발표했다. 장씨는 2020년 쿠팡 물류센터에서 야간근무를 마치고 귀가한 뒤 숨졌다. 이에 대해 쿠팡이 산재를 입증할...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000962006?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102717060001310?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-27T17:57+09:00",
+   "cat": "law",
+   "id": "bb59f865a3a0",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "NH농협손해보험 대전총국, '중대재해 예방·안전경영 실천' 현판식 개최",
+   "summary": "NH농협손해보험 대전총국(총국장 이광원)은 지난 26일 대전원예농협(조합장 이윤천)에서 중대재해 예방과 안전경영 실천을 위한 현판식을 개최했다고 밝혔다. 이번 행사는 대전원예농협이 주요 사업장에 대한 전문적인...",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=725243",
+   "orig": "https://www.newstnt.com/news/articleView.html?idxno=725243",
+   "source": "newstnt.com",
+   "published": "2026-10-27T17:56+09:00",
+   "cat": "tech",
+   "id": "90031f75146a",
+   "related": [
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189468",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1189468",
+     "title": "대전원예농협, 중대재해 예방 안전경영 현판식"
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "메가특구 노동특례에 여야 압박…김영훈 \"사회적 대화로 해법\"(종합)",
+   "summary": "산재 감소 놓고 \"통계 착시\" 공방…직업병 대응 지연도 지적 산재 사망자 감소를 정책 성과로 평가할 수 있는지를 놓고도 공방이 벌어졌다. 노동부가 지난 20일 발표한 올해 3분기 누적 재해조사 대상 사고사망자는...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009253548?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6333833",
+   "source": "뉴스1",
+   "published": "2026-10-27T17:51+09:00",
+   "cat": "law",
+   "id": "511eaacc0218",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "정은경 “납 배출 주사제 ‘비급여 보고’ 항목 추가…과다 공급 행정조...",
+   "summary": "산업안전보건법에 따라 법이 정하는 유해인자에 노출되는 업무를 하는 노동자들은 특수건강진단을 실시해야 한다. 이날 국감에서는 특수건강진단 직전에 디엔오토모티브 노동자들에게 주사제 처방이 집중된 정황도...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002829414?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/health/1284419.html",
+   "source": "한겨레",
+   "published": "2026-10-27T17:44+09:00",
+   "cat": "hlt",
+   "id": "594371d417c9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동부 장관 \"LS전선 부당노동행위 인지...특별근로감독도 검토\"",
+   "summary": "또 산재 사망 감축과 마찬가지로 정당한 노조 활동 보장도 현 정부의 중요한 과제라고 밝히며, 노사 갈등이 조속히 해소될 수 있도록 사측에 전향적인 태도 변화를 요구했습니다.",
+   "url": "https://n.news.naver.com/mnews/article/052/0002424459?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202610271738434188",
+   "source": "YTN",
+   "published": "2026-10-27T17:38+09:00",
+   "cat": "law",
+   "id": "53f84f562c51",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[단독] 특별연장근로 사업장 ‘질병 산재’ 2배 많은 원인 밝힌다",
+   "summary": "이 때문에 서 의원은 같은 날 국정감사에서 “(질병 재해율을 보면) 노동부가 특별연장근로를 인가하는 게 사실상 노동자 산재를 인가해주는 것 아니냐는 지적을 받을 수 있다”며 특별연장근로 사업장의 산업재해와...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002829410?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1284414.html",
+   "source": "한겨레",
+   "published": "2026-10-27T17:38+09:00",
+   "cat": "law",
+   "id": "118aa3539118",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "하청의 작업중지권부터 과징금까지…산안법 다시 고친 이유",
+   "summary": "안전·보건 조치 의무를 위반해 다수의 사망자를 낸 사업주에게는 영업이익을 기준으로 과징금을 부과할... 안전관리가 미비한 사업장을 신고한 사람에게 포상금을 지급하는 방안을 검토하고, 산재 예방을 위한 상설...",
+   "url": "https://www.aitimes.com/news/articleView.html?idxno=216721",
+   "orig": "https://www.aitimes.com/news/articleView.html?idxno=216721",
+   "source": "aitimes.com",
+   "published": "2026-10-27T17:34+09:00",
+   "cat": "law",
+   "id": "7045e4ac8165",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "중처법 실형 선고 9건 중 3건이 울산",
+   "summary": "중대재해 처벌법 시행 이후 관련 법 위반 혐의로 실형을 선고받은 사례가 울산이 가장 많은 것으로 집계됐습니다. 국회 법사위 김동아 의원실이 법원행정처로부터 받은 자료에 따르면 중처법 시행 이후 울산에서는...",
+   "url": "https://www.usmbc.co.kr/NewsArticle/869754",
+   "orig": "https://www.usmbc.co.kr/NewsArticle/869754",
+   "source": "usmbc.co.kr",
+   "published": "2026-10-27T17:34+09:00",
+   "cat": "sev",
+   "id": "b08bcf0a2973",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김천 산업단지 근로자 안전의식 높인다…'2026 산업안전골든벨' 11월 18일...",
+   "summary": "배드민턴경기장 △대상 : 김천시 관내 산업단지 근로자 150명 △주최 : 김천시 △주관 : 경북일보 △후원 : 고용노동부 구미고용노동지청, 안전보건공단 경북지역본부, 경북경영자총협회, 김천상공회의소",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088678",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088678",
+   "source": "경북일보",
+   "published": "2026-10-27T17:34+09:00",
+   "cat": "law",
+   "id": "b1d4d09b8de3",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "중대재해처벌법 위반해 징역형 받아도 10명 중 9명은 집행유예 : 전국 1...",
+   "summary": "김동아 의원에 따르면, 대법원 양형위원회는 9월21일 중대재해 사망사고의 기본 형량을 징역 1년6월~4년으로 높이고 가중 시 최대 징역 15년까지 선고할 수 있게 하는 '중대재해범죄 양형기준안'을 심의했다. 그러나...",
+   "url": "https://www.huffingtonpost.kr/article/261571",
+   "orig": "https://www.huffingtonpost.kr/article/261571",
+   "source": "허프포스트코리아",
+   "published": "2026-10-27T17:26+09:00",
+   "cat": "sev",
+   "id": "7736a3940064",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "“현장을 바꾸는 큐사인” 이한빛 PD 10주기 추모제 열려",
+   "summary": "방송미디어 산업 종사자 등 140여 명이 참석하여 성황리에 진행되었다. 추모제를 시작하면서, 권오성... 추모영상에서는 김영훈 고용노동부 장관, 이명한 전 tvN 본부장과 세월호 유가족, 산재피해가족네트워크 다시는...",
+   "url": "https://sports.khan.co.kr/article/202610271719003?pt=nv",
+   "orig": "https://sports.khan.co.kr/article/202610271719003?pt=nv",
+   "source": "경향신문",
+   "published": "2026-10-27T17:20+09:00",
+   "cat": "law",
+   "id": "5ec43d1e5a00",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김주영 의원, 여성 산재 승인 격차 지적",
+   "summary": "근골격계질환 산재 승인율이 2021년 62.2%에서 올해 1분기 41.4%로 낮아졌다는 분석이 나왔다. 27일 김주영 더불어민주당 의원실에 따르면 김 의원과 노동건강연대가 함께 낸 국정감사 정책자료집은 고용노동부 통계를...",
+   "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=667015",
+   "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=667015",
+   "source": "kfenews.co.kr",
+   "published": "2026-10-27T17:20+09:00",
+   "cat": "law",
+   "id": "6c64f64f39e7",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[단독] 김포 이주노동자 사망사고, 12일째 영안실 떠나지 못한 시신",
+   "summary": "“고인의 사망 소식도 유족들에게 제때 알리지 않았다”고 비판했다. 이어 “위험한 일터에 다수의 이주노동자가 고용돼있고 이런 곳에서 유사한 방식의 중대 재해가 잇따르고 있는 만큼 노동당국도 책임을 피해갈 수...",
+   "url": "https://www.kyeongin.com/article/1773500",
+   "orig": "https://www.kyeongin.com/article/1773500",
+   "source": "경인일보",
+   "published": "2026-10-27T17:18+09:00",
+   "cat": "sev",
+   "id": "0f668c9339af",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "지역 사업장 직업성 질병 예방체계 강화 주력",
+   "summary": "이날 행사에는 고용노동부 산업안전보건본부와 대전지방고용노동청, 안전보건공단 대전세종광역본부를 비롯해 지역 특수건강진단기관과 작업환경측정기관 관계자, 사업장 보건관리자 등 약 90명이 참석했다....",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3014971",
+   "orig": "https://www.bosa.co.kr/news/articleView.html?idxno=3014971",
+   "source": "bosa.co.kr",
+   "published": "2026-10-27T17:14+09:00",
+   "cat": "hlt",
+   "id": "c291ba8cdc5d",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[이로운지적] 산재 사망 20% 줄었다?…반복사고·솜방망이 처벌은 '숙제...",
+   "summary": "이에 대법원 양형위원회는 지난달 21일 중대재해범죄 사망사고의 기본 형량을 징역 1년 6개월에서 4년으로 높이고 가중할 경우 최대 징역 15년까지 선고할 수 있도록 하는 양형기준안을 심의했다. 다만 현재까지 확정...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=93582",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=93582",
+   "source": "eroun.net",
+   "published": "2026-10-27T17:10+09:00",
+   "cat": "sev",
+   "id": "b67f51fd6ce3",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "野김소희 \"김영훈 친정 코레일, 공기업 산재 1위…당장 특별근로감독하...",
+   "summary": "김 의원은 27일 서울 여의도 국회에서 열린 기후에너지환경노동위원회(환노위) 국정감사에서 김영훈... 이어 \"이렇게 해서는 공기업 중 산재 1위 불명예 타이틀을 달고 있는 코레일의 산재 예방은 막을 수 없을 것 같다\"며...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005432437?sid=100",
+   "orig": "https://www.mt.co.kr/politics/2026/10/27/2026102716415968612",
+   "source": "머니투데이",
+   "published": "2026-10-27T16:57+09:00",
+   "cat": "law",
+   "id": "251b31c3c827",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "대전노동청-안전보건공단, 고객응대근로자 보호 캠페인 실시",
+   "summary": "27일 고객응대근로자 보호 캠페인에 참여한 고용노동부 대전지방고용노동청과 안전보건공단 대전세종광역본부 및 세종충남대학교병원 관계자들이 기념사진을 촬영하고 있다. (사진제공=안전보건공단 대전세종광역본부)...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917203",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=917203",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-10-27T16:46+09:00",
+   "cat": "tech",
+   "id": "ba871147cf47",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "HD현대, 후진적 안전관리 논란 속 사망자 8명…노동부 고강도 감독 실효...",
+   "summary": "지난 7월 HD현대중공업에서 끼임 사망사고가 연이어 발생해 고용노동부가 고강도 감독에 나섰지만, 최근 다른 계열사에서도 노동자가 추락해 숨졌다. 반복되는 중대재해에 그룹의 사고 예방 체계는 물론 정부 감독의...",
+   "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942354",
+   "orig": "https://sports.hankooki.com/news/articleView.html?idxno=6942354",
+   "source": "한국아이닷컴",
+   "published": "2026-10-27T16:40+09:00",
+   "cat": "sev",
+   "id": "3a6f6e711659",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김현중 안전보건공단 이사장, 노사관계 논문상 수상",
+   "summary": "한국산업안전보건공단은 김현중 이사장이 산업재해 예방을 위해 작성한 논문이 ‘제17회 근로평화상 및 노사관계 논문 공모 시상식’에서 당선작으로 선정됐다고 27일 밝혔다. 이번 공모는 중앙노동경제연구원과...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271622561990398",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271622561990398",
+   "source": "대한경제",
+   "published": "2026-10-27T16:40+09:00",
+   "cat": "tech",
+   "id": "840f60187e68",
+   "related": [
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261027501186",
+     "orig": "https://www.viva100.com/article/20261027501186",
+     "title": "김현중 안전보건공단 이사장, 노동자 참여형 안전문화 연구로 논문상 수..."
+    },
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229291",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229291",
+     "title": "김현중 안전보건공단 이사장, 노동자 참여형 안전문화 논문상 수상"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610271704397979be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610271704397979be44c0aacd_30",
+     "title": "\"노동자 위험 침묵 깨야\"…안전보건공단 김현중 이사장, 노사관계 부문..."
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "\"제조안전도 AI 시대\"…섬산련, 글로벌 공급망 대응 강화",
+   "summary": "한국산업안전보건공단은 '섬유 제조현장 위험성평가 및 안전관리 방안'을 주제로 산업재해 예방을 위한 현장 관리체계를 소개한다. 켐셈은 '글로벌 공급망 ESG 요구와 제조안전·리스크 관리'를 통해 글로벌 브랜드의...",
+   "url": "http://www.ktnews.com/news/articleView.html?idxno=149704",
+   "orig": "http://www.ktnews.com/news/articleView.html?idxno=149704",
+   "source": "ktnews.com",
+   "published": "2026-10-27T16:40+09:00",
+   "cat": "tech",
+   "id": "c74bf146bdf2",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "울산 동구, KCC공장서 '유독물질 폭발' 가정 안전훈련 실시",
+   "summary": "고용노동부와 한국산업안전보건공단, KCC 울산공장 관계자들도 위기 대응 현장 행동 매뉴얼의 실효성을 점검했다. 참가자들은 초기 상황 전파 및 지휘·통제, 화재 진압 및 유독물질 방제, 주민 대피 안내, 인명 구조 및...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009253388?sid=102",
+   "orig": "https://www.news1.kr/local/ulsan/6333679",
+   "source": "뉴스1",
+   "published": "2026-10-27T16:39+09:00",
+   "cat": "tech",
+   "id": "6c6057a06f80",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "납 빼는 주사’ 맞은 노동자 217명…DN오토모티브, 안전법 위반 88건까지",
+   "summary": "대규모 제조기업에서 노동자들이 높은 수준의 납에 노출되고, 이를 관리하는 과정에서 약물 투여까지 이뤄졌다는 사실은 기업의 산업안전 관리체계에 근본적인 의문을 던진다. 고용노동부는 관련 의혹에 대한 조사에...",
+   "url": "https://wemakenews.co.kr/news/view.php?no=26506",
+   "orig": "https://wemakenews.co.kr/news/view.php?no=26506",
+   "source": "wemakenews.co.kr",
+   "published": "2026-10-27T16:38+09:00",
+   "cat": "acc",
+   "id": "a84cf12bf76f",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "野 \"산재 감소, 통계 착시\"…김영훈 \"노동자 목숨으로 속이겠나\"",
+   "summary": "같은 기간 제조업 사망사고 건수는 115건에서 113건으로 줄어 사망자 수와는 다른 흐름을 보였다. 김 장관은 중대재해처벌법 시행에도 사고를 줄이지 못했다는 비판을 \"뼈아프게 듣겠다\"고 말했다. 다만 아리셀 사고 관련...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009253378?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6333689",
+   "source": "뉴스1",
+   "published": "2026-10-27T16:36+09:00",
+   "cat": "sev",
+   "id": "aebec04e53c6",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "\"보이지 않는 직업병 찾아라\"…충북대병원, 근로자 건강 안전망 강화",
+   "summary": "이날 행사에는 고용노동부 산업안전보건본부와 대전지방고용노동청, 안전보건공단 대전세종광역본부를 비롯해 지역 특수건강진단기관과 작업환경측정기관 관계자, 사업장 보건관리자 등 약 90명이 참석했다. 이번...",
+   "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=361085",
+   "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=361085",
+   "source": "ccreview.co.kr",
+   "published": "2026-10-27T16:30+09:00",
+   "cat": "hlt",
+   "id": "8f8d40c9ea60",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "폭발적 성장 속 이례적 경고⋯앤스로픽 IPO의 역설",
+   "summary": "AI 산업에 대한 기대와 우려가 공존하는 가운데 시장은 회사가 공개한 증권신고서에 주목했다. 26일... 그러면서도 적절한 안전장치 없이 개발ㆍ운영될 경우 인류에 ‘재앙적이거나 존재 자체를 위협하는 위험’을...",
+   "url": "https://www.etoday.co.kr/news/view/2640718",
+   "orig": "https://www.etoday.co.kr/news/view/2640718",
+   "source": "이투데이",
+   "published": "2026-10-27T16:26+09:00",
+   "cat": "acc",
+   "id": "48dd56fa1e9a",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동자 반복 사망 땐 ‘영업이익 5%’ 과징금… 위험 우려만 돼도 작업...",
+   "summary": "중대재해 발생 전 위험에 선제적으로 대응하겠다는 취지다. 사망사고가 반복되는 사업장의 등록을 말소하거나 취소하도록 관계 행정기관에 요청할 수 있는 근거도 마련됐다. 안전·보건조치 위반으로 동시에 2명 이상이...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000961962?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102711170000511?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-27T16:23+09:00",
+   "cat": "sev",
+   "id": "cfe280d062b4",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] '납 수치 세탁' 의혹 킬레이션 주사…13만 개 비급여 유통에...",
+   "summary": "노동자의 직업병을 숨기는 데 쓰였다는 의혹을 받는 중금속 배출 주사 '킬레이션'을 놓고 27일 국회... 남 의원은 \"작업환경 개선에는 수십억 원이 드니 회당 8만 원짜리 주사로 노동자 납 수치를 낮춰 직업병 위험을...",
+   "url": "https://www.apsk.co.kr/news/articleView.html?idxno=540878",
+   "orig": "https://www.apsk.co.kr/news/articleView.html?idxno=540878",
+   "source": "apsk.co.kr",
+   "published": "2026-10-27T16:12+09:00",
+   "cat": "law",
+   "id": "288d26101520",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "대한주택관리사협회, ‘2026 서비스분야(건물관리업) 산재예방 감축방안...",
+   "summary": "이승욱 안전보건공단 광역사고조사센터장이 좌장을 맡아 진행한다. 백은미 한국안전보건단체총연합회 회장과 김상현 동양대 교수가 발제자로 참여하며, 박종렬 대한주택관리사협회 안전문화실장, 고광재 을지대학교...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271130289790318",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271130289790318",
+   "source": "대한경제",
+   "published": "2026-10-27T16:02+09:00",
+   "cat": "tech",
+   "id": "edd12f81a751",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "年 3명 산재 사망 땐 영업익 5% 과징금 내년 시행... 산업계 초긴장",
+   "summary": "뉴시스 다수 사망자가 발생하거나 비슷한 사망사고가 반복되는 사업장에 영업이익의 5%까지 과징금을... 개정과 중대재해처벌법 제정 등 사업주 처벌 강화 입법이 이어졌지만 사후처벌 정책 효과는 제한적이었다”며...",
+   "url": "http://www.segyebiz.com/newsView/20261027514586?OutUrl=naver",
+   "orig": "http://www.segyebiz.com/newsView/20261027514586?OutUrl=naver",
+   "source": "segyebiz.com",
+   "published": "2026-10-27T16:00+09:00",
+   "cat": "sev",
+   "id": "1daa86e84a03",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 \"쿠팡 산재 은폐 처벌 공백 개선\" … 퇴직연금엔 국민연금 참여...",
+   "summary": "김 장관은 27일 국회 기후에너지환경노동위원회의 노동부 종합국정감사에서 쿠팡 산재 은폐 의혹과 관련해... 분류했다\"며 \"업무와 사망 사이의 관련성을 부인하기 위한 자료 조작 행위\"라고 주장했다. 노동부는 관련...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700246.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/27/2026102700246.html",
+   "source": "뉴데일리",
+   "published": "2026-10-27T15:58+09:00",
+   "cat": "law",
+   "id": "dea3722d8246",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "유독물질 폭발하면?…울산 동구 재난대응 합동훈련",
+   "summary": "특히 고용노동부, 한국산업안전보건공단, KCC울산공장과 공동으로 훈련을 기획해 위기 대응 현장행동 매뉴얼의 실효성을 점검했다. 주요 훈련 내용은 초기 상황 전파와 지휘·통제, 화재 진압 및 유독물질 방제, 주민 대피...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014281984?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261027_0003843040",
+   "source": "뉴시스",
+   "published": "2026-10-27T15:58+09:00",
+   "cat": "tech",
+   "id": "d0c59d3a617c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 “쿠팡 산재 은폐 수사에 美 압박·로비 없었다”",
+   "summary": "앞서 노동부는 지난 22일 쿠팡 물류센터 노동자 고(故) 장덕준 씨 사망 사건과 관련한 산재 은폐 의혹 수사 결과를 발표했다. 장 씨는 2020년 10월 쿠팡 물류센터에서 야간근무를 마치고 귀가한 뒤 숨졌고, 노동부 조사에서는...",
+   "url": "https://www.viewsnnews.com/article?q=239283",
+   "orig": "https://www.viewsnnews.com/article?q=239283",
+   "source": "viewsnnews.com",
+   "published": "2026-10-27T15:48+09:00",
+   "cat": "law",
+   "id": "9b0b773987e0",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "한국산업안전보건공단 경기광역본부 ‘2026년 광교테크노밸리(광교TV) 안...",
+   "summary": "주요 행사로 ▲화재대피 및 재난탈출 안전체험 ▲심폐소생술(CPR) 체험 ▲근막이완을 통한 근골격계질환... 있는 산재예방 캠페인을 성공적으로 마칠 수 있었다”며 “지역사회 및 대외 기관과의 소통을 한층 강화해...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000129359?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261027580342",
+   "source": "kyeonggi.com",
+   "published": "2026-10-27T15:48+09:00",
+   "cat": "tech",
+   "id": "dbeecffdf2e9",
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610271619184745be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610271619184745be44c0aacd_30",
+     "title": "안전보건공단 경기광역본부, 광교테크노밸리서 합동안전캠페인…1천명..."
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "전남광주특별시, 올 하반기 중대재해예방 역량강화 교육",
+   "summary": "공사·공단, 출자·출연기관 등 중대재해 담당자 300여명을 대상으로 '2026년 하반기 중대재해예방 역량강화 교육'을 진행했다. 이번 교육은 올 하반기 중대재해 안전보건 의무 이행사항 현장 점검을 실효성 있게 대비하고...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014281818?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261027_0003843147",
+   "source": "뉴시스",
+   "published": "2026-10-27T15:35+09:00",
+   "cat": "tech",
+   "id": "a76411fa4689",
+   "related": [
+    {
+     "source": "전남일보",
+     "url": "https://www.jnilbo.com/news/articleView.html?idxno=90000077207",
+     "orig": "https://www.jnilbo.com/news/articleView.html?idxno=90000077207",
+     "title": "전남광주시, 하반기 중대재해예방 역량강화 교육"
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김대자 산단공 이사장, '취임 첫 행보' 울산 국가산단 방문…\"안전관리...",
+   "summary": "화학물질 취급이 많아 화재 등 대형 안전사고 위험이 높은 만큼 취임 후 첫 현장 점검지로 선정됐다. 김... 김대자 산단공 이사장은 \"산업현장에서 무엇보다 우선해야 할 가치는 노동자의 생명과 안전\"이라며 \"현장...",
+   "url": "https://www.newspim.com/news/view/20261027001033",
+   "orig": "https://www.newspim.com/news/view/20261027001033",
+   "source": "뉴스핌",
+   "published": "2026-10-27T15:32+09:00",
+   "cat": "hlt",
+   "id": "d7d4eb3416b9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[2026 국감] 김위상 \"최근 5년여간 경비원 산재 사망 438명…서울 최다\"",
+   "summary": "김위상 국민의힘 의원[사진=뉴스핌DB] 연도별 산재 사망자는 2021년 87명, 2022년 90명, 2023년 63명, 2024년 76명, 2025년 77명이다. 올해도 상반기에만 45명이 산업재해로 목숨을 잃었다. 지난해 사망자 77명 가운데...",
+   "url": "https://www.newspim.com/news/view/20261027001119",
+   "orig": "https://www.newspim.com/news/view/20261027001119",
+   "source": "뉴스핌",
+   "published": "2026-10-27T15:24+09:00",
+   "cat": "sev",
+   "id": "08702a8a1d5e",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 “쿠팡 산재 은폐 잘못 확인”...초광역특구 노동특례 “사회적...",
+   "summary": "김영훈 고용노동부 장관이 쿠팡의 산업재해 은폐 의혹에 대한 수사가 불기소 의견으로 마무리된 것과 관련해... 대신 산업안전보건법과 근로기준법 위반 사항에 대해 총 19억6천여만원의 과태료를 부과했다. 김 장관은 수사...",
+   "url": "https://www.m-economynews.com/news/article.html?no=72179",
+   "orig": "https://www.m-economynews.com/news/article.html?no=72179",
+   "source": "m-economynews.com",
+   "published": "2026-10-27T15:22+09:00",
+   "cat": "law",
+   "id": "de8d9e6f55a1",
+   "related": [
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1418882",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1418882",
+     "title": "[2026 국감] 기후위, 쿠팡 산재 은폐 의혹·초광역특구 노동특례 쟁점"
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "스포츠안전관리사 자격 빛난 계명대 학생의 용기",
+   "summary": "고아진 학생은 지난 26일 오전 10시 30분께 경남 창원시 마산합포구에 있는 배스킨라빈스 신마산점에서... 스포츠 활동 중 발생할 수 있는 위험 요인과 안전사고 예방, 응급상황 대응 등에 관한 지식을 배우고 있다. 이번...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876698",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876698",
+   "source": "한스경제",
+   "published": "2026-10-27T15:22+09:00",
+   "cat": "tech",
+   "id": "b5f8d25105a6",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[현장] DN오토모티브 납 노출 조사위, 출범 2주 만에 좌초 위기",
+   "summary": "노조 측은 위원회 결정 사항의 수용을 거부한 사측, 제 역할을 다하지 못한 고용노동부에 책임이 있다며... 고노동부는 지난 3월 23일부터 4월 17일까지 실시한 안전보검감독에서 산업안전보건법 위반 사항 총 88건을 적발해...",
+   "url": "http://www.newsdream.kr/news/articleView.html?idxno=120915",
+   "orig": "http://www.newsdream.kr/news/articleView.html?idxno=120915",
+   "source": "newsdream.kr",
+   "published": "2026-10-27T15:16+09:00",
+   "cat": "law",
+   "id": "6d9b0bbb4d9b",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동자 죽음에도 실형 0명...대구지법, 중대재해처벌법 18명 전원 집행유...",
+   "summary": "'중대재해 처벌 등에 관한 법률'은 5인 이상 사업장의 경영책임자에 대해 사망자 1명 이상, 동일한 사고로 6개월 이상 부상자 2명 이상, 동일한 유해요인으로 직업성 질병자가 1년 내 3명 이상이 나온 중대재해가 발생한...",
+   "url": "https://www.pn.or.kr/news/articleView.html?idxno=34280",
+   "orig": "https://www.pn.or.kr/news/articleView.html?idxno=34280",
+   "source": "pn.or.kr",
+   "published": "2026-10-27T15:14+09:00",
+   "cat": "sev",
+   "id": "1317a2cd60b3",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "초광역특구법 공방…“노동특례 후퇴 안돼”·“노동자 존엄성 보장”[...",
+   "summary": "송치”라며 “산업안전보건법 57조는 산업재해 발생 사실을 은폐해서는 안 된다고만 규정하고 재해 신고... 때문에 법 개정을 제안하시면 적극 검토하겠다”고 했다. 그러면서 “법에 의율(擬律)하지 못했다고 해서 잘못된...",
+   "url": "https://www.etoday.co.kr/news/view/2640659",
+   "orig": "https://www.etoday.co.kr/news/view/2640659",
+   "source": "이투데이",
+   "published": "2026-10-27T15:12+09:00",
+   "cat": "law",
+   "id": "ce74adfc4471",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "KCC 울산공장서 화재·폭발 가정해 재난대응 안전한국훈련",
+   "summary": "이번 훈련에는 동구청, 고용노동부, 한국산업안전보건공단, KCC울산공장 등 15개 기관 및 단체 170여명이 참여했다. 공장 내 전기 지게차에 난 불이 창고로 확산해 보관 중이던 유독물질이 폭발하는 복합재난 상황을 가정해...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016403453?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261027081800057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-27T15:05+09:00",
+   "cat": "tech",
+   "id": "e6521b4d3888",
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734411",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3734411",
+     "title": "울산 동구, KCC울산공장서 '2026 재난대응 안전한국 훈련' 실시"
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "중대재해학회, 내달 13일 ‘AI 시대, 중처법 대응전략’ 세미나",
+   "summary": "정책 세션인 1세션에서는 한국산업안전보건공단 이사장을 지낸 박두용 한성대 교수가 ‘AI 시대, 안전보건정책 방향과 전망’을 주제로 기조강연에 나선다. 이어 고용노동부 오영민 안전보건감독국장이 ‘최근 변화하는...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271444504830359",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271444504830359",
+   "source": "대한경제",
+   "published": "2026-10-27T15:02+09:00",
+   "cat": "law",
+   "id": "ffe2aff902f9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[단독]반도체고 인기 느는데…현장실습생 질병 산재는 관리 사각지대",
+   "summary": "한국반도체산업협회 소속 304개 기업에서 2017년부터 2022년까지 5년간 발생한 산재 사망자 가운데 질병으로 인한 사망은 70.1%를 차지했다. 사고로 인한 사망은 23.4%에 그쳤다. 같은 기간 전체 산업의 산재 사망자 중 사고...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003478791?sid=102",
+   "orig": "https://www.khan.co.kr/article/202610271500001",
+   "source": "경향신문",
+   "published": "2026-10-27T15:00+09:00",
+   "cat": "law",
+   "id": "dd95987d2127",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "\"납 노출 규명도 못 한 채 멈췄다\"…DN오토모티브 노조, 조사위 복원 촉...",
+   "summary": "노동조합은 조사 범위와 결정 사항의 이행 여부를 둘러싼 갈등으로 논의가 중단됐다며 회사와 고용노동부에... 노조는 노사 추천위원 간 이견이 발생하면 정부 추천위원의 판단을 따르고, 결정 사항은 산업안전보건위원회...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138736",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=138736",
+   "source": "newslock.co.kr",
+   "published": "2026-10-27T14:54+09:00",
+   "cat": "law",
+   "id": "67f0efb39b5b",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동장관 \"쿠팡의 산재 은폐 수사 결과, 美 외교 문제와는 무관\"",
+   "summary": "한편 노동부는 쿠팡이 2020년 10월 경북 칠곡군 물류센터 심야 근무를 마친 뒤 자택에서 급성심근경색으로 사망한 장덕준씨에게 산재가 적용되지 않게 하고자 핵심 사안을 은폐하려한 정황에 대해 수사한 결과를 지난 22일...",
+   "url": "https://n.news.naver.com/mnews/article/586/0000140963?sid=102",
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=391839",
+   "source": "시사저널",
+   "published": "2026-10-27T14:52+09:00",
+   "cat": "law",
+   "id": "2a2fbaef0be9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동장관 “쿠팡 처벌은 못 했지만 잘못은 확인했다”...공익제보자는 ...",
+   "summary": "김영훈 고용노동부 장관이 쿠팡의 산업재해 은폐 의혹과 관련해 법적 처벌에 이르지 못했더라도 회사의... 다만, 다른 산업안전보건법 및 근로기준법 위반 사실에 대해 과태료 총 19억6천여만원이 부과됐다. 한편...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000129341?sid=100",
+   "orig": "https://www.kyeonggi.com/article/20261027580212",
+   "source": "kyeonggi.com",
+   "published": "2026-10-27T14:48+09:00",
+   "cat": "law",
+   "id": "9b66527c0552",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "일교차 커지자 건설현장 건강 '비상'…한신공영, 심뇌혈관 예방점검",
+   "summary": "한국산업안전보건공단 자료에 따르면 2021년부터 2026년 1분기까지 상위 20개 건설사에서 발생한 질병 사망자... 한신공영 관계자는 \"연말까지 현장별 안전보건점검과 건강장해 예방 활동을 지속 강화해 '중대재해 ZERO 6년...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876672",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=876672",
+   "source": "한스경제",
+   "published": "2026-10-27T14:40+09:00",
+   "cat": "tech",
+   "id": "a50e24521801",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "'초통령' 헤이지니, 노동 착취 의혹-직원들 책임감 압박 소환",
+   "summary": "이 과정에서 건강이 악화해 공황장애 진단을 받았고, 이후 산업재해를 신청해 2020년 업무상 질병을 인정받았다고 밝혔다. A씨는 회사가 처음에는 산재 신청을 돕겠다는 태도를 보였지만, 이후 업무와 질병의 관련성을...",
+   "url": "https://www.mediafine.co.kr/news/articleView.html?idxno=93864",
+   "orig": "https://www.mediafine.co.kr/news/articleView.html?idxno=93864",
+   "source": "mediafine.co.kr",
+   "published": "2026-10-27T14:36+09:00",
+   "cat": "hlt",
+   "id": "ee133f945a74",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "“건물관리 현장 산재 사고 줄이자”…대한주택관리사협회, 30일 ‘안전...",
+   "summary": "시설관리와 청소, 경비 등 다양한 직종이 혼재된 건물관리업 현장의 산재 사고를 줄이기 위해 정부 제도... 단순 신체 부담과 근골격계 질환 외에도 폭염·한랭 등 기후 요인과 개인 건강 상태를 함께 반영해야 한다는...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004675611?sid=101",
+   "orig": "https://www.sedaily.com/article/20106636?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-27T14:35+09:00",
+   "cat": "hlt",
+   "id": "8cc89ae4620c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "‘패가망신’ 경고했던 노동 장관…‘쿠팡 식사’ 감독관 소송 항소",
+   "summary": "앞서 노동부는 2020년 발생한 쿠팡 노동자 사망 사건에서 사측의 산재 은폐 정황을 확인했지만 공소시효 만료로 형사처벌을 하지 못했고, 정 의원은 이 감독 결과가 쿠팡의 로비나 외교 문제에 영향을 받은 것 아니냐는...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004675598?sid=102",
+   "orig": "https://www.sedaily.com/article/20106611?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-27T14:22+09:00",
+   "cat": "law",
+   "id": "ff54575aaebd",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "충북대병원 직업병안심센터, 직업성 질병 의심사례 502건 발굴",
+   "summary": "특히 실험실에서 연구에 참여하는 학생 연구자들이 산업안전보건법과 연구실안전법 사이에서 건강관리의... 한편 직업병안심센터는 고용노동부가 2022년 도입한 직업성 질병 상시 감시체계로, 전국 10개 권역에서...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1514490",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1514490",
+   "source": "중부매일",
+   "published": "2026-10-27T14:22+09:00",
+   "cat": "law",
+   "id": "2c8c91670c74",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[윤종우 노무사의 이로운 산재지식] 11월 화재·폭발 집중점검, 소규모...",
+   "summary": "상시근로자수가 5명 이상으로 판단되면 중대산업재해로 근로자가 사망한 경우 경영책임자 등은 1년 이상의 징역 또는 10억원 이하의 벌금에 처해질 수 있다(중대재해처벌법 제6조 제1항). 따라서 상담 사례의 사업주도...",
+   "url": "https://www.k-health.com/news/articleView.html?idxno=101879",
+   "orig": "https://www.k-health.com/news/articleView.html?idxno=101879",
+   "source": "k-health.com",
+   "published": "2026-10-27T14:10+09:00",
+   "cat": "acc",
+   "id": "714b6e565541",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[2026 국정감사] 쿠팡 산재 은폐 의혹 불기소 의견 송치에 노동장관 \"처...",
+   "summary": "김 장관은 27일 국회 기후에너지환경노동위원회의 고용노동부 종합국정감사에서 쿠팡의 산재 은폐 의혹과... 업무와 사망 사이의 관련성을 부인하기 위한 자료 조작 행위라고 주장했다. 그러나 노동부는 관련 사건을...",
+   "url": "https://www.ajunews.com/view/20261027140917019",
+   "orig": "https://www.ajunews.com/view/20261027140917019",
+   "source": "아주경제",
+   "published": "2026-10-27T14:10+09:00",
+   "cat": "law",
+   "id": "9af046e87dd0",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "쿠팡 산재 은폐 정황 확인하고도 불기소…김영훈 “제도상 공백 문제 검...",
+   "summary": "노동부는 지난 22일 쿠팡의 장씨 사망 관련 산재 은폐 의혹에 대한 조사 결과를 발표했다. 2020년 10월 쿠팡 물류센터에서 심야 근무를 마치고 귀가한 뒤 숨진 장씨와 관련해 김범석 쿠팡Inc 의장이 관계자에게 “장씨가...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005754592?sid=102",
+   "orig": "https://www.mk.co.kr/article/12186909",
+   "source": "매일경제",
+   "published": "2026-10-27T14:06+09:00",
+   "cat": "law",
+   "id": "78595953195f",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "건설현장 질병 사망 40%가 뇌·심혈관질환…한신공영, 근로자 건강관리...",
+   "summary": "한국산업안전보건공단에 따르면 2021년부터 올해 1분기까지 상위 20개 건설사의 질병 사망자 144명 가운데 58명... 예방 활동을 지속적으로 강화해 ‘중대재해 제로(ZERO) 6년 연속 달성’ 목표를 실현하겠다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/015/0005346968?sid=101",
+   "orig": "https://www.hankyung.com/article/202610277820i",
+   "source": "한국경제",
+   "published": "2026-10-27T13:55+09:00",
+   "cat": "sev",
+   "id": "2d200278f5cf",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관, ‘쿠팡 불기소 의견’에 “제도상 공백 문제 검토 중...",
+   "summary": "조국혁신당 서왕진 의원도 “심각한 법령 미비가 있다”며 “현행 산업안전보건법은 산재 발생 사실을 은폐해서는 안 된다고만 규정하고 있는데, 쿠팡이 산재 사망 사실 자체는 신고했기 때문에 은폐는 아니라고 적용받고...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012281638?sid=101",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696364&ref=A",
+   "source": "KBS",
+   "published": "2026-10-27T13:54+09:00",
+   "cat": "law",
+   "id": "6ce88da2b9eb",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 평창군, 막동리 소교량(농어촌도로 진부 208호) 정비공사 ...",
+   "summary": "아울러 유해인자에 노출되는 근로자를 대상으로 특수건강진단 등 건강관리도 병행해 작업환경 관리와 근로자 건강 보호가 유기적으로 연계될 수 있도록 할 예정이다. 김남섭 군 안전교통과장은 \"안전한 근무 환경을...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=799751",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=799751",
+   "source": "weeklytoday.com",
+   "published": "2026-10-27T13:48+09:00",
+   "cat": "hlt",
+   "id": "80215bd45fe4",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "女 근골격계 질환 등 직업성 질환 늘고 산재 인정은 줄고",
+   "summary": "일하는 여성들의 근골격계 질환 등 직업성 질환은 늘고 산재 인정은 줄고 있었다. 27일 국회... 15명이 사망했다. 요양보호사와 간병 노동자는 환자 체위 변경 작업을 하며 중등도 이상의 중량물 취급 작업을 하고...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251211",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251211",
+   "source": "안전신문",
+   "published": "2026-10-27T13:44+09:00",
+   "cat": "hlt",
+   "id": "1ac3bf1c849e",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 \"미국 압박으로 쿠팡 처벌 못한 거 아냐…잘못된 행위 확인\"",
+   "summary": "앞서 노동부는 지난 22일 쿠팡 계열사 기획감독과 고(故) 장덕준 노동자 사망 사건 관련 산재 은폐 의혹 수사 결과를 발표했다. 장씨는 2020년 10월 쿠팡 물류센터에서 야간근무를 마치고 귀가한 뒤 숨졌다. 이후 과로사...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014281254?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261027_0003842871",
+   "source": "뉴시스",
+   "published": "2026-10-27T13:43+09:00",
+   "cat": "law",
+   "id": "6105af07b090",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "평창군, 2026년 하반기 작업환경측정 실시",
+   "summary": "아울러 유해인자에 노출되는 근로자를 대상으로 특수건강진단 등 건강관리도 병행해 작업환경 관리와 근로자 건강 보호가 연계될 수 있도록 할 예정이다. 김남섭 군 안전교통과장은 “안전한 근무환경을 조성하기...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001226549?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261027500627",
+   "source": "강원일보",
+   "published": "2026-10-27T13:41+09:00",
+   "cat": "hlt",
+   "id": "b516b6b1541a",
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734341",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3734341",
+     "title": "평창군, 27일 사업장 작업환경측정 실시…유해인자 노출 평가"
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "노동장관 \"쿠팡 불기소, 美와 전혀 무관…국민들 납득 어려운 부분 있다...",
+   "summary": "김영훈 고용노동부 장관이 27일 최근 지난 2020년 쿠팡물류센터에서 사망한 고(故) 장덕준 씨와 관련한 쿠팡의 산재은폐 의혹이 불기소 송치로 결론난 것과 관련해 \"국민들의 법 감정으로 납득하지 못할 부분이 있다고...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005595074?sid=102",
+   "orig": "https://www.fnnews.com/news/202610271326550382",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-27T13:32+09:00",
+   "cat": "law",
+   "id": "7a9c991ebaf9",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
   {
    "title": "임금근로자 절반이 월 300만원…500만원 이상도 '역대 최대'",
    "summary": "27일 국가데이터처가 발표한 '2026년 상반기 지역별 고용조사: 취업자의 산업 및 직업별 특성'에 따르면... 반면 보건·사회복지 서비스업에서 월평균 임금 500만원 이상을 받는 근로자 비중은 5.8%에 그쳤다. 취업자...",
@@ -80,7 +1012,14 @@
    "published": "2026-10-27T13:24+09:00",
    "cat": "hlt",
    "id": "ba07ed14db92",
-   "related": [],
+   "related": [
+    {
+     "source": "인사이트",
+     "url": "https://www.insight.co.kr/news/579402",
+     "orig": "https://www.insight.co.kr/news/579402",
+     "title": "'월 300만원 이상' 받는 근로자 절반 넘었다... 500만원 이상도 역대 최..."
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -106,7 +1045,50 @@
    "published": "2026-10-27T13:10+09:00",
    "cat": "law",
    "id": "153475fdc297",
-   "related": [],
+   "related": [
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/323102/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/323102/?sc=Naver",
+     "title": "김영훈 \"쿠팡 산재 은폐 의혹, 분명 잘못된 행위...제도 공백 정비\""
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2640585",
+     "orig": "https://www.etoday.co.kr/news/view/2640585",
+     "title": "[국감] 김영훈 노동장관 \"쿠팡 산재 은폐, 기소 못했지만 명백한 잘못\"[..."
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=558719",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=558719",
+     "title": "[국감] 김영훈 \"쿠팡 산재 은폐, 기소 못 했지만 잘못된 행위\""
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002715006?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10916274?ref=naver",
+     "title": "김영훈 “쿠팡 산재 은폐 의혹, 기소 못했지만 잘못된 행위라고 국가가..."
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001531697?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6861053_36918.html",
+     "title": "김영훈 \"쿠팡 산재 은폐 의혹, 기소 못했지만 분명 잘못된 행위\""
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261027001262",
+     "orig": "https://www.newspim.com/news/view/20261027001262",
+     "title": "김영훈 \"쿠팡 산재 은폐 의혹, 기소 못했지만 분명 잘못된 행위\""
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003147705?sid=102",
+     "orig": "https://www.dailian.co.kr/news/view/1706894/?sc=Naver",
+     "title": "김영훈 “쿠팡 산재 은폐 분명 잘못…기소 못한 제도 공백 검토”"
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -262,7 +1244,14 @@
    "published": "2026-10-27T12:00+09:00",
    "cat": "hlt",
    "id": "c3a75c0a882e",
-   "related": [],
+   "related": [
+    {
+     "source": "futurechosun.com",
+     "url": "https://futurechosun.com/?p=164715",
+     "orig": "https://futurechosun.com/?p=164715",
+     "title": "[더나은미래 경제브리핑] 월급 300만 원 이상 임금근로자 절반 넘었다…..."
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -321,7 +1310,14 @@
    "published": "2026-10-27T11:46+09:00",
    "cat": "sev",
    "id": "f890471ba03c",
-   "related": [],
+   "related": [
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039041",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039041",
+     "title": "반복 사망사고 사업장에 과징금…노동자 작업중지권 확대"
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -587,6 +1583,12 @@
      "url": "https://www.g-enews.com/view.php?ud=202610271057384091a9fc143920_1",
      "orig": "https://www.g-enews.com/view.php?ud=202610271057384091a9fc143920_1",
      "title": "한신공영, 가을철 일교차 대비 건설현장 안전보건점검 강화"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261027500707",
+     "orig": "https://www.viva100.com/article/20261027500707",
+     "title": "한신공영, 환절기 건설현장 안전보건점검 강화…'응급 대응 체계 점검'"
     }
    ],
    "day": "2026-10-27",
@@ -704,6 +1706,12 @@
      "url": "https://www.kbsm.net/news/view.php?idx=539245",
      "orig": "https://www.kbsm.net/news/view.php?idx=539245",
      "title": "대구교육청·교육지원청 6곳, 위험성평가 우수사업장 선정"
+    },
+    {
+     "source": "idaegu.co.kr",
+     "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=563522",
+     "orig": "https://www.idaegu.co.kr/news/articleView.html?idxno=563522",
+     "title": "대구교육청, 올해 6개 기관, 위험성평가 우수사업장 선정"
     }
    ],
    "day": "2026-10-27",
@@ -836,7 +1844,14 @@
    "published": "2026-10-27T09:34+09:00",
    "cat": "tech",
    "id": "206bf63c807a",
-   "related": [],
+   "related": [
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=343005",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=343005",
+     "title": "한신공영, 현장 중심 안전경영 강화"
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -869,6 +1884,19 @@
      "title": "전재식 한신공영 대표, 현장 중심 안전경영 … 심·뇌혈관질환 예방책 ..."
     }
    ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "포스코이앤씨·현대건설 중대재해 6건씩…내년부터 영업익 최대 5% 과징...",
+   "summary": "현대건설에서도 같은 기간 6건의 중대재해가 보고됐으며 노동자 6명이 숨졌다. 올해 6월과 9월 샤힌 에틸렌 건설공사 현장에서 토사 붕괴에 따른 협착 사고와 추락 사고로 각각 1명이 사망했다. 현대건설의 지난해...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=558521",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=558521",
+   "source": "joongangenews.com",
+   "published": "2026-10-27T09:28+09:00",
+   "cat": "law",
+   "id": "b40458f28cd8",
+   "related": [],
    "day": "2026-10-27",
    "watch": []
   },
@@ -913,6 +1941,12 @@
      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573068123545",
      "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573068123545",
      "title": "전재식 한신공영 대표, 환절기 건설현장 직접 점검…근로자 건강관리 강..."
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005595347?sid=101",
+     "orig": "https://www.fnnews.com/news/202610271824018378",
+     "title": "전재식 한신공영 대표, 건설현장 점검"
     }
    ],
    "day": "2026-10-27",
@@ -958,6 +1992,12 @@
      "url": "https://www.naeil.com/news/read/606498?ref=naver",
      "orig": "https://www.naeil.com/news/read/606498?ref=naver",
      "title": "작업중지권 확대·반복 사망사고 과징금 도입"
+    },
+    {
+     "source": "서울경제",
+     "url": "https://n.news.naver.com/mnews/article/011/0004675593?sid=102",
+     "orig": "https://www.sedaily.com/article/20106606?ref=naver",
+     "title": "내년 4월부터 연간 3명 산재사망 때 영업익 5% 과징금"
     }
    ],
    "day": "2026-10-27",
@@ -1059,6 +2099,36 @@
      "url": "https://www.kukinews.com/article/view/kuk202610270075",
      "orig": "https://www.kukinews.com/article/view/kuk202610270075",
      "title": "사망사고 반복 시 영업이익 5% 범위 과징금…산안법 개정안 공포"
+    },
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271331016500345",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610271331016500345",
+     "title": "연간 산재 사망 3명 이상 기업에 영업이익 5％ 과징금"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2010893",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2010893",
+     "title": "반복 산재 시 '영업익 5%' 과징금…산안법 개정안 공포"
+    },
+    {
+     "source": "mdtoday.co.kr",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=621169",
+     "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=621169",
+     "title": "내년부터 산재 사망 3명 이상 기업에 영업이익 5% 과징금"
+    },
+    {
+     "source": "정책브리핑",
+     "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148974361&call_from=naver_news",
+     "orig": "https://www.korea.kr/news/policyNewsView.do?newsId=148974361&call_from=naver_news",
+     "title": "1년간 3명 이상 산재 사망 기업에 영업이익 5% 과징금"
+    },
+    {
+     "source": "경북일보",
+     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088668",
+     "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088668",
+     "title": "산재 사망 다발 사업장, 영업익 최대 5% 과징금"
     }
    ],
    "day": "2026-10-27",
@@ -1115,6 +2185,36 @@
      "url": "https://n.news.naver.com/mnews/article/666/0000129284?sid=102",
      "orig": "https://www.kyeonggi.com/article/20261027580096",
      "title": "사망사고 반복 사업장 영업익 5% 과징금…‘산업안전보건법’ 개정 공포"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734153",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3734153",
+     "title": "반복 사망사고, 기업에 최대 영업이익 5% 과징금"
+    },
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=539178",
+     "orig": "https://www.kbsm.net/news/view.php?idx=539178",
+     "title": "'사망사고 반복 사업장 최대 영업익 5% 과징금' 내년 4월말 시행"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001531720?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6861081_36918.html",
+     "title": "'사망사고 반복 사업장 최대 영업익 5% 과징금' 내년 4월 말 시행"
+    },
+    {
+     "source": "ktv.go.kr",
+     "url": "https://www.ktv.go.kr/content/view?content_id=763044",
+     "orig": "https://www.ktv.go.kr/content/view?content_id=763044",
+     "title": "영업이익 5% 산재사망 과징금···내년 4월 시행"
+    },
+    {
+     "source": "대한전문건설신문",
+     "url": "https://www.koscaj.com/news/articleView.html?idxno=327173",
+     "orig": "https://www.koscaj.com/news/articleView.html?idxno=327173",
+     "title": "사망사고 반복 기업에 영업익 최대 5% 과징금"
     }
    ],
    "day": "2026-10-27",
@@ -1264,7 +2364,20 @@
    "published": "2026-10-27T06:07+09:00",
    "cat": "hlt",
    "id": "88b0f0beef48",
-   "related": [],
+   "related": [
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000647232?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/27/2026102790149.html",
+     "title": "청소·경비원 산재 4천300명대…고령화 그늘에 '안전 빨간불'"
+    },
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=539183",
+     "orig": "https://www.kbsm.net/news/view.php?idx=539183",
+     "title": "청소·경비원 산재 4천389명, 5년째 증가...넘어짐 1천892명 최다"
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
@@ -1348,6 +2461,12 @@
      "url": "http://andongmbc.co.kr/adboard/NewsView85466",
      "orig": "http://andongmbc.co.kr/adboard/NewsView85466",
      "title": "태양광 설비공사 사망 38명..경북 7명 전국 최다"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009253499?sid=102",
+     "orig": "https://www.news1.kr/local/daegu-gyeongbuk/6333774",
+     "title": "태양광 설비공사 산재 사망 6년간 38명…대구·경북 12명 최다"
     }
    ],
    "day": "2026-10-26",
@@ -1680,6 +2799,12 @@
      "url": "https://www.thepublic.kr/news/articleView.html?idxno=323883",
      "orig": "https://www.thepublic.kr/news/articleView.html?idxno=323883",
      "title": "SPL 전 대표도 집행유예…중대재해법 징역형 107명 중 실형은 9명"
+    },
+    {
+     "source": "경북일보",
+     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088612",
+     "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088612",
+     "title": "대구지법 중대재해법 징역형 18명 전원 집행유예"
     }
    ],
    "day": "2026-10-26",
