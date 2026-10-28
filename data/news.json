@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T16:57+09:00",
+ "updatedAt": "2026-10-28T20:12+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "fdcea1abe4d0",
+   "title": "가스폭발 현장 달려가 밸브 잠근 시민…알고보니 배우",
+   "url": "https://n.news.naver.com/mnews/article/001/0016406880?sid=102",
+   "source": "연합뉴스",
+   "cat": "acc",
+   "day": "2026-10-28",
+   "count": 15
+  },
+  {
    "id": "16d39710305a",
    "title": "제일약품·제일헬스사이언스, 백암공장서 재난대응 종합훈련",
    "url": "https://www.medipana.com/news/articleView.html?idxno=420251",
@@ -49,28 +58,951 @@
    "source": "핀포인트뉴스",
    "cat": "tech",
    "day": "2026-10-28",
+   "count": 9
+  },
+  {
+   "id": "1cd7dbfa6be8",
+   "title": "창원NC파크 사망 사고 유족 \"1년 7개월 아무도 책임지지 않아\"",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=560116",
+   "source": "lghellovision.net",
+   "cat": "sev",
+   "day": "2026-10-28",
    "count": 8
-  },
-  {
-   "id": "4fbedf1af9eb",
-   "title": "충주 공장 천장 점검하던 작업자 3명 추락, 중경상",
-   "url": "https://n.news.naver.com/mnews/article/003/0014283514?sid=102",
-   "source": "뉴시스",
-   "cat": "acc",
-   "day": "2026-10-28",
-   "count": 7
-  },
-  {
-   "id": "69111210a3c4",
-   "title": "HDC랩스, VISION AI 기반 스마트 안전관제 솔루션으로 현장 안전관리 고...",
-   "url": "https://www.etoday.co.kr/news/view/2640710",
-   "source": "이투데이",
-   "cat": "tech",
-   "day": "2026-10-28",
-   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "배우 윤대열, '인천 가스 폭발' 2차 피해 막았다⋯\"언론에 나와 죄송\"",
+   "summary": "이투데이=한은수 | 배우 윤대열이 인천의 한 상가에서 발생한 가스 폭발 사고와 관련해 조심스러운 심경을... 이번 사고는 폐업한 상가의 시설물을 철거하는 과정에서 발생했으며, 현장 작업자 4명이 화상 등을 입고...",
+   "url": "https://www.etoday.co.kr/news/view/2641366",
+   "orig": "https://www.etoday.co.kr/news/view/2641366",
+   "source": "이투데이",
+   "published": "2026-10-28T20:06+09:00",
+   "cat": "acc",
+   "id": "57f4daa49ee8",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "이태원 참사 4주기 D-1...이 대통령 \"국민 생명 우선하는 가치 없어\"",
+   "summary": "자살, 고독사, 실종, 산업재해, 인파 사고 등 유형별 사망자 저감 대책에 대한 부처 보고와 함께 민간... 쿠팡 산재 피해 유족 모임 회원 : 저희가 6년째 이 문제를 가지고 싸우고 있고 현장의 노동자들은 계속 지금 죽어...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002425122?sid=100",
+   "orig": "https://www.ytn.co.kr/_ln/0101_202610282005333405",
+   "source": "YTN",
+   "published": "2026-10-28T20:05+09:00",
+   "cat": "sev",
+   "id": "00385e47523a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천 가스폭발 현장 2차 참사 막은 초동 조치…신속히 밸브 잠근 인물은...",
+   "summary": "28일 경찰과 소방 당국 등에 따르면, 전날 인천 검단구 마전동의 한 상가 건물 1층 인테리어 작업 현장에서 가스가 폭발했다. 이 사고로 현장에 있던 식당 업주와 작업자 등 4명이 화상 및 다발성 부상을 입고 인근 병원으로...",
+   "url": "https://www.sportsworldi.com/newsView/20261028519640",
+   "orig": "https://www.sportsworldi.com/newsView/20261028519640",
+   "source": "sportsworldi.com",
+   "published": "2026-10-28T19:33+09:00",
+   "cat": "sev",
+   "id": "34bb0858d5e4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "울산 동구청 전 직원 대상 중대재해 예방 교육 실시",
+   "summary": "전 직원 대상 중대재해 예방 교육 실시 울산시 동구는 중대재해처벌법에 따른 안전보건 관리 업무에 대한... 이 자리에서 울산대학교 산업경영‧산업안전공학부 조재환 교수가 강사로 나서, 중대재해 발생 유형과 예방...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735734",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3735734",
+   "source": "국제뉴스",
+   "published": "2026-10-28T19:32+09:00",
+   "cat": "tech",
+   "id": "1dd69e6baea0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'펑' 소리에 폭발 현장 달려가…배우 윤대열 \"가스통 잠근 것뿐\"",
+   "summary": "등 작업자 4명이 얼굴 등에 1~2도 화상을 입었다. 경찰은 가스 밸브를 잠그지 않은 상태에서 작업하던 중 폭발이 발생한 것으로 보고 구체적인 사고 경위를 조사하고 있다. 윤대열은 2007년 연극 '관객모독'으로 데뷔해...",
+   "url": "https://n.news.naver.com/mnews/article/417/0001162452?sid=102",
+   "orig": "https://www.sidae.com/article/2026102819072091019",
+   "source": "sidae.com",
+   "published": "2026-10-28T19:20+09:00",
+   "cat": "acc",
+   "id": "169723336923",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'인천 가스 폭발 대참사' 막은 윤대열 \"사고 본질 흐릴까 두려워\"",
+   "summary": "사고 현장 인근에 거주하는 윤대열은 평소 LPG통 위치를 인지하고 있었고 폭발 사고가 일어나자 이처럼 순간적인 판단을 내린 것으로 알려졌다. 사고로 60대 작업자 3명과 60대 점주 1명 등 4명이 얼굴 부위 등에 화상을...",
+   "url": "https://www.mydaily.co.kr/page/view/2026102819175999331",
+   "orig": "https://www.mydaily.co.kr/page/view/2026102819175999331",
+   "source": "마이데일리",
+   "published": "2026-10-28T19:18+09:00",
+   "cat": "sev",
+   "id": "0cc32d3b9074",
+   "related": [
+    {
+     "source": "stoo.com",
+     "url": "http://www.stoo.com/article.php?aid=109595388903",
+     "orig": "http://www.stoo.com/article.php?aid=109595388903",
+     "title": "인천 가스폭발 추가 피해 막은 윤대열 \"부상자 회복 우선…본질 흐릴까..."
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[기고] 사람이 떠난 자리 ‘안전’이 우선입니다- 박재규(밀양소방서 안...",
+   "summary": "휴일 등으로 근로자가 자리를 비운 사업장은 평소보다 화재 감시와 초기 대응에 취약해질 수밖에 없다. 특히 공장이나 창고, 판매시설 등은 가연성 물질과 각종 전기·기계 설비가 밀집해 있어 작은 불씨 하나로도 순식간에...",
+   "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1553859",
+   "orig": "https://www.knnews.co.kr/news/articleView.php?idxno=1553859",
+   "source": "경남신문",
+   "published": "2026-10-28T19:14+09:00",
+   "cat": "law",
+   "id": "128b92c27bbe",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "경동원, '한국건축산업대전 2026' 참가… 고단열·화재 안전 기술 선보여",
+   "summary": "방화문 분야에서는 '세이프도어 플러스'와 스마트 자동개폐 도어 '오토스윙도어'를 선보인다. 세이프도어... 이번 전시는 건축자재 시장에서 화재 안전과 에너지 효율을 동시에 확보하는 기술 중요성이 커지고 있음을...",
+   "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=361452",
+   "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=361452",
+   "source": "biztribune.co.kr",
+   "published": "2026-10-28T19:08+09:00",
+   "cat": "tech",
+   "id": "1f5e0d6065ac",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김우호 공무원연금공단 이사장, 남원·무안서 첫 현장 안전경영 행보",
+   "summary": "28일 공무원연금공단의 김우호 이사장이 첫 현장 안전경영으로 남원상록골프장·무안남악 상록아파트 점검하는 모습 / 사진 = 공단 제공. 공무원연금공단은 김우호 이사장이 28일 취임 후 첫 현장 행보로 전북 남원시 소재...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251250",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251250",
+   "source": "안전신문",
+   "published": "2026-10-28T19:08+09:00",
+   "cat": "tech",
+   "id": "73b7e80a4086",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "의왕도깨비시장 국화축제 개최…전통시장 활성화·안전 강화",
+   "summary": "이어 전통시장 활성화와 지역 상인들의 경영 여건 개선을 위해 지속적으로 노력하겠다고 말했다.... 이에 시는 시장 이용객의 편의와 안전을 높이기 위해 아케이드 설치 공사를 추진했으며, 올해 상반기 공사를...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251253",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251253",
+   "source": "안전신문",
+   "published": "2026-10-28T19:08+09:00",
+   "cat": "tech",
+   "id": "3875b478ac10",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "‘서울의 봄’ 윤대열, 인천 가스 폭발 확대 막은 의인이었다 “부끄럽...",
+   "summary": "등 작업자 4명이 얼굴 등에 1~2도 화상을 입었다. 경찰은 가스 밸브를 잠그지 않은 상태에서 작업하던 중 폭발이 발생한 것으로 보고 구체적인 사고 경위를 조사하고 있다. 윤대열은 연극 무대를 중심으로 활동한 배우로...",
+   "url": "https://isplus.com/article/view/isp202610280246",
+   "orig": "https://isplus.com/article/view/isp202610280246",
+   "source": "isplus.com",
+   "published": "2026-10-28T19:07+09:00",
+   "cat": "acc",
+   "id": "7ac5a1f98f9f",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "시흥시, 피지컬 AI 실증·확산 거점으로…산업현장 안전 강화",
+   "summary": "피지컬 AI는 인공지능이 로봇이나 기계와 결합해 주변 환경을 인식하고 판단한 뒤 실제 작업을 수행하는... 향후 피지컬 AI가 산업현장에 적용되면서 실제 안전사고 예방 효과와 기업의 기술 도입 성과를 얼마나...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251256",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251256",
+   "source": "안전신문",
+   "published": "2026-10-28T19:06+09:00",
+   "cat": "tech",
+   "id": "72f568156944",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'서울의 봄' 윤대열, 알고 보니 가스 폭발 현장서 밸브 막은 시민",
+   "summary": "인천 검단구 상가에서 액화석유가스(LPG)가 폭발해 작업자 4명이 다친 가운데, 배우 윤대열이 가스 밸브를... 가스 폭발 사고를 목격했다. 이 사고로 폐업 상가의 시설물을 철거하던 60대 남성 3명과 60대 여성 1명 등 4명이...",
+   "url": "http://www.celuvmedia.com/article.php?aid=1793181595529985006",
+   "orig": "http://www.celuvmedia.com/article.php?aid=1793181595529985006",
+   "source": "celuvmedia.com",
+   "published": "2026-10-28T19:04+09:00",
+   "cat": "acc",
+   "id": "ceb215cb2eb9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[이슈하이킥] 산재 사망자 역대 '최저'.. '영업이익 5% 과징금'·'신고포...",
+   "summary": "정부는 연말까지 산재 사망사고 감축 추세를 공고히 하기 위해, 고위험 사업장, 중대재해 반복발생 기업의 사업장 등에 대한 엄중한 감독 기조를 유지하고, 화재 사고의 경우 대형 인명피해로 이어질 수 있는 만큼 화재...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115372",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4115372",
+   "source": "bbsi.co.kr",
+   "published": "2026-10-28T19:00+09:00",
+   "cat": "sev",
+   "id": "aae0dacb9b69",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'범죄도시' 윤대열, 인천 폭발 현장 달려가 가스통 밸브 잠궈",
+   "summary": "가스 폭발 사고를 목격한 뒤 현장으로 달려가 밸브를 잠그고 신고한 시민이 배우 윤대열(48) 씨로 확인됐다.... 당시 사고로 60대 작업자 3명과 60대 점주 1명 등 4명이 얼굴 부위 등에 화상을 입고 119 구급대에 의해...",
+   "url": "https://www.slist.kr/news/articleView.html?idxno=777164",
+   "orig": "https://www.slist.kr/news/articleView.html?idxno=777164",
+   "source": "slist.kr",
+   "published": "2026-10-28T19:00+09:00",
+   "cat": "acc",
+   "id": "f5a1539a49a9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "윤대열, ‘인천 가스 폭발’ 막은 의인 지목에 심경 전해…“가스통 잠...",
+   "summary": "지난 27일 인천 검단의 한 상가에서 액화석유가스(LPG)가 폭발해 작업자 4명이 다치는 사고가 발생했다. 당시 현장 인근을 산책하던 윤대열은 가게 외부에 있던 LPG통 2개의 밸브가 열려 있는 것을 발견하고 신속히 잠근 뒤...",
+   "url": "https://sports.khan.co.kr/article/202610281853003?pt=nv",
+   "orig": "https://sports.khan.co.kr/article/202610281853003?pt=nv",
+   "source": "경향신문",
+   "published": "2026-10-28T18:54+09:00",
+   "cat": "acc",
+   "id": "eb6026e02f1e",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김영훈, 靑 회의서 쿠팡 산재 유족에 \"불기소 송구…김범석 잘못 확인\"",
+   "summary": "회의에는 쿠팡 물류센터 산재 사망 피해자 고(故) 장덕준 씨 모친 박미숙 씨가 참석해 고용노동부의 산재... 박씨는 23명이 숨진 '아리셀 화재 참사'와 관련해 박순관 아리셀 대표가 중대재해처벌법 위반으로 징역 4년을...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000540388?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000342815?division=NAVER",
+   "source": "SBS",
+   "published": "2026-10-28T18:45+09:00",
+   "cat": "sev",
+   "id": "499bd58e7a00",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천 '가스 폭발' 참사 막은 윤대열 \"가스통 잠갔을 뿐, 부끄럽고 죄송...",
+   "summary": "앞서 지난 27일 인천 검단의 한 상가에서 액화석유가스(LPG)가 폭발해 작업자 4명이 다치는 사고가 발생했다. 당시 현장 인근을 산책하던 윤대열은 가게 외부에 있던 LPG통 2개의 밸브가 열려 있는 것을 발견하고 신속히...",
+   "url": "https://www.starnewskorea.com/star/2026/10/28/2026102818302110234",
+   "orig": "https://www.starnewskorea.com/star/2026/10/28/2026102818302110234",
+   "source": "starnewskorea.com",
+   "published": "2026-10-28T18:44+09:00",
+   "cat": "sev",
+   "id": "98c6c8fa2374",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'노동자 빼고' 원팀 된 여야... 이 '작당모의'에 속이 탄다",
+   "summary": "개회식이 끝나고 김영훈 노동부 장관에게 다가가 사진을 청하며 짧게 말했다. \"정부가 추진하는 '일하는 사람... 기본단가 보장(최저보수제), 안전 책임 강화(산업안전보건법 적용 확대), 라이더 자격제. ⓒ 라이더유니온...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002533841?sid=100",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279050&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-28T18:41+09:00",
+   "cat": "law",
+   "id": "297056589435",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[속보] 스페인서 열차 2대 충돌…최소 10명 사망",
+   "summary": "사고 현장에는 소방대와 구조대, 의료용 헬기 등이 긴급 투입됐다. 일부 객차가 선로 아래로 떨어지면서 구조 작업에도 어려움을 겪는 것으로 전해졌다. 페드로 산체스 스페인 총리는 엑스(X·옛 트위터)를 통해...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005755572?sid=104",
+   "orig": "https://www.mk.co.kr/article/12188785",
+   "source": "매일경제",
+   "published": "2026-10-28T18:40+09:00",
+   "cat": "sev",
+   "id": "d320962d26aa",
+   "related": [
+    {
+     "source": "채널A",
+     "url": "https://n.news.naver.com/mnews/article/449/0000365635?sid=104",
+     "orig": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000557300",
+     "title": "[속보]스페인 고속열차 2대 충돌 최소 30명 사망"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "사망자 나와도 웬만하면 ‘집유’… 중처법 형량 손본다",
+   "summary": "대법원 양형위원회는 지난달 21일 중대재해범죄 양형기준안을 심의하면서 사망사고의 기본 형량을 징역 1년 6개월~4년으로 높이고, 가중 시 최대 징역 15년까지 선고할 수 있도록 하는 방안을 논의했다.",
+   "url": "https://n.news.naver.com/mnews/article/082/0001404614?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102818290048995",
+   "source": "부산일보",
+   "published": "2026-10-28T18:31+09:00",
+   "cat": "sev",
+   "id": "a3c493d215d1",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "'서울의 봄' 배우 윤대열, 폭발 현장서 가스통 밸브 잠가…2차 피해 막았...",
+   "summary": "폭발이 일어난 음식점에서는 당시 내부 철거 작업이 진행 중이었다. 이 사고로 60대 작업자 3명과 60대 점주 1명 등 모두 4명이 얼굴 등에 화상을 입고 119 구급대에 의해 병원으로 옮겨져 치료를 받고 있다. 경찰은 가스...",
+   "url": "https://www.tvreport.co.kr/star/article/1086656/",
+   "orig": "https://www.tvreport.co.kr/star/article/1086656/",
+   "source": "tvreport.co.kr",
+   "published": "2026-10-28T18:31+09:00",
+   "cat": "acc",
+   "id": "8a169e190562",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "DL그룹, AI 기반 위험관리부터 근로자 안전까지 챙긴다",
+   "summary": "28일 DL그룹에 따르면 DL이앤씨는 AI와 데이터를 활용한 위험 예측과 스마트 안전기술을 확대하고 있으며 DL건설은 '중대재해 제로(Zero)'를 선언하고 협력사와 함께 현장 중심의 안전문화 정착에 나서고 있다. DL이앤씨는...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800316.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/28/2026102800316.html",
+   "source": "뉴데일리",
+   "published": "2026-10-28T18:30+09:00",
+   "cat": "tech",
+   "id": "7abc0b3abda0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "미국 성인 19%만 금융시스템 안전 평가…DeFi 신뢰는 5%",
+   "summary": "암호화폐와 스마트계약을 기반으로 전통적 중개기관에 거의 또는 전혀 의존하지 않는 금융 활동·서비스로 설명했다. 누구나 접근할 수 있는 구조지만, 이용에 암호화폐 담보나 기술적 이해가 필요할 수 있다고...",
+   "url": "https://www.tokenpost.kr/news/cryptocurrency/428134",
+   "orig": "https://www.tokenpost.kr/news/cryptocurrency/428134",
+   "source": "tokenpost.kr",
+   "published": "2026-10-28T18:26+09:00",
+   "cat": "tech",
+   "id": "2582ea0272da",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "산업현장 사망사고, 91%가 '4대 유형'에 집중…건설사 비중 압도적",
+   "summary": "산업현장에서 같은 유형의 사망사고가 끊임없이 반복되고 있으며, 이 가운데 90% 이상이 '떨어짐', '끼임', '부딪힘', '맞음' 등 네 가지 사고 유형에 쏠려 있는 것으로...",
+   "url": "http://www.breaknews.com/1246570",
+   "orig": "http://www.breaknews.com/1246570",
+   "source": "브레이크뉴스",
+   "published": "2026-10-28T18:20+09:00",
+   "cat": "sev",
+   "id": "ed52174158a0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "건설업 사고사 여전히 높다… 산재 사망자 41% 차지",
+   "summary": "전국과 부산의 산업재해 사망자가 모두 증가한 상황에서, 여전히 건설 현장 사고 사망이 가장 높은 비중을 차지하는 것으로 나타났다. 중대재해처벌법 시행으로 경각심이 높아졌지만, 여전히 안전관리 인력과 예산이...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001404600?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102818133213142",
+   "source": "부산일보",
+   "published": "2026-10-28T18:14+09:00",
+   "cat": "sev",
+   "id": "ad2b4bc22ff9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "농협손보 대전총국·대전원예농협, ‘중대재해 예방’ 현판식 열어",
+   "summary": "대전원예농협(조합장 이윤천)은 26일 본점에서 NH농협손해보험 대전총국(총국장 이광원)과 중대재해배상책임보험 가입을 기념하고 안전경영 실천 의지를 다지는 현판식을 열었다. 이번 행사는 대전원예농협이 주요...",
+   "url": "https://n.news.naver.com/mnews/article/662/0000107169?sid=102",
+   "orig": "https://www.nongmin.com/article/20261028500409",
+   "source": "nongmin.com",
+   "published": "2026-10-28T18:10+09:00",
+   "cat": "tech",
+   "id": "8f53eaf42aff",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천 가스폭발 사고 피해 확산 막은 ‘의인’…알고보니 ‘서울의 봄’...",
+   "summary": "인천 가스 폭발 사고 현장에서 추가 피해를 막은 의인이 배우 윤대열이라는 사실이 뒤늦게 알려졌다. 사건을... 사고가 발생한 지점에서는 내부 철거 작업이 진행되고 있었고, 사고로 60대 작업자 3명과 60대 점주 1명 등...",
+   "url": "https://sports.khan.co.kr/article/202610281807003?pt=nv",
+   "orig": "https://sports.khan.co.kr/article/202610281807003?pt=nv",
+   "source": "경향신문",
+   "published": "2026-10-28T18:08+09:00",
+   "cat": "acc",
+   "id": "2137ea0a1f0f",
+   "related": [
+    {
+     "source": "stoo.com",
+     "url": "http://www.stoo.com/article.php?aid=109595236843",
+     "orig": "http://www.stoo.com/article.php?aid=109595236843",
+     "title": "인천 가스폭발 추가 피해 막은 의인…알고 보니 배우 윤대열"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "쿠팡 산재 유족, 이 대통령에 \"미국 압박 영향 안 받았을 거라 믿어\"",
+   "summary": "이어 자살·고독사·실종·산업재해·인파 사고 등 주요 유형별 사망자 저감 대책 등이 발표됐다. 이 대통령은... 소규모 사업장의 산재가 더 심각한 현실에서 50인 미만 사업장은 산재 예방 관련 기준을 더 느슨하게 풀어주는...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000962236?sid=100",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102817380004028?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-28T18:05+09:00",
+   "cat": "sev",
+   "id": "258cd009051a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "‘쿠팡 산재’ 유족 호소에…말을 잇지 못한 김영훈 장관 [지금뉴스]",
+   "summary": "김 장관은 오늘(28일) 청와대에서 열린 국민생명안전위원회 전체회의에서 쿠팡물류센터 산재 사망 피해자 고... 한편 박 씨는 23명이 숨진 '아리셀 화재 참사'와 관련해 박순관 아리셀 대표가 중대재해처벌법 위반으로 징역...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012282645?sid=121",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697643&ref=A",
+   "source": "KBS",
+   "published": "2026-10-28T18:04+09:00",
+   "cat": "sev",
+   "id": "f748e792cd80",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "\"위험물 정보, 서류와 PC에 흩어져 있었다\" 태안발전소가 바꾼 안전관리",
+   "summary": "왼쪽부터 옥광식 방재센터장, 우희민, 김대성 안전경영처장, 황진성씨. ⓒ 한국서부발전 태안발전본부 태안발전본부는 이번 경진대회에서 '모든 구성원이 참여하는 위험물 안전관리 협업체계 구축'을 주제로 개선 사례를...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002533837?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279658&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-28T18:01+09:00",
+   "cat": "tech",
+   "id": "dcc856c034b8",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "NC파크 추락 사태 유족 “더는 미룰 수 없다”",
+   "summary": "창원NC파크 루버 추락 사망사건 피해자 유족 측은 28일 오후 경남 창원시 마산회원구 NC파크에서 기자회견을... 경남경찰청에서는 지난 3월 업무상과실치사상, 중대재해처벌법상 시민재해 등 혐의로 창원시설공단 원하청...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001404593?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026102817575093889",
+   "source": "부산일보",
+   "published": "2026-10-28T18:00+09:00",
+   "cat": "sev",
+   "id": "6789d03e910a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천 폭발 현장에 뛰어든 ‘의인’, 배우 윤대열이었다",
+   "summary": "한편 사고가 발생한 건물 1층 음식점에서는 당시 내부 철거 작업이 진행되고 있었다. 이 폭발로 60대 작업자 3명과 60대 점주 1명 등 총 4명이 얼굴 등에 화상을 입고 병원으로 옮겨져 치료받고 있다. 부상자들은 생명에는...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002715700?sid=102",
+   "orig": "https://biz.heraldcorp.com/article/10918119?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-28T17:55+09:00",
+   "cat": "acc",
+   "id": "76e2cd36aee6",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[기획] 창녕군 안전망 촘촘해진다…AI가 먼저 찾고 관제요원이 대응",
+   "summary": "AI 기술을 활용해 기존 CCTV 관제 방식의 한계를 개선하고 현장 대응력을 높인 점을 인정받아 행정안전부가... 실종자 추적까지 확대…스마트 안전망 고도화 창녕군은 현재의 스마트관제 체계를 한 단계 더 발전시킬...",
+   "url": "https://www.g-enews.com/view.php?ud=202610281537084783104339cca1_1",
+   "orig": "https://www.g-enews.com/view.php?ud=202610281537084783104339cca1_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-28T17:54+09:00",
+   "cat": "tech",
+   "id": "744d10383cd8",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "“살던 곳에서 건강하고 안전하게”…용산구, 통합돌봄 성과공유회",
+   "summary": "통합돌봄은 돌봄이 필요한 주민이 살던 곳에서 건강하고 안전하게 생활할 수 있도록 보건의료·건강관리... 각 동주민센터와 구청과 보건소의 복지·보건 분야 담당자, 국민건강보험공단 관계자, 민간 사회복지시설...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003693533?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/10/28/20261028500400?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-28T17:52+09:00",
+   "cat": "tech",
+   "id": "b4ab0a9d03f2",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "경북도회, 2026년 전문공사업 CEO 안전보건 아카데미 참여",
+   "summary": "대한전문건설협회 경북도회(회장 최진현)는 한국산업안전보건공단 주관으로 대구와 포항에서 열린 '전문공사업 CEO 안전보건 아카데미'에 지역 전문건설업체 대표자 및 임원들과 참여해 건설현장 안전관리 역량을...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327207",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327207",
+   "source": "대한전문건설신문",
+   "published": "2026-10-28T17:48+09:00",
+   "cat": "tech",
+   "id": "49f666443541",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "삼표그룹, 폐안전모부터 폐섬유까지…산업현장 자원순환 협력",
+   "summary": "산업현장에서 안전모는 근로자의 안전과 직결돼 주기적인 점검과 교체가 필요하다. 교체 과정에서 발생하는... 협약에 참여한 27개 기관·기업은 폐안전모를 비롯해 폐섬유와 폐추락방지망 등 건설현장과 산업현장에서...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=324159",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=324159",
+   "source": "더퍼블릭",
+   "published": "2026-10-28T17:44+09:00",
+   "cat": "tech",
+   "id": "a25c964297b5",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "평택해경, 야간 해상방제 합동훈련…기름 유출 사고 대응 점검",
+   "summary": "훈련은 선박 기름 이송 작업 중 배관이 파손돼 화재가 발생하고 기름이 해상으로 유출된 상황을 가정해 진행됐다. 참가 기관들은 사고 선박의 화재를 진압한 뒤 탐조등을 활용해 해상에 유출된 기름을 탐색했다. 이어...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002463184?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026102817365875260?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-10-28T17:41+09:00",
+   "cat": "tech",
+   "id": "daeccb14235a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "한국농어촌공사 곡성지사, 건설현장 산업재해 예방 안전보건협의체 운...",
+   "summary": "안전보건 관련 준수사항을 공유하는 한편, 근로자 보호를 위해 개선이 필요한 사항도 함께 검토했다. 회의에서는 추락과 끼임, 건설장비 충돌 등 주요 사고 유형에 대한 사전 예방의 중요성도 강조됐다. 실제 굴착기 사고...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261028010008291",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261028010008291",
+   "source": "중도일보",
+   "published": "2026-10-28T17:40+09:00",
+   "cat": "tech",
+   "id": "d4c7d4ea9817",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "안광률 경기도의회 민주당 대표 \"피지컬 AI로 산업현장 안전 강화\"",
+   "summary": "AI가 일자리를 대체하는 것이 아니라 위험한 작업을 대신하고 사람을 보호하는 기술로 활용하겠다는... 산업재해 사고도 지속적으로 증가하고 있어 피지컬 AI를 활용한 안전 대책의 필요성이 제기된다. 안 대표의원은...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004204067?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6598737?utm_source=naver&utm_medium=article&utm_campaign=20261028053836",
+   "source": "노컷뉴스",
+   "published": "2026-10-28T17:39+09:00",
+   "cat": "tech",
+   "id": "72abd603b4fd",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "자유기업원, “산재 과징금, 영업이익 기준 재검토해야”",
+   "summary": "자유기업원은 28일 논평을 통해 산업재해 사망사고에 영업이익을 기준으로 과징금을 부과하는 방식이 제재의... 산업재해가 발생하면 기업은 산업안전보건법과 중대재해처벌법 등에 따른 형사책임에 더해 행정제재와...",
+   "url": "https://www.swtvnews.com/news/newsview.php?ncode=1065601234291879",
+   "orig": "https://www.swtvnews.com/news/newsview.php?ncode=1065601234291879",
+   "source": "swtvnews.com",
+   "published": "2026-10-28T17:36+09:00",
+   "cat": "law",
+   "id": "0fa76d53a833",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "모두가 반도체 살리기에 힘쓰는 사이… “노동자 안전·건강에도 관심 ...",
+   "summary": "“산재 사망에 대한 사회적 관심이 늘었지만, 여전히 직업병 사망과 생존자의 고통에 대해서는 무관심한 상황이다. 한겨레21과 언론이 직업병 예방과 보상 문제에 더 관심을 가지고 깊이 있는 진단을 통해 사회가 건강해질...",
+   "url": "https://n.news.naver.com/mnews/article/036/0000054377?sid=102",
+   "orig": "https://h21.hani.co.kr/arti/society/society_general/60079.html",
+   "source": "한겨레",
+   "published": "2026-10-28T17:32+09:00",
+   "cat": "hlt",
+   "id": "b86dcd4e170a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "노동부 장관의 공개 비판 \"아리셀 판결, 잘못된 메시지 될 수도\"",
+   "summary": "▲ 쿠팡물류센터 산재 사망 피해자 故 장덕준씨 모친 박미숙씨가 28일 청와대에서 이재명 대통령 주재로... 실제로 항소심 재판부는 중대재해처벌법상 비상구 설치와 비상통로 유지 의무가 없고 피해자 유족 전원의...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002533825?sid=100",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279648&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-10-28T17:31+09:00",
+   "cat": "law",
+   "id": "c3991c7d7d97",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "소상공인시장진흥공단, NH농협손해보험과 '소공인 화재 안전 지원체계 ...",
+   "summary": "작업장 내 가연성 자재 취급과 노후시설 등으로 화재 위험에 노출되어 있으나, 까다로운 인수 조건과 높은 보험료 부담으로 민간 보험 사각지대에 있던 소공인의 경영 안전망을 강화하기 위해 추진된 이번 협약에 따라 양...",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=725516",
+   "orig": "https://www.newstnt.com/news/articleView.html?idxno=725516",
+   "source": "newstnt.com",
+   "published": "2026-10-28T17:30+09:00",
+   "cat": "acc",
+   "id": "9975ac920456",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "미 양당, AI 경영진에 “말 줄이고 제품 개발·안전 집중” 요구",
+   "summary": "번영과 재앙을 오가는 메시지가 정치권의 우려를 키우고, AI 업계에 대한 대중의 반발도 더 거세졌다고 말했다. 이번에 보도된 요구는 새 규제 결정이 아니라 AI 경영진의 발언과 안전 대응 방식에 대한 정치권의 비판이다.",
+   "url": "https://www.tokenpost.kr/news/ai/426898",
+   "orig": "https://www.tokenpost.kr/news/ai/426898",
+   "source": "tokenpost.kr",
+   "published": "2026-10-28T17:30+09:00",
+   "cat": "tech",
+   "id": "c51b74c09c05",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "\"벌목작업 중대재해 예방\"…고용부 태백지청, 합동 점검",
+   "summary": "현장에서는 '임업현장 안전점검 및 중대재해 제로 캠페인'이 열렸다. 행사는 동부지방산림청, 한국산업안전보... 진동근 고용노동부 태백지청장은 \"벌목작업은 작업 전 위험요인을 확인하고 안전거리를 확보하는 등 기본...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009256315?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6335280",
+   "source": "뉴스1",
+   "published": "2026-10-28T17:29+09:00",
+   "cat": "tech",
+   "id": "f32644f1c5f8",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천 상가 LPG 폭발, 대형 화재 막은 시민은 '배우 윤대열'",
+   "summary": "앞서 전날 오전 8시 45분쯤 검단구의 한 지상 3층 규모 상가 1층에서 LPG가 폭발하는 사고가 났다. 이 사고로 폐업 상가의 시설물을 철거하던 60대 남성 3명과 60대 여성 1명 등 작업자 4명이 얼굴 등에 1~2도 화상을 입었다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009256310?sid=102",
+   "orig": "https://www.news1.kr/local/incheon/6335325",
+   "source": "뉴스1",
+   "published": "2026-10-28T17:27+09:00",
+   "cat": "acc",
+   "id": "3eb24a32cc4c",
+   "related": [
+    {
+     "source": "starnewskorea.com",
+     "url": "https://www.starnewskorea.com/star/2026/10/28/2026102818201053516",
+     "orig": "https://www.starnewskorea.com/star/2026/10/28/2026102818201053516",
+     "title": "인천 LPG 폭발 참사 막은 시민, 알고 보니 배우 윤대열 [스타이슈]"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "경동원, 건축산업대전서 화재 안전·고단열 기술 공개…신제품 전시",
+   "summary": "내화 성능과 단열 성능을 함께 확보해 건축물의 화재 안전성을 높이는 데 초점을 맞췄다. 오토스윙도어는 안면·정맥 인식 기술을 적용해 비접촉 방식으로 출입할 수 있는 스마트 도어다. 장애물을 감지하면 자동으로...",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=229013",
+   "orig": "https://www.youthdaily.co.kr/news/article.html?no=229013",
+   "source": "youthdaily.co.kr",
+   "published": "2026-10-28T17:26+09:00",
+   "cat": "tech",
+   "id": "87b3fd79dbe9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김현중 안전보건공단 이사장, 제17회 근로평화상 논문 공모 당선",
+   "summary": "한국산업안전보건공단 김현중 이사장의 논문 '산업재해 예방을 위한 노동자 참여형 안전문화와 노동조합의 역할'이 제17회 근로평화상 및 노사관계 논문 공모에서 당선작으로 뽑혔다. 노사관계 논문 부문 수상작은...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261028023042370",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261028023042370",
+   "source": "에너지경제",
+   "published": "2026-10-28T17:24+09:00",
+   "cat": "tech",
+   "id": "76f8c5819e54",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "李 “국민 생명안전은 국가 책임, 막을 수 있는 죽음 줄일 것”",
+   "summary": "그러자 쿠팡 산재 피해 유가족모임 회원인 박미숙씨는 노동부가 지난 22일 김범석 쿠팡 의장의 산재 은폐 의혹 사건을 무혐의로 종결한 데 대해 분통을 터뜨리며 “산재 사망이 줄어든다고 하시는데, 그 사고에 과연...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003561181?sid=100",
+   "orig": "https://www.joongang.co.kr/article/25473695",
+   "source": "중앙일보",
+   "published": "2026-10-28T17:22+09:00",
+   "cat": "sev",
+   "id": "38c21ffdae81",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "국민생명안전위원회를 마치고",
+   "summary": "이정민 이태원참사 유가족협의회 운영위원장(오른쪽 세번째)과 쿠팡물류센터 산재 사망 피해자 고 장덕준씨 모친 박미숙씨(왼쪽 세번째) 등 참석자들이 28일 청와대에서 이재명 대통령 주재로 열린...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016407131?sid=100",
+   "orig": "https://www.yna.co.kr/view/PYH20261028218800013?input=1196m",
+   "source": "연합뉴스",
+   "published": "2026-10-28T17:22+09:00",
+   "cat": "law",
+   "id": "f7b6dc6ef268",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "민주노총 \"李 '외국인노동자 크게 도움 안 돼' 발언 사과해야\"",
+   "summary": "또한 민주노총은 \"이주노동자는 한국 사회의 당당한 구성원이자 노동자\"라며 사업장 이동의 자유 보장, 임금체불과 산재 사망 대책 마련, 인간다운 주거권 보장 등 실질적인 인권 대책을 즉각 시행하라고 요구했다.",
+   "url": "https://n.news.naver.com/mnews/article/003/0014285507?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261028_0003845270",
+   "source": "뉴시스",
+   "published": "2026-10-28T17:20+09:00",
+   "cat": "law",
+   "id": "c077c8aa5bc0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[제약바이오 브리프] 제일약품·HK이노엔·듀캠바이오·휴온스엔",
+   "summary": "이번 훈련은 지난 7월 진행한 민관 합동훈련에 이어 공장 자체적으로 실시하는 훈련으로, 화재 및 유해화학물질 누출 등 비상상황에 대비해 현장 근로자들의 초기 대응 능력을 강화하고 안전관리 체계를 점검하기 위해...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610280900104610446",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610280900104610446",
+   "source": "대한경제",
+   "published": "2026-10-28T17:20+09:00",
+   "cat": "hlt",
+   "id": "d7dcd918a19d",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김포 공장서 이주노동자 작업 중 사망…노동단체 \"중대재해 철저히 조사...",
+   "summary": "민주노총 경기도본부와 경기이주평등연대 등 노동·시민사회단체는 28일 오전 10시 30분 고용노동부 부천지청 앞에서 김포의 한 공장에서 발생한 이주노동자 사망 사고와 관련해 책임자 처벌과 재발 방지 대책 마련을...",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=917153",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=917153",
+   "source": "경기신문",
+   "published": "2026-10-28T17:16+09:00",
+   "cat": "sev",
+   "id": "57af778d89d6",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[JOB談] \"영웅 대접 과하다\" vs \"목숨 거는 현장\"...소방관 처우 논란",
+   "summary": "그는 \"소방공무원의 순직률은 0.006~0.007% 수준\"이라며 \"일반직 공무원도 0.005% 수준이라 큰 차이가 없고 일반 근로자의 산재 사망률은 0.0098%로 오히려 이보다 높다\"고 적었다. 이어 \"경찰공무원은 순직률이 0.010%로 소방관...",
+   "url": "https://www.news2day.co.kr/article/20261028500194",
+   "orig": "https://www.news2day.co.kr/article/20261028500194",
+   "source": "뉴스투데이",
+   "published": "2026-10-28T17:16+09:00",
+   "cat": "sev",
+   "id": "928b0fab5363",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "제주서 지게차 사고로 40대 노동자 사망…철저한 진상규명 촉구",
+   "summary": "민주노총 제주지역본부는 28일 성명을 내고 지난 23일 발생한 지게차 전도 사망사고와 관련해 사고 원인을 규명하고 산업안전보건법과 중대재해처벌법 위반 여부를 철저히 조사할 것을 촉구했다. 민주노총에 따르면 숨진...",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=427632",
+   "orig": "https://www.newsjeju.net/news/articleView.html?idxno=427632",
+   "source": "newsjeju.net",
+   "published": "2026-10-28T17:14+09:00",
+   "cat": "sev",
+   "id": "b9240915d682",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "여수산단서 배관 작업 중 5m 추락…60대 부상",
+   "summary": "배관 작업을 하다 5m 높이에서 떨어진 작업자가 구조돼 병원으로 옮겨졌습니다. 여수소방서는 어제(27) 저녁 7시 25분쯤 여수 국가산단 내 한 석유화학 공장에서 배관 작업을 하던 60대 작업자가 5미터 높이에서 떨어져...",
+   "url": "https://ysmbc.co.kr/NewsArticle/1543090",
+   "orig": "https://ysmbc.co.kr/NewsArticle/1543090",
+   "source": "ysmbc.co.kr",
+   "published": "2026-10-28T17:14+09:00",
+   "cat": "acc",
+   "id": "72867fd1b1e4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "\"보이면 피하세요\"…슈퍼푸드로 불리는 과일, 생후 12일 아기 목숨 앗아...",
+   "summary": "아기의 어머니인 줄리아나 고메스 씨가 다섯 살 된 둘째 아이의 유치원 등원을 마치고 귀가를 준비하던 중... 또 아들이 숨지는 사고가 발생한 뒤에야 지방자치단체 직원들이 나무 가지치기 작업에 나섰다며 \"그들은 몰래...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005834828?sid=104",
+   "orig": "https://view.asiae.co.kr/article/2026102817122546075",
+   "source": "아시아경제",
+   "published": "2026-10-28T17:14+09:00",
+   "cat": "sev",
+   "id": "81071293c5c2",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[전북 24시] 전북도, 중소기업 사업장 환경·안전문제 해소 대대적 지원...",
+   "summary": "전북도, 화학안전 진단·시설개선·교육 통합지원-92곳 진단 전북교육청, 학생 마음건강 예방부터 회복까지... 올해는 전국 공공·학교·병영·전문도서관 등 2만 2203개 도서관을 대상으로 △도서관 경영 △인적자원...",
+   "url": "https://n.news.naver.com/mnews/article/586/0000141081?sid=102",
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=392013",
+   "source": "시사저널",
+   "published": "2026-10-28T17:14+09:00",
+   "cat": "tech",
+   "id": "2a9a5be267b5",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "추미애 지사, '피지컬 AI 대전환' 선언...제조·재난안전·돌봄 혁신 추...",
+   "summary": "실제 작업을 수행하도록 하는 기술로, 제조공정 자동화와 위험지역 수색 및 일상생활 보조 등에 활용할 수... 추 지사는 산업현장의 고온 설비 점검과 중량물 운반, 화재 및 붕괴 사고 대응 과정에서 발생하는 위험을...",
+   "url": "https://www.ajunews.com/view/20261028170145248",
+   "orig": "https://www.ajunews.com/view/20261028170145248",
+   "source": "아주경제",
+   "published": "2026-10-28T17:10+09:00",
+   "cat": "tech",
+   "id": "9543a941ca3b",
+   "related": [
+    {
+     "source": "뉴스투데이",
+     "url": "https://www.news2day.co.kr/article/20261028500385",
+     "orig": "https://www.news2day.co.kr/article/20261028500385",
+     "title": "추미애 경기지사, 피지컬 AI로 제조혁신 이끈다...재난안전·돌봄까지 확..."
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[ESG칼럼] 현대건설① 3,000억 쓰고도 산재·부실 계속···지속가능경...",
+   "summary": "이미 세 명의 사망자를 낸 현대건설이 내년에도 산재 사망자를 낼 경우 수백억 원의 과징금을 맞을 수 있다. H-SYNC를 구축하고 안전보건을 핵심 ESG 이슈로 선정하는 것만으로는 사고를 막을 수 없다. 사망만인율과...",
+   "url": "https://www.globale.co.kr/news/articleView.html?idxno=41287",
+   "orig": "https://www.globale.co.kr/news/articleView.html?idxno=41287",
+   "source": "globale.co.kr",
+   "published": "2026-10-28T17:06+09:00",
+   "cat": "tech",
+   "id": "e3634cffeb85",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "삼성 ‘백혈병 기금 500억’으로 ‘묻지마 청사 매입’했다가 무상기부...",
+   "summary": "2007년 3월 삼성전자 직원 황유미씨 사망으로 사회적 이슈가 된 삼성 반도체 사업장 백혈병 문제는 2018년... 삼성전자는 백혈병 피해자에게 보상하는 것에 더해 중대 산업재해를 예방하기 위해 산업안전보건 발전기금...",
+   "url": "https://slownews.kr/168688",
+   "orig": "https://slownews.kr/168688",
+   "source": "slownews.kr",
+   "published": "2026-10-28T17:04+09:00",
+   "cat": "hlt",
+   "id": "fd849483461c",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "폭발 현장에 달려가 LPG통 밸브 잠궜다…참사 막은 배우 윤대열",
+   "summary": "가스 폭발이 발생한 음식점에서는 내부 철거 작업이 진행하고 있다. 당시 사고로 60대 작업자 3명과 60대 점주 1명 등 4명이 얼굴 부위 등에 화상을 입고 119 구급대에 의해 병원으로 옮겨져 치료받고 있다. 경찰은 가스...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002829611?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/capital/1284624.html",
+   "source": "한겨레",
+   "published": "2026-10-28T17:04+09:00",
+   "cat": "sev",
+   "id": "3f9db5b2c408",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "추미애, \"피지컬 AI로 산업혁신 이끌고 도민의 삶 더 안전하게 만들겠다...",
+   "summary": "고온·고중량 작업이나 유해환경 점검 등 사고 위험이 높은 공정에 로봇을 투입하고, 화재·붕괴 현장에서는 무인장비를 활용해 구조대원의 위험 노출을 최소화하겠다는 구상이다. 또 \"생산과 물류, 이동과 건설, 재난...",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446354",
+   "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=446354",
+   "source": "econonews.co.kr",
+   "published": "2026-10-28T17:04+09:00",
+   "cat": "tech",
+   "id": "f9a019964bbe",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "\"가스 계속 누출될 뻔\"…폭발 현장 달려간 '범죄도시' 출연 배우[따전소...",
+   "summary": "한편 사고가 발생한 건물 1층 음식점에서는 당시 내부 철거 작업이 진행되고 있었다. 이 폭발로 60대 작업자 3명과 60대 점주 1명 등 총 4명이 얼굴 등에 화상을 입고 병원으로 옮겨져 치료받고 있다. 부상자들은 생명에는...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006398227?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=05438246645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-28T17:01+09:00",
+   "cat": "acc",
+   "id": "206fb2da884c",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "정부, 자살·산재 등 사망자 15개 분야 관리…대통령 직접 점검",
+   "summary": "정부가 자살과 산업재해 등 15개 분야의 사망자를 국가 차원에서 관리하고 대통령이 정기적으로 감축 실적을... 특히 2021~2025년 자살과 산업재해 등 15대 분야에서 발생한 연평균 사망자 2만3218명을 핵심 성과지표로...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009256242?sid=102",
+   "orig": "https://www.news1.kr/local/moi/6334273",
+   "source": "뉴스1",
+   "published": "2026-10-28T17:00+09:00",
+   "cat": "sev",
+   "id": "a5eb024469d0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "李, 국민생명안전위 회의…안전영향평가 안착·15대 분야 사망자 상시 ...",
+   "summary": "재난안전법 체계의 기준·계획·지표를 연계하고 안전영향평가 제도를 안착시킬 계획입니다. 자살·산업재해... 고용노동부는 안전보건 격차 해소를, 행정안전부는 다중운집 행사·장소의 인파 위험 사전관리와 현장 대응력...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000540345?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000342763?division=NAVER",
+   "source": "SBS",
+   "published": "2026-10-28T16:59+09:00",
+   "cat": "sev",
+   "id": "8555d0a13154",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "李대통령 \"경제 성장해도 목숨 잃으면 의미 없어\"…쿠팡 산재에 김영훈...",
+   "summary": "이 대통령은 이날 오후 청와대에서 열린 국민생명안전위원회 제2차 전체회의에서 \"국가가 국민의 생명과... 유가족들은 쿠팡의 산업재해 은폐 의혹을 불기소한 것은 납득이 되지 않는다고 지적했다. 김영훈 고용노동부...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009256237?sid=100",
+   "orig": "https://www.news1.kr/politics/president/6335216",
+   "source": "뉴스1",
+   "published": "2026-10-28T16:58+09:00",
+   "cat": "sev",
+   "id": "309b946626d7",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "글로벌 진출 힘 주던 DN오토모티브, 시대 역행하는 '납 중독 은폐 논란...",
+   "summary": "해당 이슈의 핵심 쟁점은 DN오토솔루션이 산업안전보건법 위반 또는 중대재해처벌법 등을 피하려고... 그러면서 \"고용노동부 지도 하에 작업환경 개선을 위해 노사정 추천 외부 전문가 9인으로 출범한 위원회를 적극...",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45904",
+   "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=45904",
+   "source": "financialreview.co.kr",
+   "published": "2026-10-28T16:56+09:00",
+   "cat": "law",
+   "id": "988ddc1bb4a9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
   {
    "title": "일죽농협-NH농협손보, 중대재해 안전망 강화 ‘맞손’",
    "summary": "한편, 이날 현판식에는 일죽농협 유동현 조합장, 박광욱 상임이사, 주미현 상무를 비롯해 NH농협손해보험 박정묵 경기총국장과 양 기관 임직원들이 참석해 안전경영 실천 의지를 다졌다.",
@@ -236,7 +1168,14 @@
    "published": "2026-10-28T16:40+09:00",
    "cat": "tech",
    "id": "d8f7adf54a60",
-   "related": [],
+   "related": [
+    {
+     "source": "한국금융신문",
+     "url": "https://www.fntimes.com/html/view.php?ud=202610281903575715dd55077bc2_18",
+     "orig": "https://www.fntimes.com/html/view.php?ud=202610281903575715dd55077bc2_18",
+     "title": "일죽농협, 중대재해 배상책임보험 현판식 개최…안전경영 강화"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -417,6 +1356,19 @@
    "watch": []
   },
   {
+   "title": "식당 철거 중 '펑'…폭발 현장 달려가 가스 차단한 영웅, 알고보니",
+   "summary": "인천 검단구 마전동 상가 건물에서 가스 폭발 사고가 난 직후, 현장으로 달려가 LPG통 밸브를 잠그고 신고한... 사고가 난 곳은 내부 철거 작업이 한창이던 음식점으로, 60대 작업자 3명과 60대 점주 1명 등 4명이 얼굴 등에...",
+   "url": "https://n.news.naver.com/mnews/article/215/0001270817?sid=102",
+   "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202610280153&t=NN",
+   "source": "한국경제TV",
+   "published": "2026-10-28T16:15+09:00",
+   "cat": "acc",
+   "id": "33add5650c25",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "김영훈 “쿠팡 김범석, 노동자 추모하고 재발 방지책 냈어야”",
    "summary": "쿠팡산재 피해 유가족 모임 회원의 발언을 듣고 이같이 답했다. 박 씨는 노동부가 지난 22일 쿠팡의 물류센터 심야 근무를 마친 뒤 자택에서 사망한 고(故) 장덕준 씨에게 산업재해를 적용하지 않으려고 핵심 내용을 은폐한...",
    "url": "https://n.news.naver.com/mnews/article/011/0004676136?sid=100",
@@ -457,6 +1409,30 @@
      "url": "https://n.news.naver.com/mnews/article/082/0001404554?sid=102",
      "orig": "https://www.busan.com/view/busan/view.php?code=2026102816121835645",
      "title": "노동장관, 쿠팡 '산재은폐 정황' 불기소에 \"유족에 송구…외압 전혀 없..."
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001398831?sid=100",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819550&plink=ORI&cooper=NAVER",
+     "title": "김영훈, 쿠팡 산재 유족에 \"불기소 결론 송구…외압은 전혀 없었다\""
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/366/0001201025?sid=102",
+     "orig": "https://biz.chosun.com/topics/topics_social/2026/10/28/HNV6TOCFPZEJFNIPZ72K2BB52A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+     "title": "노동장관 “쿠팡 산재 불기소 결론 송구… 외압은 없었다”"
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2641333",
+     "orig": "https://www.etoday.co.kr/news/view/2641333",
+     "title": "김영훈 장관 \"쿠팡산재 유족에 불기소 결론 송구⋯외압 전혀 없어\""
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001531996?sid=100",
+     "orig": "https://imnews.imbc.com/news/2026/politics/article/6861404_36911.html",
+     "title": "김영훈, 쿠팡산재 유족에 \"불기소 결론 송구‥외압 전혀 없었다\""
     }
    ],
    "day": "2026-10-28",
@@ -515,6 +1491,78 @@
      "url": "https://n.news.naver.com/mnews/article/654/0000208006?sid=102",
      "orig": "https://www.kado.net/news/articleView.html?idxno=2081072",
      "title": "인천 가스폭발 현장서 달려가 밸브 잠근 시민…알고보니 이 배우"
+    },
+    {
+     "source": "동아일보",
+     "url": "https://n.news.naver.com/mnews/article/020/0003758362?sid=102",
+     "orig": "https://www.donga.com/news/Society/article/all/20261028/134925987/1",
+     "title": "배우 윤대열, 인천 가스 폭발 현장서 밸브 잠근 시민이었다"
+    },
+    {
+     "source": "국민일보",
+     "url": "https://n.news.naver.com/mnews/article/005/0001881490?sid=102",
+     "orig": "https://www.kmib.co.kr/article/20261028502094",
+     "title": "인천 가스 폭발 현장 달려간 시민…알고 보니 ‘범죄도시’ 이 배우"
+    },
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005347630?sid=102",
+     "orig": "https://www.hankyung.com/article/202610281310H",
+     "title": "\"펑 소리에 달려갔다\"…가스 폭발 현장서 밸브 잠근 시민 정체"
+    },
+    {
+     "source": "spotvnews.co.kr",
+     "url": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016027",
+     "orig": "https://www.spotvnews.co.kr/news/articleView.html?idxno=1016027",
+     "title": "가스 폭발 현장 막은 시민…알고 보니 ‘서울의 봄’ 배우 윤대열[이슈..."
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000920458?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261028174507a6X",
+     "title": "폭발 현장 달려가 가스 차단 시민…알고보니 배우 윤대열"
+    },
+    {
+     "source": "아시아경제",
+     "url": "https://n.news.naver.com/mnews/article/277/0005834854?sid=102",
+     "orig": "https://view.asiae.co.kr/article/2026102818145767751",
+     "title": "인천 가스 폭발 현장서 밸브 잠근 시민…알고보니 이 배우"
+    },
+    {
+     "source": "디지털타임스",
+     "url": "https://n.news.naver.com/mnews/article/029/0003055884?sid=102",
+     "orig": "https://www.dt.co.kr/article/12091912?ref=naver",
+     "title": "인천 ‘가스폭발’ 현장 달려가 밸브 잠근 시민…주인공은 영화 배우"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003479194?sid=102",
+     "orig": "https://www.khan.co.kr/article/202610281905001",
+     "title": "‘범죄도시’ 배우 윤대열, 가스 폭발 현장 달려가 LPG 밸브 잠그고 신..."
+    },
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003561217?sid=102",
+     "orig": "https://www.joongang.co.kr/article/25473734",
+     "title": "가스폭발 현장 달려가 밸브 잠근 시민…알고보니 배우 윤대열"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003148396?sid=102",
+     "orig": "https://www.dailian.co.kr/news/view/1707670/?sc=Naver",
+     "title": "가스 폭발에 달려가 밸브 잠근 시민…배우 윤대열이었다"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/009/0005755582?sid=102",
+     "orig": "https://www.mk.co.kr/article/12188865",
+     "title": "“폭발음에 달려가 밸브 잠갔다”…큰 사고 막은 시민, 알고 보니 그 배..."
+    },
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004170585?sid=102",
+     "orig": "https://www.segye.com/newsView/20261028519687?OutUrl=naver",
+     "title": "“펑 소리에 달렸다”…인천 가스 폭발 현장서 밸브 잠근 시민, 배우 윤..."
     }
    ],
    "day": "2026-10-28",
@@ -560,6 +1608,30 @@
      "url": "https://n.news.naver.com/mnews/article/654/0000208010?sid=102",
      "orig": "https://www.kado.net/news/articleView.html?idxno=2081081",
      "title": "창원NC파크 구조물 추락 사망사고 1년 7개월…유족 \"책임자 기소 서둘러..."
+    },
+    {
+     "source": "경남도민일보",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2018175",
+     "orig": "https://www.idomin.com/news/articleView.html?idxno=2018175",
+     "title": "창원NC파크 관중 사망사고 1년 7개월…유족 \"책임자 기소 언제\""
+    },
+    {
+     "source": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=582129",
+     "orig": "https://www.newsgn.com/news/articleView.html?idxno=582129",
+     "title": "창원NC파크 사고 유족 \"아직도 책임자 기소 안 돼\""
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009256403?sid=102",
+     "orig": "https://www.news1.kr/local/busan-gyeongnam/6335471",
+     "title": "창원NC파크 사고 유족 \"1년 7개월째 기소 0명…신속 처리해야\""
+    },
+    {
+     "source": "아시아경제",
+     "url": "https://n.news.naver.com/mnews/article/277/0005834869?sid=102",
+     "orig": "https://view.asiae.co.kr/article/2026102819314385489",
+     "title": "\"1년 7개월 기다렸다\" … 창원NC파크 사망사고 유족, 책임자 기소 촉구"
     }
    ],
    "day": "2026-10-28",
@@ -920,7 +1992,14 @@
    "published": "2026-10-28T15:06+09:00",
    "cat": "tech",
    "id": "eb30f9279c7f",
-   "related": [],
+   "related": [
+    {
+     "source": "e-platform.net",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=106501",
+     "orig": "http://www.e-platform.net/news/articleView.html?idxno=106501",
+     "title": "가스기술공사, 현장 중심 위험성평가로 중대재해 예방 강화"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1147,6 +2226,12 @@
      "url": "http://news.lghellovision.net/news/articleView.html?idxno=560049",
      "orig": "http://news.lghellovision.net/news/articleView.html?idxno=560049",
      "title": "대구교육청, 위험성평가 우수사업장 선정"
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1246581",
+     "orig": "http://www.breaknews.com/1246581",
+     "title": "대구시교육청, 본청·5개 교육지원청 ‘위험성평가 우수사업장’ 선정"
     }
    ],
    "day": "2026-10-28",
@@ -1226,7 +2311,14 @@
    "published": "2026-10-28T14:00+09:00",
    "cat": "acc",
    "id": "8c585bf1ecca",
-   "related": [],
+   "related": [
+    {
+     "source": "newscammp.co.kr",
+     "url": "https://www.newscammp.co.kr/news/articleView.html?idxno=7146",
+     "orig": "https://www.newscammp.co.kr/news/articleView.html?idxno=7146",
+     "title": "정부, 겨울철 화재안전 대책 추진…취약시설 합동점검 강화"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1277,6 +2369,18 @@
      "url": "https://www.newsgn.com/news/articleView.html?idxno=581955",
      "orig": "https://www.newsgn.com/news/articleView.html?idxno=581955",
      "title": "양산시, 공장-창고 화재안전 실태조사 실시"
+    },
+    {
+     "source": "경남도민일보",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2018186",
+     "orig": "https://www.idomin.com/news/articleView.html?idxno=2018186",
+     "title": "양산시, 공장·창고 화재안전 실태조사 추진"
+    },
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=494651",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=494651",
+     "title": "양산시 공장·창고 화재안전 실태조사 실시"
     }
    ],
    "day": "2026-10-28",
@@ -1506,7 +2610,14 @@
    "published": "2026-10-28T12:00+09:00",
    "cat": "tech",
    "id": "3245cabceec6",
-   "related": [],
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246936",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246936",
+     "title": "폴리텍대학, 실제 산재 사례 담은 '현장 안전 핸드북' 전국 배포"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1519,7 +2630,14 @@
    "published": "2026-10-28T12:00+09:00",
    "cat": "tech",
    "id": "1b570adf1b22",
-   "related": [],
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246926",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=246926",
+     "title": "위험물 안전관리도 'AI·QR코드 시대' … 소방청 우수사례 7건 선정"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -2220,6 +3338,12 @@
      "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281311336670535",
      "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281311336670535",
      "title": "금호건설, ‘SAFETY ARTERA’ 안전보건 간담회 개최"
+    },
+    {
+     "source": "아이뉴스24",
+     "url": "https://n.news.naver.com/mnews/article/031/0001070207?sid=101",
+     "orig": "http://www.inews24.com/view/2020075",
+     "title": "금호건설, 'SAFETY ARTERA' 안전보건 간담회 개최"
     }
    ],
    "day": "2026-10-28",
@@ -2322,6 +3446,12 @@
      "url": "https://n.news.naver.com/mnews/article/656/0000190794?sid=102",
      "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2309952",
      "title": "충주 식품공장서 천장 무너져 작업자 3명 추락… 중경상"
+    },
+    {
+     "source": "충청일보",
+     "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2448610",
+     "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2448610",
+     "title": "충주 공장서 누수 점검 중 천장 무너져…작업자 3명 추락"
     }
    ],
    "day": "2026-10-28",
@@ -2935,6 +4065,12 @@
      "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=212028",
      "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=212028",
      "title": "삼표그룹, 56개 사업장서 폐안전모 1032개 수거…재활용 추진"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://sports.hankooki.com/news/articleView.html?idxno=6942440",
+     "orig": "https://sports.hankooki.com/news/articleView.html?idxno=6942440",
+     "title": "삼표그룹, 공장 및 사업소 폐안전모 1032개 수거…자원순환·안전관리 강..."
     }
    ],
    "day": "2026-10-28",
@@ -4561,6 +5697,19 @@
      "title": "청사포 앞바다 양망기 끼임사고..70대 선장 숨져"
     }
    ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동장관, ‘쿠팡 불기소 의견’에 “제도상 공백 문제 검토 중...",
+   "summary": "조국혁신당 서왕진 의원도 “심각한 법령 미비가 있다”며 “현행 산업안전보건법은 산재 발생 사실을... 그러면서 “신고가 증거인멸 면죄부가 되는 상황이 되고 있다”며 “산안법 개정안을 준비하고 있다”고...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012281638?sid=101",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8696364&ref=A",
+   "source": "KBS",
+   "published": "2026-10-27T13:54+09:00",
+   "cat": "law",
+   "id": "6ce88da2b9eb",
+   "related": [],
    "day": "2026-10-27",
    "watch": []
   },
