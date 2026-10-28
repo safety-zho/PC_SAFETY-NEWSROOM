@@ -473,7 +473,7 @@ def collect(cfg: dict) -> list[dict]:
             try:
                 # 우리 회사 검색은 매번 최근 30일치를 가져와 30일 칸이 늘 채워지게 함 (중복은 자동으로 건너뜀)
                 days = watch_days if cat_id == "watch" else 1
-                items = (fetch_naver(q, cid, secret, 100 if cat_id == "watch" else 50)
+                items = (fetch_naver(q, cid, secret, 100)  # 한 번에 최대 100건 (호출 횟수는 같음)
                          if use_naver else fetch_google(q, days))
             except Exception as e:
                 errors += 1
