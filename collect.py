@@ -237,8 +237,20 @@ def watch_hits(art: dict, cfg: dict) -> list[str]:
     return [n for n in w.get("names", []) if n.lower() in title]
 
 
+LAW_NAMES = ["산업안전보건법", "중대재해처벌법", "산업재해보상보험법"]
+
+
 def count_terms(text: str, words: list[str]) -> int:
-    return sum(1 for w in words if w.lower() in text)
+    """요약문에 나온 서로 다른 핵심어 개수.
+    법 이름은 한 번만 센다 (예: '산업안전보건법'이 '산업안전'·'안전보건' 두 개로 세지지 않게).
+    다른 기사에서 법 이름이 스치듯 나온 것만으로 통과하는 일을 막기 위함."""
+    n = 0
+    text = text.replace("고용노동부", "노동부")  # 같은 기관 이름이 '고용노동부'·'노동부' 두 번으로 세지지 않게
+    for law in LAW_NAMES:
+        if law in text:
+            n += 1
+            text = text.replace(law, " ")
+    return n + sum(1 for w in words if w.lower() in text)
 
 
 def relevant(art: dict, cfg: dict) -> bool:
@@ -260,7 +272,25 @@ def relevant(art: dict, cfg: dict) -> bool:
         # 우리 회사 이름이 제목에 있는 기사는 이 기준만 적용 (경영·실적 기사가 일반 기준으로 새어 들어오지 않게)
         return contains_any(title, w.get("must_include_any", [])) or contains_any(desc, w.get("strong_in_summary", []))
     must = cfg["must_include_any"]
-    if contains_any(title, must):
+    weak = [w.lower() for w in cfg.get("weak_title_words", [])]
+    strong = [w for w in must if w.lower() not in weak]
+    if contains_any(title, strong):
+        return True
+    # 노동자·근로자처럼 노동 기사 전반에 나오는 단어만 제목에 있으면 안전보건 표현이 함께 있어야 통과
+    # 여러 소식을 묶은 단신·브리핑 기사는 요약문에 다른 소식이 섞이므로, 아래 '맥락' 판단을 하지 않음
+    digest = contains_any(title, cfg.get("block_title_if_summary_only", []))
+    if not digest and contains_any(title, weak) and contains_any(both, cfg.get("safety_terms", [])):
+        return True
+    # 제목의 '안전'은 일터 맥락(현장·작업·공장 등)이나 안전보건 표현이 함께 있으면 통과 (교통·금융 '안전'은 제외되도록)
+    if not digest and contains_any(title, cfg.get("ctx_title_words", [])) and contains_any(both, cfg.get("safety_terms", []) + cfg.get("work_context", [])):
+        return True
+    # 제목에 사고 표현(중대재해·산업사고 분류 기준 단어)이 있고, 제목이나 요약에 일터 맥락이 있으면 통과
+    incident = [w for c in cfg["categories"] for w in c.get("require_in_title", [])]
+    if contains_any(title, incident) and contains_any(both, cfg.get("work_context", [])):
+        return True
+    # 제목에 인명 피해(사망·사상)와 사고 표현이 함께 있으면 통과 (예: '6명 사상 고가차도 붕괴사고')
+    sev = next((c for c in cfg["categories"] if c.get("priority")), None)
+    if sev and contains_any(title, sev.get("require_in_title", [])) and contains_any(title, incident + ["사고"]):
         return True
     # 제목에 핵심어가 없으면 요약문에 서로 다른 핵심어 3개 이상 + 제목이 정치·증시 기사가 아닐 때만 통과
     if contains_any(title, cfg.get("block_title_if_summary_only", [])):
