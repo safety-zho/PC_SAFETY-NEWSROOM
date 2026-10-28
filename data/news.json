@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T11:08+09:00",
+ "updatedAt": "2026-10-28T14:01+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "medipana.com",
    "cat": "tech",
    "day": "2026-10-28",
-   "count": 10
+   "count": 12
   },
   {
    "id": "0c624c231314",
@@ -67,10 +67,290 @@
    "source": "뉴스1",
    "cat": "tech",
    "day": "2026-10-28",
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "[2026국감] 노동자 사망사고 반복 기업 183곳…상위 10곳 중 8곳 건설사",
+   "summary": "이들 기업에서 발생한 같은 유형의 사망사고는 687건으로, 떨어짐과 끼임 등 4가지 사고 유형이 전체의 90% 이상을 차지했다. 28일 국회 기후에너지환경노동위원회 소속 윤재옥 국민의힘 의원이 고용노동부로부터...",
+   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314121",
+   "orig": "https://www.straightnews.co.kr/news/articleView.html?idxno=314121",
+   "source": "스트레이트뉴스",
+   "published": "2026-10-28T13:42+09:00",
+   "cat": "sev",
+   "id": "711efe1db8ba",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[노무사 칼럼] 소음성 난청 산재보상, 이제는 ‘청력검사 기관 확대’에...",
+   "summary": "소음성 난청은 오랜 시간 소음에 노출된 노동자들에게 나타나는 대표적인 직업병이다. 문제는 청력이 서서히 저하되기 때문에 많은 노동자가 나이가 들어서야 자신의 난청이 과거의 작업환경과 관련되어 있다는 사실을...",
+   "url": "https://idsn.co.kr/news/view/1065587084066177",
+   "orig": "https://idsn.co.kr/news/view/1065587084066177",
+   "source": "idsn.co.kr",
+   "published": "2026-10-28T13:26+09:00",
+   "cat": "hlt",
+   "id": "bec7d9ace257",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "SPL 강동석 전 대표, 항소심도 집행유예…중대재해 징역형 107명 중 실형...",
+   "summary": "2022년 SPL 평택 제빵공장 노동자 사망사고로 기소된 강동석 전 대표가 항소심에서도 집행유예를 선고받았다. 중대재해처벌법 위반 사건의 1심 징역형 선고자 107명 가운데 실형은 9명에 그쳐, 처벌의 실효성을 둘러싼...",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=92568",
+   "orig": "https://www.the-today.com/news/articleView.html?idxno=92568",
+   "source": "the-today.com",
+   "published": "2026-10-28T13:16+09:00",
+   "cat": "sev",
+   "id": "8378fe5889fb",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[강소기업이 간다] 에스엘즈, 공간지능 AI로 건설안전 책임진다",
+   "summary": "이에 국토교통부는 지난 5월 스마트 안전장비 가이드라인을 개정해 안전관리비·산업안전보건관리비로 비용을 계상할 수 있도록 했다. 특히 7월에는 스마트건설 실증기술 10개를 고르며 '데이터 기반 피지컬 AI'로의...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877099",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877099",
+   "source": "한스경제",
+   "published": "2026-10-28T13:10+09:00",
+   "cat": "tech",
+   "id": "db672429a0d5",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "폴리텍대학, 현장 근로자 의견 반영한 안전 핸드북 전국 배포",
+   "summary": "스마트폰으로 QR코드를 인식하면 안전보건공단의 산업안전 교육영상을 볼 수 있도록 했으며 심폐소생술과 화재 발생 시 대피 및 초기 진압 방법 등 비상상황 대응요령도 담았다. 이철수 한국폴리텍대학 이사장은 \"현장...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251238",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251238",
+   "source": "안전신문",
+   "published": "2026-10-28T13:04+09:00",
+   "cat": "tech",
+   "id": "dc3eb6a0f9f4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "전재식 한신공영 대표, 시흥하중 LH 현장 방문해 근로자 건강·응급체계...",
+   "summary": "회사 관계자는 “안전사고 예방뿐 아니라 근로자의 건강까지 관리하는 것이 실질적인 안전경영의 출발점”이라며 “연말까지 현장별 안전보건 점검과 건강장해 예방 활동을 강화해 ‘6년 연속 중대재해 제로’ 목표를...",
+   "url": "https://www.g-enews.com/view.php?ud=2026102812515924302aa6f4cdad_1",
+   "orig": "https://www.g-enews.com/view.php?ud=2026102812515924302aa6f4cdad_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-10-28T12:58+09:00",
+   "cat": "tech",
+   "id": "698f947365f7",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[전남광주 소식] 전남광주시 '학교무상급식 지원예산' 제2회 추경 반영...",
+   "summary": "이날 훈련은 고용노동부와 한국산업안전보건공단이 주관하는 '대·중소기업 안전보건 상생협력사업'의 일환으로, 기존에는 한빛본부와 사내 협력사를 중심으로 진행했으나 올해는 지역 업체 및 사외 협력사까지 대상을...",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=901072",
+   "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=901072",
+   "source": "newsworks.co.kr",
+   "published": "2026-10-28T12:56+09:00",
+   "cat": "law",
+   "id": "9ac64d4017fb",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "한글의 풍경",
+   "summary": "결혼이민자와 자녀는 여성가족부가 운영하는 가족센터에서, 이주노동자는 고용노동부... 센터는 한국어 교육도 하지만 노동 법률 상담과 산업 안전 교육도 진행한다. 한국에 체류하는 외국인 노동자가 30여만 명에...",
+   "url": "https://newscham.net/130102/",
+   "orig": "https://newscham.net/130102/",
+   "source": "newscham.net",
+   "published": "2026-10-28T12:54+09:00",
+   "cat": "law",
+   "id": "f6605c47de40",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "가스기술공사 '제6회 KOGAS-Tech 위험성평가 경진대회' 성료",
+   "summary": "한국가스기술공사 '제6회 KOGAS-Tech 위험성평가 경진대회'가 성황리에 마무리됐다. 한국가스기술공사(사장... 수립·실행 ▶스마트 장비 및 AI 활용 ▶작업 전 안전회의(TBM) 활동 등이 포함되어 있다. 또한 사장 등 임원...",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=335527",
+   "orig": "http://www.e2news.com/news/articleView.html?idxno=335527",
+   "source": "이투뉴스",
+   "published": "2026-10-28T12:36+09:00",
+   "cat": "tech",
+   "id": "5fe33eedbeec",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "“다 송금해버리니까”… 이 대통령, 외국인 노동자 발언 따져보니 [양...",
+   "summary": "고용노동부의 9월 고용행정 통계로 본 노동시장 동향에 따르면 건설업 고용보험 상시 가입자는 74만... 사회안전망에 들어가는 공공비용이 증가한다. 지역특화비자나 지정 산업 근속 요건 같은 정밀한 이탈 방지 장치가...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004676034?sid=102",
+   "orig": "https://www.sedaily.com/article/20107108?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-28T12:26+09:00",
+   "cat": "law",
+   "id": "8d06b8e0b435",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "섬산련, 섬유산업 제조안전 강화 세미나 11월 4일 개최",
+   "summary": "세미나는 산업안전보건 및 글로벌 공급망 대응, AI 기반 제조안전 기술과 현장 적용사례를 중심으로 2개 세션, 총 4개 발표로 진행된다. 특히 글로벌 공급망의 ESG 요구에 따른 브랜드·벤더의 안전관리 대응방안과 섬유...",
+   "url": "http://okfashion.co.kr/detail.php?number=64300&thread=81r45",
+   "orig": "http://okfashion.co.kr/detail.php?number=64300&thread=81r45",
+   "source": "okfashion.co.kr",
+   "published": "2026-10-28T12:04+09:00",
+   "cat": "tech",
+   "id": "2eb444759764",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "폴리텍대학, 학교 종사자 위한 '현장 안전 핸드북' 배포",
+   "summary": "전 안전점검회의(TBM) 일지도 포함됐다. 한국폴리텍대학 전력기술교육원 조리사들이 손에 '현장 안전... QR코드로 안전보건공단의 산업안전 영상을 스마트폰에서 바로 볼 수 있게 했고, 심폐소생술과 화재 대피·초기 진압...",
+   "url": "https://www.newspim.com/news/view/20261027001278",
+   "orig": "https://www.newspim.com/news/view/20261027001278",
+   "source": "뉴스핌",
+   "published": "2026-10-28T12:00+09:00",
+   "cat": "tech",
+   "id": "3245cabceec6",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "QR코드·AI로 위험물 사고 예방…소방청, 안전관리 우수사례 7건 선정",
+   "summary": "QR코드와 인공지능(AI), 실시간 모니터링 시스템 등 첨단기술을 활용해 산업현장의 위험물 사고를 예방하고... 최금랑 소방위는 QR코드를 활용해 옥외탱크저장소의 정보를 디지털화한 스마트 안전관리체계를 구축했다....",
+   "url": "https://www.newspim.com/news/view/20261028000776",
+   "orig": "https://www.newspim.com/news/view/20261028000776",
+   "source": "뉴스핌",
+   "published": "2026-10-28T12:00+09:00",
+   "cat": "tech",
+   "id": "1b570adf1b22",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "가스기술공사, 위험성평가 우수사례 발굴·공유",
+   "summary": "경영진의 안전경영 의지를 반영하고 노사가 함께 안전문화를 확산하기 위한 것이다. 임종석 가스기술공사 사장은 \"위험성평가가 안전의 시작점\"이라며 \"경진대회를 통해 얻은 혁신적인 아이디어와 사례를 기관 전체에...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229318",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229318",
+   "source": "에너지신문",
+   "published": "2026-10-28T11:56+09:00",
+   "cat": "tech",
+   "id": "145621d5cf1e",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "서울중앙공소청, '처벌불원서 위조' 노동청 특사경 수사요청",
+   "summary": "고용노동부에 소속돼 산업안전보건법 위반이나 중대재해처벌법상 일부 범죄 등을 수사한다. 공소청에... 이번 수사요청은 개정 형사소송법에 따라 이뤄졌다. 개정 형사소송법 제245조의9는 검사가 송치 서류 등을 확인하다...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004203814?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6598374?utm_source=naver&utm_medium=article&utm_campaign=20261028114133",
+   "source": "노컷뉴스",
+   "published": "2026-10-28T11:42+09:00",
+   "cat": "law",
+   "id": "ea15fbf7f1aa",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[굿모닝! 28일 제약바이오 소식] 유한양행·제일약품·세라젬·지씨셀",
+   "summary": "훈련은 지난 7월 민관 합동훈련에 이어 공장 자체적으로 실시하는 것으로, 화재 및 유해화학물질 누출 등 비상상황에 대비해 현장 근로자들의 초기 대응 능력을 강화하고 안전관리 체계를 점검하기 위해 마련됐다....",
+   "url": "https://www.goodkyung.com/news/articleView.html?idxno=292836",
+   "orig": "https://www.goodkyung.com/news/articleView.html?idxno=292836",
+   "source": "goodkyung.com",
+   "published": "2026-10-28T11:40+09:00",
+   "cat": "hlt",
+   "id": "3b4c8398c4b7",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "민주노총 제주 \"반복된 지게차 무면허 사망사고, 방지책 마련하라\"",
+   "summary": "제주에서 넉 달만에 또다시 지게차 무면허 사망사고가 발생해 노동단체가 재발방지 대책 마련을 촉구하고... 그러면서 \"노동부는 이번 사고에서 산업안전보건법 및 중대재해처벌법 위반 여부를 철저히 조사해야 한다\"며...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014284002?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261028_0003844538",
+   "source": "뉴시스",
+   "published": "2026-10-28T11:32+09:00",
+   "cat": "sev",
+   "id": "c2fbb1a13069",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "‘노동자 장관’의 진짜 책무[뉴스와 시각]",
+   "summary": "이 대통령은 산재 사고사망자 감소를 두고 “노동자가 노동부 장관을 한 효과”라며 그를 공개적으로 치켜세웠다. 이제는 노동계의 이해관계가 첨예하게 걸린 사안에서도 ‘노동자 장관’의 소신과 결단력을 보여줘야 할...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002828414?sid=110",
+   "orig": "https://www.munhwa.com/article/11626869?ref=naver",
+   "source": "문화일보",
+   "published": "2026-10-28T11:28+09:00",
+   "cat": "law",
+   "id": "5e67331b362b",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "민주노총 제주본부 \"넉달 만에 또 지게차 사망 사고...철저히 수사하라...",
+   "summary": "민주노총 제주본부는 28일 성명을 내고 \"넉 달 만에 또다시 지게차 사망사고가 발생했다\"며 \"경찰은 철저히... 민주노총은 \"노동부는 이번 사고에서 산업안전보건법 및 중대재해처벌법 위반 여부를 철저히 조사해야 한다...",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601194",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601194",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-10-28T11:14+09:00",
+   "cat": "sev",
+   "id": "e3b91e6282f6",
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009255463?sid=102",
+     "orig": "https://www.news1.kr/local/jeju/6334852",
+     "title": "민주노총 제주 \"넉 달 만에 유사 사고, 지게차 사망 철저 수사\""
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[민주 약국] 유한양행·휴온스엔·제일약품",
+   "summary": "이번 훈련은 지난 7월 민관 합동훈련에 이어 자체적으로 진행했으며 화재와 유해화학물질 누출 등... 제일약품은 이번 훈련을 통해 근로자들의 비상상황 대응 능력을 높이고 공장 내 안전관리 체계를 점검했다....",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=171542",
+   "orig": "http://www.iminju.net/news/articleView.html?idxno=171542",
+   "source": "iminju.net",
+   "published": "2026-10-28T11:14+09:00",
+   "cat": "hlt",
+   "id": "115318b07eb9",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "베트남 新화학물질법 시행, 화학물질 관리체계 개편에 따른 우리 기업 ...",
+   "summary": "신고 시, 상업송장과 물질안전보건자료(MSDS/SDS) 등이 요구되며, 10kg 미만 수입이나 별도 수입허가를 받은... 베트남 산업무역부는 2026년 8~9월 시행령(24/2026/ND-CP) 개정안에 대한 의견을 수렴했으며, 10월 초에는 기존...",
+   "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244665",
+   "orig": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244665",
+   "source": "dream.kotra.or.kr",
+   "published": "2026-10-28T11:06+09:00",
+   "cat": "law",
+   "id": "07b9243aa886",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
   {
    "title": "[초점] 3년 쓰고 버려지던 안전모, 구급키트로…산업현장 폐자원 '순환...",
    "summary": "한국산업안전보건공단이 주최한 '산업현장 폐자원 순환경제 협력 거버넌스 확대를 위한 업무협약'이 지난 21일 서울 코엑스에서 열린 '2026 대한민국 ESG 친환경대전'에서 체결됐다. 사회적기업 우시산과 무한상사...",
@@ -106,7 +386,14 @@
    "published": "2026-10-28T11:02+09:00",
    "cat": "tech",
    "id": "0478fbab9917",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261028000743",
+     "orig": "https://www.newspim.com/news/view/20261028000743",
+     "title": "금호건설, 협력사 23곳과 안전보건 간담회…우수 협력사 3곳 포상"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -230,7 +517,14 @@
    "published": "2026-10-28T10:48+09:00",
    "cat": "acc",
    "id": "37ba645cbd9c",
-   "related": [],
+   "related": [
+    {
+     "source": "sisafocus.co.kr",
+     "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=366860",
+     "orig": "http://www.sisafocus.co.kr/news/articleView.html?idxno=366860",
+     "title": "제일약품, 화재·화학물질 누출 대비…백암공장서 실전훈련"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -436,6 +730,19 @@
    "watch": []
   },
   {
+   "title": "[산업소식] 삼성전자, 품질만족지수 14개 부문 1위",
+   "summary": "협약은 한국산업안전보건공단이 주최하고 우시산과 무한상사 사회적협동조합이 공동 주관했다. 삼표그룹을 포함한 27개 기관·기업이 참여했다. 참여 기관들은 기존 폐안전모뿐 아니라 폐섬유와 폐추락방지망 등...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2120555",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2120555",
+   "source": "포쓰저널",
+   "published": "2026-10-28T10:14+09:00",
+   "cat": "tech",
+   "id": "dec423b419e4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "이주노동자의 송금보다 대통령의 말이 문제다",
    "summary": "무너진 건물과 화재 속에서 또 다른 재앙이 시작됐다. '조선인이 우물에 독을 넣었다', '폭동을 일으킨다'는... 계절근로자 프로그램과 고용허가제는 정부가 만들고 운영해 온 제도다. 필요한 인원을 들여오는 데만...",
    "url": "https://n.news.naver.com/mnews/article/047/0002533741?sid=102",
@@ -457,7 +764,14 @@
    "published": "2026-10-28T10:08+09:00",
    "cat": "tech",
    "id": "8bc4eeec6abd",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202610281115152540205868f676_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202610281115152540205868f676_30",
+     "title": "삼표그룹, 폐안전모 재활용 나서며 현장 안전관리 강화"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -752,6 +1066,18 @@
      "url": "https://www.cnbizm.com/news/articleView.html?idxno=319502",
      "orig": "https://www.cnbizm.com/news/articleView.html?idxno=319502",
      "title": "제일약품·제일헬스사이언스, 백암공장서 재난대응 종합훈련 실시"
+    },
+    {
+     "source": "EBN",
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1729476",
+     "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1729476",
+     "title": "제일약품, 용인 백암공장서 재난대응 종합훈련 실시"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=151047",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=151047",
+     "title": "제일약품, 백암공장 재난대응 종합훈련 실시…현장 안전관리 체계 점검"
     }
    ],
    "day": "2026-10-28",
@@ -792,7 +1118,14 @@
    "published": "2026-10-28T08:36+09:00",
    "cat": "tech",
    "id": "f640cc2c76c0",
-   "related": [],
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/606609?ref=naver",
+     "orig": "https://www.naeil.com/news/read/606609?ref=naver",
+     "title": "AI 예측 고위험사업장, 현장점검은 따로"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -830,6 +1163,12 @@
      "url": "http://www.srtimes.kr/news/articleView.html?idxno=216040",
      "orig": "http://www.srtimes.kr/news/articleView.html?idxno=216040",
      "title": "삼표그룹, 폐안전모 수거 캠페인 전개"
+    },
+    {
+     "source": "hg-times.com",
+     "url": "https://www.hg-times.com/news/articleView.html?idxno=306477",
+     "orig": "https://www.hg-times.com/news/articleView.html?idxno=306477",
+     "title": "삼표그룹, 폐안전모 수거 캠페인 진행"
     }
    ],
    "day": "2026-10-28",
@@ -856,6 +1195,12 @@
      "url": "https://www.viva100.com/article/20261028500504",
      "orig": "https://www.viva100.com/article/20261028500504",
      "title": "삼표그룹, 사업장 56곳서 폐안전모 1032개 수거…안전관리·자원순환 연..."
+    },
+    {
+     "source": "electimes.com",
+     "url": "https://www.electimes.com/news/articleView.html?idxno=373996",
+     "orig": "https://www.electimes.com/news/articleView.html?idxno=373996",
+     "title": "삼표그룹, 폐안전모 1032개 수거…안전관리·자원순환 동시 실천"
     }
    ],
    "day": "2026-10-28",
@@ -1467,7 +1812,14 @@
    "published": "2026-10-27T16:46+09:00",
    "cat": "tech",
    "id": "ba871147cf47",
-   "related": [],
+   "related": [
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=934298",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=934298",
+     "title": "안전보건공단, 고객응대근로자 보호 캠페인"
+    }
+   ],
    "day": "2026-10-27",
    "watch": []
   },
