@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-28T15:52+09:00",
+ "updatedAt": "2026-10-28T16:16+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,24 @@
    "count": 15
   },
   {
+   "id": "0c624c231314",
+   "title": "삼표그룹, 폐안전모 1000여개 수거해 업사이클링…ESG·안전 경영 강화",
+   "url": "https://www.businessplus.kr/news/articleView.html?idxno=118835",
+   "source": "businessplus.kr",
+   "cat": "tech",
+   "day": "2026-10-28",
+   "count": 8
+  },
+  {
+   "id": "4fbedf1af9eb",
+   "title": "충주 공장 천장 점검하던 작업자 3명 추락, 중경상",
+   "url": "https://n.news.naver.com/mnews/article/003/0014283514?sid=102",
+   "source": "뉴시스",
+   "cat": "acc",
+   "day": "2026-10-28",
+   "count": 7
+  },
+  {
    "id": "69111210a3c4",
    "title": "HDC랩스, VISION AI 기반 스마트 안전관제 솔루션으로 현장 안전관리 고...",
    "url": "https://www.etoday.co.kr/news/view/2640710",
@@ -43,34 +61,219 @@
    "count": 7
   },
   {
-   "id": "0c624c231314",
-   "title": "삼표그룹, 폐안전모 1000여개 수거해 업사이클링…ESG·안전 경영 강화",
-   "url": "https://www.businessplus.kr/news/articleView.html?idxno=118835",
-   "source": "businessplus.kr",
+   "id": "839a88a89e40",
+   "title": "삼표그룹, 전국 56개 사업장서 폐안전모 1032개 수거…자원순환 확대",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499066",
+   "source": "핀포인트뉴스",
    "cat": "tech",
    "day": "2026-10-28",
-   "count": 6
-  },
-  {
-   "id": "aaaa26eae2e0",
-   "title": "금호건설, 'SAFETY ARTERA' 1주년…협력사와 안전보건 간담회",
-   "url": "https://www.asiatime.co.kr/article/20261028500104",
-   "source": "asiatime.co.kr",
-   "cat": "tech",
-   "day": "2026-10-28",
-   "count": 5
-  },
-  {
-   "id": "cb3fd332e54e",
-   "title": "삼표그룹, '폐안전모 수거 캠페인'…안전 보건 경영·ESG 실천 강화",
-   "url": "https://n.news.naver.com/mnews/article/421/0009254255?sid=101",
-   "source": "뉴스1",
-   "cat": "tech",
-   "day": "2026-10-28",
-   "count": 5
+   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "김영훈 “쿠팡 김범석, 노동자 추모하고 재발 방지책 냈어야”",
+   "summary": "쿠팡산재 피해 유가족 모임 회원의 발언을 듣고 이같이 답했다. 박 씨는 노동부가 지난 22일 쿠팡의 물류센터 심야 근무를 마친 뒤 자택에서 사망한 고(故) 장덕준 씨에게 산업재해를 적용하지 않으려고 핵심 내용을 은폐한...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004676136?sid=100",
+   "orig": "https://www.sedaily.com/article/20107252?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-28T16:13+09:00",
+   "cat": "law",
+   "id": "35ee91ee8952",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "정근모 대전시의원 \"출퇴근 2시간 하소산단, 기업 붙잡을 교통부터 풀어...",
+   "summary": "대전시의회 정근모 의원은 28일 동구 하소친환경산업단지에서 기업인 간담회를 열고 입주기업의 경영... 기업인들은 하소동 887번지 시유지에 식당과 북카페, 체육시설, 산업안전교육장을 갖춘 근로자...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3735518",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3735518",
+   "source": "국제뉴스",
+   "published": "2026-10-28T16:12+09:00",
+   "cat": "tech",
+   "id": "18eec3469820",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김영훈, 쿠팡산재 유족에 \"불기소 결론 송구…외압 전혀 없었다\"",
+   "summary": "앞서 이날 회의에는 쿠팡 물류센터 산재 사망 피해자 고(故) 장덕준 씨 모친 박미숙 씨가 참석해 고용노동부의... 한편 박씨는 23명이 숨진 '아리셀 화재 참사'와 관련해 박순관 아리셀 대표가 중대재해처벌법 위반으로 징역...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016406925?sid=100",
+   "orig": "https://www.yna.co.kr/view/AKR20261028151200001?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-28T16:11+09:00",
+   "cat": "sev",
+   "id": "301bb2600ab0",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "수출국 맞춤형 '농약 안전관리 체계'로 비관세 장벽 뚫는다",
+   "summary": "농가들이 스마트폰으로 언제 어디서나 지침을 확인할 수 있도록 통합 큐알(QR)코드와 현장 안내판을 보급한 것도 눈에 띄는 대목이다. 수입국과의 치밀한 외교·기술 협상도 빛을 발하고 있다. 국내에 등록된 농약이라도...",
+   "url": "http://www.amnews.co.kr/news/articleView.html?idxno=75266",
+   "orig": "http://www.amnews.co.kr/news/articleView.html?idxno=75266",
+   "source": "amnews.co.kr",
+   "published": "2026-10-28T16:06+09:00",
+   "cat": "tech",
+   "id": "6eb63884a967",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사, AI 혁신 성과 잇따라 장관상 수상",
+   "summary": "화재 현장에서 스마트폰과 휴대용 현미경으로 전선에 남은 용융 흔적을 분석해 전기적 요인이 화재와... 한국전기안전공사 남화영 사장은 \"국민의 안전과 일상에 도움이 되도록 AI 기술을 현장에 적용하는 것이...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304786",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=304786",
+   "source": "투데이에너지",
+   "published": "2026-10-28T16:04+09:00",
+   "cat": "tech",
+   "id": "a2dfe3c5b69b",
+   "related": [
+    {
+     "source": "ekoreanews.co.kr",
+     "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88888",
+     "orig": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=88888",
+     "title": "전기안전공사, '2026 공공기관 AI 혁신성과 대회'에서 재정경제부 장관..."
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "세무사회, 더존 침해사고에 공동 대응…세무사·납세자 정보보호 강화",
+   "summary": "한국세무사회가 더존비즈온의 잇따른 사이버 침해사고와 관련해 회원 피해 확인과 권익 보호를 위한 공동... 자체 정보시스템에 대한 보안 강화 작업도 진행 중이다. 한국세무사회는 지난 19일부터 인공지능(AI)을 활용해...",
+   "url": "https://n.news.naver.com/mnews/article/123/0002392801?sid=101",
+   "orig": "http://www.joseilbo.com/news/news_read.php?uid=578370&class=10&grp=",
+   "source": "joseilbo.com",
+   "published": "2026-10-28T16:01+09:00",
+   "cat": "acc",
+   "id": "9d88fe41b5f4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "가스폭발 현장 달려가 밸브 잠근 시민…알고보니 배우",
+   "summary": "가스 폭발이 발생한 음식점에서는 내부 철거 작업이 진행되고 있던 것으로 파악됐다. 당시 사고로 60대 작업자 3명과 60대 점주 1명 등 4명이 얼굴 부위 등에 화상을 입고 119 구급대에 의해 병원으로 옮겨져 치료받고...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016406880?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261028149100065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-10-28T16:00+09:00",
+   "cat": "acc",
+   "id": "fdcea1abe4d0",
+   "related": [
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001398819?sid=102",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008819420&plink=ORI&cooper=NAVER",
+     "title": "폭발 현장서 달려가 밸브 잠근 시민…알고 보니 배우"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "“장덕준 사건 6년째 싸워”…산재 피해 母 박미숙씨, 李 대통령에 호소",
+   "summary": "박씨는 28일 청와대에서 이 대통령 주재로 열린 국민생명안전위원회 제2차 전체회의에서 자유발언을 통해 \"참사 피해자들이 가장 원하는 것은 트라우마 치유센터 건립\"이라며 \"산재 사망자 피해 가족에 대한 지원은 전혀...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005834785?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026102815571423086",
+   "source": "아시아경제",
+   "published": "2026-10-28T15:57+09:00",
+   "cat": "law",
+   "id": "5c6231f2088a",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "창원NC파크 사망 사고 유족 \"1년 7개월 아무도 책임지지 않아\"",
+   "summary": "지난해 경남 창원NC파크에서 발생한 구조물 추락 사망 사고와 관련해 유족이 수사가 지연되고 있다며... 업무상과실치사와 중대재해처벌법 위반 혐의로 검찰에 송치했습니다. 당시 송치 명단에서 NC다이노스 법인과...",
+   "url": "http://news.lghellovision.net/news/articleView.html?idxno=560116",
+   "orig": "http://news.lghellovision.net/news/articleView.html?idxno=560116",
+   "source": "lghellovision.net",
+   "published": "2026-10-28T15:54+09:00",
+   "cat": "sev",
+   "id": "1cd7dbfa6be8",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016406927?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261028149600052?input=1195m",
+     "title": "창원NC파크 사고 유족 \"1년 7개월 지나도록 책임자 기소 안 돼\""
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "인천환경공단, 직원 70명 참여 ‘안전 골든벨’…현장 위험 대응력 높인...",
+   "summary": "인천환경공단이 퀴즈를 활용한 참여형 안전교육으로 현장 근로자의 위험 대응 역량 강화에 나섰다.... 특히 밀폐공간 작업과 기계·설비 방호조치, 추락, 화학물질 취급 등 환경기초시설의 주요 위험요인을 집중적으로...",
+   "url": "https://www.viva100.com/article/20261028501237",
+   "orig": "https://www.viva100.com/article/20261028501237",
+   "source": "브릿지경제",
+   "published": "2026-10-28T15:54+09:00",
+   "cat": "tech",
+   "id": "c37356e22c96",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "기프티엘, 해킹 사고에 모바일쿠폰 사용 중단… 고객 피해 대책은?",
+   "summary": "개인정보유출 사고가 발생했다. 스푼은 '기프티엘' 서비스를 중단하고 시스템 전면 점검에 나섰다. 이에 따라... 현재 기프티엘 공식 웹사이트는 비즈몰에 대한 긴급 안정화 작업을 위해 이용자의 서비스 접속을 차단하고...",
+   "url": "https://www.sisaweek.com/news/articleView.html?idxno=238648",
+   "orig": "https://www.sisaweek.com/news/articleView.html?idxno=238648",
+   "source": "시사위크",
+   "published": "2026-10-28T15:54+09:00",
+   "cat": "acc",
+   "id": "3caa8f1416db",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "김포 이주노동자 사망 공장 연마기, 정상 회전수 초과 가동… 관리 책임...",
+   "summary": "발생한 사망사고 당시 연마기는 분당 2천400회전(RPM)으로 작동한 것으로 알려졌다. 해당 기계의 정상 가동... 고용노동부는 사고 다음 날인 16일 ‘중대재해 발생 알림’을 통해 해당 사고를 알리고 연삭기 안전덮개 사용과...",
+   "url": "https://www.kyeongin.com/article/1773579",
+   "orig": "https://www.kyeongin.com/article/1773579",
+   "source": "경인일보",
+   "published": "2026-10-28T15:52+09:00",
+   "cat": "sev",
+   "id": "a57a347462f8",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "“대피부터 심폐소생술까지”…안전보건공단, 광교테크노밸리서 체험형...",
+   "summary": "한국산업안전보건공단 경기광역본부는 지난 27일 한국나노기술원에서 경기도경제과학진흥원, 차세대융합기술원, 한국나노기술원과 함께 ‘2026년 광교테크노밸리 안전교류회 합동안전캠페인’을 진행했다고 28일...",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=917145",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=917145",
+   "source": "경기신문",
+   "published": "2026-10-28T15:52+09:00",
+   "cat": "tech",
+   "id": "01fd8a4d6d4e",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "GS칼텍스, 직원 사고에도 '무재해 포상'...김성민 사장 \"판단 오류\" 사과",
+   "summary": "직원이 작업 중 화학물질에 노출돼 발 부위에 화상을 입었다. 피해 직원은 광주 화상 전문병원에 입원해 수개월간 출근하지 못했지만 사측은 해당 사고를 응급처치 수준인 '퍼스트에이드'로 분류하고 무재해 실적을...",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=725655",
+   "orig": "https://www.cstimes.com/news/articleView.html?idxno=725655",
+   "source": "컨슈머타임스",
+   "published": "2026-10-28T15:48+09:00",
+   "cat": "acc",
+   "id": "8d9b3a79a6df",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
   {
    "title": "[기호칼럼] 산재 사망 20% 감소, 통계 밖 노동자는 안전한가?",
    "summary": "따라서 사고사망자뿐 아니라 전체 재해율과 업무상 질병률, 산재 신청·승인·불승인 현황을 함께 공개해야 한다. 고령·하청·이주·플랫폼 노동자 사이에 신고와 인정의 격차가 얼마나 발생하는지도 조사해야 한다....",
@@ -119,6 +322,19 @@
    "published": "2026-10-28T15:36+09:00",
    "cat": "tech",
    "id": "0ec4d7c60fdf",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "엄마 품에 안긴 12일 신생아, 나무서 떨어진 아보카도 맞아 숨져",
+   "summary": "줄리아나가 아이를 등원시킨 후 귀가를 하려던 중 어린이집 입구에서 아보카도 열매가 루카스의 머리 위로... 또한 그는 시 당국이 사고 발생 이틀 뒤에 가지치기 작업을 했다고 주장했다. 시 당국은 해당 나무의 상태가...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009255935?sid=104",
+   "orig": "https://www.news1.kr/world/latin-america/6335008",
+   "source": "뉴스1",
+   "published": "2026-10-28T15:36+09:00",
+   "cat": "sev",
+   "id": "6fe45ce95abb",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -222,6 +438,19 @@
    "watch": []
   },
   {
+   "title": "추미애 \"피지컬 AI로 노동자·소방관 생명 지킬 것\"",
+   "summary": "위험한 작업에 로봇을 투입해 문제를 조기에 찾아 사고를 예방하는 등 제조업부터 재난 대응까지 활용... 전국 제조업체의 3분의 1 이상이 경기도에 모여 있고 연구개발 인력도 10명 중 4명꼴로 집중돼 있다는 것이다. 그는...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004203968?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6598575?utm_source=naver&utm_medium=article&utm_campaign=20261028032635",
+   "source": "노컷뉴스",
+   "published": "2026-10-28T15:27+09:00",
+   "cat": "tech",
+   "id": "713dba3a073d",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "강남구, 핼러윈 앞두고 강남역·압구정 로데오 집중 안전점검…24시간 ...",
    "summary": "구는 경찰과 소방당국을 비롯해 서울교통공사, 한국철도공사, 신분당선㈜, 서울시설공단 등 지하철 운영... 배치하고 보건소 신속대응반을 24시간 운영해 다수 사상자 발생 등 비상상황에 대비한다. 유흥시설에 대한 안전...",
    "url": "https://www.job-post.co.kr/news/articleView.html?idxno=235102",
@@ -287,6 +516,19 @@
    "watch": []
   },
   {
+   "title": "경북소방, 수확기 농기계 끼임 사고 구조훈련",
+   "summary": "수확기를 맞아 농기계 사용이 늘면서 끼임·전복 사고 위험이 커지는 점을 감안해 마련했다.훈련은 농업기술센터 전문 강사가 맡았고, 트랙터 등 농기계 5종 10대로 이론과 실습을 병행했다. 구조대원들은 엔진 정지와...",
+   "url": "https://www.kbsm.net/news/view.php?idx=539487",
+   "orig": "https://www.kbsm.net/news/view.php?idx=539487",
+   "source": "kbsm.net",
+   "published": "2026-10-28T15:16+09:00",
+   "cat": "tech",
+   "id": "dcd1553bde52",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "“CBD 희귀질환 치료 활용 확대 검토”…식약처, 대마 규제 개선 추진",
    "summary": "국회 보건복지위원회(위원장 이만희)가 27일 보건복지부(장관 정은경)와 식품의약품안전처(처장 오유경) 등을 대상으로 실시한 종합감사에서 박 의원은 오 처장에게 헴프의 의료·산업적 활용 확대와 안전관리 방안을...",
    "url": "https://www.akomnews.com/bbs/board.php?bo_table=news&wr_id=68837",
@@ -321,7 +563,14 @@
    "published": "2026-10-28T15:08+09:00",
    "cat": "tech",
    "id": "0afc5a68f6c1",
-   "related": [],
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006398155?sid=101",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=05120086645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "함께 만드는 안전, 삼성전자 'DX부문 Global EHS 협력사 Day’"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -404,6 +653,19 @@
    "watch": []
   },
   {
+   "title": "세무사회, 사이버 침해사고 대응 총력…\"정보보안 전면 쇄신\"",
+   "summary": "침해사고와 관련해, 회원 피해 예방과 권익 보호를 위한 본격적인 공동 대응에 나섰다. 아울러 자체... 개선하는 작업을 진행 중이다. 또한, 정부와 한국인터넷진흥원(KISA)의 PHP 보안 취약점 긴급 대응 권고에 발맞춰 관련...",
+   "url": "https://www.tfmedia.co.kr/news/article.html?no=208442",
+   "orig": "https://www.tfmedia.co.kr/news/article.html?no=208442",
+   "source": "tfmedia.co.kr",
+   "published": "2026-10-28T15:02+09:00",
+   "cat": "acc",
+   "id": "0838c4cc73b6",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "제주 민노총 \"지게차 전도사고 원인 철저히 수사해야\"",
    "summary": "및 중대재해처벌법 위반 여부를 철저히 조사하고, 수사당국은 사고 책임자들을 엄중 처벌하고 원인을 명명백백히 규명해야 한다\"며 \"위성곤 지사는 지난 6월 하나로마트 사망사고 발생 당시 '안전한 일터를 만들기 위한...",
    "url": "http://www.samdailbo.com/news/articleView.html?idxno=271964",
@@ -451,7 +713,20 @@
    "published": "2026-10-28T14:50+09:00",
    "cat": "tech",
    "id": "4875b8b5dc3b",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014284720?sid=101",
+     "orig": "https://www.newsis.com/view/NISX20261028_0003844801",
+     "title": "지역난방公, 재난대응 안전한국훈련…데이터센터 배전 파손 가정"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1419375",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1419375",
+     "title": "지역난방공사, 고양서 하반기 재난대응 안전한국훈련 실시"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -464,6 +739,19 @@
    "published": "2026-10-28T14:49+09:00",
    "cat": "tech",
    "id": "0fd4e593a564",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[단독] “불부터 꺼달라는데 접근도 못 해”…구룡마을 화재 진압 놓고...",
+   "summary": "화재 현장에서는 건물 붕괴와 유독가스, 폭발 등 2차 사고 위험을 고려해 주민들의 출입을 제한할 수 있다.... 소방당국은 28일 현장에서 잔불 정리 작업을 대부분 마무리하고 재발화 가능성에 대비한 감시를 이어가고...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261028023042215",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261028023042215",
+   "source": "에너지경제",
+   "published": "2026-10-28T14:48+09:00",
+   "cat": "acc",
+   "id": "5e97bee47f6b",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -495,6 +783,32 @@
    "watch": []
   },
   {
+   "title": "토스뱅크, 324억 입금 오류에 72억 미회수… 반복된 전산사고에 내부통...",
+   "summary": "사고 발생 이후 거래를 정정하는 데 그치지 않고 오류를 조기에 발견하고 확산을 막을 수 있는 통제 체계를 갖추는 것이 관건이다. 토스뱅크 측은 본지에 \"지난 전산 오류와 관련한 마무리 작업이 아직 진행 중\"이라며...",
+   "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524284",
+   "orig": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=524284",
+   "source": "ilyoseoul.co.kr",
+   "published": "2026-10-28T14:42+09:00",
+   "cat": "acc",
+   "id": "a43fc53a8c48",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "한국전기안전공사, 한성대와 ESG 아이디어 경진대회 개최…대학생 제안...",
+   "summary": "한국전기안전공사는 27일 한성대학교에서 'ESG 경영 대학생 참여단 아이디어 경진대회 및 해단식'을 개최했다고 밝혔다. 이번 행사는 지난 1월 한성대학교와 업무협약 체결 이후 이어온 활동을 마무리하고, 대학생...",
+   "url": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184848",
+   "orig": "http://www.newsmaker.or.kr/news/articleView.html?idxno=184848",
+   "source": "newsmaker.or.kr",
+   "published": "2026-10-28T14:40+09:00",
+   "cat": "tech",
+   "id": "676485f3f5d1",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "李대통령 \"정부, 더 빨리 움직여 막을 수 있었던 죽음 줄여가야\"",
    "summary": "정은경 보건복지부 장관, 김영훈 고용노동부 장관, 윤호중 행정안전부 장관 등이 자살, 고독사, 실종, 산업재해, 인파하고 등 관련한 '주요 유형별 사망자 저감대책'을 발표했다.",
    "url": "https://n.news.naver.com/mnews/article/008/0005432936?sid=100",
@@ -503,7 +817,14 @@
    "published": "2026-10-28T14:33+09:00",
    "cat": "sev",
    "id": "adf2cef1e9d8",
-   "related": [],
+   "related": [
+    {
+     "source": "tongilnews.com",
+     "url": "http://www.tongilnews.com/news/articleView.html?idxno=217976",
+     "orig": "http://www.tongilnews.com/news/articleView.html?idxno=217976",
+     "title": "이 대통령, \"막을 수 있었던 죽음 여전히 많다\""
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -524,6 +845,32 @@
      "title": "대구교육청, 위험성평가 우수사업장 선정"
     }
    ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "천장 누수 점검하던 근로자 3명, 4m 아래로 추락해 부상",
+   "summary": "이 사고로 60대 남성 등 작업자 3명이 크고 작은 부상을 입어 병원으로 옮겨졌다. 경찰은 이들이 천장 누수 점검을 하던 중 구조물이 무너지면서 사고가 난 것으로 보고 정확한 경위를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/448/0000647502?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/28/2026102890171.html",
+   "source": "TV조선",
+   "published": "2026-10-28T14:26+09:00",
+   "cat": "acc",
+   "id": "a0a0425edb28",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "李 “막을 수 있었던 죽음 반드시 줄여야”…이태원 참사 4주기 앞두고...",
+   "summary": "이후 정은경 보건복지부 장관을 비롯한 관계부처에서 자살·고독사·실종·산업재해·인파사고 등 ‘주요 유형별 사망자 저감대책’을 발표한다. 이어 ‘시민이 만드는 장애인 안전대책’ 등 ‘약자보호 민간 우수사례’가...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006398051?sid=100",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=04680566645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-10-28T14:24+09:00",
+   "cat": "sev",
+   "id": "d877f2b3b3a1",
+   "related": [],
    "day": "2026-10-28",
    "watch": []
   },
@@ -619,6 +966,26 @@
    "watch": []
   },
   {
+   "title": "한국세무사회, 잇따른 사이버 침해사고에 보안점검 강화",
+   "summary": "한국세무사회(회장 구재이)는 최근 국내 주요 회계·세무프로그램 공급업체에서 발생한 사이버 침해사고와... 지난 19일부터 AI를 활용해 본회 홈페이지의 보안 취약점을 점검하고 개선하는 작업을 진행 중이다. 또 정부와...",
+   "url": "http://www.intn.co.kr/news/articleView.html?idxno=2054364",
+   "orig": "http://www.intn.co.kr/news/articleView.html?idxno=2054364",
+   "source": "intn.co.kr",
+   "published": "2026-10-28T13:56+09:00",
+   "cat": "acc",
+   "id": "07e779ca57a3",
+   "related": [
+    {
+     "source": "taxtimes.co.kr",
+     "url": "https://www.taxtimes.co.kr/news/article.html?no=277512",
+     "orig": "https://www.taxtimes.co.kr/news/article.html?no=277512",
+     "title": "잇따른 사이버 침해사고에…세무사회 선제적 대응 나서"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "양산시, 공장·창고 2,462개동 화재안전 실태조사",
    "summary": "양산시는 이번 조사를 통해 공장·창고에 잠재된 화재 위험을 체계적으로 파악하고 현장 중심의 안전관리... 시설 개선과 안전관리 점검이 실제 화재 대응 역량 향상으로 이어지도록 해 근로자와 시민이 안심할 수 있는...",
    "url": "http://www.newstown.co.kr/news/articleView.html?idxno=719990",
@@ -652,6 +1019,19 @@
    "watch": []
   },
   {
+   "title": "배관 얽힌 작업장서 노동자 추락…119 구조",
+   "summary": "전남광주 여수시 여수국가산업단지 내 특수 작업장에서 지난 27일 오후 7시께 작업자 추락 사고가 발생해 소방대원들이 구조 작업을 하고 있다. 전남광주통합소방본부는 복잡하게 얽힌 배관 아래로 추락한 작업자를...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016406141?sid=102",
+   "orig": "https://www.yna.co.kr/view/PYH20261028126800054?input=1196m",
+   "source": "연합뉴스",
+   "published": "2026-10-28T13:48+09:00",
+   "cat": "acc",
+   "id": "eb7c99c214ac",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "[2026국감] 노동자 사망사고 반복 기업 183곳…상위 10곳 중 8곳 건설사",
    "summary": "이들 기업에서 발생한 같은 유형의 사망사고는 687건으로, 떨어짐과 끼임 등 4가지 사고 유형이 전체의 90% 이상을 차지했다. 28일 국회 기후에너지환경노동위원회 소속 윤재옥 국민의힘 의원이 고용노동부로부터...",
    "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=314121",
@@ -660,6 +1040,19 @@
    "published": "2026-10-28T13:42+09:00",
    "cat": "sev",
    "id": "711efe1db8ba",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "안성시, 지역 안전망 구축 위해 행정력 집중",
+   "summary": "특히 교통 안전 분야에서는 사고 다발 구역을 중심으로 집중적인 시설 개선 작업을 진행하며 가시적인 성과를 내고 있다. 시는 최근 몇 년간 사고가 잦았던 당왕동...",
+   "url": "http://www.breaknews.com/1246343",
+   "orig": "http://www.breaknews.com/1246343",
+   "source": "브레이크뉴스",
+   "published": "2026-10-28T13:42+09:00",
+   "cat": "law",
+   "id": "2a5e071b9852",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -699,6 +1092,19 @@
    "published": "2026-10-28T13:10+09:00",
    "cat": "tech",
    "id": "db672429a0d5",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "포스코엠씨머티리얼즈·포스코 포항제철소·진천소방서, 위험물 안전관...",
+   "summary": "위험물 사고 예방에 기여한 우수사례 7건을 시상했다고 28일 밝혔다. 올해 대회에는 지난 5월 11일부터 7월... 도입해 작업자의 관리 실수를 줄인 점에서 높은 평가를 받았다. 포스코 포항제철소는 위험물 통합관리...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251239",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251239",
+   "source": "안전신문",
+   "published": "2026-10-28T13:08+09:00",
+   "cat": "tech",
+   "id": "972da232e42c",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -756,6 +1162,19 @@
    "watch": []
   },
   {
+   "title": "현대건설, 동일 유형 사망사고 '최다' 불명예",
+   "summary": "이들 기업에서 발생한 동일 유형 사망사고는 총 687건으로 ▲떨어짐 407건 ▲끼임 100건 ▲부딪힘 65건 ▲맞음 56건 ▲무너짐 19건 ▲화재·폭발 12건 ▲중독·질식 11건 ▲감전 9건 ▲빠짐·익사 4건 ▲넘어짐 2건 ▲깔림...",
+   "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125398",
+   "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125398",
+   "source": "newscape.co.kr",
+   "published": "2026-10-28T12:58+09:00",
+   "cat": "sev",
+   "id": "96ff5153a42d",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "가스기술공사 '제6회 KOGAS-Tech 위험성평가 경진대회' 성료",
    "summary": "한국가스기술공사 '제6회 KOGAS-Tech 위험성평가 경진대회'가 성황리에 마무리됐다. 한국가스기술공사(사장... 수립·실행 ▶스마트 장비 및 AI 활용 ▶작업 전 안전회의(TBM) 활동 등이 포함되어 있다. 또한 사장 등 임원...",
    "url": "http://www.e2news.com/news/articleView.html?idxno=335527",
@@ -764,6 +1183,39 @@
    "published": "2026-10-28T12:36+09:00",
    "cat": "tech",
    "id": "5fe33eedbeec",
+   "related": [
+    {
+     "source": "투데이에너지",
+     "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304753",
+     "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=304753",
+     "title": "가스기술공사, '제6회 KOGAS-Tech 위험성평가 경진대회'"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "\"'채상병 순직 책임자' 임성근, 尹과 재판 태도 비슷… 뻔뻔하다\"",
+   "summary": "사고 당시 '해병대 1사단이 육군 2작전사령부로 작전통제권을 넘기라'는 합동참모본부의 단편명령을 임 전... 지급하지 않은 채 수중 수색을 지시한 것으로 드러났고, 채상병은 수색 작업 중 급류에 휩쓸려 결국 사망했다.",
+   "url": "https://n.news.naver.com/mnews/article/469/0000962139?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102809200001158?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-28T12:31+09:00",
+   "cat": "sev",
+   "id": "70eb67bb9944",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "정동영 \"DMZ 지뢰 폭발, 북한 고의성 특정 어려워⋯9·19 군사합의 복원...",
+   "summary": "이번 국정감사에서는 DMZ 지뢰 폭발 사고의 책임과 고의성 판단을 비롯해 9·19 군사합의 복원 필요성, 북한의 국경화 작업 등 정부의 대북정책 전반을 둘러싼 여야 간 시각차가 드러났다. [폴리뉴스 ]",
+   "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747066",
+   "orig": "https://www.polinews.co.kr/news/articleView.html?idxno=747066",
+   "source": "폴리뉴스",
+   "published": "2026-10-28T12:30+09:00",
+   "cat": "acc",
+   "id": "47d98f22950d",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -777,6 +1229,19 @@
    "published": "2026-10-28T12:04+09:00",
    "cat": "tech",
    "id": "2eb444759764",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "충주 음료제조 공장 천장 붕괴…누수업체 직원 3명 3m 아래 추락",
+   "summary": "28일 오전 8시 47분쯤 충북 충주시 대소원면 영평리의 한 음료제조 공장에서 누수 점검을 하던 작업자 3명이 추락했다. A 씨(66) 등은 공장 2층 천장에 올라가 작업하다가 갑자기 천장이 붕괴하며 3~4m 아래 바닥으로...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009255198?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6334758",
+   "source": "뉴스1",
+   "published": "2026-10-28T12:02+09:00",
+   "cat": "acc",
+   "id": "bf66b275f071",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -808,6 +1273,19 @@
    "watch": []
   },
   {
+   "title": "소방청, '제3회 위험물 안전관리 우수사례 경진대회' 시상식...우수사례...",
+   "summary": "도입해 작업자의 실수로 발생할 수 있는 사고를 예방한 점에서 좋은 평가를 받았다. 포스코 포항제철소는... 대죽공장에 돌아갔다. 헨켈코리아 전자재료사업부지점은 위험물 지정수량을 실시간으로 확인할 수 있는...",
+   "url": "https://www.public25.com/news/articleView.html?idxno=57366",
+   "orig": "https://www.public25.com/news/articleView.html?idxno=57366",
+   "source": "public25.com",
+   "published": "2026-10-28T12:00+09:00",
+   "cat": "tech",
+   "id": "df12743e13b4",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "가스기술공사, 위험성평가 우수사례 발굴·공유",
    "summary": "경영진의 안전경영 의지를 반영하고 노사가 함께 안전문화를 확산하기 위한 것이다. 임종석 가스기술공사 사장은 \"위험성평가가 안전의 시작점\"이라며 \"경진대회를 통해 얻은 혁신적인 아이디어와 사례를 기관 전체에...",
    "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229318",
@@ -816,7 +1294,14 @@
    "published": "2026-10-28T11:56+09:00",
    "cat": "tech",
    "id": "145621d5cf1e",
-   "related": [],
+   "related": [
+    {
+     "source": "amenews.kr",
+     "url": "http://amenews.kr/news/view.php?idx=68449",
+     "orig": "http://amenews.kr/news/view.php?idx=68449",
+     "title": "가스기술公, 위험성평가 우수사례 발굴…현장 안전관리 강화"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -829,6 +1314,19 @@
    "published": "2026-10-28T11:42+09:00",
    "cat": "law",
    "id": "ea15fbf7f1aa",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "보성 공사현장서 건물 붕괴…작업자 3명 중상",
+   "summary": "공사 중 인부 3명이 매몰됐다는 신고가 접수됐다. 신고를 받은 소방당국은 장비 9대, 인력 30명을 투입해 구조에 나섰다. 이 사고로 작업자 3명이 인근 병원으로 이송돼 치료를 받았다. 소방당국은 현재 정확한 사고...",
+   "url": "http://www.jndn.com/article.php?aid=1793155199441960101",
+   "orig": "http://www.jndn.com/article.php?aid=1793155199441960101",
+   "source": "jndn.com",
+   "published": "2026-10-28T11:42+09:00",
+   "cat": "acc",
+   "id": "ad44386d0b94",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -887,8 +1385,53 @@
      "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080459",
      "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3080459",
      "title": "인천환경공단 '안전·보건 골든벨' 개최"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=656056",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=656056",
+     "title": "인천환경공단, 직원 70명 참여 '안전·보건 골든벨' 개최"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734936",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3734936",
+     "title": "인천환경공단, 전 직원 참여 '안전·보건 골든벨' 개최"
     }
    ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "충북 충주 식품공장서 작업자 3명 추락해 중경상",
+   "summary": "오늘(28일) 오전 9시쯤 충북 충주시 대소원면의 한 식품 제조 공장에서 천장 누수 점검을 하던 작업자 3명이 3m 아래로 추락했습니다. 이 사고로 66살 박 모 씨 등 3명이 골반과 허리 등을 다쳐 병원으로 이송돼 치료받고...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012282401?sid=102",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697423&ref=A",
+   "source": "KBS",
+   "published": "2026-10-28T11:22+09:00",
+   "cat": "acc",
+   "id": "c6aa1b84d118",
+   "related": [
+    {
+     "source": "중부매일",
+     "url": "https://www.jbnews.com/news/articleView.html?idxno=1514600",
+     "orig": "https://www.jbnews.com/news/articleView.html?idxno=1514600",
+     "title": "충주 식품제조공장서 작업자 3명 추락…병원 이송"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "귀가 중 아보카도에 머리 맞아 숨져…생후 12일 신생아 비극",
+   "summary": "일부 주민들은 사고 이후 시청 관계자들이 현장에서 가지치기 작업을 했다고 전했다. 반면 당국 관계자들은 해당 나무가 양호한 상태였으며, 나뭇가지가 아닌 아보카도 열매가 자연적으로 떨어진 사고라고 밝혔다. 사건은...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002715462?sid=104",
+   "orig": "https://biz.heraldcorp.com/article/10917457?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-28T11:20+09:00",
+   "cat": "sev",
+   "id": "088420bca82f",
+   "related": [],
    "day": "2026-10-28",
    "watch": []
   },
@@ -932,6 +1475,19 @@
    "watch": []
   },
   {
+   "title": "세종 공사장서 차량 3m 아래로 추락…60대 근로자 사망",
+   "summary": "지난 27일 오후 4시 50분쯤 세종시 장군면의 한 도로포장 공사 현장에서 포장용 롤러 차량이 3m 아래 비탈면으로 떨어졌다. 이 사고로 60대 운전자가 차량에 깔려 숨졌다. 경찰은 현장 관계자 등을 상대로 안전 수칙 준수...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000647448?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/10/28/2026102890119.html",
+   "source": "TV조선",
+   "published": "2026-10-28T11:10+09:00",
+   "cat": "sev",
+   "id": "2196ad041f7b",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "베트남 新화학물질법 시행, 화학물질 관리체계 개편에 따른 우리 기업 ...",
    "summary": "신고 시, 상업송장과 물질안전보건자료(MSDS/SDS) 등이 요구되며, 10kg 미만 수입이나 별도 수입허가를 받은... 베트남 산업무역부는 2026년 8~9월 시행령(24/2026/ND-CP) 개정안에 대한 의견을 수렴했으며, 10월 초에는 기존...",
    "url": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=80&CONTENTS_NO=2&bbsGbn=242&bbsSn=242&pNttSn=244665",
@@ -945,6 +1501,19 @@
    "watch": []
   },
   {
+   "title": "[ESGX 이슈 5] 사망사고 반복 사업장, 내년 4월부터 영업이익 최대 5% 과...",
+   "summary": "정부는 반복 사망사고 사업장에 영업이익의 최대 5%를 과징금으로 부과하기로 했다. 세계 재생에너지... 개정법에는 원·하청 노동자의 작업중지 요구권 확대와 안전한일터위원회 설치도 포함됐다. 위원회는 내년 1월...",
+   "url": "https://www.etoday.co.kr/news/view/2641004",
+   "orig": "https://www.etoday.co.kr/news/view/2641004",
+   "source": "이투데이",
+   "published": "2026-10-28T11:06+09:00",
+   "cat": "sev",
+   "id": "5ea4ad9bf0e3",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "[초점] 3년 쓰고 버려지던 안전모, 구급키트로…산업현장 폐자원 '순환...",
    "summary": "한국산업안전보건공단이 주최한 '산업현장 폐자원 순환경제 협력 거버넌스 확대를 위한 업무협약'이 지난 21일 서울 코엑스에서 열린 '2026 대한민국 ESG 친환경대전'에서 체결됐다. 사회적기업 우시산과 무한상사...",
    "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35292",
@@ -953,7 +1522,14 @@
    "published": "2026-10-28T11:04+09:00",
    "cat": "tech",
    "id": "c2bf5e690bf0",
-   "related": [],
+   "related": [
+    {
+     "source": "더페어",
+     "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92106",
+     "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92106",
+     "title": "\"버려지던 안전모, 구급키트로 재탄생\"…삼표그룹, 자원순환·안전 두 토..."
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -991,6 +1567,12 @@
      "url": "https://n.news.naver.com/mnews/article/011/0004676084?sid=101",
      "orig": "https://www.sedaily.com/article/20107182?ref=naver",
      "title": "금호건설, 협력사 23곳과 안전보건 간담회...우수 협력사 표창"
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261028142431427",
+     "orig": "https://www.ajunews.com/view/20261028142431427",
+     "title": "금호건설, 협력사 23곳과 안전보건 간담회… 우수 3곳 포상"
     }
    ],
    "day": "2026-10-28",
@@ -1005,7 +1587,14 @@
    "published": "2026-10-28T11:00+09:00",
    "cat": "sev",
    "id": "b8790c6312e6",
-   "related": [],
+   "related": [
+    {
+     "source": "인천일보",
+     "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1335344",
+     "orig": "https://www.incheonilbo.com/news/articleView.html?idxno=1335344",
+     "title": "김포 이주노동자 사망사고…\"철저한 조사·처벌 촉구\""
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1187,7 +1776,47 @@
    "published": "2026-10-28T10:42+09:00",
    "cat": "tech",
    "id": "cb93bff5a9d1",
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006398049?sid=101",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=04674006645617512&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "금호건설, 협력사 23곳과 안전관리 강화 논의"
+    }
+   ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "구룡마을 화재 13시간 만에 진화…77가구 107명 피해·1명 부상",
+   "summary": "서울 강남구 개포동 구룡마을에서 발생한 대형 화재가 약 13시간에 걸친 밤샘 진화 작업 끝에 완전히... 여기에 액화석유가스(LPG) 가스통과 전선 등이 주택 주변에 뒤엉켜 있어 화재 발생 시 연소 확대와 2차 사고 위험이...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261028029552099",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261028029552099",
+   "source": "에너지경제",
+   "published": "2026-10-28T10:40+09:00",
+   "cat": "acc",
+   "id": "b0093be22343",
    "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "서귀포시, 밀폐공간 질식재해 예방 현장 맞춤형 안전지도 실시",
+   "summary": "서귀포시는 밀폐공간 작업 중 발생할 수 있는 질식재해를 예방하기 위해 11월 한 달간 산하 사업장을 대상으로... 밀폐공간 작업 담당자와 수탁업체 관계자 등을 대상으로 실제 질식재해 사고사례를 살펴보고, 가스농도 측정...",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601181",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=601181",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-10-28T10:40+09:00",
+   "cat": "tech",
+   "id": "6ae909ddd2e2",
+   "related": [
+    {
+     "source": "jejumaeil.net",
+     "url": "https://www.jejumaeil.net/news/articleView.html?idxno=406080",
+     "orig": "https://www.jejumaeil.net/news/articleView.html?idxno=406080",
+     "title": "밀폐공간 질식재해 예방 맞춤형 안전지도 실시"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1200,6 +1829,19 @@
    "published": "2026-10-28T10:34+09:00",
    "cat": "sev",
    "id": "6d4acc3e5dfd",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "경북서 화재·교통사고 잇따라… 1명 심정지 이송·재산피해",
+   "summary": "진화 작업을 마쳤다. 인명피해는 없었으나 샌드위치 패널 구조의 창고 1동이 불에 탔다. 당국은 담뱃불 부주의로 인해 불이 시작된 것으로 보고 있다. 영천에서는 승용차와 경운기 추돌사고가 발생했다. 오후 6시 18분쯤...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=726806",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=726806",
+   "source": "경북도민일보",
+   "published": "2026-10-28T10:34+09:00",
+   "cat": "sev",
+   "id": "531da15de4c9",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -1322,6 +1964,12 @@
      "url": "https://www.kpinews.kr/newsView/1065577038373635",
      "orig": "https://www.kpinews.kr/newsView/1065577038373635",
      "title": "금호건설, 'SAFETY ARTERA' 안전보건 간담회 개최…협력사 상생협력 강화"
+    },
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281311336670535",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202610281311336670535",
+     "title": "금호건설, ‘SAFETY ARTERA’ 안전보건 간담회 개최"
     }
    ],
    "day": "2026-10-28",
@@ -1376,6 +2024,56 @@
    "cat": "hlt",
    "id": "d4a561bc8efc",
    "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "충주 공장 천장 점검하던 작업자 3명 추락, 중경상",
+   "summary": "28일 오전 8시47분께 충주시 대소원면 영평리의 한 식품제조 공장 천장에서 누수 점검을 하던 작업자 3명이 3~4m 아래로 추락했다. 이 사고로 A(60대)씨 등 3명이 중경상을 입고 병원으로 옮겨졌다. 경찰은 천장 바닥이...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014283514?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261028_0003844292",
+   "source": "뉴시스",
+   "published": "2026-10-28T10:15+09:00",
+   "cat": "acc",
+   "id": "4fbedf1af9eb",
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016405422?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261028075500064?input=1195m",
+     "title": "충주 식품공장서 천장 누수 점검 작업자 3명 추락해 중경상"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000920282?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261028110132iqO",
+     "title": "충주 공장서 천장 점검 작업자 3명 추락…중경상"
+    },
+    {
+     "source": "mbccb.co.kr",
+     "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261028&SEQUENCE=0111",
+     "orig": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261028&SEQUENCE=0111",
+     "title": "충주 식품공장서 천장 누수 점검하던 작업자들 추락.. 3명 부상"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004203822?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6598392?utm_source=naver&utm_medium=article&utm_campaign=20261028115234",
+     "title": "충주 식품공장서 천장 누수 점검하던 작업자 3명 추락해 중경상"
+    },
+    {
+     "source": "충북일보",
+     "url": "https://www.inews365.com/news/article.html?no=941104",
+     "orig": "https://www.inews365.com/news/article.html?no=941104",
+     "title": "충주 대소원면 공장서 천장 점검하던 작업자 3명 추락…중경상"
+    },
+    {
+     "source": "대전일보",
+     "url": "https://n.news.naver.com/mnews/article/656/0000190794?sid=102",
+     "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2309952",
+     "title": "충주 식품공장서 천장 무너져 작업자 3명 추락… 중경상"
+    }
+   ],
    "day": "2026-10-28",
    "watch": []
   },
@@ -1537,6 +2235,32 @@
    "watch": []
   },
   {
+   "title": "\"건설현장 안전, 협력사 손잡아야 바뀐다\"···금호건설 공동관리 강화",
+   "summary": "추락이나 충돌 등 눈에 띄는 사고 위험뿐 아니라 작업 과정에서 발생할 수 있는 건강상 위험까지 관리 범위를... 위험구역을 확인하는 시스템이 실제 작업자의 행동 변화와 신속한 조치로 이어지려면 현장 관리자의 대응...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=157733",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=157733",
+   "source": "smartbizn.com",
+   "published": "2026-10-28T09:26+09:00",
+   "cat": "law",
+   "id": "415d4343160d",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "승강기 안전교육 사각지대 줄인다… 고령층 맞춤형 체험교육 확대",
+   "summary": "한국승강기안전공단은 27일 충남 홍성군보건소에서 지역 고령자들을 대상으로 승강기 안전체험교육을 진행했다고 밝혔다. 이번 교육은 지난 9월 한국건강증진개발원과 체결한 업무협약에 따른 후속사업이다. 공단은...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251232",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251232",
+   "source": "안전신문",
+   "published": "2026-10-28T09:22+09:00",
+   "cat": "tech",
+   "id": "ccea29a48a24",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "10월 28일 오늘의 안전 상황",
    "summary": "노동자쉼터 및 해랑숲고운마루 스마트쉼터를 방문하여 난방 시설 운영 상태 등 관리 실태 점검 ※ (참석) 행안부, 대전시, 유성구 ■ 소방 안전 활동 상황 구 분 화 재 구 조 구 급 생활안전 건 수 사 망...",
    "url": "http://fpn119.co.kr/258473",
@@ -1589,6 +2313,19 @@
    "watch": []
   },
   {
+   "title": "퀴즈 풀며 안전의식 UP…인천환경공단, '2026 안전·보건 골든벨' 개최",
+   "summary": "위한 '2026년 안전·보건 골든벨'을 개최했다고 28일 밝혔다. 대회는 참가자들이 정답에 따라 이동하는 O/X 예선과, 이를 통과한 인원이 보드판에 답을 적는 본선 방식으로 치러졌다. 공단은 매 문제 풀이 후 정답과 상세한...",
+   "url": "https://www.ngonews.kr/news/articleView.html?idxno=241668",
+   "orig": "https://www.ngonews.kr/news/articleView.html?idxno=241668",
+   "source": "ngonews.kr",
+   "published": "2026-10-28T09:02+09:00",
+   "cat": "tech",
+   "id": "5386e8cf8e5e",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
    "title": "[PICK! 이 안건] 김태선 등 13인 \"업무상 질병 판정의 공정성과 일관성 ...",
    "summary": "그러나 \"현행 업무상질병판정위원회는 근로복지공단의 소속 기관으로 운영되고 있어, 판정업무 전반에 대한 체계적 관리와 판정 사례의 통합적 분석·활용 등에 한계가 있을 수 있다\"고 말했다. 이에...",
    "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1303035",
@@ -1616,6 +2353,18 @@
      "url": "https://www.thebigdata.co.kr/view.php?ud=202610280918517377df3c2a17b7_23",
      "orig": "https://www.thebigdata.co.kr/view.php?ud=202610280918517377df3c2a17b7_23",
      "title": "삼표그룹, 폐안전모 수거 캠페인으로 자원순환 실천...소비자 관심도 상..."
+    },
+    {
+     "source": "paxetv.com",
+     "url": "http://www.paxetv.com/news/articleView.html?idxno=285400",
+     "orig": "http://www.paxetv.com/news/articleView.html?idxno=285400",
+     "title": "삼표그룹, '현장 폐안전모 수거 캠페인' 진행…업사이클링 연계 자원순..."
+    },
+    {
+     "source": "비즈니스포스트",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=450507",
+     "orig": "https://www.businesspost.co.kr/BP?command=article_view&num=450507",
+     "title": "삼표그룹 폐안전모 수거 캠페인 진행, 산업현장 안전관리와 자원 재활용..."
     }
    ],
    "day": "2026-10-28",
@@ -1925,6 +2674,18 @@
      "url": "https://www.womentimes.co.kr/news/articleView.html?idxno=107372",
      "orig": "https://www.womentimes.co.kr/news/articleView.html?idxno=107372",
      "title": "삼표그룹, 폐안전모 1032개 수거...산업현장 자원순환 확대"
+    },
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446314",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=446314",
+     "title": "삼표그룹, 전국 56개 사업장서 폐안전모 수거 캠페인...자원순환 실천"
+    },
+    {
+     "source": "industrynews.co.kr",
+     "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=88399",
+     "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=88399",
+     "title": "삼표그룹, 56개 사업장서 폐안전모 1032개 수거…업사이클링 구급키트로..."
     }
    ],
    "day": "2026-10-28",
@@ -2002,8 +2763,46 @@
      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138333",
      "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=138333",
      "title": "삼표그룹, 폐안전모 1000여개 수거…업사이클링 제품으로 지역사회 기부"
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202610280041",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202610280041",
+     "title": "낡은 안전모가 구급키트로…삼표그룹, 폐안전모 1000여개 수거"
+    },
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1105134",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1105134",
+     "title": "삼표그룹, 폐안전모 1000여개 수거 통해 자원순환 확대"
     }
    ],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "강남구, 핼러윈 앞두고 인파 밀집지역 안전관리 총력",
+   "summary": "지난 23일과 24일 실시한 1차 합동점검에는 서울교통공사, 한국철도공사, 신분당선㈜, 서울시설공단을 비롯해... 재난안전상황실과 연계한 24시간 집중 관제체제를 구축한다. 현장에는 구급차를 배치하고 보건소...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485262",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485262",
+   "source": "이뉴스투데이",
+   "published": "2026-10-28T08:05+09:00",
+   "cat": "tech",
+   "id": "bf78b187d7e5",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "클린온·클린톡, 생활폐기물 현장 업무 개선 효과 달성…운행일지부터...",
+   "summary": "클린턴에 따르면 최근 서울시와 한국산업안전보건공단의 현장 안전관리 점검에서 클린온 도입 업체 대부분이 우수사례로 선정됐다. 박상곤 대표는 “도입 업체의 업무 개선 효과가 업계에 알려지고 최근 입찰에서도 활용...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003693168?sid=101",
+   "orig": "https://www.seoul.co.kr/news/economy/2026/10/26/20261026500092?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-28T08:02+09:00",
+   "cat": "tech",
+   "id": "3ac504bc1784",
+   "related": [],
    "day": "2026-10-28",
    "watch": []
   },
@@ -2016,6 +2815,19 @@
    "published": "2026-10-28T07:34+09:00",
    "cat": "sev",
    "id": "48334dd10550",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "건설현장 10명 중 6명이 5060…생산성 추락에 공사비 부담 가중",
+   "summary": "피지컬 AI는 AI가 로봇 등 물리적 장비와 결합해 실제 작업을 수행하는 기술로 건설현장에서 도장과 미장, 바닥 평탄화 등 반복적이거나 작업자가 기피하는 공정에 활용할 수 있다. 실제로 일본은 건설현장 순찰과...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004675865?sid=100",
+   "orig": "https://www.sedaily.com/article/20106746?ref=naver",
+   "source": "서울경제",
+   "published": "2026-10-28T07:01+09:00",
+   "cat": "acc",
+   "id": "9c18df90c8e2",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -2055,6 +2867,19 @@
    "published": "2026-10-28T06:20+09:00",
    "cat": "law",
    "id": "7a5b966a1053",
+   "related": [],
+   "day": "2026-10-28",
+   "watch": []
+  },
+  {
+   "title": "[CEO와칭] 최성안 삼성중공업 부회장, FLNG·생산 혁신으로 성장 기반 다...",
+   "summary": "관리자가 추락하는 사고가 발생했다. 최 부회장은 사과문을 내고 작업중지와 특별 안전교육 등의 조치를... 최 부회장이 추진하는 생산 혁신 역시 공정 단축과 비용 절감을 넘어 작업자의 안전으로 이어져야 한다....",
+   "url": "http://www.metroseoul.co.kr/article/20261027500525",
+   "orig": "http://www.metroseoul.co.kr/article/20261027500525",
+   "source": "metroseoul.co.kr",
+   "published": "2026-10-28T06:02+09:00",
+   "cat": "tech",
+   "id": "0dd1ae386dd0",
    "related": [],
    "day": "2026-10-28",
    "watch": []
@@ -2307,6 +3132,19 @@
    "watch": []
   },
   {
+   "title": "'펑' 하더니 유리 파편 와르르…가스 폭발로 4명 부상",
+   "summary": "안산의 한 공장에서도 불이 나, 근로자 1명이 화상을 입었는데요. 사건사고 소식, 이준흠 기자입니다. [기자]... 사고 당시 건물 1층 음식점에서는 작업자들이 인테리어 공사를 위한 철거 작업을 하고 있었습니다. 스파크가...",
+   "url": "https://n.news.naver.com/mnews/article/422/0000920056?sid=102",
+   "orig": "http://www.yonhapnewstv.co.kr/news/MYH20261027185558Xna",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-10-27T18:56+09:00",
+   "cat": "acc",
+   "id": "73108674bfb0",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "[2026국감-환노위] 대통령은 '규제 합리화', 노동부는 '사회적 대화'…주...",
    "summary": "한화 계열사서 4년여간 21명 사망…윤재옥 \"산재 대책 실효성 부족\" 산업재해 예방 대책의 실효성도 도마 위에 올랐다. 윤재옥 국민의힘 의원은 한화오션을 비롯한 한화그룹 계열사에서 반복적으로 중대재해가 발생한 점을...",
    "url": "https://www.polinews.co.kr/news/articleView.html?idxno=747030",
@@ -2359,6 +3197,32 @@
    "watch": []
   },
   {
+   "title": "국세청, AI 기반 국세행정 밑그림…안전성 확보에 전문가 머리 맞댄다",
+   "summary": "위원들은 AI 시스템의 개발과 운영 전반에 걸쳐 책임성과 투명성, 공정성, 안전성을 확보할 수 있는... 통제·감독체계도 마련해야 한다고 제언했다. 국세청은 이날 논의 내용을 토대로 개인정보 보호와 정보보안에 관한...",
+   "url": "https://www.tfmedia.co.kr/news/article.html?no=208414",
+   "orig": "https://www.tfmedia.co.kr/news/article.html?no=208414",
+   "source": "tfmedia.co.kr",
+   "published": "2026-10-27T18:08+09:00",
+   "cat": "law",
+   "id": "63a2b5f23ee1",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "\"버스가 끼었어요\"…서부간선지하도로 끼임사고 빈번 '퇴근길 지옥'",
+   "summary": "이지우 인턴 기자 = 서울 서부간선지하도로를 통행하던 대형 버스가 터널 천장에 끼이는 사고가 발생해... 네티즌들은 비슷한 사고가 반복되고 있다며 주의를 당부했다. 이들은 \"자주 생기는 문제인데 버스 기사들도...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014282400?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261027_0003842526",
+   "source": "뉴시스",
+   "published": "2026-10-27T18:00+09:00",
+   "cat": "acc",
+   "id": "53dcf95c90b5",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "\"주52시간 예외는 위헌\" 여당 의원도 지적… 노동장관 \"그런 주장 가능...",
    "summary": "앞서 노동부는 쿠팡 계열사 기획감독과 노동자 장덕준씨 사망 사고 관련 산재 은폐 의혹 수사 결과를 22일 발표했다. 장씨는 2020년 쿠팡 물류센터에서 야간근무를 마치고 귀가한 뒤 숨졌다. 이에 대해 쿠팡이 산재를 입증할...",
    "url": "https://n.news.naver.com/mnews/article/469/0000962006?sid=102",
@@ -2398,6 +3262,19 @@
    "watch": []
   },
   {
+   "title": "평택 공장서 60대 추락…닥터헬기 긴급 이송",
+   "summary": "평택시 청북읍의 한 오염물질 정화 공장에서 60대 작업자가 추락해 중상을 입었습니다. 소방당국에 따르면, 작업자는 지난 26일 오전 8시 31분쯤 2미터 높이에서 작업하던 중 발판이 무너지면서 떨어졌습니다. 출동한...",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=241455",
+   "orig": "https://news.skbroadband.com/news/articleView.html?idxno=241455",
+   "source": "skbroadband.com",
+   "published": "2026-10-27T17:54+09:00",
+   "cat": "acc",
+   "id": "f19f18d30d02",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "메가특구 노동특례에 여야 압박…김영훈 \"사회적 대화로 해법\"(종합)",
    "summary": "산재 감소 놓고 \"통계 착시\" 공방…직업병 대응 지연도 지적 산재 사망자 감소를 정책 성과로 평가할 수 있는지를 놓고도 공방이 벌어졌다. 노동부가 지난 20일 발표한 올해 3분기 누적 재해조사 대상 사고사망자는...",
    "url": "https://n.news.naver.com/mnews/article/421/0009253548?sid=101",
@@ -2406,6 +3283,19 @@
    "published": "2026-10-27T17:51+09:00",
    "cat": "law",
    "id": "511eaacc0218",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "춘천 공사 현장서 구조물 붕괴…미얀마 국적 작업자 2명 추락 이송",
+   "summary": "27일 오후 3시 10분쯤 강원 춘천 신북읍 율문리의 한 공사 현장에서 바람에 5m 높이 구조물이 무너지면서 외국인 작업자 2명이 추락했다. 이 사고로 미얀마 국적의 A 씨(41)가 왼쪽 허벅지 골절상을, 함께 추락한 같은...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009253544?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6333855",
+   "source": "뉴스1",
+   "published": "2026-10-27T17:46+09:00",
+   "cat": "acc",
+   "id": "e65d1b7bee49",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -2504,6 +3394,19 @@
    "published": "2026-10-27T17:26+09:00",
    "cat": "sev",
    "id": "7736a3940064",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "식품의약품안전처, 감미료 저당식품 '혈당 억제' 표시 금지…제로 마케...",
+   "summary": "식품의약품안전처(식약처)는 수크랄로스 등 감미료가 들어간 가공식품에 난소화성말토덱스트린(혈당... 새로운 규제가 산업 생태계에 안착하는 과정에서 식약처의 선제적인 관리·감독 수위와 2028년 전면 시행 전까지의...",
+   "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=35613",
+   "orig": "https://www.biotimes.co.kr/news/articleView.html?idxno=35613",
+   "source": "biotimes.co.kr",
+   "published": "2026-10-27T17:24+09:00",
+   "cat": "law",
+   "id": "bb71a6a342ff",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -2951,6 +3854,19 @@
    "watch": []
   },
   {
+   "title": "사천시, 산업시설 화재 예방 강화… 737개 동 실태조사",
+   "summary": "특히 화재 발생 시 피해 확산을 막기 위한 방화시설 관리 상태와 비상 상황에서 근로자들이 안전하게 대피할... 공장·창고시설의 화재 예방을 위해서는 고위험 시설 우선 점검과 함께 위반사항에 대한 신속한 시정조치 및...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005834134?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026102715271381023",
+   "source": "아시아경제",
+   "published": "2026-10-27T15:27+09:00",
+   "cat": "tech",
+   "id": "35123eba19c3",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "[2026 국감] 김위상 \"최근 5년여간 경비원 산재 사망 438명…서울 최다\"",
    "summary": "김위상 국민의힘 의원[사진=뉴스핌DB] 연도별 산재 사망자는 2021년 87명, 2022년 90명, 2023년 63명, 2024년 76명, 2025년 77명이다. 올해도 상반기에만 45명이 산업재해로 목숨을 잃었다. 지난해 사망자 77명 가운데...",
    "url": "https://www.newspim.com/news/view/20261027001119",
@@ -3127,6 +4043,19 @@
    "watch": []
   },
   {
+   "title": "송탄서 작업 중 2m 아래 추락한 중증외상환자…닥터헬기로 이송",
+   "summary": "높이에서 추락해 의식이 저하된 중증외상환자가 소방당국의 응급처치를 받은 뒤 닥터헬기로 병원에 이송됐다. 27일 송탄소방서에 따르면 전날 오전 8시께 작업 현장에서 판넬이 무너지면서 작업자가 아래로 떨어졌다는...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076505",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5076505",
+   "source": "shinailbo.co.kr",
+   "published": "2026-10-27T14:52+09:00",
+   "cat": "acc",
+   "id": "f8f81d73f1a2",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "노동장관 “쿠팡 처벌은 못 했지만 잘못은 확인했다”...공익제보자는 ...",
    "summary": "김영훈 고용노동부 장관이 쿠팡의 산업재해 은폐 의혹과 관련해 법적 처벌에 이르지 못했더라도 회사의... 다만, 다른 산업안전보건법 및 근로기준법 위반 사실에 대해 과태료 총 19억6천여만원이 부과됐다. 한편...",
    "url": "https://n.news.naver.com/mnews/article/666/0000129341?sid=100",
@@ -3135,6 +4064,19 @@
    "published": "2026-10-27T14:48+09:00",
    "cat": "law",
    "id": "9b66527c0552",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "평택 공장서 60대 작업자 추락, 소방 '골든타임' 신속 대응",
+   "summary": "경기 평택시 오염물질 정화 공장에서 60대 작업자가 작업 중 추락하는 사고가 났다. 27일 경기도소방재난본부와 송탄소방서에 따르면 지난 26일 오전 8시31분께 평택시 청북읍 소재 한 오염물질 정화 공장에서 \"사람이...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014281555?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261027_0003843039",
+   "source": "뉴시스",
+   "published": "2026-10-27T14:46+09:00",
+   "cat": "acc",
+   "id": "5c62341882bf",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -3187,6 +4129,32 @@
    "published": "2026-10-27T14:35+09:00",
    "cat": "hlt",
    "id": "8cc89ae4620c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "청사포서 ‘나홀로 조업’하던 70대 선장, 장비 끼임 사고로 숨져",
+   "summary": "1인 조업선 부산에만 900여 척 되풀이되는 해상 안전 사각지대 1인 조업에 나섰던 선장이 양망기(어구나 그물을 끌어 올리는 장비) 끼임 사고로 숨졌다. 27일 부산해양경찰서에 따르면 이날 오전 10시 40분께 해운대구...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005754620?sid=102",
+   "orig": "https://www.mk.co.kr/article/12186943",
+   "source": "매일경제",
+   "published": "2026-10-27T14:35+09:00",
+   "cat": "sev",
+   "id": "f1dad650cf9c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "소방관 1명 순직한 부천 공장 화재…'무전' 녹취록 공개",
+   "summary": "화재 당시 공장 작업자들이 모두 대피한 뒤에도 소방관들에게 건물 내부 진입 지시가 내려진 사실도 무전... 완도 화재 이후 방어적 진압 강조했지만…석 달 만에 또 순직 이번 사고를 둘러싼 논란은 소방청이 앞서 발표한...",
+   "url": "https://www.wikitree.co.kr/articles/1169553",
+   "orig": "https://www.wikitree.co.kr/articles/1169553",
+   "source": "위키트리",
+   "published": "2026-10-27T14:28+09:00",
+   "cat": "sev",
+   "id": "113f3f18213f",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -3298,6 +4266,38 @@
      "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=621279",
      "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=621279",
      "title": "DN오토모티브 납중독 은폐 의혹…의료기관 3곳에 킬레이션 주사제 570개..."
+    }
+   ],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "부산해경, 청사포항 앞바다서 양망기 끼임 사고 70대 선장 숨져",
+   "summary": "부산해양경찰서(서장 성대훈)는 10월 27일 오전 해운대구 청사포항 인근 해상에서 조업하던 1인 조업선 A호(1.35톤, 연안통발)에서 양망기(어구나 그물을 끌어올리는 장비) 끼임 사고가 발생해 선장 B씨(70·남)가...",
+   "url": "https://www.lawissue.co.kr/view.php?ud=202610271353156769a8c8bf58f_12",
+   "orig": "https://www.lawissue.co.kr/view.php?ud=202610271353156769a8c8bf58f_12",
+   "source": "로이슈",
+   "published": "2026-10-27T13:54+09:00",
+   "cat": "sev",
+   "id": "9ab560385ed9",
+   "related": [
+    {
+     "source": "lghellovision.net",
+     "url": "http://news.lghellovision.net/news/articleView.html?idxno=559869",
+     "orig": "http://news.lghellovision.net/news/articleView.html?idxno=559869",
+     "title": "부산 청사포항 앞바다서 양망기 끼임 사고…70대 선장 숨져"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3734253",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3734253",
+     "title": "부산 청사포항 앞바다서 양망기 끼임 사고…70대 선장 숨져"
+    },
+    {
+     "source": "busanmbc.co.kr",
+     "url": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290466",
+     "orig": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=290466",
+     "title": "청사포 앞바다 양망기 끼임사고..70대 선장 숨져"
     }
    ],
    "day": "2026-10-27",
@@ -3473,6 +4473,19 @@
    "published": "2026-10-27T13:04+09:00",
    "cat": "tech",
    "id": "2f0a8f5f6caf",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "[단독] ‘소방관 순직’ 악몽의 그날…옥상 고립된 소방관들 긴박 무전",
+   "summary": "순직 사고에 대한 진상규명을 촉구하고 있다. 김 소방위의 유족도 화재 이후 “이미 공장 작업자들은 모두 밖으로 대피해 추가 인명 구조가 필요 없는 상황이었는데 최소한의 상황 파악조차 없이 퇴근 직전의 대원을...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003560789?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25473180",
+   "source": "중앙일보",
+   "published": "2026-10-27T13:03+09:00",
+   "cat": "sev",
+   "id": "bfe4f4ac2034",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -3778,6 +4791,32 @@
    "watch": []
   },
   {
+   "title": "제주 어선 하선 중 60대 작업자 방파제로 추락",
+   "summary": "제주의 한 부두에서 어선에서 전기작업을 마치고 하선 하던 작업자가 방파제로 추락해 크게 다쳤다. 27일 제주도 소방안전본부에 따르면 전날 오전 9시 16분께 제주시 도두일동 도두항 제6부두에서 낚시어선에서...",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=401681",
+   "orig": "https://www.jejudomin.co.kr/news/articleView.html?idxno=401681",
+   "source": "jejudomin.co.kr",
+   "published": "2026-10-27T11:14+09:00",
+   "cat": "acc",
+   "id": "b808e3e5e3cd",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "李대통령 \"이태원 참사 4주기…국민 모두 안전한 일상, 아직 갈 길 멀다...",
+   "summary": "2022년 10월29일 서울시 이태원에서 벌어진 압사 사고로 159명이 사망한 이태원 참사가 4주기를 맞은 가운데... 아울러 \"자연재해, 산업현장 중대 재해, 각종 재난과 강력범죄 등 일상에 존재하는 모든 위협으로부터 국민의...",
+   "url": "https://n.news.naver.com/mnews/article/006/0000138419?sid=100",
+   "orig": "https://www.mediatoday.co.kr/news/articleView.html?idxno=338014",
+   "source": "미디어오늘",
+   "published": "2026-10-27T11:13+09:00",
+   "cat": "sev",
+   "id": "14b775f64c4c",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "반도체 후공정 업체 간독성 질환 노동자 산재요양 불승인",
    "summary": "하지만 반도체노동자의 건강과 인권지킴이 반올림은 납득키 어렵다고 봤다. 우선 화학물질 성분과 노출수준 확인은 단지 회사에서 제공한 MSDS(물질안전보건자료)만을 가지고 판단했다고 봤다. 또 형식적인...",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251209",
@@ -3937,6 +4976,19 @@
    "published": "2026-10-27T10:35+09:00",
    "cat": "sev",
    "id": "ce0be74fb495",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "영광서 트럭 적재함 추락 사고…60대 작업자 중상",
+   "summary": "영광군의 한 현장에서 60대 노동자가 트럭 적재함 위에서 작업을 하던 중 바닥으로 추락해 크게 다치는 사고가 발생했다. 27일 영광소방서에 따르면 전날 오전 10시 41분께 영광군 군서면의 한 현장에서 5톤 트럭 적재함에...",
+   "url": "http://www.jndn.com/article.php?aid=1793064653441877101",
+   "orig": "http://www.jndn.com/article.php?aid=1793064653441877101",
+   "source": "jndn.com",
+   "published": "2026-10-27T10:34+09:00",
+   "cat": "acc",
+   "id": "7bd9fd6c4ab5",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -4626,6 +5678,12 @@
      "url": "https://n.news.naver.com/mnews/article/020/0003758229?sid=102",
      "orig": "https://www.donga.com/news/Society/article/all/20261028/134921185/2",
      "title": "내년 4월부터 산재 사망 반복땐 영업익 5% 과징금"
+    },
+    {
+     "source": "newsfc.co.kr",
+     "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=82012",
+     "orig": "http://www.newsfc.co.kr/news/articleView.html?idxno=82012",
+     "title": "내년 4월말부터 사망사고 반복 사업장에 최대 영업익 5% 과징금"
     }
    ],
    "day": "2026-10-27",
@@ -4689,6 +5747,19 @@
    "watch": []
   },
   {
+   "title": "봉화군 '3단디 실천운동' 확산···건설현장 추락사고 막는다",
+   "summary": "작업에 앞서 현장 구조와 위험요소를 점검하고, 작업자는 안전모와 안전대 등 보호장비를 올바르게 착용해야 한다. 추락 위험이 있는 장소에는 안전난간과 작업발판, 추락방호망 등 필요한 시설을 갖춰야 하며, 비나 강풍...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=752443",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=752443",
+   "source": "프라임경제",
+   "published": "2026-10-27T08:56+09:00",
+   "cat": "acc",
+   "id": "825d58d05261",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "\"어릴 때부터 안전문화육성…\" 성과 난 산업안전 선진국 어디?",
    "summary": "산재 예방에 있어 성과도 난 것으로 잘 알려져 있는 산업안전 선진국 싱가포르 얘기다. 26일 본지가 살핀... 해당 보고서는 산업재해 사망자 수를 대폭 감축(노동자 10만명당 산업재해 사망률 지난 20년간 약 80% 감소)한...",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251204",
@@ -4697,6 +5768,19 @@
    "published": "2026-10-27T08:52+09:00",
    "cat": "law",
    "id": "16ef68f2139d",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "새벽 안산 케이블 공장에서 화재…50대 작업자 부상",
+   "summary": "소방당국 장비 19대와 인력 57명을 투입 경기도 안산시 단원구 원시동의 한 케이블 제조공장에서 화재가 발생해 50대 작업자 1명이 다쳤다. 소방당국에 따르면 27일 오전 0시 57분쯤 공장 2층에 설치된 열처리 기계에서...",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=916835",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=916835",
+   "source": "경기신문",
+   "published": "2026-10-27T08:48+09:00",
+   "cat": "acc",
+   "id": "7e564f8e91cd",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -4819,6 +5903,19 @@
    "watch": []
   },
   {
+   "title": "건설업 사망사고 29% 줄었지만…규제 강화 효과는 여전히 ‘물음표’ [...",
+   "summary": "데 집중할 가능성도 있다\"며 \"중요한 것은 처벌 수위를 높이는 것보다 추락·끼임 등 사망 사고가 반복되는 작업과 공정에서 어떤 기술과 장비, 관리체계가 필요한지를 구체적으로 파악하고 개선하는 것\"이라고 강조했다.",
+   "url": "https://www.etoday.co.kr/news/view/2640167",
+   "orig": "https://www.etoday.co.kr/news/view/2640167",
+   "source": "이투데이",
+   "published": "2026-10-27T06:02+09:00",
+   "cat": "sev",
+   "id": "2f988082961e",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
    "title": "오늘 노동부 종합국감…초광역특구 '주52시간 예외' 공방 이어질 듯",
    "summary": "고용노동부를 대상으로 한 올해 국정감사가 27일을 끝으로 마무리된다. 호남 반도체 산업 육성 등을 위한... 자동차 배터리 제조기업 DN오토모티브의 노동자 킬레이션 주사 투약 의혹과 쿠팡의 산재 은폐 의혹에 대한 후속...",
    "url": "https://n.news.naver.com/mnews/article/003/0014279905?sid=102",
@@ -4827,6 +5924,32 @@
    "published": "2026-10-27T06:01+09:00",
    "cat": "law",
    "id": "f1e447ba46a6",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "“진단수당만 16년째 제자리”…태백 진폐재해자들 현실화 촉구",
+   "summary": "속보=16년째 하루 5만원에 묶인 진폐 정밀진단 수당의 현실화 요구가 국정감사에서 제기된 가운데(본보... 또 정밀진단을 받는 동안 일을 하지 못하는 진폐재해자들에게 진단수당은 생계와 직결된 문제라며 산재기금...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001226436?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261026500806",
+   "source": "강원일보",
+   "published": "2026-10-27T00:08+09:00",
+   "cat": "law",
+   "id": "2fd20789af4e",
+   "related": [],
+   "day": "2026-10-27",
+   "watch": []
+  },
+  {
+   "title": "바지선서 황산 유출·공장 화학물질 누출…12명 이송",
+   "summary": "이 사고로 인근 작업자 등 11명이 황산을 흡입하고 목 따가움 등의 증상을 호소했다. 황산은 유독물질이자... 등 사고 원인을 조사 중이다. 이날 오후 6시11분께 울주군 두서면 활천리의 한 공장에서 화학물질 누출로...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070660",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1070660",
+   "source": "경상일보",
+   "published": "2026-10-27T00:02+09:00",
+   "cat": "acc",
+   "id": "df478513dcc8",
    "related": [],
    "day": "2026-10-27",
    "watch": []
@@ -4866,6 +5989,32 @@
    "published": "2026-10-26T21:24+09:00",
    "cat": "hlt",
    "id": "4b153236f040",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "울산, 두서면 공장서 화학물질 누출",
+   "summary": "26일 오후 6시 11분께 울산 울주군 두서면 활천리의 한 제조공장에서 보관 선반(렉)이 무너지면서 화학물질이 누출되는 사고가 발생했다. 이 사고로 현장에 있던 작업자 1명이 다쳐 자체 차량으로 인근 서울산...",
+   "url": "http://www.ujeil.com/news/articleView.html?idxno=394153",
+   "orig": "http://www.ujeil.com/news/articleView.html?idxno=394153",
+   "source": "ujeil.com",
+   "published": "2026-10-26T21:24+09:00",
+   "cat": "acc",
+   "id": "e31be21ee6bf",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "더 커진 대규모 화재 위험...‘체계적 초동 진화’로 대응",
+   "summary": "인공지능과 반도체 등 첨단산업은화재가 발생하면 대규모 피해로 이어질 가능성이 큽니다. 무엇보다... <리포트> 희뿌연 연기가 피어오르고, 공장 안에 있던 근로자 수십 명이 건물 밖으로 황급히 빠져나옵니다. 높은...",
+   "url": "https://n.news.naver.com/mnews/article/655/0000033322?sid=102",
+   "orig": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=261026032&PRO_CODE=4",
+   "source": "cjb.co.kr",
+   "published": "2026-10-26T21:02+09:00",
+   "cat": "acc",
+   "id": "d80ec2d3c00e",
    "related": [],
    "day": "2026-10-26",
    "watch": []
@@ -4918,6 +6067,19 @@
    "published": "2026-10-26T20:32+09:00",
    "cat": "sev",
    "id": "ee46373c8460",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "죽음 부른 태양광 설비공사",
+   "summary": "지난 2020년 5월 26일 전남광주시 고흥군 동강면 한 축사 지붕에서 작업자 1명이 3여m 아래로 추락해 숨졌으며, 지난 2023년 10월 19일에는 함평군 월야면에서 30대 작업자가 3여m 아래로 떨어져 사망했다. 지난 2024년 5월...",
+   "url": "http://www.kwangju.co.kr/article.php?aid=1793013900804705006",
+   "orig": "http://www.kwangju.co.kr/article.php?aid=1793013900804705006",
+   "source": "광주일보",
+   "published": "2026-10-26T20:30+09:00",
+   "cat": "sev",
+   "id": "aba3ca7d99eb",
    "related": [],
    "day": "2026-10-26",
    "watch": []
@@ -5040,6 +6202,19 @@
    "watch": []
   },
   {
+   "title": "농어촌공사 강원본부, 3분기 안전관리 우수 지사·지구 포상식 개최",
+   "summary": "양구 현장은 고소작업 시 안전벨트와 안전고리를 착용하고 추락·낙하물 방지 안전망을 설치하는 등 추락사고 예방에 힘썼다. 삼척 현장은 전신형 안전벨트 등 보호구 착용과 근로자·건설장비 이동동선 분리, 목공용...",
+   "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=408225",
+   "orig": "https://www.agrinet.co.kr/news/articleView.html?idxno=408225",
+   "source": "agrinet.co.kr",
+   "published": "2026-10-26T18:14+09:00",
+   "cat": "tech",
+   "id": "61d3fbee99b7",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
    "title": "남해군, 도급·용역·위탁 사업담당자 안전보건 교육",
    "summary": "주요 교육 내용은 도급·용역·위탁 사업의 안전보건 의무, 중대재해처벌법과 산업안전보건법의 이해 및 적용 사례, 안전마인드 강화 등이다. 특히 사업을 발주하고 관리하는 과정에서 담당자가 확인해야 할 사항과...",
    "url": "http://www.gndomin.com/news/articleView.html?idxno=494308",
@@ -5099,6 +6274,19 @@
    "watch": []
   },
   {
+   "title": "소방청장 \"부천 화재 지휘관 판단, 많은 물음표 있는 건 사실\"",
+   "summary": "최용철 소방청장은 소방관 순직 사고가 발생한 경기 부천 공장 화재 당시 현장 지휘관의 '진입 명령'에 대해... 이후 지휘부 측이 공장의 위험물 취급 여부를 물었고, 오전 8시 47분쯤 현장 대원은 \"3층 작업자는 모두...",
+   "url": "https://n.news.naver.com/mnews/article/057/0001975185?sid=100",
+   "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5227157",
+   "source": "매일경제",
+   "published": "2026-10-26T17:34+09:00",
+   "cat": "acc",
+   "id": "5b6863be0fde",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
    "title": "태양광 공사 추락사 잇따라…사망자 3명 중 1명 대구·경북",
    "summary": "국회 기후에너지환경노동위원회 소속 김위상 의원(국민의힘)이 고용노동부로부터 제출받은 자료에 따르면, 2020년부터 올해 상반기까지 발생한 태양광 설비공사 중 산재 사망자는 모두 38명, 부상자는 731명으로...",
    "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4088507",
@@ -5133,6 +6321,19 @@
    "published": "2026-10-26T17:10+09:00",
    "cat": "acc",
    "id": "06bcb797b69d",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "태양광 설비공사 사망사고 잇따라…올 상반기 7명 숨져 지난해 전체 추...",
+   "summary": "태양광 설비공사는 공장과 창고, 축사 등 기존 건축물의 지붕에서 이뤄지는 경우가 많아 작업자의 추락 위험이 크다. 특히 하중에 취약한 지붕재가 사용된 현장에서는 작업 중 지붕이 파손되거나 발을 헛디딜 경우...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204370",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204370",
+   "source": "energydaily.co.kr",
+   "published": "2026-10-26T17:10+09:00",
+   "cat": "sev",
+   "id": "5b704d8a7ca9",
    "related": [],
    "day": "2026-10-26",
    "watch": []
@@ -5282,6 +6483,19 @@
    "published": "2026-10-26T16:34+09:00",
    "cat": "law",
    "id": "c2ef082c6af9",
+   "related": [],
+   "day": "2026-10-26",
+   "watch": []
+  },
+  {
+   "title": "소방청장 “부천 공장 화재 현장 지휘관의 ‘진입’ 판단, 물음표 많아...",
+   "summary": "최용철 소방청장은 26일 부천 공장 화재 소방관 순직 사고 당시 현장 지휘관의 ‘진입’ 판단에 대해 “많은... 이에 현장 대원은 8시47분쯤 “3층 작업자는 모두 대피한 것으로 확인됐다”고 보고한 데 이어 1분 뒤 “3층...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003478570?sid=100",
+   "orig": "https://www.khan.co.kr/article/202610261634001",
+   "source": "경향신문",
+   "published": "2026-10-26T16:34+09:00",
+   "cat": "acc",
+   "id": "d768bf22dd5e",
    "related": [],
    "day": "2026-10-26",
    "watch": []
