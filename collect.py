@@ -253,6 +253,18 @@ def count_terms(text: str, words: list[str]) -> int:
     return n + sum(1 for w in words if w.lower() in text)
 
 
+def has_work_context(title: str, desc: str, cfg: dict) -> bool:
+    """일터 맥락 판단. '작업'·'점검'처럼 넓은 단어는 제목에 있을 때만 인정하고,
+    요약문에서는 '작업 중'·'작업하던'처럼 실제 작업 상황을 뜻하는 표현만 인정한다
+    (요약문의 '보안 강화 작업', '가지치기 작업' 같은 표현으로 해킹·해외 사고 기사가 들어오는 것을 막음)."""
+    wc = cfg.get("work_context", [])
+    if contains_any(title, wc):
+        return True
+    title_only = [w.lower() for w in cfg.get("work_context_title_only", [])]
+    loose = [w for w in wc if w.lower() not in title_only]
+    return contains_any(desc, loose + cfg.get("work_context_summary", []))
+
+
 def relevant(art: dict, cfg: dict) -> bool:
     """안전보건 기사인지 판단.
 
@@ -262,7 +274,7 @@ def relevant(art: dict, cfg: dict) -> bool:
     title = art["title"].lower()
     desc = art.get("summary", "").lower()
     both = title + " " + desc
-    if contains_any(both, cfg["exclude_if_any"]):
+    if contains_any(both, cfg["exclude_if_any"]) or contains_any(title, cfg.get("exclude_if_title_has", [])):
         return False
     w = cfg.get("watch") or {}
     if watch_hits(art, cfg):
@@ -286,11 +298,12 @@ def relevant(art: dict, cfg: dict) -> bool:
         return True
     # 제목에 사고 표현(중대재해·산업사고 분류 기준 단어)이 있고, 제목이나 요약에 일터 맥락이 있으면 통과
     incident = [w for c in cfg["categories"] for w in c.get("require_in_title", [])]
-    if contains_any(title, incident) and contains_any(both, cfg.get("work_context", [])):
+    if contains_any(title, incident) and has_work_context(title, desc, cfg):
         return True
-    # 제목에 인명 피해(사망·사상)와 사고 표현이 함께 있으면 통과 (예: '6명 사상 고가차도 붕괴사고')
+    # 제목에 인명 피해(사망·사상)와 사고 표현이 함께 있고 일터 맥락이 있으면 통과 (예: '6명 사상 고가차도 붕괴사고')
     sev = next((c for c in cfg["categories"] if c.get("priority")), None)
-    if sev and contains_any(title, sev.get("require_in_title", [])) and contains_any(title, incident + ["사고"]):
+    if sev and contains_any(title, sev.get("require_in_title", [])) and contains_any(title, incident + ["사고"]) \
+            and (has_work_context(title, desc, cfg) or contains_any(title, cfg.get("hard_incident_words", []))):
         return True
     # 제목에 핵심어가 없으면 요약문에 서로 다른 핵심어 3개 이상 + 제목이 정치·증시 기사가 아닐 때만 통과
     if contains_any(title, cfg.get("block_title_if_summary_only", [])):
