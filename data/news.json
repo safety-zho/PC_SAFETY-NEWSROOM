@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-10-29T11:21+09:00",
+ "updatedAt": "2026-10-29T14:15+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "newsdream.kr",
    "cat": "hlt",
    "day": "2026-10-29",
-   "count": 11
+   "count": 16
+  },
+  {
+   "id": "b62f515ff760",
+   "title": "김진규 검단구청장, 마전동 가스 폭발 현장 점검... \"부상자 쾌유 기원...",
+   "url": "https://www.tournews21.com/news/articleView.html?idxno=146969",
+   "source": "tournews21.com",
+   "cat": "acc",
+   "day": "2026-10-29",
+   "count": 6
   },
   {
    "id": "77645943d386",
@@ -43,6 +52,15 @@
    "count": 6
   },
   {
+   "id": "0b5a0fe22f53",
+   "title": "인천환경공단, 중대재해 예방 위해 현장 안전관리 강화",
+   "url": "https://n.news.naver.com/mnews/article/003/0014286766?sid=102",
+   "source": "뉴시스",
+   "cat": "tech",
+   "day": "2026-10-29",
+   "count": 4
+  },
+  {
    "id": "5ab94fbb2d98",
    "title": "안전보건교육 이수 사업장, 사고재해 발생률 15.9% 낮아",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251258",
@@ -50,27 +68,705 @@
    "cat": "tech",
    "day": "2026-10-29",
    "count": 3
-  },
-  {
-   "id": "b62f515ff760",
-   "title": "김진규 검단구청장, 마전동 가스 폭발 현장 점검... \"부상자 쾌유 기원...",
-   "url": "https://www.tournews21.com/news/articleView.html?idxno=146969",
-   "source": "tournews21.com",
-   "cat": "acc",
-   "day": "2026-10-29",
-   "count": 2
-  },
-  {
-   "id": "1f32323b5f7b",
-   "title": "경기도, 주민이 만드는 마을 안전망 확대",
-   "url": "https://www.viva100.com/article/20261029500238",
-   "source": "브릿지경제",
-   "cat": "law",
-   "day": "2026-10-29",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "인천시, AI 재난감시망 확대…범죄피해자 지원부터 겨울철 안전대책까지...",
+   "summary": "피해 상인들의 경영 안정을 위해 인천신용보증재단 남동지점에는 전담 창구를 개설해 보증상품 안내를 진행했다. 시는 사건 당시 시민의 생명과 안전을 위해 용기를 발휘한 시민 5명에 대해서도 11월 중 시장 훈격의...",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716665",
+   "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=716665",
+   "source": "뉴스프리존",
+   "published": "2026-10-29T14:12+09:00",
+   "cat": "tech",
+   "id": "ad62049bfbf3",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "철강업계, 내년 안전보건 공시 앞두고 정부에 세부 지침 마련 요구",
+   "summary": "간담회에는 오은경 고용노동부 산업안전정책과장과 강연주 산업통상부 철강세라믹과장을 비롯해 포스코, 동국제강, 동국씨엠, 세아제강, 세아베스틸, 세아창원특수강, KG스틸, 대한제강, 휴스틸 등 9개 회원사 안전보건...",
+   "url": "https://www.etoday.co.kr/news/view/2641757",
+   "orig": "https://www.etoday.co.kr/news/view/2641757",
+   "source": "이투데이",
+   "published": "2026-10-29T14:10+09:00",
+   "cat": "law",
+   "id": "9f323c4b6800",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "SH, 공공주택 등 건설현장 6곳 점검…안전사고 예방 강화",
+   "summary": "현장 관계자와 근로자들의 의견을 청취하고 작업 중 발생할 수 있는 사고를 예방하기 위한 개선 방안도 논의했다. SH가 운영 중인 스마트 안전관리 체계도 점검했다. SH는 지능형 영상분석 폐쇄회로(CC)TV와 스마트...",
+   "url": "https://www.viva100.com/article/20261029500814",
+   "orig": "https://www.viva100.com/article/20261029500814",
+   "source": "브릿지경제",
+   "published": "2026-10-29T14:08+09:00",
+   "cat": "tech",
+   "id": "cd8f3716c927",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "[산업계 동향] LG에너지솔루션·현대엘리베이터·삼표그룹",
+   "summary": "지난 3월 이크레더블의 안전보건 평가에서도 최상위 등급인 SH1을 받은 데 이어 국내 2개 전문 평가기관에서 모두 최고등급을 확보하며 안전보건 관리 역량을 인정받았다. 건설안전관리평가는 기업의 안전보건...",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=171631",
+   "orig": "http://www.iminju.net/news/articleView.html?idxno=171631",
+   "source": "iminju.net",
+   "published": "2026-10-29T14:08+09:00",
+   "cat": "tech",
+   "id": "3d3e652eb660",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "K-안전 체험하는 국내외 관람객들",
+   "summary": "29일 경기도 고양 킨텍스에서 열린 '지페어 코리아 2026'의 안전보건공단 안전체험 공간에서 국내외 관람객들이 LB VR 체험을 하고 있다. LB VR은 동시에 여러명이 같은 공간을 이동하며 체험하는 실감형 VR...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016408895?sid=101",
+   "orig": "https://www.yna.co.kr/view/PYH20261029128100060?input=1196m",
+   "source": "연합뉴스",
+   "published": "2026-10-29T14:06+09:00",
+   "cat": "tech",
+   "id": "35aafa222ffd",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "타워크레인 노동자 단식 종료, '국토부·노동부 안전 관련 약속'",
+   "summary": "지난 19일 건설노조 타워크레인분과위원회는 지난 9일 GS파워가 발주하고, DL이앤씨가 시공을 맡은 부천 열병합발전소 현대화 사업 현장에서 32톤급 대형 타워크레인 설치 작업 중 노동자가 죽고 다친 사고에 대한 진상...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41735",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41735",
+   "source": "laborplus.co.kr",
+   "published": "2026-10-29T14:05+09:00",
+   "cat": "law",
+   "id": "e257bd84dd80",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "머크, ADC 제조 '폐쇄공정' 해법 제시…\"안전·총운영비 절감 동시 달성...",
+   "summary": "글로벌 과학기술 기업 머크(Merck)가 차세대 항암제로 꼽히는 항체약물접합체(ADC) 제조 현장의 최대 난제인... 통한 안전하고 스마트한 ADC 제조'를 주제로 발표하며 이같이 밝혔다. ADC는 암세포를 표적하는 항체에 강력한...",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026102911032624030",
+   "orig": "https://www.newsway.co.kr/news/view?ud=2026102911032624030",
+   "source": "뉴스웨이",
+   "published": "2026-10-29T14:04+09:00",
+   "cat": "tech",
+   "id": "a50d4c2453f1",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "\"건설사 입찰자격 심사때 핵심지표\" 현대엘베, 건설안전관리 최고등급 ...",
+   "summary": "평가 등급은 SA1부터 SA7까지 7개 단계로 구분되며 현대엘리베이터가 획득한 'SA1' 등급은 안전보건경영체제의 구축 및 운영 능력이 업계 최상위 수준임을 의미한다. 현대엘리베이터는 지난 3월 이크레더블의 안전보건...",
+   "url": "https://www.catchnews.kr/news/articleView.html?idxno=129941",
+   "orig": "https://www.catchnews.kr/news/articleView.html?idxno=129941",
+   "source": "catchnews.kr",
+   "published": "2026-10-29T14:04+09:00",
+   "cat": "tech",
+   "id": "8f62b4c09f22",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "가스 폭발 대참사 막은 배우…쏟아진 관심에 “두렵고 죄송” 왜",
+   "summary": "최근 인천의 한 상가 건물에서 발생한 가스 폭발 사고 현장에서 신속한 조치로 추가 피해를 막은 시민이... 사고가 발생한 음식점에서는 내부 철거 작업을 진행하고 있던 것으로 조사됐다. 이 사고로 60대 작업자 3명과 60대...",
+   "url": "https://n.news.naver.com/mnews/article/025/0003561429?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25474010",
+   "source": "중앙일보",
+   "published": "2026-10-29T14:03+09:00",
+   "cat": "sev",
+   "id": "b526c35f36d2",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "현대엘리베이터, 안전보건 평가 잇달아 최고등급…현장 예방관리 강화",
+   "summary": "| 이코노미사이언스 김연옥 기자 | 현대엘리베이터가 국내 주요 전문 평가기관의 안전보건 역량 평가에서 잇달아 최고등급을 획득하며 산업재해 예방을 위한 관리체계를 점검받았다. 현대엘리베이터는 기업평가...",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=138466",
+   "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=138466",
+   "source": "e-science.co.kr",
+   "published": "2026-10-29T14:02+09:00",
+   "cat": "tech",
+   "id": "7ef5fbe2cda5",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "LS그룹, 협력사와 경영현안 논의…안전∙금융 지원 병행",
+   "summary": "협력사들의 현장 애로사항을 청취하는 한편, 안전·기술·금융 분야의 지원을 통해 동반성장을 이어간다는... 안전점검을 통해 재해 예방을 지원하며, LS일렉트릭은 누계 200억원의 상생협력기금을 출연해 스마트공장...",
+   "url": "http://www.kdfnews.com/news/articleView.html?idxno=190106",
+   "orig": "http://www.kdfnews.com/news/articleView.html?idxno=190106",
+   "source": "kdfnews.com",
+   "published": "2026-10-29T14:00+09:00",
+   "cat": "tech",
+   "id": "c4dab2d82414",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "클린온·클린톡, 정식 출시 후 기능 고도화…지도 기반 수거 관리도 준...",
+   "summary": "클린턴은 최근 서울시와 한국산업안전보건공단의 현장 안전관리 점검에서 클린온을 도입한 대부분의 업체가 우수사례로 선정됐다고 밝혔다. 박상곤 대표는 “도입 업체의 업무 개선 효과가 업계에 알려지고 최근...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003480100?sid=105",
+   "orig": "https://www.etnews.com/20261029000291",
+   "source": "전자신문",
+   "published": "2026-10-29T13:59+09:00",
+   "cat": "tech",
+   "id": "baaeab33dc05",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "SH, 겨울철 앞두고 건설현장 안전관리 강화...주요 현장 선제 점검",
+   "summary": "현장 관계자와 근로자들의 의견을 청취하며 사고 발생 가능성이 있는 작업환경을 사전에 개선하는 방안도 논의했다. 이와 함께 SH가 운영 중인 스마트 안전관리 체계의 작동 상태도 확인했다. 공사는 지능형 영상분석...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005596442?sid=101",
+   "orig": "https://www.fnnews.com/news/202610291347059592",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-29T13:58+09:00",
+   "cat": "tech",
+   "id": "7f38a684f801",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "생산성 높이고 안전까지 담보… ‘워크웨어’의 패러다임을 바꾸다",
+   "summary": "이와 함께 최근 안전보건전시회 패션쇼 진행 및 배우 이진욱을 모델로 한 대대적인 F/W 시즌 캠페인을 전개하며 전국적인 브랜드 인지도와 신뢰도를 한층 끌어올리고 있다. 아에르웍스는 한국 산업 환경의 특성과 현장...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000962400?sid=103",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102913510004947?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-29T13:55+09:00",
+   "cat": "tech",
+   "id": "d980ee858069",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "전국 산재병원 11곳 중 8곳 ‘적자’… 연간 적자 3년 새 231억 폭증",
+   "summary": "국회 기후에너지환경노동위원회 소속 이헌승 의원(국민의힘, 부산 진구을)이 근로복지공단으로부터 제출받은 국정감사 자료에 따르면, 근로복지공단 소속 산재병원 전체의 당기손익은 2023년 22억 4,200만 원...",
+   "url": "https://www.geconomy.co.kr/news/article.html?no=324750",
+   "orig": "https://www.geconomy.co.kr/news/article.html?no=324750",
+   "source": "geconomy.co.kr",
+   "published": "2026-10-29T13:54+09:00",
+   "cat": "law",
+   "id": "a6ebcf425bbe",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "'가스폭발 참사 막은' 윤대열 \"먼저 온 의인들 있었다\"..직접 밝힌 사고...",
+   "summary": "인천 서부경찰서에 따르면 27일 오전 8시 45분께 인천 검단구 마전동 한 상가 건물 1층 음식점에서 가스 폭발사고가 발생했다. 해당 음식점에서는 내부 철거 작업이 진행되고 있었으며, 이로 인해 60대 작업자 3명과 60대...",
+   "url": "http://www.osen.co.kr/article/G1112900217",
+   "orig": "http://www.osen.co.kr/article/G1112900217",
+   "source": "osen.co.kr",
+   "published": "2026-10-29T13:52+09:00",
+   "cat": "sev",
+   "id": "ed87de283725",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "김용민 의원, 수종사 진입로 정비 현장 점검…\"시민 안전 최우선\"",
+   "summary": "현재 현장에서는 도로 확장과 정비, 그리고 축대 설치 작업이 활발히 진행 중이다. 이 사업은 그동안 수종사 진입로가 차량과 보행자가 혼재해 상시적으로 안전사고 위험이 높았던 문제를 해결하기 위해 마련됐다. 도로...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3736389",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3736389",
+   "source": "국제뉴스",
+   "published": "2026-10-29T13:50+09:00",
+   "cat": "law",
+   "id": "e12e96277d28",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "현대엘리베이터 안전도 '특급'… 나이스디앤비 'SA1' 쾌거",
+   "summary": "건설안전관리평가는 기업의 안전보건경영체제 구축과 운영 능력을 종합 진단하는 지표로, SA1부터 SA7까지 7단계 등급 중 가장 높은 수준을 의미한다. 지난 3월 현대엘리베이터는 이크레더블의 안전보건(SH) 평가에서도...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107905",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107905",
+   "source": "ccdn.co.kr",
+   "published": "2026-10-29T13:46+09:00",
+   "cat": "tech",
+   "id": "a447e52b8577",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "안전·환경 관리 강화… 지속가능경영 박차",
+   "summary": "금호석유화학그룹이 안전과 환경을 지속가능한 성장을 위한 기본 가치로 삼고 관리 체계를 지속적으로... 발굴하고 안전관리 시스템을 강화하는 동시에 공정 개선과 자원순환을 통해 환경 영향을 줄이는 데 힘쓰고 있다....",
+   "url": "https://n.news.naver.com/mnews/article/469/0000962394?sid=101",
+   "orig": "https://www.hankookilbo.com/news/article/A2026102910290005448?did=NA",
+   "source": "한국일보",
+   "published": "2026-10-29T13:44+09:00",
+   "cat": "tech",
+   "id": "8195db62b73a",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "가스 폭발에 바로 달려가더니…배우 윤대열 “2차 피해 막아야죠”",
+   "summary": "지난 27일 오전 인천 한 상가 건물, 갑작스러운 가스 폭발로 현장 아수라장 되고 음식점 점주와 철거 작업자 등 4명 다쳐 당시 주변 산책하던 한 남성, 폭발 사고 목격하고 곧바로 현장 달려가 건물 밖 LPG 가스통 2개 밸브를...",
+   "url": "https://n.news.naver.com/mnews/article/437/0000518123?sid=103",
+   "orig": "https://news.jtbc.co.kr/article/NB12325445?influxDiv=NAVER",
+   "source": "JTBC",
+   "published": "2026-10-29T13:40+09:00",
+   "cat": "acc",
+   "id": "7e49818fbae6",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "경찰, '광주 대표도서관 붕괴사고' 19명 뇌물 등 혐의 추가 송치",
+   "summary": "작업자 4명이 숨진 광주 대표도서관 붕괴사고를 수사 중인 경찰이 19명을 추가로 송치했다. 광주경찰청... 지난해 12월 11일 광주 서구 광주대표도서관 공사 현장에서 콘크리트 타설 중 구조물이 붕괴해 하청업체 소속...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009257932?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6336341",
+   "source": "뉴스1",
+   "published": "2026-10-29T13:38+09:00",
+   "cat": "acc",
+   "id": "0e9c8b06fd0d",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "동원개발, 협력업체와 안전문화 확산 다짐",
+   "summary": "이번 행사는 최근 강화되고 있는 정부 및 고용노동부의 산업안전 정책 방향에 능동적으로 대응하고, 건설현장의 근본적인 산업재해 예방과 자율적인 안전문화 정착을 위해 마련됐다. 원청사와 협력사가 대등한 파트너십을...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005596418?sid=101",
+   "orig": "https://www.fnnews.com/news/202610291315377887",
+   "source": "파이낸셜뉴스",
+   "published": "2026-10-29T13:22+09:00",
+   "cat": "law",
+   "id": "f04bd8be7902",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "'비통한' 모레노 韓 대표팀 감독, 68명 사망 '스페인 열차 참사' 깊은 애...",
+   "summary": "주스페인 한국대사관은 당시 열차에 탑승했던 한국인 10명 중 2명도 부상을 입어 치료를 받고 있다고 밝혔다. 현지에서는 구조 작업과 헌혈 행렬이 이어지는 한편 마드리드 교통부 청사 앞에서는 사고 책임 규명을...",
+   "url": "https://www.starnewskorea.com/sports/2026/10/29/2026102912440840935",
+   "orig": "https://www.starnewskorea.com/sports/2026/10/29/2026102912440840935",
+   "source": "starnewskorea.com",
+   "published": "2026-10-29T13:12+09:00",
+   "cat": "sev",
+   "id": "31448a1534a7",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "넉 달 만에 또 지게차 참변… 무면허 운전 내몬 안전불감증 도마에",
+   "summary": "A씨는 화물차에 실린 사료를 축사로 옮기기 위해 지게차를 운전하다 화물차와 연결된 경사로를 통해 지상으로 내려오던 중 지게차가 넘어지면서 변을 당한 것으로 알려졌다. 당시 혼자 작업을 준비하다 사고를 당한...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003693785?sid=102",
+   "orig": "https://www.seoul.co.kr/news/society/accident/2026/10/29/20261029500122?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-10-29T13:11+09:00",
+   "cat": "hlt",
+   "id": "72cfb2914eec",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "장수군로컬JOB센터, 중장비(굴착기·지게차) 교육 운영",
+   "summary": "교육은 다음 달 10일부터 20일까지의 기간 중 2일간 진행되며, 이론교육 6시간과 실습교육 6시간 등 총 12시간으로 운영된다. 주요 교육 내용은 ▲건설기계의 구조와 작동 원리 ▲관련 법규 및 안전수칙 ▲작업장 사고...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014287293?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261029_0003846449",
+   "source": "뉴시스",
+   "published": "2026-10-29T13:04+09:00",
+   "cat": "tech",
+   "id": "0759f27fa89e",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "인천 검단구, 마전동 LPG 가스 폭발 현장 점검·안전대책 지시",
+   "summary": "검단구에 따르면 이번 사고는 지난 27일 오전 상가 음식점 폐업에 따른 리모델링 작업 중 발생했다. 리모델링 업체의 가스 연소기 취급 부주의로 LPG가 누출됐으며, 이후 바닥 드릴 작업 과정에서 발생한 불꽃이 누출된...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2011859",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2011859",
+   "source": "m-i.kr",
+   "published": "2026-10-29T12:54+09:00",
+   "cat": "acc",
+   "id": "a26798ed8859",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "“생명존중 안전사회 국민과 함께 만든다”... 국민생명안전위원회 제2...",
+   "summary": "자살ㆍ산재 등 15대 분야 사망자(연평균 2만3218명, ’21∼’25년)는 결과지표로 상시 관리하고 대통령 주재 정기 점검으로 이행력을 높이되 안전약자의 위험 체감도와 취약성을 보는 정성 지표도 함께 개발한다. ‘한 사람도...",
+   "url": "http://fpn119.co.kr/258546",
+   "orig": "http://fpn119.co.kr/258546",
+   "source": "fpn119.co.kr",
+   "published": "2026-10-29T12:52+09:00",
+   "cat": "law",
+   "id": "90c4b7e11b35",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "창녕군, 전국 첫 이벤트 탐지 자동 화면 표출 체계 완성 365일 군민 안전...",
+   "summary": "인공지능 기술을 행정에 적극적으로 도입해 군민 모두가 안심하고 생활할 수 있는 스마트 안전 도시 창녕을 만드는 데 최선을 다하겠다\"고 밝혔다. 창녕군 영상정보통합관제센터의 이벤트 탐지 자동 화면 표출 체계...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005835253?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026102912472976385",
+   "source": "아시아경제",
+   "published": "2026-10-29T12:51+09:00",
+   "cat": "tech",
+   "id": "ed713c3d288f",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "공직자 안전관리 실무 역량 강화",
+   "summary": "이번 교육에는 부서별 관리감독자와 중대재해 업무 담당자 등 130여명이 참석했다. 군은 행정안전부... 이날 강의는 △중대재해예방을 위한 지방자치단체의 역할 △중대재해처벌법 주요 핵심 사항 △최신 산업안전보건정...",
+   "url": "https://www.dynews.co.kr/news/articleView.html?idxno=871601",
+   "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=871601",
+   "source": "동양일보",
+   "published": "2026-10-29T12:46+09:00",
+   "cat": "law",
+   "id": "a455a39a15a1",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "세 아이 아빠 앗아간 지게차 사고…유족 \"무면허 알고도 일 시켜\"",
+   "summary": "노동자 사망사고를 철저히 수사하고, 재발방지책을 마련하라\"고 밝혔다. A씨는 올해 44세로, 8살과 11살, 12살의... 상대로 수사에 나섰다. 광주지방고용노동청도 중대재해처벌법·산업안전보건법 위반 여부를 조사 중이다.",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=507839",
+   "orig": "https://www.jejusori.net/news/articleView.html?idxno=507839",
+   "source": "제주의소리",
+   "published": "2026-10-29T12:38+09:00",
+   "cat": "sev",
+   "id": "5ddd95b2f601",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "재난·안전 25.4兆 쏟아붓는다 … AI 예측·예방체계 강화",
+   "summary": "AI 기반 지능형 CCTV 관제체계를 구축하고 산업단지 위험지역에 디지털 사고예방 기술을 도입한다.... 이와 함께 외국인 근로자에 대한 기초안전보건교육을 의무화하고 항만별 노·사·정 안전협의체를 통한 합동점검을...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900165.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/10/29/2026102900165.html",
+   "source": "뉴데일리",
+   "published": "2026-10-29T12:30+09:00",
+   "cat": "tech",
+   "id": "e93c161d5ac0",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "창녕군, 인공지능 밀착 스마트관제로 안전행정 혁신",
+   "summary": "참조할 수 있는 지식행정의 우수 표준 모델을 제시했다. 군 관계자는 \"앞으로도 인공지능 기술을 행정에 적극 도입해 군민 모두가 안심하고 생활할 수 있는 스마트 안전 도시 창녕을 만드는 데 최선을 다하겠다\"고 밝혔다.",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485966",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485966",
+   "source": "이뉴스투데이",
+   "published": "2026-10-29T12:25+09:00",
+   "cat": "tech",
+   "id": "515ea57f922e",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "[단독] 대우건설 푸르지오, 하자 판정·산재 사망 ‘최다’ 오명… ‘누...",
+   "summary": "대우건설 김보현 대표는 지난해 국정감사에서 반복된 중대재해와 관련해 안전관리 강화를 약속한 바 있다. 그러나 사고 사망자 수가 주요 건설사 가운데 가장 많았다는 사실은 기존 안전관리 체계의 실효성을 되짚게...",
+   "url": "https://wemakenews.co.kr/news/view.php?no=26702",
+   "orig": "https://wemakenews.co.kr/news/view.php?no=26702",
+   "source": "wemakenews.co.kr",
+   "published": "2026-10-29T12:20+09:00",
+   "cat": "sev",
+   "id": "dd71c8bb6a3f",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "최소 68명 사망·100명 이상 부상, 스페인 열차 참사에 축구도 멈췄다…...",
+   "summary": "사고 현장에서는 구조대원들이 잔해에 갇힌 승객이 더 있는지 확인하기 위해 수색 작업을 이어갔으며, 당국은 대규모 인력을 투입해 사고 원인을 파악하고 있다. 스페인 철도망에서 발생한 대형 사고로 국가 전체가...",
+   "url": "https://www.xportsnews.com/article/2212776",
+   "orig": "https://www.xportsnews.com/article/2212776",
+   "source": "xportsnews.com",
+   "published": "2026-10-29T12:15+09:00",
+   "cat": "sev",
+   "id": "9c11b5562a2c",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "고물가·고유가 시대, 안전은 신품 순정, 편의는 재생 부품으로 챙기는...",
+   "summary": "소비관이 만날 때 도로 위를 달리는 내 차는 더욱 안전하고 든든한 일상의 동반자로 오래도록 우리의 곁을 지켜줄 것이라고 생각된다. 이전섭 한국폴리텍대학(광주캠퍼스) 스마트전기자동차과 교수, 前 자동차 정비사",
+   "url": "http://www.domin.co.kr/news/articleView.html?idxno=1573559",
+   "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1573559",
+   "source": "전북도민일보",
+   "published": "2026-10-29T12:12+09:00",
+   "cat": "tech",
+   "id": "d035df337ea0",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "김진규 구청장, 가스 사고 현장 점검… 선제 대응 지시",
+   "summary": "않았지만, 폭발로 현장에 있던 작업자 1명이 얼굴 골절과 화상 등 중상을 입었고 3명은 경상을 입어 병원에서 치료받고 있다. 김 구청장은 \"자영업자들이 어려운 시기에 폐업 중 이런 불의의 사고까지 겪게 되어 마음이...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485949",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485949",
+   "source": "이뉴스투데이",
+   "published": "2026-10-29T12:10+09:00",
+   "cat": "acc",
+   "id": "e84891b4bef5",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "인천시, AI·IoT 활용 ‘스마트 재난안전망’ 구축… 2029년까지 지능형...",
+   "summary": "인천광역시가 인공지능(AI)과 사물인터넷(IoT) 등 첨단 기술을 대거 도입해 도시 안전 관리 체계를 대폭 강화한다. 24시간 끊김 없는 재난 감시 환경을 조성해 위험 요소를 사전에 차단하고 시민 안전을 확보한다는...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002716119?sid=100",
+   "orig": "https://biz.heraldcorp.com/article/10918992?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-10-29T12:09+09:00",
+   "cat": "tech",
+   "id": "01cc2f081fab",
+   "related": [
+    {
+     "source": "greened.kr",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=353347",
+     "orig": "https://www.greened.kr/news/articleView.html?idxno=353347",
+     "title": "인천시, AI·IoT로 24시간 재난 감시… 2029년까지 스마트 안전망 구축"
+    }
+   ],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "제주 지게차 사망사고 유족 \"얼마나 더 죽어야 하나\"",
+   "summary": "지게차 사망사고 작업자 A(40대)씨 유족과 전국민주노동조합총연맹 제주본부는 29일 오전 제주도의회... 노조는 \"도내 모 물류업체 소속 노동자였던 A씨는 축사에서 트럭에 실린 지게차를 내리던 중 불의의 사고로 목숨을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014287182?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261029_0003846397",
+   "source": "뉴시스",
+   "published": "2026-10-29T12:07+09:00",
+   "cat": "sev",
+   "id": "1e837727cb1e",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "검단구, LPG 폭발 사고 후속 대응…가스 취급 안전대책 추진",
+   "summary": "이번 사고는 지난 27일 오전 음식점 폐업에 따른 리모델링 작업 중 발생했다. 가스 연소기 취급 부주의로 LPG가 누출된 상태에서 바닥 드릴 작업 중 불꽃이 발생해 폭발로 이어진 것으로 파악됐다. 사고로 현장에 있던 1명이...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=720132",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=720132",
+   "source": "newstown.co.kr",
+   "published": "2026-10-29T12:00+09:00",
+   "cat": "acc",
+   "id": "bcb740575a2a",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "정부, '2027년 재난안전계획' 확정…AI CCTV·주민대피지원단 전국 확대",
+   "summary": "산업통상부는 산업단지 위험지역 사고예방 솔루션을 지원한다. 우주항공청은 AI 기반 한국형 통합 우주상황 인식체계를 개발한다. 현장 대응에서는 주민대피지원단을 전국으로 확대 운영한다. 보건복지부는...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009257637?sid=102",
+   "orig": "https://www.news1.kr/local/moi/6335673",
+   "source": "뉴스1",
+   "published": "2026-10-29T12:00+09:00",
+   "cat": "tech",
+   "id": "366109c2dd4b",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "넉 달 만에 또 지게차 사망…유족 \"무면허 알고도 투입\"",
+   "summary": "제주에서 넉 달 만에 지게차 사망사고가 반복된 가운데 유족과 노동단체가 무면허 작업 지시와 인력 부족... 관계자 등을 수사하고 있으며, 노동당국도 산업안전보건법과 중대재해처벌법 위반 여부를 조사하고 있다.",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=845672",
+   "orig": "https://www.jemin.com/news/articleView.html?idxno=845672",
+   "source": "jemin.com",
+   "published": "2026-10-29T11:56+09:00",
+   "cat": "sev",
+   "id": "a0cc053b0685",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 최원용 평택시장, 바이오산업 육성을 위해 중국 옌타이 방...",
+   "summary": "이날 행사에는 평택시 기업투자과, 고용노동부 평택지청, 산업안전보건공단 경기남부지사, 경기도노사민정협의회 등 관련기관이 함께했으며, 캠페인에 앞서 노사 상생 및 노동정책 활성화에 기여한 관련기관 관계자...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=800129",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=800129",
+   "source": "weeklytoday.com",
+   "published": "2026-10-29T11:50+09:00",
+   "cat": "law",
+   "id": "e8a1d7944a8d",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "[손배] '폐암 산재' 공립 초중고 급식실 조리사에 지자체별 1천만원 위자...",
+   "summary": "원고들은 국가와 지자체가 원고들의 생명, 신체, 건강을 보호해야 할 계약 및 산업안전보건법 등 관련 법령에 따른 보호의무와 안전배려의무를 위반했다며 소송을 냈다. 정 판사는 \"국제사회에서는 2010년경 이후로...",
+   "url": "http://www.legaltimes.co.kr/news/articleView.html?idxno=96577",
+   "orig": "http://www.legaltimes.co.kr/news/articleView.html?idxno=96577",
+   "source": "legaltimes.co.kr",
+   "published": "2026-10-29T11:50+09:00",
+   "cat": "hlt",
+   "id": "c9b6eaed9502",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "장수군, 굴착기·지게차 면허 취득 지원…구직자 18명 모집",
+   "summary": "교육은 해당 기간 중 2일간 총 12시간에 걸쳐 진행된다. 이론교육 6시간과 실습교육 6시간으로 구성해 중장비... 교육생들은 건설기계의 구조와 작동 원리를 비롯해 관련 법규, 안전수칙, 작업장 사고 예방 방법 등을...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92338",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=92338",
+   "source": "더페어",
+   "published": "2026-10-29T11:46+09:00",
+   "cat": "tech",
+   "id": "bfbb0cffbad5",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 안전보건교육 산재 예방 효과 실증 분석",
+   "summary": "한국산업안전보건공단(KOSHA)은 28일 부산 벡스코에서 열린 '2026 한국안전학회 추계학술대회'에서 광운대학교·국립경국대학교 연구진과 함께 공단 안전보건교육의 산업재해 예방 효과를 실증 분석한 연구 결과를...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1021521",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1021521",
+   "source": "cnbnews.com",
+   "published": "2026-10-29T11:46+09:00",
+   "cat": "tech",
+   "id": "3ed729a24304",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "현대엘리, 업계 최고 수준 안전보건 관리 역량 인정받아",
+   "summary": "매일일보 = 정경화 기자 | 임직원과 협력사를 대상으로 현장 중심 산업재해 예방 호라동을 강화하는 현대엘리베이터가 국내 2대 전문 평가기관으로부터 연속으로 안전보건 관리 역량을 인정받았다. 현대엘리베이터는...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2011863",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2011863",
+   "source": "m-i.kr",
+   "published": "2026-10-29T11:44+09:00",
+   "cat": "tech",
+   "id": "ecb483c9d91a",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "현대엘리베이터, 안전관리 성적표 '최상위'…두 기관서 최고 등급",
+   "summary": "기업의 안전보건 관리체계와 운영 실태 등을 종합적으로 살펴 SA1부터 SA7까지 7개 등급이 부여된다.... 승강기 산업은 제조공장뿐 아니라 건설현장과 기존 건축물에서도 작업이 이뤄진다. 신규 승강기 설치부터 노후 설비...",
+   "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193905",
+   "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=193905",
+   "source": "wikileaks-kr.org",
+   "published": "2026-10-29T11:40+09:00",
+   "cat": "hlt",
+   "id": "fe4014e2bd5f",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "장수군, 겨울철 제설작업·안전교육 실시…대설 대응 강화",
+   "summary": "주요 교육내용은 △대설 대비 제설대책 및 비상근무체계 △제설차량·장비 작동 및 운용요령 △제설제 살포와 도로결빙 예방 작업방법 △작업 중 안전사고 예방수칙 등 현장에서 활용할 수 있는 실무 중심으로 구성됐다....",
+   "url": "http://www.domin.co.kr/news/articleView.html?idxno=1573556",
+   "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1573556",
+   "source": "전북도민일보",
+   "published": "2026-10-29T11:38+09:00",
+   "cat": "tech",
+   "id": "40873483f60f",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "4개월만에 제주서 또 지게차 비극, 이번엔 세 자녀 둔 아버지",
+   "summary": "지게차 사망사고의 철저한 진상규명과 재발방지책 수립을 촉구했다. 이날 회견에는 숨진 A 씨(44)의 아내와... 광주지방고용노동청도 산업안전보건법과 중대재해처벌법 위반 여부를 들여다볼 계획이다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009257583?sid=102",
+   "orig": "https://www.news1.kr/local/jeju/6336196",
+   "source": "뉴스1",
+   "published": "2026-10-29T11:34+09:00",
+   "cat": "hlt",
+   "id": "8d6736c9bdbe",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "美 볼티모어 교량 붕괴 선주, 항소심서도 건조사 '선박 결함' 주장",
+   "summary": "싱가포르 선적 컨테이너선 달리호가 항해 중 전력을 상실한 뒤 프랜시스 스콧 키 브리지 교각을 들이받으면서 교량 일부가 붕괴했다. 이 사고로 교량에서 작업 중이던 근로자 6명이 숨졌으며, 볼티모어항의 선박...",
+   "url": "https://www.kpinews.kr/newsView/1065579668156330",
+   "orig": "https://www.kpinews.kr/newsView/1065579668156330",
+   "source": "KPI뉴스",
+   "published": "2026-10-29T11:32+09:00",
+   "cat": "acc",
+   "id": "04bc63157f18",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "오텍파킹솔루션(구 오텍오티스파킹시스템), 15.7m 추락사에 원청 대표 징...",
+   "summary": "노동자 사망사고와 관련해 원청 경영책임자의 형사책임 문제에 직면했다. 검찰이 공동수급 형식으로 체결된... 모씨를 중대재해처벌법 위반 등의 혐의로 재판에 넘겼다. 검찰은 기계식 주차설비 공사 과정에서 원청과...",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=100903",
+   "orig": "https://www.upkoreanews.kr/news/articleView.html?idxno=100903",
+   "source": "upkoreanews.kr",
+   "published": "2026-10-29T11:29+09:00",
+   "cat": "acc",
+   "id": "697e942c9063",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "가스폭발 현장서 '대참사' 막은 이 배우…오히려 \"죄송하다\" 밝힌 이유",
+   "summary": "폭발로 60대 남성 작업자 3명과 60대 여성 점주 1명 등 모두 4명이 얼굴 등에 1~2도 화상을 입었다. 부상자들은 119 구급대에 의해 병원으로 옮겨져 치료받고 있다. 사고 현장 인근에 거주하는 윤대열은 평소 LPG통이 놓인...",
+   "url": "https://n.news.naver.com/mnews/article/088/0001037154?sid=102",
+   "orig": "https://www.imaeil.com/page/view/2026102910581142762",
+   "source": "매일신문",
+   "published": "2026-10-29T11:26+09:00",
+   "cat": "sev",
+   "id": "d7660c0b0d76",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "평택시, 어연한산산단서 산업재해 예방 캠페인",
+   "summary": "평택시노사민정협의회가 주관한 이번 행사에는 평택시와 고용노동부 평택지청, 산업안전보건공단 경기남부지사, 경기도노사민정협의회 등 15개 기관 80여명이 참여했다. 참여기관들은 산업단지 내 공원과 식당 등을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014286994?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261029_0003846314",
+   "source": "뉴시스",
+   "published": "2026-10-29T11:26+09:00",
+   "cat": "tech",
+   "id": "5e8eddc400a8",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
   {
    "title": "인천환경공단, 전 사업소 '2026 안전 패트롤' 착수…중대재해 예방 총력",
    "summary": "주요 점검 항목은 ▲안전모·안전대·안전띠 착용 및 사다리 안전 수칙 등 기초안전수칙 준수 여부 ▲안전·보건·기계·전기 등 분야별 현장 관리 실태 ▲중대산업재해 및 중대시민재해 예방을 위한 법적 의무 이행 여부...",
@@ -93,6 +789,19 @@
    "published": "2026-10-29T11:20+09:00",
    "cat": "acc",
    "id": "972e200c753f",
+   "related": [],
+   "day": "2026-10-29",
+   "watch": []
+  },
+  {
+   "title": "[공기업탐방]AI로 선로 점검·민원 예측…서울교통공사, 지하철 안전 혁...",
+   "summary": "기존에는 열차 운행이 종료된 뒤 작업자가 직접 선로에 진입해 제한된 시간 안에 시설물을 점검해야 했다.... 안전사고와 유사 사례를 분석하고 개선 조치 이행 여부를 점검하는 한편, 현장 구성원이 직접 위험 요인을...",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2011650",
+   "orig": "https://www.m-i.kr/news/articleView.html?idxno=2011650",
+   "source": "m-i.kr",
+   "published": "2026-10-29T11:20+09:00",
+   "cat": "tech",
+   "id": "6cc6758a217c",
    "related": [],
    "day": "2026-10-29",
    "watch": []
@@ -184,7 +893,14 @@
    "published": "2026-10-29T11:02+09:00",
    "cat": "hlt",
    "id": "5003ef4feb67",
-   "related": [],
+   "related": [
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=656297",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=656297",
+     "title": "부천시, 중대산업재해 예방 안전보건 실무교육 실시"
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -223,7 +939,26 @@
    "published": "2026-10-29T10:54+09:00",
    "cat": "tech",
    "id": "0b5a0fe22f53",
-   "related": [],
+   "related": [
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261029500602",
+     "orig": "https://www.viva100.com/article/20261029500602",
+     "title": "인천환경공단, 전 사업장 안전망 점검…중대재해 예방 총력"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=656262",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=656262",
+     "title": "인천환경공단, 중대재해 예방 위한 전 사업소 '안전 패트롤' 실시...11월..."
+    },
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=917264",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=917264",
+     "title": "인천환경공단, 안전 패트롤로 현장 안전관리 체계 강화"
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -236,7 +971,14 @@
    "published": "2026-10-29T10:54+09:00",
    "cat": "tech",
    "id": "232df0c44260",
-   "related": [],
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003480087?sid=102",
+     "orig": "https://www.etnews.com/20261029000273",
+     "title": "시에라베이스, 'BAU CHINA' 참가…K-안전점검 기술 글로벌 확장 타진"
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -262,7 +1004,14 @@
    "published": "2026-10-29T10:52+09:00",
    "cat": "law",
    "id": "2e2fe7c9313a",
-   "related": [],
+   "related": [
+    {
+     "source": "public25.com",
+     "url": "https://www.public25.com/news/articleView.html?idxno=57469",
+     "orig": "https://www.public25.com/news/articleView.html?idxno=57469",
+     "title": "현대엘리베이터, 안전보건 평가 2곳서 최고등급 획득"
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -463,6 +1212,30 @@
      "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306405",
      "orig": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1306405",
      "title": "김진규 검단구청장, 마전동 가스 폭발 사고 현장 점검"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=656232",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=656232",
+     "title": "김진규 검단구청장, 가스 폭발 사고 현장 방문...부상자 쾌유 기원"
+    },
+    {
+     "source": "greened.kr",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=353344",
+     "orig": "https://www.greened.kr/news/articleView.html?idxno=353344",
+     "title": "김진규 인천 검단구청장, 마전동 가스 폭발 현장 점검… \"겨울철 안전관..."
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039228",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3039228",
+     "title": "김진규 검단구청장, 마전동 가스 폭발 사고 현장 방문"
+    },
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1105262",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1105262",
+     "title": "김진규 검단구청장, 마전동 LPG 폭발 현장 점검"
     }
    ],
    "day": "2026-10-29",
@@ -568,7 +1341,14 @@
    "published": "2026-10-29T10:02+09:00",
    "cat": "acc",
    "id": "c5f1f6faa3f5",
-   "related": [],
+   "related": [
+    {
+     "source": "오마이뉴스",
+     "url": "https://n.news.naver.com/mnews/article/047/0002533900?sid=104",
+     "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003279825&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+     "title": "이 대통령, 스페인 열차사고 애도... \"우리 국민 안전 최우선\""
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -778,6 +1558,36 @@
      "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=319754",
      "orig": "https://www.wolyo.co.kr/news/articleView.html?idxno=319754",
      "title": "현대엘리베이터, 건설안전관리평가 최고등급 'SA1' 획득"
+    },
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=446391",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=446391",
+     "title": "현대엘리베이터, 나이스디앤비 건설안전관리평가 최고등급 'SA1' 획득"
+    },
+    {
+     "source": "동양일보",
+     "url": "https://www.dynews.co.kr/news/articleView.html?idxno=871632",
+     "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=871632",
+     "title": "현대엘리베이터, 건설안전관리평가 최고등급 획득"
+    },
+    {
+     "source": "koreaittimes.com",
+     "url": "https://www.koreaittimes.com/news/articleView.html?idxno=158623",
+     "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=158623",
+     "title": "현대엘리베이터, 안전관리 평가서 잇단 최고등급 획득"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009257955?sid=102",
+     "orig": "https://www.news1.kr/local/sejong-chungbuk/6336357",
+     "title": "현대엘리베이터, 건설안전관리평가 최고등급 'SA1' 획득"
+    },
+    {
+     "source": "sisacast.kr",
+     "url": "http://www.sisacast.kr/news/articleView.html?idxno=101436",
+     "orig": "http://www.sisacast.kr/news/articleView.html?idxno=101436",
+     "title": "현대엘리베이터, 건설안전관리평가 최고등급 'SA1' 획득... \"안전보건 관..."
     }
    ],
    "day": "2026-10-29",
@@ -1233,7 +2043,20 @@
    "published": "2026-10-29T04:20+09:00",
    "cat": "tech",
    "id": "4c68b2e1c544",
-   "related": [],
+   "related": [
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1189854",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1189854",
+     "title": "진천군, 공직자 중대재해예방 역량 강화 교육 실시"
+    },
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107752",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1107752",
+     "title": "진천군, 공직자 중대재해예방 역량 강화 교육 실시"
+    }
+   ],
    "day": "2026-10-29",
    "watch": []
   },
@@ -3913,6 +4736,12 @@
      "url": "https://www.newscammp.co.kr/news/articleView.html?idxno=7146",
      "orig": "https://www.newscammp.co.kr/news/articleView.html?idxno=7146",
      "title": "정부, 겨울철 화재안전 대책 추진…취약시설 합동점검 강화"
+    },
+    {
+     "source": "fpn119.co.kr",
+     "url": "http://fpn119.co.kr/258545",
+     "orig": "http://fpn119.co.kr/258545",
+     "title": "정부, 겨울철 화재안전 대책 추진… 취약시설 집중점검ㆍ노후주택 안전..."
     }
    ],
    "day": "2026-10-28",
@@ -4153,6 +4982,12 @@
      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=304753",
      "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=304753",
      "title": "가스기술공사, '제6회 KOGAS-Tech 위험성평가 경진대회'"
+    },
+    {
+     "source": "가스신문",
+     "url": "https://www.gasnews.com/news/articleView.html?idxno=127412",
+     "orig": "https://www.gasnews.com/news/articleView.html?idxno=127412",
+     "title": "가스기술공사, 제6회 KOGAS-Tech 위험성평가 경진대회 개최"
     }
    ],
    "day": "2026-10-28",
