@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-04T12:00+09:00",
+ "updatedAt": "2026-11-04T14:44+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "핀포인트뉴스",
    "cat": "tech",
    "day": "2026-11-04",
-   "count": 7
+   "count": 12
+  },
+  {
+   "id": "bb97c0e9d7a5",
+   "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원",
+   "url": "https://n.news.naver.com/mnews/article/001/0016421121?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-11-04",
+   "count": 9
   },
   {
    "id": "b3e2f7a0ec11",
@@ -39,6 +48,15 @@
    "url": "https://www.mediapen.com/news/view/1134970",
    "source": "미디어펜",
    "cat": "tech",
+   "day": "2026-11-04",
+   "count": 6
+  },
+  {
+   "id": "28aa30d7b694",
+   "title": "6명 숨진 부산 리조트 화재 시공사 대표에 징역 8년 구형",
+   "url": "https://n.news.naver.com/mnews/article/001/0016420821?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
    "day": "2026-11-04",
    "count": 5
   },
@@ -49,28 +67,495 @@
    "source": "국제뉴스",
    "cat": "tech",
    "day": "2026-11-04",
-   "count": 4
-  },
-  {
-   "id": "ebe15e57db8d",
-   "title": "SM그룹 건설부문, QR코드 기반 스마트 안전관리 전 현장 도입",
-   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420507",
-   "source": "bizwork.co.kr",
-   "cat": "tech",
-   "day": "2026-11-04",
-   "count": 4
-  },
-  {
-   "id": "28aa30d7b694",
-   "title": "6명 숨진 부산 리조트 화재 시공사 대표에 징역 8년 구형",
-   "url": "https://n.news.naver.com/mnews/article/001/0016420821?sid=102",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-11-04",
-   "count": 3
+   "count": 5
   }
  ],
  "articles": [
+  {
+   "title": "잇단 사고에 '안전 전문가'도 시험대…송치영 포스코이앤씨 대표, 연말...",
+   "summary": "연이은 중대재해로 물러난 전임 대표의 뒤를 이어 '안전 구원투수'로 투입돼 안전 중심 체제 전환에 나섰지만 취임 이후에도 사망사고가 이어졌기 ��문이다. 실적을 흑자로 돌려놓은 성과에도 영업정지 처분...",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026110411035275255",
+   "orig": "https://www.newsway.co.kr/news/view?ud=2026110411035275255",
+   "source": "뉴스웨이",
+   "published": "2026-11-04T14:36+09:00",
+   "cat": "acc",
+   "id": "377e61ab7561",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "함대건 서울시의원 “서울시 재난안전관리, 형식적 점검 넘어 실질적 예...",
+   "summary": "이어 사고조사보고서에 지적된 터널 굴착면 조사 및 지질 전문가 투입의 한계, 미흡한 지반보강 기술기준 등을 거론하며 기존 안전관리 제도의 전면적인 재검토를 요구했다. 특히 GPR 탐사나 스마트 계측기 위주의 기존...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003695706?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/04/20261104500187?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-04T14:35+09:00",
+   "cat": "tech",
+   "id": "c3ef07732e82",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "공우석 시의원 \"지반침하 사고 1년 새 2.5배 급증\"",
+   "summary": "공 의원은 ▲우선정비구역도와 노후 상·하수관 정비사업 연계 및 신기술 의무 계측 등 스마트 안전관리 도입 ▲노후 상·하수관로 정비예산 증액 및 국비 확보 ▲도로굴착공사 품질실명제 도입 및 되메우기 다짐 검증...",
+   "url": "https://www.newspim.com/news/view/20261104000965",
+   "orig": "https://www.newspim.com/news/view/20261104000965",
+   "source": "뉴스핌",
+   "published": "2026-11-04T14:35+09:00",
+   "cat": "acc",
+   "id": "126600acaa2f",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "[속보] 충북 증평 식자재마트서 빙초산 유출 사고",
+   "summary": "신고를 접수한 소방 당국은 장비와 인력을 급파해 현장 통제 및 화학물질 회수·제독 작업을 진행 중이다. 증평군은 사고 발생 후인 오후 2시 21분경 긴급 재난안내문자를 발송하고 \"마트 내 빙초산 유출 사고가 발생했으니...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742104",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3742104",
+   "source": "국제뉴스",
+   "published": "2026-11-04T14:34+09:00",
+   "cat": "acc",
+   "id": "11bfb1fb9740",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "잘나가던 K방산, 3분기 실적 '희비'...수주 부진에 제재 리스크까지",
+   "summary": "당시 사고로 노동자 5명이 숨지고 2명이 다쳤으며 고용노동부가 실시한 특별감독에서는 산업안전보건법 등 위반사항 473건이 적발됐다. 노동부는 이 가운데 189건을 사법처리하고 나머지 284건에 대해서는 약 5억원의...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=561127",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=561127",
+   "source": "joongangenews.com",
+   "published": "2026-11-04T14:34+09:00",
+   "cat": "law",
+   "id": "1a74c6aaafda",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "산업부, 가스안전공사에 ‘근본 쇄신’ 요구",
+   "summary": "또 가스안전공사 정보화 시스템을 담당하는 직원은 지난해 8~9월 전자결재시스템의 보안 허점을 악용해 감사실과 윤리경영실의 공익신고 및 비공개 조사문서 30여건을 무단 열람하고 사용자 데이터베이스에 침입해 결재...",
+   "url": "https://www.viva100.com/article/20261104500840",
+   "orig": "https://www.viva100.com/article/20261104500840",
+   "source": "브릿지경제",
+   "published": "2026-11-04T14:34+09:00",
+   "cat": "tech",
+   "id": "1019e1318d1a",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "디에스앤지, ISO 14001·45001 인증 취득…“환경·안전보건 경영 강화”",
+   "summary": "ISO 45001은 사업장 내 안전보건 위험요인을 사전에 파악하고 산업재해 예방과 안전한 근무환경 조성을 위한 관리체계를 규정한다. 디에스엔지는 이번 인증 범위가 '하드웨어 서버의 조립 및 생산'과 '소프트웨어 개발...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003482158?sid=105",
+   "orig": "https://www.etnews.com/20261104000348",
+   "source": "전자신문",
+   "published": "2026-11-04T14:33+09:00",
+   "cat": "tech",
+   "id": "7a5c6372edf2",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "대전교육청, 직업계고 현장실습 기업 안전점검 강화…사고 예방 선제 대...",
+   "summary": "생산라인에서는 기계 설비의 끼임 방지 장치와 보호구 착용 여부 등 안전관리 실태를 살폈다. 이번 점검은 대전시교육청의 '안전한 현장실습 운영 및 점검 계획'에 따른 것이다. 교육청은 대전 직업계고 학생들이 실습 중인...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108917",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108917",
+   "source": "ccdn.co.kr",
+   "published": "2026-11-04T14:28+09:00",
+   "cat": "tech",
+   "id": "f353e08f209d",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "천안시, 소규모 사업장·공동주택 산업재해 막는다…현장 안전관리 강화",
+   "summary": "이날 강사로 나선 한국산업안전보건공단 충남지역본부 관계자는 중대재해처벌법의 주요 내용과 사업장에서 준수해야 할 안전보건 관리사항을 설명했다. 이어 산업재해 예방의 핵심 절차인 위험성평가의 실행 방법을...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108902",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1108902",
+   "source": "ccdn.co.kr",
+   "published": "2026-11-04T14:26+09:00",
+   "cat": "tech",
+   "id": "8a088667e304",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "한국가스안전공사 비상경영 선포…\"대국민 신뢰도 제고\"",
+   "summary": "한국가스안전공사가 국민의 눈높이에 부합하는 공정하고 책임 있는 기관으로 거듭나기 위해 비상경영체제를 가동하고,조직 전반의 쇄신과 국민 신뢰 회복을 위한 특별대책을 추진한다고 4일 밝혔다. 공사는 조직 운영...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005436488?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/11/04/2026110412243327642",
+   "source": "머니투데이",
+   "published": "2026-11-04T14:23+09:00",
+   "cat": "tech",
+   "id": "a98902d750f5",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "위험성평가 '작업 전 완료' 의무화…법적 제재로 체질 개선",
+   "summary": "이번 조치는 앞서 추진된 산업안전보건법 및 하위 법령 개정에 따른 후속 행정절차로, 자율에 의존하던 위험성평가를 법적 의무 이행 체계로 전환하는 게 골자다. 우선 위험성평가 의무를 이행하지 않거나 형식적으로...",
+   "url": "https://www.mediapen.com/news/view/1135098",
+   "orig": "https://www.mediapen.com/news/view/1135098",
+   "source": "미디어펜",
+   "published": "2026-11-04T14:16+09:00",
+   "cat": "law",
+   "id": "7f3288449f98",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "양주소방서, 11월~12월 공장·창고 100동 화재안전 실태조사 실시",
+   "summary": "양주소방서) 양주소방서는 최근 연이어 발생한 공장화재로 인한 인명 및 재산 피해를 계기로, 11월 3일부터... 협력해 화재위험 요인을 면밀히 점검하고 근로자와 시민의 생명과 재산 보호에 최선을 다하겠다고 전했다.",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742074",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3742074",
+   "source": "국제뉴스",
+   "published": "2026-11-04T14:04+09:00",
+   "cat": "acc",
+   "id": "ee8eb65dfa5f",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "전남광주 서구 창고 철거 현장서 70대 여성 추락",
+   "summary": "전남광주통합특별시 서구의 한 창고 철거 현장에서 70대 여성 작업자가 추락해 심정지 상태로 병원에 이송됐다. 4일 광주소방본부에 따르면 이날 낮 12시 20분쯤 서구 용두동의 한 컨테이너 창고 철거 현장에서 70대...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004206402?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6601994?utm_source=naver&utm_medium=article&utm_campaign=20261104140335",
+   "source": "노컷뉴스",
+   "published": "2026-11-04T14:04+09:00",
+   "cat": "acc",
+   "id": "3cd379a88a0d",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "위험성평가 안 하면 과태료 1000만원…산업현장 안전관리 의무 대폭 강...",
+   "summary": "사진=고용노동부 MI 산업현장에서 발생하는 각종 사고를 사전에 차단하기 위해 사업주의 안전관리 책임이 한층 강화된다. 고용노동부가 사업장 위험성평가를 제대로 이행하지 않는 사업주에게 최대 1000만원의 과태료를...",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=846119",
+   "orig": "https://www.jemin.com/news/articleView.html?idxno=846119",
+   "source": "jemin.com",
+   "published": "2026-11-04T13:58+09:00",
+   "cat": "acc",
+   "id": "0d5f7b584981",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "장학금 전달·후원금 제공·결식우려 아동 식사지원·기부로 사회공헌 ...",
+   "summary": "배포 고용노동부 '2026년 이동노동자 생수나눔 캠페인' 지원 전국 이동노동자쉼터 지도 배포 업계 최초 라이더 안전ㆍ보건 전문가 거버넌스 '라이더 안전경영위원회' 주유ㆍ보험 등 라이더 전용 혜택 프로그램 '월간 배...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=321033",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=321033",
+   "source": "wsobi.com",
+   "published": "2026-11-04T13:58+09:00",
+   "cat": "law",
+   "id": "383e7993867e",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "[기고] 이용석 노무사 \"사람 살리는 정부가 연 '예방 중심' 현장 안전의...",
+   "summary": "작업중지권 관련 산업안전보건법 제52조 법 개정의 핵심은 작업중지권 행사 범위 확대 및 그에 따른 사업주의 의무 범위 확대, 작업중지권 행사를 이유로 한 불리한 처우 금지, 구제신청 제도 신설이다. 과거의...",
+   "url": "http://www.metroseoul.co.kr/article/20261104500249",
+   "orig": "http://www.metroseoul.co.kr/article/20261104500249",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-04T13:50+09:00",
+   "cat": "law",
+   "id": "b44069142953",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "항만 현장 사진만으로 위험 찾는다…인천항에 AI 안전관리 도입",
+   "summary": "항만 작업장에서 추락 위험이 있는 구역이나 중장비와 근로자의 이동 경로가 겹치는 지점을 인공지능(AI)이 사전에 찾아내는 기술 실증이 시작됐다. 작업계획과 장비 정보, 현장 사진을 분석해 작업에 들어가기 전 위험...",
+   "url": "https://www.cwn.kr/news/articleView.html?idxno=60969",
+   "orig": "https://www.cwn.kr/news/articleView.html?idxno=60969",
+   "source": "cwn.kr",
+   "published": "2026-11-04T13:46+09:00",
+   "cat": "tech",
+   "id": "539b6db7d4ec",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "\"재시동 불가 위험\" 알린 볼보… 리콜 수리는 내년, 안전 대책은 어디에...",
+   "summary": "재시동 불가에 따른 사고 위험을 통보받은 차주들은 서비스센터마다 전화를 돌리며 빈자리를 찾고 있다.... 정비 작업 배분과 처리 능력 확대 방안을 물었다. 대기 중 운행 주의 사항과 긴급 점검·견인·대차 지원 기준도...",
+   "url": "https://www.meconomynews.com/news/articleView.html?idxno=202951",
+   "orig": "https://www.meconomynews.com/news/articleView.html?idxno=202951",
+   "source": "meconomynews.com",
+   "published": "2026-11-04T13:46+09:00",
+   "cat": "law",
+   "id": "08e3656ed684",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "건설현장 옮겨도 교육 이력 이어지도록… 국회서 제도 개편 논의",
+   "summary": "고용노동부의 재해조사 대상 사망사고 발생현황에 따르면 2022~2025년 공사금액 50억원 미만 건설현장의... 중소기업의 안전보건 역량 강화와 중대재해 예방을 위해 컨설팅과 교육, 장학사업 등 다양한 지원 프로그램을...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251365",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251365",
+   "source": "안전신문",
+   "published": "2026-11-04T13:38+09:00",
+   "cat": "law",
+   "id": "f771598c01e1",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "장수군, 2026년 농업인 안전실천 경진대회 '우수상' 선정",
+   "summary": "이번 경진대회는 농작업 중 발생하는 안전사고를 줄이기 위해 모범적인 노력을 기울인 기관과 단체를 선정해 그 성과를 공유하고 우수사례를 전국 농업 현장에 확산해 안전한 농작업 환경을 조성하기 위해 마련됐다....",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=815727",
+   "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=815727",
+   "source": "jeollailbo.com",
+   "published": "2026-11-04T13:30+09:00",
+   "cat": "tech",
+   "id": "60395a1f48f5",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "김영호 에어퍼스트 부사장, 산업가스 안전관리 '기후부 장관상' 수상",
+   "summary": "산업용가스 전문기업 에어퍼스트는 김영호 생산본부 부사장이 기후에너지환경부 장관상을 수상했다고 4일... 작업과 설비의 위험성을 평가하는 절차를 정례화하고 공정안전관리(PSM)와 국제표준 안전보건경영시스템(ISO...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005436443?sid=101",
+   "orig": "https://www.mt.co.kr/living/2026/11/04/2026110410563739524",
+   "source": "머니투데이",
+   "published": "2026-11-04T13:26+09:00",
+   "cat": "hlt",
+   "id": "942ae754a15a",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "가스안전공사 '채용 비위 논란' 끝에 비상경영 선포",
+   "summary": "공직기강 분야는 복무 점검과 부서별 관리·감독을 강화해 임직원의 책임 있는 업무 수행을 유도한다. 윤리·청렴 분야에서는 관련 교육과 제도를 정비해 공정성과 청렴이 일상적인 업무 기준으로 자리 잡도록 한다. 안전관...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1515101",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1515101",
+   "source": "중부매일",
+   "published": "2026-11-04T13:16+09:00",
+   "cat": "law",
+   "id": "009a68621a44",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 양양군, 인구지구 전선 지중화에 30억 원 투입…보행 안전...",
+   "summary": "특히 강풍이나 태풍 등 자연재해 시 우려되던 전신주 전도 위험과 감전 사고를 원천 차단해 주민과 관광객... 다만 공사 기간 중 차로 일부 통제 및 도로 굴착 작업으로 인한 불편이 예상됨에 따라, 양양군은 안전관리...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=800942",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=800942",
+   "source": "weeklytoday.com",
+   "published": "2026-11-04T12:50+09:00",
+   "cat": "law",
+   "id": "8e6bb20b6793",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "[단독] 발전 5社의 속사정…통합하려니 따질 게 '산더미'",
+   "summary": "운영규칙 개정에 이르기까지 광범위한 검토가 이뤄질 전망이다. 국내외 사업에 얽힌 수많은 계약과... 산업안전보건법과 중대재해처벌법에 따른 안전관리 책임부터 법정관리자 승계까지 검토 대상이다. 통합 이후에도...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=374330",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=374330",
+   "source": "electimes.com",
+   "published": "2026-11-04T12:36+09:00",
+   "cat": "law",
+   "id": "0b9716b4b93d",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "국회 \"비대면 하위법령, 안전장치부터 법적 근거까지 보완해야\"",
+   "summary": "특히 비대면진료 처방금지 의약품의 범위와 중복처방 방지, 전자처방전의 안전한 전달체계는 물론, 하위법령이 상위법의 위임 범위를 벗어나지 않도록 면밀한 검토가 필요하다는 지적이 제기됐다. 보건복지부가 국회에...",
+   "url": "https://www.kpanews.co.kr/news/articleView.html?idxno=548070",
+   "orig": "https://www.kpanews.co.kr/news/articleView.html?idxno=548070",
+   "source": "kpanews.co.kr",
+   "published": "2026-11-04T12:16+09:00",
+   "cat": "law",
+   "id": "722bcfc95a43",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "﻿GS건설 본사 압수수색…'추락사 1년 만' 이례적 강제수사",
+   "summary": "중대재해처벌법 위반 혐의를 입증하기 위해 노동부와 경찰이 합동으로 압수수색을 진행한 것으로 알려졌다. 이번 수사는 지난해 9월 서울 성동구 용답동 '청계리버뷰자이' 아파트 건설 현장에서 발생한 추락 사망 사고를...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622909",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=622909",
+   "source": "mdtoday.co.kr",
+   "published": "2026-11-04T12:14+09:00",
+   "cat": "acc",
+   "id": "ce1cbe88a637",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "인천항 안전관리, AI가 바꾼다…인천항만공사 위험성평가부터 예방대책...",
+   "summary": "항만은 대형 하역장비와 작업자가 좁은 공간에서 동시에 움직이는 특성상 충돌·추락 등 각종 안전사고 위험이 상존하는 곳이다. 사고를 막으려면 작업에 앞서 위험요인을 정확히 파악하고 대응책을 마련해야 하지만...",
+   "url": "https://www.viva100.com/article/20261104500640",
+   "orig": "https://www.viva100.com/article/20261104500640",
+   "source": "브릿지경제",
+   "published": "2026-11-04T12:14+09:00",
+   "cat": "tech",
+   "id": "abcc2543bfdc",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "경남도, '출근길부터 안전 ON!' 중대재해 예방 캠페인 실시",
+   "summary": "이번 캠페인은 최근 지붕 보수·철거 공사 현장에서 사망사고가 잇따라 발생함에 따라 추락사고에 대한... 김재은 경남도 중대재해예방과장은 \"출근길에 전한 안전 메시지가 작업 현장의 실천으로 이어지는 것이 무엇보다...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=583406",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=583406",
+   "source": "newsgn.com",
+   "published": "2026-11-04T12:12+09:00",
+   "cat": "tech",
+   "id": "c1af6d542682",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "위험성평가 미실시땐 과태료 최대 1000만원…노동부, 지침 개정",
+   "summary": "com 세종시 정부세종청사 11동 고용노동부. 2023.10.13[사진=유대길 기자 dbeorlf123@ajunews.com] 산업현장의 산재를... 중심으로 안전보건 컨설팅을 지속 제공할 계획이다. 또 노동자들의 실질적 참여를 위한 방안도 마련됐다....",
+   "url": "https://www.ajunews.com/view/20261104095002295",
+   "orig": "https://www.ajunews.com/view/20261104095002295",
+   "source": "아주경제",
+   "published": "2026-11-04T12:02+09:00",
+   "cat": "law",
+   "id": "c08c7ad76060",
+   "related": [],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "내년부터 위험성평가 미실시 과태료 부과…평가 시기 개편",
+   "summary": "2013년 제도화됐지만 일부 사업장에서 형식적으로 실시한다는 지적에 따라 올해 2월부터 산업안전보건법과 동법 시행령, 시행규칙을 개정해 과태료 규정이 마련됐다. 이번 고시 개정안에는 위험성평가 제도 개편 내용이...",
+   "url": "https://www.newspim.com/news/view/20261104000549",
+   "orig": "https://www.newspim.com/news/view/20261104000549",
+   "source": "뉴스핌",
+   "published": "2026-11-04T12:00+09:00",
+   "cat": "law",
+   "id": "a6d6a9a3809b",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014300589?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261104_0003853816",
+     "title": "내년부터 위험성평가 미실시 사업장에 과태료 최대 1000만원"
+    }
+   ],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "위험성평가 안한 사장님 과태료 1000만원⋯노동자 참여 의무화",
+   "summary": "고용노동부는 4일 ‘사업장 위험성평가에 관한 지침’ 전부개정고시를 발령했다. 올해 산업안전보건법과 시행령ㆍ시행규칙 개정에 따른 후속 조치로, 위험성평가의 실시 방법과 시기, 노동자 참여 절차 등을...",
+   "url": "https://www.etoday.co.kr/news/view/2643766",
+   "orig": "https://www.etoday.co.kr/news/view/2643766",
+   "source": "이투데이",
+   "published": "2026-11-04T12:00+09:00",
+   "cat": "law",
+   "id": "1710df5c0272",
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247173",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247173",
+     "title": "위험성평가 안 하면 과태료 최대 1000만원 부과"
+    },
+    {
+     "source": "koit.co.kr",
+     "url": "https://www.koit.co.kr/news/articleView.html?idxno=209783",
+     "orig": "https://www.koit.co.kr/news/articleView.html?idxno=209783",
+     "title": "위험성평가 안 하면 과태료 최대 1000만원"
+    }
+   ],
+   "day": "2026-11-04",
+   "watch": []
+  },
+  {
+   "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원",
+   "summary": "고용노동부는 4일 이런 내용이 담긴 '사업장 위험성평가에 관한 지침' 전부 개정안을 발령했다.... 류현철 노동부 산업안전보건본부장은 \"이번 개편으로 위험성평가가 모든 일터의 핵심 안전관리 수단으로 자리 잡기를...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016421121?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261104082300530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-04T12:00+09:00",
+   "cat": "law",
+   "id": "bb97c0e9d7a5",
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002718756?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10925267?ref=naver",
+     "title": "위험성평가 안 하면 첫 위반에 500만원…50인 이상 사업장 내년부터"
+    },
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003482041?sid=100",
+     "orig": "https://www.etnews.com/20261104000188",
+     "title": "위험성평가 안 하면 과태료 최대 1000만원…내년 50인 이상 사업장부터"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251363",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251363",
+     "title": "50인 이상 사업장 내년부터 위험성평가 안 하면 최대 1000만원 과태료"
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000541646?sid=101",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000344177?division=NAVER",
+     "title": "위험성평가 안 하면 과태료 1천만원…직원 빼고 해도 제재"
+    },
+    {
+     "source": "뉴스저널리즘",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=555559",
+     "orig": "https://www.ngetnews.com/news/articleView.html?idxno=555559",
+     "title": "내년부터 50인 이상 사업장 위험성평가 의무 강화…최대 1000만원 과태료"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000130556?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261104580182",
+     "title": "위험성평가 의무 위반 사업장 과태료 부과… 최대 1천만원"
+    },
+    {
+     "source": "smartbizn.com",
+     "url": "https://www.smartbizn.com/news/articleView.html?idxno=158442",
+     "orig": "https://www.smartbizn.com/news/articleView.html?idxno=158442",
+     "title": "내년부터 사업장 위험성평가 안하면 과태료 최대 1천만원"
+    },
+    {
+     "source": "한국경제TV",
+     "url": "https://n.news.naver.com/mnews/article/215/0001271632?sid=101",
+     "orig": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202611040103&t=NN",
+     "title": "위험성평가 안하면 과태료 최대 1천만원...노동차 참여 안해도 제재"
+    }
+   ],
+   "day": "2026-11-04",
+   "watch": []
+  },
   {
    "title": "창원시, 85개 '스마트경로당' 시범운영 '건강·여가·안전' 지원",
    "summary": "측정된 건강 데이터는 보건소 시스템과 연계되며, 전문가가 직접 방문해 상담하는 건강 돌봄 시스템도 구축됐다. 이번 시범운영에서는 한국도로교통공단과 창원중부경찰서와의 협업으로 교통안전교육, 범죄예방 교육...",
@@ -93,7 +578,20 @@
    "published": "2026-11-04T11:52+09:00",
    "cat": "law",
    "id": "fc095cc0cf07",
-   "related": [],
+   "related": [
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001405600?sid=101",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026110414154094113",
+     "title": "가스안전공사 비상경영체제 가동…조직쇄신 특별대책 추진"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116693",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116693",
+     "title": "한국가스안전공사, 비상경영위원회 출범"
+    }
+   ],
    "day": "2026-11-04",
    "watch": []
   },
@@ -132,7 +630,26 @@
    "published": "2026-11-04T11:26+09:00",
    "cat": "acc",
    "id": "f35a2ce64476",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009269624?sid=102",
+     "orig": "https://www.news1.kr/local/busan-gyeongnam/6342712",
+     "title": "'6명 사망' 부산 반얀트리 화재…삼정기업 회장 등 징역 8년 구형"
+    },
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588207184372",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588207184372",
+     "title": "'6명 사망' 부산 반얀트리 화재…삼정기업 회장·삼정이엔씨 대표에 징..."
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012287082?sid=102",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8703723&ref=A",
+     "title": "‘10명 사상’ 반얀트리 화재 시공사 경영진에 징역 8년 구형"
+    }
+   ],
    "day": "2026-11-04",
    "watch": []
   },
@@ -209,6 +726,18 @@
      "url": "https://www.ngetnews.com/news/articleView.html?idxno=555549",
      "orig": "https://www.ngetnews.com/news/articleView.html?idxno=555549",
      "title": "반얀트리 화재 시공사 경영진에 징역 8년 구형"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014300802?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261104_0003854426",
+     "title": "6명 숨진 부산 리조트 화재 시공사 경영진 징역8년 구형"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004007737?sid=102",
+     "orig": "https://www.chosun.com/national/regional/2026/11/04/M4ZAN2G5MBBCJBBOIRVA3TAFBE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "6명 숨진 부산 반얀트리 공사장 화재… 檢, 시공사 대표에 징역 8년 구형"
     }
    ],
    "day": "2026-11-04",
@@ -327,7 +856,14 @@
    "published": "2026-11-04T10:42+09:00",
    "cat": "law",
    "id": "9f7252940846",
-   "related": [],
+   "related": [
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116658",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4116658",
+     "title": "민주노총, 정부에 '초광역특구법' 우려 전달…김영훈 장관 \"사회적 대화..."
+    }
+   ],
    "day": "2026-11-04",
    "watch": []
   },
@@ -378,6 +914,12 @@
      "url": "https://www.thebigdata.co.kr/view.php?ud=20261104104943618df3c2a17b7_23",
      "orig": "https://www.thebigdata.co.kr/view.php?ud=20261104104943618df3c2a17b7_23",
      "title": "배달의민족, 라이더 안전보건·복지 위해 기부금 3000만원 전달...관심도..."
+    },
+    {
+     "source": "newsmap.co.kr",
+     "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4787",
+     "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=4787",
+     "title": "배달의민족, 라이더 안전보건·복지 위해 기부금 전달"
     }
    ],
    "day": "2026-11-04",
@@ -514,6 +1056,12 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=879723",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=879723",
      "title": "인천항만공사, AI 기반 위험성평가 자동화 실증 착수"
+    },
+    {
+     "source": "businesskorea.co.kr",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280444",
+     "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=280444",
+     "title": "인천항, 위험성평가 자동화 실증 착수"
     }
    ],
    "day": "2026-11-04",
@@ -620,7 +1168,14 @@
    "published": "2026-11-04T09:56+09:00",
    "cat": "tech",
    "id": "3f53cd1adebd",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=20261104133839296205868f676_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=20261104133839296205868f676_30",
+     "title": "SM그룹 건설부문, 안전모 QR코드로 현장 위험정보 확인한다"
+    }
+   ],
    "day": "2026-11-04",
    "watch": []
   },
@@ -788,6 +1343,12 @@
      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313049",
      "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=313049",
      "title": "SM그룹 건설부문, '스마트 안전보건 관리시스템' 전 현장 도입 추진"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488147",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2488147",
+     "title": "SM그룹 건설부문, '스마트 안전보건 관리시스템' 전 현장 확대 도입"
     }
    ],
    "day": "2026-11-04",
@@ -852,6 +1413,12 @@
      "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194178",
      "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194178",
      "title": "SM그룹 건설부문, 안전모 QR로 현장 안전정보 공유…전 현장 확대"
+    },
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=138703",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=138703",
+     "title": "SM그룹 건설부문, 건설현장 안전보건 관리 강화..스마트 안전보건 관리..."
     }
    ],
    "day": "2026-11-04",
@@ -902,6 +1469,36 @@
      "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581283922754",
      "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065581283922754",
      "title": "SM그룹 건설부문, 스마트 안전관리시스템 도입…전국 60여개 현장 확대"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261104000240",
+     "orig": "https://www.newspim.com/news/view/20261104000240",
+     "title": "SM그룹 건설부문, 전국 60여개 현장에 '스마트 안전관리시스템' 확대 도..."
+    },
+    {
+     "source": "globalepic.co.kr",
+     "url": "https://www.globalepic.co.kr/view.php?ud=20261104133140992848439a4874_29",
+     "orig": "https://www.globalepic.co.kr/view.php?ud=20261104133140992848439a4874_29",
+     "title": "SM그룹 건설부문, 전국 60여 현장에 ‘스마트 안전보건 관리시스템’ 확..."
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261104500753",
+     "orig": "https://www.viva100.com/article/20261104500753",
+     "title": "SM그룹 건설부문, '스마트 안전보건 관리시스템' 전국 60여개 현장 확대..."
+    },
+    {
+     "source": "paxetv.com",
+     "url": "http://www.paxetv.com/news/articleView.html?idxno=286033",
+     "orig": "http://www.paxetv.com/news/articleView.html?idxno=286033",
+     "title": "SM그룹 건설부문, 전국 60여 현장에 '스마트 안전보건 관리시스템' 확대..."
+    },
+    {
+     "source": "newsmap.co.kr",
+     "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=4785",
+     "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=4785",
+     "title": "SM그룹 건설부문, 전 현장에 '스마트 안전보건 관리시스템' 전면 도입"
     }
    ],
    "day": "2026-11-04",
@@ -1020,6 +1617,12 @@
      "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=204712",
      "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=204712",
      "title": "중부발전, 함안복합 건설 본격화… '무재해 현장' 안전관리 강화"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2014301",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2014301",
+     "title": "중부발전, 함안복합발전소 '안전다짐행사' 개최"
     }
    ],
    "day": "2026-11-04",
@@ -1808,7 +2411,14 @@
    "published": "2026-11-03T17:50+09:00",
    "cat": "tech",
    "id": "18a537191e14",
-   "related": [],
+   "related": [
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003562769?sid=101",
+     "orig": "https://www.joongang.co.kr/article/25475674",
+     "title": "동서발전, ‘영광·지산풍력’ 찾아 안전 점검"
+    }
+   ],
    "day": "2026-11-03",
    "watch": []
   },
