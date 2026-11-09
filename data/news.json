@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-09T11:36+09:00",
+ "updatedAt": "2026-11-09T14:41+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "이투데이",
    "cat": "tech",
    "day": "2026-11-09",
-   "count": 18
+   "count": 22
+  },
+  {
+   "id": "b1e9885861e9",
+   "title": "부산항만공사, 줄잡이 안전 우수업체 3곳에 작업차량 전달",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261109010002870",
+   "source": "중도일보",
+   "cat": "hlt",
+   "day": "2026-11-09",
+   "count": 5
   },
   {
    "id": "c4c386d5bfd1",
@@ -40,37 +49,823 @@
    "source": "전자신문",
    "cat": "hlt",
    "day": "2026-11-09",
+   "count": 4
+  },
+  {
+   "id": "5174fc0b4708",
+   "title": "아워홈, 2년 연속 사망사고에도 안전관리 부실…법 위반 92건 적발",
+   "url": "https://n.news.naver.com/mnews/article/030/0003483538?sid=100",
+   "source": "전자신문",
+   "cat": "sev",
+   "day": "2026-11-09",
    "count": 3
   },
   {
-   "id": "72234971bf71",
-   "title": "GH, '2026 대한민국 일자리 어워드' 행정안전부 장관상 수상",
-   "url": "https://www.joongangenews.com/news/articleView.html?idxno=562244",
-   "source": "joongangenews.com",
-   "cat": "tech",
-   "day": "2026-11-09",
-   "count": 2
-  },
-  {
-   "id": "db0de844127f",
-   "title": "이집트 열차 추돌 참사에 7명 사망·125명 부상…멈춰 선 열차 뒤로 '쾅...",
-   "url": "https://n.news.naver.com/mnews/article/119/0003152735?sid=104",
+   "id": "a729cb3ca8c2",
+   "title": "잇단 사망사고에도 위험한 컨베이어 그대로…아워홈 법 위반 92건 적발",
+   "url": "https://n.news.naver.com/mnews/article/119/0003152900?sid=102",
    "source": "데일리안",
    "cat": "sev",
    "day": "2026-11-09",
-   "count": 2
-  },
-  {
-   "id": "9dec2cf511dd",
-   "title": "한국마사회, 민관 합동 안전문화 행사 개최…VR·심폐소생술 체험 운영",
-   "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211027",
-   "source": "lcnews.co.kr",
-   "cat": "tech",
-   "day": "2026-11-09",
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "‘중대재해 반복’ 아워홈, 산업안전법 위반에 불법파견도",
+   "summary": "산업안전 분야에서는 사망사고 발생 이후에도 다른 사업장에서 안전검사를 거치지 않은 컨베이어를 가동한... 김영훈 노동부 장관은 “대기업에서 사망사고가 반복되고 노동 분야 전반에 걸쳐 다수의 법 위반이...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004680202?sid=102",
+   "orig": "https://www.sedaily.com/article/20111961?ref=naver",
+   "source": "서울경제",
+   "published": "2026-11-09T14:38+09:00",
+   "cat": "sev",
+   "id": "f24aeb2fb0ee",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "광주 북구, 하반기 중대재해예방 이행 실태 점검 실시",
+   "summary": "다음 달 24일까지 전 부서 대상중대재해처벌법 및 안전·보건 관계 법령 의무 사항 이행 점검 이로운넷... 점검 대상은 중대산업재해 분야 78개 부서와 중대시민재해 분야 10개 부서를 포함한 북구 산하 전 부서다. 점검반은...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=94742",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=94742",
+   "source": "eroun.net",
+   "published": "2026-11-09T14:34+09:00",
+   "cat": "hlt",
+   "id": "16fd94292823",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "노동자 사망사고 잇따른 아워홈···안전검사 누락·불법파견 적발",
+   "summary": "아워홈에서 노동자 사망사고가 2년 연속 발생한 데 이어 다른 사업장에서도 안전관리 부실과 노동관계법... 교육 누락 또는 지연 대상자 46명 가운데 44명은 협력업체 소속 노동자였다. 이 밖에도 컨베이어 끼임...",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=642273",
+   "orig": "https://www.seoulfn.com/news/articleView.html?idxno=642273",
+   "source": "seoulfn.com",
+   "published": "2026-11-09T14:30+09:00",
+   "cat": "sev",
+   "id": "262ef557a74f",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "4대 은행, 정보 유출사고에 내년 정보보호예산 확대",
+   "summary": "유출 사고가 발생한 이후 대폭 확대키로 했습니다. KB국민은행은 현재 예산 재편성 작업 중이며, 내년... 하나은행은 상반기 예산 318억원 중 239억원(75.3%)을 집행했습니다. 우리은행은 전체 예산 616억원 중 536억원(87.0...",
+   "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005958239",
+   "orig": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005958239",
+   "source": "MBN",
+   "published": "2026-11-09T14:30+09:00",
+   "cat": "acc",
+   "id": "aed9d9463469",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "중대재해에도 덮개·방호울타리 없어…아워홈, 안전조치 미흡 등 92건 적...",
+   "summary": "쿠키뉴스=이소연 기자 | 최근 2년 사이 중대재해로 노동자 2명이 숨진 한화그룹 계열사 아워홈이 안전조치와... 노동부는 올해 아워홈과 한화에어로스페이스 등 한화그룹 계열사에서 사망사고가 반복된 만큼 그룹...",
+   "url": "https://www.kukinews.com/article/view/kuk202611090129",
+   "orig": "https://www.kukinews.com/article/view/kuk202611090129",
+   "source": "쿠키뉴스",
+   "published": "2026-11-09T14:22+09:00",
+   "cat": "law",
+   "id": "192ada629725",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 법 위반 92건 적발에 \"무겁게 받아들여…안전관리 강화\"(종합)",
+   "summary": "협력업체 노동자가 포장 컨베이어에 위생모가 감기면서 목이 끼여 사망하는 사고가 발생했다. 이번... 소속 노동자였다. 이동용 전선 미접지와 계단 난간 미설치 등 감전·추락 위험도 확인됐다. 산업안전 분야에서는...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009278989?sid=101",
+   "orig": "https://www.news1.kr/industry/distribution/6347703",
+   "source": "뉴스1",
+   "published": "2026-11-09T14:22+09:00",
+   "cat": "acc",
+   "id": "0341489da350",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "가천대 길병원 작업환경측정기관 평가 2년 연속 S등급 획득",
+   "summary": "기호일보, KIHOILBO 가천대 길병원(병원장 김우경)이 고용노동부와 안전보건공단의 '2026년도... 가천대 길병원은 1987년 작업환경측정기관으로 처음 지정된 뒤 40년 가까이 산업현장의 유해인자를 측정·분석해 왔다....",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040322",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3040322",
+   "source": "기호일보",
+   "published": "2026-11-09T14:20+09:00",
+   "cat": "law",
+   "id": "43eade995178",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈 공장서 사망사고 2건…들춰보니 법 위반 92건",
+   "summary": "지난해 4월 원청 노동자 1명이 기계에 끼여 숨진 데 이어 올해 6월에도 협력업체 노동자 1명이 같은 끼임 사고로 목숨을 잃었다. 노동부는 동일한 유형의 사망사고가 반복된 데다 협력업체 노동자까지 숨진 점을 고려해...",
+   "url": "https://n.news.naver.com/mnews/article/586/0000141894?sid=101",
+   "orig": "https://www.sisajournal.com/news/articleView.html?idxno=393318",
+   "source": "시사저널",
+   "published": "2026-11-09T14:19+09:00",
+   "cat": "sev",
+   "id": "015ed4eeda89",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "노동자 2명 끼어 숨졌는데…한화M&S 아워홈, 안전불감증 위반 92건 쏟아...",
+   "summary": "먼저 노동자 2명이 끼임 사고로 사망하는 비극이 발생했음에도 미검사 설비 사용 등 92건의 안전불감증 위반 사항이 쏟아지며 부실한 관리 실태가 만천하에 드러났다. 또 믹서기 방호 울타리, 계단 난간, 체인 덮개...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=285592",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=285592",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-09T14:16+09:00",
+   "cat": "sev",
+   "id": "7d6e33228381",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 사망사고 뒤 전국 공장 감독서 92건 적발…불법파견도 확인",
+   "summary": "지난해 4월 원청 노동자 1명이 숨졌고, 올해 6월에는 협력업체 직원 1명이 끼임 사고로 사망했다. 노동부는 아워홈 전국 공장 9곳을 대상으로 감독을 진행하고, 협력업체 노동자 사망사고가 발생한 점을 고려해 불법파견...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=562323",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=562323",
+   "source": "joongangenews.com",
+   "published": "2026-11-09T14:04+09:00",
+   "cat": "sev",
+   "id": "990e991bd772",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "\"GH, 한국승강기안전공단과 'GH biz& 경기광주역' 승강기 정밀안전진단...",
+   "summary": "갇힘, 추락 등 운행 중 발생 가능한 각종 안전사고 선제 예방 등을 집중적으로 살필 계획이다. 김용진 GH 사장은 \"승강기는 입주민과 입주기업 근로자들이 매일 이용하는 생활 밀착형 필수 시설인 만큼, 입주 전 철저한 품질...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022874",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1022874",
+   "source": "cnbnews.com",
+   "published": "2026-11-09T14:04+09:00",
+   "cat": "tech",
+   "id": "27caf8de941b",
+   "related": [
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1106205",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1106205",
+     "title": "GH, 경기광주역 복합시설 승강기 정밀안전진단 실시"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "삼천리네트웍스, 고소작업차 기업형 안전·시공 B2B 솔루션 개편",
+   "summary": "핵심 기술 특허를 출원했다고 9일 밝혔다. 이번 개편의 핵심은 고정밀 GPS 기반의 실시간 위치 관제와 안전... 반영하고 데이터 보안을 강화해 건설 안전을 선도하는 스마트 B2B 모빌리티 플랫폼으로 도약하겠다”고 말했다.",
+   "url": "https://www.sentv.co.kr/article/view/sentv202611090140",
+   "orig": "https://www.sentv.co.kr/article/view/sentv202611090140",
+   "source": "서울경제TV",
+   "published": "2026-11-09T14:04+09:00",
+   "cat": "tech",
+   "id": "2a5653de3c94",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "한국마사회, 전문기술 공공서비스로 확장…채용 공정성·현장 안전 강화",
+   "summary": "협력업체 근로자 등으로 교육 대상을 다변화했다. 안전교육 방식도 강의 중심에서 체험 중심으로 구성했다. 시민들은 VR로 추락·끼임 사고 상황을 경험하고 소화기와 소화전 사용법, 심폐소생술을 직접 익히며 산업재해...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261109010002881",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261109010002881",
+   "source": "중도일보",
+   "published": "2026-11-09T14:02+09:00",
+   "cat": "tech",
+   "id": "4ab09742fcc1",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "한화 아워홈, 연이은 사망 사고로 드러난 충격적 안전 위반 실태",
+   "summary": "한화그룹의 아워홈에서 발생한 연이은 노동자 사망 사고와 관련하여, 아워홈이 여러 산업안전 및 근로기준... 특히, 아워홈 용인2공장에서 발생한 끼임 사고로 인해 작년과 올해 노동자 두 명이 목숨을 잃었다. 이에 따라...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=884752",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=884752",
+   "source": "gokorea.kr",
+   "published": "2026-11-09T13:52+09:00",
+   "cat": "sev",
+   "id": "2d165da6124c",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "충남 아산, 겨울철 공사장 안전사고 예방 총력",
+   "summary": "충남 아산시가 겨울철 한파와 폭설에 따른 안전사고를 예방하고 공공 건축사업의 차질 없는 추진을 위해... 시는 점검반을 구성해 △제설 및 빙판길 안전대책 △화재·가스 중독 및 폭발 예방 △작업자 한랭질환 예방...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109775",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1109775",
+   "source": "ccdn.co.kr",
+   "published": "2026-11-09T13:52+09:00",
+   "cat": "hlt",
+   "id": "f8bd3c3e23da",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'반복되는 사망사고' 아워홈…고용부 합동 감독서 위반 92건 적발",
+   "summary": "잇따른 산재 사망사고로 논란을 빚은 아워홈이 고용노동부의 대규모 합동 점검에서 90건이 넘는 법 위반 사항을 무더기로 적발당했다. 고용노동부는 지난해와 올해에 걸쳐 근로자 사망사고가 발생한 아워홈의 전국 9개...",
+   "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87379",
+   "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=87379",
+   "source": "pointe.co.kr",
+   "published": "2026-11-09T13:50+09:00",
+   "cat": "sev",
+   "id": "3cc46902efd1",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "사망사고 뒤에도 '무검사 컨베이어' 가동…아워홈서 또 무슨 일이",
+   "summary": "이번 감독은 지난해 4월에 이어 올해 6월에도 아워홈에서 사망사고가 발생한 데 따른 것입니다. 올해 6월 용인2공장에서는 컨베이어 끼임 사고로 협력업체 노동자가 숨졌습니다. 산업안전 분야에서는 모두 53건의 위반이...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000542502?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000345103?division=NAVER",
+   "source": "SBS",
+   "published": "2026-11-09T13:47+09:00",
+   "cat": "sev",
+   "id": "df1e97a848d1",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "기업의 자발적 산업재해 예방 활동 실적 평가해 지원하는 근거 신설",
+   "summary": "국회 김형동 의원(국민의힘,경북 안동·예천)은 기업의 산업재해 예방 활동을 촉진하기 위한 산업안전보건법 일부개정법률안을 대표발의했다고 9일 밝혔다. 현행 산업안전보건 제도는 산업재해가 발생한 이후 사업주에...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502367",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=502367",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-09T13:44+09:00",
+   "cat": "law",
+   "id": "15d14577b25d",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "[기고] 안전보건관리체계 구축, 101번째 서류철과 완벽한 매뉴얼 사이",
+   "summary": "큰 회사는 안전보건 전담조직이 산업안전보건법과 중대재해처벌법의 요구사항을 빠짐없이 매뉴얼과 체크리스트에 담아낸다. 문제는 그 매뉴얼이 내려가는 길의 끝이다. 말단 담당자는 자기 현장의 여건과 특성에 맞게...",
+   "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51344",
+   "orig": "http://www.ferrotimes.com/news/articleView.html?idxno=51344",
+   "source": "ferrotimes.com",
+   "published": "2026-11-09T13:30+09:00",
+   "cat": "hlt",
+   "id": "c5a21181a1f6",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "인텔리빅스, 바르셀로나 스마트시티 엑스포에서 안전 AI 기술력 호평",
+   "summary": "도시 안전 및 재난 예방 등 다양한 스마트시티 인프라에서의 기술 활용 가능성을 입증했다는 평가다. 주력 솔루션인 'Gen AMS'는 영상 AI와 생성형 AI를 결합한 시각언어모델(VLM) 기반의 차세대 통합관제 플랫폼으로...",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147111",
+   "orig": "https://www.boannews.com/news/articleView.html?idxno=147111",
+   "source": "boannews.com",
+   "published": "2026-11-09T13:28+09:00",
+   "cat": "tech",
+   "id": "3dd936b9566b",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "겨울철 재해와 안전사고 예방...강동구, 2026년 겨울철 종합대책' 추진",
+   "summary": "문화경제 CNB저널 | CNB저널 | 씨앤비저널 서울 강동구(구청장 이수희)는 겨울철 재해와 안전사고를 예방하고... 구는 신속한 제설 작업을 위해 제설제 1,600톤 이상을 확보했으며, 장비 점검 등 사전 준비에도 힘을 쏟고 있다....",
+   "url": "https://www.cnbizm.com/news/articleView.html?idxno=320728",
+   "orig": "https://www.cnbizm.com/news/articleView.html?idxno=320728",
+   "source": "cnbizm.com",
+   "published": "2026-11-09T13:26+09:00",
+   "cat": "law",
+   "id": "f6c35c69a91b",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "[뉴스워커_김형동 의원] 산재 예방 우수기업에 재정지원 우대…산안법 ...",
+   "summary": "국민의힘 김형동 국회의원(경북 안동·예천)은 9일 이 같은 내용을 담은 '산업안전보건법 일부개정법률안'을 대표발의했다고 밝혔다. 김 의원은 현행 산업재해 관련 제도가 규제와 처벌에 무게를 두고 있어 사고 발생 이전에...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=512964",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=512964",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-09T13:26+09:00",
+   "cat": "law",
+   "id": "64d10001dbcb",
+   "related": [
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=728526",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=728526",
+     "title": "김형동, 산재 예방 우수기업에 재정지원 우대 산안법 개정안 대표발의"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "안성 공장 추락사…노동부, 중대재해법 조사 착수",
+   "summary": "고용노동부 평택지청이 안성시 공장 증축공사 현장에서 발생한 노동자 추락 사망사고와 관련해 중대재해처벌법 위반 여부 조사에 착수했습니다. 지난 7일 오전 10시 22분쯤 해당 공사장에서 수급업체 소속 52살 노동자가...",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=242620",
+   "orig": "https://news.skbroadband.com/news/articleView.html?idxno=242620",
+   "source": "skbroadband.com",
+   "published": "2026-11-09T13:24+09:00",
+   "cat": "acc",
+   "id": "1bdfec361786",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "돌봄 노동자 5명 중 1명 중등도 이상 우울…일터 괴롭힘 경험 땐 6배",
+   "summary": "산업안전보건연구원의 한국형 일터폭력 척도에 따라 분석한 결과 여성 응답자의 보호체계 부재 점수 평균은 9.09점으로 위험군 기준인 9점을 넘어섰다. 양 교수는 “돌봄 노동자의 우울과 불안은 일반인구는 물론 다른...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003481502?sid=102",
+   "orig": "https://www.khan.co.kr/article/202611091311001",
+   "source": "경향신문",
+   "published": "2026-11-09T13:11+09:00",
+   "cat": "hlt",
+   "id": "4f4c3cc51534",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "경기도 노사민정협의회 일터혁신 상생 컨설팅 성과 공유…안전관리·장...",
+   "summary": "산업안전 분야에서는 산업안전보건법과 중대재해처벌법 관련 준수사항을 점검했다. 위험성 평가 절차와 재해 발생 시 대응 업무도 표준화했다. 노동자들이 현장의 유해·위험요인을 직접 찾아 개선하는 활동도 병행했다....",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=918708",
+   "orig": "https://www.kgnews.co.kr/news/article.html?no=918708",
+   "source": "경기신문",
+   "published": "2026-11-09T13:10+09:00",
+   "cat": "hlt",
+   "id": "eed162a4a83b",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "하반기 위험성 평가 '유해·위험 요인 127건' 발굴",
+   "summary": "사진 제공=제주시 제주시는 산업재해 예방과 안전한 일터 조성을 위해 '2026년 하반기 위험성평가'를 실시한... 제주시는 개선 사항을 지속 관리하면서 정기 점검과 안전보건교육, 근로자 의견 청취를 병행해 현장...",
+   "url": "http://www.samdailbo.com/news/articleView.html?idxno=272467",
+   "orig": "http://www.samdailbo.com/news/articleView.html?idxno=272467",
+   "source": "samdailbo.com",
+   "published": "2026-11-09T13:10+09:00",
+   "cat": "hlt",
+   "id": "d74e73d5c663",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "취약계층 ‘산재보상 대리인 제도’ 시행",
+   "summary": "지원 범위는 난청·진폐 등을 제외한 업무상 질병에 대한 보험급여 청구와 유족급여 청구다. 산재보험 급여 관련 처분에 불복할 경우 심사청구나 재심사청구 등 이의제기 절차에서도 대리인의 도움을 받을 수 있다....",
+   "url": "https://www.naeil.com/news/read/608058?ref=naver",
+   "orig": "https://www.naeil.com/news/read/608058?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-09T13:02+09:00",
+   "cat": "hlt",
+   "id": "e21a2d69774d",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "1년 새 사망사고 2건 '아워홈', 제조공장 합동감독서 안전 위반·불법파...",
+   "summary": "차례 사망사고가 발생한 가운데, 안전검사를 받지 않은 컨베이어를 사용하고 협력업체 노동자에게... 안전보건규칙 위반은 총 14건으로, 끼임·감전·추락 위험요인이 확인됐다. 이 중 6건은 사법 처리하고 7건은...",
+   "url": "https://www.ibabynews.com/news/articleView.html?idxno=156697",
+   "orig": "https://www.ibabynews.com/news/articleView.html?idxno=156697",
+   "source": "ibabynews.com",
+   "published": "2026-11-09T12:40+09:00",
+   "cat": "sev",
+   "id": "b04e24e43b5b",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "부산항만공사, 줄잡이 안전 우수업체 3곳에 작업차량 전달",
+   "summary": "행사에는 부산항만산업협회 등 관련 기관 관계자들이 참석했다. 작업자 교육도 같은 날 시작됐다.... 부산항만공사는 지난 4일 세계항만협회(IAPH)가 주관한 지속가능어워드에서 '안전·보건' 부문 1위를 차지했다. 송상근...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261109010002870",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261109010002870",
+   "source": "중도일보",
+   "published": "2026-11-09T12:18+09:00",
+   "cat": "hlt",
+   "id": "b1e9885861e9",
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3746301",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3746301",
+     "title": "부산항만공사, 줄잡이 안전 우수업체 3곳에 작업용 차량 지원"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005601395?sid=101",
+     "orig": "https://www.fnnews.com/news/202611091354003019",
+     "title": "부산항만공사, 줄잡이 안전 우수업체 3개사에 차량 지원"
+    },
+    {
+     "source": "ksg.co.kr",
+     "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148461",
+     "orig": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148461",
+     "title": "부산항만공사, 줄잡이 안전 우수업체에 작업차량 지원"
+    },
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001406273?sid=102",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026110914350803729",
+     "title": "부산항만공사, 줄잡이 안전 우수업체 3사에 작업용 차량 지원"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "승강기안전공단, 안전 제고 및 관련산업 육성 등 다방면 활약",
+   "summary": "양 기관은 일상 속 승강기 내부의 환경을 개선하고 안전사고를 예방하기 위한 다양한 프로그램을 진행했다. 주요 활동으로 ▲훼손 스티커 제거 및 청소 ▲실리콘 화병 설치 ▲미끄럼 방지 위한 꽃 스티커 부착 ▲손끼임...",
+   "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113217",
+   "orig": "http://www.aptn.co.kr/news/articleView.html?idxno=113217",
+   "source": "aptn.co.kr",
+   "published": "2026-11-09T12:10+09:00",
+   "cat": "tech",
+   "id": "5e7359ba3ebb",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "한국임팩트투자네트워크, 반도체 공장 친환경·안전 기술 포럼",
+   "summary": "친환경적이고 안전한 팹으로, 반도체 공정을 혁신하는 스타트업들'을 주제로 제11회 인사이트 포럼을 개최한다고 9일 밝혔다. 포럼은 한국반도체산업협회 임낙준 PM이 탄소·에너지·용수 등 반도체 산업의 지속가능성...",
+   "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2366150",
+   "orig": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2366150",
+   "source": "webeconomy.co.kr",
+   "published": "2026-11-09T12:08+09:00",
+   "cat": "tech",
+   "id": "bf9f237777bb",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'청주 환경미화원 사망사고' 직접 원인은 수거차 급차선 변경",
+   "summary": "정확한 사망원인을 확인할 예정이다. 부검 결과를 토대로 교통사고 당시 충격으로 숨졌는지, 사고로 발판에서 추락하면서 발생한 충격으로 숨졌는지 등을 판단할 방침이다. 청주고용노동지청과 충북경찰청 중대재해수사...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014310525?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261109_0003860323",
+   "source": "뉴시스",
+   "published": "2026-11-09T12:05+09:00",
+   "cat": "sev",
+   "id": "d597d3f42aaf",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "‘끼임 사망’ 2명 아워홈, 산업안전 등 92건 위반…과태료 8630만원",
+   "summary": "고용노동부가 지난해 4월, 6월 연달아 컨베이어 끼임 사고로 노동자가 숨졌던 아워홈에 대해 산업안전... 소속 노동자가 사망하며 연달아 같은 유형의 사고가 발생했다. 노동부는 다른 공장에서 안전 검사를 받지 않은...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002831316?sid=102",
+   "orig": "https://www.hani.co.kr/arti/society/labor/1286407.html",
+   "source": "한겨레",
+   "published": "2026-11-09T12:04+09:00",
+   "cat": "sev",
+   "id": "20d8b3b755d1",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "\"안전이 곧 세계 1위 경쟁력\"…부산항만공사, 우수 안전 관리 업체에 '줄...",
+   "summary": "부산항만공사(BPA)가 세계항만협회(IAPH) 지속가능어워드 '안전·보건' 부문 세계 1위 달성의 기세를 몰아, 항만... 공사는 9일 한국항만연수원 부산연수원에서 부산항만산업협회를 비롯한 유관기관 관계자들이 참석한...",
+   "url": "https://www.betanews.net/article/view/beta202611090078",
+   "orig": "https://www.betanews.net/article/view/beta202611090078",
+   "source": "betanews.net",
+   "published": "2026-11-09T12:04+09:00",
+   "cat": "hlt",
+   "id": "7b226a8f1842",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "잇달아 중대재해 발생한 아워홈에 노동부 철퇴…13건 사법처리",
+   "summary": "고용노동부는 중대재해가 반복 발생한 아워홈을 대상으로 대대적인 기획감독을 벌여 그 결과를 9일... 연합 이 업체에서는 지난해 4월 한 근로자가 냉각 기계에 끼어 사망했고, 올해 6월 어묵꼬치 포장 작업장에서 한...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004173610?sid=102",
+   "orig": "https://www.segye.com/newsView/20261109505699?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-11-09T12:03+09:00",
+   "cat": "sev",
+   "id": "7b8ca11a0109",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 끼임사고 방지 조치 미설치 등 산업안전·근로기준법 92건 위반",
+   "summary": "등에서 작업자 신체가 끼일 위험이 없도록 방지하는 조치를 제대로 하지 않았고, 2차 협력업체 45명의 불법파견도 적발됐습니다. 특히 올해 6월 용인2공장에서 컨베이어 끼임 사망사고가 났는데도 다른 공장에서...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002430211?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202611091202078156",
+   "source": "YTN",
+   "published": "2026-11-09T12:02+09:00",
+   "cat": "acc",
+   "id": "329424ab5179",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 공장 직원 사망사고 관련 \"안전관리 강화 지속 … 재발 방지책...",
+   "summary": "9일 관련업계에 따르면 고용노동부는 지난 6월 16일부터 10월 30일까지 아워홈의 전국 9개 공장을 대상으로 산업안전·근로기준 합동 감독·점검을 실시한 결과 총 92건의 법 위반 사항을 적발했다. 산업안전 분야에서 53건...",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900167.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900167.html",
+   "source": "뉴데일리",
+   "published": "2026-11-09T12:02+09:00",
+   "cat": "sev",
+   "id": "570aa3e289f4",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "[공기업 센터] 코레일유통·한국식품안전관리인증원·국민체육진흥공단",
+   "summary": "대상으로 스마트 해썹 맞춤형 기술상담을 진행했다. 이번 상담은 부산지방식품의약품안전청과 협력해 지역 업체의 스마트 해썹 도입을 지원하기 위해 마련됐다. 부산지원은 지난 5일부터 6일까지 부산·울산·경남 지역...",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=172132",
+   "orig": "http://www.iminju.net/news/articleView.html?idxno=172132",
+   "source": "iminju.net",
+   "published": "2026-11-09T12:02+09:00",
+   "cat": "tech",
+   "id": "8facbdef060a",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "끼임 사망 두 번 난 아워홈…다른 공장선 안전검사 안 받은 컨베이어 가...",
+   "summary": "숨진 노동자가 협력업체 소속인 점을 고려해 불법파견 등 노동관계법 위반 여부도 함께 들여다봤다. 사망사... 노동부는 이 같은 끼임·감전·추락 위험과 관련해 안전보건규칙 위반 14건을 확인했다. 용인2공장 1차...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002720834?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10930465?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-09T12:01+09:00",
+   "cat": "sev",
+   "id": "1352e660ff67",
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006406635?sid=102",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=02896246645644080&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "사망사고 이후에도…아워홈, 안전검사 안받은 컨베이어 썼다"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 2년 연속 사망사고에도 안전관리 부실…법 위반 92건 적발",
+   "summary": "잇따라 노동자 사망사고가 발생한 아워홈에서 산업안전과 근로기준 관련 법 위반사항 92건이 적발됐다.... 믹서기 투입구 방호울 미설치, 이동용 전선 미접지, 계단 난간 미설치 등 끼임·감전·추락 위험요인도...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003483538?sid=100",
+   "orig": "https://www.etnews.com/20261109000193",
+   "source": "전자신문",
+   "published": "2026-11-09T12:01+09:00",
+   "cat": "sev",
+   "id": "5174fc0b4708",
+   "related": [
+    {
+     "source": "iminju.net",
+     "url": "http://www.iminju.net/news/articleView.html?idxno=172136",
+     "orig": "http://www.iminju.net/news/articleView.html?idxno=172136",
+     "title": "아워홈, 사망사고 반복에도 안전관리 부실…법 위반 92건 적발"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000549968?sid=102",
+     "orig": "https://news.tf.co.kr/read/life/2386402.htm",
+     "title": "'사망사고 반복' 아워홈, 안전·근로기준 위반 92건 적발"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'2년 연속 사망' 아워홈, 안전조치 구멍에 불법파견까지",
+   "summary": "2년 연속 노동자 사망사고가 난 ㈜아워홈에서 안전불감증은 물론이고, 불법파견까지 벌인 사실까지... 이 46명 가운데 44명이 협력업체 노동자였다. 과태료는 7건에 2350만 원이다. 끼임·감전·추락 위험과 관련된...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004207786?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6603807?utm_source=naver&utm_medium=article&utm_campaign=20261109120033",
+   "source": "노컷뉴스",
+   "published": "2026-11-09T12:01+09:00",
+   "cat": "sev",
+   "id": "86023e1fa3ae",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'2연속 끼임 사망' 뒤에도… 아워홈, 검사 안 받은 컨베이어 계속 돌렸...",
+   "summary": "소속 노동자가 포장 컨베이어에 목이 끼여 숨졌다. 그러나 두 번의 사고 이후에도 다른 공장에선 안전검사를 받지 않은 컨베이어를 계속 사용한 사실이 이번 감독에서 확인됐다. 컨베이어 벨트 끼임 방지 조치, 두부...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000964455?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026110909520005765?did=NA",
+   "source": "한국일보",
+   "published": "2026-11-09T12:01+09:00",
+   "cat": "sev",
+   "id": "8d5786154165",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 산업안전·근로 92건 위반…\"한화그룹 최고경영진이 책임감 느...",
+   "summary": "고용노동부(장관 김영훈)가 2025년과 올해 잇따라 사망사고가 발생한 아워홈을 대상으로 한 산업안전-근로... 노동부는 최근 잇달아 발생한 중대재해를 고려해 아워홈의 전체 공장 9개소를 대상으로 감독·점검을 실시해...",
+   "url": "https://n.news.naver.com/mnews/article/422/0000924217?sid=102",
+   "orig": "http://www.yonhapnewstv.co.kr/news/AKR202611091021445tl",
+   "source": "yonhapnewstv.co.kr",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "acc",
+   "id": "f5fe514d472f",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'잇단 사망사고' 아워홈⋯노동부, 안전 위반·불법파견 등 92건 무더기 ...",
+   "summary": "산업안전 분야에서는 중대재해로 직결될 수 있는 기본 안전조치 누락이 다수 확인됐다. 특히 올해 6월 용인2공장에서 하청 노동자가 포장 컨베이어에 위생모가 감기며 목이 끼어 사망했음에도 다른 공장에서는 여전히...",
+   "url": "https://www.etoday.co.kr/news/view/2645635",
+   "orig": "https://www.etoday.co.kr/news/view/2645635",
+   "source": "이투데이",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "5d755dcd20d5",
+   "related": [
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261109500765",
+     "orig": "https://www.viva100.com/article/20261109500765",
+     "title": "사망사고 잇단 아워홈…산안법 등 92건 위반"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "'산재 사망 반복' 아워홈서 불법파견 적발…법 위반 92건 확인",
+   "summary": "지난해 4월과 올해 6월 사망사고가 반복 발생한 식품기업 아워홈에서 불법 파견 사실이 확인됐다.... 아워홈 용인2공장에서는 지난해 4월과 올해 6월 사망사고가 연달아 발생했다. 노동부는 올해 사망한 노동자가 협력업체...",
+   "url": "https://www.newspim.com/news/view/20261109000643",
+   "orig": "https://www.newspim.com/news/view/20261109000643",
+   "source": "뉴스핌",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "546e7de8f88d",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "잇단 사망사고에도 위험한 컨베이어 그대로…아워홈 법 위반 92건 적발",
+   "summary": "지난해와 올해 노동자 끼임 사망사고가 잇따라 발생한 ㈜아워홈에서 산업안전과 노동관계법 위반사항... 기계설비와 작업환경에서 끼임·감전·추락 위험도 확인됐다. 컨베이어 벨트와 회전체 사이의 끼임 방지조치가...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003152900?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1712459/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "a729cb3ca8c2",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014310507?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261109_0003859700",
+     "title": "'끼임 사망'에도 미검사 장비 그대로…아워홈, 법 위반 92건 적발"
+    },
+    {
+     "source": "thepowernews.co.kr",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=202611091354287662de3f0aa1be_7",
+     "orig": "https://www.thepowernews.co.kr/view.php?ud=202611091354287662de3f0aa1be_7",
+     "title": "두 번의 사망사고에도 안전조치 미흡…아워홈, 법 위반 92건 적발"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "아워홈, 사망사고 뒤에도 미검사 컨베이어 사용…노동부 92건 적발",
+   "summary": "올해 6월에는 협력업체 노동자가 포장 컨베이어에 위생모가 감기면서 목이 끼여 사망했다. 노동부는 사고가... 이동용 전선 미접지, 성형실 계단 난간 미설치 등 감전·추락 위험도 확인됐다. 도급인의 안전보건조치...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009278633?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6347570",
+   "source": "뉴스1",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "bd578813f62f",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "노동자 2명 숨진 아워홈, 안전조치 미흡·불법파견 등 92건 적발",
+   "summary": "아워홈 용인2공장에서는 작년 4월 원청 노동자 1명, 올해 6월 협력업체 직원 1명이 끼임 사고로 숨졌다. 노동부는 이에 아워홈의 전국 공장 9곳에 감독·점검을 실시했다. 협력업체 소속 노동자도 사망한 것을 고려해...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016431000?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261109045400530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "a72a429adfd9",
+   "related": [
+    {
+     "source": "MBN",
+     "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005958180",
+     "orig": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005958180",
+     "title": "노동자 2명 숨진 아워홈, 안전조치 미흡·불법파견 등 92건 적발"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001534380?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6864261_36918.html",
+     "title": "'노동자 2명 사망' 아워홈, 노동부 감독서 안전조치 미흡 등 92건 적발"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "사망사고 반복된 아워홈, 전 공장 감독…92건 적발·13건 사법처리",
+   "summary": "노동부는 2025년 4월 용인2공장에서 어묵 냉각기계에 목이 끼여 원청 노동자가 숨진 데 이어 올해 6월 같은... 아워홈은 지난 6월 컨베이어 끼임 사망사고 이후에도 다른 공장에서 안전검사를 받지 않은 컨베이어를 계속...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000649852?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/09/2026110990106.html",
+   "source": "TV조선",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "ef784059e50c",
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251436",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251436",
+     "title": "사망사고 반복된 아워홈, 안전법규 위반 53건 적발"
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "잇단 사망에도 안전불감증 여전 … 아워홈, 검사 안 한 컨베이어 돌렸다",
+   "summary": "뉴데일리 임준환 기자 = 아워홈 용인2공장에서 끼임 사고로 노동자 2명이 잇따라 숨졌지만, 다른 공장에서는... 올해 6월 사망사고 이후에도 다른 공장에서 안전검사를 받지 않은 컨베이어를 사용한 사례가 2건 적발됐다....",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900120.html",
+   "orig": "https://biz.newdaily.co.kr/site/data/html/2026/11/09/2026110900120.html",
+   "source": "뉴데일리",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "sev",
+   "id": "c8688e6404cc",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "노동부, 아워홈 법 위반 92건 적발…과태료 8600만원 부과",
+   "summary": "앞서 아워홈 용인2공장에서는 올해 6월과 지난해 4월 끼임 사고로, 노동자들이 사망하는 사고가 발생했다. 이에 노동부는 아워홈의 전체 9개 공장을 대상으로 감독·점검을 실시했다. 그 결과 총 92건의 법 위반 사실이...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001203474?sid=102",
+   "orig": "https://biz.chosun.com/topics/topics_social/2026/11/09/M2RUY5UOMFENBMGKPMMDV2SF6Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "acc",
+   "id": "ad042e8c3141",
+   "related": [
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261109085332375",
+     "orig": "https://www.ajunews.com/view/20261109085332375",
+     "title": "끼임 사망사고 반복된 아워홈, 안전·노동법 위반 92건 적발…과태료 8..."
+    }
+   ],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "하위법령 입법예고 종료…처방일수·약 배송 안전장치 보완될까",
+   "summary": "최종 개정안 마련 과정에서 변수가 될 전망이다. 약사회와 의료계가 대면진료 원칙과 환자 안전을 이유로 초진 처방 예외 축소와 전담기관 방지 기준 강화를 요구하는 반면, 원격의료산업협의회 등 플랫폼 업계는 지역과...",
+   "url": "https://www.dailypharm.com/user/news/344333?REFERER=NP",
+   "orig": "https://www.dailypharm.com/user/news/344333?REFERER=NP",
+   "source": "데일리팜",
+   "published": "2026-11-09T12:00+09:00",
+   "cat": "law",
+   "id": "059936a85fb3",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
+  {
+   "title": "이장섭 청주시장 \"환경미화원 사고 애도…재발 방지 총력\"",
+   "summary": "이장섭 충북 청주시장은 최근 업무 수행 중 안타깝게 숨진 환경미화원의 사고를 애도하며 실효성 있는 재발... 이 시장은 \"이번 사고를 계기로 환경미화원들의 작업환경과 안전관리 체계를 전반적으로 되돌아봐야 한다\"고...",
+   "url": "https://www.goodmorningcc.com/news/articleView.html?idxno=455410",
+   "orig": "https://www.goodmorningcc.com/news/articleView.html?idxno=455410",
+   "source": "goodmorningcc.com",
+   "published": "2026-11-09T11:52+09:00",
+   "cat": "acc",
+   "id": "e995e4201b79",
+   "related": [],
+   "day": "2026-11-09",
+   "watch": []
+  },
   {
    "title": "연말 조명 설치·철거, 사다리 추락사고 주의",
    "summary": "연말을 앞두고 아파트 문주와 화단 나무 등에 조명 장식을 설치하는 단지가 늘어나는 가운데 작업 중 추락과... 작업자는 안전모 등 개인 보호구를 착용하고 2인 1조 작업 원칙을 지켜야 하며 사다리 최상부 발판에 올라서서...",
@@ -171,7 +966,20 @@
    "published": "2026-11-09T11:18+09:00",
    "cat": "sev",
    "id": "d4bfc8943a51",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261109000689",
+     "orig": "https://www.newspim.com/news/view/20261109000689",
+     "title": "이장섭 청주시장, 환경미화원 사망에 깊은 애도… \"안전대책 재점검 하..."
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3746338",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3746338",
+     "title": "이장섭 청주시장 \"환경미화원 사망 애도…유가족 지원·안전대책 지시\""
+    }
+   ],
    "day": "2026-11-09",
    "watch": []
   },
@@ -223,7 +1031,14 @@
    "published": "2026-11-09T11:02+09:00",
    "cat": "hlt",
    "id": "6f272f76ea53",
-   "related": [],
+   "related": [
+    {
+     "source": "ccreview.co.kr",
+     "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=362139",
+     "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=362139",
+     "title": "음성군, 안전보건 픽토그램 스티커 보급 추진"
+    }
+   ],
    "day": "2026-11-09",
    "watch": []
   },
@@ -353,7 +1168,14 @@
    "published": "2026-11-09T10:42+09:00",
    "cat": "tech",
    "id": "ad1d14edfb17",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022854",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1022854",
+     "title": "한국마사회, 민-관-공 손잡고 일상 속 안전문화 확산"
+    }
+   ],
    "day": "2026-11-09",
    "watch": []
   },
@@ -633,7 +1455,14 @@
    "published": "2026-11-09T09:47+09:00",
    "cat": "tech",
    "id": "c2add5454e28",
-   "related": [],
+   "related": [
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588306483134",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065588306483134",
+     "title": "LG전자 차량 통신제어 모듈, 업계 최초 기능안전 최고 등급 인증 획득"
+    }
+   ],
    "day": "2026-11-09",
    "watch": []
   },
@@ -678,6 +1507,12 @@
      "url": "https://www.bbc.com/korean/articles/cvrlyggknyk5o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
      "orig": "https://www.bbc.com/korean/articles/cvrlyggknyk5o?xtor=AL-73-%5Bpartner%5D-%5Bnaver%5D-%5Bheadline%5D-%5Bkorean%5D-%5Bbizdev%5D-%5Bisapi%5D",
      "title": "이집트 열차 추돌 사고로 7명 사망·100여 명 부상"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3746217",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3746217",
+     "title": "[2보] 이집트 열차 추돌로 최소 7명 사망·112명 부상…6량 탈선"
     }
    ],
    "day": "2026-11-09",
@@ -763,6 +1598,12 @@
      "url": "https://www.newspim.com/news/view/20261109000590",
      "orig": "https://www.newspim.com/news/view/20261109000590",
      "title": "깨끗한나라, 제지·펄프 안전보건대회 장려상…현장 안전 혁신 입증"
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611091434598782204ead0791_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=202611091434598782204ead0791_12",
+     "title": "깨끗한나라 제지·펄프 안전보건대회 우수사례 장려상 수상"
     }
    ],
    "day": "2026-11-09",
@@ -879,6 +1720,30 @@
      "url": "https://www.cstimes.com/news/articleView.html?idxno=727124",
      "orig": "https://www.cstimes.com/news/articleView.html?idxno=727124",
      "title": "세아베스틸, 600만 건 데이터로 철강 맞춤형 AI 안전 시스템 완성"
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1022821",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1022821",
+     "title": "세아베스틸, 철강공정 특화 AI 안전 설루션 개발"
+    },
+    {
+     "source": "ferrotimes.com",
+     "url": "http://www.ferrotimes.com/news/articleView.html?idxno=51376",
+     "orig": "http://www.ferrotimes.com/news/articleView.html?idxno=51376",
+     "title": "세아베스틸, 철강 특화 AI 안전 솔루션 개발"
+    },
+    {
+     "source": "디지털데일리",
+     "url": "https://n.news.naver.com/mnews/article/138/0002247752?sid=101",
+     "orig": "https://www.ddaily.co.kr/page/view/2026110909350328915",
+     "title": "세아베스틸, 철강공장 AI 안전 솔루션 개발…600만건 데이터 분석"
+    },
+    {
+     "source": "EBN",
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1730932",
+     "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1730932",
+     "title": "세아베스틸, 철강 특화 'AI 안전 솔루션' 개발…안전경영 고도화"
     }
    ],
    "day": "2026-11-09",
@@ -938,6 +1803,12 @@
      "url": "http://www.beyondpost.co.kr/view.php?ud=20261109093820909146a9e4dd7f_30",
      "orig": "http://www.beyondpost.co.kr/view.php?ud=20261109093820909146a9e4dd7f_30",
      "title": "깨끗한나라, 크레인 점검 작업 개선으로 제지·펄프 안전보건대회 장려..."
+    },
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881159",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=881159",
+     "title": "깨끗한나라, 안전보건 우수사례 장려상"
     }
    ],
    "day": "2026-11-09",
@@ -958,6 +1829,12 @@
      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1191853",
      "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1191853",
      "title": "'외국인 근로자 산업재해 예방' ··· 음성군, 안전보건 픽토그램 스티..."
+    },
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=936261",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=936261",
+     "title": "음성군, 외국인 근로자용 다국어 안전표지 보급"
     }
    ],
    "day": "2026-11-09",
