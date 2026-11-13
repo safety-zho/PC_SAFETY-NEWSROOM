@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T12:23+09:00",
+ "updatedAt": "2026-11-13T15:00+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,624 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "3ee563d1c62d",
+   "title": "KT, ‘대한민국 인터넷대상’ 국무총리상…AI·데이터 활용 안전관리 성...",
+   "url": "https://www.seoultimes.news/news/article.html?no=2000102154",
+   "source": "seoultimes.news",
+   "cat": "tech",
+   "day": "2026-11-13",
+   "count": 18
+  },
+  {
    "id": "80541bbd3549",
    "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함",
    "url": "https://n.news.naver.com/mnews/article/001/0016439571?sid=104",
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-11-13",
+   "count": 7
+  },
+  {
+   "id": "a9e775655eb9",
+   "title": "KT, AI·데이터 기반 통신시설 안전관리 성과로 국무총리상 수상",
+   "url": "https://n.news.naver.com/mnews/article/629/0000551680?sid=105",
+   "source": "tf.co.kr",
+   "cat": "tech",
+   "day": "2026-11-13",
    "count": 6
   },
   {
-   "id": "bde1155cffeb",
-   "title": "내달 2~15일 ICAO 항공안전평가…범정부, 막판 총력 대응",
-   "url": "https://n.news.naver.com/mnews/article/003/0014320378?sid=101",
-   "source": "뉴시스",
-   "cat": "law",
-   "day": "2026-11-13",
-   "count": 4
-  },
-  {
-   "id": "c7a9545bd360",
-   "title": "노동부 \"작업장 한랭질환 조심\"…취약사업장 3만여곳 집중관리",
-   "url": "https://n.news.naver.com/mnews/article/001/0016439788?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-11-13",
-   "count": 4
-  },
-  {
-   "id": "44f06cdc7410",
-   "title": "반도건설, 전국 소장단회의…안전·시공·CS 관리 기준 공유",
-   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420807",
-   "source": "bizwork.co.kr",
+   "id": "c00b1a53dd08",
+   "title": "반도건설, 현장소장 회의서 품질·안전 점검… 8년 연속 중대재해 제로...",
+   "url": "http://www.newsdream.kr/news/articleView.html?idxno=122125",
+   "source": "newsdream.kr",
    "cat": "tech",
    "day": "2026-11-13",
-   "count": 3
+   "count": 5
   },
   {
-   "id": "8b8de21226c9",
-   "title": "부산시, 겨울철 대설·한파 우려지역 489곳 집중관리…제설제 1042톤 확보",
-   "url": "https://n.news.naver.com/mnews/article/421/0009287071?sid=102",
-   "source": "뉴스1",
+   "id": "619ac5df94c5",
+   "title": "KT, 전국 348개 통신빌딩 AI로 관리…인터넷대상 국무총리상",
+   "url": "https://www.newsinside.kr/news/articleView.html?idxno=5046831",
+   "source": "newsinside.kr",
    "cat": "tech",
    "day": "2026-11-13",
-   "count": 3
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "SK는 기술 협력, GS는 금융·안전…동반성장 전략 차별화",
+   "summary": "현장 안전 분야에서는 산업안전보건관리비를 선지급하고 고위험 공종의 안전관리 전담인력 배치 비용을 지원한다. 협력사가 안전관리 비용을 자체적으로 감당하는 데 따른 부담을 줄이려는 조치다. 현장 안전을 원청의...",
+   "url": "https://www.fntimes.com/html/view.php?ud=202611130959226637b372994c95_18",
+   "orig": "https://www.fntimes.com/html/view.php?ud=202611130959226637b372994c95_18",
+   "source": "한국금융신문",
+   "published": "2026-11-13T14:56+09:00",
+   "cat": "tech",
+   "id": "bb807741aeb3",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "aT, 경영진 특별 안전점검…다중이용시설 안전관리 강화",
+   "summary": "한국농수산식품유통공사(aT)가 13일 서울 양재동 aT화훼센터와 aT센터에서 경영진과 노사 대표 등이 참여하는 특별 안전점검을 실시했습니다. 이번 점검은 연간 약 270만 명이 이용하는 두 시설의 안전관리 실태를...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118469",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4118469",
+   "source": "bbsi.co.kr",
+   "published": "2026-11-13T14:42+09:00",
+   "cat": "tech",
+   "id": "232354c9578e",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "노후 농업기반시설 안전관리, 위성·AI로 바꾼다…위험 예측 기술 주목",
+   "summary": "노후화가 진행되는 만큼 이에 대응할 수 있는 새로운 안전관리 체계가 필요하다\"며 \"인공지능, 위성, 드론 등 첨단 기술을 접목하고 정부, 지방정부, 학계, 민간과 협력해 스마트 안전관리 체계를 구축하겠다\"고 밝혔다.",
+   "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71820",
+   "orig": "https://www.youngnong.co.kr/news/articleView.html?idxno=71820",
+   "source": "youngnong.co.kr",
+   "published": "2026-11-13T14:38+09:00",
+   "cat": "tech",
+   "id": "93855ccad259",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, 통신빌딩 348곳 데이터로 지킨다…24시간 화재감시·예방형 안전관...",
+   "summary": "KT가 관리하는 348개 빌딩 중 317곳에는 교환·전송 등 핵심 통신설비가 설치돼 있다. 화재나 설비 이상이 통신서비스 장애로 이어질 수 있는 만큼 사고 예방을 위한 상시 관리가 중요하다. KT는 시설관리시스템(FMS)을...",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139755",
+   "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=139755",
+   "source": "e-science.co.kr",
+   "published": "2026-11-13T14:36+09:00",
+   "cat": "tech",
+   "id": "56790114d5fd",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[사실은 이렇습니다] (설명) 11.13.(금) 노컷뉴스,\"폭염 이어 한파도... ...",
+   "summary": "11.13.(금) 노컷뉴스,\" 폭염 이어 한파도... 노동자 보호 규칙, 또 '규제심사'에 발목\" 기사 관련 문 의: 산업보건보상정책관실 박현건(044-202-8891)",
+   "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975681&call_from=naver_news",
+   "orig": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975681&call_from=naver_news",
+   "source": "정책브리핑",
+   "published": "2026-11-13T14:35+09:00",
+   "cat": "hlt",
+   "id": "38e26875ac40",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "기아차 광주공장 협력사 지게차 사망 첫 공판…하청업체 측 혐의 부인",
+   "summary": "지게차 사망사고의 첫 재판에서 운전자와 공장장, 경영책임자는 공소사실을 인정했지만 지게차 작업을 맡은 하청업체 측은 혐의를 부인했다. 광주지법 형사3단독 장유나 판사는 13일 업무상과실치사와 중대재해처벌법...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004209569?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6606600?utm_source=naver&utm_medium=article&utm_campaign=20261113143021",
+   "source": "노컷뉴스",
+   "published": "2026-11-13T14:31+09:00",
+   "cat": "sev",
+   "id": "9af32d944204",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[금주의 안산시] 전문건설업체 대상 AI 활용·안전관리 역량강화 교육 ...",
+   "summary": "2부에서는 한국산업안전보건공단 서은기 강사가 건설현장 위험성평가 실무와 사고 예방을 위한 안전대책을 설명했다. 조용준 대한전문건설협회 경기도회 안산시운영위원장은 \"전문건설업은 지역경제를 뒷받침하는...",
+   "url": "https://www.joongboo.com/news/articleView.html?idxno=363742411",
+   "orig": "https://www.joongboo.com/news/articleView.html?idxno=363742411",
+   "source": "중부일보",
+   "published": "2026-11-13T14:30+09:00",
+   "cat": "tech",
+   "id": "00cbce5fc129",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, 삼성전자 스마트싱스서 주택 화재·누수 위험 진단 서비스 제...",
+   "summary": "라이센스뉴스 = 이소라 기자 | 삼성화재가 삼성전자의 스마트홈 플랫폼 '스마트싱스(SmartThings)'를 통해... 예방관리 기술 개발도 이뤄지고 있다. DB손해보험은 건축물대장과 소방청 화재발생 이력, 한국전기안전공사 점검...",
+   "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211363",
+   "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=211363",
+   "source": "lcnews.co.kr",
+   "published": "2026-11-13T14:30+09:00",
+   "cat": "tech",
+   "id": "625c69bd512b",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "숭실대, 재난안전·영사외교 등 논의한 공동 추계학술대회 개최",
+   "summary": "재난안전·영사외교·환경보건·국가핵심기반보호 등 다양한 분야의 학술적·정책적 협력 방안도 논의했다.... 기조강연에는 김현종 전쟁기념사업회장(前 국가안보실 제1차장)이 나서 '4차산업혁명 시대 위기관리의 새로운...",
+   "url": "https://news.unn.net/news/articleView.html?idxno=600578",
+   "orig": "https://news.unn.net/news/articleView.html?idxno=600578",
+   "source": "unn.net",
+   "published": "2026-11-13T14:22+09:00",
+   "cat": "hlt",
+   "id": "64caa3790dc1",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "aT, '중대시민재해 선제 예방'... 노사 합동 안전캠페인 전개",
+   "summary": "한국농수산식품유통공사(aT)가 13일 서울 양재동에 위치한 aT화훼센터와 aT센터에서 경영진과 노사 대표, 자회사가 함께 참여하는 특별안전점검 및 안전문화 확산 캠페인을 실시했다고 밝혔다. 이번 특별안전점검은 연간...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513967",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=513967",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-13T14:20+09:00",
+   "cat": "tech",
+   "id": "6317025a655a",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "제주 해상 우주발사체 준비 작업 다이버 사망 책임자 처벌 촉구",
+   "summary": "앞서 50대 A씨는 지난 10일 서귀포시 강정항 남쪽 9㎞ 해상에서 우주발사체 시험발사 준비를 위한 수중 작업을 하다 숨졌다. 이번 사고는 고체연료 추진 우주발사체 4차 시험발사를 준비하는 과정에서 발생했다....",
+   "url": "https://n.news.naver.com/mnews/article/001/0016440669?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261113106200056?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T14:19+09:00",
+   "cat": "sev",
+   "id": "50e96f27058f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "3년 전 '기아 셧다운' 부른 부품공장 지게차 사망사고 첫 재판",
+   "summary": "2023년 전남광주 한 자동차 부품공장에서 발생한 지게차 사망사고와 관련해 기소된 관계자들이 첫... 광주지법 형사3단독 장유나 판사는 13일 업무상과실치사와 중대재해처벌법상 산업재해치사 등 혐의로 기소된...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014320852?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261113_0003867136",
+   "source": "뉴시스",
+   "published": "2026-11-13T14:14+09:00",
+   "cat": "sev",
+   "id": "87c8450be3ac",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "수소차 폐차·재활용 시대 대비…잔류수소 제거·핵심부품 안전기술 개...",
+   "summary": "해체 부품의 상태정보와 작업 이력을 체계적으로 관리함으로써 화재·폭발 사고 예방과 핵심부품의 재사용... 작업에서 작업자의 위험 노출을 최소화하기 위한 AI 기반 무인 자동화 방안을 제안했다. 자동화 수준을 계측...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205069",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205069",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-13T14:04+09:00",
+   "cat": "tech",
+   "id": "3fba4abd9fe7",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "진에어, ESG 4년 연속 A등급…통합 LCC 출범 앞두고 안전·상생경영 성과",
+   "summary": "내년 3월 에어부산·에어서울과의 통합을 앞둔 가운데 안전관리와 지속가능경영 역량을 인정받았다는 점에서 의미가 있다. 진에어는 한국ESG기준원(KCGS)이 실시한 ‘2026년 상장기업 ESG 평가’에서 통합 A등급을...",
+   "url": "https://www.kukinews.com/article/view/kuk202611130095",
+   "orig": "https://www.kukinews.com/article/view/kuk202611130095",
+   "source": "쿠키뉴스",
+   "published": "2026-11-13T14:04+09:00",
+   "cat": "tech",
+   "id": "2141c6ced612",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, 통신시설 안전관리로 국무총리상…공공·민간 25곳으로 확대",
+   "summary": "|스마트투데이=최아랑 기자| KT는 인공지능(AI)·데이터 기반 통신시설 안전관리 성과로 ‘제21회 대한민국... KT 관계자는 “앞으로도 AI·데이터 기술을 활용해 산업 현장의 안전관리 혁신을 이끌고, 디지털 기술의...",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113711",
+   "orig": "https://www.smarttoday.co.kr/ko-kr/articles/113711",
+   "source": "스마트투데이",
+   "published": "2026-11-13T14:00+09:00",
+   "cat": "tech",
+   "id": "fe32f13abba8",
+   "related": [
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005603953?sid=105",
+     "orig": "https://www.fnnews.com/news/202611130932390643",
+     "title": "KT 'AI로 통신시설 안전관리', 국무총리상 수상"
+    },
+    {
+     "source": "kpenews.com",
+     "url": "https://kpenews.com/View.aspx?No=4311481",
+     "orig": "https://kpenews.com/View.aspx?No=4311481",
+     "title": "KT, 통신시설 안전관리 기술 외부 사업으로 확대..국무총리상 수상"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, 통신시설 안전관리 디지털 전환 성과…인터넷대상 국무총리상",
+   "summary": "현장 점검 과정에도 디지털 기술을 적용했다. 근거리무선통신(NFC)을 활용한 모바일 점검으로 작업 정확도를 높이고, 스마트 TBM(작업 전 안전회의)을 도입해 작업자 안전관리도 강화했다. 화재 대응 체계 역시 그룹사 간...",
+   "url": "https://www.news2day.co.kr/article/20261113500109",
+   "orig": "https://www.news2day.co.kr/article/20261113500109",
+   "source": "뉴스투데이",
+   "published": "2026-11-13T14:00+09:00",
+   "cat": "tech",
+   "id": "9234770aa2bc",
+   "related": [
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003154869?sid=105",
+     "orig": "https://www.dailian.co.kr/news/view/1714550/?sc=Naver",
+     "title": "KT, 통신시설 안전관리 사업화 성과 인정…인터넷대상 국무총리상"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, AI·데이터 기반 통신시설 안전관리 성과로 국무총리상 수상",
+   "summary": "원격관제·모바일 안전관리 체계를 구축한 성과를 인정받았다. KT의 기술·운영 모델은 그룹사가 관련... 근거무무선통신(NFC) 기반 모바일 점검과 스마트 TBM(작업 전 안전회의)을 도입해 현장 점검의 정확성과...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000551680?sid=105",
+   "orig": "https://news.tf.co.kr/read/economy/2388333.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-13T14:00+09:00",
+   "cat": "tech",
+   "id": "a9e775655eb9",
+   "related": [
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589423676387",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589423676387",
+     "title": "KT, AI·데이터로 통신시설 안전관리 혁신"
+    },
+    {
+     "source": "koreaittimes.com",
+     "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159147",
+     "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=159147",
+     "title": "KT, AI·데이터 기반 통신시설 안전관리 성과 인정… 국무총리상 수상"
+    },
+    {
+     "source": "newscape.co.kr",
+     "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125805",
+     "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125805",
+     "title": "KT, AI·데이터 기반 통신시설 안전관리 혁신으로 국무총리상 수상"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004209572?sid=105",
+     "orig": "https://www.nocutnews.co.kr/news/6606603?utm_source=naver&utm_medium=article&utm_campaign=20261113143321",
+     "title": "KT, AI·데이터로 통신시설 안전관리 혁신…국무총리상 수상"
+    },
+    {
+     "source": "whitepaper.co.kr",
+     "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268764",
+     "orig": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268764",
+     "title": "KT, AI·데이터 기반 통신시설 안전관리 '국무총리상' 수상"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "포항시, 보행자 위한 거리 만든다더니…시민은 차도로",
+   "summary": "취재진이 제보를 받고 현장을 확인했을 당시 굴삭기와 작업자들이 공사를 진행하고 있었지만, 시민들의... 때까지 주·야간 안전관리 상태를 지속적으로 확인해 시민들의 통행 불편과 안전사고 위험을 줄이겠다\"고 밝혔다.",
+   "url": "https://n.news.naver.com/mnews/article/031/0001074861?sid=102",
+   "orig": "http://www.inews24.com/view/2025847",
+   "source": "아이뉴스24",
+   "published": "2026-11-13T13:59+09:00",
+   "cat": "law",
+   "id": "a76dac4ab987",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "고용노동부와 함께 청년 일자리 해법, 현장 속으로 파고든 광주상공회의...",
+   "summary": "광주상공회의소가 청년 취업난과 지역 산업 위기가 맞물린 여수에서 호남권 청년 일경험 사업의 해법을 찾는... 이어 “보건·의료 계열이 없는 캠퍼스 특성 등을 고려해 다양한 전공과 연결될 수 있는 참여기업을...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004681881?sid=102",
+   "orig": "https://www.sedaily.com/article/20113985?ref=naver",
+   "source": "서울경제",
+   "published": "2026-11-13T13:59+09:00",
+   "cat": "law",
+   "id": "d766bee2fcb5",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, 전국 348개 통신빌딩 AI로 관리…인터넷대상 국무총리상",
+   "summary": "작업 전 위험 요인과 안전수칙을 공유하는 '스마트 TBM'도 도입해 점검 정확도와 현장 안전관리를 강화했다.... KT 관계자는 \"이번 수상은 KT가 통신시설 운영 과정에서 축적한 디지털 안전관리 기술과 노하우를 바탕으로...",
+   "url": "https://www.newsinside.kr/news/articleView.html?idxno=5046831",
+   "orig": "https://www.newsinside.kr/news/articleView.html?idxno=5046831",
+   "source": "newsinside.kr",
+   "published": "2026-11-13T13:52+09:00",
+   "cat": "tech",
+   "id": "619ac5df94c5",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014320817?sid=105",
+     "orig": "https://www.newsis.com/view/NISX20261113_0003866622",
+     "title": "전국 통신빌딩 348곳 안전관리 디지털로…KT, 인터넷대상 국무총리상"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083072",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5083072",
+     "title": "KT, 전국 348개 통신빌딩 'AI·데이터 안전망' 구축…인터넷대상 국무총..."
+    },
+    {
+     "source": "finomy.com",
+     "url": "http://www.finomy.com/news/articleView.html?idxno=266604",
+     "orig": "http://www.finomy.com/news/articleView.html?idxno=266604",
+     "title": "KT, 통신빌딩 348곳 안전관리 혁신···인터넷대상 국무총리상"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 베트남 진출기업 산업재해 예방 지원 강화",
+   "summary": "이번 워크숍은 국내와 다른 법령과 노동환경에서 사업장을 운영하는 기업들이 현지 산업안전보건 제도에 대응하고 노동자의 안전과 건강을 보호할 수 있도록 마련됐다. 행사에는 고태연 하노이 코참 회장과 김년호 호치민...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251555",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251555",
+   "source": "안전신문",
+   "published": "2026-11-13T13:42+09:00",
+   "cat": "tech",
+   "id": "d0ec16e189f6",
+   "related": [
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229765",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229765",
+     "title": "안전보건공단, 베트남 진출기업과 안전한 일터 만든다"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "반도건설, 안전·시공·CS 경쟁력 강화로'8년 연속 중대재해 ZERO'정진",
+   "summary": "안전보건경영 체계 강화도 주요 의제로 다뤘다. 2019년부터 7년 연속 중대재해 제로를 이어온 반도건설은 올해 8년 연속 무재해 달성을 목표로 삼았다. 특히 결빙과 강풍 등 작업환경이 악화하는 혹한기를 앞두고 현장별...",
+   "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5197",
+   "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=5197",
+   "source": "newsmap.co.kr",
+   "published": "2026-11-13T13:40+09:00",
+   "cat": "tech",
+   "id": "a8453762849f",
+   "related": [
+    {
+     "source": "sisacast.kr",
+     "url": "http://www.sisacast.kr/news/articleView.html?idxno=101921",
+     "orig": "http://www.sisacast.kr/news/articleView.html?idxno=101921",
+     "title": "반도건설, '8년 연속 중대재해 ZERO' 다짐…안전·시공·CS 역량강화 소..."
+    },
+    {
+     "source": "이코노믹리뷰",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=757186",
+     "orig": "https://www.econovill.com/news/articleView.html?idxno=757186",
+     "title": "반도건설, 8년간 중대재해 '0'…안전·시공·CS 경쟁력 강화 3박자의 합..."
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "건보공단, '가족과 함께하는 재난안전체험' 교육",
+   "summary": "이정선 공단 안전경영실장은 \"재난은 언제 어디서든 발생할 수 있는 만큼 평소 체험을 통한 대응 방법을... 국민건강보험공단은 2000년 7월 1일 출범한 보건복지부 산하 위탁집행형 준정부기관이다. 기존...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7193754",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7193754",
+   "source": "한국아이닷컴",
+   "published": "2026-11-13T13:36+09:00",
+   "cat": "tech",
+   "id": "2586eec3336d",
+   "related": [
+    {
+     "source": "rapportian.com",
+     "url": "https://www.rapportian.com/news/articleView.html?idxno=242432",
+     "orig": "https://www.rapportian.com/news/articleView.html?idxno=242432",
+     "title": "건보공단, 직원·자녀 함께하는 재난안전체험 교육 실시"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "홍성 네팔 노동자 사망, 지자체는 무엇 했나",
+   "summary": "군, 매뉴얼·정기 점검·다국어 지원 약속 박 군수는 개선 방안으로 외국인 노동자 중대재해 사고 대응 매뉴얼을 마련하고, 경찰·소방·고용노동부 등 관계 기관과 군 내부 부서 간 협력체계를 구축하겠다고 밝혔다. 사망...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002535742?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284681&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-11-13T13:31+09:00",
+   "cat": "sev",
+   "id": "0d907e52b345",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "\"AI 시대, 복합재난·에너지안보 해법 찾는다\"…정종수 숭실대 재난안전...",
+   "summary": "환경보건, 국가핵심기반보호 등 다방면에 걸친 학술적·정책적 협력 방안을 심도 있게 논의하기 위해... 이어진 기조강연에서는 김현종 전쟁기념사업회장(전 국가안보실 제1차장)이 연단에 올라 '4차산업혁명 시대...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132495",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132495",
+   "source": "dailysmart.co.kr",
+   "published": "2026-11-13T13:26+09:00",
+   "cat": "tech",
+   "id": "2ea2a47228e4",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "현대건설 자회사 현대엔지니어링, 영업정지 소송 중 또 사망",
+   "summary": "현대건설 자회사 현대엔지니어링에서 노동자 사망사고가 반복되면서 최고경영진의 안전관리 책임이... 같은 날 현대건설은 자회사 현장에서 발생한 중대재해를 공시했다. 그러나 확인된 자료에서는 두 회사의 공식...",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=93510",
+   "orig": "https://www.the-today.com/news/articleView.html?idxno=93510",
+   "source": "the-today.com",
+   "published": "2026-11-13T13:24+09:00",
+   "cat": "sev",
+   "id": "7465a572a81a",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "\"크레인 안전, '연식' 아닌 '정비 이력'에 달렸다\"",
+   "summary": "국내 시공능력평가 상위 5개 건설사는 모두 입찰 조건에 연식 제한을 두고 있는데, 이 중 4곳은 출고 10년... 타워크레인 사고의 92%는 설치와 해체 작업 중에 발생했다. 신호 실수와 줄걸이 불량 등 작업 과정의 인재가...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=95353",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=95353",
+   "source": "eroun.net",
+   "published": "2026-11-13T13:24+09:00",
+   "cat": "law",
+   "id": "95572b39ca49",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "재단법인피플 · 편한소리보청기, 평택시에 3500만원 상당 현물 기탁",
+   "summary": "후원 주체로 나선 재단법인 피플은 2010년 설립된 고용노동부 소관 비영리법인으로 그간 산업재해 노동자의 권익 보호와 사회복귀 지원, 안전보건 교육·연구 사업을 주력으로 펼쳐왔다. 최근에는 이주민과 다문화가정...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=95354",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=95354",
+   "source": "eroun.net",
+   "published": "2026-11-13T13:24+09:00",
+   "cat": "law",
+   "id": "0d0117e771cf",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[중대재해·노란봉투법 해법] (31) 도급 시 안전보건 확보 의무 ②",
+   "summary": "다만 중대재해처벌법상 안전보건관리비용 기준과 산업안전보건법상 건설업 산업안전보건관리비의 계상·사용 기준은 구별해야 한다. 후자는 법령에 따른 적용대상과 계상·사용 기준을 준수해야 하며, 전자는 도급업무의...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52751",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52751",
+   "source": "kmecnews.co.kr",
+   "published": "2026-11-13T13:10+09:00",
+   "cat": "hlt",
+   "id": "46a56953f3cf",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[힌턴 대담 전문②] 'AI 대부' 힌턴 \"AI도 신약처럼 출시 전 안전성 입증...",
+   "summary": "그리고 회사는 그것이 안전하다는 것을 FDA에 설득하기 위한 작업을 해야 합니다. 저희도 AI에 대해 정확히... 그 수치는 자살, 교통사고, 살인을 모두 합친 사망자 수와 거의 비슷합니다. 따라서 AI는 더 정확한 진단이라는...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000650832?sid=101",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/13/2026111390135.html",
+   "source": "TV조선",
+   "published": "2026-11-13T13:06+09:00",
+   "cat": "tech",
+   "id": "dcd9640fd291",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[기고] 조종실 안전, 진료기록 아닌 동료의 눈에서 시작해야",
+   "summary": "상담을 맡는 동료는 감독자가 아니라 같은 처지의 조종사다. 국내 항공사도 노사가 함께 운영하되, 상담... 산업안전보건기준에 관한 규칙 제669조도 사업주에게 이런 직무스트레스로 인한 건강장해를 예방할 의무를...",
+   "url": "https://www.naeil.com/news/read/608678?ref=naver",
+   "orig": "https://www.naeil.com/news/read/608678?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-13T13:04+09:00",
+   "cat": "law",
+   "id": "20155754fcba",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "“안전환경은 타협 없는 기본 가치”",
+   "summary": "금호석유화학은 스마트 기술을 활용한 현장 안전관리를 확대하고 있다. 지능형 CCTV와 스마트 에어백, 스마트 안전모, 가상현실(VR) 안전교육 장비 등을 도입했다. 또 작업 전 위험요인을 확인하는 TBM 활동의 표준과 교육...",
+   "url": "https://www.naeil.com/news/read/608717?ref=naver",
+   "orig": "https://www.naeil.com/news/read/608717?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-13T13:04+09:00",
+   "cat": "tech",
+   "id": "6bdb0bab9b57",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "근로복지공단 노동자 뿔났다…26일 총파업 예고",
+   "summary": "업무상질병판정위원회 설치에 따라 2008년 증원된 인력 71명의 인건비 역시 별도 재원 없이 기존 인건비에서 충당하고 있다고 주장했다. 노조에 따르면 의사 직군을 제외한 직원 임금 수준은 비교 대상 공공기관 88곳...",
+   "url": "https://www.naeil.com/news/read/608643?ref=naver",
+   "orig": "https://www.naeil.com/news/read/608643?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-13T13:02+09:00",
+   "cat": "hlt",
+   "id": "9e999a1ea9cd",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[오늘, 서울시의회] 윤선희 의원 “예술인 보호한다더니 산재 배제 검토...",
+   "summary": "하면 산재를 적용시키지 않고 추가 보상을 원천 차단할 수 있을지를 골몰하고 있었던 것”이라고 비판했다.... 이 때문에 안씨의 사망 이후 결재된 2026년 안전보건관리 기본계획에도 최근 2년간 산업재해 발생 건수가...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002723147?sid=100",
+   "orig": "https://biz.heraldcorp.com/article/10936283?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-13T12:59+09:00",
+   "cat": "hlt",
+   "id": "02ec37e3350d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "평창군시설관리공단, 고객서비스·안전보건 경영 실천 다짐",
+   "summary": "이를 바탕으로 현장의 유해·위험요인을 적극 발굴하고 실효성 있는 위험 감소 대책을 추진해 안전보건경영체계를 강화할 계획이다. 최순철 이사장은 \"고객서비스헌장은 군민과 고객에게 드리는 약속이며 안전은 공단...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491887",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2491887",
+   "source": "이뉴스투데이",
+   "published": "2026-11-13T12:35+09:00",
+   "cat": "tech",
+   "id": "b35f7903ee3d",
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://gw.newdaily.co.kr/site/data/html/2026/11/13/2026111300151.html",
+     "orig": "https://gw.newdaily.co.kr/site/data/html/2026/11/13/2026111300151.html",
+     "title": "[포토뉴스] 평창군시설관리공단, 안전보건 경영방침 개정·선포"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "JDC·캠코, 제주 첨단단지 안전점검… 감사 협력 현장 확대",
+   "summary": "2단지 건설현장을 방문해 캠코 관계자들과 주요 공정의 안전관리 실태를 점검했다. 이번 점검은 지난 9월... 감사인력 상호 파견과 공동·교차감사, 감사정보 교환, 인공지능(AI) 감사기법 도입, 내부통제 강화 등에...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005603927?sid=102",
+   "orig": "https://www.fnnews.com/news/202611131219277341",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-13T12:25+09:00",
+   "cat": "tech",
+   "id": "92d014fd342e",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
   {
    "title": "[주은영의 전지적 산재 시점] 산재 요양 이후 장해급여와 장해심사",
    "summary": "'산업재해보상보험법' 제5조에서는 장해를 업무상 부상이나 질병이 치유됐으나 정신적 또는 육체적 훼손으로 노동능력이 상실되거나 감소된 상태로 정의하고 있다. 쉽게 말해 산재 치료가 끝난 후에도 신체 기능이 완전히...",
@@ -243,7 +815,26 @@
    "published": "2026-11-13T11:37+09:00",
    "cat": "acc",
    "id": "ec13932fcf15",
-   "related": [],
+   "related": [
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012293370?sid=102",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8712188&ref=A",
+     "title": "용인 주유소 신축 현장 지붕 작업하던 노동자 8m 아래 추락사"
+    },
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004209546?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6606561?utm_source=naver&utm_medium=article&utm_campaign=20261113134321",
+     "title": "주유소 신축 현장서 지붕 작업하다 8m 추락…노동자 숨져"
+    },
+    {
+     "source": "ifm.kr",
+     "url": "https://news.ifm.kr/news/articleView.html?idxno=484345",
+     "orig": "https://news.ifm.kr/news/articleView.html?idxno=484345",
+     "title": "용인 주유소 신축 현장서 8m 추락…일용직 노동자 사망"
+    }
+   ],
    "day": "2026-11-13",
    "watch": []
   },
@@ -450,6 +1041,12 @@
      "url": "http://www.ttlnews.com/news/articleView.html?idxno=3162155",
      "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3162155",
      "title": "반도건설, 동탄2신도시서 소장단회의 개최… 안전·시공·CS 관리 역량 강..."
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003154903?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1714703/?sc=Naver",
+     "title": "반도건설, '소장단회의' 개최…안전·시공·CS 경쟁력 강화"
     }
    ],
    "day": "2026-11-13",
@@ -593,6 +1190,24 @@
      "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101208",
      "orig": "https://www.newsian.co.kr/news/articleView.html?idxno=101208",
      "title": "반도건설, 전국 현장소장단회의 개최…'8년 연속 중대재해 제로' 정진"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261113000871",
+     "orig": "https://www.newspim.com/news/view/20261113000871",
+     "title": "반도건설, 전국 현장소장단 회의 개최…'8년 연속 중대재해 제로' 총력"
+    },
+    {
+     "source": "포인트데일리",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325916",
+     "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325916",
+     "title": "반도건설, 현장 안전·품질 관리기준 통일…8년 연속 중대재해 제로 추..."
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611131357302957205868f676_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611131357302957205868f676_30",
+     "title": "반도건설, 8년 연속 중대재해 제로 목표...혹한기 현장 안전점검 강화"
     }
    ],
    "day": "2026-11-13",
@@ -607,7 +1222,20 @@
    "published": "2026-11-13T10:52+09:00",
    "cat": "sev",
    "id": "6ab43c97ce88",
-   "related": [],
+   "related": [
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=919419",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=919419",
+     "title": "용인 주유소 신축 현장서 60대 추정 노동자 추락사"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002432356?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202611131250047519",
+     "title": "용인 주유소 신축 현장서 60대 노동자 추락 사망"
+    }
+   ],
    "day": "2026-11-13",
    "watch": []
   },
@@ -665,6 +1293,18 @@
      "url": "https://n.news.naver.com/mnews/article/082/0001407002?sid=102",
      "orig": "https://www.busan.com/view/busan/view.php?code=2026111311210834204",
      "title": "캠코, 해양경찰청 제주관사 안전점검… 동절기 건설현장 위험요인 사전..."
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=20261113115042498337f21df127_1",
+     "orig": "https://www.g-enews.com/view.php?ud=20261113115042498337f21df127_1",
+     "title": "박성현 캠코 상임감사, 제주 해양경찰청 관사 건설현장 안전점검"
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=2026111313081640109817d053b9_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=2026111313081640109817d053b9_12",
+     "title": "캠코, 제주 해양경찰청 관사 건설현장 동절기 안전점검"
     }
    ],
    "day": "2026-11-13",
@@ -789,6 +1429,19 @@
    "watch": []
   },
   {
+   "title": "작업 중지 무시하더니... 결국 '붕괴' [자막뉴스]",
+   "summary": "캄캄한 밤 조명을 밝힌 채, 공사장을 가득 채운 잔해를 헤치며 수색과 구조 작업을 벌입니다. 아파트와 상가가 들어선 3층짜리 건물이 무너지면서, 잔해 대부분이 인근 공사장 구덩이 안에 쏟아져 내렸습니다. 사고는...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002432365?sid=104",
+   "orig": "https://www.ytn.co.kr/_ln/0134_202611131012154631",
+   "source": "YTN",
+   "published": "2026-11-13T10:12+09:00",
+   "cat": "acc",
+   "id": "61610b7d4eaa",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
    "title": "한국서 숨진 베트남 근로자, 배상금 한국 소득 적용할까? [양원준 변호사...",
    "summary": "그러나 안타깝게도 이들이 작업 중 사고로 사망하거나 중상을 입었을 때 손해배상금이 어떻게 책정되는지... 산재보험급여를 수령했더라도 사업주 등을 상대로 한 민사 손해배상 청구는 별도로 가능하다. 이때 동일한...",
    "url": "https://www.insidevina.com/news/articleView.html?idxno=44498",
@@ -810,7 +1463,110 @@
    "published": "2026-11-13T09:59+09:00",
    "cat": "tech",
    "id": "3ee563d1c62d",
-   "related": [],
+   "related": [
+    {
+     "source": "inthenews.co.kr",
+     "url": "https://www.inthenews.co.kr/news/article.html?no=94482",
+     "orig": "https://www.inthenews.co.kr/news/article.html?no=94482",
+     "title": "KT, ‘대한민국 인터넷대상’ 국무총리상 수상…통신시설 안전관리 혁신..."
+    },
+    {
+     "source": "nextdaily.co.kr",
+     "url": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254880",
+     "orig": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254880",
+     "title": "KT, 'AI·데이터 기반 통신시설 안전관리'로 인터넷대상 국무총리상 수..."
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009287850?sid=105",
+     "orig": "https://www.news1.kr/it-science/cc-newmedia/6352911",
+     "title": "\"AI로 안전관리 혁신\"…KT, 인터넷대상 국무총리상 수상"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=563552",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=563552",
+     "title": "KT, 전국 348개 통신시설 'AI 안전관리' 성과…대한민국 인터넷대상 국무..."
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=727836",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=727836",
+     "title": "KT, 대한민국 인터넷대상 '국무총리상' 수상…AI 기반 안전관리 체계 인..."
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424824",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1424824",
+     "title": "KT, 대한민국 인터넷대상 수상…AI 기반 안전관리 혁신 인정"
+    },
+    {
+     "source": "worktoday.co.kr",
+     "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=91945",
+     "orig": "http://www.worktoday.co.kr/news/articleView.html?idxno=91945",
+     "title": "KT, 인터넷대상 국무총리상 수상 … AI·데이터로 통신시설 안전관리 혁..."
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503755",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=503755",
+     "title": "KT, '대한민국 인터넷대상' 국무총리상...AI 기반 통신시설 안전관리 성..."
+    },
+    {
+     "source": "newsquest.co.kr",
+     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=304933",
+     "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=304933",
+     "title": "KT, AI로 통신시설 사고 예방…대한민국 인터넷대상 국무총리상"
+    },
+    {
+     "source": "pointe.co.kr",
+     "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87690",
+     "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=87690",
+     "title": "KT, AI 통신시설 안전관리로 '대한민국 인터넷대상' 국무총리상 수상"
+    },
+    {
+     "source": "businessplus.kr",
+     "url": "https://www.businessplus.kr/news/articleView.html?idxno=119818",
+     "orig": "https://www.businessplus.kr/news/articleView.html?idxno=119818",
+     "title": "KT, AI·데이터 기반 통신시설 안전관리 성과…대한민국 인터넷대상 국..."
+    },
+    {
+     "source": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715176",
+     "orig": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=715176",
+     "title": "KT, 대한민국 인터넷대상 국무총리상…디지털 안전관리 혁신 인정"
+    },
+    {
+     "source": "thebigdata.co.kr",
+     "url": "https://www.thebigdata.co.kr/view.php?ud=2026111309192588680ecbf9426b_23",
+     "orig": "https://www.thebigdata.co.kr/view.php?ud=2026111309192588680ecbf9426b_23",
+     "title": "KT, AI·데이터로 통신시설 안전관리 혁신…대한민국 인터넷대상 국무총..."
+    },
+    {
+     "source": "gokorea.kr",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=885439",
+     "orig": "https://www.gokorea.kr/news/articleView.html?idxno=885439",
+     "title": "KT, 대한민국 인터넷대상 국무총리상 수상…AI 기반 시설 안전관리 성과..."
+    },
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006409475?sid=105",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=03568646645645392&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "KT, AI·데이터로 통신빌딩 안전관리 혁신…‘인터넷대상’ 국무총리상"
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2647809",
+     "orig": "https://www.etoday.co.kr/news/view/2647809",
+     "title": "KT, 인터넷대상 국무총리상 수상…AI·데이터 기반 통신시설 안전관리 ..."
+    },
+    {
+     "source": "비즈니스포스트",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=451954",
+     "orig": "https://www.businesspost.co.kr/BP?command=article_view&num=451954",
+     "title": "KT 대한민국 인터넷대상 국무총리상 수상, AI 기반 안전관리 혁신 성과..."
+    }
+   ],
    "day": "2026-11-13",
    "watch": []
   },
@@ -914,7 +1670,14 @@
    "published": "2026-11-13T09:16+09:00",
    "cat": "law",
    "id": "2640ebb6c80a",
-   "related": [],
+   "related": [
+    {
+     "source": "hg-times.com",
+     "url": "https://www.hg-times.com/news/articleView.html?idxno=307005",
+     "orig": "https://www.hg-times.com/news/articleView.html?idxno=307005",
+     "title": "윤선희 시의원 \"세종문화회관, 로펌에 사고 예술인 산재 적용 배제 법률..."
+    }
+   ],
    "day": "2026-11-13",
    "watch": []
   },
@@ -966,7 +1729,14 @@
    "published": "2026-11-13T09:01+09:00",
    "cat": "hlt",
    "id": "9df449cfafa9",
-   "related": [],
+   "related": [
+    {
+     "source": "정책브리핑",
+     "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975678&call_from=naver_news",
+     "orig": "https://www.korea.kr/briefing/actuallyView.do?newsId=148975678&call_from=naver_news",
+     "title": "[사실은 이렇습니다] [보도설명자료] 「폭염 이어 한파도…노동자 보호..."
+    }
+   ],
    "day": "2026-11-13",
    "watch": []
   },
@@ -1340,6 +2110,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=563593",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=563593",
      "title": "뉴욕 브루클린 건물 붕괴 사망자 8명...어린이 2명 포함"
+    },
+    {
+     "source": "koreadaily.com",
+     "url": "https://www.koreadaily.com/article/20261112210713283",
+     "orig": "https://www.koreadaily.com/article/20261112210713283",
+     "title": "브루클린 건물 붕괴로 최소 8명 사망"
     }
    ],
    "day": "2026-11-13",
@@ -1749,7 +2525,14 @@
    "published": "2026-11-12T19:14+09:00",
    "cat": "sev",
    "id": "620c68eaa4f9",
-   "related": [],
+   "related": [
+    {
+     "source": "jibs.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/661/0000086564?sid=102",
+     "orig": "https://www.jibs.co.kr/news/articles/articlesDetail/67576?feed=na",
+     "title": "잠수사 사망사고.. \"제주 앞바다 해상발사 중단 촉구\""
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
@@ -2500,6 +3283,12 @@
      "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424705",
      "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1424705",
      "title": "코카콜라, 창원물류센터서 추락 사고…공사업체 근로자 1명 사망"
+    },
+    {
+     "source": "뉴스저널리즘",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=555874",
+     "orig": "https://www.ngetnews.com/news/articleView.html?idxno=555874",
+     "title": "코카콜라음료, 창원 물류센터서 노동자 1명 '추락사'"
     }
    ],
    "day": "2026-11-12",
@@ -3038,7 +3827,14 @@
    "published": "2026-11-12T15:02+09:00",
    "cat": "tech",
    "id": "d6023ef774d6",
-   "related": [],
+   "related": [
+    {
+     "source": "babytimes.co.kr",
+     "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74660",
+     "orig": "http://www.babytimes.co.kr/news/articleView.html?idxno=74660",
+     "title": "금호석유화학그룹, 안전 경영으로 지속가능성장 토대 다진다"
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
