@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-13T00:55+09:00",
+ "updatedAt": "2026-11-13T12:23+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,16 +25,1326 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "56fe08e696d7",
-   "title": "동서발전 \"안전 최우선 가치\" 전문인력 육성",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072433",
-   "source": "경상일보",
+   "id": "80541bbd3549",
+   "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함",
+   "url": "https://n.news.naver.com/mnews/article/001/0016439571?sid=104",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-11-13",
+   "count": 6
+  },
+  {
+   "id": "bde1155cffeb",
+   "title": "내달 2~15일 ICAO 항공안전평가…범정부, 막판 총력 대응",
+   "url": "https://n.news.naver.com/mnews/article/003/0014320378?sid=101",
+   "source": "뉴시스",
+   "cat": "law",
+   "day": "2026-11-13",
+   "count": 4
+  },
+  {
+   "id": "c7a9545bd360",
+   "title": "노동부 \"작업장 한랭질환 조심\"…취약사업장 3만여곳 집중관리",
+   "url": "https://n.news.naver.com/mnews/article/001/0016439788?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-11-13",
+   "count": 4
+  },
+  {
+   "id": "44f06cdc7410",
+   "title": "반도건설, 전국 소장단회의…안전·시공·CS 관리 기준 공유",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420807",
+   "source": "bizwork.co.kr",
    "cat": "tech",
    "day": "2026-11-13",
-   "count": 1
+   "count": 3
+  },
+  {
+   "id": "8b8de21226c9",
+   "title": "부산시, 겨울철 대설·한파 우려지역 489곳 집중관리…제설제 1042톤 확보",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287071?sid=102",
+   "source": "뉴스1",
+   "cat": "tech",
+   "day": "2026-11-13",
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "[주은영의 전지적 산재 시점] 산재 요양 이후 장해급여와 장해심사",
+   "summary": "'산업재해보상보험법' 제5조에서는 장해를 업무상 부상이나 질병이 치유됐으나 정신적 또는 육체적 훼손으로 노동능력이 상실되거나 감소된 상태로 정의하고 있다. 쉽게 말해 산재 치료가 끝난 후에도 신체 기능이 완전히...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=754875",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=754875",
+   "source": "프라임경제",
+   "published": "2026-11-13T12:18+09:00",
+   "cat": "hlt",
+   "id": "b5475d5c690b",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "반도건설 '8년 연속 중대재해 ZERO' 달성 박차·계양신도시 '카이브 유보...",
+   "summary": "안전사고 예방을 위한 현장 관리체계를 다시 한번 점검했다. 겨울철 기온 저하와 결빙, 강풍 등으로 인해 작업환경이 변화하는 혹한기를 앞두고 현장별 위험요인을 사전에 파악하고 개선하는 예방 중심의 안전관리를...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=321715",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=321715",
+   "source": "wsobi.com",
+   "published": "2026-11-13T12:14+09:00",
+   "cat": "tech",
+   "id": "56e16dc4a449",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "‘해상발사’ 준비 다이버 사망에…시민사회 “진상 규명·책임자 처벌...",
+   "summary": "제주 앞바다에서 고체연료 추진 우주발사체 4차 시험발사를 준비하던 50대 스쿠버다이버가 숨진 사고와... 인양 작업을 하던 다이버 노동자의 사망 소식에 비통함을 금할 수가 없다”며 해상발사를 추진한 군 당국과 한화...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002832077?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/jeju/1287196.html",
+   "source": "한겨레",
+   "published": "2026-11-13T12:12+09:00",
+   "cat": "sev",
+   "id": "a6174ff05c19",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "대웅제약 '씽크', 세란병원 일반병동 안착… AI 기반 입원환자 안전관리...",
+   "summary": "관리까지 스마트 의료체계를 넓히게 됐다. 홍광표 세란병원장은 \"환자 안전과 진료의 질을 높이는 AI·디지털 기술을 적극 도입하고 있다\"며 \"씽크를 통해 병동 환자 관리 체계를 한층 강화하고 안전한 의료환경을...",
+   "url": "http://www.bokuennews.com/news/article.html?no=287165",
+   "orig": "http://www.bokuennews.com/news/article.html?no=287165",
+   "source": "bokuennews.com",
+   "published": "2026-11-13T12:06+09:00",
+   "cat": "tech",
+   "id": "0a21b1632844",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "논산시, '안전사고 예방·경영비 절감'... 농기계 실습 교육",
+   "summary": "교육은 오는 18일 광석면 스마트농업단지 내 농업기계 실습교육장에서 오전 9시 30분과 오후 2시 등 하루 두... 농업기술센터 관계자는 \"농업기계 안전사용 현장실습 교육은 다른 교육보다 농업인들의 만족도가 높고, 한번...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513897",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=513897",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-13T12:06+09:00",
+   "cat": "tech",
+   "id": "d66ea59d10fd",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[아유경제_사회] 노무법인 권리, 산재 사망 유족 대상 유족보상 무료 상...",
+   "summary": "노무법인 권리는 산재 사망 사건에 대한 초기 상담을 통해 산재 인정 가능성, 주요 입증자료, 유족급여 청구 절차 및 불승인 시 대응 방향 등을 안내할 예정이다. 구체적인 상담은 전화로 문의하면 된다. <산재 유족보상 무료...",
+   "url": "http://www.areyou.co.kr/news/articleView.html?idxno=96307",
+   "orig": "http://www.areyou.co.kr/news/articleView.html?idxno=96307",
+   "source": "areyou.co.kr",
+   "published": "2026-11-13T12:00+09:00",
+   "cat": "sev",
+   "id": "fc8656e8e522",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "경산시, 화학안전공동체와 손잡고 화학사고 현장 대응능력 강화",
+   "summary": "이 중 약 50L가 우수관로를 통해 도심 하천인 남천으로 유입된 복합 재난 상황을 가정해 실전처럼 전개됐다.... 방제 작업 △회수된 폐유 및 오염 방재물품의 안전한 수거·처리 절차 △사고 지점 하류 수질 오염 확산 여부...",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=768981",
+   "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=768981",
+   "source": "더쎈뉴스",
+   "published": "2026-11-13T11:54+09:00",
+   "cat": "acc",
+   "id": "7290e677f216",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KCC·HD현대중공업, 대한민국색채대상 그린상 수상…산업현장 안전환경...",
+   "summary": "KCC는 산업현장의 시각적 안전환경 개선을 위해 안전보건공단과 업무협약을 체결했으며, '2026 국제안전보건전시회'에도 참가하는 등 안전환경디자인 관련 활동을 이어가고 있다. 이와 함께 컬러디자인센터에 업계...",
+   "url": "https://www.intn.co.kr/news/articleView.html?idxno=3000208",
+   "orig": "https://www.intn.co.kr/news/articleView.html?idxno=3000208",
+   "source": "intn.co.kr",
+   "published": "2026-11-13T11:54+09:00",
+   "cat": "tech",
+   "id": "409c98d60161",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "용인 주유소 신축 공사장서 60대 노동자 8m 추락해 사망",
+   "summary": "이 사고로 A씨는 중상을 입고 출동한 소방당국에 의해 병원으로 이송됐으나 결국 사망했다. 다만 해당 사업장은 공사 금액이 10억 미만으로 ▲상시 근로자 5인 이상 ▲공사 금액 50억 이상에 해당하는 중대재해처벌법...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000131910?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261113580187",
+   "source": "kyeonggi.com",
+   "published": "2026-11-13T11:52+09:00",
+   "cat": "sev",
+   "id": "f0183bc5104b",
+   "related": [
+    {
+     "source": "경인일보",
+     "url": "https://www.kyeongin.com/article/1774708",
+     "orig": "https://www.kyeongin.com/article/1774708",
+     "title": "용인 주유소 신축 공사 현장에서 60대 노동자 추락사"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "영덕·울진국유림관리소, 숲가꾸기 체험 및 벌목현장 안전점검",
+   "summary": "대구지방고용노동청, 산업안전보건공단과 합동 안전점검을 실시했다. 이번 점검은 최근 경북지역에서... 계기로 삼겠다\"며 \"상호 협력을 통한 철저한 사업장 관리·감독으로 더욱 안전한 작업환경을 조성하겠다\"고 밝혔다.",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=729236",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=729236",
+   "source": "경북도민일보",
+   "published": "2026-11-13T11:48+09:00",
+   "cat": "tech",
+   "id": "c1a9952ed03f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "\"공항 경비업체 인원 2000명 넘는데… 보건관리자 선임 및 예산 지원 안...",
+   "summary": "이들은 현행 산업안전보건법 시행령 상으로 보건관리자 선임 의무 대상 업종서 제외돼 있다. 이들의 관리를... 질의자는 고용노동부 측을 향해 \"근로감독관들이 현장에 오면 안전관리자와 보건관리자들만 부른다....",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251554",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251554",
+   "source": "안전신문",
+   "published": "2026-11-13T11:46+09:00",
+   "cat": "law",
+   "id": "55119bd38d01",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "가스안전공사, 국가 첨단산업 경쟁력 강화 전폭 지원",
+   "summary": "이어 조 부사장은 가스안전공사 충북본부를 방문해 '경영 현안 공유를 위한 찾아가는 정기조회'에 참석했다. 이는 '윤리·청렴 실천 결의대회'를 진행하기 위함으로 이번 행사를 통해 가스안전공사 임직원은 국민 신뢰를...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305514",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305514",
+   "source": "투데이에너지",
+   "published": "2026-11-13T11:38+09:00",
+   "cat": "tech",
+   "id": "f7816146f9dc",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "용인 주유소 신축 현장 지붕 작업하던 노동자 8m 아래 추락사",
+   "summary": "A씨는 주유소 지붕(캐노피) 위에서 아래쪽 작업자들이 올려주는 지붕 패널을 받아 설치하는 작업을 하던 중 완전히 고정되지 않은 패널 위를 이동하다가 미끄러져 중심을 잃고 추락한 것으로 조사됐다. 경찰은 인근 차량...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016440411?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261113083000061?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T11:37+09:00",
+   "cat": "acc",
+   "id": "ec13932fcf15",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "캠코, 2027년 준공 앞둔 '해경제주관사' 안전점검 실시",
+   "summary": "마감 공사 과정에서 발생할 수 있는 추락과 낙하 위험요인도 집중적으로 살폈다. 또한 현장 근로자와 소통하며 작업환경 애로사항을 청취하고 철저한 안전관리를 당부했다. 박 상임감사는 건설 현장에서 근로자의 생명과...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883016",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=883016",
+   "source": "한스경제",
+   "published": "2026-11-13T11:34+09:00",
+   "cat": "law",
+   "id": "ee2b24a814d3",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[13일 용인시] 겨울철 한파·폭설 대비 재난안전대책 가동 등",
+   "summary": "사고 다발구간과 터널·교량 진출입로 등 교통 취약지역을 중점 관리하고 농촌과 산간지역의 마을 진입로는... 제설구역을 전면 재조사해 작업 구간을 현행화하고, 구간별 여건에 맞는 장비와 자재도 사전에 확보할...",
+   "url": "https://www.asiatime.co.kr/article/20261113500125",
+   "orig": "https://www.asiatime.co.kr/article/20261113500125",
+   "source": "asiatime.co.kr",
+   "published": "2026-11-13T11:34+09:00",
+   "cat": "law",
+   "id": "ada80816e2bc",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "도로공사, ACC 켜고 달리다 올해 8명 숨져… 도로공사 \"보조수단일 뿐\"",
+   "summary": "사용 중 일어난 사고로 15명이 숨졌다. 연도별로는 2023년 2명, 2024년 11명, 2025년 2명으로 연평균 5명이다.... 관련 사고가 잇따랐다. 남해선 순천나들목 부근에서는 유지보수 작업을 위해 1차로에 정차한 안전관리...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3448444",
+   "orig": "https://www.newscj.com/news/articleView.html?idxno=3448444",
+   "source": "천지일보",
+   "published": "2026-11-13T11:34+09:00",
+   "cat": "sev",
+   "id": "465ac29add68",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "부산시, 겨울철 자연재난 총력 대응···제설·한파 대책 본격화",
+   "summary": "행정안전부의 중앙·지방 합동 점검 직후 이어지는 이번 회의에는 16개 구·군과 경찰·소방, 공사·공단, 부산지방고용노동청, 한국산업안전보건공단 부산광역본부 등 유관기관 관계자 및 한파쉼터 협력기관인...",
+   "url": "https://www.pointe.co.kr/news/articleView.html?idxno=87704",
+   "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=87704",
+   "source": "pointe.co.kr",
+   "published": "2026-11-13T11:34+09:00",
+   "cat": "tech",
+   "id": "ed67d8483d13",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "제주 시민단체 \"우주발사체 다이버 사망 진상규명하라...해상 발사 즉각...",
+   "summary": "지난 10일 고체추진우주발사체 바지선 수중 작업 중 50대 다이버가 숨진 사건이 발생한 가운데, 제주도내... 이어 \"사고가 난 곳은 마라도에서 서쪽으로 5km 지점으로, 발사대가 보이는 강정에서는 20km 이상 떨어진 곳이다....",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602090",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602090",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-11-13T11:28+09:00",
+   "cat": "sev",
+   "id": "e342c806206c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "용인 주유소 신축현장서 8m 아래로 떨어진 60대 숨져…경찰 수사(종합)",
+   "summary": "13일 오전 8시 13분께 경기 용인시 기흥구 언남동 한 주유소 신축 현장에서 60대 남성 근로자 A 씨가 8m 아래로 추락했다. 경찰에 따르면 그는 심정지 상태에 빠져 심폐소생술(CPR) 등 응급처치를 받으며 인근 병원으로...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287671?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6353152",
+   "source": "뉴스1",
+   "published": "2026-11-13T11:27+09:00",
+   "cat": "sev",
+   "id": "868ca8b8788d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "김해시, 27일까지 외국인 계절근로자 임금·숙소·안전 점검",
+   "summary": "조규범 김해시 농업기술센터소장은 \"외국인 계절근로자는 농촌 인력난 해소에 중요한 역할을 하고 있다\"며 \"철저한 현장 점검과 사후관리를 통해 근로자의 권익과 안전을 보호하고, 농가에서도 안심하고 인력을 운영할 수...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=721829",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=721829",
+   "source": "newstown.co.kr",
+   "published": "2026-11-13T11:23+09:00",
+   "cat": "tech",
+   "id": "c34722681e2c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "용인 공사장 캐노피 위에서 작업하다 60대 추락사",
+   "summary": "13일 오전 8시13분께 경기 용인시 기흥구 언남동 한 공사장에서 60대 작업자가 추락 사망하는 사고가 났다. A씨는 주유소 신축 공사장 내 캐노피 위에서 작업을 하다가 추락한 것으로 전해졌다. 심정지 상태로 구조된...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014320481?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261113_0003866959",
+   "source": "뉴시스",
+   "published": "2026-11-13T11:22+09:00",
+   "cat": "acc",
+   "id": "eea93415a72c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "안전관리자 대체 뭐했나..코카콜라 창원물류센터서 지붕 보수 노동자 추...",
+   "summary": "13일 금융감독원 전자공시시스템에 따르면 LG생활건강은 전날 종속회사 코카콜라음료의 창원물류센터에서 노동자 1명이 사망하는 중대재해가 발생했다고 공시했다. 사고는 지난 11일 경남 김해시에 있는 해당...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513908",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=513908",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-13T11:12+09:00",
+   "cat": "law",
+   "id": "76fc40d9e8a7",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "소형LPG탱크 안전변 분출량 산정기준 신설…가스보일러 열량변경 허용",
+   "summary": "설명서에는 작업 시 주의사항을 기재하도록 했다. 다만 새로운 기준이 현장에 정착하고 안전관리체계가... 기존 평가 상세기준 가운데 유사한 항목은 통합하고 분야별로 중복 적용하던 가스사고 관련 평가는 가스사고...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229762",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229762",
+   "source": "에너지신문",
+   "published": "2026-11-13T11:12+09:00",
+   "cat": "law",
+   "id": "81ba61924786",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "도시가스 안전관리수준평가 전면 개편된다",
+   "summary": "평가사항이 유사한 상세기준은 하나로 통합하고, 각 평가 분야에 중복 반영됐던 사고 관련 평가항목은... 제조사 설명서에도 열량변경 작업 시 주의사항을 기재해야 한다. 관련 기준에는 관리체계 구축 등을 고려해...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127674",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127674",
+   "source": "가스신문",
+   "published": "2026-11-13T11:10+09:00",
+   "cat": "law",
+   "id": "f9b265f0370c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "금천구의회 도병두 의원, 플랫폼 노동자 지원 조례가 ‘배달 플랫폼 산...",
+   "summary": "수립되고 보건복지부 협의 완료와 예산안 편성까지 이어지면서, 지방의회의 입법활동이 실질적인 정책으로 연결되는 과정을 보여준 것이다. 배달플랫폼 종사자는 업무 특성상 교통사고 등 산업재해 위험에 노출되기 쉬운...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003699098?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/seoul_local/focus_seoul/2026/11/13/20261113500110?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-13T11:09+09:00",
+   "cat": "law",
+   "id": "d3b80cccb13a",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "임규호 시의원, 교통공사, 철도 준사고 보고 누락…국토부 시정명령에도...",
+   "summary": "임 의원은 \"정부의 시정명령 이후에도 보고 누락이 반복됐다는 것은 공사의 안전관리체계가 제대로 작동하지... 임 의원은 거액의 과징금을 부과받고도 경영진과 감사가 조사 진행 여부조차 일치된 답변을 내놓지...",
+   "url": "https://www.newspim.com/news/view/20261113000603",
+   "orig": "https://www.newspim.com/news/view/20261113000603",
+   "source": "뉴스핌",
+   "published": "2026-11-13T11:07+09:00",
+   "cat": "acc",
+   "id": "3097484b4a89",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "난간 없는 옹벽 위 걷다가…대학교 청소노동자 추락사",
+   "summary": "▲ 부산경찰청 부산의 한 대학교에서 청소노동자가 난간이 없는 4.5m 높이 옹벽에서 추락해 숨지는 사고가... 노동청 관계자는 \"B 씨가 소속된 용역업체는 상시 근로자 5인 이상으로 중처법 등 적용 대상\"이라며...",
+   "url": "https://n.news.naver.com/mnews/article/055/0001402793?sid=102",
+   "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008844520&plink=ORI&cooper=NAVER",
+   "source": "SBS",
+   "published": "2026-11-13T11:06+09:00",
+   "cat": "acc",
+   "id": "ee7ba933da47",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "반도건설, 전국 소장단회의…안전·시공·CS 관리 기준 공유",
+   "summary": "겨울철 사고 예방과 하자 대응, 시공 전문성을 함께 강화하는 취지다. 반도건설은 13일 경기 화성시 동탄역... 작업 전·중 안전점검과 위험 발견 시 즉시 대응하는 현장 대응체계를 강화하기로 했다. 2019년부터 7년 연속...",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420807",
+   "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=420807",
+   "source": "bizwork.co.kr",
+   "published": "2026-11-13T11:06+09:00",
+   "cat": "tech",
+   "id": "44f06cdc7410",
+   "related": [
+    {
+     "source": "tfmedia.co.kr",
+     "url": "https://www.tfmedia.co.kr/news/article.html?no=208865",
+     "orig": "https://www.tfmedia.co.kr/news/article.html?no=208865",
+     "title": "반도건설, 전국 현장소장단 회의 개최…안전·시공·CS 관리 강화"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3162155",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3162155",
+     "title": "반도건설, 동탄2신도시서 소장단회의 개최… 안전·시공·CS 관리 역량 강..."
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "반도건설, 현장 관리체계 재정비…중대재해 8년 연속 '제로' 도전",
+   "summary": "기온 하락과 결빙, 강풍 등 계절적 요인으로 작업 여건이 달라지는 시기인 만큼 작업 전·중 점검을 강화하고, 위험요인을 발견하면 즉시 개선하는 대응체계를 갖추기로 했다. 사고 유형과 대응 방안, 안전관리 우수사례도...",
+   "url": "https://www.mediapen.com/news/view/1137293",
+   "orig": "https://www.mediapen.com/news/view/1137293",
+   "source": "미디어펜",
+   "published": "2026-11-13T11:06+09:00",
+   "cat": "law",
+   "id": "a6e608e75434",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "정부, 내달 ICAO 항공안전평가 앞두고 범정부 합동점검",
+   "summary": "평가단은 국토부와 기상청, 소방청, 해양경찰청 등 관계기관과 항공사·공항 등 12개 기관 및 산업계 현장을... 아울러 공항 건설·운영과 안전감독 기능을 분리하기 위해 국토부 본부와 지방항공청에 안전감독...",
+   "url": "https://www.ajunews.com/view/20261113085223995",
+   "orig": "https://www.ajunews.com/view/20261113085223995",
+   "source": "아주경제",
+   "published": "2026-11-13T11:02+09:00",
+   "cat": "law",
+   "id": "9e2240f73353",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "ICAO 항공안전평가 내달 2일부터…정부 수검대책반 전환",
+   "summary": "정부기관과 산업계 현장을 찾아 관련 서류를 검토하고 이행 실태를 확인한다. 평가는 △법령 △조직... 공항을 짓고 운영하는 업무와 안전을 감독하는 기능을 나누기 위해 국토부 본부와 지방항공청에 감독 전담조직을...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004209480?sid=101",
+   "orig": "https://www.nocutnews.co.kr/news/6606349?utm_source=naver&utm_medium=article&utm_campaign=20261113110020",
+   "source": "노컷뉴스",
+   "published": "2026-11-13T11:01+09:00",
+   "cat": "law",
+   "id": "23d993672ed6",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] 김정탁 노동부 과장 \"산업안전 AI 어시스턴트 구축\"",
+   "summary": "제조업 사고사망자는 같은 기간 119명에서 132명으로 13명(10.9%) 늘었다. 김 과장은 업종과 작업 환경에 따라 위험 요인을 세밀하게 파악해야 한다고 설명한다. 김 과장은 이번 강연에서 산재 데이터를 AI로 분석해 고위험...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258814",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258814",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-13T11:00+09:00",
+   "cat": "tech",
+   "id": "a703fafdea05",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "직업건강협회 이복임 회장 \"사고사망 870명 발생할 때 질병으로 1370명 숨...",
+   "summary": "\"지난해 우리 산업현장에서 사고로 사망한 사람은 약 870명입니다. 반면 질병으로 사망한 사람은 이보다 훨씬... 한국직업건강간호협회 이복임 회장은 \"안전과 보건은 산재 예방에 있어서 정말 중요한 양 날개\"라며 \"한쪽...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=202611131017588778be44c0aacd_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=202611131017588778be44c0aacd_30",
+   "source": "비욘드포스트",
+   "published": "2026-11-13T11:00+09:00",
+   "cat": "sev",
+   "id": "865358da696b",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "내달 2~15일 ICAO 항공안전평가…범정부, 막판 총력 대응",
+   "summary": "평가 결과는 국가 신인도와 항공산업 경쟁력에 직결된다. 이에 따라 정부는 그간 국토부를 중심으로 21개... 공항 건설·운영 업무에서 안전감독 기능을 분리하기 위해 국토부 2차관 소속 항공정책실과 지방항공청에...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014320378?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261113_0003866439",
+   "source": "뉴시스",
+   "published": "2026-11-13T11:00+09:00",
+   "cat": "law",
+   "id": "bde1155cffeb",
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003485372?sid=101",
+     "orig": "https://www.etnews.com/20261113000060",
+     "title": "ICAO 항공안전평가 내달 2일 시작…정부, 21개 기관 총력 대응"
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002723026?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10935896?ref=naver",
+     "title": "ICAO 항공안전평가 앞두고 범정부 대응 ‘총력’"
+    },
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420808",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=420808",
+     "title": "ICAO 항공안전평가 12월 2일 시작…범정부 총력 대응 나서"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "ICAO 항공안전평가 D-19…정부, 21개 기관 총동원",
+   "summary": "단순한 법령 정비 수준을 넘어 정부의 안전감독 역량과 항공산업 전반의 안전관리 실태를 종합적으로 평가한다. 이번 평가는 다음달 2일부터 15일까지 2주간 진행된다. ICAO 평가단은 국토부, 기상청, 소방청, 해양경찰청...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005603879?sid=101",
+   "orig": "https://www.fnnews.com/news/202611130842272396",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-13T11:00+09:00",
+   "cat": "law",
+   "id": "2dac3bcf9ca3",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "ICAO 항공안전평가 앞두고 감독체계 개편…공항 안전감독 분리 추진",
+   "summary": "공항 안전감독 기능 분리와 관제 기능 일원화 등 항공안전 감독체계 개편을 추진한다. 13일 국토교통부에... 평가단은 12개 정부기관과 주요 항공사·공항 등 산업계 현장을 방문해 관련 서류와 현장 이행 실태를...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287574?sid=101",
+   "orig": "https://www.news1.kr/realestate/general/6353068",
+   "source": "뉴스1",
+   "published": "2026-11-13T11:00+09:00",
+   "cat": "law",
+   "id": "5f9bff1a776f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "반도건설, 현장소장 회의서 품질·안전 점검… 8년 연속 중대재해 제로...",
+   "summary": "다가오는 혹한기를 대비한 선제적인 안전보건경영 체계 점검도 주요 의제로 다뤄졌다. 지난 2019년부터 7년 연속 중대재해 제로(0)를 유지 중인 반도건설은 올해 '8년 연속 무재해' 달성을 목표로, 겨울철 결빙과 강풍 등에...",
+   "url": "http://www.newsdream.kr/news/articleView.html?idxno=122125",
+   "orig": "http://www.newsdream.kr/news/articleView.html?idxno=122125",
+   "source": "newsdream.kr",
+   "published": "2026-11-13T10:58+09:00",
+   "cat": "tech",
+   "id": "c00b1a53dd08",
+   "related": [
+    {
+     "source": "뉴시안",
+     "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101208",
+     "orig": "https://www.newsian.co.kr/news/articleView.html?idxno=101208",
+     "title": "반도건설, 전국 현장소장단회의 개최…'8년 연속 중대재해 제로' 정진"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "용인 주유소 신축 현장서 작업 중 남성 근로자 추락 사망",
+   "summary": "13일 오전 8시 13분께 경기 용인시 기흥구 언남동 한 주유소 신축 현장에서 작업 중이던 남성 근로자 A 씨가 추락해 숨졌다. 현재까지 A 씨의 정확한 신원은 확인되지 않고 있으나 40~50대로 추정된다고 경찰은 전했다....",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287555?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6353077",
+   "source": "뉴스1",
+   "published": "2026-11-13T10:52+09:00",
+   "cat": "sev",
+   "id": "6ab43c97ce88",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한세예스24그룹, 2026 ESG평가서 상장 3사 통합 A등급 획득",
+   "summary": "안전보건∙인권 관리 체계를 고도화하며 경영 투명성을 대폭 강화했다. 아울러 버커루, 모이몰른 등 주요... 사회 부문에서는 지난해 산업재해와 중대재해가 한 건도 발생하지 않았고 3년 연속 제품 리콜 0건을...",
+   "url": "https://www.ajunews.com/view/20261113104716484",
+   "orig": "https://www.ajunews.com/view/20261113104716484",
+   "source": "아주경제",
+   "published": "2026-11-13T10:52+09:00",
+   "cat": "tech",
+   "id": "335ef33901fc",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "인권 존중·안전한 금융...카뱅, ESG 평가 3년 연속 A등급",
+   "summary": "여기에 인터넷전문은행 중 처음으로 2024년 취득한 국제 안전보건경영시스템(ISO 45001) 인증을 계속 보유하면서 금융소비자 보호와 정보보호 시스템을 한층 강화한 점도 높은 평가로 이어졌다. 환경 부문에서는 탄소...",
+   "url": "https://www.insight.co.kr/news/581852",
+   "orig": "https://www.insight.co.kr/news/581852",
+   "source": "인사이트",
+   "published": "2026-11-13T10:52+09:00",
+   "cat": "tech",
+   "id": "05caaa38a9fb",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[단독] 허위검사에 검사원 사망까지… 행안부, 승강기안전기술연구원 제...",
+   "summary": "행안부는 지난해 2월 발생한 연구원 소속 검사원의 사망사고도 이번 행정조치 검토 배경으로 명시했다. 당시... 산재 사고 이후 한국승강기안전공단이 연구원에 사고예방 관련 가점을 부여한 사실도 논란이 됐다....",
+   "url": "https://n.news.naver.com/mnews/article/366/0001204552?sid=102",
+   "orig": "https://biz.chosun.com/topics/topics_social/2026/11/13/YQUNEQDCYBHJNKY66A456PKSX4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-13T10:47+09:00",
+   "cat": "sev",
+   "id": "29162f76591f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "캠코, 해양경찰청 제주관사 건설현장 특별 안전점검",
+   "summary": "박 상임감사는 강풍 등 겨울철 기상 변화에 대비한 안전조치와 화재 예방 실태를 살펴보고, 마감공사 과정에서 발생할 수 있는 추락·낙하 사고 위험요인을 점검했다. 현장 근로자들과 작업환경 관련 애로사항을...",
+   "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206039",
+   "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=206039",
+   "source": "시사온",
+   "published": "2026-11-13T10:46+09:00",
+   "cat": "tech",
+   "id": "cb6d76b25e24",
+   "related": [
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001407002?sid=102",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026111311210834204",
+     "title": "캠코, 해양경찰청 제주관사 안전점검… 동절기 건설현장 위험요인 사전..."
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "윤선희 시의원 \"세종문화회관, 사고 은폐 의혹…예술인 안전 대책 필요...",
+   "summary": "세종문화회관이 지난해 오페라 출연계약서와 관련해 산재보험 적용 배제 방안을 로펌에 자문한 것으로... 10월 사망, 향년 30세) 사건과 관련해 경찰이 회관 직원 전원을 업무상 과실치상 혐의로 검찰에 송치한 때였다. 윤...",
+   "url": "https://www.newspim.com/news/view/20261113000499",
+   "orig": "https://www.newspim.com/news/view/20261113000499",
+   "source": "뉴스핌",
+   "published": "2026-11-13T10:43+09:00",
+   "cat": "acc",
+   "id": "29b4da805a80",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "부산 대학 청소 작업자 4.5ｍ 옹벽서 추락해 사망…노동청 중처법 위반...",
+   "summary": "경찰은 옹벽 주변 안전시설 설치 상태와 관련자들의 업무상 과실 여부를 조사하고 있으며 부산고용노동청도 용역업체와 대학을 대상으로 중대재해처벌법 및 산업안전보건법 위반 여부를 살펴보고 있다.",
+   "url": "https://idsn.co.kr/news/view/1065577117525642",
+   "orig": "https://idsn.co.kr/news/view/1065577117525642",
+   "source": "idsn.co.kr",
+   "published": "2026-11-13T10:42+09:00",
+   "cat": "sev",
+   "id": "1e2b998c91c0",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "이숙자 서울시의원, 건설현장 안전관리 허점 지적…평가·영상기록 개선...",
+   "summary": "반복적으로 안전관리 평가가 저조한 사업장에 대한 감독 강화와 주요 공정의 기록체계 개선을 요구했다. 이... 지난해 제도 이행률은 95%였으나 독산동 산업문화어울림센터와 마곡 16단지 등 일부 공사에서는 반드시...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1424862",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1424862",
+   "source": "한국아이닷컴",
+   "published": "2026-11-13T10:30+09:00",
+   "cat": "law",
+   "id": "f90985b5df4c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "통학로 안전부터 공문서 처리까지 'AI'가 돕는다",
+   "summary": "먼저 안전 분야에서는 학교 방문자 출입과 통학로 안전 정보를 한곳에 모아 관리하는 'AI 학생안전 통합 플랫폼'과 산업안전보건 관련 법령과 점검 일정을 챙겨주는 '학교산업안전 안심봇'이 개발됐다. 행정과 시설...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005603863?sid=102",
+   "orig": "https://www.fnnews.com/news/202611131025283126",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-13T10:28+09:00",
+   "cat": "tech",
+   "id": "f3d58aa96b56",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한국산업인력공단, 고용노동부 공공기관 2026년 11월 브랜드평판 1위",
+   "summary": "고용노동부 공공기관 브랜드평판 2026년 11월 빅데이터 분석결과, 1위 한국산업인력공단 2위... 한국산업안전보건공단, 한국고용노동교육원, 한국고용정보원, 건설근로자공제회, 노사발전재단...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229760",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229760",
+   "source": "에너지신문",
+   "published": "2026-11-13T10:24+09:00",
+   "cat": "law",
+   "id": "3fd80884387e",
+   "related": [
+    {
+     "source": "cbci.co.kr",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=626559",
+     "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=626559",
+     "title": "[브랜드평판] 고용노동부 공공기관 11월 빅데이터…1위 한국산업인력공..."
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "일 맡겼더니 9초 만에 회사 데이터 전소…'AI 비서' 돌발 사고에 안전망...",
+   "summary": "올해 4월 미국 렌터카 업체들이 사용하는 한 소프트웨어 기업에서는 코딩 AI에게 간단한 수정 작업을 맡겼다가 불과 9초 만에 운영 데이터베이스가 전부 삭제되는 사고가 일어났다. 설상가상으로 비상용 백업 데이터마저...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=303638",
+   "orig": "https://www.widedaily.com/news/articleView.html?idxno=303638",
+   "source": "widedaily.com",
+   "published": "2026-11-13T10:22+09:00",
+   "cat": "acc",
+   "id": "b14d5c9343bf",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "대학 청소 작업자 추락사 지점에 난간 없어…중처법 조사",
+   "summary": "인적 드물어 사고 40분 뒤 현장 지나던 학생이 발견 신고 부산의 한 대학교에서 발생한 청소 작업자 추락사와 관련해 사고 현장에 난간이 없었던 것으로 나타났다. 13일 연합뉴스 취재를 종합하면 지난 12일 오전 10시...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016440138?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261113061600051?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T10:21+09:00",
+   "cat": "acc",
+   "id": "3dba13aa7998",
+   "related": [
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000925814?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261113114510AsN",
+     "title": "부산 대학 청소 작업자, 4.5m 추락사…옹벽에 난간 없어"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[기고]\"해양수도 부산 중소기업의 생존 공식, 안전과 사업연속성의 ISO ...",
+   "summary": "작업자는 끼임·추락 위험을 점검하고, 관리자는 침수 시 설비와 원자재를 어떻게 보호할지 확인하며, 경영진은 생산 중단 후 고객 납기를 어떤 순서로 회복할지 결정한다. 인명 구호와 설비 보호, 납기 복구 시나리오가...",
+   "url": "https://www.newspim.com/news/view/20261113000331",
+   "orig": "https://www.newspim.com/news/view/20261113000331",
+   "source": "뉴스핌",
+   "published": "2026-11-13T10:12+09:00",
+   "cat": "hlt",
+   "id": "f0e5d6ea4c79",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한국서 숨진 베트남 근로자, 배상금 한국 소득 적용할까? [양원준 변호사...",
+   "summary": "그러나 안타깝게도 이들이 작업 중 사고로 사망하거나 중상을 입었을 때 손해배상금이 어떻게 책정되는지... 산재보험급여를 수령했더라도 사업주 등을 상대로 한 민사 손해배상 청구는 별도로 가능하다. 이때 동일한...",
+   "url": "https://www.insidevina.com/news/articleView.html?idxno=44498",
+   "orig": "https://www.insidevina.com/news/articleView.html?idxno=44498",
+   "source": "insidevina.com",
+   "published": "2026-11-13T10:06+09:00",
+   "cat": "sev",
+   "id": "ba97e0a3508f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "KT, ‘대한민국 인터넷대상’ 국무총리상…AI·데이터 활용 안전관리 성...",
+   "summary": "이 중 317개에는 교환·전송 등 주요 통신설비가 설치돼 있다. 전체 건물의 약 91%다. 화재나 장비 고장이 통신서비스 중단으로 이어질 수 있는 만큼 사고 발생 이후의 조치보다 평상시 위험을 찾아내는 일이 중요하다....",
+   "url": "https://www.seoultimes.news/news/article.html?no=2000102154",
+   "orig": "https://www.seoultimes.news/news/article.html?no=2000102154",
+   "source": "seoultimes.news",
+   "published": "2026-11-13T09:59+09:00",
+   "cat": "tech",
+   "id": "3ee563d1c62d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한국 노동감독관, 사후 신고 처리에 인력 편중…OECD \"선제적 현장 방문...",
+   "summary": "한편 고용노동부는 현장 감독 역량 강화를 위해 오는 2028년까지 노동감독관을 총 3050명 규모로 단계적 증원할 계획이다. 우선 내년에는 근로감독 분야 160명과 산업안전 분야 540명을 합쳐 총 700명을 충원하고...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=303618",
+   "orig": "https://www.widedaily.com/news/articleView.html?idxno=303618",
+   "source": "widedaily.com",
+   "published": "2026-11-13T09:46+09:00",
+   "cat": "law",
+   "id": "96d9f6e5a71d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "조폐공사, 기술연구원 특별안전점검 실시·'2026년 여가친화기업' 재인...",
+   "summary": "특히 요판인쇄기 끼임 사고 예방을 위해 연구실 내 회전 구동형 실험장비의 방호조치와 청소ㆍ정비 등 비정형 작업 시 안전수칙 준수 여부를 살펴보면서 연구원들과 함께 무재해 안심 일터 만들 것을 서약하는 '무재해...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=321679",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=321679",
+   "source": "wsobi.com",
+   "published": "2026-11-13T09:42+09:00",
+   "cat": "tech",
+   "id": "9519585a2808",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "【데일리 ESG 정책 브리핑】AI 반도체 8002억원 개발·삼성전자 HBM 공장...",
+   "summary": "집중 고용노동부가 11월 12일 전국 지방노동관서장과 함께 중대재해 취약 사업장을 대상으로 일제 불시점검을 실시했다. 김영훈 장관과 지방관서장들이 각 지역 현장을 직접 방문해 산업안전보건 조치의 이행 여부를...",
+   "url": "https://www.impacton.net/news/articleView.html?idxno=30661",
+   "orig": "https://www.impacton.net/news/articleView.html?idxno=30661",
+   "source": "impacton.net",
+   "published": "2026-11-13T09:30+09:00",
+   "cat": "law",
+   "id": "1dc0c63a4b1f",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "생활안전 해법 255곳 적용…용산구, 범죄예방대상 경찰청장 표창",
+   "summary": "용산2가동에는 어린이·학부모 안심공간, 안심 배관 덮개, 조명형 안전 손잡이 등 9개 해법을 71곳에 적용했다. 건물 간격이 좁고 주민이 밀집한 청파동에는 버튼으로 창문 투명도를 바꿔 사생활을 지키는 '스마트 창문'과...",
+   "url": "https://www.betanews.net/article/view/beta202611130005",
+   "orig": "https://www.betanews.net/article/view/beta202611130005",
+   "source": "betanews.net",
+   "published": "2026-11-13T09:30+09:00",
+   "cat": "tech",
+   "id": "4975317f9540",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 충남지역본부, 직업성 질병 예방 강화",
+   "summary": "행사에는 고용노동부 천안지청과 서산지청, 안전보건공단 충남지역본부, 지역 사업장 보건관리자 및 보건관리 전문기관 관계자 등 200여명이 참석했다. 참석자들은 산업안전보건 정책방향을 비롯해 실제 화학물질...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251549",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251549",
+   "source": "안전신문",
+   "published": "2026-11-13T09:28+09:00",
+   "cat": "tech",
+   "id": "cff05f2e41b2",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "GS칼텍스, 여수공장 비상대응 점검...화재·가스 누출 대비",
+   "summary": "사고 초기 확산을 막고 작업자와 구조 인력의 안전을 확보하는 데 훈련의 초점을 맞췄다. GS칼텍스는 12일 여수공장 소방훈련장에서 생산·지원부서 8개 팀, 임직원 72명이 참여한 '제31회 생산본부 소방훈련대회'를...",
+   "url": "http://www.newskr.kr/news/articleView.html?idxno=107966",
+   "orig": "http://www.newskr.kr/news/articleView.html?idxno=107966",
+   "source": "newskr.kr",
+   "published": "2026-11-13T09:26+09:00",
+   "cat": "acc",
+   "id": "e05f160a54a9",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[기고] AI 시대, 미디어는 시민 안전 연결망이 돼야 한다",
+   "summary": "위험을 감지하는 기술이 발전해도 그 정보가 시민에게 제때 전달되지 않으면 안전을 지키는 데 한계가 있다.... 스마트폰을 확인하기 어려운 시민에게까지 정보가 닿도록 방송과 생활공간의 미디어를 함께 활용해야 한다....",
+   "url": "https://n.news.naver.com/mnews/article/030/0003485294?sid=110",
+   "orig": "https://www.etnews.com/20261113000037",
+   "source": "전자신문",
+   "published": "2026-11-13T09:19+09:00",
+   "cat": "tech",
+   "id": "e7a1a2e9d5ff",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "윤선희 서울시의원 “세종문화회관, 뒤에선 로펌에 ‘산재 배제’ 자문...",
+   "summary": "10월 사망·당시 30세) 사건과 관련해, 경찰이 회관 직원 전원을 업무상 과실치상 혐의로 검찰에 송치한 바로... 산업안전보건법과 중대재해처벌법 역시 도급·용역·위탁 관계라 하더라도 사업장이 실질적으로 지배·운영...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571835937434",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065571835937434",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-11-13T09:16+09:00",
+   "cat": "law",
+   "id": "2640ebb6c80a",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "11월 13일 오늘의 안전 상황",
+   "summary": "10:12경 / 부산 부산진구 가야동 / 대학교 부속건물 옥상에서 작업자가 청소를 위해 이동 중 추락(약 4.5m) / 사망(여, 50대)② 11.12. 13:52경 / 강원 강릉시 왕산면 / 임도 개설 현장에서 굴착기 작업 중 석축이...",
+   "url": "http://fpn119.co.kr/259376",
+   "orig": "http://fpn119.co.kr/259376",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-13T09:14+09:00",
+   "cat": "law",
+   "id": "36da7b473f21",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "부산항만공사, AI 기반 크레인 와이어로프 진단 기술 해외 진출 추진",
+   "summary": "부산항의 안전·예지보전 기술을 주제로 발표했다. ㈜언더워터솔루션은 싱가포르 PIER71이 주관하는 국제 스타트업 경진대회 '2026 스마트포트 챌린지(SPC)'에서 혁신기술 기업으로 선정돼 현재 본선 심사를 받고 있다....",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325848",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=325848",
+   "source": "포인트데일리",
+   "published": "2026-11-13T09:06+09:00",
+   "cat": "tech",
+   "id": "1a42a5478f8b",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한파 앞두고 노동현장점검 강화…취약노동자 지원 확대·웜키트 1.4만개...",
+   "summary": "한파가 공사기간 연장 요청 사유로 명시된 산업안전보건법 개정안이 지난달 27일부터 시행됨에 따라 건설업체 등이 한파로 공사가 지연될 경우 공사기간 연장을 요청할 수 있도록 안내한다. 쉼터 설치와 난방기기 임대...",
+   "url": "https://www.ajunews.com/view/20261113084752983",
+   "orig": "https://www.ajunews.com/view/20261113084752983",
+   "source": "아주경제",
+   "published": "2026-11-13T09:02+09:00",
+   "cat": "law",
+   "id": "9b1d7a373fd8",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "폭염 이어 한파도…노동자 보호 규칙, 또 '규제심사'에 발목",
+   "summary": "특보가 발령되면 중대재해 사이렌(9만 명)과 산업안전 전광판(40개)으로 기상 상황과 재해 사례를 알린다.... 노동부에 따르면 최근 5년 동안 한파로 한랭질환 산재를 입은 노동자는 27명이며 사망자는 없었다. 이 가운데...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004209383?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6605988?utm_source=naver&utm_medium=article&utm_campaign=20261113105721",
+   "source": "노컷뉴스",
+   "published": "2026-11-13T09:01+09:00",
+   "cat": "hlt",
+   "id": "9df449cfafa9",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한파 땐 새벽작업 시간 조정…취약업종 집중점검 200→600곳",
+   "summary": "노동부에 따르면 최근 5년간 한파로 인한 한랭질환 산재자는 27명으로, 사망자는 없었다. 이 가운데 17명(63.0... 때는 ‘중대재해 사이렌’ 등을 통해 기상 상황과 재해 사례, 예방조치를 신속히 알린다. 이달 17~30일에는...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002722916?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10935252?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-13T09:01+09:00",
+   "cat": "law",
+   "id": "2c349235ae9c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "부산시, 겨울철 대설·한파 우려지역 489곳 집중관리…제설제 1042톤 확보",
+   "summary": "김성기 부산시 행정부시장 주재로 열리는 자체 회의에는 시 관련 부서와 16개 구·군, 부산경찰청, 소방재난본부, 부산지방고용노동청, 한국산업안전보건공단 부산광역본부, 부산지방우정청, BNK부산은행, KT 등...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287071?sid=102",
+   "orig": "https://www.news1.kr/local/busan-gyeongnam/6352800",
+   "source": "뉴스1",
+   "published": "2026-11-13T09:01+09:00",
+   "cat": "tech",
+   "id": "8b8de21226c9",
+   "related": [
+    {
+     "source": "노컷뉴스",
+     "url": "https://n.news.naver.com/mnews/article/079/0004209387?sid=102",
+     "orig": "https://www.nocutnews.co.kr/news/6606329?utm_source=naver&utm_medium=article&utm_campaign=20261113090819",
+     "title": "부산시, 겨울철 폭설·한파 대비 총력…재해우려지역 489곳 집중 관리"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005603829?sid=102",
+     "orig": "https://www.fnnews.com/news/202611130933426534",
+     "title": "부산시, 겨울철 대설·한파 총력 대응...재해우려지역 집중 관리"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "노동부, 올겨울 한파 대비 노동자 건강 보호대책 추진",
+   "summary": "한파가 공사 기간 연장 요청 사유로 명시된 산업안전보건법 개정(지난달 27일 시행)에 따라 건설업체에 공사 기간 연장 요청 방법도 안내한다. 김영훈 노동부 장관은 \"사업장에서는 한파특보가 발령되면 추운 새벽...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009287060?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6352433",
+   "source": "뉴스1",
+   "published": "2026-11-13T09:00+09:00",
+   "cat": "law",
+   "id": "3efef3ba368d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "노동부 \"작업장 한랭질환 조심\"…취약사업장 3만여곳 집중관리",
+   "summary": "최근 산업안전보건법 개정으로 공사 기간 연장 요청 사유에 한파가 추가된 만큼 공공 발주기관과 건설 업체에는 한파로 공사가 지연될 경우 기간 연장을 요청하도록 적극적으로 안내할 방침이다. 환경미화...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016439788?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261112174800530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T09:00+09:00",
+   "cat": "law",
+   "id": "c7a9545bd360",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014319899?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261113_0003866457",
+     "title": "노동부, 한파 취약사업장 3만곳 집중관리…새벽 작업 조정"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251548",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251548",
+     "title": "노동부, 한파 취약사업장 3만곳 집중관리… 새벽 작업시간 조정 지도"
+    },
+    {
+     "source": "widedaily.com",
+     "url": "https://www.widedaily.com/news/articleView.html?idxno=303604",
+     "orig": "https://www.widedaily.com/news/articleView.html?idxno=303604",
+     "title": "한파 취약사업장 3만곳 집중 관리…노동부, 특보 시 새벽 작업시간 조정..."
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "노동부, 한파 취약사업장 3만 곳 집중관리…집중점검 600곳으로 확대",
+   "summary": "산업안전보건법 개정으로 한파가 공사 기간 연장 요청 사유로 명시됨에 따라 공공 발주기관과 건설업체에 한파로 인해 공사가 지연된 경우 공사 기간 연장을 요청할 수 있도록 적극적으로 안내한다. 산업안전보건관리비를...",
+   "url": "https://www.etoday.co.kr/news/view/2647705",
+   "orig": "https://www.etoday.co.kr/news/view/2647705",
+   "source": "이투데이",
+   "published": "2026-11-13T09:00+09:00",
+   "cat": "law",
+   "id": "3a1d5dae499b",
+   "related": [
+    {
+     "source": "한겨레",
+     "url": "https://n.news.naver.com/mnews/article/028/0002832061?sid=102",
+     "orig": "https://www.hani.co.kr/arti/society/labor/1287180.html",
+     "title": "노동부, ‘한파 취약사업장’ 3만곳 관리…실외 노동자 집중 지원"
+    },
+    {
+     "source": "대한전문건설신문",
+     "url": "https://www.koscaj.com/news/articleView.html?idxno=327470",
+     "orig": "https://www.koscaj.com/news/articleView.html?idxno=327470",
+     "title": "노동부, 올 겨울 대비 한파 취약사업장 3만곳 집중관리한다"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[오늘의 국회 에너지 입법 : 노후 풍력발전기 등 재생e설비 안전관리 강...",
+   "summary": "국회 김태선 의원(더불어민주당, 울산 동구)은 전기사업법과 전기안전관리법 개정안을 대표 발의하고 노후... 및 산업안전보건법상 중대재해 발생으로 영업정지 등이 요청된 사업자에 대해 사업허가 취소, 사업정지 또는...",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=106954",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=106954",
+   "source": "e-platform.net",
+   "published": "2026-11-13T08:36+09:00",
+   "cat": "law",
+   "id": "6d8325d76850",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "옆 부지 땅 파던 중 3층 건물 ‘와르르’…뉴욕서 8명 사망",
+   "summary": "사고는 11일 오후 4시쯤 브루클린 플랫부시에서 발생했다. 옆 부지에서 굴착 작업이 한창이던 중 플랫부시 애비뉴 1321번지의 3층 건물 일부가 공사장 구덩이로 무너져 내렸다. 1930년에 지어진 이 건물은 1층에 상점...",
+   "url": "https://n.news.naver.com/mnews/article/023/0004009410?sid=101",
+   "orig": "https://www.chosun.com/economy/int_economy/2026/11/13/GVWEC56YAZBN5BIK6QH7XUEVUM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+   "source": "조선일보",
+   "published": "2026-11-13T08:24+09:00",
+   "cat": "sev",
+   "id": "4d1f4479d156",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "부산시, 한파 등 겨울철 재난대책 점검…취약지역 중점 관리",
+   "summary": "회의에는 실·국·본부와 16개 구군, 부산경찰청·소방재난본부, 공사·공단, 부산지방고용노동청, 한국산업안전보건공단 부산광역본부, 부산지방우정청, BNK부산은행, KT 등 40여 명이 참석한다. 시는 올해 겨울철...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016439681?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261113022100051?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T07:58+09:00",
+   "cat": "tech",
+   "id": "77f913c31d91",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[잇슈 SNS] 뉴욕 브루클린 3층 건물 붕괴…20여 명 사상",
+   "summary": "해당 건물은 지어진 지 80년이 넘는 건물로 인근 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 사고가 발생했다고 합니다. 뉴욕시에 따르면 이번 사고로 지금까지 어린이 2명을 포함해 최소 8명이 사망했고 부상자는...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012293106?sid=104",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711790&ref=A",
+   "source": "KBS",
+   "published": "2026-11-13T07:32+09:00",
+   "cat": "sev",
+   "id": "5ae7d5b1df97",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "좌초하는 한솔제지 한경록號, 사망사고·가격담합에 실적하락까지",
+   "summary": "한솔제지는 지난 11일 충남 장항공장에서 협력업체 근로자가 사망하는 중대재해가 발생했다고 공시했다. 사고는 전날인 10일 오후 7시20분께 장항공장 감열동 슬리터 공정에서 발생했다. 협력업체 소속 근로자가...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882618",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=882618",
+   "source": "한스경제",
+   "published": "2026-11-13T07:30+09:00",
+   "cat": "sev",
+   "id": "f31714704e5e",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "한국중부발전, 동절기 건설현장 안전점검 및 협력사 '실전 AI 교육 수료...",
+   "summary": "실효적 안전대책을 가동해 근로자 건강 보호와 건설현장 중대재해 예방에 총력을 기울일 계획이다. □ 협력 중소기업 대상 '심화 실전 AI 교육' 수료식 개최 협력 중소기업 심화 실전 AI 교육 최종 발표회 및 수료식에서...",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=727756",
+   "orig": "https://www.cstimes.com/news/articleView.html?idxno=727756",
+   "source": "컨슈머타임스",
+   "published": "2026-11-13T07:26+09:00",
+   "cat": "tech",
+   "id": "4084c6fe7285",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "8명 사망한 뉴욕아파트 붕괴사고, 원인규명 장기간 걸릴 듯",
+   "summary": "폭파작업도 포함되어 있었던 것으로 알려졌다. 이번 붕괴는 뉴욕 시내에서 지난 5개월 동안 일어난 두번 째의 건물 붕괴 사건이다. 7월에는 맨해튼 구의 여러 빌딩들 중 전에 파이저 본사였던 마천루 한 곳에서 내부 균열이...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014319760?sid=104",
+   "orig": "https://www.newsis.com/view/NISX20261113_0003866379",
+   "source": "뉴시스",
+   "published": "2026-11-13T07:11+09:00",
+   "cat": "sev",
+   "id": "d0a099ce9a70",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "\"해양 사고 예방\" 해양진흥공사, 어업인에 6천만 원 상당 구명조끼 지원",
+   "summary": "앞서 개정된 '어선안전조업 및 어선원의 안전·보건 증진 등에 관한 법률(어선안전조업법)'에 따라 올해 7월... 전달된 620개 전량이 한국해양교통안전공단 형식승인 인증을 받은 제품이며 해양안전 수칙 안내 리플릿도...",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=727772",
+   "orig": "https://www.cstimes.com/news/articleView.html?idxno=727772",
+   "source": "컨슈머타임스",
+   "published": "2026-11-13T06:46+09:00",
+   "cat": "tech",
+   "id": "915b3368e72b",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[단독] 법원 \"연세대, 하청노동자 교섭하라\" 집행정지 '기각'",
+   "summary": "역할은 산업안전보건법상 도급인으로서 법정 의무를 이행하고 시설 소유·관리자로서 장소를 제공하거나 이... 사업장 울타리 넘어 집단교섭으로 이어질 수 있을까 노조는 개정 노동조합 및 노동관계조정법(노조법) 시행...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237714",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237714",
+   "source": "매일노동뉴스",
+   "published": "2026-11-13T06:34+09:00",
+   "cat": "law",
+   "id": "04dd5f2d692d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "대구 공장서 불·서울 서대문구 아파트 정전…밤사이 사건사고",
+   "summary": "서울 서대문구에서는 도로공사 중 정전사고가 나면서 1,200여 가구가 불편을 겪었습니다. 밤사이 사건사고... 소방당국은 화재 신고 20여 분만에 대응 1단계를 발령하고 진화작업에 나서 2시간 40여분 만에 큰 불을...",
+   "url": "https://n.news.naver.com/mnews/article/056/0012293073?sid=102",
+   "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711740&ref=A",
+   "source": "KBS",
+   "published": "2026-11-13T06:21+09:00",
+   "cat": "acc",
+   "id": "f43a5df205a8",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "정신기관 인권침해·부당청구 전방위 점검 위반시 조치",
+   "summary": "이에, 보건복지부는 지난 9일부터 원병원을 비롯한 정신의료기관을 대상으로 운영실태를 점검하고 있다.... 복지부 전문출입기자협의회 취재 결과, 복지부는 건보공단, 심평원과 함께 지난 9일 원병원에 대해 합동점검에...",
+   "url": "https://www.monews.co.kr/news/articleView.html?idxno=415386",
+   "orig": "https://www.monews.co.kr/news/articleView.html?idxno=415386",
+   "source": "monews.co.kr",
+   "published": "2026-11-13T06:00+09:00",
+   "cat": "acc",
+   "id": "c45a3fcac09d",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[투데이온] 삼성SDI 헝가리 공장 중대사고 시나리오 첫 공개… 'C구역 화...",
+   "summary": "공장 내부에 설치된 화학물질 감시 종단점 5곳이 대기 중 유해물질 농도를 실시간 계측하며, 위험 수준이... 만약 화재 진압이나 기술 구조 작업이 장기화해 사고 발생 후 4시간을 초과할 경우에는 당국이 우이텔레프...",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=93490",
+   "orig": "https://www.the-today.com/news/articleView.html?idxno=93490",
+   "source": "the-today.com",
+   "published": "2026-11-13T05:52+09:00",
+   "cat": "acc",
+   "id": "0fafa556814c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "美 뉴욕 아파트 붕괴 사망자 8명으로 늘어…폭우에 구조 난항",
+   "summary": "게다가 사고 현장에 내리던 비가 폭우로 변하면서 구조 작업은 더욱 어려워지고 있다. 존 에스포지토 뉴욕시 소방국장은 \"모든 잠재적 피해자를 찾기 위해 현장 전체를 수색하는 데 며칠이 걸릴 것\"이라며 \"전체...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009286864?sid=104",
+   "orig": "https://www.news1.kr/world/usa-canada/6352648",
+   "source": "뉴스1",
+   "published": "2026-11-13T05:41+09:00",
+   "cat": "sev",
+   "id": "ec68c02b2f26",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "뉴욕 3층 건물 붕괴 8명 사망...워싱턴 DC 총격 6명 사상",
+   "summary": "[기자] 캄캄한 밤 조명을 밝힌 채, 공사장을 가득 채운 잔해를 헤치며 수색과 구조 작업을 벌입니다.... 상황이었습니다.] 사고는 현지 시각 11일 오후 4시쯤 흑인과 아프리카계 카리브해인들이 많이 거주하는 뉴욕...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002432188?sid=104",
+   "orig": "https://www.ytn.co.kr/_ln/0104_202611130536479479",
+   "source": "YTN",
+   "published": "2026-11-13T05:36+09:00",
+   "cat": "sev",
+   "id": "ec3ee3b64825",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "뉴욕 건물 붕괴 사망 8명으로 늘어… 폭우속 이틀째 구조작업",
+   "summary": "사고는 인접한 빈 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 발생했다. 정확한 붕괴 원인은 아직 조사 중이다. 현장에는 폭우가 쏟아지고 있지만 구조 당국은 추가 생존자가 있을 가능성을 열어두고 이틀째 수색...",
+   "url": "https://n.news.naver.com/mnews/article/005/0001884922?sid=104",
+   "orig": "https://www.kmib.co.kr/article/20261113500063",
+   "source": "국민일보",
+   "published": "2026-11-13T05:33+09:00",
+   "cat": "sev",
+   "id": "9e50b08f411c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "\"성비위 대응 부실·2조 사업 파악 못 해·임대료 연 6억\"… 통합특별시...",
+   "summary": "광주테크노파크는 성비위 대응과 근로자 사망사고 보고체계의 적정성이 문제로 지적됐고, 약 2조 원 규모의... 안전관리와 중대재해 대응 매뉴얼의 적용 범위를 점검해야 한다'고 촉구했다. 친인척 채용 현황 공개에...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=513853",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=513853",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-13T05:26+09:00",
+   "cat": "law",
+   "id": "b541651cc28c",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "[단독] 쿠팡 산재사망으로 시작된 제주도 실태 조사… 쿠팡 택배기사 참...",
+   "summary": "1년 전 새벽 배송을 하던 쿠팡 택배기사의 사망 사건을 계기로 제주도가 실시한 전국 최초 ‘심야 이동노동자... 업무상재해 사망 사고를 계기로 추진됐다. 올해는 국내 택배사 중 쿠팡로지스틱스서비스만 참여한 이...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002832004?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/area_general/1287121.html",
+   "source": "한겨레",
+   "published": "2026-11-13T05:02+09:00",
+   "cat": "sev",
+   "id": "d3913c68e8f9",
+   "related": [],
+   "day": "2026-11-13",
+   "watch": []
+  },
+  {
+   "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함",
+   "summary": "사고는 인접한 빈 부지에서 건설 노동자들이 굴착 작업을 진행하던 중 발생했다. 정확한 붕괴 원인은 아직 조사 중이다. 현장에는 폭우가 쏟아지고 있지만 구조 당국은 추가 생존자가 있을 가능성을 열어두고 이틀째...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016439571?sid=104",
+   "orig": "https://www.yna.co.kr/view/AKR20261113006700072?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-13T04:37+09:00",
+   "cat": "sev",
+   "id": "80541bbd3549",
+   "related": [
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001402700?sid=104",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008843978&plink=ORI&cooper=NAVER",
+     "title": "뉴욕 브루클린 건물 붕괴 사망자 8명으로 늘어…어린이 2명 포함"
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012293054?sid=104",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8711721&ref=A",
+     "title": "‘뉴욕 브루클린 건물 붕괴’ 사망 8명으로 늘어…어린이 2명 포함"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003482465?sid=104",
+     "orig": "https://www.khan.co.kr/article/202611130722001",
+     "title": "뉴욕 브루클린서 3층짜리 아파트 붕괴 사고···어린이 2명 포함 8명 사..."
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261113074902877",
+     "orig": "https://www.ajunews.com/view/20261113074902877",
+     "title": "뉴욕 브루클린 건물 붕괴…어린이 2명 포함 8명 사망"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=563593",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=563593",
+     "title": "뉴욕 브루클린 건물 붕괴 사망자 8명...어린이 2명 포함"
+    }
+   ],
+   "day": "2026-11-13",
+   "watch": []
+  },
   {
    "title": "동서발전 \"안전 최우선 가치\" 전문인력 육성",
    "summary": "권명호 한국동서발전 사장은 \"안전은 특정 부서만의 일이 아니라 모든 구성원이 함께 책임져야 할 경영의 최우선 가치\"라며 \"SP 여러분이 각자의 현장에서 안전 문화를 선도하는 개척자가 되어 달라\"고 말했다.",
@@ -250,6 +1560,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004209323?sid=104",
      "orig": "https://www.nocutnews.co.kr/news/6606275?utm_source=naver&utm_medium=article&utm_campaign=20261112214013",
      "title": "뉴욕 브루클린 3층 건물 붕괴…5명 사망·17명 부상"
+    },
+    {
+     "source": "womennews.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/310/0000141676?sid=104",
+     "orig": "https://www.womennews.co.kr/news/articleView.html?idxno=284424",
+     "title": "뉴욕 브루클린 3층 건물 붕괴...8명 사망·18명 부상"
     }
    ],
    "day": "2026-11-12",
@@ -322,6 +1638,12 @@
      "url": "https://n.news.naver.com/mnews/article/119/0003154612?sid=102",
      "orig": "https://www.dailian.co.kr/news/view/1714414/?sc=Naver",
      "title": "광양 공장서 가스 누출로 화재…70대 작업자 3도 화상 입어"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000551526?sid=102",
+     "orig": "https://news.tf.co.kr/read/national/2388337.htm",
+     "title": "광양 이차전지 소재 공장서 가스 누출 화재…70대 작업자 중상"
     }
    ],
    "day": "2026-11-12",
@@ -550,6 +1872,12 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000551475?sid=102",
      "orig": "https://news.tf.co.kr/read/national/2388291.htm",
      "title": "부산 대학서 청소하던 50대, 6m 옹벽 아래로 추락해 숨져"
+    },
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247259",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247259",
+     "title": "[안전상황실·13일] 부산 진구 대학교서 청소 작업 중 50대 여성 추락해..."
     }
    ],
    "day": "2026-11-12",
@@ -590,7 +1918,14 @@
    "published": "2026-11-12T18:06+09:00",
    "cat": "tech",
    "id": "cb677d61f825",
-   "related": [],
+   "related": [
+    {
+     "source": "nbntv.co.kr",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027342",
+     "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027342",
+     "title": "페이퍼리, '2026 스마트건설·안전·AI 엑스포'서 안전 서류 대행 서비스..."
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
@@ -992,7 +2327,14 @@
    "published": "2026-11-12T17:16+09:00",
    "cat": "tech",
    "id": "0ee86d5d2cf6",
-   "related": [],
+   "related": [
+    {
+     "source": "프레시안",
+     "url": "https://n.news.naver.com/mnews/article/002/0002465727?sid=102",
+     "orig": "https://www.pressian.com/pages/articles/2026111310581233716?utm_source=naver&utm_medium=search",
+     "title": "부산시, 겨울철 대설·한파 대비 총력…재난 대응체계 강화"
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
@@ -1107,6 +2449,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2018047",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2018047",
      "title": "코카콜라음료 창원물류센터서 근로자 추락사…\"유가족 지원·재발 방지..."
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000551501?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2388307.htm",
+     "title": "코카콜라음료, 창원물류센터 근로자 추락 사망에 \"유가족 지원 최선\""
     }
    ],
    "day": "2026-11-12",
@@ -1214,6 +2562,18 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124868",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=124868",
      "title": "LG생활건강 자회사 코카콜라음료 창원물류센터서 근로자 추락 사망"
+    },
+    {
+     "source": "geconomy.co.kr",
+     "url": "https://www.geconomy.co.kr/news/article.html?no=325631",
+     "orig": "https://www.geconomy.co.kr/news/article.html?no=325631",
+     "title": "LG생활건강 자회사 코카콜라음료 물류센터서 추락사…외주업체 노동자..."
+    },
+    {
+     "source": "e-science.co.kr",
+     "url": "https://www.e-science.co.kr/news/articleView.html?idxno=139711",
+     "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=139711",
+     "title": "코카콜라음료 김해 물류센터 보수공사 중 근로자 추락 사망…관계기관..."
     }
    ],
    "day": "2026-11-12",
@@ -1979,6 +3339,12 @@
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3750590",
      "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3750590",
      "title": "건설근로자 임금체불 제로 정책토론회…지급체계 혁신 논의"
+    },
+    {
+     "source": "lak.co.kr",
+     "url": "http://www.lak.co.kr/news/boardview.php?id=24319",
+     "orig": "http://www.lak.co.kr/news/boardview.php?id=24319",
+     "title": "건설근로자 임금 체불 ‘제로’ 목표…LH, 국회정책토론회 가져"
     }
    ],
    "day": "2026-11-12",
@@ -2580,7 +3946,26 @@
    "published": "2026-11-12T11:30+09:00",
    "cat": "tech",
    "id": "0e07176f8a29",
-   "related": [],
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006409397?sid=101",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=03220966645645392&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "금호석화, 안전관리 강화…스마트 기술·자원순환 확대"
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002723056?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10936154?ref=naver",
+     "title": "금호석유화학그룹, 안전·환경 관리 고도화"
+    },
+    {
+     "source": "동아일보",
+     "url": "https://n.news.naver.com/mnews/article/020/0003762288?sid=101",
+     "orig": "https://www.donga.com/news/Economy/article/all/20261113/135018923/1",
+     "title": "금호석유화학그룹, ‘안전·환경 관리 체계’ 고도화"
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
@@ -2863,7 +4248,20 @@
    "published": "2026-11-12T10:54+09:00",
    "cat": "sev",
    "id": "00228c0b0a0a",
-   "related": [],
+   "related": [
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003564941?sid=104",
+     "orig": "https://www.joongang.co.kr/article/25478300",
+     "title": "뉴욕 브루클린 3층 건물 와르르…어린이 2명 포함 8명 사망"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001535377?sid=104",
+     "orig": "https://imnews.imbc.com/news/2026/world/article/6865385_36925.html",
+     "title": "뉴욕 브루클린 건물 붕괴‥어린이 포함 8명 사망"
+    }
+   ],
    "day": "2026-11-12",
    "watch": []
   },
@@ -3075,6 +4473,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004209293?sid=101",
      "orig": "https://www.nocutnews.co.kr/news/6606225?utm_source=naver&utm_medium=article&utm_campaign=20261112182311",
      "title": "금호석유화학 \"안전·환경은 타협 불가\"…지속가능경영 토대 마련"
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002722911?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10935819?ref=naver",
+     "title": "금호석유화학그룹, 안전·환경 관리체계 고도화 가속"
     }
    ],
    "day": "2026-11-12",
