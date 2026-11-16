@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T00:23+09:00",
+ "updatedAt": "2026-11-17T08:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,16 +25,208 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "05f9b9f5f710",
-   "title": "위험한 울산항 '제5항로' 스마트 안전항로 변신",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072735",
-   "source": "경상일보",
+   "id": "552092538feb",
+   "title": "경기도 도민감리단, 건설현장 지적사항 373건 중 290건 개선",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107021",
+   "source": "discoverynews.kr",
    "cat": "tech",
+   "day": "2026-11-17",
+   "count": 1
+  },
+  {
+   "id": "007143cc3cc6",
+   "title": "\"한달에 한번 꼴 코피, 젖은 옷에 습진\"…반도체 클린룸의 하청 노동자",
+   "url": "https://n.news.naver.com/mnews/article/002/0002466159?sid=102",
+   "source": "프레시안",
+   "cat": "hlt",
+   "day": "2026-11-17",
+   "count": 1
+  },
+  {
+   "id": "893ba0775a5e",
+   "title": "HD현대삼호 협력사 청년노동자 사망 보름째 장례도 못 치른 사연",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301329",
+   "source": "financialpost.co.kr",
+   "cat": "sev",
+   "day": "2026-11-17",
+   "count": 1
+  },
+  {
+   "id": "7fb7bc0e03fb",
+   "title": "[오늘의 주요일정·17일] 최교진 장관 학생자살 원인분석 전문가 간담회",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247540",
+   "source": "세이프타임즈",
+   "cat": "law",
+   "day": "2026-11-17",
+   "count": 1
+  },
+  {
+   "id": "45abe3cee1d4",
+   "title": "개념無·책임無 고경표…사고는 연예인이 치고, 밤샘은 제작진이 한다 ...",
+   "url": "https://www.mydaily.co.kr/page/view/2026111616510084260",
+   "source": "마이데일리",
+   "cat": "acc",
    "day": "2026-11-17",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "경기도 도민감리단, 건설현장 지적사항 373건 중 290건 개선",
+   "summary": "작업자 추락이나 구조물 붕괴로 이어질 수 있는 위험 요인이 현장 곳곳에서 확인됐다. 일부 현장에서는 비탈면 안정성 검토와 우기 대비 조치가 충분하지 않았으며, 위험성평가와 근로자 안전교육 등 기본적인 안전관리...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107021",
+   "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107021",
+   "source": "discoverynews.kr",
+   "published": "2026-11-17T08:22+09:00",
+   "cat": "tech",
+   "id": "552092538feb",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "\"한달에 한번 꼴 코피, 젖은 옷에 습진\"…반도체 클린룸의 하청 노동자",
+   "summary": "② 웨이퍼 박스 작업자 김진기와 반도체 화려한 성장의 그늘 30대 청년 김진기(가명) 씨는 매일 12시간씩... 그러면서 \"클린룸은 매일 바닥 곳곳에서 공사를 하기에, 방심하면 구멍에 빠져 서브팹(아래층)으로 추락할 위험도...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002466159?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026111417191065296?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-11-17T08:03+09:00",
+   "cat": "hlt",
+   "id": "007143cc3cc6",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "HD현대삼호 협력사 청년노동자 사망 보름째 장례도 못 치른 사연",
+   "summary": "27세 A씨는 건조 중인 선박의 탱크 안에서 이산화탄소(CO₂) 용접 작업을 하다 쓰러진 채 발견됐다. 병원으로 옮겨졌지만 끝내 숨졌다. 사고 지점은 폭 80cm 안팎의 공간이 비스듬히 2m가량 움푹 들어간 곳이다. 이번 회견은...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301329",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301329",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-17T08:00+09:00",
+   "cat": "sev",
+   "id": "893ba0775a5e",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "성남시, 공사장 안전점검·시정모니터 모집·노숙인 겨울 보호 추진",
+   "summary": "시 건축안전관리과와 한국건설안전협회 소속 건설안전기술사·건축시공기술사·토목기술사 등이 참여한다.... 컴퓨터나 스마트폰 활용이 가능한 만 19세 이상 성남시민이면 신청할 수 있다. 선발된 모니터는 위촉일부터...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026111707400814234c878f8fa1_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=2026111707400814234c878f8fa1_30",
+   "source": "비욘드포스트",
+   "published": "2026-11-17T07:48+09:00",
+   "cat": "tech",
+   "id": "e5ddeb6680f8",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[오늘의 주요일정·17일] 최교진 장관 학생자살 원인분석 전문가 간담회",
+   "summary": "금융감독원장, 주례 임원회의(10:00) ▲ 이찬진 금융감독원장, 회계부정 신고자 보호 실효성 제고를... 노동부 산업안전보건본부장, 기후노동위 예산소위(10:00 국회) ▲ 김성환 기후부 장관, 제31차...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247540",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247540",
+   "source": "세이프타임즈",
+   "published": "2026-11-17T07:06+09:00",
+   "cat": "law",
+   "id": "7fb7bc0e03fb",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "개념無·책임無 고경표…사고는 연예인이 치고, 밤샘은 제작진이 한다 ...",
+   "summary": "잡았다가 작업 중이던 청소차를 들이받았다. 방송가는 또 다시 익숙하고도 씁쓸한 '긴급 편집 전쟁'에 돌입했다. 가장 먼저 직격탄을 맞은 곳은 사고 당일 저녁 방송을 앞뒀던 MBC '놀면 뭐하니?'였다. 18명의 참가자가 모인...",
+   "url": "https://www.mydaily.co.kr/page/view/2026111616510084260",
+   "orig": "https://www.mydaily.co.kr/page/view/2026111616510084260",
+   "source": "마이데일리",
+   "published": "2026-11-17T07:00+09:00",
+   "cat": "acc",
+   "id": "45abe3cee1d4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "중대재해 한화오션 전 대표, 대법원서 '무죄' 확정",
+   "summary": "<자료사진 정기훈 기자> 한화오션(옛 대우조선해양) 하청노동자 사망사고로 중대재해 처벌 등에 관한 법률(중대재해처벌법) 위반 혐의로 기소된 전 대표이사가 대법원에서 '무죄'를 선고받았다. 상시근로자가 1천명 넘는...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237761",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237761",
+   "source": "매일노동뉴스",
+   "published": "2026-11-17T06:34+09:00",
+   "cat": "sev",
+   "id": "0544afc01ed7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "현대엔지니어링 '끝나지 않는 악몽'…영업정지 8개월 만에 또 사망 사고",
+   "summary": "현대엔지니어링의 아파트 건설 현장에서 또 하청 근로자가 숨지는 사망 사고가 났다. 같은 주에 회사는... 고용노동부 양산지청은 현장의 차량계·건설기계 작업 전체에 작업중지 명령을 내렸고, 중대재해처벌법 위반...",
+   "url": "https://realty.chosun.com/site/data/html_dir/2026/11/16/2026111601662.html",
+   "orig": "https://realty.chosun.com/site/data/html_dir/2026/11/16/2026111601662.html",
+   "source": "조선일보",
+   "published": "2026-11-17T06:02+09:00",
+   "cat": "sev",
+   "id": "c466677205f4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "건설업계 최장수 오세철 삼성물산 대표, 부회장 승진이냐 세대교체 퇴임...",
+   "summary": "지난해 발생한 두 차례의 사망사고 등 안전관리 책임론이 다시 고개를 들 가능성도 배제할 수 없다. 오 대표는 지난해 중대재해 발생 이후 치러진 연말 인사에서 실적 방어와 조직 안정을 이유로 유임됐으나, 그룹...",
+   "url": "https://realty.chosun.com/site/data/html_dir/2026/11/16/2026111602382.html",
+   "orig": "https://realty.chosun.com/site/data/html_dir/2026/11/16/2026111602382.html",
+   "source": "조선일보",
+   "published": "2026-11-17T06:02+09:00",
+   "cat": "law",
+   "id": "9b79febc326f",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "두뇌는 기지국에…몸집 줄인 로봇, 제철소 안전사고 막는다",
+   "summary": "강판 반제품인 슬래브를 1100도 이상 고온으로 가열하고 롤 사이로 통과시켜 코일 형태로 만드는 열연공장에... 안전사고를 줄이고 고숙련 작업자의 경험과 노하우는 피지컬 AI에 학습시켜 전수할 수 있을 것\"이라고...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005442005?sid=105",
+   "orig": "https://www.mt.co.kr/tech/2026/11/17/2026111322314783126",
+   "source": "머니투데이",
+   "published": "2026-11-17T04:10+09:00",
+   "cat": "acc",
+   "id": "d9fe33a2317c",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "사람과 일하는 휴머노이드 로봇, 안전성 입증이 승부처",
+   "summary": "휴머노이드가 연구실을 벗어나 공장과 가정 등 인간과 맞닿은 공간으로 활동 영역이 넓어지면서 물리적... 별도 안전펜스 없이도 인간 작업자와 가까운 거리에서 협업할 수 있도록 로봇 제어 시스템을 개선한 것이...",
+   "url": "https://n.news.naver.com/mnews/article/005/0001885551?sid=101",
+   "orig": "https://www.kmib.co.kr/article/20261116501941",
+   "source": "국민일보",
+   "published": "2026-11-17T02:58+09:00",
+   "cat": "tech",
+   "id": "1dafb56405d6",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[박근종 칼럼] 노동자 절반 실질임금 하락, 실질임금 회복의 열쇠 'K-양...",
+   "summary": "올해 상반기 전체 근로자의 1인당 임금총액 기준 평균 실질임금 상승률은 0.3%에 불과하다. 더욱이 성과급과... 7%나 추락했다. 생산성이 뒷받침되지 못하니 기업의 임금 지급 여력이 쪼그라드는 것은 경제적 필연이다....",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769344",
+   "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=769344",
+   "source": "더쎈뉴스",
+   "published": "2026-11-17T02:38+09:00",
+   "cat": "law",
+   "id": "dcfd5b03867e",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "위험한 울산항 '제5항로' 스마트 안전항로 변신",
    "summary": "울산항만공사(UPA)는 무역항 최초로 저수심 구간과 방파제 사각지대를 시각화하는 안전 인프라를 구축하고... 대체 기술을 조사 중이다. 제5항로에 레이저 경계선 설치가 완료되면, 국내 무역항 중에서는 최초 사례로...",
@@ -122,7 +314,14 @@
    "published": "2026-11-16T21:08+09:00",
    "cat": "acc",
    "id": "655eb556d34d",
-   "related": [],
+   "related": [
+    {
+     "source": "kjmbc.co.kr",
+     "url": "https://kjmbc.co.kr/NewsArticle/1546015",
+     "orig": "https://kjmbc.co.kr/NewsArticle/1546015",
+     "title": "사고 2주째 '밀폐공간' 판단 못 해..노동당국 대응 도마"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -174,6 +373,19 @@
    "published": "2026-11-16T20:40+09:00",
    "cat": "tech",
    "id": "d73beca53ae8",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "채점 전 파쇄·시험문제 유출… 못 미더운 ‘사고 백화점’ 산인공",
+   "summary": "확인 고용노동부는 국가자격시험 관리·감독 체계의 구조적 허점을 여실히 드러낸 한국산업인력공단의... 같은 해 8월 제15회 산업안전지도사 3차 시험에선 개정법을 반영하지 않은 참고자료로 면접이 진행됐다. 올해...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003699961?sid=101",
+   "orig": "https://www.seoul.co.kr/news/economy/2026/11/17/20261117002003?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-16T20:40+09:00",
+   "cat": "law",
+   "id": "5053cad404ab",
    "related": [],
    "day": "2026-11-16",
    "watch": []
@@ -1105,6 +1317,18 @@
      "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090969",
      "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090969",
      "title": "한수원 노사, 월성4호기 안전 합동 점검…개선 조치·사후관리 확인"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=728139",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=728139",
+     "title": "한수원, 노·사 합동 '안전챙김 현장경영'…월성본부 4호기 설비 점검"
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=202611170708477352ea13369bfa_1",
+     "orig": "https://www.g-enews.com/view.php?ud=202611170708477352ea13369bfa_1",
+     "title": "한수원, 월성4호기 안전관리 현장 점검…노사 공동 대응체계 강화"
     }
    ],
    "day": "2026-11-16",
@@ -1322,7 +1546,14 @@
    "published": "2026-11-16T15:16+09:00",
    "cat": "sev",
    "id": "d24c4eefb727",
-   "related": [],
+   "related": [
+    {
+     "source": "geconomy.co.kr",
+     "url": "https://www.geconomy.co.kr/news/article.html?no=325730",
+     "orig": "https://www.geconomy.co.kr/news/article.html?no=325730",
+     "title": "국토부, 전국 건설현장 2946곳 특별점검…사망사고 건설사 집중 관리"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -4083,6 +4314,12 @@
      "url": "https://sateconomy.co.kr/news/view/1065574922700034",
      "orig": "https://sateconomy.co.kr/news/view/1065574922700034",
      "title": "국토부, 전국 건설현장 2946곳 동절기 안전점검…사망사고 시공사 특별..."
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754034",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3754034",
+     "title": "국토부, 전국 건설현장 2900여 곳 동절기 안전점검"
     }
    ],
    "day": "2026-11-16",
