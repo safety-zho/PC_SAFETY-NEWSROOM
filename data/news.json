@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T13:51+09:00",
+ "updatedAt": "2026-11-16T14:49+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,6 +31,15 @@
    "source": "매일경제",
    "cat": "tech",
    "day": "2026-11-16",
+   "count": 16
+  },
+  {
+   "id": "c203e8f3e087",
+   "title": "LG전자-로봇산업진흥원, 휴머노이드 안전·품질 표준화 협력",
+   "url": "https://n.news.naver.com/mnews/article/092/0002445391?sid=105",
+   "source": "지디넷코리아",
+   "cat": "tech",
+   "day": "2026-11-16",
    "count": 14
   },
   {
@@ -43,22 +52,13 @@
    "count": 13
   },
   {
-   "id": "c203e8f3e087",
-   "title": "LG전자-로봇산업진흥원, 휴머노이드 안전·품질 표준화 협력",
-   "url": "https://n.news.naver.com/mnews/article/092/0002445391?sid=105",
-   "source": "지디넷코리아",
-   "cat": "tech",
-   "day": "2026-11-16",
-   "count": 12
-  },
-  {
    "id": "78a1cbe27689",
    "title": "현대차, 하반기 ‘세이프티 컬처 위크’ 진행…“일상 안전 실천하는 기...",
    "url": "https://n.news.naver.com/mnews/article/016/0002723782?sid=101",
    "source": "헤럴드경제",
    "cat": "tech",
    "day": "2026-11-16",
-   "count": 9
+   "count": 10
   },
   {
    "id": "60e0e9a3d5cf",
@@ -71,6 +71,253 @@
   }
  ],
  "articles": [
+  {
+   "title": "평창군시설관리공단, 중대재해 예방·고객 권익 보호 강화…안전·서비...",
+   "summary": "12일 안전보건 경영방침 선포식과 고객서비스헌장 선포식을 각각 개최했다. 고객서비스헌장 행사에는 임직원 약 40명이 참석해 개정 내용을 공유하고 실천 의지를 다졌다. 이번 개편은 직원들의 산업재해를 예방하는...",
+   "url": "https://www.kukinews.com/article/view/kuk202611160148",
+   "orig": "https://www.kukinews.com/article/view/kuk202611160148",
+   "source": "쿠키뉴스",
+   "published": "2026-11-16T14:44+09:00",
+   "cat": "tech",
+   "id": "0aab18bfede0",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "현대차, ‘안전문화 주간’ 운영… 골든벨 울렸다",
+   "summary": "올해 하반기 행사는 △전사 안전 메시지 △경영층 리더십 활동 △H-안전골든벨 △현장별 맞춤형 활동 등 네 가지 방식으로 진행됐다. 현대차는 끼임, 넘어짐, 건강관리 등 주제별 카드 뉴스를 임직원에게 발송했고 자사...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005764372?sid=101",
+   "orig": "https://www.mk.co.kr/article/12209905",
+   "source": "매일경제",
+   "published": "2026-11-16T14:40+09:00",
+   "cat": "tech",
+   "id": "629736c79442",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "가스안전공사, 국가유공자 16가구 노후보일러 교체…'에너지복지·안전...",
+   "summary": "이는 환경(E)과 사회(S), 안전·책임경영을 결합한 공공기관 ESG 활동이라는 점에서도 의미가 있다. 고효율 설비를 통한 에너지 사용량과 환경부담 저감뿐 아니라 에너지 취약계층의 주거환경 개선, 민간기업·지역기관과의...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205130",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205130",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-16T14:28+09:00",
+   "cat": "tech",
+   "id": "6a6f3997a33e",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "이장섭 청주시장, 중처법 위반 혐의로 고발됐다",
+   "summary": "이장섭 충북 청주시장이 최근 발생한 20대 환경미화원 사망 사고와 관련, 중대재해처벌법 위반 혐의로 고발됐다. 비정규직없는충북만들기운동본부는 16일 청주고용노동지청 앞에서 기자회견을 열고 “청주시장은...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001075330?sid=102",
+   "orig": "http://www.inews24.com/view/2026602",
+   "source": "아이뉴스24",
+   "published": "2026-11-16T14:24+09:00",
+   "cat": "sev",
+   "id": "3bfbdedacc6c",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "부영그룹, KOSHA-MS 교육으로 현장 안전관리 점검",
+   "summary": "작업자와 관리자의 안전 인식, 현장별 위험 요인에 대한 점검, 사고 예방 절차가 실제 업무 과정에서 작동해야 한다. 부영그룹이 전 임직원을 대상으로 안전보건경영 교육에 나선다. 부영그룹은 오는 18일부터 전...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504515",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=504515",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-16T14:24+09:00",
+   "cat": "tech",
+   "id": "f145769b885c",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "국유재산 안전점검에 AI·드론 도입…전체 사업장으로 확대 추진",
+   "summary": "이에 따라 올해부터 국유재산 개보수 현장에 AI와 드론을 활용한 안전점검 기술이 도입됐다. 기존 정기... 이와 함께 붕괴위험 경보기와 영상관제시스템 등 스마트 안전장비 14대를 사업장 3개소에 배치하고, QR코드를...",
+   "url": "https://idsn.co.kr/news/view/1065590303715714",
+   "orig": "https://idsn.co.kr/news/view/1065590303715714",
+   "source": "idsn.co.kr",
+   "published": "2026-11-16T14:24+09:00",
+   "cat": "tech",
+   "id": "1c3f3fed13ac",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "중부발전, 피지컬 AI로 발전소 안전 혁신… 로봇 기술 현장 적용 본격화",
+   "summary": "사람이 직접 접근하기 어려운 저장시설 외벽을 로봇이 점검하도록 설계해 작업자의 추락 위험을 줄이고 설비 점검의 정밀도를 높일 수 있다는 점에서 높은 평가를 받았다. 산업부장관상은 '터빈 케이싱 스터드 자동 체결...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205119",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205119",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-16T14:22+09:00",
+   "cat": "tech",
+   "id": "dc9c73c8d162",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "TS '오늘도 무사고' 안전실천 서약 3만4000명…작년 대비 3배 ↑",
+   "summary": "TS는 현장 소통과 민관협력 성과로 '대한민국 창조경영 2026' 안전경영 분야 행정안전부 장관상과 '2025 정책소통 유공' 대통령 표창을 받았다. 지난 13일에는 방효일 TS 언론홍보팀장이 '2026 PR인의 날' 행사에서...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005604860?sid=101",
+   "orig": "https://www.fnnews.com/news/202611161415154330",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-16T14:22+09:00",
+   "cat": "acc",
+   "id": "dd86c2af6244",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "경기도, 수리산 가을 산행객 늘자 안전수칙 준수 당부",
+   "summary": "경기도청 가을 단풍철을 맞아 수리산도립공원을 찾는 등산객이 증가하는 가운데 경기도가 안전사고 예방... 농가에는 검증된 종자와 모종 사용, 작업자 위생 관리, 농기구 소독, 외부인 출입 통제 등의 예방수칙 준수를...",
+   "url": "http://www.queen.co.kr/news/articleView.html?idxno=466381",
+   "orig": "http://www.queen.co.kr/news/articleView.html?idxno=466381",
+   "source": "queen.co.kr",
+   "published": "2026-11-16T14:20+09:00",
+   "cat": "tech",
+   "id": "1dea011f29cf",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "중대재해처벌법, 유족과 합의하면 처벌이 달라질까...재판에서 보는 기...",
+   "summary": "중대재해처벌법 위반으로 인한 중대산업재해 사망 사건은 유족의 처벌 의사에 따라 공소 제기 여부가 제한되는 범죄가 아니다. 법원은 사업주나 경영책임자에게 어떤 안전·보건 확보 의무가 있었는지, 그 의무를...",
+   "url": "https://www.thepowernews.co.kr/view.php?ud=2026111613480187339aeda69934_7",
+   "orig": "https://www.thepowernews.co.kr/view.php?ud=2026111613480187339aeda69934_7",
+   "source": "thepowernews.co.kr",
+   "published": "2026-11-16T14:18+09:00",
+   "cat": "sev",
+   "id": "b77bdad7b333",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "한농연천안시성환읍회 3명, 농업인 안전 캠페인 공모전 우수상",
+   "summary": "한국후계농업경영인천안시연합회 성환읍회 소속 3명이 농촌진흥청 주관 '2026년 농업인 안전 365 캠페인 공모전'에서 수상의 영예를 안았다. 성환읍회 소속 전병찬(사무국장)·이욱용(재무)·조원형(회원) 농업인은 '방심이...",
+   "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=408895",
+   "orig": "https://www.agrinet.co.kr/news/articleView.html?idxno=408895",
+   "source": "agrinet.co.kr",
+   "published": "2026-11-16T14:16+09:00",
+   "cat": "tech",
+   "id": "5b9f58c26511",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "국토부, 관계기관과 철도사고·운행장애 재발방지대책 점검",
+   "summary": "정차 중 열차가 의도치 않게 움직이는 '열차 구름' 발생 시 관제에 즉시 알리고 주변 선로 안전을 확인하도록 절차를 명확히 했다. 지난 9월 발표한 차량정리 작업 안전강화대책도 점검했다. 코레일은 이달 후방카메라...",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420865",
+   "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=420865",
+   "source": "bizwork.co.kr",
+   "published": "2026-11-16T14:10+09:00",
+   "cat": "acc",
+   "id": "35110a639918",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "철도 안전관리에 AI 도입…내년 동해역서 위험예측 시스템 시범운영",
+   "summary": "코레일은 차량 정리작업 중 사고를 예방하기 위한 후방카메라 기술 개발을 이달 완료했다. 현장 검증을 거쳐 도입 대상역을 확정할 예정이다. AI 기반 폐쇄회로TV(CCTV)를 활용한 작업자 위험예측 시스템은 내년...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005354244?sid=101",
+   "orig": "https://www.hankyung.com/article/202611168472i",
+   "source": "한국경제",
+   "published": "2026-11-16T14:01+09:00",
+   "cat": "tech",
+   "id": "a3743aa308dd",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "철도사고 재발 막는다…李정부, 연내 안전 종합대책 마련",
+   "summary": "전국 목침목 160만9000개 연내 점검…무선제어 시스템 확대 반복되는 철도사고와 운행장애를 막기 위해... 철도 차량정리 작업에는 첨단기술 도입을 확대한다. 코레일은 작업자가 화차 외부에 탑승하는 작업방식을...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000552302?sid=101",
+   "orig": "https://news.tf.co.kr/read/economy/2389106.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-16T14:01+09:00",
+   "cat": "acc",
+   "id": "83dd88f6eef7",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "“철도사고 반복 막는다” KTX 부품 교체 앞당기고 낡은 침목 1만6000개 ...",
+   "summary": "철도사고가 4년 새 절반 수준으로 줄었으나 비슷한 사고가 되풀이되자 정부가 추가 현장 안전관리... 지난 9월 발표한 ‘철도 차량정리 작업 안전강화대책’도 속도를 낸다. 코레일은 작업자가 화차 바깥에 올라타야...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724076?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10938303?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-16T14:01+09:00",
+   "cat": "acc",
+   "id": "7cdb04795060",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "철도사고 줄었는데 비슷한 사고 반복…국토부, 연내 종합대책",
+   "summary": "국토교통부가 해마다 줄고는 있지만 같은 유형으로 되풀이되는 철도사고와 운행장애를 막기 위해... 이 대책은 경기 의왕역에서 코레일 직원이 차량정리 작업 중 숨진 지 한 달여 만인 9월 29일 발표됐다. 차량정리는...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005604841?sid=101",
+   "orig": "https://www.fnnews.com/news/202611160807244539",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-16T14:00+09:00",
+   "cat": "acc",
+   "id": "c5701f648e39",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "철도사고 다신 없게…목침목 전수점검·첨단기술 도입 확대",
+   "summary": "부산역 탈선사고 이후 열차 운행이 잦은 24개 역의 선로 중 사고 위험이 높은 구간의 목침목의 경우 이미... 국토부는 지난 9월 발표한 '철도 차량정리 작업 안전 강화 대책'에 이어 현장 안전관리의 실효성을 높이기...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014324751?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261116_0003869017",
+   "source": "뉴시스",
+   "published": "2026-11-16T14:00+09:00",
+   "cat": "acc",
+   "id": "002c787c1e0d",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "LG전자, 휴머노이드 안전·품질 경쟁력 선점···로봇 상용화 기반 다진...",
+   "summary": "| 스마트비즈 = 양대규 기자 | LG전자가 한국로봇산업진흥원과 손잡고 휴머노이드 로봇의 안전성과 품질... LG전자가 개발 초기부터 외부 전문기관과 안전·품질 평가체계를 구축하는 것도 이 같은 기술적 특성을 고려한...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=159565",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=159565",
+   "source": "smartbizn.com",
+   "published": "2026-11-16T13:58+09:00",
+   "cat": "tech",
+   "id": "0580cbb5592c",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "\"소비자보호·인권·안전·지역사회 공헌성과 인정\" 동양생명, ESG평가서...",
+   "summary": "아울러 임직원을 대상으로는 인권경영 선언과 구성원 다양성 존중 문화를 확산하는 한편, 안전한 근무 환경 조성을 위한 사업장 안전보건 관리체계를 정비했다. 이와 함께 환경 부문에서는 친환경 금융 투자를...",
+   "url": "https://www.catchnews.kr/news/articleView.html?idxno=130559",
+   "orig": "https://www.catchnews.kr/news/articleView.html?idxno=130559",
+   "source": "catchnews.kr",
+   "published": "2026-11-16T13:53+09:00",
+   "cat": "tech",
+   "id": "89dab7159fb4",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
   {
    "title": "안양시, 규제혁신·적극행정 성과로 행정안전부장관상",
    "summary": "행정안전부장관상을 받았다. 지난 2024년 스마트도시통합센터 운영 성과로 같은 상을 받은 데 이어 두 번째 수상이다. 이번 평가에서는 중소기업의 신기술 상용화를 지원한 규제 개선 사례가 주요 성과로 꼽혔다. 시는...",
@@ -457,7 +704,14 @@
    "published": "2026-11-16T11:42+09:00",
    "cat": "sev",
    "id": "65d53e935860",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009291494?sid=102",
+     "orig": "https://www.news1.kr/local/sejong-chungbuk/6355267",
+     "title": "노동단체 '20대 환경미화원 사망' 청주시장 중대재해법 위반 고발"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -684,6 +938,12 @@
      "url": "https://n.news.naver.com/mnews/article/018/0006410383?sid=102",
      "orig": "https://www.edaily.co.kr/News/Read?newsId=01958166645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "title": "KTX 부품 교체주기 15년→5년…철도안전 종합대책 연내 마련"
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000543942?sid=101",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000346658?division=NAVER",
+     "title": "KTX 비상제동 부품 교체주기 15년→5년…철도 안전대책 연내 발표"
     }
    ],
    "day": "2026-11-16",
@@ -749,6 +1009,12 @@
      "url": "https://www.thelec.kr/news/articleView.html?idxno=65456",
      "orig": "https://www.thelec.kr/news/articleView.html?idxno=65456",
      "title": "LG전자, 휴머노이드 '클로이드' 안전 시범인증 추진"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2019073",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2019073",
+     "title": "LG전자, 휴머노이드 국내 안전 시범인증 추진…상용화 대비"
     }
    ],
    "day": "2026-11-16",
@@ -1330,6 +1596,18 @@
      "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63178",
      "orig": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63178",
      "title": "“휴머노이드 로봇 안전·품질 경쟁력 강화”..LG전자-한국로봇산업진흥..."
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261116500276",
+     "orig": "http://www.metroseoul.co.kr/article/20261116500276",
+     "title": "LG전자, 휴머노이드 개발부터 안전 검증…로봇산업진흥원과 맞손"
+    },
+    {
+     "source": "시사온",
+     "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206089",
+     "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=206089",
+     "title": "LG전자, 로봇산업진흥원과 휴머노이드 안전·품질 협력…SKT, 효성중공업..."
     }
    ],
    "day": "2026-11-16",
@@ -1612,6 +1890,18 @@
      "url": "https://n.news.naver.com/mnews/article/030/0003486021?sid=103",
      "orig": "https://www.etnews.com/20261116000227",
      "title": "현대차, 하반기 전 사업장 안전 캠페인 '세이프티 컬처 위크' 성료"
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1251212",
+     "orig": "http://www.breaknews.com/1251212",
+     "title": "현대차, '세이프티 컬처 위크' 실시..전 사업장 안전 캠페인 진행"
+    },
+    {
+     "source": "sisafocus.co.kr",
+     "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367650",
+     "orig": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367650",
+     "title": "현대차, '세이프티 컬처 위크' 실시…전 사업장 안전문화 확산"
     }
    ],
    "day": "2026-11-16",
@@ -1659,7 +1949,14 @@
    "published": "2026-11-16T09:19+09:00",
    "cat": "tech",
    "id": "90cf65ca665d",
-   "related": [],
+   "related": [
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261116500278",
+     "orig": "http://www.metroseoul.co.kr/article/20261116500278",
+     "title": "현대차, 하반기 전 사업장 안전문화 캠페인 진행"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -1805,6 +2102,12 @@
      "url": "https://www.hg-times.com/news/articleView.html?idxno=307051",
      "orig": "https://www.hg-times.com/news/articleView.html?idxno=307051",
      "title": "현대차, 하반기 안전 캠페인 '세이프티 컬처 위크' 실시"
+    },
+    {
+     "source": "시사온",
+     "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206107",
+     "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=206107",
+     "title": "현대차, 전사 안전 캠페인 '세이프티 컬처 위크' 진행"
     }
    ],
    "day": "2026-11-16",
@@ -1884,6 +2187,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=124995",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=124995",
      "title": "국토교통부, 전국 건설 현장 2964곳 겨울철 안전 점검"
+    },
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=420868",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=420868",
+     "title": "국토부, 동절기 대비 건설현장 2946곳 안전점검"
     }
    ],
    "day": "2026-11-16",
