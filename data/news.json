@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T10:52+09:00",
+ "updatedAt": "2026-11-16T11:42+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,31 +25,31 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "98d411a7a9db",
-   "title": "현대차, 국내 전 사업장서 ‘세이프티 컬처 위크’ 안전 캠페인",
-   "url": "https://n.news.naver.com/mnews/article/009/0005764158?sid=103",
-   "source": "매일경제",
-   "cat": "tech",
-   "day": "2026-11-16",
-   "count": 10
-  },
-  {
    "id": "c203e8f3e087",
    "title": "LG전자-로봇산업진흥원, 휴머노이드 안전·품질 표준화 협력",
    "url": "https://n.news.naver.com/mnews/article/092/0002445391?sid=105",
    "source": "지디넷코리아",
    "cat": "tech",
    "day": "2026-11-16",
-   "count": 7
+   "count": 12
   },
   {
-   "id": "60e0e9a3d5cf",
-   "title": "국토부, 전국 건설현장 2900곳 동절기 점검…추락·붕괴 사고 예방",
-   "url": "https://n.news.naver.com/mnews/article/421/0009290238?sid=101",
-   "source": "뉴스1",
+   "id": "98d411a7a9db",
+   "title": "현대차, 국내 전 사업장서 ‘세이프티 컬처 위크’ 안전 캠페인",
+   "url": "https://n.news.naver.com/mnews/article/009/0005764158?sid=103",
+   "source": "매일경제",
    "cat": "tech",
    "day": "2026-11-16",
-   "count": 7
+   "count": 12
+  },
+  {
+   "id": "d7366ba8c751",
+   "title": "부영그룹, 전 임직원 대상 '안전보건경영시스템(KOSHA-MS)' 교육 실시",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344203",
+   "source": "국토일보",
+   "cat": "tech",
+   "day": "2026-11-16",
+   "count": 10
   },
   {
    "id": "5e2eff1b9f73",
@@ -58,7 +58,7 @@
    "source": "연합뉴스",
    "cat": "law",
    "day": "2026-11-16",
-   "count": 7
+   "count": 8
   },
   {
    "id": "78a1cbe27689",
@@ -67,10 +67,336 @@
    "source": "헤럴드경제",
    "cat": "tech",
    "day": "2026-11-16",
-   "count": 6
+   "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "성남시 행정, 도시공간 활용도 높이고 생활권 안전 사각지대 줄인다",
+   "summary": "결정·고시 순으로 진행할 예정이다. 이번 조정의 의미는 단순히 음식점의 영업면적을 넓히는 데 있지 않다.... 경로당과 금융기관, 도서관, 보건소 등을 포함한 한파쉼터 324곳을 운영하고 스마트 그린·안전쉼터와...",
+   "url": "https://www.joongdo.co.kr/web/view.php?key=20261116010005186",
+   "orig": "https://www.joongdo.co.kr/web/view.php?key=20261116010005186",
+   "source": "중도일보",
+   "published": "2026-11-16T11:40+09:00",
+   "cat": "law",
+   "id": "f31899f648df",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "노동자 납 수치 조작 의혹...킬레이션 주사 의료기관 2곳 행정조사",
+   "summary": "보건복지부가 노동자의 혈중 납 농도를 낮춰 직업병을 숨기는 데 '킬레이션 주사'가 악용됐다는 의혹과... 특수건강진단을 앞두고 혈중 납 농도를 인위적으로 낮춰 직업병을 은폐하려 한 것 아니냐는 지적이다. 킬레이션...",
+   "url": "https://www.hinews.co.kr/view.php?ud=2026111611311255069284fa285d_48",
+   "orig": "https://www.hinews.co.kr/view.php?ud=2026111611311255069284fa285d_48",
+   "source": "hinews.co.kr",
+   "published": "2026-11-16T11:40+09:00",
+   "cat": "hlt",
+   "id": "13d2d582ba84",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "한국인증센터, 엘캠퍼스·중대안전보건예방협회와 3자 업무협약 체결",
+   "summary": "엘캠퍼스, 고용노동부 지정 안전교육 기관 중대안전보건예방협회와 기업의 중대재해 예방 및 ESG 경영체계... 이번 협약은 기업 임직원의 직무역량 강화부터 산업재해 예방 컨설팅, 글로벌 표준에 맞춘 인증 취득까지...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005354210?sid=101",
+   "orig": "https://www.hankyung.com/article/202611168592O",
+   "source": "한국경제",
+   "published": "2026-11-16T11:38+09:00",
+   "cat": "tech",
+   "id": "0e7e6ba0d4b3",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "현대차, 국내 전 사업장 안전점검…사업부장 직접 참여·CSO 안전문화 강...",
+   "summary": "끼임·넘어짐 사고 예방과 건강관리 등을 주제로 안전 정보를 전달하고, 사내방송에서는 자체 안전 브랜드 '바로제로'를 활용한 안전만화를 방영했다. 현장 참여를 높이기 위한 '2026 H-안전골든벨'도 온·오프라인으로...",
+   "url": "https://sateconomy.co.kr/news/view/1065578967487649",
+   "orig": "https://sateconomy.co.kr/news/view/1065578967487649",
+   "source": "sateconomy.co.kr",
+   "published": "2026-11-16T11:36+09:00",
+   "cat": "tech",
+   "id": "284355bc7bd3",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "LG전자, 2027년 이족보행 로봇 출격 앞두고 '안전·품질 DNA' 선제 이식",
+   "summary": "김창민 LG전자 품질경영센터장은 \"전문기관과의 긴밀한 협력을 통해 휴머노이드 로봇의 안전·품질 경쟁력을 선제적으로 다질 것\"이라면서 \"글로벌 시장에서 고객이 가장 안심하고 선택할 수 있는 로봇 브랜드로 입지를...",
+   "url": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147108",
+   "orig": "http://www.opinionnews.co.kr/news/articleView.html?idxno=147108",
+   "source": "opinionnews.co.kr",
+   "published": "2026-11-16T11:36+09:00",
+   "cat": "tech",
+   "id": "402aa61fea20",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "부영그룹, 안전보건경영 교육 실시...중대재해 예방 체계 점검",
+   "summary": "부영그룹은 2019년 한국산업안전보건공단으로부터 KOSHA 18001 인증을 받은 뒤 2021년 KOSHA-MS로 전환했다. KOSHA-MS는 경영진의 안전보건 방침을 바탕으로 기업의 안전보건관리체계를 구축하고 관련 활동을 체계적으로...",
+   "url": "https://www.newspost.kr/news/articleView.html?idxno=227417",
+   "orig": "https://www.newspost.kr/news/articleView.html?idxno=227417",
+   "source": "newspost.kr",
+   "published": "2026-11-16T11:32+09:00",
+   "cat": "tech",
+   "id": "cc21aa2b7c83",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "노인일자리 안전사고 30% 줄었다…고령친화 작업환경 조성",
+   "summary": "지난해부터 2년 연속 사업에 참여한 기관 100개소의 안전사고 발생 건수는 2024년 770건에서 지난해 537건으로... 아울러 문에 손 끼임 방지를 위한 고무판을 설치하는 등 노인의 안전을 위한 근무환경을 조성했다. 경기...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003762717?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261116/135030829/2",
+   "source": "동아일보",
+   "published": "2026-11-16T11:29+09:00",
+   "cat": "acc",
+   "id": "0a17c4f02e06",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "16일부터 내달 24일까지 전국 2946개 건설현장 안전 점검",
+   "summary": "건설현장 작업자 안전 관리 등 공사현장의 안전ㆍ품질 및 시공 관리 상태를 집중 점검한다. 점검의 전문성... 아울러 최근 추락사고가 지속적으로 발생함에 따라 이번 점검에서 안전난간, 추락방지망 등 추락 방지...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611160920394420157",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611160920394420157",
+   "source": "대한경제",
+   "published": "2026-11-16T11:22+09:00",
+   "cat": "law",
+   "id": "9c685599c1e7",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "정부, 국유재산 전 사업장에 AI·드론 안전관리 도입…\"위험요소 선제 ...",
+   "summary": "현장 안전관리의 과학화를 위한 스마트 장비 도입도 본격화했다. 재경부는 올해부터 캠코가 진행하는 건물 개보수 현장 등을 중심으로 드론과 AI 기술을 활용한 안전점검 기법을 적용하며 관리 체계를 고도화하고...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=303802",
+   "orig": "https://www.widedaily.com/news/articleView.html?idxno=303802",
+   "source": "widedaily.com",
+   "published": "2026-11-16T11:16+09:00",
+   "cat": "tech",
+   "id": "2b2b5f888f0d",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "LG전자, 휴머노이드 로봇 '클로이드' 국내 안전 시범인증 추진…로봇산...",
+   "summary": "이와 함께 자사의 휴머노이드 로봇 'LG 클로이드(CLOiD)' 등을 대상으로 한 국내 안전 시범인증 절차도 병행해 추진한다. 김창민 LG전자 품질경영센터장(전무)은 시장 내 신뢰 구축에 대한 강한 의지를 드러냈다. 김...",
+   "url": "https://www.widedaily.com/news/articleView.html?idxno=303803",
+   "orig": "https://www.widedaily.com/news/articleView.html?idxno=303803",
+   "source": "widedaily.com",
+   "published": "2026-11-16T11:16+09:00",
+   "cat": "tech",
+   "id": "6bbfcc1be404",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "세무사 시험 AI 부정행위 파문… 노동부, 모든 국가자격시험 조사",
+   "summary": "고용노동부/사진 = 안전신문 자료사진. 세무사 시험에서 인공지능(AI)을 활용한 부정행위가 드러나자 정부가... 고용노동부는 15일 권창준 차관 주재로 한국산업인력공단과 비상대책회의를 열고 제63회 세무사 시험 AI...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251583",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251583",
+   "source": "안전신문",
+   "published": "2026-11-16T11:14+09:00",
+   "cat": "law",
+   "id": "d92c5bb07e64",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "소규모 사업장 자체활동시 안전·보건관리자 선임 인정키로",
+   "summary": "지원사업의 실효성 제고 등 남은 과제를 논의해 내년 상반기까지 추가 합의를 도출한다는 목표다. 고용노동부는 노사정 합의 내용을 토대로 내년 중 산업안전보건법 시행령을 개정하고 2028년부터 시행한다는 계획이다.",
+   "url": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115175",
+   "orig": "http://www.kbiznews.co.kr/news/articleView.html?idxno=115175",
+   "source": "중소기업뉴스",
+   "published": "2026-11-16T11:08+09:00",
+   "cat": "law",
+   "id": "088992fc0fac",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "AI로 지하철 안전 지킨다",
+   "summary": "서울교통공사는 지난 6일부터 8일까지 서울 코엑스에서 열린 ‘스마트라이프위크 2026(SLW)’에 참가해 AI 기반 지하철 안전·유지관리 기술을 선보였다고 밝혔다. 대표적인 기술은 ‘AI 전차선 검측시스템’이다. 열차 운행...",
+   "url": "https://www.naeil.com/news/read/608944?ref=naver",
+   "orig": "https://www.naeil.com/news/read/608944?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-16T11:08+09:00",
+   "cat": "tech",
+   "id": "b996e19e0486",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "코오롱글로벌 김영범號 실적 반등에도 경영진 책임론...임원 인사 주목",
+   "summary": "건설현장 안전사고가 기업의 주요 경영 리스크로 부각된 상황에서 사고 원인과 안전관리 체계에 대한 점검이 필요하다는 지적이 나온다. 이에 따라 안전관리 조직의 운영과 사고 예방 체계를 총괄하는 관련 임원진의...",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026111610464518876",
+   "orig": "https://www.newsway.co.kr/news/view?ud=2026111610464518876",
+   "source": "뉴스웨이",
+   "published": "2026-11-16T11:08+09:00",
+   "cat": "tech",
+   "id": "37bfb1ed8c18",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "한국지역난방공사, 고위험작업 위험도 실시간 분석해 사고 예방",
+   "summary": "이를 통해 사고 발생 가능성이 높은 작업을 우선적으로 점검하고 안전관리 누락을 방지한다는 계획이다. 한난은 현장 점검의 실효성을 높이기 위해 13대 핵심 안전수칙을 반영한 고위험작업 안전점검표도 새롭게...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251582",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251582",
+   "source": "안전신문",
+   "published": "2026-11-16T11:04+09:00",
+   "cat": "tech",
+   "id": "462eee8e0eab",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "[단독] 김태원 아워홈 대표, 근로자 위험시 '작업 중지권' 명령하기로",
+   "summary": "현장 근로자가 위험하다고 판단하면 스스로 작업을 멈출 수 있도록 하는 작업 중지 권한을 강화한다. 공장... 감지해 화재를 예방하는 용도였다. 이를 업그레이드해 현장 근로자의 안전을 대폭 강화하는 것이다. AI CCTV는...",
+   "url": "https://www.newspim.com/news/view/20261116000422",
+   "orig": "https://www.newspim.com/news/view/20261116000422",
+   "source": "뉴스핌",
+   "published": "2026-11-16T11:01+09:00",
+   "cat": "tech",
+   "id": "68bb5e15beb8",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "KTX-산천 전기부품 교체주기 15년→5년…철도 안전관리 강화",
+   "summary": "국토교통부가 반복되는 철도사고와 운행장애를 줄이기 위해 연내 철도 안전 강화 종합대책을 마련한다.... 코레일은 차량정리 작업 중 작업자가 화차 외부에 탑승하는 위험을 줄이기 위해 이달 후방카메라 기술을...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003155604?sid=101",
+   "orig": "https://www.dailian.co.kr/news/view/1715431/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-16T11:01+09:00",
+   "cat": "law",
+   "id": "e914790a0d60",
+   "related": [
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006410383?sid=102",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=01958166645646376&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "KTX 부품 교체주기 15년→5년…철도안전 종합대책 연내 마련"
+    }
+   ],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] 서영주 포스텍 교수 \"AI가 안전관리 패러다임 바꾼다\"",
+   "summary": "서 교수는 중대재해처벌법 시행 이후에도 사망자가 2000명 안팎에서 줄지 않아 법과 제도만으로는 예방에 한계가 있다고 짚는다. 기업들이 도입한 스마트 안전기술도 구축비용과 운영 부담이 커 확산이 어렵고...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258891",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=258891",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-16T11:00+09:00",
+   "cat": "tech",
+   "id": "3ebff0809e02",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "한국이러닝교육원, 하반기 온라인 산업안전보건교육...다양한 온라인콘...",
+   "summary": "한국이러닝교육원은 2026년 하반기 산업안전보건교육을 온라인 원격 방식으로 진행한다고 16일 밝혔다.... 한국이러닝교육원은 고용노동부에서 정식 인정을 받은 위탁교육기관이다. 법정의무교육 이외에도...",
+   "url": "https://www.job-post.co.kr/news/articleView.html?idxno=238517",
+   "orig": "https://www.job-post.co.kr/news/articleView.html?idxno=238517",
+   "source": "job-post.co.kr",
+   "published": "2026-11-16T11:00+09:00",
+   "cat": "law",
+   "id": "33635a74e76e",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "캠코, 국유건물 지진·화재 합동훈련…관계기관 70여 명 참여",
+   "summary": "찾을 수 있는 안전한 국유재산 환경을 만들어 가겠다\"고 말했다. 한편, 캠코는 화재 취약가구에 소방시설 보급을 지원하고 있다. 또 안전경영 부문 책임제를 운영하며 건설 현장에 대한 특별 안전점검을 진행하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/014/0005604727?sid=101",
+   "orig": "https://www.fnnews.com/news/202611161013274641",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-16T10:59+09:00",
+   "cat": "tech",
+   "id": "a444e7c2f8bf",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "LG전자, 휴머노이드 '안전인증' 추진…피지컬 AI 상용화 채비",
+   "summary": "두 발로 걷는 로봇은 바퀴형보다 균형 제어와 낙상 위험 관리가 까다로워 안전 검증이 중요하다. 김창민 LG전자 품질경영센터장(전무)는 “한국로봇산업진흥원과의 협력을 통해 휴머노이드 로봇 안전·품질 경쟁력을...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003485960?sid=101",
+   "orig": "https://www.etnews.com/20261116000169",
+   "source": "전자신문",
+   "published": "2026-11-16T10:59+09:00",
+   "cat": "tech",
+   "id": "2f3deec23e6a",
+   "related": [
+    {
+     "source": "뉴스토마토",
+     "url": "http://www.newstomato.com/ReadNews.aspx?no=1320531&inflow=N",
+     "orig": "http://www.newstomato.com/ReadNews.aspx?no=1320531&inflow=N",
+     "title": "LG전자, 로봇 안전 기준 마련…휴머노이드 상용화 채비"
+    }
+   ],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "'만취 교통사고' 고경표, 방송·영화계 민폐 끼치고도…'차 키 해명' 사...",
+   "summary": "몰다 작업 중이던 청소차와 부딪쳤다. 당시 그의 혈중알코올농도는 면허 취소 기준인 0.08%를 크게 웃도는 0.150%였던 것으로 전해졌다. 사고 여파는 곧바로 방송가와 영화계로 번졌다. 그가 출연 중이던 MBC '놀면 뭐하니?...",
+   "url": "https://www.tvreport.co.kr/entertainment/article/1091126/",
+   "orig": "https://www.tvreport.co.kr/entertainment/article/1091126/",
+   "source": "tvreport.co.kr",
+   "published": "2026-11-16T10:58+09:00",
+   "cat": "acc",
+   "id": "8272515e7e4a",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "현대차, 전 사업장 안전점검·임직원 안전의식 제고",
+   "summary": "안전 메시지 전달 프로그램에서는 끼임 사고와 넘어짐 예방, 건강관리 등을 주제로 제작한 카드뉴스를 임직원에게 배포했다. 사내방송에서는 현대차 안전 브랜드 '바로제로'의 의미와 가치를 소개하는 안전만화도...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2121928",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2121928",
+   "source": "포쓰저널",
+   "published": "2026-11-16T10:56+09:00",
+   "cat": "tech",
+   "id": "fac929e5e157",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "AI·드론으로 국유재산 위험요소 387건 찾아…스마트 안전관리 본격화",
+   "summary": "현장 안전관리가 차질 없이 진행되고 있다고 밝혔다. 올해 처음 현장에 도입된 AI·드론 기반 스마트 점검 기술이 두드러진 성과를 냈다. 캠코는 현장 사진을 AI가 분석해 유해·위험 요인을 선제적으로 도출하는 'AI...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000552165?sid=101",
+   "orig": "https://news.tf.co.kr/read/economy/2389138.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-16T10:54+09:00",
+   "cat": "tech",
+   "id": "595da4d0a4d5",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
   {
    "title": "전국 건설현장 2,946곳 한파·폭설 안전점검…부실시공 적발 시 엄중 조...",
    "summary": "작업자 안전관리와 추락사고 예방 조치도 병행한다. 최근 건설현장에서 추락사고가 지속적으로 발생함에 따라 안전난간과 추락방지망 등의 설치 상태를 확인하고, 현장에서 필요한 재해 예방 조치가 이행되고 있는지...",
@@ -360,7 +686,20 @@
    "published": "2026-11-16T10:06+09:00",
    "cat": "tech",
    "id": "4780995d3747",
-   "related": [],
+   "related": [
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=20261116110148369267191f6c6e_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=20261116110148369267191f6c6e_12",
+     "title": "부영그룹, 임직원 500여명 대상 ‘KOSHA-MS’ 교육…안전문화 정착"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000102248",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000102248",
+     "title": "부영그룹, 임직원 500여 명 안전보건교육…무재해 사업장 조성"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -483,6 +822,12 @@
      "url": "https://n.news.naver.com/mnews/article/056/0012294440?sid=101",
      "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8713538&ref=A",
      "title": "재경부, 국유재산 안전관리에 AI·드론 활용…“387건 위험 보완”"
+    },
+    {
+     "source": "디지털타임스",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059324?sid=105",
+     "orig": "https://www.dt.co.kr/article/12095380?ref=naver",
+     "title": "재경부, 드론·AI로 국유재산 안전관리…위험요인 387건 발견"
     }
    ],
    "day": "2026-11-16",
@@ -533,6 +878,36 @@
      "url": "http://www.queen.co.kr/news/articleView.html?idxno=466347",
      "orig": "http://www.queen.co.kr/news/articleView.html?idxno=466347",
      "title": "LG전자, 한국로봇산업진흥원과 맞손…휴머노이드 로봇 안전·품질 표준..."
+    },
+    {
+     "source": "동아일보",
+     "url": "https://n.news.naver.com/mnews/article/020/0003762703?sid=101",
+     "orig": "https://www.donga.com/news/Economy/article/all/20261116/135030664/1",
+     "title": "LG전자, 한국로봇산업진흥원과 휴머노이드 안전·품질 평가체계 구축"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005604748?sid=101",
+     "orig": "https://www.fnnews.com/news/202611161051351583",
+     "title": "LG전자, 휴머노이드 안전 시범인증 추진…로봇산업진흥원과 협력"
+    },
+    {
+     "source": "techholic.co.kr",
+     "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223687",
+     "orig": "http://www.techholic.co.kr/news/articleView.html?idxno=223687",
+     "title": "LG전자, 한국로봇산업진흥원과 휴머노이드 안전·품질 강화"
+    },
+    {
+     "source": "newsquest.co.kr",
+     "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305093",
+     "orig": "https://www.newsquest.co.kr/news/articleView.html?idxno=305093",
+     "title": "LG전자, 로봇산업진흥원과 맞손…휴머노이드 상용화 앞두고 안전·품질..."
+    },
+    {
+     "source": "dailycar.co.kr",
+     "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63178",
+     "orig": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63178",
+     "title": "“휴머노이드 로봇 안전·품질 경쟁력 강화”..LG전자-한국로봇산업진흥..."
     }
    ],
    "day": "2026-11-16",
@@ -675,6 +1050,36 @@
      "url": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91823",
      "orig": "https://www.niceeconomy.co.kr/news/articleView.html?idxno=91823",
      "title": "부영그룹, 전 임직원 대상 안전보건경영시스템 교육 실시"
+    },
+    {
+     "source": "newsdream.kr",
+     "url": "http://www.newsdream.kr/news/articleView.html?idxno=122213",
+     "orig": "http://www.newsdream.kr/news/articleView.html?idxno=122213",
+     "title": "부영그룹, 임직원 안전보건경영시스템 교육 실시"
+    },
+    {
+     "source": "datanews.co.kr",
+     "url": "http://www.datanews.co.kr/news/article.html?no=147610",
+     "orig": "http://www.datanews.co.kr/news/article.html?no=147610",
+     "title": "부영그룹, 전 임직원 대상 안전보건경영시스템 교육 실시"
+    },
+    {
+     "source": "wolyo.co.kr",
+     "url": "https://www.wolyo.co.kr/news/articleView.html?idxno=320545",
+     "orig": "https://www.wolyo.co.kr/news/articleView.html?idxno=320545",
+     "title": "\"안전보건 경영체제 지속\"...부영그룹, 전 임직원 대상 'KOSHA-MS' 교육 실..."
+    },
+    {
+     "source": "FETV",
+     "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313761",
+     "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=313761",
+     "title": "부영그룹, 18일부터 안전보건경영시스템 교육 돌입"
+    },
+    {
+     "source": "finomy.com",
+     "url": "http://www.finomy.com/news/articleView.html?idxno=266754",
+     "orig": "http://www.finomy.com/news/articleView.html?idxno=266754",
+     "title": "부영그룹, 전 임직원 안전보건경영 교육 실시"
     }
    ],
    "day": "2026-11-16",
@@ -743,6 +1148,18 @@
      "url": "http://www.worktoday.co.kr/news/articleView.html?idxno=92064",
      "orig": "http://www.worktoday.co.kr/news/articleView.html?idxno=92064",
      "title": "현대차, 전 사업장 안전문화 확산…하반기 '세이프티 컬처 위크' 개최"
+    },
+    {
+     "source": "getnews.co.kr",
+     "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887283",
+     "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=887283",
+     "title": "현대차, 국내 전 사업장서 안전 캠페인 실시...경영진 현장점검"
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=202611161106575345112616b072_1",
+     "orig": "https://www.g-enews.com/view.php?ud=202611161106575345112616b072_1",
+     "title": "​현대차, 전 사업장 안전문화 강화…'세이프티 컬처 위크' 진행"
     }
    ],
    "day": "2026-11-16",
@@ -911,6 +1328,12 @@
      "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173215",
      "orig": "http://www.choicenews.co.kr/news/articleView.html?idxno=173215",
      "title": "현대차, '세이프티 컬처위크' 진행...안전문화 확산"
+    },
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=20261116105954109667191f6c6e_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=20261116105954109667191f6c6e_12",
+     "title": "현대차, 하반기 ‘세이프티 컬처 위크’…전 사업장 안전문화 확산"
     }
    ],
    "day": "2026-11-16",
@@ -1056,6 +1479,19 @@
    "published": "2026-11-16T06:34+09:00",
    "cat": "tech",
    "id": "c7c2c558163b",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
+  {
+   "title": "개발ㆍ분쟁ㆍAI ‘원팀’ 시너지… 최강 법률서비스",
+   "summary": "법무법인 태평양 5184억원 건설분쟁 승소 등 활약 PF 정상화ㆍ중대재해 맞춤 자문 AI 인프라센터에 전문가... 중대재해처벌법 시행 이후 건설사 본사의 현장 점검과 발주자의 안전관리에 관한 관심이 커지면서 도급계약...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151323126130105",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151323126130105",
+   "source": "대한경제",
+   "published": "2026-11-16T06:22+09:00",
+   "cat": "tech",
+   "id": "33c55ec2a7ca",
    "related": [],
    "day": "2026-11-16",
    "watch": []
@@ -1227,6 +1663,12 @@
      "url": "https://www.arunews.com/news/articleView.html?idxno=69547",
      "orig": "https://www.arunews.com/news/articleView.html?idxno=69547",
      "title": "국토부, 동절기 대비 전국 건설현장 2,946곳 안전점검"
+    },
+    {
+     "source": "디지털데일리",
+     "url": "https://n.news.naver.com/mnews/article/138/0002248684?sid=101",
+     "orig": "https://www.ddaily.co.kr/page/view/2026111610293946136",
+     "title": "국토부, 한파·폭설 대비 건설현장 안전점검…추락·붕괴 위험 집중 관..."
     }
    ],
    "day": "2026-11-16",
