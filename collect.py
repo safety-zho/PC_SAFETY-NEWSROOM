@@ -276,6 +276,11 @@ def relevant(art: dict, cfg: dict) -> bool:
     both = title + " " + desc
     if contains_any(both, cfg["exclude_if_any"]) or contains_any(title, cfg.get("exclude_if_title_has", [])):
         return False
+    # 네이버 '세계' 섹션(sid=104) 해외 기사는 제목에 공장·노동자 같은 산업 현장 표현이 있을 때만 받음
+    # (해외 교통사고·건물 붕괴·항공기 추락 등 일반 사고는 제외, 해외 공장 폭발 같은 산업재해는 유지)
+    if any(u in (art.get("url", "") + " " + art.get("orig", "")) for u in cfg.get("exclude_url_contains", [])):
+        if not contains_any(title, cfg.get("foreign_keep_if_title_has", [])):
+            return False
     w = cfg.get("watch") or {}
     if watch_hits(art, cfg):
         # 우리 회사 기사: 제목에 안전·노동 관련 단어가 있거나, 요약문에 사고·산재 같은 강한 단어가 있으면 통과
