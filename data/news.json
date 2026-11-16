@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-16T11:42+09:00",
+ "updatedAt": "2026-11-16T11:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -49,7 +49,7 @@
    "source": "국토일보",
    "cat": "tech",
    "day": "2026-11-16",
-   "count": 10
+   "count": 11
   },
   {
    "id": "5e2eff1b9f73",
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "20대 기간제 청소노동자 사망..청주시장 중대재해처벌법 위반 혐의 고발",
+   "summary": "지역 노동계가 최근 발생한 20대 청소 노동자 사망 사고의 책임을 물어 이장섭 청주시장을 중대재해처벌법 위반 혐의로 고용노동부에 고발했습니다. 비정규직없는충북만들기운동본부는 오늘(16) 기자회견을 열고...",
+   "url": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261116&SEQUENCE=0112",
+   "orig": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20261116&SEQUENCE=0112",
+   "source": "mbccb.co.kr",
+   "published": "2026-11-16T11:42+09:00",
+   "cat": "sev",
+   "id": "65d53e935860",
+   "related": [],
+   "day": "2026-11-16",
+   "watch": []
+  },
   {
    "title": "성남시 행정, 도시공간 활용도 높이고 생활권 안전 사각지대 줄인다",
    "summary": "결정·고시 순으로 진행할 예정이다. 이번 조정의 의미는 단순히 음식점의 영업면적을 넓히는 데 있지 않다.... 경로당과 금융기관, 도서관, 보건소 등을 포함한 한파쉼터 324곳을 운영하고 스마트 그린·안전쉼터와...",
@@ -698,6 +711,12 @@
      "url": "https://www.seoultimes.news/news/article.html?no=2000102248",
      "orig": "https://www.seoultimes.news/news/article.html?no=2000102248",
      "title": "부영그룹, 임직원 500여 명 안전보건교육…무재해 사업장 조성"
+    },
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=514216",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=514216",
+     "title": "[뉴스워커_부영그룹] 임직원 500여 명 대상 안전보건교육…18일부터 실시"
     }
    ],
    "day": "2026-11-16",
@@ -1080,6 +1099,12 @@
      "url": "http://www.finomy.com/news/articleView.html?idxno=266754",
      "orig": "http://www.finomy.com/news/articleView.html?idxno=266754",
      "title": "부영그룹, 전 임직원 안전보건경영 교육 실시"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3162703",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3162703",
+     "title": "부영그룹, 전 임직원 대상 KOSHA-MS 안전보건 교육 실시"
     }
    ],
    "day": "2026-11-16",
