@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T10:51+09:00",
+ "updatedAt": "2026-11-17T11:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,16 @@
    "source": "안전신문",
    "cat": "tech",
    "day": "2026-11-17",
-   "count": 3
+   "count": 4
+  },
+  {
+   "id": "11e277b43b64",
+   "title": "산림청, 가을철 벌목현장 특별점검",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
+   "source": "businesskorea.co.kr",
+   "cat": "law",
+   "day": "2026-11-17",
+   "count": 2
   },
   {
    "id": "80798d6e9556",
@@ -62,6 +71,273 @@
   }
  ],
  "articles": [
+  {
+   "title": "\"박윤영 KT, AI로 비용절감 몰두…현장 노동자 안전은 뒷전\"",
+   "summary": "노조는 KT가 현장 안전관리를 협력업체에 맡긴 채 사고 발생 시 책임을 해당 업체에 돌리는 구조를 개선해야 한다고 지적했다. 노조는 KT 경영진이 AI를 활용한 현장 업무 효율화를 경영 성과로 내세우는 데 대해서도...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2122038",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2122038",
+   "source": "포쓰저널",
+   "published": "2026-11-17T11:50+09:00",
+   "cat": "tech",
+   "id": "ef4978c316f6",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "방문판매 불법행위 '법 위반' 임직원도 내부 고발시 포상금 지급…포상...",
+   "summary": "있는 안전장치도 함께 마련했다. 이와 함께 기존 1000만원으로 묶여 있던 신고포상금 지급 한도도 전면... 자율적인 준법 경영 문화를 확산시켜 방문판매 시장 전반의 공정성과 소비자 신뢰를 높이는 데 기여할 것\"이라고 했다.",
+   "url": "https://n.news.naver.com/mnews/article/277/0005843710?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026111709571325386",
+   "source": "아시아경제",
+   "published": "2026-11-17T11:42+09:00",
+   "cat": "acc",
+   "id": "da2c64194615",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "해수부, 항만시설 설계기준 개정…안전 '촘촘히', 물류 '막힘없이'!",
+   "summary": "해양수산부가 항만시설 설계기준을 개선해 안전을 빈틈없이 하는 동시에 물류 이동을 수월하게 하는... 또 스마트 기술 도입을 지원하기 위한 실무 기술자료 2종의 개발 결과도 발표한다. 항만 설계 시 해수 유동...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005442236?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/11/17/2026111711111457798",
+   "source": "머니투데이",
+   "published": "2026-11-17T11:32+09:00",
+   "cat": "tech",
+   "id": "0dc27cd589de",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "군산해경, 군산항 남방파제 인근 해상 준설작업선 화재 진화",
+   "summary": "군산항 남방파제 인근 해상에서 준설 중이던 선박에 화재가 발생해 해경이 진화 작업을 펼쳤다. 군산항... 군산해경은 발전기 수리 후 재가동 과정에서 화재가 발생했을 가능성에 무게를 두고 정확한 사고 원인 등을...",
+   "url": "http://www.domin.co.kr/news/articleView.html?idxno=1575776",
+   "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1575776",
+   "source": "전북도민일보",
+   "published": "2026-11-17T11:30+09:00",
+   "cat": "acc",
+   "id": "6e387c4a72bc",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "대천해수욕장 물놀이 사고 '4년 연속 제로'…보령 안전관리 빛났다",
+   "summary": "이외에도 중대재해 예방을 위한 안전보건관리체계 운영, 사업장 유해,위험요인 사전 발굴 및 개선지원, 산업 재해 예방활동 강화, 산업안전보건 교육, 감정노동 예방관리에 만전을 기했다.통합관제팀은 24시간 CCTV...",
+   "url": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240392",
+   "orig": "https://www.cctoday.co.kr/news/articleView.html?idxno=2240392",
+   "source": "충청투데이",
+   "published": "2026-11-17T11:30+09:00",
+   "cat": "acc",
+   "id": "af27d07b2a53",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[상생경영] 배달파트너 안전 챙기는 쿠팡이츠서비스, 찾아가는 이륜차 ...",
+   "summary": "쿠팡이츠서비스(CES)가 한국도로교통공단과 협력해 배달파트너의 안전운전 역량 강화와 사고 예방을 위한 '찾아가는 이륜차 주행 실습 안전교육'을 실시했다고 17일 밝혔다. 이번 교육은 배달 현장의 교통사고 예방을...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301415",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301415",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-17T11:28+09:00",
+   "cat": "tech",
+   "id": "0757884661fc",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "신상진 성남시장, 공사장 붕괴·안전사고 예방 나서…민관 합동점검 추...",
+   "summary": "등 사고를 막기 위한 안전조치가 제대로 이행되고 있는지를 확인한다. 공정별 안전계획의 수립과 이행 여부도 점검 대상에 포함됐다. 주요 공정의 시공 상태를 살펴 계획과 실제 작업 과정에서 안전관리가 적절하게...",
+   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33149",
+   "orig": "http://www.fieldnews.kr/news/articleView.html?idxno=33149",
+   "source": "fieldnews.kr",
+   "published": "2026-11-17T11:20+09:00",
+   "cat": "tech",
+   "id": "44ae87340c01",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "의왕시, 자활근로자 건강·안전 챙긴다…맞춤형 의료급여 특화사업 추진",
+   "summary": "의왕=박성훈 기자 경기 의왕시가 의료급여 수급 자활근로자의 신체·정신 건강을 돌보고 근무 중 사고를... 알코올 의존 예방교육은 올바른 생활습관 형성을 돕고, 화재 안전과 응급처치 교육은 작업 현장에서 발생할 수...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002833329?sid=102",
+   "orig": "https://www.munhwa.com/article/11631848?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-17T11:16+09:00",
+   "cat": "tech",
+   "id": "8d3a9bd80760",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "의왕도시공사, 건강증진·위험성평가 우수사업장 동시 선정",
+   "summary": "공사는 한국산업안전보건공단이 주관하는 '근로자 건강증진활동 우수사업장'과 '위험성평가 우수사업장'에... 사업주와 관리감독자, 근로자 면담 및 현장 심사를 거쳐 종합 90점을 획득했다. 특히 최근 1년간 무재해를...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293282?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6356500",
+   "source": "뉴스1",
+   "published": "2026-11-17T11:13+09:00",
+   "cat": "law",
+   "id": "d1535c8964e0",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "창녕군, 산림사업장 벌목 안전관리 특별점검",
+   "summary": "창녕군이 벌목 작업 중 발생할 수 있는 안전사고를 예방하기 위해 산림사업장에 대한 특별점검에 나섰다. 창녕군은 지난 16일 숲가꾸기 등 벌목 작업이 진행되는...",
+   "url": "http://www.breaknews.com/1251516",
+   "orig": "http://www.breaknews.com/1251516",
+   "source": "브레이크뉴스",
+   "published": "2026-11-17T11:12+09:00",
+   "cat": "tech",
+   "id": "970e5e852812",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "반도체 산단 짓는 노동자들, 먼저 만난 메가특구의 미래",
+   "summary": "일반산업단지(이하 용인 반도체 산단)는 해발 250미터 높이의 산을 깎아 터를 닦은 곳이다. 용인 토박이라는... 유급 청원휴가, 유급 보건휴가도 단체협약으로 보장하기도 했다. 반도체 산단 건설현장은 그렇지 않다는...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41830",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41830",
+   "source": "laborplus.co.kr",
+   "published": "2026-11-17T11:10+09:00",
+   "cat": "hlt",
+   "id": "32150990820b",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "中 6세 여아 유전자 치료 사망 사건 책임자 해임",
+   "summary": "안전성 보고서에 치료 전 조기 경고 신호가 있었지만 간과한 것이다. 해당 임상연구 책임자도 신화병원의... 리 연구원은 중국 바이오산업의 성장세가 뚜렷하지만 임상시험 감독이 언제나 그 속도를 따라간 것은 아니라며...",
+   "url": "https://n.news.naver.com/mnews/article/584/0000040178?sid=105",
+   "orig": "https://www.dongascience.com/news/view/80906",
+   "source": "dongascience.com",
+   "published": "2026-11-17T11:07+09:00",
+   "cat": "sev",
+   "id": "51de325cde7a",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "산림청-지방정부, 벌목현장 안전관리 특별점검",
+   "summary": "산림청은 관계부처와 협의해 벌목작업을 특별 안전보건교육 대상에 포함하는 한편 '산업안전보건법'에 따라 일정한 자격을 갖춘 사람이 벌목 작업을 수행할 수 있도록 취업 기준 마련에도 나설 계획이다. 방재일 산림청...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005843679?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026111711071198249",
+   "source": "아시아경제",
+   "published": "2026-11-17T11:07+09:00",
+   "cat": "hlt",
+   "id": "cc2f5f93a328",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "유전자 편집 믿고 맡긴 아이들 잇단 사망…중국 바이오산업에 경고등",
+   "summary": "바이오산업의 임상시험 안전성과 연구윤리가 도마 위에 올랐다. 동물실험에서 심각한 부작용이... IIT는 연구자와 병원이 주도하는 임상연구로, 국가약품감독관리국(NMPA)의 일반적인 신약 임상시험 승인 절차를 거치지...",
+   "url": "https://www.abcn.kr/news/articleView.html?idxno=94652",
+   "orig": "https://www.abcn.kr/news/articleView.html?idxno=94652",
+   "source": "abcn.kr",
+   "published": "2026-11-17T11:06+09:00",
+   "cat": "sev",
+   "id": "ccf3937708dd",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "산림청, 가을철 벌목현장 특별점검",
+   "summary": "이번 점검에는 고용노동부와 안전보건공단도 참여해 벌목사업장 합동점검을 추진하며 전문성을 높였다.... 특별 안전보건교육 대상에 포함하는 방안을 검토하고 있다. 제도적 보완책도 마련된다. 산림청은 산업안전보건법...",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
+   "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
+   "source": "businesskorea.co.kr",
+   "published": "2026-11-17T11:02+09:00",
+   "cat": "law",
+   "id": "11e277b43b64",
+   "related": [
+    {
+     "source": "paxetv.com",
+     "url": "http://www.paxetv.com/news/articleView.html?idxno=287180",
+     "orig": "http://www.paxetv.com/news/articleView.html?idxno=287180",
+     "title": "산림청, 가을철 벌목현장 안전관리 특별점검···근로자 안전 확보 '총..."
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "국표원, 제품안전 유공자 74점 포상…해외직구 확산에 안전관리 강화",
+   "summary": "홍 대표는 40년간 전선산업에 종사하며 안전경영을 실천하고 한국전선공업협동조합 품질보증마크인 KEWIC 품질보증사업을 주도한 공로를 인정받았다. 특히 시중에 유통되는 불량 전선의 단속과 퇴출에 기여해 전선...",
+   "url": "https://www.ajunews.com/view/20261117093101153",
+   "orig": "https://www.ajunews.com/view/20261117093101153",
+   "source": "아주경제",
+   "published": "2026-11-17T11:02+09:00",
+   "cat": "tech",
+   "id": "816926a4ebd5",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "바닷물에 녹스는 철근 대신 신소재…항만 설계·안전기준 바뀐다",
+   "summary": "해양수산부는 항만시설 설계기준 개정안과 스마트항만 기술자료에 대한 의견을 수렴하기 위해 오는 27일... 공청회에는 항만 건설과 기술, 현장 안전에 관심 있는 국민 누구나 참여할 수 있다. 사전 신청은 오는 25일 오후...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724434?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10939235?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-17T11:01+09:00",
+   "cat": "tech",
+   "id": "9dd197f0c7a8",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "국표원, '2026 제품안전의 날' 개최…유공자·유공단체 총 74점 포상",
+   "summary": "홍 대표는 40년간 전선산업에 종사하며 안전 경영을 실천해 왔으며, 한국전선공업협동조합 품질보증마크(KEWIC) 품질보증 사업 주도 및 시중 불량 전선 단속·퇴출 등 국내 전선·전기 제품의 안전성 강화를 선도한 공로를...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293214?sid=101",
+   "orig": "https://www.news1.kr/economy/trend/6356398",
+   "source": "뉴스1",
+   "published": "2026-11-17T11:00+09:00",
+   "cat": "tech",
+   "id": "c50efb4730bd",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "“AI 커닝 우리가 다 잡겠다” 나선 공공기관 직원…“열화상카메라 개...",
+   "summary": "글쓴이가 언급한 전기안전공사에서 사용하는 열화상 카메라는 전기설비의 이상 발열을 확인하는 산업용... 지급하자”, “예산 받을 자격이 있다. 올해 평가 S급”, “수능 감독관으로 적격이다” 등의 반응이 이어졌다.",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724431?sid=102",
+   "orig": "https://biz.heraldcorp.com/article/10939552?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-17T10:59+09:00",
+   "cat": "law",
+   "id": "ce95c476ca80",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사가 수능 ‘AI부정’ 잡는다?…“현실적으로 불가능”",
+   "summary": "한국전기안전공사 측은 이 같은 주장에 대해 \"기술적으로 불가능하다\"고 밝혔습니다. 공사에서 현재 보유 중인 열화상 카메라는 총 2,121대로 작성자가 말한 3000여 대보다 적을 뿐만 아니라, 부정행위에 쓰이는 스마트...",
+   "url": "https://n.news.naver.com/mnews/article/449/0000367748?sid=101",
+   "orig": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000560323",
+   "source": "채널A",
+   "published": "2026-11-17T10:58+09:00",
+   "cat": "tech",
+   "id": "1be1b96d81e3",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "충남 서산서 화재·교통사고 잇따라",
    "summary": "서산소방서 제공 충남 서산에서 화재와 교통사고가 잇따라 발생했다. 지난 16일 오전 11시 24분경 운산면 가좌리의 한 논에서 작업 중인 굴착기에 불이 나 24분 만에 진화됐다. 이 화재로 인명피해는 없었으나 굴착기...",
@@ -415,6 +691,12 @@
      "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=89656",
      "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=89656",
      "title": "산업안전보건연구원, 산재예방 연구혁신 대상 수상"
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024103",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1024103",
+     "title": "산업안전보건연구원, 경영컨설팅학회서 '연구혁신 대상' 수상"
     }
    ],
    "day": "2026-11-17",
@@ -1140,7 +1422,14 @@
    "published": "2026-11-16T18:08+09:00",
    "cat": "tech",
    "id": "1ed56cb226e3",
-   "related": [],
+   "related": [
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005442219?sid=102",
+     "orig": "https://www.mt.co.kr/policy/2026/11/17/2026111710534820507",
+     "title": "산림청, 지방정부와 '산림사업장 안전관리' 특별점검"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -1387,6 +1676,12 @@
      "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247557",
      "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247557",
      "title": "영월 시멘트 사업장서 3년 연속 사망에 '긴급 점검'"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009293204?sid=102",
+     "orig": "https://www.news1.kr/local/kangwon/6356460",
+     "title": "영월 시멘트 공장서 3년 연속 사망사고…노동부 강원지청 긴급 점검"
     }
    ],
    "day": "2026-11-16",
