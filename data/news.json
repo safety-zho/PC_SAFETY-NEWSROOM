@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T11:52+09:00",
+ "updatedAt": "2026-11-17T12:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 5
   },
   {
+   "id": "11e277b43b64",
+   "title": "산림청, 가을철 벌목현장 특별점검",
+   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
+   "source": "businesskorea.co.kr",
+   "cat": "law",
+   "day": "2026-11-17",
+   "count": 4
+  },
+  {
    "id": "dfbcfdbc14c6",
    "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
@@ -43,34 +52,116 @@
    "count": 4
   },
   {
-   "id": "11e277b43b64",
-   "title": "산림청, 가을철 벌목현장 특별점검",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
-   "source": "businesskorea.co.kr",
-   "cat": "law",
-   "day": "2026-11-17",
-   "count": 2
-  },
-  {
-   "id": "80798d6e9556",
-   "title": "스캐터랩, 제타 이용자 보호 강화⋯대표 직속 안전 전담팀 신설",
-   "url": "https://n.news.naver.com/mnews/article/031/0001075596?sid=105",
-   "source": "아이뉴스24",
+   "id": "df9a34bb537d",
+   "title": "안전보건공단, 강원랜드·한국광해광업공단과 자체 감사 '맞손'",
+   "url": "https://www.newspim.com/news/view/20261117000579",
+   "source": "뉴스핌",
    "cat": "tech",
    "day": "2026-11-17",
-   "count": 2
+   "count": 3
   },
   {
-   "id": "978582cb53a2",
-   "title": "경기도 도민감리단, 공공건설현장 17곳 점검…안전·품질 관리 지적사항...",
-   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447262",
-   "source": "econonews.co.kr",
+   "id": "0757884661fc",
+   "title": "[상생경영] 배달파트너 안전 챙기는 쿠팡이츠서비스, 찾아가는 이륜차 ...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301415",
+   "source": "financialpost.co.kr",
    "cat": "tech",
    "day": "2026-11-17",
    "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "HD현대삼호 노동자 사망 보름…금속노조 \"사과\" vs 협력사 \"단정 반대\"",
+   "summary": "전국금속노조 광주전남지부는 17일 오전 고용노동부 목포지청 앞에서 기자회견을 열고 사고에 대한 진상 규명과 원·하청 사업주의 책임 인정, 유족에 대한 사과를 촉구했다. 노조는 고인이 용접 작업을 하던 선박 탱크...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293542?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6356616",
+   "source": "뉴스1",
+   "published": "2026-11-17T12:43+09:00",
+   "cat": "sev",
+   "id": "6755fc6f4de3",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "619명 숨진 2021년 BC 폭염, 80년 전과 판박이",
+   "summary": "익사하는 사고도 자주 발생했다. 2021년 BC주에서는 고령자와 기저질환자에게 피해가 집중됐고 사망자 대부분이 실내에서 발견됐다. 과거에는 야외 노동과 활동 중 더위에 노출되는 것이 주요 위험이었다면, 최근에는...",
+   "url": "https://www.koreadaily.com/article/20261116191836669",
+   "orig": "https://www.koreadaily.com/article/20261116191836669",
+   "source": "koreadaily.com",
+   "published": "2026-11-17T12:20+09:00",
+   "cat": "sev",
+   "id": "333d41a56ec8",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "성남시, 민간 건설 현장 35곳 집중 관리…굴착·구조물 안전 들여다본다",
+   "summary": "사진=성남시 중점적으로 확인하는 부분은 공사 중 구조적 안정성에 영향을 줄 수 있는 요소들이다. ▲건축... 시 관계자는 사고 발생 이후 대응하는 것보다 작업 과정에서 위험을 미리 찾아 개선하는 관리체계가 중요하다는...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194205",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7194205",
+   "source": "한국아이닷컴",
+   "published": "2026-11-17T12:14+09:00",
+   "cat": "law",
+   "id": "2525fa3bb9ca",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "어린이 수영장 '아이풀 동탄점'...'2026 유아·어린이 안전 관리 우수 체...",
+   "summary": "서울올림픽기념국민체육진흥공단(KSPO)이 주관하는 '2026년 유아·어린이 안전 관리 우수 체육시설(안전안심... 지난 2월에는 국제표준화기구(ISO)가 제정한 안전보건경영시스템 국제표준 'ISO 45001' 인증을 획득했으며...",
+   "url": "https://www.ikunkang.com/news/articleView.html?idxno=51849",
+   "orig": "https://www.ikunkang.com/news/articleView.html?idxno=51849",
+   "source": "ikunkang.com",
+   "published": "2026-11-17T12:08+09:00",
+   "cat": "tech",
+   "id": "7399f3065750",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "李대통령 '산재 근절' 엄명에도 또 사망…HD현대삼호 5년간 노동자 8명 ...",
+   "summary": "익명을 요구한 중대재해 전문학자는 \"해마다 노동자 사망사고가 발생했다면 개별 사고의 원인 규명과 함께 원·하청 안전관리 체계 전반에 대한 구조적인 점검이 이뤄져야 한다\"며 \"고용노동부와 수사기관은 과거...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=564476",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564476",
+   "source": "joongangenews.com",
+   "published": "2026-11-17T12:00+09:00",
+   "cat": "sev",
+   "id": "4b7d4525dfcd",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 강원랜드·한국광해광업공단과 자체 감사 '맞손'",
+   "summary": "한국산업안전보건공단이 강원랜드·한국광해광업공단과 손을 잡고 자체 감사 협력을 강화한다. 안전보건공단은 17일 강원랜드에서 강원랜드·한국광해광업공단과 '공공기관 감사기구 간 안전관리 감사역량 강화 및 디지털...",
+   "url": "https://www.newspim.com/news/view/20261117000579",
+   "orig": "https://www.newspim.com/news/view/20261117000579",
+   "source": "뉴스핌",
+   "published": "2026-11-17T12:00+09:00",
+   "cat": "tech",
+   "id": "df9a34bb537d",
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002724541?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10939603?ref=naver",
+     "title": "안전보건공단·강원랜드·광해광업공단, 산업안전·재난예방 합동점검 ..."
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261117112331734",
+     "orig": "https://www.ajunews.com/view/20261117112331734",
+     "title": "안전보건공단, 강원랜드·광해광업공단과 안전관리 역량강화 협약"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "\"박윤영 KT, AI로 비용절감 몰두…현장 노동자 안전은 뒷전\"",
    "summary": "노조는 KT가 현장 안전관리를 협력업체에 맡긴 채 사고 발생 시 책임을 해당 업체에 돌리는 구조를 개선해야 한다고 지적했다. 노조는 KT 경영진이 AI를 활용한 현장 업무 효율화를 경영 성과로 내세우는 데 대해서도...",
@@ -145,7 +236,14 @@
    "published": "2026-11-17T11:28+09:00",
    "cat": "tech",
    "id": "0757884661fc",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스클레임",
+     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083007",
+     "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083007",
+     "title": "쿠팡이츠서비스 도로교통공단 배달파트너 안전 교육"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
@@ -268,6 +366,18 @@
      "url": "http://www.paxetv.com/news/articleView.html?idxno=287180",
      "orig": "http://www.paxetv.com/news/articleView.html?idxno=287180",
      "title": "산림청, 가을철 벌목현장 안전관리 특별점검···근로자 안전 확보 '총..."
+    },
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921221",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921221",
+     "title": "산림청, '가을철 벌목작업 안전관리 실태 특별점검' 실시"
+    },
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003486550?sid=102",
+     "orig": "https://www.etnews.com/20261117000208",
+     "title": "산림청, 벌목 현장 안전망 촘촘히…가을철 산림사업장 특별점검"
     }
    ],
    "day": "2026-11-17",
@@ -399,7 +509,14 @@
    "published": "2026-11-17T10:40+09:00",
    "cat": "tech",
    "id": "e8121f47217f",
-   "related": [],
+   "related": [
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=658588",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658588",
+     "title": "인천시설공단, 전 사업장 안전보건 관리체계 정비...'ISO 45001' 인증 획득"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
