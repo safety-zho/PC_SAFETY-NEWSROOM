@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T15:51+09:00",
+ "updatedAt": "2026-11-17T16:29+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,25 @@
    "source": "뉴스핌",
    "cat": "tech",
    "day": "2026-11-17",
-   "count": 16
+   "count": 17
+  },
+  {
+   "id": "230c85590713",
+   "title": "코레일·철도공단 철도발전협력회의…안전·서비스 강화 논의",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293659?sid=102",
+   "source": "뉴스1",
+   "cat": "tech",
+   "day": "2026-11-17",
+   "count": 7
+  },
+  {
+   "id": "dfbcfdbc14c6",
+   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
+   "source": "안전신문",
+   "cat": "tech",
+   "day": "2026-11-17",
+   "count": 7
   },
   {
    "id": "e898a411c2eb",
@@ -43,34 +61,295 @@
    "count": 7
   },
   {
-   "id": "dfbcfdbc14c6",
-   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
-   "source": "안전신문",
-   "cat": "tech",
-   "day": "2026-11-17",
-   "count": 6
-  },
-  {
-   "id": "230c85590713",
-   "title": "코레일·철도공단 철도발전협력회의…안전·서비스 강화 논의",
-   "url": "https://n.news.naver.com/mnews/article/421/0009293659?sid=102",
+   "id": "d1535c8964e0",
+   "title": "의왕도시공사, 건강증진·위험성평가 우수사업장 동시 선정",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293282?sid=102",
    "source": "뉴스1",
-   "cat": "tech",
-   "day": "2026-11-17",
-   "count": 5
-  },
-  {
-   "id": "11e277b43b64",
-   "title": "산림청, 가을철 벌목현장 특별점검",
-   "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
-   "source": "businesskorea.co.kr",
    "cat": "law",
    "day": "2026-11-17",
    "count": 5
   }
  ],
  "articles": [
+  {
+   "title": "청주시, '부실공사 방지' 건설현장 안전관리 교육 실시",
+   "summary": "이날 교육은 중대재해처벌법과 관련해 건설현장 안전사고 예방을 위한 실질적인 안전관리 체계를 확보하고... 시 관계자는 \"최신 사고 사례와 개정된 안전 기준을 명확히 이해할 수 있어 현장 감독 업무에 큰 도움이 됐을...",
+   "url": "https://www.inews365.com/news/article.html?no=944032",
+   "orig": "https://www.inews365.com/news/article.html?no=944032",
+   "source": "충북일보",
+   "published": "2026-11-17T16:24+09:00",
+   "cat": "law",
+   "id": "8517a216ae03",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "여수지방해양수산청, 항만 안전사고 예방 강화",
+   "summary": "여수해수청을 비롯해 여수고용노동지청, 한국산업안전보건공단, 여수광양항만공사, 항만물류협회, 해양협회, 항운노동조합, 항만하역사업자 등 민·관 관계기관이 함께 참여한다. 행사 첫날인 16일에는 액체부두에서...",
+   "url": "http://www.jndn.com/article.php?aid=1794899958443214107",
+   "orig": "http://www.jndn.com/article.php?aid=1794899958443214107",
+   "source": "jndn.com",
+   "published": "2026-11-17T16:22+09:00",
+   "cat": "tech",
+   "id": "3eae71d9ca53",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "대구 도시철도 4호선 '공론화 후폭풍'…4호선 67억원 SE 67억 용역 및 소...",
+   "summary": "반복되는 안전사고를 근로자 개인 책임으로 돌리는 관행에서 벗어나 작업환경 자체 개선도 강조했다. 2호선 반고개역 출입구 개선 사업 역시 4년 넘게 설계 단계에 머물며 착공조차 하지 못한 점도 문제로 제기됐다....",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=729781",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=729781",
+   "source": "경북도민일보",
+   "published": "2026-11-17T16:20+09:00",
+   "cat": "law",
+   "id": "43d34b2640c7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "노사정, 초광역특구법 9차 실무협의…'주 52시간' 협의는 아직",
+   "summary": "고용노동부는 17일 노사와 관계 부처가 참여하는 '초광역특구법 관련 원포인트 사회적 대화' 제9차... △기본 목표, 정주 지원 및 인력 양성 △산업안전·보건 및 노동시간·건강권 △고용 형태 및 노동자 보호 △노사관계...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009294354?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6356918",
+   "source": "뉴스1",
+   "published": "2026-11-17T16:18+09:00",
+   "cat": "law",
+   "id": "d2b608c37d86",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[2심 판결문] 춘천지방법원 2025노756 (2026.8.28 선고)",
+   "summary": "춘 천 지 방 법 원 제 1 - 2 형 사 부 판 결 사 건 2025노756 가. 산업안전보건법위반 나. 업무상과실치사 다. 중대재해처벌등에관한법률위반(산업재해치사) 피 고 인 1.가.나. A 2.나. B 3.다. C 4.가.나. 주식회사 D 항 소...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237783",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237783",
+   "source": "매일노동뉴스",
+   "published": "2026-11-17T16:16+09:00",
+   "cat": "hlt",
+   "id": "d8a4d073e57b",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "건보료율 7.19% 동결…건보 인천남부지사, 통합돌봄·건강안전망 점검",
+   "summary": "직결된 보건·복지 현안 점검에 나섰다. 국민건강보험공단 인천남부지사는 17일 연수출장소 3층 회의실에서... 이와 함께 고령층의 안전한 재가생활을 지원하기 위한 낙상예방 재가환경지원 시범사업 등 건강보험...",
+   "url": "https://www.viva100.com/article/20261117500953",
+   "orig": "https://www.viva100.com/article/20261117500953",
+   "source": "브릿지경제",
+   "published": "2026-11-17T16:16+09:00",
+   "cat": "tech",
+   "id": "7cec86516742",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "예천 출신 안홍기 대표, 고향사랑기부금 300만 원 기탁",
+   "summary": "이후 '신뢰·열정·창의'를 경영 철학으로 건설 현장 안전관리와 위험성평가, 안전 컨설팅, 건설 감정 등 전문기술 서비스를 제공하며 지역 일자리 창출과 경제 활성화에 힘써왔다. 기업 경영과 함께 나눔 활동도 꾸준히...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091073",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091073",
+   "source": "경북일보",
+   "published": "2026-11-17T16:14+09:00",
+   "cat": "tech",
+   "id": "e20fee6b252a",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "“안전 지키는 것이 곧 전투력의 근간”",
+   "summary": "합동 진단팀은 대형 물자와 중·대형 장비 운용이 잦은 군수부대의 특성을 고려해 현장 중심의 진단과 맞춤형... 아니라 작업 현장 곳곳에 숨어 있는 잠재적 위험 요인과 안전 사각지대까지 정밀하게 살펴 실질적인 사고...",
+   "url": "https://kookbang.dema.mil.kr/newsWeb/20261118/4/ATCE_CTGR_0010030000/view.do",
+   "orig": "https://kookbang.dema.mil.kr/newsWeb/20261118/4/ATCE_CTGR_0010030000/view.do",
+   "source": "kookbang.dema.mil.kr",
+   "published": "2026-11-17T16:12+09:00",
+   "cat": "tech",
+   "id": "fb68e6793850",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[지방의회 24時] '용인 별빛 야시장' 안전불감증 '도마'",
+   "summary": "박 의원은 최근 아워홈 용인 2공장 및 관내 물류센터 등에서 노동자의 끼임 및 추락 사망사고가 잇따라... 박의원은 \"별빛마당 야시장의 부실한 인파 안전계획이나 산재 사고 속에서 제 역할을 하지 못하는 '노동안전지킴이...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=564579",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564579",
+   "source": "joongangenews.com",
+   "published": "2026-11-17T16:10+09:00",
+   "cat": "law",
+   "id": "aac7bb958029",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "안계명 경기도의원, \"반도체 방류수 유해물질 관리, 경기도가 나서야\"",
+   "summary": "안 의원은 \"국가산업단지 지정 단계부터 경기도가 환경 영향을 면밀히 검토하고 의견을 제시해야 한다\"라고 강조했다. 아울러 \"보건환경연구원과 수자원본부 등 관련 기관의 전문성을 활용하고, 시민사회와 시·군이...",
+   "url": "http://www.bizwnews.com/news/articleView.html?idxno=152138",
+   "orig": "http://www.bizwnews.com/news/articleView.html?idxno=152138",
+   "source": "비즈월드",
+   "published": "2026-11-17T16:08+09:00",
+   "cat": "hlt",
+   "id": "b1adb4f68d49",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "국가철도공단, 한국철도공사와 철도발전협력회의 개최…안전·운영 협력...",
+   "summary": "이번 회의는 이안호 국가철도공단 부이사장과 유서혁 한국철도공사 안전부사장이 공동 주재했다. 양 기관 경영진 등 관계자 10여 명이 참석해 주요 협력 과제의 추진 상황을 점검하고 향후 협력 방안을 논의했다. 주요...",
+   "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943736",
+   "orig": "https://sports.hankooki.com/news/articleView.html?idxno=6943736",
+   "source": "한국아이닷컴",
+   "published": "2026-11-17T16:08+09:00",
+   "cat": "tech",
+   "id": "8bd6e1a218c5",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "소규모 사업장 안전보건관리체계 구축 서두를 때",
+   "summary": "그러나 이 가운데 50인 미만 사업장 사망자는 223명으로 전체의 약 61%를 차지했다. 산업재해가 여전히 소규모 사업장에 집중되고 있음을 보여주는 대목이다. 중대재해처벌법은 2024년부터 상시근로자 5인 이상 50인 미만...",
+   "url": "http://www.jndn.com/article.php?aid=1794899036443204130",
+   "orig": "http://www.jndn.com/article.php?aid=1794899036443204130",
+   "source": "jndn.com",
+   "published": "2026-11-17T16:06+09:00",
+   "cat": "hlt",
+   "id": "9de6c6d1b3e7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "KT노조, AI 실적에도 현장 안전 '뒷전' 안전대책 촉구",
+   "summary": "KT 노동조합들이 잇따라 발생하는 노동자의 현장 사망 및 중상사고에 안전대책이 필요하다며 KT 원청에서의... 노동자 1명이 숨지고 4명이 다쳤다. 8월 제주 통신공사 현장에서는 하청업체 노동자가 고소작업차에서 추락...",
+   "url": "https://www.epnc.co.kr/news/articleView.html?idxno=409913",
+   "orig": "https://www.epnc.co.kr/news/articleView.html?idxno=409913",
+   "source": "epnc.co.kr",
+   "published": "2026-11-17T16:06+09:00",
+   "cat": "tech",
+   "id": "a6ccdd4a19fd",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "현대엔지니어링, 영업정지 소송 중 또 사망사고…반복되는 재발 방지 약...",
+   "summary": "노동당국은 작업중지 조치와 함께 사고 원인 및 산업안전보건법·중대재해처벌법 위반 여부 조사에... 안성 사고 제재 이어지는데…다른 현장에서 다시 사망 이번 사고는 지난해 2월 25일 안성시 서울세종고속도로...",
+   "url": "http://www.knpnews.com/news/articleView.html?idxno=34874",
+   "orig": "http://www.knpnews.com/news/articleView.html?idxno=34874",
+   "source": "knpnews.com",
+   "published": "2026-11-17T16:02+09:00",
+   "cat": "sev",
+   "id": "a4083c7d3138",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "이화의료원 'AI 의료기기 안전관리' 특허 획득",
+   "summary": "유경하 이화의료원장은 “현장 의공팀의 실무 경험과 AI 기술을 접목해 의료기기 관리의 사각지대를 해소한 성과”라며 “데이터 기반의 정밀한 안전관리 시스템을 구축해 환자가 안심하고 치료받을 수 있는 스마트 병원...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003486688?sid=105",
+   "orig": "https://www.etnews.com/20261117000365",
+   "source": "전자신문",
+   "published": "2026-11-17T16:00+09:00",
+   "cat": "tech",
+   "id": "bf7cd2cee49c",
+   "related": [
+    {
+     "source": "e-science.co.kr",
+     "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140046",
+     "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=140046",
+     "title": "이화의료원, AI로 의료기기 사용 이력 추적…안전관리 기술 특허 등록"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014328030?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261117_0003871830",
+     "title": "\"AI로 의료기기 안전관리\"…이화의료원, 특허확보"
+    },
+    {
+     "source": "마이데일리",
+     "url": "https://n.news.naver.com/mnews/article/117/0004125830?sid=102",
+     "orig": "https://www.mydaily.co.kr/page/view/2026111716231572255",
+     "title": "이화의료원, AI 기반 의료기기 안전관리 기술 특허 등록"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "LG 생활가전 케어 매니저들 \"사측, 위험한 스팀 점검 강요…안전대책 내...",
+   "summary": "인해 온열질환의 위험에 노출된다\"고 주장했다. 이어 \"올 여름 서울의 한 케어매니저 팀장은 스팀 점검 네... 얼마 지급할 것인지 계산하기 전에 그 작업으로 얼마나 많은 노동자가 다쳤는지부터 살펴야 한다\"고 전했다.",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140293",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=140293",
+   "source": "newslock.co.kr",
+   "published": "2026-11-17T15:58+09:00",
+   "cat": "hlt",
+   "id": "794215a0d1fe",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "\"안전계획 승인 없이 착공\"…강남·서초·성북구 25건 적발",
+   "summary": "감사위는 이 같은 안전관리 소홀을 두고 \"근로자 안전 확보를 소홀히 했고, 중대재해 등의 사고를 발생시킬... 해당 작업에 관한 세부 안전관리계획도 착공 전에 제출하지 않았다고 판단했다. 감사위는 3개 구 구청장에게...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014327924?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261117_0003871771",
+   "source": "뉴시스",
+   "published": "2026-11-17T15:56+09:00",
+   "cat": "law",
+   "id": "6a67f413b671",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "“안전계획은 캐비닛 속에…건설현장 점검 권한·설계 개선해야”",
+   "summary": "설계 단계부터 위험요소를 제거하고 공사 중 안전관리 실적을 평가하는 등 사고 예방 중심으로 제도를... 급박한 위험이 발생했을 때 긴급 작업중지를 요청할 수 있는 권한도 필요하다고 제안했다. 최근 이 같은 제도적...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006411238?sid=101",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=04349286645646704&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-11-17T15:55+09:00",
+   "cat": "tech",
+   "id": "fddcc0ed7d5e",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 외국인 안전리더 간담회 개최",
+   "summary": "외국인 안전리더는 외국인근로자의 언어 장벽으로 인한 산업재해 예방을 위해 한국어와 모국어에 능통한 외국인을 선발·운영하는 제도다. 심우섭 안전보건공단 대전세종광역본부장은 \"현장의 의견을 향후 사업 운영에...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=937597",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=937597",
+   "source": "cctimes.kr",
+   "published": "2026-11-17T15:54+09:00",
+   "cat": "tech",
+   "id": "f8029c2666e6",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사, 데이터 230만 건으로 지하철 위험 예측…AI 안전관리 확대",
+   "summary": "정종엽 서울교통공사 경영지원실장은 현장 직원들이 발굴한 데이터 분석 과제가 시민 안전과 운영 효율을 높이는 실용적인 해법을 보여줬다며, AI와 데이터 기술의 현장 활용을 확대하겠다는 입장을 전했다....",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140035",
+   "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=140035",
+   "source": "e-science.co.kr",
+   "published": "2026-11-17T15:52+09:00",
+   "cat": "tech",
+   "id": "b21c3cd77cbf",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "진주시, LPG용기 안전검사 비용 지원 조례 추진",
    "summary": "재검사 비용의 일부를 지원함으로써 용기의 안전성을 높이고, 시민의 안전 확보와 에너지 복지 증진은 물론 소상공인의 경영 안정에도 기여할 것으로 기대된다. 조례안의 주요 내용으로는 시장의 책무 및 지원계획의...",
@@ -765,6 +1044,12 @@
      "url": "https://www.ziksir.com/news/articleView.html?idxno=153663",
      "orig": "https://www.ziksir.com/news/articleView.html?idxno=153663",
      "title": "서울교통공사, 데이터로 지하철 안전 개선…첫 사내 분석 경진대회 개최"
+    },
+    {
+     "source": "wikileaks-kr.org",
+     "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194763",
+     "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194763",
+     "title": "서울교통공사, 첫 사내 데이터 분석 경진대회…'역사 안전 예측 모델' 최..."
     }
    ],
    "day": "2026-11-17",
@@ -844,6 +1129,12 @@
      "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510332",
      "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510332",
      "title": "서울교통공사노조 \"구조조정 중단·안전인력 충원\" 촉구… 25일 총파업 ..."
+    },
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261117144443265",
+     "orig": "https://www.ajunews.com/view/20261117144443265",
+     "title": "서울교통공사 노조 \"안전 인력 충원하라…감축은 위험한 도박\""
     }
    ],
    "day": "2026-11-17",
@@ -1032,6 +1323,18 @@
      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921298",
      "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921298",
      "title": "코레일-철도공단, 철도 안전·서비스 개선 협력 강화"
+    },
+    {
+     "source": "amenews.kr",
+     "url": "http://amenews.kr/news/view.php?idx=68746",
+     "orig": "http://amenews.kr/news/view.php?idx=68746",
+     "title": "철도공단·코레일, 철도안전·운영 협력 강화"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=20261117154522424be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=20261117154522424be44c0aacd_30",
+     "title": "국가철도공단, 코레일과 철도발전협력회의…안전·운행정보 협력 논의"
     }
    ],
    "day": "2026-11-17",
@@ -1357,6 +1660,12 @@
      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119129",
      "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119129",
      "title": "강원랜드, 광해광업공단·안전보건공단과 안전분야 감사 협력"
+    },
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261117024100954",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261117024100954",
+     "title": "안전보건공단, 강원랜드·광해광업공단과 감사업무 협력 강화"
     }
    ],
    "day": "2026-11-17",
@@ -1494,6 +1803,18 @@
      "url": "https://www.kmaeil.com/news/articleView.html?idxno=658637",
      "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658637",
      "title": "의왕도시공사, 근로자 건강증진활동·위험성평가 우수사업장 동시 선정..."
+    },
+    {
+     "source": "siminilbo.co.kr",
+     "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271230611065",
+     "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160271230611065",
+     "title": "의왕도시공사, 근로자 건강증진·현장 안전관리 우수사업장 동시 선정"
+    },
+    {
+     "source": "스포츠서울",
+     "url": "https://n.news.naver.com/mnews/article/468/0001281550?sid=102",
+     "orig": "https://www.sportsseoul.com/news/read/1650376?ref=naver",
+     "title": "의왕도시공사, 근로자 건강증진활동·위험성평가 우수사업장 선정"
     }
    ],
    "day": "2026-11-17",
@@ -1891,7 +2212,14 @@
    "published": "2026-11-17T09:58+09:00",
    "cat": "tech",
    "id": "5378b36cb479",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://ic.newdaily.co.kr/site/data/html/2026/11/17/2026111750258.html",
+     "orig": "https://ic.newdaily.co.kr/site/data/html/2026/11/17/2026111750258.html",
+     "title": "인천시설공단, 안전보건경영시스템 'ISO 45001' 인증 획득... 안전관리 국..."
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
@@ -2064,6 +2392,12 @@
      "url": "https://n.news.naver.com/mnews/article/009/0005764903?sid=102",
      "orig": "https://www.mk.co.kr/article/12211162",
      "title": "안전보건공단 안전보건연구원 ‘연구혁신 대상’ 수상"
+    },
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261117021510862",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261117021510862",
+     "title": "산업안전보건연구원, 한국경영컨설팅학회 ‘연구혁신 대상’"
     }
    ],
    "day": "2026-11-17",
