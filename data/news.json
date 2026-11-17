@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T08:51+09:00",
+ "updatedAt": "2026-11-17T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,11 +25,29 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "552092538feb",
-   "title": "경기도 도민감리단, 건설현장 지적사항 373건 중 290건 개선",
-   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107021",
-   "source": "discoverynews.kr",
+   "id": "e898a411c2eb",
+   "title": "천안시, 공장·창고 4천여동 화재 안전 실태조사",
+   "url": "https://n.news.naver.com/mnews/article/001/0016445468?sid=102",
+   "source": "연합뉴스",
+   "cat": "acc",
+   "day": "2026-11-17",
+   "count": 3
+  },
+  {
+   "id": "dfbcfdbc14c6",
+   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
+   "source": "안전신문",
    "cat": "tech",
+   "day": "2026-11-17",
+   "count": 2
+  },
+  {
+   "id": "3558a1f33640",
+   "title": "LIG D&A 입찰제한 금주 갈림길…방산업계 초긴장 [비즈360]",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724359?sid=101",
+   "source": "헤럴드경제",
+   "cat": "law",
    "day": "2026-11-17",
    "count": 1
   },
@@ -50,27 +68,265 @@
    "cat": "sev",
    "day": "2026-11-17",
    "count": 1
-  },
-  {
-   "id": "7fb7bc0e03fb",
-   "title": "[오늘의 주요일정·17일] 최교진 장관 학생자살 원인분석 전문가 간담회",
-   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247540",
-   "source": "세이프타임즈",
-   "cat": "law",
-   "day": "2026-11-17",
-   "count": 1
-  },
-  {
-   "id": "45abe3cee1d4",
-   "title": "개념無·책임無 고경표…사고는 연예인이 치고, 밤샘은 제작진이 한다 ...",
-   "url": "https://www.mydaily.co.kr/page/view/2026111616510084260",
-   "source": "마이데일리",
-   "cat": "acc",
-   "day": "2026-11-17",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "산업안전보건연구원, 산재예방·기업경영 연계 연구성과 인정",
+   "summary": "조윤호 안전보건공단 산업안전보건연구원 부장(오른쪽)이 지난 14일 제주 신협제주연수원에서 열린 '2026년 한국경영컨설팅학회 추계학술대회'에서 '연구혁신 대상'을 수상 후 기념촬영을 하고 있다.(사진제공...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344302",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344302",
+   "source": "국토일보",
+   "published": "2026-11-17T09:50+09:00",
+   "cat": "tech",
+   "id": "96954825d708",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "LIG D&A 입찰제한 금주 갈림길…방산업계 초긴장 [비즈360]",
+   "summary": "고용노동부는 특별감독에서 산업안전보건법 등 총 473건의 위반사항을 적발하고 이 가운데 189건을 사법처리 대상으로 분류했다. LIG D&A 사안과 제재 근거 및 법적 절차는 다르지만, 주요 방산업체에 대한 정부의 조사와...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724359?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10939360?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-17T09:46+09:00",
+   "cat": "law",
+   "id": "3558a1f33640",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 과학적 실증 분석 통해 '안전보건교육 산업재해 예방 효...",
+   "summary": "한국산업안전보건공단(KOSHA)이 수행 중인 안전보건교육이 과학적 실증 분석을 통해 산업재해를 예방하는 효과가 뚜렷함이 입증됐다. 공단은 지난 14일 신협제주연수원에서 열린 '2026 한국경영컨설팅학회 추계학술대회...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305656",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305656",
+   "source": "투데이에너지",
+   "published": "2026-11-17T09:36+09:00",
+   "cat": "tech",
+   "id": "2b9e6b1cc2d7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "저탄소 3년·AI 안전 1년…도시재생안전협회, 공공부문 전환의 기반 다...",
+   "summary": "도시재생안전협회가 마련한 인증 기반 위에서 평가기관과 참여기관이 측정 방법과 기술 활용 수준을 함께 개선해 나간다면, 인증제도는 일회성 평가를 넘어 공공서비스의 환경성과 안전성을 지속적으로 높이는 ESG 경영의...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003486412?sid=101",
+   "orig": "https://www.etnews.com/20261117000059",
+   "source": "전자신문",
+   "published": "2026-11-17T09:34+09:00",
+   "cat": "tech",
+   "id": "a3bffc9925b8",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "스캐터랩, 제타 이용자 보호 강화⋯대표 직속 안전 전담팀 신설",
+   "summary": "이용자 보호·청소년 보호를 경영 핵심 과제로 삼고, 콘텐츠 안전 정책부터 제타 자체 AI 모델 개발, 콘텐츠 기술·검수 업무를 통합적으로 관리한다는 방침이다. 올해 말까지 자체 AI 모델과 콘텐츠 검수 체계를...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001075596?sid=105",
+   "orig": "http://www.inews24.com/view/2026943",
+   "source": "아이뉴스24",
+   "published": "2026-11-17T09:27+09:00",
+   "cat": "tech",
+   "id": "80798d6e9556",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "울산 공공기관 혁신경진서 ‘최우수상’ 수상",
+   "summary": "한국산업안전보건공단(이사장 김현중)은 지난 10일 한국산업인력공단 본부에서 열린 ‘2026 울산 공공기관 합동 혁신 경진대회’에서 ‘현장 작동성 강화를 위한 코샤맵(KOSHA-Map) 구축·운영’ 과제가 최우수상을...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002833281?sid=101",
+   "orig": "https://www.munhwa.com/article/11631801?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-17T09:20+09:00",
+   "cat": "tech",
+   "id": "2c7c23a96018",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "협력사까지 현장점검…‘안전경영’ 최우선",
+   "summary": "한국남동발전이 신임 CEO인 이현빈(오른쪽 두 번째) 사장의 안전경영 의지를 바탕으로 현장 중심의 안전문화 정착에 속도를 내고 있다. 17일 남동발전에 따르면 이 사장은 지난달 초 취임 이후 발전소 현장을 직접 찾아...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002833277?sid=101",
+   "orig": "https://www.munhwa.com/article/11631797?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-17T09:20+09:00",
+   "cat": "tech",
+   "id": "959b7781e012",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
+   "summary": "/사진 = 안전보건공단 제공 산업안전보건연구원이 산업재해 예방의 경제적 효과를 분석하고 안전보건 투자를 기업 경영의 주요 과제로 확장한 연구 성과를 인정받았다. 안전보건공단 산업안전보건연구원은 14일 제주...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
+   "source": "안전신문",
+   "published": "2026-11-17T09:16+09:00",
+   "cat": "tech",
+   "id": "dfbcfdbc14c6",
+   "related": [
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229827",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229827",
+     "title": "산재예방도 기업 경쟁력…산업안전보건연구원 연구혁신 대상 수상"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "국토부, 반복 철도사고 원인 집중점검… 연내 안전대책 마련",
+   "summary": "정부가 반복되는 철도사고와 운행장애를 줄이기 위해 차량·시설 예방정비를 강화하고 기존 안전대책의... 지난 9월 발표한 '철도 차량정리 작업 안전강화대책'의 이행상황도 점검했다. 코레일은 작업자가 화차 외부에...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344283",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344283",
+   "source": "국토일보",
+   "published": "2026-11-17T09:12+09:00",
+   "cat": "acc",
+   "id": "47f731abd6b7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "삼립, ESG 평가 '통합 A등급'...\"상생협력 강화\"",
+   "summary": "환경·인권·공급망·윤리경영 등 영역별 정책을 구조화하고 성과를 정기적으로 공개하는 방식으로 이해관계자 신뢰를 쌓는 전략이다. CJ제일제당은 협력사의 인권·안전·환경 관련 ESG 위험을 평가하고 현장 실사와...",
+   "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173245",
+   "orig": "http://www.choicenews.co.kr/news/articleView.html?idxno=173245",
+   "source": "choicenews.co.kr",
+   "published": "2026-11-17T09:12+09:00",
+   "cat": "tech",
+   "id": "27c56cc0620b",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": [
+    "삼립"
+   ]
+  },
+  {
+   "title": "강진군, 하반기 근로자 정기 안전보건교육 마무리",
+   "summary": "전남광주통합특별시 강진군이 현업업무 근로자의 안전의식을 높이고 산업재해를 예방하기 위해 추진한 '2026년 하반기 근로자 정기 안전보건교육'을 지난 13일 3차 교육을 끝으로 마무리했다고 17일 밝혔다. 이번 교육은...",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=627617",
+   "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=627617",
+   "source": "cbci.co.kr",
+   "published": "2026-11-17T09:10+09:00",
+   "cat": "tech",
+   "id": "7581db06df6d",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "한수원, 월성본부서 노-사 합동 안전점검…현장 위험요인 직접 확인",
+   "summary": "이번 현장경영은 안전 개선 조치가 현장에서 실효성 있게 이행되고 있는지 확인하고, 경영진과 노동조합이 함께 현장의 목소리를 들으며 안전한 일터 조성 방안을 모색하기 위해 마련됐다. 이날 김회천 사장은...",
+   "url": "http://www.e-platform.net/news/articleView.html?idxno=107035",
+   "orig": "http://www.e-platform.net/news/articleView.html?idxno=107035",
+   "source": "e-platform.net",
+   "published": "2026-11-17T09:10+09:00",
+   "cat": "tech",
+   "id": "4122308b056c",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "조폐공사, 자회사 노사와 예방 중심 안전문화 정착 '맞손'",
+   "summary": "참여 주체들은 이번 협약을 통해 △안전 최우선 경영 원칙 확립 △현장 목소리 적극 반영 △안전 정보 투명 공유 및 사전 예방 △상호 존중의 안전 문화 조성 △원·하청 공동 협의체 상시 운영 등 5대 실천 과제를 성실히...",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326221",
+   "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326221",
+   "source": "포인트데일리",
+   "published": "2026-11-17T09:06+09:00",
+   "cat": "tech",
+   "id": "a431bfba0778",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "천안시, 대형화재 막는다. 공장·창고 4천곳 '민관합동' 안전점검",
+   "summary": "위험물 화재 위험 요인 등을 집중적으로 들여다볼 예정이다. 염혜숙 천안시 건축과장은 \"공장과 창고는 지역 경제의 핵심인 생산 및 물류 기반 시설인 만큼 근로자의 생명과 안전을 지키는 것이 최우선\"이라며 \"전문가와...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754066",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3754066",
+   "source": "국제뉴스",
+   "published": "2026-11-17T09:02+09:00",
+   "cat": "acc",
+   "id": "af5575e6e580",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "'철도 안전 강화' 열차 구름 발생 시 관제 통보, 선로 안전 확인",
+   "summary": "부산역 탈선사고 이후 열차 운행이 잦은 24개 역의 선로 중 사고 위험이 높은 구간의 목침목(철로 아래에... 한국철도공사(코레일)는 작업자가 화차 외부에 탑승하는 차량 정리 작업 구조를 개선키 위해 후방카메라 기술...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251607",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251607",
+   "source": "안전신문",
+   "published": "2026-11-17T09:00+09:00",
+   "cat": "tech",
+   "id": "a33580bcb5aa",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "오스콘이엔씨, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가",
+   "summary": "건설 모듈화 엔지니어링 전문기업 오스콘이엔씨㈜(OSCON ENC)가 '2026 스마트건설안전AI엑스포'에 참가해 하이테크 산업시설의 모듈화 엔지니어링 기술과 건설현장 맞춤형 모듈러 건축 솔루션을 선보인다....",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072617",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072617",
+   "source": "경상일보",
+   "published": "2026-11-17T09:00+09:00",
+   "cat": "tech",
+   "id": "6bc4927a3e69",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "천안시, 공장·창고 4천여동 화재 안전 실태조사",
+   "summary": "염혜숙 건축과장은 \"공장과 창고는 중요한 생산·물류 기반 시설인 만큼 화재로부터 근로자와 시설을 보호하는 것이 무엇보다 중요하다\"며 \"이번 조사는 전문가와 함께 현장의 안전관리 여건을 미리 살펴 위험 요인을...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016445468?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261117031600063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-17T08:56+09:00",
+   "cat": "acc",
+   "id": "e898a411c2eb",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014326241?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261117_0003870934",
+     "title": "천안시, 공장·창고 4000여동 대대적 '화재안전 조사'"
+    },
+    {
+     "source": "브릿지경제",
+     "url": "https://www.viva100.com/article/20261117500235",
+     "orig": "https://www.viva100.com/article/20261117500235",
+     "title": "천안시, 공장·창고 4000여동 화재안전 민관합동 전수조사"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "경기도 도민감리단, 공공건설현장 17곳 점검…안전·품질 관리 지적사항...",
+   "summary": "비계와 동바리, 안전난간 등 임시 구조물은 공사 과정에서 근로자의 추락이나 구조물 붕괴 사고를 예방하기 위한 주요 안전시설이다. 설치 상태가 불량하거나 관리가 제대로 이뤄지지 않을 경우 작업자의 안전을 위협할...",
+   "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447262",
+   "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=447262",
+   "source": "econonews.co.kr",
+   "published": "2026-11-17T08:56+09:00",
+   "cat": "tech",
+   "id": "978582cb53a2",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "경기도 도민감리단, 건설현장 지적사항 373건 중 290건 개선",
    "summary": "작업자 추락이나 구조물 붕괴로 이어질 수 있는 위험 요인이 현장 곳곳에서 확인됐다. 일부 현장에서는 비탈면 안정성 검토와 우기 대비 조치가 충분하지 않았으며, 위험성평가와 근로자 안전교육 등 기본적인 안전관리...",
@@ -438,7 +694,14 @@
    "published": "2026-11-16T20:12+09:00",
    "cat": "tech",
    "id": "2af06814dc75",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014326234?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261117_0003870742",
+     "title": "승강기안전공단 박천일 상임감사 \"예방적 감사 최선\""
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
@@ -1448,7 +1711,14 @@
    "published": "2026-11-16T15:44+09:00",
    "cat": "tech",
    "id": "67823900a2f5",
-   "related": [],
+   "related": [
+    {
+     "source": "e-platform.net",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=107039",
+     "orig": "http://www.e-platform.net/news/articleView.html?idxno=107039",
+     "title": "가스기술공사, 천연가스 설비 안전관리 강화… 현장경영에 역량 집중"
+    }
+   ],
    "day": "2026-11-16",
    "watch": []
   },
