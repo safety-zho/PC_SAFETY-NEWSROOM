@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T13:52+09:00",
+ "updatedAt": "2026-11-17T14:03+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "청년노동자 사망 놓고 충돌…협력사 \"책임 단정 신중\" vs 노조 \"2차 가해...",
+   "summary": "20대 청년노동자 사망사건과 관련해 HD현대삼호 사내협력사협의회가 사측을 옹호하는 집회에 나서... 고농도 이산화탄소가 검출됐다\"며 질식으로 인한 중대재해를 주장하면서 정확한 진상규명을 촉구하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/660/0000121574?sid=102",
+   "orig": "https://www.ikbc.co.kr/article/view/kbc202611170049",
+   "source": "ikbc.co.kr",
+   "published": "2026-11-17T14:01+09:00",
+   "cat": "sev",
+   "id": "ad95726c8107",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "한국조폐공사, 노사·자회사 함께 '산업안전 상생협력' 선언",
+   "summary": "공사·자회사 노사는 구성원의 생명과 안전이 지속가능한 경영과 상생협력의 가장 기본적인 가치임을 확인했다. 현장의 목소리에 귀 기울여 위험 요인을 사전에 찾아내는 예방 중심의 안전문화를 정착시키기 위해 다음...",
+   "url": "https://www.jbnews.com/news/articleView.html?idxno=1516135",
+   "orig": "https://www.jbnews.com/news/articleView.html?idxno=1516135",
+   "source": "중부매일",
+   "published": "2026-11-17T13:52+09:00",
+   "cat": "tech",
+   "id": "3f4e142e5c23",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "오송참사 이어 환경미화원 사망…청주시장 또 중대재해 책임론",
+   "summary": "중대재해처벌법(2조 2호 가목)은 사망자가 1명 이상 발생한 경우를 중대산업재해로 규정하고 있다. 이번 사고로 청주시 소속 환경미화원이 업무 중 숨진 만큼 산업안전보건법(2조 1호)의 '산업재해'에 해당함과 동시에...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293689?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6356612",
+   "source": "뉴스1",
+   "published": "2026-11-17T13:51+09:00",
+   "cat": "sev",
+   "id": "0d31bf4e54af",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "중대재해처벌법 무죄 최신 판결 : 경영책임자 등에 대한 형사 책임 한계",
    "summary": "운반하는 작업 중 신호수 겸 작업자 역할을 하다가 파이프에 협착돼 사망한 사건이다. 원청 대표이사는... 따라서 사업장에서 발생한 재해 사고가 통상적으로 예측할 수 없는 위험으로 인해 발생한 것이라면 구축·이행된...",
@@ -282,7 +321,14 @@
    "published": "2026-11-17T13:06+09:00",
    "cat": "tech",
    "id": "6d295ce70b96",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3754573",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3754573",
+     "title": "선진, ESG 통합 A등급 3년 연속 획득…사회 부문 A+로 상승"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
@@ -840,7 +886,14 @@
    "published": "2026-11-17T10:36+09:00",
    "cat": "tech",
    "id": "d13803d9d27e",
-   "related": [],
+   "related": [
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=658604",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658604",
+     "title": "성남시, 민간 대형 건축공사장 35곳 안전점검··· 건설현장 사고 예방..."
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
