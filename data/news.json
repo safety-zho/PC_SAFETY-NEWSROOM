@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-17T14:03+09:00",
+ "updatedAt": "2026-11-17T14:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,6 +31,15 @@
    "source": "뉴스핌",
    "cat": "tech",
    "day": "2026-11-17",
+   "count": 11
+  },
+  {
+   "id": "dfbcfdbc14c6",
+   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
+   "source": "안전신문",
+   "cat": "tech",
+   "day": "2026-11-17",
    "count": 6
   },
   {
@@ -43,6 +52,15 @@
    "count": 6
   },
   {
+   "id": "230c85590713",
+   "title": "코레일·철도공단 철도발전협력회의…안전·서비스 강화 논의",
+   "url": "https://n.news.naver.com/mnews/article/421/0009293659?sid=102",
+   "source": "뉴스1",
+   "cat": "tech",
+   "day": "2026-11-17",
+   "count": 5
+  },
+  {
    "id": "11e277b43b64",
    "title": "산림청, 가을철 벌목현장 특별점검",
    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281491",
@@ -50,27 +68,347 @@
    "cat": "law",
    "day": "2026-11-17",
    "count": 5
-  },
-  {
-   "id": "dfbcfdbc14c6",
-   "title": "산업안전보건연구원, 한국경영컨설팅학회 연구혁신 대상 수상",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251610",
-   "source": "안전신문",
-   "cat": "tech",
-   "day": "2026-11-17",
-   "count": 4
-  },
-  {
-   "id": "a58af190bc1e",
-   "title": "강원랜드, 안전분야 감사업무 협약",
-   "url": "https://n.news.naver.com/mnews/article/654/0000211727?sid=102",
-   "source": "강원도민일보",
-   "cat": "tech",
-   "day": "2026-11-17",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "AZ, 희귀질환 신약 '클라이게파' 美ㆍEU 승인",
+   "summary": "클라이게파는 전반적으로 양호한 내약성을 보였으며, 안전성 프로파일은 전신 중증근무력증 환자를... 알렉시온의 최고경영자 마크 뒤누아예는 \"이번 클라이게파 승인을 통해 C5 억제제의 치료 효과와 자동주사기를...",
+   "url": "http://www.newsmp.com/news/articleView.html?idxno=259344",
+   "orig": "http://www.newsmp.com/news/articleView.html?idxno=259344",
+   "source": "newsmp.com",
+   "published": "2026-11-17T14:50+09:00",
+   "cat": "tech",
+   "id": "374a568e3e73",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[k-med 칼럼] \"K뷰티 호황에 공장 근로자도 쉴 틈 없다\"…퇴근 후 목 뻐...",
+   "summary": "해외 한 산업보건 연구기관이 국제학술지 'BMC 공중보건(BMC Public Health)'에 게재한 연구에 따르면, 전자제품 제조업체 30곳의 근로자 7307명을 조사한 결과 40.6%가 근골격계 증상을 경험한 것으로 나타났다. 통증 부위는 목...",
+   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213841",
+   "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=213841",
+   "source": "thefirstmedia.net",
+   "published": "2026-11-17T14:48+09:00",
+   "cat": "hlt",
+   "id": "6acf5f588e4d",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "\"AX 내세우며 현장 안전은 뒷전\"…KT새노조, 박윤영 사장에 대책 촉구",
+   "summary": "특히 올해 통신공사 현장에서 사망·중상 사고가 잇따른 상황에서 겨울철 한파와 폭설까지 앞두고 있어... 8월에는 제주 통신공사 현장에서 하청업체 노동자가 고소작업차에서 추락해 중상을 입었다. 노조는 이 같은...",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=484663",
+   "orig": "https://news.ifm.kr/news/articleView.html?idxno=484663",
+   "source": "ifm.kr",
+   "published": "2026-11-17T14:42+09:00",
+   "cat": "law",
+   "id": "fc7d6c3424c2",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "제주서 해산물 인양 작업 중 해녀 2명 감전돼 병원치료",
+   "summary": "17일 오전 11시 8분께 제주 서귀포시 하효항에서 해산물을 육상으로 끌어 올리기 위해 크레인 작업을 하던 30대와 40대 해녀 등 2명이 감전되는 사고가 발생했다. 이들 해녀는 모두 의식이 있는 상태지만, 전신 쇠약 등의...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016446606?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261117113400056?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-17T14:42+09:00",
+   "cat": "acc",
+   "id": "33adee95f7d4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "서귀포 하효항서 어획물 인양작업 해녀 감전 사고...2명 부상",
+   "summary": "출동한 119는 ㄱ씨(30대 여성), ㄴ씨(40대 여성)를 병원으로 이송했다. 경찰은 작업용 크레인으로 어획물을 끌어올리던 작업을 하던 중 감전 사고가 발생한 것으로 보고 정확한 사고 경위를 조사 중이다. <헤드라인제주>",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602277",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602277",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-11-17T14:42+09:00",
+   "cat": "acc",
+   "id": "9cb81666e620",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "HD현대삼호 사망사고 보름째...노조·협력사 갈등 확산",
+   "summary": "17일 오전 고용노동부 목포지청 앞에서 HD현대삼호 청년 노동자 사망사고와 관련해 금속노조... 노조는 \"원청의 영향력 아래 있는 협력사 대표 80명이 일제히 나서 중대재해 진상 규명을 요구하는 노조를 규탄하는 것은...",
+   "url": "https://www.newspim.com/news/view/20261117000801",
+   "orig": "https://www.newspim.com/news/view/20261117000801",
+   "source": "뉴스핌",
+   "published": "2026-11-17T14:36+09:00",
+   "cat": "sev",
+   "id": "ad3e1f2164e4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "금호석유화학, '안전·환경 내재화'로 지속가능 토대 다진다",
+   "summary": "사업장별 유해화학물질 관리자를 추가 선임해 정기 교육을 실시하고, 화학사고 대비 자체 훈련을 매월 진행하며 현장 대응력을 끌어올렸다. 취급 작업자 보호장구 지급과 신규 감지기 추가 설치 등 현장 안전설비 보완도...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005843819?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026111714363237613",
+   "source": "아시아경제",
+   "published": "2026-11-17T14:36+09:00",
+   "cat": "tech",
+   "id": "5ab1e0b63a8f",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "제주서 해녀 감전 사고...병원 이송",
+   "summary": "제주에서 해녀들이 어획물 운반용 크레인 작업을 하다 감전되는 사고가 발생했다. 17일 제주도 소방안전본부에 따르면 이날 오전 11시 8분께 서귀포시 하효항에서 크레인 작업 중 40대 해녀 A씨와 30대 해녀 B씨가...",
+   "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402435",
+   "orig": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402435",
+   "source": "jejudomin.co.kr",
+   "published": "2026-11-17T14:32+09:00",
+   "cat": "acc",
+   "id": "0e68e8ace9d3",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, AI·빅데이터 기반 디지털 감사기법 공유",
+   "summary": "한국산업안전보건공단(KOSHA)이 강원랜드, 한국광해광업공단과 함께 공공기관의 안전관리 감사역량 강화와 디지털 감사 혁신을 모색한다. 이를 위해 안전보건공단은 17일 강원특별자치도 정선 강원랜드에서 강원랜드...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229851",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229851",
+   "source": "에너지신문",
+   "published": "2026-11-17T14:30+09:00",
+   "cat": "tech",
+   "id": "b9c17dc956f4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "“건강한 직장, 행복愛너지”… 포항시북구보건소, 철강공단 근로자 대...",
+   "summary": "김숙향 포항시북구보건소 건강관리과장은 “이번 찾아가는 현장 캠페인이 바쁜 산업현장에서 일하는 근로자들이 음주폐해에 대한 경각심을 일깨우고, 서로 배려하며 건강하고 안전한 직장문화를 만들어가는 소중한...",
+   "url": "https://www.kbsm.net/news/view.php?idx=542068",
+   "orig": "https://www.kbsm.net/news/view.php?idx=542068",
+   "source": "kbsm.net",
+   "published": "2026-11-17T14:30+09:00",
+   "cat": "tech",
+   "id": "5ff35d4d62d9",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[포토뉴스]노인일자리 산업안전보건교육",
+   "summary": "노인 일자리 및 사회활동지원사업 근로자 산업안전보건교육이 17일 삼척문화예술회관 대공연장에서 삼척시니어클럽(관장:김성래) 주최로 열렸다.",
+   "url": "https://n.news.naver.com/mnews/article/087/0001231371?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261117500660",
+   "source": "강원일보",
+   "published": "2026-11-17T14:29+09:00",
+   "cat": "hlt",
+   "id": "e5af7b510ba4",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "가스안전공사, 디지털 재무혁신…모바일 법인카드 도입",
+   "summary": "모바일 가상 법인카드는 실물 법인카드 1장을 최대 100명의 임직원이 각자의 스마트폰에 등록해 사용할 수... 조영원 한국가스안전공사 부사장은 \"이번 협약은 디지털 기술을 활용한 재무관리 혁신의 출발점\"이라며...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229850",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=229850",
+   "source": "에너지신문",
+   "published": "2026-11-17T14:28+09:00",
+   "cat": "tech",
+   "id": "b67b2a37e5f1",
+   "related": [
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119087",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119087",
+     "title": "한국가스안전공사·IBK기업은행, 모바일 가상 법인카드 도입 협약"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "경주경찰서, 교통사고 현장 2차 사고 예방 교육 강화",
+   "summary": "하던 중 발생한 2차 사고가 주요 사례로 다뤄졌다. 경찰은 해당 사례를 토대로 현장 근무자가 주의해야 할... 특히 교통사고 현장에서는 출동 초기부터 차량 흐름을 관리하고 경찰관의 작업 공간을 확보하는 것이 추가 사고...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084359",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5084359",
+   "source": "shinailbo.co.kr",
+   "published": "2026-11-17T14:24+09:00",
+   "cat": "tech",
+   "id": "bf87803d77e0",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "제주 하효항서 크레인 작업 중 감전 사고.. 해녀 2명 병원 이송",
+   "summary": "제주에서 해녀들이 어획물 운반용 크레인 작업을 하다 감전되는 사고가 발생했습니다. 제주소방안전본부에 따르면, 오늘(17일) 오전 11시 8분쯤 서귀포시 신효동 하효항에서 크레인 작업 중이던 40대 해녀 A씨와 30대...",
+   "url": "https://n.news.naver.com/mnews/article/661/0000086700?sid=102",
+   "orig": "https://www.jibs.co.kr/news/articles/articlesDetail/67675?feed=na",
+   "source": "jibs.co.kr",
+   "published": "2026-11-17T14:21+09:00",
+   "cat": "acc",
+   "id": "52bdc44c3f88",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014327412?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261117_0003871544",
+     "title": "서귀포 하효항서 해녀 2명 작업 중 감전…병원 이송"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009293833?sid=102",
+     "orig": "https://www.news1.kr/local/jeju/6356733",
+     "title": "서귀포 하효항에서 해녀 2명 감전 사고…병원 이송"
+    },
+    {
+     "source": "yonhapnewstv.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/422/0000927005?sid=102",
+     "orig": "http://www.yonhapnewstv.co.kr/news/AKR20261117144131hG4",
+     "title": "제주 해녀 2명 크레인 작업 중 감전…병원 이송"
+    }
+   ],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사, 사내 데이터 경진대회 성료…현장 맞춤형 스마트 안전 모...",
+   "summary": "치열한 경쟁 끝에 최우수상은 '지능형기술' 팀이 차지했다. 이들은 최근 3년간의 경보, 승하차 인원, 기상 여건 및 사고 이력 등 방대한 데이터 230만 건을 결합한 '스마트스테이션 기반 역사 안전 예측 모델'을 발표했다....",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94540",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94540",
+   "source": "더페어",
+   "published": "2026-11-17T14:20+09:00",
+   "cat": "tech",
+   "id": "b5061629b514",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사, 데이터·AI로 지하철 안전 높인다…직원 아이디어 발굴",
+   "summary": "최우수상은 ‘스마트스테이션 기반 역사 안전 예측 모델’을 제안한 ‘지능형기술’ 팀이 차지했다. 이 팀은 3년간 축적된 경보·승하차·기상·사고 데이터 230만 건을 분석해 역별 안전 수준을 지수화하고, 1~6시간 뒤...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002833437?sid=102",
+   "orig": "https://www.munhwa.com/article/11631962?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-17T14:15+09:00",
+   "cat": "tech",
+   "id": "ad19532d01ad",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "가스안전공사, 법인카드도 '모바일' 전환…연 4600만원 절감 기대",
+   "summary": "법인카드 한 장을 최대 100명의 임직원이 스마트폰에 등록해 사용하면서도 실제 결제자를 개별 확인할 수... 조영원 한국가스안전공사 부사장은 \"이번 협약은 디지털 기술을 활용한 재무관리 혁신의 출발점\"이라며...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205174",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205174",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-17T14:14+09:00",
+   "cat": "tech",
+   "id": "a92fbaa871e7",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "가스안전公-IBK기업은행, 디지털 재무관리 혁신 협력",
+   "summary": "모바일 가상 법인카드는 실물 법인카드 1장을 최대 100명의 임직원이 각자의 스마트폰에 등록해 결제할 수... 조영원 한국가스안전공사 부사장은 “이번 협약은 디지털 기술을 활용한 재무관리 혁신의 출발점”이라며...",
+   "url": "http://amenews.kr/news/view.php?idx=68742",
+   "orig": "http://amenews.kr/news/view.php?idx=68742",
+   "source": "amenews.kr",
+   "published": "2026-11-17T14:14+09:00",
+   "cat": "tech",
+   "id": "132e43f8e043",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사, 첫 데이터 분석 경진대회…현장 직원들 지하철 안전 해법...",
+   "summary": "최우수상은 ‘지능형기술’ 팀이 차지했다. 이 팀은 ‘스마트스테이션 기반 역사 안전 예측 모델 구축’을 주제로 3년간 축적된 경보·승하차·기상·사고 데이터 230만 건을 분석했다. 역사별 안전 수준을 지수화하고 1...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002724590?sid=102",
+   "orig": "https://biz.heraldcorp.com/article/10939876?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-17T14:14+09:00",
+   "cat": "tech",
+   "id": "587d3fb3da62",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "[기고] 우리 집 안전에도 '업데이트'가 필요하다",
+   "summary": "우리는 더 나은 생활을 위해 새로운 기술을 끊임없이 받아들인다. 이제는 달라진 생활환경에 맞춰 안전을 관리하는 방식과 생활습관도 함께 바꿔야 할 때다. 이번 불조심 강조의 달에는 스마트폰을 업데이트하듯 우리 집의...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921252",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921252",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-11-17T14:12+09:00",
+   "cat": "tech",
+   "id": "34d6666e36af",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "강원랜드, 공공기관 3곳 손잡고 안전감사 강화…AI·빅데이터로 사고 예...",
+   "summary": "▲ [사진=강원랜드] 강원랜드 감사위원회는 17일 강원랜드 그랜드호텔에서 한국광해광업공단, 한국산업안전보건공단과 안전분야 감사업무 협약을 체결했다고 밝혔다. 이날 협약식에는 장경렬 강원랜드 상임감사위원과...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589652078895",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065589652078895",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-11-17T14:10+09:00",
+   "cat": "tech",
+   "id": "459211803513",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "열차와 시설 잇는 협력…철도 안전 강화",
+   "summary": "회의에는 코레일 유서혁 안전부사장과 국가철도공단 이안호 부이사장을 비롯한 두 기관 경영진 10여 명이 참석했다. 철도발전협력회의는 열차 운행을 담당하는 코레일과 철도 건설·시설 관리를 맡는 국가철도공단이...",
+   "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2451882",
+   "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2451882",
+   "source": "충청일보",
+   "published": "2026-11-17T14:04+09:00",
+   "cat": "tech",
+   "id": "121622b4f76c",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "\"철도 안전과 서비스의 정점을 향해\"… 코레일·국가철도공단, 제19회 철...",
+   "summary": "이번 회의에는 유서혁 코레일 안전부사장과 이안호 국가철도공단 부이사장을 비롯해 양 기관의 핵심 경영진 10명이 참석해 뜻을 모았다. 철도발전협력회의는 열차 운행을 전담하는 코레일과 철도 인프라 건설, 자산 관리를...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132693",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132693",
+   "source": "dailysmart.co.kr",
+   "published": "2026-11-17T14:02+09:00",
+   "cat": "tech",
+   "id": "b60c567b2f5d",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
+  {
+   "title": "\"안전 인력 충원하라\"⋯서울교통공사노조, 20일 준법투쟁·25일 총파업 ...",
+   "summary": "김정섭 노조 위원장은 \"1700명의 인력이 감축되고 800명이 현장을 비우는 현실은 경영혁신이 아닌 시민 생명을 담보로 한 위험한 도박\"이라며 \"우리의 일터와 시민 안전을 끝까지 지켜내자\"고 했다. 노조는 사측과...",
+   "url": "https://www.etoday.co.kr/news/view/2649239",
+   "orig": "https://www.etoday.co.kr/news/view/2649239",
+   "source": "이투데이",
+   "published": "2026-11-17T14:02+09:00",
+   "cat": "tech",
+   "id": "049c345729bb",
+   "related": [],
+   "day": "2026-11-17",
+   "watch": []
+  },
   {
    "title": "청년노동자 사망 놓고 충돌…협력사 \"책임 단정 신중\" vs 노조 \"2차 가해...",
    "summary": "20대 청년노동자 사망사건과 관련해 HD현대삼호 사내협력사협의회가 사측을 옹호하는 집회에 나서... 고농도 이산화탄소가 검출됐다\"며 질식으로 인한 중대재해를 주장하면서 정확한 진상규명을 촉구하고 있습니다.",
@@ -230,7 +568,32 @@
    "published": "2026-11-17T13:32+09:00",
    "cat": "tech",
    "id": "230c85590713",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/17/2026111750182.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/11/17/2026111750182.html",
+     "title": "코레일·철도공단, 철도 안전·서비스 개선 머리 맞댔다"
+    },
+    {
+     "source": "dtnews24.com",
+     "url": "http://www.dtnews24.com/news/articleView.html?idxno=817275",
+     "orig": "http://www.dtnews24.com/news/articleView.html?idxno=817275",
+     "title": "코레일·철도공단, 철도 안전·서비스 개선 협력 강화"
+    },
+    {
+     "source": "더페어",
+     "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94546",
+     "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94546",
+     "title": "코레일·국가철도공단, 철도발전협력회의 개최…건설·운영 손잡고 안전..."
+    },
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921298",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921298",
+     "title": "코레일-철도공단, 철도 안전·서비스 개선 협력 강화"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
@@ -488,6 +851,36 @@
      "url": "https://www.sentv.co.kr/article/view/sentv202611170161",
      "orig": "https://www.sentv.co.kr/article/view/sentv202611170161",
      "title": "강원랜드, 광해광업공단·산업안전보건공단과 안전감사 협력"
+    },
+    {
+     "source": "이투데이",
+     "url": "https://www.etoday.co.kr/news/view/2649255",
+     "orig": "https://www.etoday.co.kr/news/view/2649255",
+     "title": "강원랜드, 안전보건공단·광해광업공단과 ‘예방 중심’ 안전 감사 업무..."
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014327463?sid=102",
+     "orig": "https://www.newsis.com/view/NISI20261117_0002294337",
+     "title": "광해광업공단·강원랜드·산업안전보건공단 안전분야 감사 역량강화 업..."
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505049",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505049",
+     "title": "강원랜드-광해광업공단·안전보건공단, 안전감사 협력"
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://gw.newdaily.co.kr/site/data/html/2026/11/17/2026111750211.html",
+     "orig": "https://gw.newdaily.co.kr/site/data/html/2026/11/17/2026111750211.html",
+     "title": "[포토뉴스] 강원랜드, 한국산업안전보건공단·한국광해광업공단과 안전..."
+    },
+    {
+     "source": "jeonmae.co.kr",
+     "url": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312863",
+     "orig": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1312863",
+     "title": "강원랜드, 한국광해광업공단·한국산업안전보건공단과 안전분야 감사업..."
     }
    ],
    "day": "2026-11-17",
@@ -619,6 +1012,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2019607",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2019607",
      "title": "의왕도시공사 건강증진활동 우수사업장 선정…포일스포츠센터 위험성평..."
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=658637",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658637",
+     "title": "의왕도시공사, 근로자 건강증진활동·위험성평가 우수사업장 동시 선정..."
     }
    ],
    "day": "2026-11-17",
@@ -859,6 +1258,12 @@
      "url": "https://www.kmaeil.com/news/articleView.html?idxno=658588",
      "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658588",
      "title": "인천시설공단, 전 사업장 안전보건 관리체계 정비...'ISO 45001' 인증 획득"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014327313?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261117_0003871511",
+     "title": "인천시설공단, 안전보건경영시스템 'ISO 45001' 인증획득"
     }
    ],
    "day": "2026-11-17",
@@ -1165,6 +1570,18 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024103",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1024103",
      "title": "산업안전보건연구원, 경영컨설팅학회서 '연구혁신 대상' 수상"
+    },
+    {
+     "source": "가스신문",
+     "url": "https://www.gasnews.com/news/articleView.html?idxno=127737",
+     "orig": "https://www.gasnews.com/news/articleView.html?idxno=127737",
+     "title": "산업안전보건연구원, 경영컨설팅학회 '연구혁신 대상' 수상"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/009/0005764903?sid=102",
+     "orig": "https://www.mk.co.kr/article/12211162",
+     "title": "안전보건공단 안전보건연구원 ‘연구혁신 대상’ 수상"
     }
    ],
    "day": "2026-11-17",
@@ -1349,7 +1766,14 @@
    "published": "2026-11-17T08:22+09:00",
    "cat": "tech",
    "id": "552092538feb",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024163",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1024163",
+     "title": "경기도 도민감리단, 안전-품질 지적사항 373건 확인"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
