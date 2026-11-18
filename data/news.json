@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T15:53+09:00",
+ "updatedAt": "2026-11-18T16:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "비욘드포스트",
    "cat": "hlt",
    "day": "2026-11-18",
-   "count": 12
+   "count": 13
   },
   {
    "id": "d8dff04af193",
@@ -39,6 +39,24 @@
    "url": "https://www.etoday.co.kr/news/view/2649784",
    "source": "이투데이",
    "cat": "law",
+   "day": "2026-11-18",
+   "count": 12
+  },
+  {
+   "id": "0180c83b8706",
+   "title": "삼성화재, 글로벌 AIDC 포럼 개최…AI 데이터센터 위험관리 논의",
+   "url": "https://www.ajunews.com/view/20261118081550829",
+   "source": "아주경제",
+   "cat": "tech",
+   "day": "2026-11-18",
+   "count": 10
+  },
+  {
+   "id": "ec925d3d6c76",
+   "title": "[단독] 마포구 재건축 아파트 공사장서 30대 추락사",
+   "url": "https://n.news.naver.com/mnews/article/629/0000553166?sid=102",
+   "source": "tf.co.kr",
+   "cat": "acc",
    "day": "2026-11-18",
    "count": 9
   },
@@ -50,27 +68,591 @@
    "cat": "sev",
    "day": "2026-11-18",
    "count": 8
-  },
-  {
-   "id": "ec925d3d6c76",
-   "title": "[단독] 마포구 재건축 아파트 공사장서 30대 추락사",
-   "url": "https://n.news.naver.com/mnews/article/629/0000553166?sid=102",
-   "source": "tf.co.kr",
-   "cat": "acc",
-   "day": "2026-11-18",
-   "count": 7
-  },
-  {
-   "id": "03f27f6a6f15",
-   "title": "올해 사망사고 낸 대형 건설사 12곳 소집…추락사고 집중 점검",
-   "url": "https://n.news.naver.com/mnews/article/421/0009295674?sid=101",
-   "source": "뉴스1",
-   "cat": "sev",
-   "day": "2026-11-18",
-   "count": 6
   }
  ],
  "articles": [
+  {
+   "title": "서울 마포 한화 아파트 현장서 30대 추락해 숨져…당국, 중처법 위반 여...",
+   "summary": "서울 마포구의 아파트 재건축 공사현장에서 30대 하청업체 근로자가 추락해 숨지는 사고가 발생했다. 노동 당국은 현장에 작업중지 조치를 내리고 중대재해처벌법 위반 여부 수사에 착수했다. 18일 고용노동부에 따르면...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002833798?sid=102",
+   "orig": "https://www.munhwa.com/article/11632334?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-18T16:50+09:00",
+   "cat": "sev",
+   "id": "a65b0c639fb9",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"생명 존중·안전이 최우선\"… 포스코 포항제철소, 실전형 재난 대응훈...",
+   "summary": "포스코 포항제철소가 각 섹션·공장 단위 연 4회 종합 소방 훈련과 연 1회 불시 훈련, 경북119특수대응단과의 실화재·차량 구조 합동훈련 및 전 직원 응급처치 교육을 체계적으로 운영하며 현장 근로자의 생명 보호와 재난...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494240",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494240",
+   "source": "이뉴스투데이",
+   "published": "2026-11-18T16:47+09:00",
+   "cat": "tech",
+   "id": "aeb00223d2f2",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "인천공항, 몸집 키우기 전에 안전부터···새 사장 앞에 놓인 '운영 리...",
+   "summary": "특히 유지·보수 과정의 추락과 끼임 사고는 사전 안전조치만 제대로 이뤄졌어도 예방할 수 있는 유형이라는... 노조는 연속 야간근무에 따른 피로 누적이 노동자 건강뿐 아니라 공항 안전에도 영향을 미칠 수 있다고...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=159894",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=159894",
+   "source": "smartbizn.com",
+   "published": "2026-11-18T16:46+09:00",
+   "cat": "tech",
+   "id": "1dd0fcc93b14",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "“6년간 노동자 15명 숨졌는데”…여수산단 안전대책 도마",
+   "summary": "2021년 이일산업 폭발사고로 하청노동자 3명이 숨진 데 이어 2022년 여천NCC 열교환기 폭발사고에서도 4명이 사망하고 4명이 다쳤다. 올해 4월과 5월에도 추락과 낙하물 사고로 노동자 2명이 목숨을 잃었다. 송 의원은 특히...",
+   "url": "http://www.jndn.com/article.php?aid=1794987485443302107",
+   "orig": "http://www.jndn.com/article.php?aid=1794987485443302107",
+   "source": "jndn.com",
+   "published": "2026-11-18T16:42+09:00",
+   "cat": "sev",
+   "id": "8b9def551aa3",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[오늘의 DT인] 강성지지층 비판 뚫은 김남희…“간병인 산재보험 미적용...",
+   "summary": "22대 국회 입성 후 보건복지위원회와 성평등가족위원회(전 여성가족위원회)를 거쳐 하반기 법제사법위원회에... 그가 가장 먼저 사활을 걸고 있는 현안은 1호 법안으로 발의한 간병인 ‘산업재해보상보험법’ 개정안이다....",
+   "url": "https://n.news.naver.com/mnews/article/029/0003059897?sid=100",
+   "orig": "https://www.dt.co.kr/article/12095971?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-11-18T16:39+09:00",
+   "cat": "law",
+   "id": "2d196161c6b4",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "자살사망자 절반이 직업인…일터 정신건강 대책 수립 시급",
+   "summary": "자살사망자 2명 중 1명은 직업인인 것으로 나타났다. 업무에서 받은 스트레스와 정신건강 악화가 자살로... 대상 법령은 근로기준법 시행령, 산재보험법, 산업안전보건법, 중대재해처벌법 시행령, 자살예방법 등이다....",
+   "url": "https://n.news.naver.com/mnews/article/022/0004176236?sid=102",
+   "orig": "https://www.segye.com/newsView/20261118516237?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-11-18T16:34+09:00",
+   "cat": "sev",
+   "id": "fe74edd57c56",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망자 45%가 추락사고…국토부, 건설사 소집해 안전점검",
+   "summary": "추락사고 예방을 위한 추락방호망·안전난간 등 안전시설 설치 및 관리 실태와 작업자의 안전대 착용을 비롯한 기본 안전수칙 준수 방안도 주요 논의 대상이다. 국토부에 따르면 건설공사안전관리종합정보망 신고...",
+   "url": "https://www.viva100.com/article/20261118501260",
+   "orig": "https://www.viva100.com/article/20261118501260",
+   "source": "브릿지경제",
+   "published": "2026-11-18T16:34+09:00",
+   "cat": "sev",
+   "id": "6a33bf316f00",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "지역난방公, 안전관리 우수 성과로 대통령상 수상",
+   "summary": "한국지역난방공사는 이번 심사에서 △전 사업장 화재위험 관리체계 구축 △AI·디지털 기술 기반 스마트 방재시스템 구현 △현장 중심의 재난대응체계 강화 △자율적 안전문화 확산 등 전사적인 안전관리 성과를...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305745",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305745",
+   "source": "투데이에너지",
+   "published": "2026-11-18T16:34+09:00",
+   "cat": "tech",
+   "id": "e23115e179a7",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "산재 사망 2.7% 증가···소규모 현장은 14.5% 급증",
+   "summary": "사망자 증가는 공사 금액 5억원 미만 건설현장과 상시근로자 5인 미만 사업장 등 소규모 현장에서 두드러졌다. 중대재해처벌법 적용 범위가 확대된 이후에도 영세 사업장의 안전관리 사각지대가 해소되지 않고...",
+   "url": "https://www.thereport.co.kr/news/articleView.html?idxno=93483",
+   "orig": "https://www.thereport.co.kr/news/articleView.html?idxno=93483",
+   "source": "thereport.co.kr",
+   "published": "2026-11-18T16:32+09:00",
+   "cat": "sev",
+   "id": "0574c4e34e09",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "남동소방서, 겨울철 대형 공사현장 화재예방 현장예찰",
+   "summary": "조승희 서장은 “공사현장은 용접 작업 등으로 인한 화재가 빈번히 발생하는 만큼 사소한 부주의가 대형 화재로 이어질 수 있다”며 “관계자 주도의 철저한 안전관리와 지속적인 안전교육으로 화재와 안전사고 예방에...",
+   "url": "http://fpn119.co.kr/259655",
+   "orig": "http://fpn119.co.kr/259655",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-18T16:32+09:00",
+   "cat": "tech",
+   "id": "69f8a1471ecd",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "수능 한파·대설 예보에…정부, 수험생 이동·안전관리 강화",
+   "summary": "시험장 안전점검…\"이상 없어\" 아주경제=조현미 기자 hmcho@ajunews.com 2027학년도 대학수학능력시험을 하루... 과학기술정보통신부·국방부·농림축산식품부·산업통상부·보건복지부·기후에너지환경부·고용노동부...",
+   "url": "https://www.ajunews.com/view/20261118113427800",
+   "orig": "https://www.ajunews.com/view/20261118113427800",
+   "source": "아주경제",
+   "published": "2026-11-18T16:32+09:00",
+   "cat": "law",
+   "id": "6bc060080ad8",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, AI 데이터센터 안전관리 강화…글로벌 전문가 160명 머리 맞대",
+   "summary": "금융감독원 부원장, 박철순 KAIT 사무국장, 이병목 한국은행 국장, 안욱상 산업은행 본부장, 카를레스... 첫 번째 세션에서는 AIDC 산업의 안전한 운영을 위한 제도적·기술적 과제를 살펴봤다. 이상근 고려대학교...",
+   "url": "https://www.ziksir.com/news/articleView.html?idxno=153853",
+   "orig": "https://www.ziksir.com/news/articleView.html?idxno=153853",
+   "source": "직썰",
+   "published": "2026-11-18T16:32+09:00",
+   "cat": "acc",
+   "id": "c866ebddf0ee",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "양주시, 대형 건설현장 소장 15명과 동절기 안전 논의…사고 예방 당부",
+   "summary": "특히 우수품질 공동주택 건설과 안전사고 예방 방안이 집중적으로 다뤄졌으며, 공사 중 발생하는 소음과 분진, 진동 등 시민 불편 최소화와 안전한 작업환경 조성에 대한 요청이 있었다. 또한 지역 근로자 우선 채용, 지역...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756043",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3756043",
+   "source": "국제뉴스",
+   "published": "2026-11-18T16:30+09:00",
+   "cat": "tech",
+   "id": "a8675b097b6f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "태영건설, 근로자 사망에 워크아웃 졸업 '암초'…공공수주도 부담",
+   "summary": "50억원 이상 공사 적격심사에서는 중대재해 사망자 1명에 1점, 2명에 2점, 3명 이상에 3점을 감점한다. 입찰참가자격 사전심사(PQ)에서는 각각 2점, 3.5점, 5점을 감점한다. 다만 사망사고만으로 감점이 확정되는 것은...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=321760",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=321760",
+   "source": "ppss.kr",
+   "published": "2026-11-18T16:29+09:00",
+   "cat": "sev",
+   "id": "1578d690d5fc",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] 김정탁 고용부 과장 \"예측하고 감지하는 안전관리\"",
+   "summary": "김 과장은 그동안 산업안전감독관의 현장 경험을 바탕으로 사고 사례를 분석하고 유사 사고 재발을 막는... 개인정보 등 민감한 정보가 드러나지 않도록 가공하는 작업도 진행 중이다. 감독관이 점검 대상을 고르는 데...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259241",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259241",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-18T16:28+09:00",
+   "cat": "tech",
+   "id": "762bc509c743",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"일하다 다친 마음도 보호\"…정신질환 산재 판정 전 지원 제안",
+   "summary": "연구진이 2016~2020년 자살 사망자 6만 2987명을 전수조사한 자료를 분석한 결과, 피고용인 자살 사망자의 84%가... 중대재해처벌법 시행령상 경영책임자의 안전보건관리체계 점검 대상에도 심리사회적 위험요인을...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009296922?sid=105",
+   "orig": "https://www.news1.kr/bio/welfare-medical/6358388",
+   "source": "뉴스1",
+   "published": "2026-11-18T16:27+09:00",
+   "cat": "law",
+   "id": "3766012dd06a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, AI 데이터센터 위험관리 강화 추진…안전기준·보험 역할 논의",
+   "summary": "금융감독원 부원장(열 번째) 등 주요 참석자들이 기념촬영을 하고 있다./사진=삼성화재 제공 이문화... 바탕으로 새로운 산업이 더욱 안전하고 지속가능하게 성장할 수 있도록 지원하는 파트너가 되겠다”고 말했다.",
+   "url": "https://www.socialvalue.kr/news/view/1065597873140160",
+   "orig": "https://www.socialvalue.kr/news/view/1065597873140160",
+   "source": "socialvalue.kr",
+   "published": "2026-11-18T16:26+09:00",
+   "cat": "acc",
+   "id": "d668255fe8d4",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "풀무원, AI 활용 식품안전 관리 강화…협력사 250명과 대응 방안 공유",
+   "summary": "제16회 식품품질안전 컨퍼런스 개최 글로벌 HACCP·품질 데이터 활용 논의 아주경제=김현아 기자 haha@ajunews.com 17일 충북 청주시 대한산업보건협회 대강당에서 열린 ‘2026 풀무원 식품품질안전 컨퍼런스'에서...",
+   "url": "https://www.ajunews.com/view/20261118161948905",
+   "orig": "https://www.ajunews.com/view/20261118161948905",
+   "source": "아주경제",
+   "published": "2026-11-18T16:22+09:00",
+   "cat": "hlt",
+   "id": "2bc894a8ccb3",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "산재 후 미취업자 자살사고 3배...'마음의 산재'도 보상해야",
+   "summary": "또한 피고용인 자살 사망자의 61.6%에게 정신과적 증상이 있었지만, 실제 진단으로 이어진 비율은 25.2%에 그쳤다. 업무상 정신질병에 따른 산재 승인 건수도 크게 늘었다. 2016년 69건이었던 승인 건수는 2024년 471건으로...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=321700",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=321700",
+   "source": "ppss.kr",
+   "published": "2026-11-18T16:21+09:00",
+   "cat": "acc",
+   "id": "29448f48d514",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "한국마사회, 시민·근로자 함께하는 안전문화 캠페인 개최",
+   "summary": "바로마켓과 서울경마공원 잔디광장에서는 가상현실(VR)을 활용한 추락·끼임 사고 체험과 소화기·소화전 사용법, 심폐소생술 실습 등이 이뤄졌다. 임직원과 협력사 근로자들은 안전골든벨을 통해 작업중지제도와...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251653",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251653",
+   "source": "안전신문",
+   "published": "2026-11-18T16:20+09:00",
+   "cat": "tech",
+   "id": "8fa37f6a87c1",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "김태선 의원 '근로복지공단 독립법' 입법 추진",
+   "summary": "실제 고용노동부 산하 주요 공공기관인 한국산업안전보건공단과 한국산업인력공단은 각각 별도의 설립 근거법을 갖고 있지만 근로복지공단은 독립 법률이 없는 상태다. 이번 제정안은 공단의 설립 목적과 법적 지위를...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014330862?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261118_0003873646",
+   "source": "뉴시스",
+   "published": "2026-11-18T16:20+09:00",
+   "cat": "law",
+   "id": "0a96ccd31ea0",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "소노벨 제주, 안전대상 우수기업상 수상···소노인터내셔널 2년 연속 ...",
+   "summary": "사고 예방 체계와 비상 대응 역량을 갖추는 일이 단순한 비용이나 규제 대응을 넘어 브랜드 신뢰를 유지하기 위한 경영 과제가 되고 있다는 분석이다. 이재중 소노벨 제주 총지배인은 \"전 직원이 한마음으로 안전을 지켜온...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=159885",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=159885",
+   "source": "smartbizn.com",
+   "published": "2026-11-18T16:16+09:00",
+   "cat": "tech",
+   "id": "7608579eb154",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "포티투마루 \"현장서 움직이는 피지컬 AI…신뢰·안전·윤리·보안 두루 ...",
+   "summary": "궁극적으로 사고가 발생하면 누가 어떤 책임을 질 것인가에 대해 구체적인 논의가 필요하다\"고 설명했다. 윤리 측면에서는 AI를 도입하는 과정에서 작업자와 시민의 권리를 보호해야 한다고 강조했다. 김 대표는 \"제조...",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=243030",
+   "orig": "https://www.itdaily.kr/news/articleView.html?idxno=243030",
+   "source": "itdaily.kr",
+   "published": "2026-11-18T16:14+09:00",
+   "cat": "tech",
+   "id": "c6ffd2795c15",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, 'Global AIDC Forum 2026' 개최",
+   "summary": "이어 국가인공지능전략위원회 김경만 단장과 박지선 금융감독원 부원장이 축사를 전했으며, 장병탁... 새로운 산업이 더욱 안전하고 지속가능하게 성장할 수 있도록 지원하는 파트너가 되겠다\"고 포부를...",
+   "url": "http://www.newsdream.kr/news/articleView.html?idxno=122479",
+   "orig": "http://www.newsdream.kr/news/articleView.html?idxno=122479",
+   "source": "newsdream.kr",
+   "published": "2026-11-18T16:14+09:00",
+   "cat": "acc",
+   "id": "9ba5a65b4da8",
+   "related": [
+    {
+     "source": "newsmap.co.kr",
+     "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5472",
+     "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=5472",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최…AI 데이터센터 안전 해법 모색"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140392",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=140392",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] 홍성국 의장 \"데이터 기반 안전사회로 가야\"",
+   "summary": "'AI와 안전경영의 동행'을 주제로 열린 이날 포럼에서 홍 의장은 '수축사회 發 위험사회, 어떻게 돌파할 것인가'에 대해 발표했다. 성장 격차 넘어 '위험의 불평등' 대응해야 홍 의장은 기후위기와 인구 감소, AI 기술 발전이...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259240",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259240",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-18T16:14+09:00",
+   "cat": "tech",
+   "id": "e7dea84eec1e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재 이문화 \"AIDC는 韓 글로벌 AI 경쟁력 높이는 중요한 기반\"",
+   "summary": "금융감독원 박지선 부원장, KAIT 박철순 사무국장, 한국은행 이병목 국장, 산업은행 안욱상 본부장, QBE... 이어 \"축적된 위험관리 경험과 전문성을 바탕으로 새로운 산업이 더욱 안전하고 지속가능하게 성장할 수...",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2122151",
+   "orig": "http://www.4th.kr/news/articleView.html?idxno=2122151",
+   "source": "포쓰저널",
+   "published": "2026-11-18T16:12+09:00",
+   "cat": "acc",
+   "id": "76687933e22a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, AIDC 포럼 개최…안전·기술기준 및 보험 역할 논의",
+   "summary": "AIDC의 안전·기술기준과 제도, 사이버 리스크, 보험산업의 역할 등을 논의했다. 개회식에서는 이문화 삼성화재 대표이사가 환영사를 했다. 이어 김경만 국가인공지능전략위원회 단장과 박지선 금융감독원 부원장이...",
+   "url": "https://www.newspost.kr/news/articleView.html?idxno=227548",
+   "orig": "https://www.newspost.kr/news/articleView.html?idxno=227548",
+   "source": "newspost.kr",
+   "published": "2026-11-18T16:10+09:00",
+   "cat": "tech",
+   "id": "92f522191d64",
+   "related": [
+    {
+     "source": "todayeconomic.com",
+     "url": "https://www.todayeconomic.com/news/article.html?no=32902",
+     "orig": "https://www.todayeconomic.com/news/article.html?no=32902",
+     "title": "삼성화재, AI 데이터센터 포럼 개최…안전기준·보험 역할 논의"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=564916",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564916",
+     "title": "삼성화재, AI데이터센터 안전기준·보험 역할 논의…글로벌 포럼에 160명"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "제일약품·제일헬스사이언스, 환경보호·안전관리 강화로 ESG 경영 실천",
+   "summary": "제일약품과 제일헬스사이언스는 지난 13일 용인 백암공장 인근 가창천에서 임직원 300여명이 참여한... 제일약품과 제일헬스사이언스는 지난 10월 화재와 유해화학물질 누출 등 비상상황에 대비해 양사 근로자 53명이...",
+   "url": "https://www.newspost.kr/news/articleView.html?idxno=227534",
+   "orig": "https://www.newspost.kr/news/articleView.html?idxno=227534",
+   "source": "newspost.kr",
+   "published": "2026-11-18T16:08+09:00",
+   "cat": "tech",
+   "id": "7530512092c7",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "노동부·폴리텍, 피지컬 AI 인재 양성 거점 4곳 구축…전국 확대 추진",
+   "summary": "기호일보, KIHOILBO 비전 AI를 활용한 재배(스마트팜) / 고용노동부 노동부와 한국폴리텍대학이 제조 현장에 인공지능(AI)과 로봇 기술을 접목한 피지컬 AI 전문인력 양성에 나선다. 지역별 주력산업과 연계한 실습시설을...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041363",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041363",
+   "source": "기호일보",
+   "published": "2026-11-18T16:08+09:00",
+   "cat": "tech",
+   "id": "f39242f45e2a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"데이터센터 열기 잡고 리스크까지 차단\"… 삼성화재, AI 인프라 안전 생...",
+   "summary": "거대한 산업이 가장 안전하고 단단한 기반 위에서 지속 성장할 수 있도록 든든한 동반자가 돼 주겠다\"고 말했다. 이어 김경만 국가인공지능전략위원회 단장과 박지선 금융감독원 부원장이 차세대 인프라 성장의...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132777",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=132777",
+   "source": "dailysmart.co.kr",
+   "published": "2026-11-18T16:08+09:00",
+   "cat": "acc",
+   "id": "2ab6dc2a54e4",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "하늘연못 재개방 '윤곽'…안전대책 구체화",
+   "summary": "이달 중 누전차단기를 교체하고 데크계단과 미끄럼 방지시설 등을 정비할 계획이다. 그러나 해당 작업의... 제주돌문화공원관리소장은 \"재개방을 하는 만큼 안전에 더욱 신경을 쓰고 있다\"며 \"안전사고가 발생할 경우...",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=847608",
+   "orig": "https://www.jemin.com/news/articleView.html?idxno=847608",
+   "source": "jemin.com",
+   "published": "2026-11-18T16:06+09:00",
+   "cat": "law",
+   "id": "0b2a523818eb",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, 글로벌 AIDC 포럼 개최…AI 데이터센터 위험관리 논의",
+   "summary": "(AIDC)의 안전·기술기준과 사이버 리스크, 보험산업의 역할 등을 논의했다. 행사는 이문화 삼성화재 대표이사의 환영사로 시작됐다. 이어 김경만 국가인공지능전략위원회 단장과 박지선 금융감독원 부원장이...",
+   "url": "https://www.ajunews.com/view/20261118081550829",
+   "orig": "https://www.ajunews.com/view/20261118081550829",
+   "source": "아주경제",
+   "published": "2026-11-18T16:02+09:00",
+   "cat": "tech",
+   "id": "0180c83b8706",
+   "related": [
+    {
+     "source": "전자신문",
+     "url": "https://n.news.naver.com/mnews/article/030/0003487211?sid=101",
+     "orig": "https://www.etnews.com/20261118000407",
+     "title": "삼성화재, AI 데이터센터 위험관리 논의…“설계부터 사고 예방”"
+    },
+    {
+     "source": "pointe.co.kr",
+     "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88028",
+     "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=88028",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최…AI 데이터센터 안전·위험관리..."
+    },
+    {
+     "source": "popcornnews.net",
+     "url": "http://www.popcornnews.net/news/articleView.html?idxno=140596",
+     "orig": "http://www.popcornnews.net/news/articleView.html?idxno=140596",
+     "title": "삼성화재, 글로벌 포럼서 AI 데이터센터 위험관리 논의"
+    },
+    {
+     "source": "techholic.co.kr",
+     "url": "http://www.techholic.co.kr/news/articleView.html?idxno=223746",
+     "orig": "http://www.techholic.co.kr/news/articleView.html?idxno=223746",
+     "title": "삼성화재, '글로벌 AIDC 포럼' 개최-AIDC 안전·기술기준 보험의 역할 논..."
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=728410",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=728410",
+     "title": "삼성화재, '글로벌 AIDC 포럼' 개최…AI 데이터센터 안전 논의"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1426600",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1426600",
+     "title": "삼성화재, AIDC 포럼 개최…AI 데이터센터 위험관리·보험 역할 논의"
+    },
+    {
+     "source": "포인트데일리",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326541",
+     "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326541",
+     "title": "삼성화재, 'AI 데이터센터' 위험관리 해법 모색"
+    },
+    {
+     "source": "whitepaper.co.kr",
+     "url": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268927",
+     "orig": "http://www.whitepaper.co.kr/news/articleView.html?idxno=268927",
+     "title": "삼성화재, 'AIDC 포럼'서 AI 데이터센터 위험관리 논의"
+    },
+    {
+     "source": "ftoday.co.kr",
+     "url": "http://www.ftoday.co.kr/news/articleView.html?idxno=370070",
+     "orig": "http://www.ftoday.co.kr/news/articleView.html?idxno=370070",
+     "title": "삼성화재, AI 데이터센터 안전 해법 모색…글로벌 포럼 개최"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "용인시의회 경제환경위, 일자리·산업안전·농축산 행정 집중 감사",
+   "summary": "이날 감사에서는 일자리 사업의 사후관리 부실 우려와 공공시설 건립사업 지연, 산업안전 대책, 전통시장... 관리·감독 강화를 주문했다. 국내 전시회 지원사업의 중복 수혜 방지와 공고·선정 기준 개선, 농지보전부담금...",
+   "url": "http://www.metroseoul.co.kr/article/20261118500369",
+   "orig": "http://www.metroseoul.co.kr/article/20261118500369",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-18T16:02+09:00",
+   "cat": "law",
+   "id": "ba857901c6ee",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "울산항, 안전·회복탄력성 앞세워 친환경 에너지 물류허브 도약 모색",
+   "summary": "동시작업(SIMOPS) 실증에 성공했다고 밝혔다. 4월과 10월에는 국내 최초로 암모니아 추진선 대상 육상-선박... 통해 사고 선박 및 위험물 필수정보 5종 확보 시간을 기존 20분에서 5분 이내로 줄였다고 설명했다. 최근...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003156768?sid=101",
+   "orig": "https://www.dailian.co.kr/news/view/1716777/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-18T16:01+09:00",
+   "cat": "law",
+   "id": "c19bcd399d3d",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, AIDC 산업 안전망 구축 나선다…글로벌 포럼 개최",
+   "summary": "참석자들은 AIDC 산업의 안전·기술 기준과 사이버 리스크, 제도적 과제 및 보험산업의 역할 등을 논의했다. 이문화 삼성화재 대표이사의 환영사에 이어 국가인공지능전략위원회 김경만 단장과 박지선 금융감독원...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005606249?sid=101",
+   "orig": "https://www.fnnews.com/news/202611181409416568",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-18T16:00+09:00",
+   "cat": "tech",
+   "id": "58cb073c6598",
+   "related": [
+    {
+     "source": "newsinside.kr",
+     "url": "https://www.newsinside.kr/news/articleView.html?idxno=5051071",
+     "orig": "https://www.newsinside.kr/news/articleView.html?idxno=5051071",
+     "title": "삼성화재, AIDC 산업 안전망 구축 나선다"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "인천시, 청소업체·군구 관계자 60여 명과 합동 간담회 열고 안전사고 ...",
+   "summary": "주요 논의 사항은 청소차량 안전장치 설치와 작업 중 안전표지 강화, 정기적인 안전교육 실시 등 사고 예방을 위한 현장 관리방안이다. 생활폐기물 수거 작업은 공동주택과 학교 등 주민들의 일상적인 이동이 이뤄지는...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=658874",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658874",
+   "source": "경인매일",
+   "published": "2026-11-18T15:58+09:00",
+   "cat": "tech",
+   "id": "dab7a2cf6f67",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "마포 공덕 재건축 현장서 비계 해체 중 35ｍ 추락…하청 노동자 사망",
+   "summary": "사고 직후 서울서부지청 산재예방감독과와 중대재해수사과가 현장에 출동해 작업중지 명령을 내렸다. 노동부는 추락 당시 작업 방식과 안전시설 설치 및 관리 상태 등을 조사해 중대재해처벌법과 산업안전보건법...",
+   "url": "https://idsn.co.kr/news/view/1065594338110708",
+   "orig": "https://idsn.co.kr/news/view/1065594338110708",
+   "source": "idsn.co.kr",
+   "published": "2026-11-18T15:56+09:00",
+   "cat": "sev",
+   "id": "ed018358893f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "“자살 2명 중 1명은 일하던 사람”… 노동자 자살예방 포럼 개최[온라...",
+   "summary": "연구진이 2016~2020년 자살자 6만2987명을 전수조사해 보니 숨진 피고용인의 84.0%는 사망 전 경고신호를... 않고 산재 인정을 기다리는 동안 소득과 일자리까지 흔들리면 자살 위험이 커진다고 분석했다. 특히...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003763412?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261118/135047291/1",
+   "source": "동아일보",
+   "published": "2026-11-18T15:51+09:00",
+   "cat": "tech",
+   "id": "e6da9d1000c9",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "“안전·보건관리자 선임확대에 따른 노동자 보호를 위한 제도개선 방안...",
    "summary": "등 법·제도적 개선이 필요하다”라고 지적했다. 이어 “최근 경사노위 산업 안전보건위원회에서는 소규모... 따라 안전보건관리 업무 위탁 기준 개정, 안전보건 관리 전문기관 역할 및 기능 강화 등 안전보건 관리...",
@@ -372,6 +954,18 @@
      "url": "https://n.news.naver.com/mnews/article/374/0000544493?sid=103",
      "orig": "https://biz.sbs.co.kr/article_hub/20000347318?division=NAVER",
      "title": "서울 마포 한화 시공 아파트 재건축 현장서 하청노동자 추락사"
+    },
+    {
+     "source": "뉴스토마토",
+     "url": "http://www.newstomato.com/ReadNews.aspx?no=1320946&inflow=N",
+     "orig": "http://www.newstomato.com/ReadNews.aspx?no=1320946&inflow=N",
+     "title": "한화 시공 마포 재건축 현장서 30대 하청 노동자 추락사"
+    },
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884765",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884765",
+     "title": "한화 시공 마포구 재건축 현장서 하청 노동자 추락사…작업중지 명령"
     }
    ],
    "day": "2026-11-18",
@@ -668,6 +1262,24 @@
      "url": "https://n.news.naver.com/mnews/article/018/0006411921?sid=101",
      "orig": "https://www.edaily.co.kr/News/Read?newsId=03676886645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
      "title": "기아, 협력사 110곳과 안전관리 강화…중대재해 예방 공동 선언"
+    },
+    {
+     "source": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=321917",
+     "orig": "https://www.cnbizm.com/news/articleView.html?idxno=321917",
+     "title": "기아, 고용부·협력사 110곳과 '안전 공동 선언'"
+    },
+    {
+     "source": "newscape.co.kr",
+     "url": "http://www.newscape.co.kr/news/articleView.html?idxno=125921",
+     "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=125921",
+     "title": "기아, 협력사 110곳과 '안전 최우선' 선언…중대재해 예방 맞손"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085017",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085017",
+     "title": "기아, 협력사 110곳과 중대재해 예방 협력…안전관리체계 강화"
     }
    ],
    "day": "2026-11-18",
@@ -881,6 +1493,18 @@
      "url": "https://www.seoulfn.com/news/articleView.html?idxno=643231",
      "orig": "https://www.seoulfn.com/news/articleView.html?idxno=643231",
      "title": "한화 시공 마포구 재건축 현장서 30대 노동자 추락사"
+    },
+    {
+     "source": "아이뉴스24",
+     "url": "https://n.news.naver.com/mnews/article/031/0001076249?sid=102",
+     "orig": "http://www.inews24.com/view/2027765",
+     "title": "[속보] 마포 아파트 재건축 현장서 30대 하청 노동자 추락사"
+    },
+    {
+     "source": "financialpost.co.kr",
+     "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301742",
+     "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301742",
+     "title": "서울 마포구 재건축 현장서 추락사고…30대 노동자 숨져"
     }
    ],
    "day": "2026-11-18",
@@ -1102,6 +1726,18 @@
      "url": "https://www.kmaeil.com/news/articleView.html?idxno=658811",
      "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658811",
      "title": "인천교통공사, 인천2호선 가정역 대한민국 안전대상 소방청장상 수상으..."
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2020279",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2020279",
+     "title": "남양주도시공사, 대한민국 안전대상 소방청장상 수상…3년 연속 선정 쾌..."
+    },
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/325711/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/325711/?sc=Naver",
+     "title": "인천교통공사,‘제25회 대한민국 안전대상’소방청장상 수상"
     }
    ],
    "day": "2026-11-18",
@@ -1450,6 +2086,12 @@
      "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301732",
      "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301732",
      "title": "건설현장 사망사고 절반 '추락사'…국토부, 대형건설사 긴급 안전점검"
+    },
+    {
+     "source": "천지일보",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3449871",
+     "orig": "https://www.newscj.com/news/articleView.html?idxno=3449871",
+     "title": "건설현장 사망사고 절반이 추락… 국토부, 안전 점검"
     }
    ],
    "day": "2026-11-18",
@@ -1925,6 +2567,12 @@
      "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107142",
      "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107142",
      "title": "풀무원, AI 접목 식품안전 관리체계 강화 나서"
+    },
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598561899425",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598561899425",
+     "title": "풀무원, AI·데이터로 식품안전 혁신…협력기업과 글로벌 품질관리 체계..."
     }
    ],
    "day": "2026-11-18",
@@ -2069,6 +2717,12 @@
      "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140127",
      "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=140127",
      "title": "풀무원, AI·데이터 기반 식품안전 관리체계 고도화…협력사 품질관리 ..."
+    },
+    {
+     "source": "디지털데일리",
+     "url": "https://n.news.naver.com/mnews/article/138/0002249093?sid=101",
+     "orig": "https://www.ddaily.co.kr/page/view/2026111816151754410",
+     "title": "풀무원, AI로 식품안전 관리 강화…협력사와 품질 데이터 공유"
     }
    ],
    "day": "2026-11-18",
@@ -2109,7 +2763,14 @@
    "published": "2026-11-18T08:51+09:00",
    "cat": "acc",
    "id": "a19215ef37af",
-   "related": [],
+   "related": [
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000132656?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261118580352",
+     "title": "평택시, 공장·창고시설 화재 위험요인 집중 점검…고위험 사업장 266동..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -2326,6 +2987,12 @@
      "url": "https://theviewers.co.kr/View.aspx?No=4317895",
      "orig": "https://theviewers.co.kr/View.aspx?No=4317895",
      "title": "[유통갤러리] 풀무원, 16회 식품품질안전 컨퍼런스 개최…AI 활용 식품안..."
+    },
+    {
+     "source": "kfenews.co.kr",
+     "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668346",
+     "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=668346",
+     "title": "풀무원, AI 기반 식품안전 관리체계 강화"
     }
    ],
    "day": "2026-11-18",
@@ -4010,6 +4677,12 @@
      "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755188",
      "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3755188",
      "title": "수도권대기환경청, 굴뚝 시료채취 안전 컨퍼런스 개최"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009296886?sid=102",
+     "orig": "https://www.news1.kr/local/gyeonggi/6358399",
+     "title": "수도권대기환경청, 굴뚝 시료채취 작업환경 안전 컨퍼런스"
     }
    ],
    "day": "2026-11-17",
