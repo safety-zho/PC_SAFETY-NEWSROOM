@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T01:20+09:00",
+ "updatedAt": "2026-11-19T08:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,34 +25,404 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "734630487235",
-   "title": "[기고] 울산엔 산업연계 공공기관을",
-   "url": "https://n.news.naver.com/mnews/article/005/0001886047?sid=110",
-   "source": "국민일보",
+   "id": "5cfa81acdd67",
+   "title": "NH농협금융, 내년 기후금융 신사업 육성…'지속가능금융 프레임워크' 가...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487345?sid=101",
+   "source": "전자신문",
    "cat": "tech",
    "day": "2026-11-19",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "27acf446678c",
-   "title": "화학안전, 매일의 점검에서 시작된다[기고/전상은]",
-   "url": "https://n.news.naver.com/mnews/article/020/0003763504?sid=101",
-   "source": "동아일보",
-   "cat": "hlt",
+   "id": "2af0f220a7e0",
+   "title": "토스씨엑스, ISO 경영시스템 인증 3종 동시 취득",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884953",
+   "source": "한스경제",
+   "cat": "tech",
+   "day": "2026-11-19",
+   "count": 2
+  },
+  {
+   "id": "09508b0d2054",
+   "title": "[오늘의 신문] 55만 수험생 수능, 가계빚 2030조원 사상 최대...미·중·러...",
+   "url": "http://kor.theasian.asia/archives/422156",
+   "source": "kor.theasian.asia",
+   "cat": "sev",
    "day": "2026-11-19",
    "count": 1
   },
   {
-   "id": "db89c97f8c45",
-   "title": "제10회 울산항 안전 콘퍼런스 \"안전투자는 항만경쟁력 좌우할 필수보험...",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1072982",
-   "source": "경상일보",
+   "id": "13a60d747af6",
+   "title": "민주당 이성윤의원, 국회 AI 포럼…\"혁신과 안전 함께\"",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769778",
+   "source": "더쎈뉴스",
    "cat": "law",
+   "day": "2026-11-19",
+   "count": 1
+  },
+  {
+   "id": "c855159244b5",
+   "title": "일이 많아지면, 미래의 월급이 줄어드는 직업이 있습니다",
+   "url": "https://n.news.naver.com/mnews/article/047/0002536422?sid=102",
+   "source": "오마이뉴스",
+   "cat": "hlt",
    "day": "2026-11-19",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "[오늘의 신문] 55만 수험생 수능, 가계빚 2030조원 사상 최대...미·중·러...",
+   "summary": "실적 개선이 산업 전반의 경쟁력 회복으로 이어지지 못하는 이른바 K자형 양극화가 한국 경제의 구조적... 정부는 스마트안경과 초소형 카메라·이어폰 등 첨단기기를 이용한 부정행위 가능성에 대비해 감독과 보안...",
+   "url": "http://kor.theasian.asia/archives/422156",
+   "orig": "http://kor.theasian.asia/archives/422156",
+   "source": "kor.theasian.asia",
+   "published": "2026-11-19T08:48+09:00",
+   "cat": "sev",
+   "id": "09508b0d2054",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "민주당 이성윤의원, 국회 AI 포럼…\"혁신과 안전 함께\"",
+   "summary": "주제발표에서 구태언 변호사는 고영향 AI의 감독 주체와 책임을 명확히 하고, 국민이 사용을 거부하기... 참석자들은 현장 도입 확대에 맞춰 국민 안전을 확보하고 산업 혁신을 뒷받침할 균형 잡힌 제도가 필요하다고...",
+   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769778",
+   "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=769778",
+   "source": "더쎈뉴스",
+   "published": "2026-11-19T08:46+09:00",
+   "cat": "law",
+   "id": "13a60d747af6",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "NH농협금융, 내년 기후금융 신사업 육성…'지속가능금융 프레임워크' 가...",
+   "summary": "아울러 △NH미소재단 설립 추진 △한국산업안전보건공단 업무협약을 통한 특화상품 출시 △사회적기업 물품구매 연계 선순환 기부 △크라우드펀딩을 통한 농업인 지원 등 상생·포용금융을 확대했다. 이찬우...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487345?sid=101",
+   "orig": "https://www.etnews.com/20261119000004",
+   "source": "전자신문",
+   "published": "2026-11-19T08:37+09:00",
+   "cat": "tech",
+   "id": "5cfa81acdd67",
+   "related": [
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=564993",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564993",
+     "title": "NH농협금융, ESG전략협의회 개최…내년 기후금융 신사업 육성"
+    }
+   ],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "일이 많아지면, 미래의 월급이 줄어드는 직업이 있습니다",
+   "summary": "현장에는 산업안전보건교육과 철도안전교육 등 의무교육이 있다. 그런데 교육받으러 간다고 하던 일이 함께 멈춰주지는 않는다. 누군가는 빈자리를 메워야 하고, 어떤 곳에서는 돌아오면 밀린 일이 기다린다. 근무시간이...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002536422?sid=102",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286020&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-11-19T08:32+09:00",
+   "cat": "hlt",
+   "id": "c855159244b5",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "과천 재건축 현장서 70대 작업자 추락 중상",
+   "summary": "18일 오후 3시11분께 경기 과천시 부림동 한 재건축 현장에서 70대 작업자가 추락해 크게 다치는 사고가 났다. A씨는 공사장 내에서 물품을 싣다가 추락, 심정지 상태로 병원 이송됐다. 경찰은 자세한 사고 경위를 조사...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014331614?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261119_0003874238",
+   "source": "뉴시스",
+   "published": "2026-11-19T08:24+09:00",
+   "cat": "acc",
+   "id": "dac8a1fa297c",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "토스씨엑스, ISO 경영시스템 인증 3종 동시 취득",
+   "summary": "ISO 45001은 근로자의 안전과 건강을 보호하고 산업재해를 예방하기 위한 경영체계를 평가한다. 토스씨엑스는 이번 인증으로 고객 상담 서비스의 품질관리뿐 아니라 환경경영과 임직원 안전보건 영역에서도...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884953",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884953",
+   "source": "한스경제",
+   "published": "2026-11-19T08:24+09:00",
+   "cat": "tech",
+   "id": "2af0f220a7e0",
+   "related": [
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=564988",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564988",
+     "title": "토스씨엑스, 품질·환경·안전보건 ISO 3종 동시 취득…업계 최초"
+    }
+   ],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "과도기 업무 마련·보조금 등 산재 노동자 편의제공, 기업에도 도움[서...",
+   "summary": "보조금은 작업장 개조나 재훈련 비용에도 지원되지만, 관련 지출의 96% 이상이 과도기 업무 촉진을 위한... 예를 들어 기업은 부상이 가볍거나 회복이 빠를 것 같은 사람, 원래 생산성이 높아 붙잡아 둘 가치가 있는...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002466564?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026111810141946571?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-11-19T08:15+09:00",
+   "cat": "tech",
+   "id": "3b23ef1f5bde",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "시행 앞둔 '생명안전기본법'…박주민 \"더 안전한 사회 된다\"",
+   "summary": "법안의 완결성을 높이기 위해 재입법예고안에 대한 추가 의견 전달과 후속 입법 작업도 예고했다.... ◇ '생명안전기본법' 12·3 시행…무엇이 달라지나생명안전기본법은 피해자들이 국가에 직접 사고 관련 정보와 지원을...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007254",
+   "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261118010007254",
+   "source": "아시아투데이",
+   "published": "2026-11-19T08:00+09:00",
+   "cat": "law",
+   "id": "52b9067af6d7",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "한국노총, 소규모 사업장 안전보건 관리 체계 강화 촉구",
+   "summary": "김효준 대한산업보건협회 사업본부장은 20~49인 사업장의 보건관리 업무 위탁 허용과 산업단지 단위 공동관리, 정부의 위탁 비용 지원 및 표준 수가 마련을 제안했다. 임재범 한국노총 산업안전보건본부 총괄실장은 소규모...",
+   "url": "https://www.cwn.kr/news/articleView.html?idxno=62162",
+   "orig": "https://www.cwn.kr/news/articleView.html?idxno=62162",
+   "source": "cwn.kr",
+   "published": "2026-11-19T07:16+09:00",
+   "cat": "hlt",
+   "id": "3a72000c9726",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "한난, ‘대한민국 안전대상’ 대통령상 수상…안전경영 등 종합성과 인...",
+   "summary": "한난은 이번 심사에서 △전 사업장 화재위험 관리체계 구축 △인공지능(AI)·디지털 기술 기반 스마트 방재시스템 구현 △현장 중심의 재난대응체계 강화 △자율적 안전문화 확산 등 전사적인 안전관리 성과를 인정받았다....",
+   "url": "https://n.news.naver.com/mnews/article/082/0001407918?sid=101",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026111823123559690",
+   "source": "부산일보",
+   "published": "2026-11-19T07:00+09:00",
+   "cat": "tech",
+   "id": "6f8eeb03403f",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "차별금지법 제정과 안전한 일터",
+   "summary": "화장실에 가지 못해 물을 참다 방광염을 앓는 여성노동자, 배리어프리 환경이 전무한 일터에 다닌다는 51%의 직장인(직장갑질119 조사), 청년층보다 산재 사망률이 4배 높은 고령 노동자의 현실이 고스란히 이를 증명한다....",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237822",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237822",
+   "source": "매일노동뉴스",
+   "published": "2026-11-19T06:34+09:00",
+   "cat": "hlt",
+   "id": "5885d68975cf",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "초광역특구법 노동특례 위헌 논란",
+   "summary": "또 '초광역권전략산업특구 상생협의회' 설치 규정을 둬 노동자 보호와 산업안전보건 등에 관한 사항을... 행정기관의 고시에 포괄적으로 위임하는 것도 신중하게 검토해야 한다\"고 지적했다. 여연심 변호사(법무법인 지향)...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237823",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237823",
+   "source": "매일노동뉴스",
+   "published": "2026-11-19T06:34+09:00",
+   "cat": "law",
+   "id": "4ceaf986ed13",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "노동자 '마음' 돌보는 조금 다른 상담소",
+   "summary": "\"당신의 일터에서 어떤 일이 있었나요\" 마음상담소의 철학은 원진레이온 직업병 투쟁 성과로 탄생한 녹색병원의 역사를 잇는다. 지난 17일 오후 서울 종로구 전태일기념관에서 열린 마음상담소 개소 1주년 기념 토크쇼에서...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237815",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237815",
+   "source": "매일노동뉴스",
+   "published": "2026-11-19T06:34+09:00",
+   "cat": "hlt",
+   "id": "01122e825b4e",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "우분투상 대상에 쿠팡 산재 유족 박미숙·장광씨",
+   "summary": "그간 우분투상 대상은 김용균재단(1회), 아파트 경비 노동자 정의헌씨(2회), 임종린 화섬식품노조 파리바게뜨 지회장(3회), 희망의 노래 꽃다지(4회), 문길주 전남노동권익센터장(5회), 섹 알 마문 이주노조 수석부위원장(6회)...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237827",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237827",
+   "source": "매일노동뉴스",
+   "published": "2026-11-19T06:34+09:00",
+   "cat": "sev",
+   "id": "88c72e57e08e",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[지방자치혁신대상] 안전관리도 스마트하게",
+   "summary": "강남구도시관리공단, 안전ㆍ재난대응 혁신 최우수상 이사장이 82개 사업장 직접 점검ㆍ 직속 TFT 가동 안전분야에 스마트 기술 적극 도입 [대한경제=김정석 기자] 강남구도시관리공단(이사장 고광윤)은 중대재해처벌법...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151656440790120",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611151656440790120",
+   "source": "대한경제",
+   "published": "2026-11-19T06:22+09:00",
+   "cat": "tech",
+   "id": "d6276c5668a4",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[지방자치혁신대상] ‘3대 통합 안전망’ 구축…급변하는 재난환경 선제...",
+   "summary": "구체적으로 인공지능(AI) 위험성 평가와 드론 안전 점검을 도입하고, 6개 분야 10명의 기술자문위원을 활용해... 기반 스마트 안전관리를 지속 추진하겠다”며 “유관 기관과 협력 체계도 강화해 시민이 안심하고 이용할...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171029520480406",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611171029520480406",
+   "source": "대한경제",
+   "published": "2026-11-19T06:22+09:00",
+   "cat": "tech",
+   "id": "f8d031706d5f",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "추미애 경기도지사, 중대재해 예방 직접 챙겨…축산·소방시설 안전관리...",
+   "summary": "주요 점검 대상은 가축을 취급하는 과정에서 발생할 수 있는 작업자 부상과 크레인·로더를 이용한 작업 중... 소방훈련은 높은 구조물에서의 작업과 실제 화재 상황을 가정한 훈련 등이 포함되는 만큼 추락과 끼임, 화상...",
+   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33206",
+   "orig": "http://www.fieldnews.kr/news/articleView.html?idxno=33206",
+   "source": "fieldnews.kr",
+   "published": "2026-11-19T06:20+09:00",
+   "cat": "tech",
+   "id": "3375ef0114f4",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[총수 신년공약 성적표④] 한미 조선·방산·태양광 '삼각편대' 질주…...",
+   "summary": "다만 주요 사업장에서 사망사고가 잇따르면서 안전 최우선 원칙을 현장에 정착시키는 것은 과제로 남았다.... 다만 안전 최우선 원칙은 주요 사업장에서 중대재해가 발생하면서 과제로 남았다. 김 회장은 신년사에서...",
+   "url": "http://www.consumernews.co.kr/news/articleView.html?idxno=768582",
+   "orig": "http://www.consumernews.co.kr/news/articleView.html?idxno=768582",
+   "source": "소비자가만드는신문",
+   "published": "2026-11-19T06:10+09:00",
+   "cat": "tech",
+   "id": "60ae471ebd43",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "'안전보다 비용' 태영건설, 이강석 체제 8개월만에 2명 숨졌다",
+   "summary": "태영건설은 17일 고속국도 제400호선 양평~이천 구간 건설공사(제4공구) 현장에서 근로자 1명이 사망하는 중대재해가 발생했다고 공시했다. 공시에 따르면 근로자는 콘크리트 포장장비를 옮기기 위해 트랙 턴버클을...",
+   "url": "https://realty.chosun.com/site/data/html_dir/2026/11/18/2026111802940.html",
+   "orig": "https://realty.chosun.com/site/data/html_dir/2026/11/18/2026111802940.html",
+   "source": "조선일보",
+   "published": "2026-11-19T06:02+09:00",
+   "cat": "sev",
+   "id": "0a827e6aa201",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[특별기획] ➁ 권혁과 시도그룹, 세계 바다에 새긴 30년",
+   "summary": "1997년 국제안전관리규약(ISM Code)과 품질경영시스템 국제표준(ISO 9001) 인증을 확보했고, 2005년에는 환경경영과 산업안전보건 분야로 인증을 확대했다. 선박의 안전운항과 해양환경 보호, 관리업무의 품질을 높이며 국제...",
+   "url": "https://www.ajunews.com/view/20261118081245825",
+   "orig": "https://www.ajunews.com/view/20261118081245825",
+   "source": "아주경제",
+   "published": "2026-11-19T06:02+09:00",
+   "cat": "tech",
+   "id": "7a3d4d0684e3",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[현장] 라이더 안전교육 의무화 코앞인데…'배민라이더스쿨' 대안 될까",
+   "summary": "이날 현장에서 '라이더 안전교육의 새로운 패러다임: 배민라이더스쿨'을 주제로 발표를 진행한 경나경 성균관대 경영학과 교수도 배민라이더스쿨의 교육 인프라를 활용한 민관 협력의 필요성을 강조했다. 경 교수는...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003156887?sid=101",
+   "orig": "https://www.dailian.co.kr/news/view/1716853/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-19T06:01+09:00",
+   "cat": "tech",
+   "id": "522bcc6957dc",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[시론] 산업안전 신고포상금제가 시행된다",
+   "summary": "이투데이=김준호 한양노무법인 대표노무사 | 내년 1월 28일부터 산업재해 은폐나 산업현장의 안전보건 위반을 신고하면 건당 최대 500만원의 포상금을 받을 수 있게 된다. 고용노동부는 정부의 감독만으로 수많은 사업장의...",
+   "url": "https://www.etoday.co.kr/news/view/2650004",
+   "orig": "https://www.etoday.co.kr/news/view/2650004",
+   "source": "이투데이",
+   "published": "2026-11-19T06:00+09:00",
+   "cat": "law",
+   "id": "9792baa7f963",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "아이폰 듀오 파손·인도 공장 참사·전산망 마비까지…'터너스 체제' 석...",
+   "summary": "계약직 노동자 3명이 유독가스를 흡입해 질식사한 것. 해당 호수르 단지는 타타그룹이 인도 내 아이폰 조립 물량의 40%를 책임지는 핵심 거점이지만, 2024년 화학물질 창고 대형 화재에 이어 올해 6월 농경지 지하수...",
+   "url": "https://n.news.naver.com/mnews/article/138/0002249130?sid=105",
+   "orig": "https://www.ddaily.co.kr/page/view/2026111810394043194",
+   "source": "디지털데일리",
+   "published": "2026-11-19T06:00+09:00",
+   "cat": "sev",
+   "id": "c3a716ea9ac0",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[현장] \"VR 기기부터 밀착 교육까지\"…배민라이더스쿨, 주행 중 사고 위...",
+   "summary": "이날 경나경 성균관대학교 경영학과 교수는 ▲라이더 안전 교육의 필요성 ▲해외 플랫폼의 안전 교육 사례 ▲안전 교육의 사고 감소 효과 ▲배민라이더스쿨 안전교육의 발전 방향 등에 대한 강의를 이어갔다. 먼저 경...",
+   "url": "https://www.youthdaily.co.kr/news/article.html?no=230016",
+   "orig": "https://www.youthdaily.co.kr/news/article.html?no=230016",
+   "source": "youthdaily.co.kr",
+   "published": "2026-11-19T06:00+09:00",
+   "cat": "tech",
+   "id": "173c3e5a8073",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "550조 AI 데이터센터 ‘보험 공백’ 메운다…삼성화재 합류",
+   "summary": "중국은 올 2월 과학기술부·금융감독관리총국 등 4개 부처가 기술보험 활성화 정책을 내놓고 민간... 참석자들은 AIDC의 안전·기술 기준과 사이버 위험, 보험산업의 역할 등을 논의했다. 최영화 삼성화재...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004683758?sid=101",
+   "orig": "https://www.sedaily.com/article/20116161?ref=naver",
+   "source": "서울경제",
+   "published": "2026-11-19T05:50+09:00",
+   "cat": "acc",
+   "id": "36c124fc02bc",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "KT 현장 노동자 겨울 안전 '빨간불'…노조, 혹한기 작업중지권 요구",
+   "summary": "이를 사업주 의무로 바꾸는 산업안전보건기준 규칙 개정안은 지난 8월 입법예고를 마치고 규제심사를 받고 있다. 노조는 \"현장 노동자의 안전이 곧 KT의 서비스 품질이고 경쟁력\"이라며 \"AI기술은 비용절감보다 KT그룹...",
+   "url": "http://www.rightknow.co.kr/news/articleView.html?idxno=35442",
+   "orig": "http://www.rightknow.co.kr/news/articleView.html?idxno=35442",
+   "source": "rightknow.co.kr",
+   "published": "2026-11-19T05:02+09:00",
+   "cat": "law",
+   "id": "fd585b0a9183",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "[기고] 울산엔 산업연계 공공기관을",
    "summary": "한국환경산업기술원·한국환경공단 등 환경 기관과 노사발전재단·한국고용노동교육원 등 노동 기관이 1차로 이전한 근로복지공단·한국산업안전보건공단·한국산업인력공단과 만나면 산업·노동·환경이 결합된...",
@@ -830,7 +1200,14 @@
    "published": "2026-11-18T17:50+09:00",
    "cat": "tech",
    "id": "655528ece3fa",
-   "related": [],
+   "related": [
+    {
+     "source": "tournews21.com",
+     "url": "https://www.tournews21.com/news/articleView.html?idxno=148891",
+     "orig": "https://www.tournews21.com/news/articleView.html?idxno=148891",
+     "title": "추미애 경기지사, 축산진흥센터·소방학교 찾아 중대재해 예방 현장점검"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -875,6 +1252,12 @@
      "url": "https://www.news2day.co.kr/article/20261118500391",
      "orig": "https://www.news2day.co.kr/article/20261118500391",
      "title": "추미애 경기지사, 축산진흥센터·소방학교 안전점검...중대산업재해 예..."
+    },
+    {
+     "source": "tournews21.com",
+     "url": "https://www.tournews21.com/news/articleView.html?idxno=148890",
+     "orig": "https://www.tournews21.com/news/articleView.html?idxno=148890",
+     "title": "추미애 경기지사, 축산진흥센터·소방학교 안전점검…\"안전관리, 행정의..."
     }
    ],
    "day": "2026-11-18",
@@ -1091,7 +1474,14 @@
    "published": "2026-11-18T17:14+09:00",
    "cat": "sev",
    "id": "33d093b6fbef",
-   "related": [],
+   "related": [
+    {
+     "source": "jbsori.com",
+     "url": "http://www.jbsori.com/news/articleView.html?idxno=18217",
+     "orig": "http://www.jbsori.com/news/articleView.html?idxno=18217",
+     "title": "전주 청소노동자 새벽 교통사고 사망…노조 \"환경미화원 죽음으로 내모..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -1700,6 +2090,18 @@
      "url": "https://www.newstnt.com/news/articleView.html?idxno=729229",
      "orig": "https://www.newstnt.com/news/articleView.html?idxno=729229",
      "title": "삼성화재, 'Global AIDC Forum 2026' 개최…AIDC 안전 기준·위험관리 논의"
+    },
+    {
+     "source": "EBN",
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732203",
+     "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1732203",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최"
+    },
+    {
+     "source": "더페어",
+     "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94734",
+     "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94734",
+     "title": "AI 데이터센터 안전 해법 찾는다…삼성화재, 'Global AIDC Forum 2026' 성료"
     }
    ],
    "day": "2026-11-18",
@@ -2280,7 +2682,14 @@
    "published": "2026-11-18T14:41+09:00",
    "cat": "law",
    "id": "1bba06f9c374",
-   "related": [],
+   "related": [
+    {
+     "source": "vegannews.co.kr",
+     "url": "https://www.vegannews.co.kr/news/article.html?no=407450",
+     "orig": "https://www.vegannews.co.kr/news/article.html?no=407450",
+     "title": "풀무원, 공장·협력사와 AI 식품안전 논의"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -2711,6 +3120,12 @@
      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362767",
      "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=362767",
      "title": "기아, 협력사 110곳과 안전관리 협력 강화… 중대재해 예방 나서"
+    },
+    {
+     "source": "ilyoseoul.co.kr",
+     "url": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525297",
+     "orig": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=525297",
+     "title": "기아·고용부·협력사 110곳, 안전문화 정착 맞손… 중대재해 예방 공동..."
     }
    ],
    "day": "2026-11-18",
@@ -3181,6 +3596,12 @@
      "url": "https://www.jasm.co.kr/news/view/325711/?sc=Naver",
      "orig": "https://www.jasm.co.kr/news/view/325711/?sc=Naver",
      "title": "인천교통공사,‘제25회 대한민국 안전대상’소방청장상 수상"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=728487",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=728487",
+     "title": "인천교통공사, '대한민국 안전대상' 소방청장상 수상"
     }
    ],
    "day": "2026-11-18",
@@ -3737,6 +4158,12 @@
      "url": "https://www.g-enews.com/view.php?ud=2026111812043115331d2373fc0f_1",
      "orig": "https://www.g-enews.com/view.php?ud=2026111812043115331d2373fc0f_1",
      "title": "한난, 열수송관 스마트 안전관리로 '대한민국 안전대상' 대통령상"
+    },
+    {
+     "source": "이코노믹리뷰",
+     "url": "https://www.econovill.com/news/articleView.html?idxno=757761",
+     "orig": "https://www.econovill.com/news/articleView.html?idxno=757761",
+     "title": "\"안전경영 빛났다\"…한난, '대한민국 안전대상' 대통령상 수상"
     }
    ],
    "day": "2026-11-18",
