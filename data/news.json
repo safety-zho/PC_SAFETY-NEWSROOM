@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T11:51+09:00",
+ "updatedAt": "2026-11-18T12:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -52,6 +52,15 @@
    "count": 6
   },
   {
+   "id": "37d3cdf8766b",
+   "title": "평창군, 연말까지 전 사업장 위험성평가…위험요인 선제 개선",
+   "url": "https://n.news.naver.com/mnews/article/001/0016448145?sid=102",
+   "source": "연합뉴스",
+   "cat": "hlt",
+   "day": "2026-11-18",
+   "count": 4
+  },
+  {
    "id": "5cc6b2dba8ea",
    "title": "\"건설현장 사망사고 예방\" 국토부-12개 건설사 안전관리 점검",
    "url": "https://www.newspim.com/news/view/20261118000377",
@@ -59,18 +68,204 @@
    "cat": "sev",
    "day": "2026-11-18",
    "count": 3
-  },
-  {
-   "id": "2f0fe984fe57",
-   "title": "\"안전과 행복이 자라는 일터\"…남부발전 삼척빛드림본부, 안전드림센터...",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755452",
-   "source": "국제뉴스",
-   "cat": "tech",
-   "day": "2026-11-18",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "풀무원, AI 이물 검출부터 품질 데이터 분석까지…식품안전 기술 공유",
+   "summary": "풀무원은 충북 청주시 대한산업보건협회 대강당에서 공장 및 협력기업 품질관리 담당자 250여명이 참석한 가운데 '식품품질안전 컨퍼런스'를 개최했다고 18일 밝혔다. 올해로 16회를 맞은 이번 행사는 풀무원기술원이...",
+   "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=213979",
+   "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=213979",
+   "source": "thefirstmedia.net",
+   "published": "2026-11-18T12:36+09:00",
+   "cat": "tech",
+   "id": "a6b9f9d8b03a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[동반성장] 현대모비스, 공정거래·산업안전·기술·자금 협력사 전폭 지...",
+   "summary": "책자에는 공정거래 자율준수·컴플라이언스 경영을 포함해 자금·기술·ESG 지원, 산업안전·교육 프로그램 등 협력사의 경쟁력 강화를 위한 주요 정책과 추진 성과를 담았다. 현대모비스는 현재 국내외 4100여 개 협력사와...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301694",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301694",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-18T12:36+09:00",
+   "cat": "tech",
+   "id": "d1695e613306",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설사 12곳 사망사고 재발방지 점검…추락사 예방 집중",
+   "summary": "국토부가 운영하는 사고 집계 시스템인 건설공사안전관리종합정보망 신고 기준 올해 1월부터 10월까지 건설 현장에서 숨진 노동자는 106명이다. 전체 사망사고는 줄었지만 추락사 비중은 여전히 높다. 건설 현장 전체...",
+   "url": "https://n.news.naver.com/mnews/article/417/0001164750?sid=101",
+   "orig": "https://www.sidae.com/article/2026111812222450640",
+   "source": "sidae.com",
+   "published": "2026-11-18T12:33+09:00",
+   "cat": "sev",
+   "id": "557196748b1e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"의료폐기물↓, 환자안전↑\"…한양대의료원, ESG 경영 선언",
+   "summary": "책임경영 의료원을 제시했다. 이를 위한 실천과제로 ▲환경을 보호하고 미래세대 건강을 지키는 친환경 의료 실천 ▲생명존중과 환자안전을 최우선으로 하는 의료서비스 제공과 지역사회에 대한 책임 이행 ▲모든...",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044662",
+   "orig": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044662",
+   "source": "청년의사",
+   "published": "2026-11-18T12:24+09:00",
+   "cat": "tech",
+   "id": "952198c16aed",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "올해 건설 현장서 106명 숨져... 국토부, 사망사고 난 건설사들 불러 안...",
+   "summary": "[서울시내 아파트 건설현장에서 건설노동자들이 작업을 하고 있다. 뉴시스 올해 들어 10월까지 건설 노동자... 이 가운데 추락 사망자 비중은 매년 절반 수준을 기록하고 있다. 추락방호망과 안전난간 등 추락방지시설...",
+   "url": "http://www.segyebiz.com/newsView/20261118509483?OutUrl=naver",
+   "orig": "http://www.segyebiz.com/newsView/20261118509483?OutUrl=naver",
+   "source": "segyebiz.com",
+   "published": "2026-11-18T12:22+09:00",
+   "cat": "sev",
+   "id": "b4f32d7bd88a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "환자 돌봄부터 먹거리 안전까지…기업·기관 10곳 미래행복대상 수상",
+   "summary": "식품안전관리인증기준(HACCP)과 국제 식품안전경영시스템 인증(FSSC 22000)을 갖췄으며, 미국·일본·독일 등 20여 개 수출국의 식품안전·표시 기준에 맞춰 제품을 관리하고 있다.",
+   "url": "https://www.kukinews.com/article/view/kuk202611170046",
+   "orig": "https://www.kukinews.com/article/view/kuk202611170046",
+   "source": "쿠키뉴스",
+   "published": "2026-11-18T12:18+09:00",
+   "cat": "tech",
+   "id": "f48a2779268b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설업계, 지역사회공헌 인정기업 선정·전국 현장 근로자에 방한용품 ...",
+   "summary": "호반건설은 지난해에 이어 2년 연속 A+등급을 획득했으며, 호반산업은 올해 처음으로 선정돼 A등급을 받았다. 지역사회공헌 인정제는 보건복지부와 한국사회복지협의회가 공동 주관하는 제도다. 비영리단체와 협력해...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=322035",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=322035",
+   "source": "wsobi.com",
+   "published": "2026-11-18T12:16+09:00",
+   "cat": "hlt",
+   "id": "a73d68da0283",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "고의숙표 첫 조직개편, 새학기로 늦춰져 재추진...의회 요구 전면수용",
+   "summary": "재난안전과 산업안전보건 업무는 행정안전국 노사안전과가 맡는다. 안전기획 기능을 두고 재난 예방과 대응, 산업재해 예방, 학교 및 기관의 안전관리 업무를 총괄·조정하도록 했다. 조직개편의 기본 방향인 학교 현장...",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=508431",
+   "orig": "https://www.jejusori.net/news/articleView.html?idxno=508431",
+   "source": "제주의소리",
+   "published": "2026-11-18T12:14+09:00",
+   "cat": "hlt",
+   "id": "a20b2cd1688d",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[공기업 센터] 한국농어촌공사·국민체육진흥공단·한국식품안전관리인...",
+   "summary": "해썹인증원은 이번 학술대회를 통해 현장 중심의 식품안전 관리 개선 방안과 데이터 기반 위해요소 분석 기술을 공유할 계획이다. 앞으로도 디지털 전환과 스마트 해썹 적용을 확대해 식품산업 전반의 안전관리 수준을...",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=172660",
+   "orig": "http://www.iminju.net/news/articleView.html?idxno=172660",
+   "source": "iminju.net",
+   "published": "2026-11-18T12:12+09:00",
+   "cat": "tech",
+   "id": "7cc144d8ff2e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "데코리아제과, 식약처장상 수상…“아이들 먹거리 안전 최우선” [2026 미...",
+   "summary": "K-푸드 산업 경쟁력 강화에 기여한 공로를 인정받았다. 데코리아제과는 18일 서울 여의도 국민일보 12층... 이번 행사는 보건복지부, 성평등가족부, 식품의약품안전처 등이 후원했다. 2002년 설립된 데코리아제과는 캐릭터...",
+   "url": "https://www.kukinews.com/article/view/kuk202611180016",
+   "orig": "https://www.kukinews.com/article/view/kuk202611180016",
+   "source": "쿠키뉴스",
+   "published": "2026-11-18T12:10+09:00",
+   "cat": "tech",
+   "id": "a658046daa1b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "한국대중골프장협회, 전문경영인회 개최…카트 사고 대응·코스 품질관...",
+   "summary": "한국대중골프장협회가 전국 대중골프장 경영진과 함께 골프장 운영 현안과 안전관리, 코스 품질 향상 방안을 논의하는 전문경영인회를 열고 업계 경쟁력 강화 방안을 모색했다. 한국대중골프장협회(회장 우정석)는 17일...",
+   "url": "http://www.queen.co.kr/news/articleView.html?idxno=466527",
+   "orig": "http://www.queen.co.kr/news/articleView.html?idxno=466527",
+   "source": "queen.co.kr",
+   "published": "2026-11-18T12:10+09:00",
+   "cat": "acc",
+   "id": "14ac1edc9f8e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "현대자동차 'Co:어촌' 프로젝트 업무협약 체결·하반기 안전 캠페인 '세...",
+   "summary": "현대자동차는 한국어촌어항공단과 'Co:어촌' 프로젝트 추진을 위한 업무협약을 체결했으며 2026년 하반기... 이번 행사는 현대차의 전사 안전보건관리를 총괄하는 CSO(최고안전보건책임본부) 주관으로 올해 상반기에 이어...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=322034",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=322034",
+   "source": "wsobi.com",
+   "published": "2026-11-18T12:08+09:00",
+   "cat": "tech",
+   "id": "9a442eb2c8b6",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "농어촌공사, 안전진단 포럼 개최",
+   "summary": "진행되는 만큼 이에 대응할 수 있는 새로운 안전관리 체계가 필요하다\"며, \"인공지능, 위성, 드론 등 첨단 기술을 접목하고, 정부, 지방정부, 학계, 민간과 협력해 스마트 안전관리 체계를 구축하겠다\"고 밝혔다. /고정상",
+   "url": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=66381",
+   "orig": "http://www.wonyesanup.co.kr/news/articleView.html?idxno=66381",
+   "source": "wonyesanup.co.kr",
+   "published": "2026-11-18T12:04+09:00",
+   "cat": "tech",
+   "id": "07fe5b397e1b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망사고 감소세에도 추락 위험 여전…국토부, 대형 건설사 안...",
+   "summary": "추락으로 숨진 근로자는 2023년 127명으로 전체 사망자의 52.0%를 차지했으며 2024년 108명(51.7%)과 2025년 100명(50.3%)으로 집계됐다. 올해 10월까지는 48명이 추락사고로 사망해 전체 사망자의 45.3%에 달했다. 국토부는...",
+   "url": "https://idsn.co.kr/news/view/1065581313716985",
+   "orig": "https://idsn.co.kr/news/view/1065581313716985",
+   "source": "idsn.co.kr",
+   "published": "2026-11-18T12:00+09:00",
+   "cat": "sev",
+   "id": "8907d96e747b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "동파 방지 열선 자기제어형은 차가운 구간에서 더 발열",
+   "summary": "한국산업안전보건공단은 동파 방지 열선의 잘못된 설치와 사용이 화재로 이어질 수 있다고 안내한다. 케이블을 설치하거나 점검할 때는 해당 제품의 설명서와 조건을 확인해야 한다.",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=407023",
+   "orig": "https://www.vegannews.co.kr/news/article.html?no=407023",
+   "source": "vegannews.co.kr",
+   "published": "2026-11-18T11:58+09:00",
+   "cat": "tech",
+   "id": "92576e6ebb84",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "인천교통공사, 대한민국 안전대상 소방청장상 수상",
    "summary": "인천교통공사는 올해를 안전문화 내재화의 원년으로 삼고, 안전관리본부를 출범시키는 등 모든 분야에서 안전경영 방침을 실천해 왔다고 밝혔다. 가정역에서는 고객안내센터 이원화, 소방 부수신기 설치, 250여 개의...",
@@ -552,7 +747,14 @@
    "published": "2026-11-18T10:40+09:00",
    "cat": "tech",
    "id": "693c72057841",
-   "related": [],
+   "related": [
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=2026111812043115331d2373fc0f_1",
+     "orig": "https://www.g-enews.com/view.php?ud=2026111812043115331d2373fc0f_1",
+     "title": "한난, 열수송관 스마트 안전관리로 '대한민국 안전대상' 대통령상"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -733,6 +935,12 @@
      "url": "https://n.news.naver.com/mnews/article/087/0001231666?sid=102",
      "orig": "https://www.kwnews.co.kr/article/20261118500618",
      "title": "평창군, 연내 전 사업장 위험성평가 실시"
+    },
+    {
+     "source": "weeklytoday.com",
+     "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802466",
+     "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=802466",
+     "title": "[위클리오늘] 평창군, 전 사업장 위험성평가 추진"
     }
    ],
    "day": "2026-11-18",
