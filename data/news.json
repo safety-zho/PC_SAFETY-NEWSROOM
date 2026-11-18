@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T09:51+09:00",
+ "updatedAt": "2026-11-18T10:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,34 @@
    "source": "비욘드포스트",
    "cat": "hlt",
    "day": "2026-11-18",
-   "count": 9
+   "count": 12
+  },
+  {
+   "id": "8043e9bdd0b0",
+   "title": "풀무원, AI 기반 식품안전 관리 강화… 협력기업과 품질 혁신 협력",
+   "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159268",
+   "source": "koreaittimes.com",
+   "cat": "law",
+   "day": "2026-11-18",
+   "count": 3
+  },
+  {
+   "id": "2f0fe984fe57",
+   "title": "\"안전과 행복이 자라는 일터\"…남부발전 삼척빛드림본부, 안전드림센터...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755452",
+   "source": "국제뉴스",
+   "cat": "tech",
+   "day": "2026-11-18",
+   "count": 2
+  },
+  {
+   "id": "4555fa584a19",
+   "title": "서정대, 경기권 7개 대학과 외국인 유학생 산업안전교육 클러스터 출범",
+   "url": "https://news.unn.net/news/articleView.html?idxno=600837",
+   "source": "unn.net",
+   "cat": "tech",
+   "day": "2026-11-18",
+   "count": 2
   },
   {
    "id": "cf1c2d36fb22",
@@ -41,18 +68,185 @@
    "cat": "tech",
    "day": "2026-11-18",
    "count": 2
-  },
-  {
-   "id": "e3d43bd74f41",
-   "title": "서울시교육청, 학교 화재 막는 생생한 교훈, 사고 사례 전 학교 공유",
-   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2493844",
-   "source": "이뉴스투데이",
-   "cat": "tech",
-   "day": "2026-11-18",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "다이치, 국내 제조 카시트로 유럽 안전기준 UN R129(i-Size) 인증 획득",
+   "summary": "안내하는 '스마트 얼럿 탑테더' 기능을 탑재했다. 현재 다이치는 태국, 인도네시아, 홍콩, 아랍에미리트... 다이치 관계자는 \"국내에서 축적한 연구개발 역량과 제조 기술력을 바탕으로 글로벌 안전 기준에 부합하는...",
+   "url": "https://www.betanews.net/article/view/beta202611170058",
+   "orig": "https://www.betanews.net/article/view/beta202611170058",
+   "source": "betanews.net",
+   "published": "2026-11-18T10:42+09:00",
+   "cat": "tech",
+   "id": "ae9357b96e65",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "한난, '대한민국 안전대상' 대통령상 영예…스마트 방재·현장 안전 역량...",
+   "summary": "이번 심사에서 한난은 전 사업장에 걸친 화재 위험 관리 체계 확립을 비롯해 인공지능(AI)과 디지털 기술을 결합한 스마트 방재 시스템 구현, 현장 중심의 실효성 있는 재난 대응 체계 강화, 임직원 주도의 자율적 안전문화...",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94626",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94626",
+   "source": "더페어",
+   "published": "2026-11-18T10:40+09:00",
+   "cat": "tech",
+   "id": "693c72057841",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "소방청, ‘제25회 대한민국 안전대상’ 시상식 개최… 안전관리 공로 기...",
+   "summary": "한국지역난방공사 본사는 지리정보시스템 기반의 열수송관 안전관리 시스템과 플랫폼을 구축하는 등 스마트 기술을 활용한 안전관리 체계를 확립한 점에서 고평가를 받았다. (주)전원테크는 화재수신기와 광케이블식...",
+   "url": "http://fpn119.co.kr/259615",
+   "orig": "http://fpn119.co.kr/259615",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-18T10:38+09:00",
+   "cat": "tech",
+   "id": "eac269e37491",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "여수산단 6년간 사고 100건…15명 숨지고 50명 다쳐",
+   "summary": "폭발사고로 4명이 숨지고 4명이 다쳤다. 사상자 중 7명은 협력업체 노동자였다. 올해에도 4월 정기보수... 원청에서 하청으로 이어지는 계약 과정에서 공사비가 줄고 작업 기간이 짧아지면서 그 부담은 현장...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016448389?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261118070700054?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-18T10:33+09:00",
+   "cat": "sev",
+   "id": "9c68a1c50a33",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "'굴뚝 시료채취 작업환경 안전 컨퍼런스' 성황 마무리",
+   "summary": "작업으로, 추락·화상 등 안전사고 위험이 높아 철저한 안전관리가 요구되고 있다. 17일 L7광명 바이... 사업장) ▲현장 작업자가 바라본 굴뚝 작업환경 개선과제 등을 공유하고, 현장 중심의 안전관리 방안을 논의했다....",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344391",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344391",
+   "source": "국토일보",
+   "published": "2026-11-18T10:32+09:00",
+   "cat": "tech",
+   "id": "49839ce12c33",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "의성군, 산림사업 시공·감리자 안전교육 실시",
+   "summary": "교육은 한국산업안전보건공단 경북지역본부 전문 강사를 초빙해 진행됐으며, 주요 내용은 산림사업 중대재해 발생 사례와 예방대책, 작업별 안전수칙, 긴급사고 대응 요령 등 현장 실무 중심으로 구성됐다. 특히 실제 사고...",
+   "url": "https://www.kbmaeil.com/article/20261118500171",
+   "orig": "https://www.kbmaeil.com/article/20261118500171",
+   "source": "경북매일",
+   "published": "2026-11-18T10:30+09:00",
+   "cat": "tech",
+   "id": "dfb0ed883e93",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "현대건설, ESG 통합등급 B+로 하락...산업안전이 8년 지킨 A등급 발목",
+   "summary": "■ '안전 경고등' 켜진 건설현장...올해도 중대재해 반복 11월 현재 기준, 현대건설에서 발생한 올해 중대재해는 총 3건으로 확인된다. 사망사고만 합산하면 지난해와 동일한 수치다. 먼저 6월과 9월 1차례씩 샤힌...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=140475",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=140475",
+   "source": "popcornnews.net",
+   "published": "2026-11-18T10:16+09:00",
+   "cat": "tech",
+   "id": "fac6e66e59d5",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[기자수첩] 산업폐기물 무단 적치, 정체불명 유해물질까지…장기간 방치...",
+   "summary": "행정당국의 허술한 관리와 감독, 불법 영업을 방치한 안일한 행정이 빚어낸 환경 문제라는 점에서 철저한... ‘돈이 된다’는 막연한 기대만으로 환경과 주민 안전을 담보로 한 영업이 용인돼서는 안 된다. 부동산 중개인의...",
+   "url": "https://www.kbsm.net/news/view.php?idx=542188",
+   "orig": "https://www.kbsm.net/news/view.php?idx=542188",
+   "source": "kbsm.net",
+   "published": "2026-11-18T10:12+09:00",
+   "cat": "law",
+   "id": "9d72499cf38a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"안전과 행복이 자라는 일터\"…남부발전 삼척빛드림본부, 안전드림센터...",
+   "summary": "이날 개소식에는 김범수 한국남부발전 안전경영단장을 비롯해 삼척시와 고용노동부, 안전보건공단 관계자, 협력사 임직원 등이 참석했다. 참석자들은 시설별 운영 공간을 둘러보며 현장 중심 안전관리 체계의 출발을...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755452",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3755452",
+   "source": "국제뉴스",
+   "published": "2026-11-18T10:12+09:00",
+   "cat": "tech",
+   "id": "2f0fe984fe57",
+   "related": [
+    {
+     "source": "투데이에너지",
+     "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305722",
+     "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305722",
+     "title": "남부발전 삼척빛드림본부 '안전드림센터' 개소"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "남부지방산림청, 산림사업장 안전보건 점검",
+   "summary": "사업주는 현행 산업안전보건법에 따라 유해하거나 위험한 작업에 근로자 또는 특수형태근로종사자를 채용하거나 작업 내용을 변경할 경우 반드시 특별교육을 실시해야 한다.김기한 울진국유림관리소장은 “동절기...",
+   "url": "https://www.kbsm.net/news/view.php?idx=542211",
+   "orig": "https://www.kbsm.net/news/view.php?idx=542211",
+   "source": "kbsm.net",
+   "published": "2026-11-18T10:10+09:00",
+   "cat": "hlt",
+   "id": "d0b6f73e08a3",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "11월 18일 오늘의 안전 상황",
+   "summary": "조사 중 ※ 자력대피 12명(공사 관계자), 재난문자 발송 1회 ② 11.17. 21:11경 / 충북 청주시 옥산면 / 건물... 그을음, 작업공구 및 기구 소실, 열풍기 1대 탄화 ◇ 구조·구급활동 ▲ (안전사고) 전남광주 화순군...",
+   "url": "http://fpn119.co.kr/259603",
+   "orig": "http://fpn119.co.kr/259603",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-18T10:08+09:00",
+   "cat": "law",
+   "id": "10ff35fd52a9",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "풀무원, 제16회 식품품질안전 컨퍼런스 개최…협력기업 품질 담당자 250...",
+   "summary": "식품안전 체계를 어떻게 키울지 논의했다. 풀무원(대표 이우봉)은 충북 청주시 대한산업보건협회... 마지막으로 풀무원기술원 정승희 연구원이 법령 입법예고와 고시, 최근 이슈를 정리해, 규제 변화에 앞서 대응할 수...",
+   "url": "https://www.globalepic.co.kr/view.php?ud=20261118100628824ee4ea3d05_29",
+   "orig": "https://www.globalepic.co.kr/view.php?ud=20261118100628824ee4ea3d05_29",
+   "source": "globalepic.co.kr",
+   "published": "2026-11-18T10:08+09:00",
+   "cat": "law",
+   "id": "5748ebc87422",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[패트롤] 경북도-경북도의회-경상북도개발공사-국립백두대간수목원-남...",
+   "summary": "지역 산업 발전에 활용하는 'K-과학자마을' 사업에 처음으로 국비 59억 원을 확보하면서 국가 과학기술... ◇ 박영서 경북도의원, 교육예산 낭비·학생 안전관리 지적…“현장 중심 개선 시급\" -교육지원청·직속기관...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261118029541254",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261118029541254",
+   "source": "에너지경제",
+   "published": "2026-11-18T09:58+09:00",
+   "cat": "tech",
+   "id": "bb3885a20fcb",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "평창군, 연말까지 전 사업장 위험성평가…위험요인 선제 개선",
    "summary": "위탁 73곳·직영 180개 사업장·업무 대상…고위험 요인은 즉시 조치 강원 평창군은 산업재해를 예방하기 위해... 특히 지난 16일부터 직영 사업장과 업무 180개를 대상으로 작업 위험성과 사고 발생 가능성, 안전보건 관리...",
@@ -127,7 +321,20 @@
    "published": "2026-11-18T09:38+09:00",
    "cat": "law",
    "id": "8043e9bdd0b0",
-   "related": [],
+   "related": [
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2019959",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2019959",
+     "title": "풀무원, AI 활용 식품안전 관리 강화…협력사 250명과 품질 혁신 논의"
+    },
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107142",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107142",
+     "title": "풀무원, AI 접목 식품안전 관리체계 강화 나서"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -179,7 +386,14 @@
    "published": "2026-11-18T09:22+09:00",
    "cat": "tech",
    "id": "4555fa584a19",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014329172?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261118_0003872760",
+     "title": "서정대-경기권 7개대, 외국인 유학생 산업안전교육 클러스터 출범"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -228,6 +442,19 @@
      "title": "풀무원, AI로 식품안전 관리 고도화…협력기업과 품질 데이터 공유"
     }
    ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "대전도시공사 ‘국가AI경영대상’ 재정경제부 장관상 영예",
+   "summary": "건설·시설 관리 현장에서는 ‘AI 안전비서’ 앱을 활용해 위험성평가표 작성을 돕고 현장 관리자와 근로자 간 즉각적인 소통 창구를 마련하며 중대재해 예방 역량을 높였다. 이와 함께 ‘디지털 경영혁신 AI 전략...",
+   "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/17/2026111750351.html",
+   "orig": "https://cc.newdaily.co.kr/site/data/html/2026/11/17/2026111750351.html",
+   "source": "뉴데일리",
+   "published": "2026-11-18T09:10+09:00",
+   "cat": "tech",
+   "id": "e8d1d47297d0",
+   "related": [],
    "day": "2026-11-18",
    "watch": []
   },
@@ -318,7 +545,14 @@
    "published": "2026-11-18T08:46+09:00",
    "cat": "tech",
    "id": "5bc18785635b",
-   "related": [],
+   "related": [
+    {
+     "source": "public25.com",
+     "url": "https://www.public25.com/news/articleView.html?idxno=58604",
+     "orig": "https://www.public25.com/news/articleView.html?idxno=58604",
+     "title": "소방청, 제25회 대한민국 안전대상 시상…삼성전자 평택사업장 등 대통..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -438,6 +672,24 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014329007?sid=101",
      "orig": "https://www.newsis.com/view/NISX20261118_0003872447",
      "title": "풀무원, 협력사와 식품품질안전 컨퍼런스…AI 기반 품질관리 강화"
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202611180043",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202611180043",
+     "title": "풀무원, 식품품질안전 컨퍼런스 성료"
+    },
+    {
+     "source": "뉴스클레임",
+     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083173",
+     "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083173",
+     "title": "풀무원 제16회 식품품질안전 컨퍼런스 개최"
+    },
+    {
+     "source": "theviewers.co.kr",
+     "url": "https://theviewers.co.kr/View.aspx?No=4317895",
+     "orig": "https://theviewers.co.kr/View.aspx?No=4317895",
+     "title": "[유통갤러리] 풀무원, 16회 식품품질안전 컨퍼런스 개최…AI 활용 식품안..."
     }
    ],
    "day": "2026-11-18",
@@ -556,7 +808,14 @@
    "published": "2026-11-18T06:44+09:00",
    "cat": "hlt",
    "id": "e40ffc8ed42c",
-   "related": [],
+   "related": [
+    {
+     "source": "foodnews.co.kr",
+     "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=121035",
+     "orig": "http://www.foodnews.co.kr/news/articleView.html?idxno=121035",
+     "title": "풀무원, 협력사와 AI 기반 식품품질안전 전략 공유"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -2141,6 +2400,12 @@
      "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722252",
      "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=722252",
      "title": "사천시, 소나무재선충병 방제사업 안전사고 예방 총력"
+    },
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261117500650",
+     "orig": "http://www.metroseoul.co.kr/article/20261117500650",
+     "title": "사천시, 소나무재선충병 방제 관계자 안전교육 실시"
     }
    ],
    "day": "2026-11-17",
@@ -3084,7 +3349,14 @@
    "published": "2026-11-17T14:29+09:00",
    "cat": "hlt",
    "id": "e5af7b510ba4",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755247",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3755247",
+     "title": "옥천군, 공공일자리 참여자 산업안전보건교육 실시"
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
