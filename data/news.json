@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T13:52+09:00",
+ "updatedAt": "2026-11-18T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,7 @@
    "source": "아시아경제",
    "cat": "sev",
    "day": "2026-11-18",
-   "count": 6
+   "count": 8
   },
   {
    "id": "03f27f6a6f15",
@@ -52,25 +52,266 @@
    "count": 6
   },
   {
-   "id": "37d3cdf8766b",
-   "title": "평창군, 연말까지 전 사업장 위험성평가…위험요인 선제 개선",
-   "url": "https://n.news.naver.com/mnews/article/001/0016448145?sid=102",
-   "source": "연합뉴스",
-   "cat": "hlt",
+   "id": "d8dff04af193",
+   "title": "기아, 협력사 110곳과 안전 공동 선언…중대재해 예방 강화",
+   "url": "https://www.etoday.co.kr/news/view/2649784",
+   "source": "이투데이",
+   "cat": "law",
    "day": "2026-11-18",
    "count": 4
   },
   {
-   "id": "cf1c2d36fb22",
-   "title": "풀무원, AI로 식품안전 관리 고도화…협력사까지 데이터 공유",
-   "url": "https://www.newsquest.co.kr/news/articleView.html?idxno=305272",
-   "source": "newsquest.co.kr",
-   "cat": "tech",
+   "id": "ec925d3d6c76",
+   "title": "[단독] 마포구 재건축 아파트 공사장서 30대 추락사",
+   "url": "https://n.news.naver.com/mnews/article/629/0000553166?sid=102",
+   "source": "tf.co.kr",
+   "cat": "acc",
    "day": "2026-11-18",
    "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "국립호남권생물자원관, 5년 연속 무재해 운영…대한민국 안전대상 행안...",
+   "summary": "자원관은 안전보건경영시스템(KOSHA-MS·ISO 45001)과 공간안전인증을 취득했다. 시설 관리에는 사물인터넷(IoT) 기반 24시간 원격 감시체계를 적용하고 있다. 현장조사 연구원을 대상으로 모바일 작업 전 안전점검회의(TBM)를...",
+   "url": "https://www.betanews.net/article/view/beta202611180091",
+   "orig": "https://www.betanews.net/article/view/beta202611180091",
+   "source": "betanews.net",
+   "published": "2026-11-18T14:46+09:00",
+   "cat": "tech",
+   "id": "5c00b579890c",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "풀무원, 협력사와 AI 식품안전 구축…글로벌 규제 선제대응",
+   "summary": "보건협회 대강당에서 생산 현장과 협력업체 품질관리 실무자 250여 명을 초청해 ‘제16회 식품품질안전... 마지막 강연자로 나선 정승희 풀무원기술원 글로벌법규센터 연구원은 최근 입법예고 및 고시된 식품 관련 법령...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003763378?sid=101",
+   "orig": "https://www.donga.com/news/Economy/article/all/20261118/135046711/1",
+   "source": "동아일보",
+   "published": "2026-11-18T14:41+09:00",
+   "cat": "law",
+   "id": "1bba06f9c374",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "해썹인증원, '한국식품위생안전성학회 국제학술대회' 참가",
+   "summary": "식품안전 스마트 해썹의 현장 적용과 확산(이시우 심사원) 등이다. 송성옥 인증사업이사는 \"인공지능 등 첨단기술의 발전으로 식품안전관리 환경이 빠르게 변화함에 따라 데이터에 기반한 과학적이고 선제적인...",
+   "url": "http://www.amnews.co.kr/news/articleView.html?idxno=75698",
+   "orig": "http://www.amnews.co.kr/news/articleView.html?idxno=75698",
+   "source": "amnews.co.kr",
+   "published": "2026-11-18T14:38+09:00",
+   "cat": "tech",
+   "id": "5914c59cddd6",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "서울 마포 한화 시공 아파트 재건축 현장서 하청노동자 추락사",
+   "summary": "13층 높이서 비계 해체 중 떨어져…노동부, 작업중지 명령 후 사고조사 서울 마포구 공덕동의 ㈜한화 아파트 재건축 공사 현장에서 30대 하청 노동자가 13층 높이에서 떨어져 숨졌다. 18일 고용노동부에 따르면 이날 오전...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016449325?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261118117900530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-18T14:36+09:00",
+   "cat": "acc",
+   "id": "de21fcc62f63",
+   "related": [
+    {
+     "source": "디지털타임스",
+     "url": "https://n.news.naver.com/mnews/article/029/0003059863?sid=102",
+     "orig": "https://www.dt.co.kr/article/12095932?ref=naver",
+     "title": "한화 시공 재건축 현장서 하청 노동자 추락사…중대재해 조사"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설자금 조달용 SPC도 금융업 규제 대상..한신공영, 지주회사법 위반",
+   "summary": "(2024년 12월 말 기준) 한편 한신공영은 과거 부산 아파트 공사현장에서 근로자 2명이 숨진 사고와 관련해 산업안전보건법 위반 벌금형이 확정됐으며, 월미은하레일 하자 관련 손해배상 판결과 하도급업체에 대한...",
+   "url": "https://kpenews.com/View.aspx?No=4318496",
+   "orig": "https://kpenews.com/View.aspx?No=4318496",
+   "source": "kpenews.com",
+   "published": "2026-11-18T14:36+09:00",
+   "cat": "acc",
+   "id": "c31b8c863eb0",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "서울교통공사 무임수송 손실 연 4488억원…재정 악화에 안전투자도 부담",
+   "summary": "이에 김태균 서울교통공사 사장은 “연간 운영비가 약 5000억원 부족한 구조에서 무임수송 손실은 공사 경영의 아주 큰 걸림돌”이라며 “안전투자 우선순위를 고민해도 필요한 재원을 충분히 마련하기 어려운 손실...",
+   "url": "https://www.viva100.com/article/20261118500862",
+   "orig": "https://www.viva100.com/article/20261118500862",
+   "source": "브릿지경제",
+   "published": "2026-11-18T14:36+09:00",
+   "cat": "tech",
+   "id": "42b65a7312a3",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "서울시교육청, 학교 화재 원인·교훈 공유…예방활동 확대",
+   "summary": "학교의 사고 경험을 모든 학교가 예방 활동에 활용할 수 있도록 자료를 공유한다고 전했다. 교육청은... 이 자료에는 전기설비 단락, 조리 중 기름 과열, 용접 작업 중 불티, 배터리 충전 등 일상에서 발생할 수 있는 화재...",
+   "url": "https://news.unn.net/news/articleView.html?idxno=600851",
+   "orig": "https://news.unn.net/news/articleView.html?idxno=600851",
+   "source": "unn.net",
+   "published": "2026-11-18T14:34+09:00",
+   "cat": "tech",
+   "id": "fca796673907",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "2027학년도 수능 부정행위 단속 강화…전자기기 집에 두는 게 안전",
+   "summary": "대학수학능력시험장 모습(사진 = 한국대학신문DB) 2027학년도 대학수학능력시험에서는 인공지능 등 첨단 기술... 것이 안전하다. 스마트 안경 카메라 부착 액세서리 등 의심받을 수 있는 물품은 착용하지 않는다. 복잡한...",
+   "url": "https://news.unn.net/news/articleView.html?idxno=600844",
+   "orig": "https://news.unn.net/news/articleView.html?idxno=600844",
+   "source": "unn.net",
+   "published": "2026-11-18T14:34+09:00",
+   "cat": "tech",
+   "id": "4e943990cf1c",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "건설사 중대재해 ‘최다’ 불명예…국토부, 재발방지 위한 ‘안전관리...",
+   "summary": "건설현장에서 발생한 사망사고 등 중대재해 문제는 심각한 상황이다. 기업데이터연구서 CEO스코어가 기업들의 지난해 사업보고서와 올해 반기보고서, 공개된 중대재해 발생 보고서 등을 분석한 결과 지난해 1월부터 올해...",
+   "url": "https://www.kukinews.com/article/view/kuk202611180110",
+   "orig": "https://www.kukinews.com/article/view/kuk202611180110",
+   "source": "쿠키뉴스",
+   "published": "2026-11-18T14:32+09:00",
+   "cat": "law",
+   "id": "7ba5c3c8e62f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "국토부,건설현장 사망 10명 중 5명꼴 추락",
+   "summary": "(성남시 제공) 지난 10월까지 건설현장 사망자 106명 중 48명이 추락으로 숨졌다. 국토교통부는 오는 19일... 재발방지 대책이 현장 작업자에게까지 적용되도록 점검을 이어가겠다\"고 밝혔다.. /성채리 기자",
+   "url": "http://www.metroseoul.co.kr/article/20261118500238",
+   "orig": "http://www.metroseoul.co.kr/article/20261118500238",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-18T14:30+09:00",
+   "cat": "sev",
+   "id": "57316388e956",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "DB하이텍 부천캠퍼스, 대한민국 안전대상 행안부 장관상 수상",
+   "summary": "화재감지기 추가 설치와 피난 유도등 보완, 무선통신보조설비 개선 등 소방시설 개선 작업을 지속해서... 고도화와 비상대응체계 개선을 통해 안전사고 제로(Zero)를 유지하고 더욱 안전한 사업장을 만들겠다\"고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009296390?sid=101",
+   "orig": "https://www.news1.kr/industry/general-industry/6358148",
+   "source": "뉴스1",
+   "published": "2026-11-18T14:28+09:00",
+   "cat": "tech",
+   "id": "a078dd2708f7",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "\"직장 내 정신건강 위험도 산업재해 예방 대상에 포함해야\"",
+   "summary": "이를 위해 근로기준법, 산업재해보상보험법, 산업안전보건법, 중대재해처벌법, 자살예방법 등 5개 법령의 개정을 제안했다. 핵심은 산업안전보건법상 위험성평가 대상에 심리사회적 위험요인을 명시하는 것이다. 업무량과...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251637",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251637",
+   "source": "안전신문",
+   "published": "2026-11-18T14:22+09:00",
+   "cat": "hlt",
+   "id": "d28cc4db235b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "청약홈 서버 지킨 화재 예방…한국부동산원, 안전대상 장관상",
+   "summary": "옮기던 중 불이 나 정부 업무시스템 647개가 멈췄다. 이 가운데 대국민 서비스가 436개였다. 국정자원은 2022년 '카카오톡 먹통' 사태를 부른 경기 성남 데이터센터 화재를 계기로 서버와 배터리를 분리하는 작업을 하던...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005606137?sid=101",
+   "orig": "https://www.fnnews.com/news/202611181409099601",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-18T14:13+09:00",
+   "cat": "tech",
+   "id": "ab75ccb9f1fd",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "전남경총 일안전센터, 화순 능주농공단지 산업재해 근로자 안전교육",
+   "summary": "전남경영자총협회 일안전센터가 산업현장의 사고 예방과 안전수칙 생활화를 위해 근로자 대상 현장 중심... 이와 함께 제조업 현장의 끼임·부딪힘·추락 사고와 화재·폭발, 밀폐공간 질식 등 주요 재해 유형을 소개하고...",
+   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887603",
+   "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=887603",
+   "source": "getnews.co.kr",
+   "published": "2026-11-18T14:08+09:00",
+   "cat": "tech",
+   "id": "7bd8d15d840d",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "한난, 열수송관 감시부터 화재 예방까지… 안전대상 대통령상",
+   "summary": "주요 평가 대상은 지리정보시스템(GIS) 기반 열수송관 안전관리 시스템과 스마트 안전관리 플랫폼이다. 지역난방공사는 이를 통해 시설물의 안전 상태를 관리하고, AI·디지털 기술을 활용한 방재체계를 구축했다. 전...",
+   "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731614",
+   "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=731614",
+   "source": "the-biz.co.kr",
+   "published": "2026-11-18T14:08+09:00",
+   "cat": "tech",
+   "id": "959d05cdca39",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "'나 혼자 산다' 번지점프장 나온 후 안전논란…익스트림스포츠 전반 점...",
+   "summary": "예능프로그램에 등장한 번지점프장에서 현장 직원의 추락방지 조치를 둘러싼 논란이 불거진 데 이어 산업안전 관련 진정까지 접수되면서 동종 업종으로 점검 범위를 넓히기로 했다. 고용노동부 강원지청은 18일 번지점프...",
+   "url": "https://n.news.naver.com/mnews/article/654/0000211986?sid=101",
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2085584",
+   "source": "강원도민일보",
+   "published": "2026-11-18T14:02+09:00",
+   "cat": "law",
+   "id": "b0651dfdf495",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "노동부·폴리텍, 피지컬 AI 실습장 4곳 연내 가동…지역 中企에 개방",
+   "summary": "12월 2일 개소하는 창원은 기계·로봇·물류와 산업안전을 다룬다. 내년 정부 예산안에는 신규 거점 8곳에 각각 30억원을 투입하는 계획이 담겼다. 권창준 노동부 차관은 “시설을 잘 만드는 것 못지않게 지역 기업에...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487056?sid=100",
+   "orig": "https://www.etnews.com/20261118000216",
+   "source": "전자신문",
+   "published": "2026-11-18T14:01+09:00",
+   "cat": "tech",
+   "id": "3a2ab8ffbfbb",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "DB하이텍, 24시간 빈틈없는 안전관리…행안부 장관상 수상",
+   "summary": "DB하이텍은 체계적인 화재 예방 활동과 소방안전관리 체계 구축 성과를 인정받아 소방청이 주최하는... IATF 16949는 국제자동차산업전담기구(IATF)가 제정한 자동차 산업의 품질경영시스템 국제표준이다. 자동차...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=301712",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=301712",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-18T13:54+09:00",
+   "cat": "tech",
+   "id": "f35416b1d643",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "글로벌 HACCP부터 AI 엑스레이까지…풀무원, 식품안전 기술 공유",
    "summary": "보건협회 대강당에서 공장 및 협력기업 품질관리 담당자 250여 명을 대상으로 제16회 식품품질안전... 풀무원기술원 정승희 연구원은 식품 관련 법규의 입법예고와 고시 등 최근 변경사항을 소개하고 업계의 실무 대응...",
@@ -132,7 +373,26 @@
    "published": "2026-11-18T13:38+09:00",
    "cat": "law",
    "id": "d8dff04af193",
-   "related": [],
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002725167?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10941267?ref=naver",
+     "title": "기아, 협력사 110곳과 중대재해 예방 ‘맞손’…고용부도 안전 공동 선..."
+    },
+    {
+     "source": "포쓰저널",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2122139",
+     "orig": "http://www.4th.kr/news/articleView.html?idxno=2122139",
+     "title": "기아, 고용부·협력사 110곳과 중대재해 예방 공동 선언"
+    },
+    {
+     "source": "businessplus.kr",
+     "url": "https://www.businessplus.kr/news/articleView.html?idxno=120079",
+     "orig": "https://www.businessplus.kr/news/articleView.html?idxno=120079",
+     "title": "기아·고용부·협력사 110곳, '중대재해 제로' 안전 공동 선언"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -275,7 +535,26 @@
    "published": "2026-11-18T12:58+09:00",
    "cat": "acc",
    "id": "ec925d3d6c76",
-   "related": [],
+   "related": [
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001536393?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6866606_36918.html",
+     "title": "서울 마포구 재건축 아파트 공사장서 작업하던 30대 추락사"
+    },
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002725180?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10941294?ref=naver",
+     "title": "한화 아파트 재건축 현장서 30대 하청노동자 추락사…35m 아래로 떨어져"
+    },
+    {
+     "source": "ngonews.kr",
+     "url": "https://www.ngonews.kr/news/articleView.html?idxno=243525",
+     "orig": "https://www.ngonews.kr/news/articleView.html?idxno=243525",
+     "title": "서울 마포구 공덕동 한화 아파트 재건축 공사 현장에서 30대 하청 노동자..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -489,6 +768,12 @@
      "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94678",
      "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=94678",
      "title": "'대한민국 안전대상' 소방청장상 안은 남위례역…스마트 예방으로 안전..."
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=658811",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=658811",
+     "title": "인천교통공사, 인천2호선 가정역 대한민국 안전대상 소방청장상 수상으..."
     }
    ],
    "day": "2026-11-18",
@@ -666,7 +951,14 @@
    "published": "2026-11-18T11:01+09:00",
    "cat": "sev",
    "id": "fa80b91dbb26",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850161.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/11/18/2026111850161.html",
+     "title": "사망사고 발생 대형 건설사 12곳 한 자리에 … 재발 방지책 머리 맞댄다"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -735,6 +1027,18 @@
      "url": "https://n.news.naver.com/mnews/article/032/0003483396?sid=101",
      "orig": "https://www.khan.co.kr/article/202611181116001",
      "title": "올해 건설 현장 사망 106명···국토부, 사고 난 대형건설사 12곳 점검"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140347",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=140347",
+     "title": "국토부, 사망사고 대형건설사 12곳 소집…안전관리 점검"
+    },
+    {
+     "source": "kmecnews.co.kr",
+     "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52804",
+     "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=52804",
+     "title": "국토부, 올해 사망사고 발생 대형건설사 12곳과 안전점검 회의"
     }
    ],
    "day": "2026-11-18",
@@ -851,6 +1155,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125167",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125167",
      "title": "건설현장 사망사고 절반은 추락…국토부, 건설사 안전점검 강화"
+    },
+    {
+     "source": "seoulfn.com",
+     "url": "https://www.seoulfn.com/news/articleView.html?idxno=643207",
+     "orig": "https://www.seoulfn.com/news/articleView.html?idxno=643207",
+     "title": "건설현장 사망사고 절반은 추락···국토부, 대형 건설사 안전점검"
     }
    ],
    "day": "2026-11-18",
@@ -1048,6 +1358,12 @@
      "url": "https://www.kbsm.net/news/view.php?idx=542312",
      "orig": "https://www.kbsm.net/news/view.php?idx=542312",
      "title": "의성군, 산림사업 시공·감리자 안전교육 실시"
+    },
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=729915",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=729915",
+     "title": "의성군, 산림사업 관계자 대상 안전교육 실시"
     }
    ],
    "day": "2026-11-18",
@@ -3067,7 +3383,14 @@
    "published": "2026-11-17T16:50+09:00",
    "cat": "sev",
    "id": "6cd744fdbaf3",
-   "related": [],
+   "related": [
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=514784",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=514784",
+     "title": "재발 막겠다던 태영건설, 단 8일 만에 또 사망사고…여주 고속도로 현장..."
+    }
+   ],
    "day": "2026-11-17",
    "watch": []
   },
@@ -3372,6 +3695,12 @@
      "url": "http://www.metroseoul.co.kr/article/20261117500650",
      "orig": "http://www.metroseoul.co.kr/article/20261117500650",
      "title": "사천시, 소나무재선충병 방제 관계자 안전교육 실시"
+    },
+    {
+     "source": "경남도민일보",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2019929",
+     "orig": "https://www.idomin.com/news/articleView.html?idxno=2019929",
+     "title": "사천시, 소나무재선충병 방제사업 안전관리 강화"
     }
    ],
    "day": "2026-11-17",
@@ -4540,6 +4869,12 @@
      "source": "ccdn.co.kr",
      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111692",
      "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1111692",
+     "title": "[기고] 우리 집 안전에도'업데이트'가 필요하다"
+    },
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1193994",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1193994",
      "title": "[기고] 우리 집 안전에도'업데이트'가 필요하다"
     }
    ],
