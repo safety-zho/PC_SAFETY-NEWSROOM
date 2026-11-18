@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T12:51+09:00",
+ "updatedAt": "2026-11-18T13:11+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,32 @@
   }
  ],
  "articles": [
+  {
+   "title": "대전동부署, 노인일자리 어르신 88명 교통안전교육…\"안전이 최고의 일...",
+   "summary": "지난해 노인일자리 참여자가 작업 중 교통사고로 숨지는 사례가 발생한 만큼 이론적인 설명보다 실제 작업현장에서 마주할 수 있는 위험요인과 대응 방법을 중심으로 교육했다. 경찰은 횡단보도를 안전하게 건너는 방법과...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3755707",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3755707",
+   "source": "국제뉴스",
+   "published": "2026-11-18T13:02+09:00",
+   "cat": "tech",
+   "id": "f0828e6a7b68",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[단독] 마포구 재건축 아파트 공사장서 30대 추락사",
+   "summary": "A 씨는 비계 철거 작업을 하던 중 14층에서 떨어진 것으로 파악됐다. A 씨는 현장에서 심정지 상태로 발견돼 인근 병원으로 이송됐으나 끝내 사망했다. 경찰은 정확한 사고 경위는 물론, 안전 규정 준수 여부 등을...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000553166?sid=102",
+   "orig": "https://news.tf.co.kr/read/life/2390380.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-18T12:58+09:00",
+   "cat": "acc",
+   "id": "ec925d3d6c76",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "풀무원, AI 이물 검출부터 품질 데이터 분석까지…식품안전 기술 공유",
    "summary": "풀무원은 충북 청주시 대한산업보건협회 대강당에서 공장 및 협력기업 품질관리 담당자 250여명이 참석한 가운데 '식품품질안전 컨퍼런스'를 개최했다고 18일 밝혔다. 올해로 16회를 맞은 이번 행사는 풀무원기술원이...",
@@ -793,7 +819,14 @@
    "published": "2026-11-18T10:32+09:00",
    "cat": "tech",
    "id": "49839ce12c33",
-   "related": [],
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/609174?ref=naver",
+     "orig": "https://www.naeil.com/news/read/609174?ref=naver",
+     "title": "굴뚝 시료채취 작업환경 개선"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
