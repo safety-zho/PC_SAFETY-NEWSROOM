@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-18T17:51+09:00",
+ "updatedAt": "2026-11-18T18:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "이투데이",
    "cat": "law",
    "day": "2026-11-18",
-   "count": 16
+   "count": 18
   },
   {
    "id": "0180c83b8706",
@@ -61,16 +61,309 @@
    "count": 11
   },
   {
-   "id": "b451d7d01160",
-   "title": "국토부, 사망사고 난 대형건설사 12곳 안전점검…하도급 업체도 따로 소...",
-   "url": "https://n.news.naver.com/mnews/article/277/0005844318?sid=101",
-   "source": "아시아경제",
-   "cat": "sev",
+   "id": "de21fcc62f63",
+   "title": "서울 마포 한화 시공 아파트 재건축 현장서 하청노동자 추락사",
+   "url": "https://n.news.naver.com/mnews/article/001/0016449325?sid=102",
+   "source": "연합뉴스",
+   "cat": "acc",
    "day": "2026-11-18",
    "count": 8
   }
  ],
  "articles": [
+  {
+   "title": "동아쏘시오그룹, 임직원·협력사 참여 소방훈련…사업장 안전관리 강화",
+   "summary": "산업계에서는 사업장 안전사고 예방을 위해 정기적인 안전교육뿐 아니라 실제 상황을 반영한 현장 중심의... 협력사 직원 모두의 안전을 지키는 실효성 있는 안전보건체계를 구축하겠다\"고 말했다. 더퍼블릭",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=327401",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=327401",
+   "source": "더퍼블릭",
+   "published": "2026-11-18T18:50+09:00",
+   "cat": "tech",
+   "id": "618cba70a8d9",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[오늘의길목]사람을 살리는 사회, 사람을 소모하는 사회",
+   "summary": "고용노동부 통계에 따르면 2025년 산업재해자는 14만 7,130명에 달했으며, 이 중 사고로 사망한 근로자는... 위한 작업환경 조성과 근로조건 개선을 요구하고 있다. 근로기준법 제76조의2는 직장 내 괴롭힘을 금지하고 있으며...",
+   "url": "https://sjbnews.com/news/news.php?number=893001",
+   "orig": "https://sjbnews.com/news/news.php?number=893001",
+   "source": "sjbnews.com",
+   "published": "2026-11-18T18:41+09:00",
+   "cat": "law",
+   "id": "cb5a9d6dcdb2",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "추미애 지사 “사고는 자만할 때 발생, 여러 사람이 대응해야”..중대산...",
+   "summary": "특히 가축 취급 중 작업자 부상, 크레인·로더 작업 중 적재물 낙하, 중장비와 화물차 운행 중 충돌 등 주요... 있는 추락·끼임·화상 및 유해가스 노출 위험 등을 확인했다. 훈련 전 안전교육과 개인보호장비 점검, 훈련 중...",
+   "url": "https://kpenews.com/View.aspx?No=4318984",
+   "orig": "https://kpenews.com/View.aspx?No=4318984",
+   "source": "kpenews.com",
+   "published": "2026-11-18T18:40+09:00",
+   "cat": "acc",
+   "id": "7d2d53c3e2eb",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "교육청 '수능 비상체계' 가동…부정행위·안전 관리 총력",
+   "summary": "수험생들의 안전과 공정한 시험 환경 조성을 위해 막바지 준비에 나섰다. 인공지능(AI) 스마트안경과 초소형... 경남교육정보원은 학교에 공급한 무선인터넷망을 18일 오전 11시부터 수능 종료 시까지 차단, 과학기술정보...",
+   "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194535",
+   "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7194535",
+   "source": "한국아이닷컴",
+   "published": "2026-11-18T18:34+09:00",
+   "cat": "tech",
+   "id": "64b452b96c59",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "태영건설, 사망사고·적자…워크아웃 졸업 앞두고 ‘겹악재’",
+   "summary": "이달 들어 공사 현장에서만 두 번째 사망사고가 발생한 가운데, 실적에서는 영업이익을 큰 폭으로... 노동당국은 사고 경위를 확인하는 한편, 산업안전보건법과 중대재해처벌법 위반 여부를 함께 들여다보고...",
+   "url": "https://www.sentv.co.kr/article/view/sentv202611180099",
+   "orig": "https://www.sentv.co.kr/article/view/sentv202611180099",
+   "source": "서울경제TV",
+   "published": "2026-11-18T18:30+09:00",
+   "cat": "sev",
+   "id": "652504366cb1",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "옥천군, 현장 안전사고 예방 및 근로자 건강 증진 위한 맞춤형 안전교육...",
+   "summary": "4분기 산업안전보건교육을 진행했다고 밝혔다. 이번 프로그램은 공공근로와 행복드림일자리, 청년일자리, 신중년일자리, 지역공동체 일자리, 일손지원 기동대 등...",
+   "url": "http://www.breaknews.com/1252053",
+   "orig": "http://www.breaknews.com/1252053",
+   "source": "브레이크뉴스",
+   "published": "2026-11-18T18:30+09:00",
+   "cat": "tech",
+   "id": "47c7251f0643",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "제주교육청, 제동 걸렸던 조직개편…쟁점 풀고 '재시동'",
+   "summary": "재난안전과 산업안전보건 업무는 행정안전국 노사안전과에서 맡는다. 노사안전과에는 안전기획 기능을 두고 재난 예방과 대응, 산업재해 예방, 학교와 기관의 안전관리 업무를 총괄하도록 했다. 비상계획 업무는...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3756190",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3756190",
+   "source": "국제뉴스",
+   "published": "2026-11-18T18:20+09:00",
+   "cat": "tech",
+   "id": "4adfcb2c742f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "서산 마트서 50대 외국인 근로자 사다리에서 추락해 숨져",
+   "summary": "노동자가 추락해 숨지는 사고가 발생했다. 18일 노동 당국 등에 따르면 전날 오전 9시 32분께 서산 석림동의 한 마트에서 외국인 직원 A 씨가 이동식 사다리에서 추락했다. A 씨는 머리를 크게 다쳐 병원에 옮겨졌으나...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009297162?sid=102",
+   "orig": "https://www.news1.kr/local/daejeon-chungnam/6358651",
+   "source": "뉴스1",
+   "published": "2026-11-18T18:16+09:00",
+   "cat": "sev",
+   "id": "8cc9f170188a",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] \"AI 안전경영, 데이터 중심 사전 예방이 핵심\"",
+   "summary": "서 교수는 \"한국 제조업 경쟁력 세계 순위가 4위로 최고 수준인데, 산업재해 사망률도 최고 수준\"이라며 현실을 짚었다. 중대재해처벌법 확대 등으로 산업재해 예방을 위해 노력했으나, 법이나 제도만으로는 예방 한계가...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259131",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259131",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-18T18:14+09:00",
+   "cat": "tech",
+   "id": "b728640ff59f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "경북도의회 문화환경위, 경상북도문화관광공사 행정사무감사 실시",
+   "summary": "관리·감독 강화를 주문했다. 경북도의회 문화환경위원회가 경북문화관광공사에 대한 행정사무감사를 17일... 양유혁 위원(비례)은 새마을 관람열차의 허가 및 안전관리 미흡으로 경상북도 종합감사에서 기관경고를 받은...",
+   "url": "https://www.idaegu.co.kr/news/articleView.html?idxno=565745",
+   "orig": "https://www.idaegu.co.kr/news/articleView.html?idxno=565745",
+   "source": "idaegu.co.kr",
+   "published": "2026-11-18T18:14+09:00",
+   "cat": "law",
+   "id": "09da73803883",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "ESG·혁신·안전 통합…어촌어항공단, 'FiPA 3S 아이디어 공모전' 개최",
+   "summary": "ESG·혁신·안전 3개 분야로 진행되며, '3S'는 지속 가능한 경영(Sustainable)·스마트한 혁신(Smart)·안전한 현장... 다양하게·새로운 기술로 더 안전하게) 등 7개다. 국민 누구나 개인 또는 3인 이내 팀으로 분야별 1건씩...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009297158?sid=101",
+   "orig": "https://www.news1.kr/economy/trend/6358642",
+   "source": "뉴스1",
+   "published": "2026-11-18T18:13+09:00",
+   "cat": "tech",
+   "id": "5cd33f4154f4",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "사천시, 소나무재선충병 방제현장 안전사고 예방 총력",
+   "summary": "▲ 지난 17일 사천시청 회의실에서 소나무재선충병 방제사업 관계자들이 벌목 작업 중 안전사고 예방을 위한 교육을 받고 있다. /사천시 9개 사업장 186㏊·피해목 2600본 제거…12월 초 완료 목표 벌목·집재 작업 안전교육...",
+   "url": "http://www.gndomin.com/news/articleView.html?idxno=497367",
+   "orig": "http://www.gndomin.com/news/articleView.html?idxno=497367",
+   "source": "경남도민신문",
+   "published": "2026-11-18T18:08+09:00",
+   "cat": "tech",
+   "id": "e236e31aaa8c",
+   "related": [
+    {
+     "source": "경남신문",
+     "url": "https://www.knnews.co.kr/news/articleView.php?idxno=1555402",
+     "orig": "https://www.knnews.co.kr/news/articleView.php?idxno=1555402",
+     "title": "사천시 소나무재선충병 연말까지 방제"
+    }
+   ],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "간트너코리아, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가...고성...",
+   "summary": "모니터링 기술을 국내 스마트 건설 및 안전 진단 시장에 본격 확대 적용할 계기를 마련할 것\"이라고 전했다. 간트너코리아의 최신 구조물 모니터링 기술과 실시간 데모 시연은 '2026 스마트건설·안전·AI 엑스포...",
+   "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249941",
+   "orig": "http://www.sisunnews.co.kr/news/articleView.html?idxno=249941",
+   "source": "sisunnews.co.kr",
+   "published": "2026-11-18T18:08+09:00",
+   "cat": "tech",
+   "id": "17b7732c0f1e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[2026 안전포럼] 지상규 수석 \"소통하는 건설AI, 무재해 시작\"",
+   "summary": "\"소통 사각지대를 없애야 건설 안전이 완성된다.\" 지상규 롯데건설 안전혁신부문 스마트안전혁신팀... AI 기술이 현장에 정착하기 어려운 요인으로는 ▲데이터 축적의 어려움 ▲다국적·다계층 근로자 ▲수시로...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259253",
+   "orig": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259253",
+   "source": "insightkorea.co.kr",
+   "published": "2026-11-18T18:08+09:00",
+   "cat": "tech",
+   "id": "a2d6ff8bef19",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단-광해광업공단-강원랜드, 업무협약 체결",
+   "summary": "한국산업안전보건공단(KOSHA)이 공공기관별 감사 경험과 노하우를 공유하며 내부 감사 품질을 향상하는데 전념하고 있다. 이를 위해 17일에는 강원랜드, 한국광해광업공단과 '공공기관 감사기구 간 안전관리 감사역량 강화...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305757",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305757",
+   "source": "투데이에너지",
+   "published": "2026-11-18T18:06+09:00",
+   "cat": "tech",
+   "id": "f952682a58db",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "현대건설, 현대제철과 고성능 합성보 기술 확보…데이터센터 안전성 강...",
+   "summary": "설계·시공 경쟁력을 강화하는 계기가 될 것으로 보인다. 한편, 국내 건설사들은 AI 인프라 확대와 법·제도 강화, 주민 수용성 확보를 위해 데이터센터의 구조·시공·운영 전반에서 안전 관리를 강화하는 추세다.",
+   "url": "http://www.kdfnews.com/news/articleView.html?idxno=191115",
+   "orig": "http://www.kdfnews.com/news/articleView.html?idxno=191115",
+   "source": "kdfnews.com",
+   "published": "2026-11-18T18:04+09:00",
+   "cat": "tech",
+   "id": "79ea92117ba6",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "마트서 사다리 작업하다 떨어진 외국인 노동자…치료 중 숨져",
+   "summary": "A씨는 사다리 최상단에 올라 2단 진열장에 제품을 쌓던 중 약 1.1m 높이에서 떨어진 것으로 파악됐다. 고용노동부는 언론공지를 통해 현장에 작업중지 조치를 내리고 사고 경위를 조사하는 한편 산업안전보건법과...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016450134?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261118167600063?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-18T18:01+09:00",
+   "cat": "sev",
+   "id": "d35f01dc66b0",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "AI 데이터센터 확산에 보험업계도 대응…삼성화재, 위험관리 방안 모색",
+   "summary": "AIDC의 안전·기술 기준과 제도, 사이버 리스크 및 보험산업의 역할을 논의했다. 개회식에서는 이문화 삼성화재 대표이사가 환영사를 전했다. 이어 국가인공지능전략위원회 김경만 단장과 금융감독원 박지선...",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=327383",
+   "orig": "https://www.thepublic.kr/news/articleView.html?idxno=327383",
+   "source": "더퍼블릭",
+   "published": "2026-11-18T18:00+09:00",
+   "cat": "acc",
+   "id": "7e83df5c4e91",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "검은 쓰레기 연기 500피트 치솟아… 유해물질 비상",
+   "summary": "한인들도 많이 거주하는 발렌시아 인근 캐스테익의 치키타 캐년 매립장에서 공사 중 지하에 갇혀 있던... 매립장을 소유·운영하는 웨이스트 커넥션스는 성명에서 이번 사고로 액체 유출은 없었으며, 작업을 즉시...",
+   "url": "https://www.koreatimes.com/article/11631901?utm_source=naver",
+   "orig": "https://www.koreatimes.com/article/11631901?utm_source=naver",
+   "source": "koreatimes.com",
+   "published": "2026-11-18T17:56+09:00",
+   "cat": "hlt",
+   "id": "2d4ee6f5795e",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "국토안전관리원, 공공안전 종사자 심리회복 지원 확대… 감정노동·스트...",
+   "summary": "지난 6월 국토안전관리원과 한국도로교통공단, 한국산업안전보건공단, 한국건강심리학회가 업무협약을 체결한 뒤 기관별 교육을 이어가고 있다. 이번 강의는 문광수 중앙대학교 심리학과 교수가 맡았다. ‘참는...",
+   "url": "https://www.lawissue.co.kr/view.php?ud=20261118172248351907f28b58b8_12",
+   "orig": "https://www.lawissue.co.kr/view.php?ud=20261118172248351907f28b58b8_12",
+   "source": "로이슈",
+   "published": "2026-11-18T17:54+09:00",
+   "cat": "tech",
+   "id": "30694cd13f84",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "국토부, 겨울철 안전사고 예방 전국 건설현장 안전 점검",
+   "summary": "지반이 얼면 변형이 일어날 수 있는 흙막이 가시설과 계측기 관리 상태, 작업자 안전 관리, 공사 현장 시공 관리 상태도 살핀다. 도심 지하 굴착 공사, 대규모 건축 공사, 교량·터널 공사와 같이 사고가 나면 대형 인명...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001231772?sid=101",
+   "orig": "https://www.kwnews.co.kr/article/20261118501564",
+   "source": "강원일보",
+   "published": "2026-11-18T17:52+09:00",
+   "cat": "tech",
+   "id": "ac6f7400e98f",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "이화의료원, 'AI 의료기기 안전관리' 특허 획득",
+   "summary": "유경하 이화의료원장은 \"현장 의공팀의 실무 경험과 AI 기술을 접목해 의료기기 관리의 사각지대를 해소한 성과\"라며 \"데이터 기반의 정밀한 안전관리 시스템을 구축해 환자가 안심하고 치료받을 수 있는 스마트 병원...",
+   "url": "http://www.bokuennews.com/news/article.html?no=287397",
+   "orig": "http://www.bokuennews.com/news/article.html?no=287397",
+   "source": "bokuennews.com",
+   "published": "2026-11-18T17:52+09:00",
+   "cat": "tech",
+   "id": "bcd1f0ca1326",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
   {
    "title": "추미애, 축산진흥센터·소방학교 찾아 중대재해 예방 점검…\"중대재해처...",
    "summary": "이번 점검은 '중대재해 처벌 등에 관한 법률'에 따른 경영책임자의 안전보건 확보 의무를 이행하고, 현장에서 발생할 수 있는 산업재해 위험을 사전에 확인하기 위해 마련됐다. 추 지사는 각 기관으로부터 안전관리 현황을...",
@@ -132,7 +425,14 @@
    "published": "2026-11-18T17:37+09:00",
    "cat": "hlt",
    "id": "9117348b530f",
-   "related": [],
+   "related": [
+    {
+     "source": "더쎈뉴스",
+     "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769712",
+     "orig": "https://www.mhns.co.kr/news/articleView.html?idxno=769712",
+     "title": "광산구 상생보건소, 농촌 이주노동자 건강 챙긴다"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -885,6 +1185,12 @@
      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=271816",
      "orig": "https://www.asiaa.co.kr/news/articleView.html?idxno=271816",
      "title": "\"AIDC 산업 안전·보험 역할 집중 논의\" 삼성화재, 'Global AIDC Forum 2026'..."
+    },
+    {
+     "source": "kfenews.co.kr",
+     "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668382",
+     "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=668382",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최"
     }
    ],
    "day": "2026-11-18",
@@ -937,6 +1243,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564916",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564916",
      "title": "삼성화재, AI데이터센터 안전기준·보험 역할 논의…글로벌 포럼에 160명"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3163961",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3163961",
+     "title": "삼성화재, 'Global AIDC Forum 2026' 개최… 안전·기술기준과 보험 역할..."
     }
    ],
    "day": "2026-11-18",
@@ -1199,7 +1511,14 @@
    "published": "2026-11-18T15:48+09:00",
    "cat": "tech",
    "id": "2db94ce53970",
-   "related": [],
+   "related": [
+    {
+     "source": "NSP통신",
+     "url": "https://www.nspna.com/news/?mode=view&newsid=836811",
+     "orig": "https://www.nspna.com/news/?mode=view&newsid=836811",
+     "title": "국토안전관리원, 공공안전 종사자 직무스트레스 관리체계 구축…정신건..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -1502,6 +1821,12 @@
      "url": "https://n.news.naver.com/mnews/article/366/0001205761?sid=102",
      "orig": "https://biz.chosun.com/topics/topics_social/2026/11/18/SH76IZ2WQFF5TLCUJ4TKXIPFKM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
      "title": "마포 한화 재건축 현장서 30대 하청근로자 추락 사망"
+    },
+    {
+     "source": "geconomy.co.kr",
+     "url": "https://www.geconomy.co.kr/news/article.html?no=325812",
+     "orig": "https://www.geconomy.co.kr/news/article.html?no=325812",
+     "title": "한화 시공 마포 재건축 현장서 30대 노동자 추락사…중대재해법 위반 조..."
     }
    ],
    "day": "2026-11-18",
@@ -1840,6 +2165,18 @@
      "url": "https://www.kgnews.co.kr/news/article.html?no=920194",
      "orig": "https://www.kgnews.co.kr/news/article.html?no=920194",
      "title": "\"잠재 위험요인 선제 대응\"…기아, 화성 협력사 110곳과 중대재해 예방"
+    },
+    {
+     "source": "더퍼블릭",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=327375",
+     "orig": "https://www.thepublic.kr/news/articleView.html?idxno=327375",
+     "title": "기아, 협력사 110곳과 안전 공동 선언…중대재해 예방 강화"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3163948",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3163948",
+     "title": "기아, 협력사 110곳과 안전 공동 선언식 개최…중대재해 예방 의지 다져"
     }
    ],
    "day": "2026-11-18",
@@ -3004,7 +3341,14 @@
    "published": "2026-11-18T10:10+09:00",
    "cat": "hlt",
    "id": "d0b6f73e08a3",
-   "related": [],
+   "related": [
+    {
+     "source": "경북도민일보",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=730048",
+     "orig": "https://www.hidomin.com/news/articleView.html?idxno=730048",
+     "title": "남부지방산림청, 겨울철 산림사업장 안전관리 강화"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
