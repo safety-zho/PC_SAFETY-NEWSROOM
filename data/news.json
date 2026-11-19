@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T11:51+09:00",
+ "updatedAt": "2026-11-19T12:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,97 @@
   }
  ],
  "articles": [
+  {
+   "title": "DL이앤씨, 안전·품질 우수 성과 협력사 100개사에 인센티브 제공",
+   "summary": "올해는 안전과 품질, 공정, 원가 등에서 우수한 성과를 거둔 총 100개 협력사를 한숲 파트너스로 선정했다.... DL이앤씨는 시공 생산성 향상을 위한 탈 현장 건설(OSC)·모듈러 기술, AI·로봇을 활용한 스마트 건설기술...",
+   "url": "http://www.segyebiz.com/newsView/20261119509231?OutUrl=naver",
+   "orig": "http://www.segyebiz.com/newsView/20261119509231?OutUrl=naver",
+   "source": "segyebiz.com",
+   "published": "2026-11-19T12:34+09:00",
+   "cat": "tech",
+   "id": "27135ab94a55",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[특별기고-정인태]중대재해처벌법 최근 판결동향 및 시사점(11)",
+   "summary": "비상대응 매뉴얼 관련 의무는 사고 후 대응체계에 관한 것이어서 그 미이행과 사고 전 작업통제 실패로 발생한 사망 사이의 인과관계도 인정하기 어렵다고 판단하였다. 그러나 최근의 무죄 판결만으로 중대재해처벌법...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251672",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251672",
+   "source": "안전신문",
+   "published": "2026-11-19T12:30+09:00",
+   "cat": "sev",
+   "id": "f45ddad3ae46",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[사고와 보상 6] 상대가 보험이 없다면,내 보험이 나를 지킵니다",
+   "summary": "중상해나 사망 사고에서 실제 손해액이 그 한도를 넘으면, 초과분은 가해자 개인에게 직접 청구해야... 산재보험을 받은 경우 보장사업에서 그만큼 빠진다는 뜻입니다. 이처럼 보장사업만으로는 실손해를 다 메우기...",
+   "url": "http://www.lec.co.kr/news/articleView.html?idxno=753047",
+   "orig": "http://www.lec.co.kr/news/articleView.html?idxno=753047",
+   "source": "lec.co.kr",
+   "published": "2026-11-19T12:02+09:00",
+   "cat": "acc",
+   "id": "e7cf9a738c20",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "GKN사, MMA<메틸메타크릴레이트> 이용 작업 재개",
+   "summary": "가든그로브 시와 OC소방국, OC보건국, 남가주대기질관리국(SCAQMD), OC위생국, 가주 산업안전보건국(Cal/OSHA)... 근로자의 안전을 위해 회사의 규정 준수 여부를 계속 감독하겠다고 밝혔다. GKN은 법원이 승인한 안전계획에...",
+   "url": "https://www.koreadaily.com/article/20261118190025419",
+   "orig": "https://www.koreadaily.com/article/20261118190025419",
+   "source": "koreadaily.com",
+   "published": "2026-11-19T12:02+09:00",
+   "cat": "law",
+   "id": "d23a149d4be6",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "노무법인 이산, 제35기 예비 노무사 대상 '제3회 채용설명회' 개최",
+   "summary": "이 자리에서는 법률센터, 산재보상센터, 건설노무센터, 산업안전보건센터 등 4개 센터와 노사관계연구원의 업무 영역, 필요 역량 및 인재상, 커리어 성장 경로 등을 소개한다. 예비 노무사들은 센터별 실무 담당자의...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005355773?sid=101",
+   "orig": "https://www.hankyung.com/article/202611196671O",
+   "source": "한국경제",
+   "published": "2026-11-19T12:01+09:00",
+   "cat": "hlt",
+   "id": "f7b47323cea2",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "공공기관 중대재해 시 법 위반 없어도 안전평가 0점",
+   "summary": "핵심은 중대재해가 났을 때 안전 점수를 0점으로 매기는 조건입니다. 지금까지는 기관이 안전 법령을 어겼고... 가령 지난해 선로 사망사고가 있었지만 안전 점수 0점은 피했던 코레일도, 같은 사고가 나면 0점을 받을...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000544684?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000347537?division=NAVER",
+   "source": "SBS",
+   "published": "2026-11-19T11:57+09:00",
+   "cat": "sev",
+   "id": "2e968f4e562b",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 광주본부, 화재·폭발 위험업종 사업주 안전교육",
+   "summary": "한국산업안전보건공단 광주광역본부와 광주지방고용노동청이 화재·폭발 위험이 높은 업종의 산업재해 예방을 위해 사업주 대상 안전교육을 실시했다. 안전보건공단 광주광역본부는 정부광주합동청사에서 유지제조업과...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=929804",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=929804",
+   "source": "남도일보",
+   "published": "2026-11-19T11:56+09:00",
+   "cat": "tech",
+   "id": "04cb7a3a3d48",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "스위치 하나로 안전장치 무효화…노동부, 고소작업대 불법 개조 업체 적...",
    "summary": "안전인증을 받은 제품을 판매한 뒤, 사후 무효화 장치를 사용자들에게 설치해 준 것으로 드러났다. 고용노동... 노동부는 산업안전보건법 위반으로 판단해 A업체 대표와 법인을 대상으로 사법 조치한다. 현재 입건 상태로...",
@@ -908,7 +999,14 @@
    "published": "2026-11-19T09:52+09:00",
    "cat": "tech",
    "id": "6d061630597e",
-   "related": [],
+   "related": [
+    {
+     "source": "남도일보",
+     "url": "https://www.namdonews.com/news/articleView.html?idxno=929805",
+     "orig": "https://www.namdonews.com/news/articleView.html?idxno=929805",
+     "title": "안전보건공단 전남본부, 소규모 건축현장 추락사고 예방 캠페인"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -2117,7 +2215,20 @@
    "published": "2026-11-18T18:08+09:00",
    "cat": "tech",
    "id": "17b7732c0f1e",
-   "related": [],
+   "related": [
+    {
+     "source": "경상일보",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073027",
+     "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073027",
+     "title": "건설현장 안전관리 플랫폼 카스웍스, '2026 스마트건설·안전·AI 엑스포..."
+    },
+    {
+     "source": "nbntv.co.kr",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027670",
+     "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027670",
+     "title": "넛지, '2026 스마트건설·안전·AI 엑스포' 참가…갱폼 안전기술 공개"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
