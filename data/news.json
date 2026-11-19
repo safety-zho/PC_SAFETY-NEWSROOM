@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T08:52+09:00",
+ "updatedAt": "2026-11-19T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "전자신문",
    "cat": "tech",
    "day": "2026-11-19",
-   "count": 2
+   "count": 3
   },
   {
    "id": "2af0f220a7e0",
@@ -40,37 +40,193 @@
    "source": "한스경제",
    "cat": "tech",
    "day": "2026-11-19",
-   "count": 2
+   "count": 3
   },
   {
-   "id": "09508b0d2054",
-   "title": "[오늘의 신문] 55만 수험생 수능, 가계빚 2030조원 사상 최대...미·중·러...",
-   "url": "http://kor.theasian.asia/archives/422156",
-   "source": "kor.theasian.asia",
+   "id": "a9fc36da41f2",
+   "title": "과천 재건축 현장서 자재 싣던 70대, 1.5m 트럭서 떨어져 숨져",
+   "url": "https://n.news.naver.com/mnews/article/666/0000132792?sid=102",
+   "source": "kyeonggi.com",
    "cat": "sev",
    "day": "2026-11-19",
    "count": 1
   },
   {
-   "id": "13a60d747af6",
-   "title": "민주당 이성윤의원, 국회 AI 포럼…\"혁신과 안전 함께\"",
-   "url": "https://www.mhns.co.kr/news/articleView.html?idxno=769778",
-   "source": "더쎈뉴스",
-   "cat": "law",
+   "id": "8212c0ed5937",
+   "title": "“노동자 대표를 정부가 고르나”…의료연대본부, 복지부 위원회 구성 ...",
+   "url": "https://newscham.net/130192/",
+   "source": "newscham.net",
+   "cat": "hlt",
    "day": "2026-11-19",
    "count": 1
   },
   {
-   "id": "c855159244b5",
-   "title": "일이 많아지면, 미래의 월급이 줄어드는 직업이 있습니다",
-   "url": "https://n.news.naver.com/mnews/article/047/0002536422?sid=102",
-   "source": "오마이뉴스",
-   "cat": "hlt",
+   "id": "2e4f65a12c1c",
+   "title": "제주공항 관제 지휘체계 20일 개편… 공항안전과 신설",
+   "url": "https://n.news.naver.com/mnews/article/014/0005606588?sid=102",
+   "source": "파이낸셜뉴스",
+   "cat": "law",
    "day": "2026-11-19",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "HD현대로보틱스, 국내 첫 1톤급 초대형 로봇 상용화 포문",
+   "summary": "한국산업안전보건공단 분석에 따르면 제조업 중대재해 중 중량물 취급 및 운반 과정에서 발생하는 협착·낙하 사고가 적지 않은 비중을 차지한다. 1톤급 로봇이 위험 공정을 대체함으로써 현장 작업자의 근골격계 질환...",
+   "url": "https://www.electimes.com/news/articleView.html?idxno=374986",
+   "orig": "https://www.electimes.com/news/articleView.html?idxno=374986",
+   "source": "electimes.com",
+   "published": "2026-11-19T09:46+09:00",
+   "cat": "tech",
+   "id": "68d2d5329702",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "과천 재건축 현장서 자재 싣던 70대, 1.5m 트럭서 떨어져 숨져",
+   "summary": "경기 과천시의 한 재건축 공사현장에서 건축자재를 트럭에 싣던 70대 근로자가 약 1.5m 아래로 추락해 숨지는 사고가 발생했다. 19일 경찰과 소방당국에 따르면 지난 18일 오후 3시11분께 과천시 부림동의 한 재건축...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000132792?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261119580082",
+   "source": "kyeonggi.com",
+   "published": "2026-11-19T09:43+09:00",
+   "cat": "sev",
+   "id": "a9fc36da41f2",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "“노동자 대표를 정부가 고르나”…의료연대본부, 복지부 위원회 구성 ...",
+   "summary": "당시 복지부는 민주노총과 한국노총 대신 각각 산하 조직인 전국보건의료산업노동조합과 전국의료산업노동조합연맹에 위원 추천을 요청했다. 민주노총과 시민사회단체들은 노동자와 건강보험 가입자의 대표성이...",
+   "url": "https://newscham.net/130192/",
+   "orig": "https://newscham.net/130192/",
+   "source": "newscham.net",
+   "published": "2026-11-19T09:40+09:00",
+   "cat": "hlt",
+   "id": "8212c0ed5937",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "대전시교육청, 2026년 겨울방학 학교 석면모니터단 교육 실시",
+   "summary": "교육청은 한국산업안전보건공단 관계자와 외부 전문가를 강사로 초빙해 석면의 특성과 안전관리 방법, 모니터단 활동 요령 등을 안내할 계획이다. 특히 공사 이후 남아 있을 수 있는 석면 잔재물의 조사 방법을...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085135",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085135",
+   "source": "shinailbo.co.kr",
+   "published": "2026-11-19T09:30+09:00",
+   "cat": "tech",
+   "id": "9443628d643c",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "이찬우 농협금융 회장 \"저탄소 전환은 도약의 기회…K-GX 연계 신시장 선...",
+   "summary": "사회공헌과 포용금융 분야에서도 NH미소재단 설립 추진을 비롯해 ▲시중은행 최초 한국산업안전보건공단 협약 및 안전경영 특화상품 출시 ▲사회적기업 물품 구매 연계 기부 ▲농업인 지원 크라우드펀딩 등 의미 있는...",
+   "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88053",
+   "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=88053",
+   "source": "pointe.co.kr",
+   "published": "2026-11-19T09:26+09:00",
+   "cat": "tech",
+   "id": "758d11f8fc85",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "“안전·기술 함께 키운다”… DL이앤씨, 우수 협력사 100곳 선정",
+   "summary": "올해는 현장 포상을 확대하고 기술 포상을 신설했다. 현장 안전·품질 향상에 기여한 협력사 소장과 근로자를 지난해 각 7명에서 올해 각 10명으로 늘렸다. 탈현장건설(OSC)·모듈러, AI·로봇 스마트 건설, 층간소음 저감...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001205872?sid=101",
+   "orig": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/19/7KWBCHVOVJBVPIEBZE6FH64VVE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-19T09:24+09:00",
+   "cat": "tech",
+   "id": "b00513472f4e",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "3D프린터 활용 교사 희귀암, 공무상 재해 인정… 같은 사유로 사망한 교...",
+   "summary": "직업성암119와 화섬식품노조는 환영을 표하는 한편, 같은 사유로 사망한 故(고) 서울 교사의 공무상 재해로... 한편, 직업성·환경성암환자찾기119(직업성암119)는 2021년부터 '암도 산재다!'를 외치며 포스코 퇴직자와...",
+   "url": "http://worknworld.kctu.org/news/articleView.html?idxno=510348",
+   "orig": "http://worknworld.kctu.org/news/articleView.html?idxno=510348",
+   "source": "worknworld.kctu.org",
+   "published": "2026-11-19T09:18+09:00",
+   "cat": "sev",
+   "id": "052febdc6fe5",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "에스앤아이, 율촌과 안전관리 협력...\"중대재해 초기 대응체계 구축\"",
+   "summary": "양사는 지난 17일 서울 강남구 율촌 본사에서 업무협약을 체결하고, 안전보건관리체계 점검과 현장 자문, 교육, 중대산업재해 발생 시 법률 지원과 관계기관 조사 대응 등에서 협력하기로 손을 맞잡았습니다. 이번 협약을...",
+   "url": "http://www.paxetv.com/news/articleView.html?idxno=287362",
+   "orig": "http://www.paxetv.com/news/articleView.html?idxno=287362",
+   "source": "paxetv.com",
+   "published": "2026-11-19T09:10+09:00",
+   "cat": "hlt",
+   "id": "80bff6eae5ef",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "평창군, 정부양곡 재고·사업장 위험요인 집중 점검…안전관리 강화",
+   "summary": "위험성평가는 산업안전보건법에 따라 사업장 내 유해·위험요인을 사전에 파악하고 사고 발생 가능성과 피해의 중대성을 평가해 개선 대책을 마련하는 예방 활동이다. 평창군은 지난 10월부터 위탁사업장 73곳을 대상으로...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261119023571707",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261119023571707",
+   "source": "에너지경제",
+   "published": "2026-11-19T09:08+09:00",
+   "cat": "hlt",
+   "id": "e1923353e2bb",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "제주공항 관제 지휘체계 20일 개편… 공항안전과 신설",
+   "summary": "이번 조직개편은 항공기 운항을 통제하는 관제 기능과 공항시설의 안전기준 준수 여부를 감독하는 기능의... 제주공항의 관제 역량은 도민 이동권과 관광산업에도 영향을 미칠 수 있는 사안이다. 다만 관제 인력뿐...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005606588?sid=102",
+   "orig": "https://www.fnnews.com/news/202611190900563009",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-19T09:07+09:00",
+   "cat": "law",
+   "id": "2e4f65a12c1c",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "\"정부의 안전보건 지도감독, 컨설팅 기관 아닌 '사업주'에 초점 맞춰야...",
+   "summary": "노동자들에 체내 중금속을 배출하는 킬레이션 주사제를 투여해 혈중 납 농도를 인위적으로 낮추려 한 것으로, 노동당국은 DN오토모티브에 대한 안전보건감독을 실시해 산업안전보건법 위반 68건을 입건·송치하고 과태료...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251663",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251663",
+   "source": "안전신문",
+   "published": "2026-11-19T08:58+09:00",
+   "cat": "law",
+   "id": "1a2d07f5e2f8",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "과천 아파트 재건축 현장서 60대 근로자 사망…화물차에 자재 싣다 추락",
+   "summary": "경기 과천시 한 아파트 재건축 현장에서 화물차에 자재를 싣던 60대 근로자가 지상으로 추락해 사망하는 사고가 발생해 경찰이 수사 중이다. 19일 과천경찰서에 따르면 전날 오후 3시 11분께 과천시 부림동 소재 아파트...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009297839?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6358934",
+   "source": "뉴스1",
+   "published": "2026-11-19T08:51+09:00",
+   "cat": "sev",
+   "id": "d0ec12694c63",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "[오늘의 신문] 55만 수험생 수능, 가계빚 2030조원 사상 최대...미·중·러...",
    "summary": "실적 개선이 산업 전반의 경쟁력 회복으로 이어지지 못하는 이른바 K자형 양극화가 한국 경제의 구조적... 정부는 스마트안경과 초소형 카메라·이어폰 등 첨단기기를 이용한 부정행위 가능성에 대비해 감독과 보안...",
@@ -112,6 +268,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564993",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564993",
      "title": "NH농협금융, ESG전략협의회 개최…내년 기후금융 신사업 육성"
+    },
+    {
+     "source": "뉴시안",
+     "url": "https://www.newsian.co.kr/news/articleView.html?idxno=101557",
+     "orig": "https://www.newsian.co.kr/news/articleView.html?idxno=101557",
+     "title": "농협금융, 지속가능금융 전략 점검…기후금융 신사업 육성"
     }
    ],
    "day": "2026-11-19",
@@ -158,6 +320,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=564988",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=564988",
      "title": "토스씨엑스, 품질·환경·안전보건 ISO 3종 동시 취득…업계 최초"
+    },
+    {
+     "source": "이데일리",
+     "url": "https://n.news.naver.com/mnews/article/018/0006412244?sid=105",
+     "orig": "https://www.edaily.co.kr/News/Read?newsId=01990966645647360&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+     "title": "토스씨엑스, ISO 경영시스템 인증 3종 추가 취득"
     }
    ],
    "day": "2026-11-19",
@@ -4126,7 +4294,14 @@
    "published": "2026-11-18T10:52+09:00",
    "cat": "tech",
    "id": "913239eda5c6",
-   "related": [],
+   "related": [
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921678",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921678",
+     "title": "세종시설관리공단 육복철 물관리팀장, 대한민국 안전대상 국무총리상 수..."
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
