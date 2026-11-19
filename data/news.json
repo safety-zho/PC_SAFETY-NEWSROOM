@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T01:29+09:00",
+ "updatedAt": "2026-11-20T08:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,16 +25,319 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "06fa3347614a",
-   "title": "사람 구한 경비원의 죽음, 어떤 제도로 보상하나",
-   "url": "http://www.gjdream.com/news/articleView.html?idxno=674471",
-   "source": "광주드림",
+   "id": "fe2e7eb0d96d",
+   "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
+   "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
+   "source": "뉴스1",
    "cat": "sev",
+   "day": "2026-11-20",
+   "count": 2
+  },
+  {
+   "id": "e9e47d22da80",
+   "title": "인남식 “호르무즈 협상으로 트럼프에 노벨평화상 명분 만들어줄 수도”...",
+   "url": "https://n.news.naver.com/mnews/article/308/0000039004?sid=100",
+   "source": "시사IN",
+   "cat": "tech",
+   "day": "2026-11-20",
+   "count": 1
+  },
+  {
+   "id": "250b95d1802c",
+   "title": "[기업 상생 성적표 ②] 건설기업들, 협력사와 아름다운 '상생'...현장 안...",
+   "url": "https://www.banronbodo.com/news/articleView.html?idxno=33404",
+   "source": "banronbodo.com",
+   "cat": "hlt",
+   "day": "2026-11-20",
+   "count": 1
+  },
+  {
+   "id": "1816dea6c5cd",
+   "title": "서울 지하철 2호선 성수지선 운행 중단…정지신호 위반·선로전환기 훼...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002834174?sid=102",
+   "source": "문화일보",
+   "cat": "acc",
+   "day": "2026-11-20",
+   "count": 1
+  },
+  {
+   "id": "4a34c42e6468",
+   "title": "'영업이익 최대 5%' 산재 과징금에 여론 팽팽... 찬성 46.3% vs 반대 45.2%...",
+   "url": "https://www.meconomynews.com/news/articleView.html?idxno=203882",
+   "source": "meconomynews.com",
+   "cat": "law",
    "day": "2026-11-20",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "남양주서 60대 전기 작업자 떨어져 숨져",
+   "summary": "경기 남양주에서 전기작업 중이던 60대가 추락해 숨지는 사고가 발생했다. 20일 경찰 등에 따르면 지난 19일 오후 1시 56분께 남양주시 와부읍의 한 도로에서 차량형 고소 작업대에 올라가 일하던 A씨가 밑으로 떨어져...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000132974?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261120580005",
+   "source": "kyeonggi.com",
+   "published": "2026-11-20T08:27+09:00",
+   "cat": "sev",
+   "id": "c95659350932",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "인남식 “호르무즈 협상으로 트럼프에 노벨평화상 명분 만들어줄 수도”...",
+   "summary": "굉장히 스마트해요. 그리고 네타냐후 총리가 가지고 있는 가장 큰 파워는 외교력이에요. 특히 대미... ‘우리는 세계 2위의 천연가스 부존량을 갖고 있고 세계 4위의 석유 부존량을 갖고 있고 제조업 기술 좋고 국민들의...",
+   "url": "https://n.news.naver.com/mnews/article/308/0000039004?sid=100",
+   "orig": "https://www.sisain.co.kr/news/articleView.html?idxno=58874",
+   "source": "시사IN",
+   "published": "2026-11-20T08:26+09:00",
+   "cat": "tech",
+   "id": "e9e47d22da80",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[기업 상생 성적표 ②] 건설기업들, 협력사와 아름다운 '상생'...현장 안...",
+   "summary": "특히 안전을 최우선 가치로 삼고 산업안전보건관리비를 선지급하는 한편 고위험 공종의 안전관리 전담자 배치 비용을 지원하고 있다. 지난 2021년부터 공정경쟁낙찰제를 시행해 협력사의 적정 이윤 확보와 경영 안정을...",
+   "url": "https://www.banronbodo.com/news/articleView.html?idxno=33404",
+   "orig": "https://www.banronbodo.com/news/articleView.html?idxno=33404",
+   "source": "banronbodo.com",
+   "published": "2026-11-20T08:00+09:00",
+   "cat": "hlt",
+   "id": "250b95d1802c",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
+   "summary": "1시 56분께 남양주시 와부읍에서 작업 중이던 60대 A 씨가 차량형 고소작업대에서 추락했다. A 씨는 당시 통신선을 피하려다 사고를 당한 것으로 알려졌다. 경찰은 사고 당시 작업 상황과 정확한 추락 경위를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6360334",
+   "source": "뉴스1",
+   "published": "2026-11-20T07:49+09:00",
+   "cat": "sev",
+   "id": "fe2e7eb0d96d",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014334710?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261120_0003876060",
+     "title": "남양주 차량 고소작업대서 작업하던 60대 추락사"
+    }
+   ],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "서울 지하철 2호선 성수지선 운행 중단…정지신호 위반·선로전환기 훼...",
+   "summary": "공사는 정확한 사고 원인을 조사하는 한편 초기대응팀과 현장사고수습본부를 가동해 복구 작업을 진행하고 있다. 열차 운행 중단에 따른 시민 불편을 최소화하기 위해 대체버스 투입도 준비 중이다. 공사 관계자는...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002834174?sid=102",
+   "orig": "https://www.munhwa.com/article/11632714?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-20T07:38+09:00",
+   "cat": "acc",
+   "id": "1816dea6c5cd",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[건설사 ESG 민낯]현대건설, 글로벌톱티어 어디에…1조 쏟고 매년 사망",
+   "summary": "김주영 더불어민주당 의원실에 따르면 지난 6월 26일 현대건설 현장에서 근로자 1명이 임시 보행교 하부에서 거푸집 해체 작업을 하던 중 경사면에서 붕괴된 흙더미에 맞아 숨졌다. 매년 사망사고가 발생하고 있지만...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885144",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885144",
+   "source": "한스경제",
+   "published": "2026-11-20T07:30+09:00",
+   "cat": "sev",
+   "id": "249eae250bc9",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "'영업이익 최대 5%' 산재 과징금에 여론 팽팽... 찬성 46.3% vs 반대 45.2%...",
+   "summary": "내년 4월 말 시행되는 중대 산업재해 과징금 제도는 안전조치 의무 위반으로 1년 동안 노동자 3명 이상이 산업재해로 사망한 기업에 3년 평균 영업이익의 최대 5%를 과징금으로 부과하는 내용이다. 적자 기업에도...",
+   "url": "https://www.meconomynews.com/news/articleView.html?idxno=203882",
+   "orig": "https://www.meconomynews.com/news/articleView.html?idxno=203882",
+   "source": "meconomynews.com",
+   "published": "2026-11-20T07:24+09:00",
+   "cat": "law",
+   "id": "4a34c42e6468",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "내년 4월부터 하청 근로자도 원청에 ‘작업중지’ 요구…실무 혼선 막으...",
+   "summary": "내년 4월 28일부터 하청 근로자도 원청에 직접 작업중지를 요구할 수 있게 되면서 현장 혼선이 예상된다.... 예를 들면 추락 위험이 있는 곳에 안전난간을 설치하지 않았다면 그 사실만으로 작업중지 요건을 갖춘 것으로 볼...",
+   "url": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=123&in_cate2=0&gopage=1&bi_pidx=39725",
+   "orig": "http://www.worklaw.co.kr/view/view.asp?accessSite=Naver&accessMethod=Search&accessMenu=News&in_cate=123&in_cate2=0&gopage=1&bi_pidx=39725",
+   "source": "worklaw.co.kr",
+   "published": "2026-11-20T07:02+09:00",
+   "cat": "law",
+   "id": "32ecfdf0f047",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[인력 줄이는 K게임] 회사 사고팔 때 직원부터 줄인다…게임사 M&A '감원...",
+   "summary": "사전 작업이 아니었냐는 의문도 제기된 바 있다\"고 귀띔했다. 기업가치 높이려 인건비 줄이고…고용은... 문제는 기업을 사고파는 양측의 이해관계가 맞아떨어질수록 기존 직원들의 고용 안정성은 거래의 우선순위에서...",
+   "url": "https://dealsite.co.kr/articles/173009",
+   "orig": "https://dealsite.co.kr/articles/173009",
+   "source": "dealsite.co.kr",
+   "published": "2026-11-20T07:02+09:00",
+   "cat": "acc",
+   "id": "dbc485cbc8f7",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "대전시교육청, 겨울방학 19개 학교 석면 제거 안전관리 강화",
+   "summary": "교육은 한국산업안전보건공단과 외부 전문가를 초빙해 석면의 유해성과 안전관리 방안, 모니터단 활동 요령, 석면 잔재물 조사방법 등을 중심으로 진행된다. 특히...",
+   "url": "http://www.breaknews.com/1252460",
+   "orig": "http://www.breaknews.com/1252460",
+   "source": "브레이크뉴스",
+   "published": "2026-11-20T06:56+09:00",
+   "cat": "tech",
+   "id": "c9470df77482",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "남부발전, 협력사와 산업재해 예방 강화…내년 안전대책 논의",
+   "summary": "함께 산업재해 예방을 위한 안전관리 강화에 나선다. 올해 안전점검 결과를 바탕으로 현장의 위험요인을 살펴보고 내년도 안전관리 중점 과제를 마련할 계획이다. 남부발전은 19일부터 이틀간 임직원과 협력사 안전보건...",
+   "url": "https://www.g-enews.com/view.php?ud=2026111916081195801d2373fc0f_1",
+   "orig": "https://www.g-enews.com/view.php?ud=2026111916081195801d2373fc0f_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-20T06:54+09:00",
+   "cat": "tech",
+   "id": "2b2ee798f156",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "노동 안전 사각지대 만들 초광역특구법",
+   "summary": "피로상태의 노동자가 작업 절차를 누락하면서 정비 중 설비가 가동되면서 끼임사고에 노출되거나, 설비정비가 온전하게 이뤄지지 못해 설비에 사용되는 물질이 누출될 위험이 발생한다. 특히 초광역특구법의 주 대상이...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237849",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237849",
+   "source": "매일노동뉴스",
+   "published": "2026-11-20T06:34+09:00",
+   "cat": "hlt",
+   "id": "1abc80d843ea",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "간병노동자 산재 적용 15년째 제자리, 이제는 \"시행령만이라도\"",
+   "summary": "그간 법 개정이 미뤄진 데는 정부가 과거 노동자성을 명시하지 않고 산재보험만 적용하는 방안을 제시한 전례가 지적된다. 최명선 민주노총 노동안전보건실장은 간병노동자의 노동자성을 인정하는 방식으로 산재보험을...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237843",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237843",
+   "source": "매일노동뉴스",
+   "published": "2026-11-20T06:34+09:00",
+   "cat": "law",
+   "id": "84de9aa34e45",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "기후노동위, 노동부 예산 7천억원 증액",
+   "summary": "또 기후노동위는 내년 공단이 신설하게 될 울산·강원업무상질병판정위원회와 광주동남부지사에 기관장을 배치하기 위해 인건비 3억5천700만원이 필요하다고 의결했다. 국민의힘의 감액 제안도 일부 반영됐다....",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237832",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237832",
+   "source": "매일노동뉴스",
+   "published": "2026-11-20T06:34+09:00",
+   "cat": "law",
+   "id": "0be1c191f5cb",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "노동자도, 환자도 안전한 좋은 병원 만들기",
+   "summary": "대구가톨릭대의료원만의 문제가 아니다. 비용 절감과 경영 효율성이 노동자의 권리와 환자 안전보다 앞서는 현실이 반복되고 있다. 병원 경영의 기준은 비용 절감이 아니라 환자의 생명과 노동자의 안전이어야 한다.",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237845",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237845",
+   "source": "매일노동뉴스",
+   "published": "2026-11-20T06:34+09:00",
+   "cat": "tech",
+   "id": "3ab4af74e3fd",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "앤스로픽 CEO \"AI 안전 확신할 때까지 학습·배포 속도 조절\"",
+   "summary": "다리오 아모데이 앤스로픽 최고경영자(CEO)가 인공지능(AI) 시스템이 안전하고 인간의 통제 아래 있을 것이라고 확신할 때까지 학습과 배포 속도를 조절하겠다고 밝혔다. AI 안전 원칙을 지키면서도 사업에 성공할 수...",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001472",
+   "orig": "https://it.chosun.com/news/articleView.html?idxno=3000000001472",
+   "source": "조선일보",
+   "published": "2026-11-20T06:26+09:00",
+   "cat": "tech",
+   "id": "7200970e2ef6",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "남양주에서 전기 작업하던 60대 남성 추락해 숨져",
+   "summary": "19일 오후 1시 56분께 경기 남양주시 와부읍에서 60대 A씨가 차량형 고소작업대에서 추락해 숨졌다. 사고 당시 전신주 인근에서 전기 작업이 진행 중이었으며, A씨는 통신선을 피하려다가 떨어진 것으로 알려졌다....",
+   "url": "https://n.news.naver.com/mnews/article/001/0016453424?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261120011700060?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-20T06:25+09:00",
+   "cat": "sev",
+   "id": "8b8f7d2d6ea4",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "간병노동자 10명 중 8명 \"환자 옮기다 다쳐\"…산재보험 적용 촉구",
+   "summary": "송 분회장은 \"누가 고용했는지, 어떤 방식으로 일하는지와 관계없이 노동 과정에서 발생한 사고와 질병에 대해서는 정당하게 보호받을 수 있어야 한다\"고 말했다. 그는 동료 간병노동자들의 업무상 재해 사례를 소개했다....",
+   "url": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044720",
+   "orig": "http://www.docdocdoc.co.kr/news/articleView.html?idxno=3044720",
+   "source": "청년의사",
+   "published": "2026-11-20T06:20+09:00",
+   "cat": "acc",
+   "id": "1932a1f1cc85",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[인공지능 줌인] 미 의회 \"중국에 대한 칩 통제 강화와 AI 안전 협력 둘...",
+   "summary": "AI 안전 분야에서는 협력할 여지가 있다고 밝혔다. 첨단 AI 모델에 대한 감독을 의무화하는 법안을 발의한... 이러한 발언은 미국의 기술, 특히 경쟁 관계에 있는 중국의 AI 산업을 가동하는 데 필수적인 고성능 칩이 중국...",
+   "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194896",
+   "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194896",
+   "source": "wikileaks-kr.org",
+   "published": "2026-11-20T06:14+09:00",
+   "cat": "tech",
+   "id": "f32b73fa6486",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "LG이노텍, 구미 기숙사 직원 사망 '중대재해 제외'…사망자 공시 1명서 ...",
+   "summary": "회사는 정정 공시에서 중대재해 관련 사망자 수를 기존 1명에서 0명으로 변경했다. 아울러 당초 기재했던 사고 발생 장소와 날짜에 관한 내용도 삭제했다. 이는 직원 사망 사실 자체를 부정하는 것이 아니라, 해당 사건이...",
+   "url": "https://www.geconomy.co.kr/news/article.html?no=325876",
+   "orig": "https://www.geconomy.co.kr/news/article.html?no=325876",
+   "source": "geconomy.co.kr",
+   "published": "2026-11-20T05:12+09:00",
+   "cat": "sev",
+   "id": "043e3ddbb8cf",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "사람 구한 경비원의 죽음, 어떤 제도로 보상하나",
    "summary": "박진남 광주노동권익센터 산업안전팀 공인노무사는 \"대피 안내는 경비원의 기본적인 업무라고 생각한다\"며 \"직무상 업무를 하다가 사망한 것이니 산재는 당연히 인정돼야 한다\"고 말했다. 박 노무사는 휴게시간이었다는...",
@@ -685,7 +988,14 @@
    "published": "2026-11-19T17:14+09:00",
    "cat": "tech",
    "id": "02053f0e5a55",
-   "related": [],
+   "related": [
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005607206?sid=102",
+     "orig": "https://www.fnnews.com/news/202611200741167972",
+     "title": "대구국제공항, 항공기 사고 수습 이상 무!"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -920,6 +1230,19 @@
    "published": "2026-11-19T16:30+09:00",
    "cat": "law",
    "id": "cfa7fa2133c9",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "광양시, '2026 어린이 안전체험 한마당' 600여 명 한자리",
+   "summary": "할 안전습관을 익히도록 마련됐다. 광양소방서와 한국도로교통공단 등 유관기관, 광양시 안전보안관... 행사장에는 화재진압, 지진대피, 버스안전, 심폐소생술, 안전공작소, 건강안전, 보건안전, 학교생활안전, 교통안전...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494738",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494738",
+   "source": "이뉴스투데이",
+   "published": "2026-11-19T16:24+09:00",
+   "cat": "tech",
+   "id": "238d92477625",
    "related": [],
    "day": "2026-11-19",
    "watch": []
@@ -2434,6 +2757,12 @@
      "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505990",
      "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505990",
      "title": "해양환경공단, 대산지사 겨울철 안전점검·근로자 의견 청취"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=728686",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=728686",
+     "title": "해양환경공단, 대산지사 현장 '안전보건점검·소통간담회' 실시"
     }
    ],
    "day": "2026-11-19",
@@ -2922,7 +3251,14 @@
    "published": "2026-11-19T10:12+09:00",
    "cat": "acc",
    "id": "7410ae2833ac",
-   "related": [],
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247464",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247464",
+     "title": "[안전상황실·20일] 안산 의약품 공장서 공기정화설비 폭발 … 인명피해..."
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -6006,6 +6342,19 @@
    "published": "2026-11-18T15:04+09:00",
    "cat": "hlt",
    "id": "f0395d3eb04b",
+   "related": [],
+   "day": "2026-11-18",
+   "watch": []
+  },
+  {
+   "title": "[사실은 이렇습니다] 정부는 농업기계 사고 예방과 농업인 생명 및 안전...",
+   "summary": "우선 농업기계 검정제도 개선('26.11.)을 통해 후진 가능한 보행형 농업기계의 비상안전 장치를 스위치식에서 접촉∙감지식으로 변경하여 농업기계 후진시 예상치 못한 운전자의 끼임 사고를 방지할 수 있게 했습니다. 또한...",
+   "url": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976137&call_from=naver_news",
+   "orig": "https://www.korea.kr/briefing/actuallyView.do?newsId=148976137&call_from=naver_news",
+   "source": "정책브리핑",
+   "published": "2026-11-18T15:00+09:00",
+   "cat": "tech",
+   "id": "e2a7b04ea0a8",
    "related": [],
    "day": "2026-11-18",
    "watch": []
