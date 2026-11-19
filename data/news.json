@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T17:51+09:00",
+ "updatedAt": "2026-11-19T18:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "한스경제",
    "cat": "tech",
    "day": "2026-11-19",
-   "count": 6
+   "count": 7
   },
   {
    "id": "76d1655376ca",
@@ -40,7 +40,16 @@
    "source": "뉴스핌",
    "cat": "law",
    "day": "2026-11-19",
-   "count": 5
+   "count": 6
+  },
+  {
+   "id": "5cfa81acdd67",
+   "title": "NH농협금융, 내년 기후금융 신사업 육성…'지속가능금융 프레임워크' 가...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487345?sid=101",
+   "source": "전자신문",
+   "cat": "tech",
+   "day": "2026-11-19",
+   "count": 6
   },
   {
    "id": "e1487bc0482e",
@@ -59,18 +68,126 @@
    "cat": "law",
    "day": "2026-11-19",
    "count": 5
-  },
-  {
-   "id": "5cfa81acdd67",
-   "title": "NH농협금융, 내년 기후금융 신사업 육성…'지속가능금융 프레임워크' 가...",
-   "url": "https://n.news.naver.com/mnews/article/030/0003487345?sid=101",
-   "source": "전자신문",
-   "cat": "tech",
-   "day": "2026-11-19",
-   "count": 5
   }
  ],
  "articles": [
+  {
+   "title": "정일택 금타 사장 \"자율차 안전 핵심 '타이어' 기술 표준 정립돼야\"",
+   "summary": "는 “새로운 기술 안정성을 객관적으로 검증할 수 있는 평가 방법과 명확한 판정 기준을 포함한 인증이 필요하다”며 ”신제품인 스마트 타이어, 에어리스 타이어의 새로운 기술적 특성을 반영하는 성능 및 안전 기준이...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002446124?sid=103",
+   "orig": "https://zdnet.co.kr/view/?no=20261119175414",
+   "source": "지디넷코리아",
+   "published": "2026-11-19T18:40+09:00",
+   "cat": "tech",
+   "id": "838337f38bd4",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[지스타 26] 글로벌 확장 앞둔 크랙…청소년 보호·AI 안전성 강화",
+   "summary": "게임 산업과 AI 서비스의 접점에도 주목했다. 게임의 핵심 경쟁력 가운데 하나인 이용자 참여와 상호작용이... 생성형 AI 스타트업 스캐터랩은 대표 직속 안전 전담 조직을 신설하고 자체 AI 검수 모델 개발과 연령별...",
+   "url": "https://www.asiatime.co.kr/article/20261119500494",
+   "orig": "https://www.asiatime.co.kr/article/20261119500494",
+   "source": "asiatime.co.kr",
+   "published": "2026-11-19T18:40+09:00",
+   "cat": "tech",
+   "id": "deb9bf2a3ef1",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[사설]외국인주민 의료안전망 구축 확대 만전 기해야",
+   "summary": "산업단지와 농어촌 일자리가 많은 전남, 대학과 교육기관이 밀집한 광주의 지역적 특성이 반영됐다. 이는... 기존 광주 외국인주민 친화병원 19곳은 통역 등 진료 편의를 제공하고, 일정 요건을 갖춘 환자는 보건복지부가...",
+   "url": "http://www.kjdaily.com/article.php?aid=1795079343692912018",
+   "orig": "http://www.kjdaily.com/article.php?aid=1795079343692912018",
+   "source": "광주매일신문",
+   "published": "2026-11-19T18:16+09:00",
+   "cat": "hlt",
+   "id": "7663ed5225af",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[금융 풍향계] 농협금융, ‘기후금융’ 키운다…기업금융 성장동력으로...",
+   "summary": "NH미소재단 설립을 추진하고, 한국산업안전보건공단과 시중은행 최초로 업무협약을 맺고 특화상품을... 지난 7월 금융감독원, 중소벤처기업부 주도로 출범해 Npay와 코드박스가 시범운영 중인 모험자본 투자...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261119021262145",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261119021262145",
+   "source": "에너지경제",
+   "published": "2026-11-19T18:06+09:00",
+   "cat": "tech",
+   "id": "960b90c84539",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[창간 40주년 특집] 더딘 전문건설 스마트건설···비용·사고시 책임소...",
+   "summary": "스마트 기술 비용을 표준하도급계약서와 안전관리비 항목에 명확히 반영해야 한다는 목소리가 높다. 둘째, 책임 소재다. 로봇이 시공한 부위에서 하자가 발생하거나 AI가 위험을 놓쳐 사고가 나면 책임은 누구에게...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327577",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327577",
+   "source": "대한전문건설신문",
+   "published": "2026-11-19T18:02+09:00",
+   "cat": "tech",
+   "id": "fe5a5ac90945",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "영주시, 중대재해예방 위해 공무원 역량 강화 나선다",
+   "summary": "이날 강단에는 강창원 고용노동부 영주지청 산재예방감독팀장과 김동재 노무법인 경북 노무사가 초청 강사로 나서 △중대재해처벌법 및 산업안전보건법 핵심 해설 △발주·용역·직영 등 사업유형별 실무 대응 요령...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=96018",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=96018",
+   "source": "eroun.net",
+   "published": "2026-11-19T17:56+09:00",
+   "cat": "law",
+   "id": "4d8df4589494",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "포트홀 감지해 우회로 안내… 금호타이어가 그리는 자율주행 안전",
+   "summary": "한국자동차모빌리티안전학회 설립 20주년 기념 특별강연에서 스마트 타이어의 개발 방향으로 '감지·예측... 평가 시설과 국제 기술 표준, 안전 인증체계를 마련하려면 산업계와 학계, 정부의 협력이 필요하다\"고 강조했다.",
+   "url": "https://n.news.naver.com/mnews/article/277/0005845285?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026111917512022206",
+   "source": "아시아경제",
+   "published": "2026-11-19T17:56+09:00",
+   "cat": "tech",
+   "id": "291d8e527978",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "삼성화재, 'AIDC 포럼' 통해 보험의 역할 논의",
+   "summary": "이어 국가인공지능전략위원회 김경만 단장과 박지선 금융감독원 부원장이 축사를 전했다. 장병탁... 바탕으로 새로운 산업이 더욱 안전하고 지속가능하게 성장할 수 있도록 지원하는 파트너가 되겠다\"고 말했다.",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494817",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494817",
+   "source": "이뉴스투데이",
+   "published": "2026-11-19T17:55+09:00",
+   "cat": "tech",
+   "id": "4cbd0ced6bcd",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[뱅크 NOW] IBK기업은행·NH농협금융지주·NH농협은행·MG새마을금고",
+   "summary": "아울러 ▲NH미소재단 설립 추진 ▲시중은행 최초 한국산업안전보건공단 협약 특화상품 출시를 통한 안전경영 지원 ▲사회적기업 물품 구매 연계 선순환 기부 ▲크라우드펀딩 기반 농업인 지원 등 그룹 차원의 상생...",
+   "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194914",
+   "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=194914",
+   "source": "wikileaks-kr.org",
+   "published": "2026-11-19T17:54+09:00",
+   "cat": "tech",
+   "id": "1d22d99a42d0",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "중부발전, 공정채용·인재육성 성과 두각… 창사 이래 최대 채용",
    "summary": "중부발전은 19일 고용노동부가 주관하고 한국산업인력공단이 시행하는 '2026 채용문화 우수기업 어워즈... 신입사원 교육에는 생성형 인공지능(AI)과 현장 안전관리 프로그램도 포함됐다. 사내 생성형 AI '하이코미...",
@@ -132,7 +249,14 @@
    "published": "2026-11-19T17:42+09:00",
    "cat": "tech",
    "id": "bd42ccbc9c15",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009300098?sid=103",
+     "orig": "https://www.news1.kr/industry/auto-industry/6360084",
+     "title": "금호타이어, 'AI 사고 예측' 스마트 타이어로 자율주행 안전 강화"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -210,7 +334,14 @@
    "published": "2026-11-19T17:36+09:00",
    "cat": "tech",
    "id": "a1cbc86209fd",
-   "related": [],
+   "related": [
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506074",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506074",
+     "title": "여수광양항만공사, 겨울철 한파 대비 항만 근로자 안전점검"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -446,7 +577,14 @@
    "published": "2026-11-19T16:50+09:00",
    "cat": "law",
    "id": "a5789412fbf4",
-   "related": [],
+   "related": [
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194356",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1194356",
+     "title": "시민안전보험 보장항목 확대 촉구 건의안 채택"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -660,6 +798,18 @@
      "url": "https://www.pressman.kr/news/articleView.html?idxno=104569",
      "orig": "https://www.pressman.kr/news/articleView.html?idxno=104569",
      "title": "한국남부발전, 지역 골목상권 상생 협약에 전사 안전문화 워크숍까지 연..."
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950333.html",
+     "orig": "https://biz.newdaily.co.kr/site/data/html/2026/11/19/2026111950333.html",
+     "title": "남부발전, 전사 안전문화 워크숍 개최 … \"발전사 통합 이후에도 안전 ..."
+    },
+    {
+     "source": "e-platform.net",
+     "url": "http://www.e-platform.net/news/articleView.html?idxno=107148",
+     "orig": "http://www.e-platform.net/news/articleView.html?idxno=107148",
+     "title": "남부발전, '안전 기본 지키기' 내재화 총력…'전사 안전문화 워크숍' 전..."
     }
    ],
    "day": "2026-11-19",
@@ -902,7 +1052,14 @@
    "published": "2026-11-19T14:46+09:00",
    "cat": "tech",
    "id": "cd28aec30b69",
-   "related": [],
+   "related": [
+    {
+     "source": "ccreview.co.kr",
+     "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=363244",
+     "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=363244",
+     "title": "음성발전본부, 현장 안전사고 예방 '총력'"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -1330,6 +1487,12 @@
      "url": "https://www.econovill.com/news/articleView.html?idxno=757869",
      "orig": "https://www.econovill.com/news/articleView.html?idxno=757869",
      "title": "중기중앙회-산업안전상생재단, '2026 산업안전상생 컨퍼런스' 성료…\"中..."
+    },
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002834116?sid=102",
+     "orig": "https://www.munhwa.com/article/11632656?ref=naver",
+     "title": "산업안전상생재단·중기중앙회, ‘2026 산업안전상생 컨퍼런스’ 개최"
     }
    ],
    "day": "2026-11-19",
@@ -2074,7 +2237,14 @@
    "published": "2026-11-19T10:48+09:00",
    "cat": "tech",
    "id": "cb2996571d33",
-   "related": [],
+   "related": [
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003157399?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1717455/?sc=Naver",
+     "title": "한전KPS, 송전선로 안전 및 산불예방 활동 시행"
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -2664,6 +2834,12 @@
      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112286",
      "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112286",
      "title": "대전시교육청, 2026년 겨울방학 학교 석면모니터단 교육 실시"
+    },
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=515124",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=515124",
+     "title": "대전시교육청, 겨울방학 석면 해체 19교 모니터단 교육 실시"
     }
    ],
    "day": "2026-11-19",
@@ -2839,6 +3015,12 @@
      "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51398",
      "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51398",
      "title": "NH농협금융, 기후금융 신사업 육성…ESG 금융 강화"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494814",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494814",
+     "title": "농협금융, '지속가능 전략프레임워크' 수립 논의"
     }
    ],
    "day": "2026-11-19",
@@ -2922,6 +3104,12 @@
      "url": "https://www.asiaa.co.kr/news/articleView.html?idxno=271997",
      "orig": "https://www.asiaa.co.kr/news/articleView.html?idxno=271997",
      "title": "토스씨엑스, 업계 첫 ISO 품질·환경·안전보건경영시스템 3종 인증 동시..."
+    },
+    {
+     "source": "kdfnews.com",
+     "url": "http://www.kdfnews.com/news/articleView.html?idxno=191169",
+     "orig": "http://www.kdfnews.com/news/articleView.html?idxno=191169",
+     "title": "토스씨엑스, 품질·환경·안전보건 ISO 인증 3종 동시 취득"
     }
    ],
    "day": "2026-11-19",
@@ -4001,7 +4189,14 @@
    "published": "2026-11-18T17:52+09:00",
    "cat": "tech",
    "id": "ac6f7400e98f",
-   "related": [],
+   "related": [
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494811",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2494811",
+     "title": "여주시, 겨울철 제설 현장 안전사고 예방 나서"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
