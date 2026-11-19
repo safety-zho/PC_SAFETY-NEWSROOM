@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T12:52+09:00",
+ "updatedAt": "2026-11-19T13:07+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "한화건설 사망사고 반복, 안전관리 쟁점",
+   "summary": "한화 건설부문에서는 중대재해처벌법 시행 이후 사망사고가 반복됐다. 노동부에 따르면 2022년 1건, 2023년 4건의 사망사고가 발생했다. 2023년에는 통영 발전사업 현장과 제주 공동주택 현장에서 하청 노동자가 잇따라...",
+   "url": "https://www.naeil.com/news/read/609396?ref=naver",
+   "orig": "https://www.naeil.com/news/read/609396?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-19T13:04+09:00",
+   "cat": "sev",
+   "id": "2085215c3421",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "소규모 건설현장 안전취약 지대 … 사망자 72% 집중",
+   "summary": "국토교통부는 19일 시공능력평가 100위 이내 대형 건설사 중 올해 사망사고가 발생한 12개사를 대상으로... 실제 사고 예방으로 이어질 수 있을지 미지수\"라며 \"현장별 위험요인을 찾아내는 데 그치지 않고 작업환경...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247673",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247673",
+   "source": "세이프타임즈",
+   "published": "2026-11-19T13:04+09:00",
+   "cat": "sev",
+   "id": "761266a9ffc3",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "포항북부소방서 장양종 소방교, '제25회 대한민국 안전대상' 한국소방안...",
+   "summary": "소화) 작업 시 폭발이나 유독가스 발생 등 각별한 주의가 요구되는 금수성 위험물 등 현장 진압 활동과 대원... 장양종 소방교는 \"긴박한 재난 현장에서 생사고락을 함께하며 활동하는 선배·동료 대원들과 나눈 진솔한...",
+   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=887725",
+   "orig": "https://www.getnews.co.kr/news/articleView.html?idxno=887725",
+   "source": "getnews.co.kr",
+   "published": "2026-11-19T12:56+09:00",
+   "cat": "tech",
+   "id": "6b044c1387d2",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "DL이앤씨, 안전·품질 우수 성과 협력사 100개사에 인센티브 제공",
    "summary": "올해는 안전과 품질, 공정, 원가 등에서 우수한 성과를 거둔 총 100개 협력사를 한숲 파트너스로 선정했다.... DL이앤씨는 시공 생산성 향상을 위한 탈 현장 건설(OSC)·모듈러 기술, AI·로봇을 활용한 스마트 건설기술...",
@@ -504,6 +543,19 @@
    "published": "2026-11-19T10:51+09:00",
    "cat": "tech",
    "id": "dd230362b28f",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "현대건설, 협력사 21곳 차세대 경영인 육성…경쟁사들은?",
+   "summary": "건설 현장에 인공지능(AI)과 로봇을 도입하려면 실제 시공을 맡는 협력사도 장비와 데이터를 다룰 수 있어야... 삼성물산 건설부문은 협력사의 현장 안전관리 역량에 초점을 맞추고 있다. 건설안전 교육시설인 '세이프티...",
+   "url": "http://www.choicenews.co.kr/news/articleView.html?idxno=173331",
+   "orig": "http://www.choicenews.co.kr/news/articleView.html?idxno=173331",
+   "source": "choicenews.co.kr",
+   "published": "2026-11-19T10:50+09:00",
+   "cat": "tech",
+   "id": "971fa59bfb8d",
    "related": [],
    "day": "2026-11-19",
    "watch": []
