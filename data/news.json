@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T15:52+09:00",
+ "updatedAt": "2026-11-19T16:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 6
   },
   {
+   "id": "e1487bc0482e",
+   "title": "LG이노텍, 구미 사외기숙사 사망 사고 '중대재해 미해당' 최종 종결",
+   "url": "https://n.news.naver.com/mnews/article/138/0002249170?sid=105",
+   "source": "디지털데일리",
+   "cat": "sev",
+   "day": "2026-11-19",
+   "count": 5
+  },
+  {
    "id": "5cfa81acdd67",
    "title": "NH농협금융, 내년 기후금융 신사업 육성…'지속가능금융 프레임워크' 가...",
    "url": "https://n.news.naver.com/mnews/article/030/0003487345?sid=101",
@@ -43,6 +52,15 @@
    "count": 5
   },
   {
+   "id": "76d1655376ca",
+   "title": "중기중앙회, 산업안전상생재단과 '2026 산업안전 상생 컨퍼런스' 개최",
+   "url": "https://www.newspim.com/news/view/20261119000149",
+   "source": "뉴스핌",
+   "cat": "law",
+   "day": "2026-11-19",
+   "count": 4
+  },
+  {
    "id": "48590aa3a276",
    "title": "한신공영 전재식 대표, 터널현장 안전점검...중대재해 제로 6년 연속 정...",
    "url": "https://n.news.naver.com/mnews/article/014/0005606745?sid=101",
@@ -50,27 +68,178 @@
    "cat": "tech",
    "day": "2026-11-19",
    "count": 4
-  },
-  {
-   "id": "e1487bc0482e",
-   "title": "LG이노텍, 구미 사외기숙사 사망 사고 '중대재해 미해당' 최종 종결",
-   "url": "https://n.news.naver.com/mnews/article/138/0002249170?sid=105",
-   "source": "디지털데일리",
-   "cat": "sev",
-   "day": "2026-11-19",
-   "count": 4
-  },
-  {
-   "id": "1a618d4c3cb5",
-   "title": "고소작업대 안전장치 무력화해 판매한 제조업체 적발",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251665",
-   "source": "안전신문",
-   "cat": "law",
-   "day": "2026-11-19",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "남부발전, 작업중지권 우수사례 포상… 현장 안전 강화",
+   "summary": "남부발전은 오는 20일까지 이틀간 협력사를 포함한 전사 안전보건 담당자 60명이 참석한 가운데 '전사 안전문화 워크숍'을 개최한다고 19일 밝혔다. 이번 워크숍에서는 올해 산업재해 예방 점검 결과를 공유하고 2027년...",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3450377",
+   "orig": "https://www.newscj.com/news/articleView.html?idxno=3450377",
+   "source": "천지일보",
+   "published": "2026-11-19T16:44+09:00",
+   "cat": "tech",
+   "id": "fbf78674358e",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "한신공영 전재식 대표, 정선~동해 도로건설 현장 안전관리 실태 확인",
+   "summary": "전 대표이사는 “터널 현장은 작은 관리 소홀도 대형 붕괴사고로 이어질 수 있는 만큼 작업 전후 구조적 안전성을 최우선으로 확인해야 한다”며 “모든 구성원이 일심동행(一心同行)의 자세로 안전사고 예방에...",
+   "url": "https://www.viva100.com/article/20261119501205",
+   "orig": "https://www.viva100.com/article/20261119501205",
+   "source": "브릿지경제",
+   "published": "2026-11-19T16:32+09:00",
+   "cat": "tech",
+   "id": "1bb34f3ba79e",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "성남시, 시민 편의·안전 높일 27개 스마트도시 서비스 확정",
+   "summary": "▲ 경기 성남시는 시민 편의와 안전을 높이기 위한 27개 스마트도시 서비스를 2030년까지 단계적으로... 신상진 성남시장은 \"이번 스마트도시계획은 시민들이 일상에서 필요로 하는 서비스를 인공지능(AI)과 첨단 기술로...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002536526?sid=100",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003286559&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-11-19T16:31+09:00",
+   "cat": "tech",
+   "id": "c489af82eb28",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "중소기업 안전문화 확산 앞장…중기중앙회 ‘제4회 대한민국 안심일터...",
+   "summary": "개인 부문에서는 ▲박병열 와이텍 이사(고용노동부 장관상) ▲김선일 대성정밀기계 팀장(한국산업안전보건공단 이사장상) ▲임정인 신성오토텍 차장(산업안전상생재단 이사장상)이 이름을 올렸다. 오기웅 중기중앙회...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000132887?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261119580436",
+   "source": "kyeonggi.com",
+   "published": "2026-11-19T16:30+09:00",
+   "cat": "law",
+   "id": "cfa7fa2133c9",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "\"산재예방 확산\"…중기중앙회, 중소기업 안전관리 우수사례 공유",
+   "summary": "유일정밀은 기업 부문 종합대상인 고용노동부 장관상을 받았다. 와이텍, 케이디파인켐, 신성오토텍, 한국산업도 각각 안전보건관리 성과를 인정받아 수상했다. 유일정밀은 노사가 함께 안전보건경영을 선포하고 중장비...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009299624?sid=101",
+   "orig": "https://www.news1.kr/industry/general-industry/6359766",
+   "source": "뉴스1",
+   "published": "2026-11-19T16:21+09:00",
+   "cat": "law",
+   "id": "94fea9ddd015",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "울주군, '찾아가는 노사상생 노동법 아카데미'…상생일터 조성",
+   "summary": "근로감독관의 산업안전보건법·중대재해처벌법 및 주요 근로감독 쟁점 사항 등 사업장 안전과 노무관리를 위한 설명회가 열렸다. 참석자들은 \"최신 노동관계법 개정 사항과 실무 적용 방안을 이해할 수 있었고, 현안 노무...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016452661?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261119133400057?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-19T16:17+09:00",
+   "cat": "sev",
+   "id": "22f70231a85f",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "부영그룹 태백 오투리조트, 스키장 개장 앞두고 첫 제설·안전점검",
+   "summary": "문화체육관광부와 한국스키장경영협회가 집계한 겨울철 레저 안전사고 현황에서도 슬로프 내 이용객 간 충돌 사고가 전체 부상의 상당 비중을 차지하는 것으로 나타난다. 이에 따라 주요 스키장들은 시즌 개막에 앞서...",
+   "url": "http://www.ttlnews.com/news/articleView.html?idxno=3164312",
+   "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3164312",
+   "source": "ttlnews.com",
+   "published": "2026-11-19T16:16+09:00",
+   "cat": "tech",
+   "id": "c0759e9c43f9",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "잇단 운행 장애에 노후 전동차까지…대구 도시철도 안전망 도마에",
+   "summary": "도시철도 2호선 정평역 에스컬레이터 사망사고와 관련해선 노후 승강설비 전수 점검과 실효성 있는 중대재해 예방책을 주문했다. 교통서비스 개선 요구도 이어졌다. 고병수 부위원장은 '대구형 통합모빌리티서비스(MaaS)...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=730195",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=730195",
+   "source": "경북도민일보",
+   "published": "2026-11-19T16:14+09:00",
+   "cat": "tech",
+   "id": "465071589130",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "동서발전 음성발전본부, 복합1호기 계획예방정비 현장 안전경영 강화",
+   "summary": "한국동서발전 음성발전본부가 음성 복합1호기 계획예방정비공사 기간을 맞아 현장 밀착형 안전경영활동을 강화한다. 음성발전본부는 겨울철 안정적인 전력 공급을 위해 오는 12월 18일까지 복합1호기 가동을 중단하고...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112253",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112253",
+   "source": "ccdn.co.kr",
+   "published": "2026-11-19T16:14+09:00",
+   "cat": "tech",
+   "id": "390c41f2b777",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "이정렬 반도건설 시공부문 대표 \"협력사와 안전·상생·품질로 함께 성...",
+   "summary": "이날 함께 열린 협력사 간담회에서는 산업재해 예방을 위한 안전관리 체계 고도화와 현장 중심의 사전... 비롯해 반도문화재단 운영, 안전보건경영과 중대재해 예방, 협력사 평가, 유보라 파트너스데이 등을 운영하고 있다.",
+   "url": "https://www.econovill.com/news/articleView.html?idxno=757853",
+   "orig": "https://www.econovill.com/news/articleView.html?idxno=757853",
+   "source": "이코노믹리뷰",
+   "published": "2026-11-19T16:10+09:00",
+   "cat": "tech",
+   "id": "b93a70474f5d",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "현대인프라코어, 스마트건설·안전·AI 엑스포서 소방로봇 공개",
+   "summary": "국토교통부가 주최하는 이번 엑스포에서는 AI와 건설정보모델링(BIM), 건설자동화, 디지털센싱, 스마트안전, 빅데이터·플랫폼 관련 기술을 소개한다. ‘AI 특별관’과 실증연계(PoC) 상담회도 운영한다. 실증연계...",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290698191893",
+   "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290698191893",
+   "source": "siminilbo.co.kr",
+   "published": "2026-11-19T16:00+09:00",
+   "cat": "tech",
+   "id": "a398267049e2",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "영주시, 공직자 중대재해 예방 실무 역량 강화 교육",
+   "summary": "강의는 강창원 고용노동부 영주지청 산재예방감독팀장과 김동재 노무법인 경북 노무사가 맡았다. 교육에서는 중대재해처벌법과 산업안전보건법을 비롯해 발주·도급·직영 사업별 실무 대응 방법, 안전보건관리체계 구축...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085568",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5085568",
+   "source": "shinailbo.co.kr",
+   "published": "2026-11-19T15:58+09:00",
+   "cat": "law",
+   "id": "76a9361347bf",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "'새벽 3시' 근무하던 환경관리원 숨져…전주시 \"실태점검\"",
+   "summary": "중대재해 관련 조사에 나선 가운데, 업체의 안전관리 실태와 전주시의 관리감독 책임에도 관심이 쏠립니다. 지난 18일 새벽 2시 50분쯤 전주시 우아동의 한 도로에서 60대 남성이 1톤 트럭에 치여 숨졌습니다. 사망자는...",
+   "url": "https://news.skbroadband.com/news/articleView.html?idxno=243736",
+   "orig": "https://news.skbroadband.com/news/articleView.html?idxno=243736",
+   "source": "skbroadband.com",
+   "published": "2026-11-19T15:54+09:00",
+   "cat": "sev",
+   "id": "25ec63662769",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "\"'체계 구축'만 해선 중대재해 막을 수 없어\"…기업별 실천 루틴 정형화...",
    "summary": "전체 사고의 80%를 차지하는 비정형작업 안전관리에 집중해야 한다\"고 말했다. 산업안전상생재단과 중소기업중앙회는 19일 서울 여의도 소재 중소기업중앙회 KBIZ홀에서 '2026 산업안전상생 컨퍼런스'를 공동 개최하고...",
@@ -744,6 +913,18 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2020610",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2020610",
      "title": "중기중앙회, 산업안전상생 컨퍼런스 개최…中企 산재예방 우수사례 공유"
+    },
+    {
+     "source": "대한전문건설신문",
+     "url": "https://www.koscaj.com/news/articleView.html?idxno=327533",
+     "orig": "https://www.koscaj.com/news/articleView.html?idxno=327533",
+     "title": "산업안전상생재단·중기중앙회, '2026 산업안전상생 컨퍼런스' 개최"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251678",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251678",
+     "title": "중소기업 안전문화 확산 방안 모색… 2026 산업안전상생 컨퍼런스 개최"
     }
    ],
    "day": "2026-11-19",
@@ -804,7 +985,14 @@
    "published": "2026-11-19T13:24+09:00",
    "cat": "tech",
    "id": "0504e63020b4",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611191600251434be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611191600251434be44c0aacd_30",
+     "title": "안전보건공단 제주지역본부, 이동·건설 노동자 한랭질환 예방 합동 캠..."
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -1116,6 +1304,12 @@
      "url": "https://www.dailyt.co.kr/newsView/dlt202611190016",
      "orig": "https://www.dailyt.co.kr/newsView/dlt202611190016",
      "title": "반도건설, ‘2026 우수협력사 시상식’ 개최…상생·안전 경영 고삐"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3164187",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3164187",
+     "title": "반도건설, 2026 우수협력사 시상식·간담회 개최…14개사에 감사패·상금..."
     }
    ],
    "day": "2026-11-19",
@@ -1312,6 +1506,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014332642?sid=101",
      "orig": "https://www.newsis.com/view/NISX20261119_0003874763",
      "title": "해양환경공단, 대산지사 겨울철 안전점검…근로자 휴게환경 점검"
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505990",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505990",
+     "title": "해양환경공단, 대산지사 겨울철 안전점검·근로자 의견 청취"
     }
    ],
    "day": "2026-11-19",
@@ -1494,6 +1694,12 @@
      "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885161",
      "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885161",
      "title": "LG이노텍 기숙사 사망 사고, 중대재해 미해당 결론"
+    },
+    {
+     "source": "ppss.kr",
+     "url": "https://www.ppss.kr/news/articleView.html?idxno=321967",
+     "orig": "https://www.ppss.kr/news/articleView.html?idxno=321967",
+     "title": "LG이노텍 구미 사외기숙사 직원 사망…노동부 \"중대재해 해당 안 돼\""
     }
    ],
    "day": "2026-11-19",
@@ -1990,6 +2196,12 @@
      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921695",
      "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921695",
      "title": "대전교육청, 겨울방학 학교 석면모니터단 교육 실시"
+    },
+    {
+     "source": "뉴스프리존",
+     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720193",
+     "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720193",
+     "title": "대전시교육청, 겨울방학 학교 19곳 석면모니터단 교육 운영"
     }
    ],
    "day": "2026-11-19",
