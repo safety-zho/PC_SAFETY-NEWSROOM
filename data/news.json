@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-19T13:51+09:00",
+ "updatedAt": "2026-11-19T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,24 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "2af0f220a7e0",
+   "title": "토스씨엑스, ISO 경영시스템 인증 3종 동시 취득",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884953",
+   "source": "한스경제",
+   "cat": "tech",
+   "day": "2026-11-19",
+   "count": 5
+  },
+  {
+   "id": "e1487bc0482e",
+   "title": "LG이노텍, 구미 사외기숙사 사망 사고 '중대재해 미해당' 최종 종결",
+   "url": "https://n.news.naver.com/mnews/article/138/0002249170?sid=105",
+   "source": "디지털데일리",
+   "cat": "sev",
+   "day": "2026-11-19",
+   "count": 4
+  },
+  {
    "id": "1a618d4c3cb5",
    "title": "고소작업대 안전장치 무력화해 판매한 제조업체 적발",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251665",
@@ -43,34 +61,289 @@
    "count": 4
   },
   {
-   "id": "2af0f220a7e0",
-   "title": "토스씨엑스, ISO 경영시스템 인증 3종 동시 취득",
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884953",
-   "source": "한스경제",
-   "cat": "tech",
-   "day": "2026-11-19",
-   "count": 4
-  },
-  {
-   "id": "067c6bc0c420",
-   "title": "해양환경공단, 대산지사 겨울철 안전보건점검…현장 의견 청취",
-   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=229895",
-   "source": "에너지신문",
-   "cat": "tech",
-   "day": "2026-11-19",
-   "count": 3
-  },
-  {
-   "id": "a7fde2e7dca5",
-   "title": "반도건설, 우수 협력사 14곳 시상…현장 안전·품질 관리 강화",
-   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576926260455",
-   "source": "megaeconomy.co.kr",
-   "cat": "tech",
+   "id": "0a606dae44cf",
+   "title": "낙동1터널 붕괴…허용 압력 20배 주입",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007459",
+   "source": "아시아투데이",
+   "cat": "acc",
    "day": "2026-11-19",
    "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "대구시의회 건교위, 교통공사 행감 열어 안전사고 예방 및 경영혁신 촉...",
+   "summary": "위원회는 도시철도 운행 장애와 안전사고 대책, 노후 전동차 교체 계획을 점검하고 경영 혁신을 주문했다. ◆ 안전 강화 및 시설 점검 촉구 김태우 위원장은 전동차 정밀안전진단 예산 축소에 따른 부실 진단 우려를...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885169",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885169",
+   "source": "한스경제",
+   "published": "2026-11-19T14:48+09:00",
+   "cat": "tech",
+   "id": "6fa45a0b45e8",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "음성발전본부, 현장 밀착형 안전관리로 안전사고 예방에 총력",
+   "summary": "복합작업구간에는 AI(인공지능)를 활용한 3D 시각화를 도입해 선제적 예방체계를 구축했다. 김동현 본부장은 \"작은 부주의와 기본수칙 미준수가 큰 사고로 이어질 수 있다\"며 \"모든 업무의 시작과 끝은 반드시...",
+   "url": "https://www.inews365.com/news/article.html?no=944422",
+   "orig": "https://www.inews365.com/news/article.html?no=944422",
+   "source": "충북일보",
+   "published": "2026-11-19T14:46+09:00",
+   "cat": "tech",
+   "id": "cd28aec30b69",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "정림CM, '더 현대 광주' CM 성공수행 총력… '무재해기 수여식 및 합동 ...",
+   "summary": "정림CM은 19일 정림CM 전체 CM현장에 대해 산업재해를 예방하고 안전한 근로환경 조성을 위해 현재 정림CM이... 강화) ▲현장 안전관리 감독(사고 예방 중심의 지속적인 점검) ▲공정 진도 관리(예정 공정에 맞춘 체계적인...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344473",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344473",
+   "source": "국토일보",
+   "published": "2026-11-19T14:42+09:00",
+   "cat": "law",
+   "id": "7cd0d907aad0",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "기아, 협력사 110곳·고용부와 산업안전 공동선언…중대재해 예방 협력",
+   "summary": "[기아] 기아(대표 송호성·송민수)가 고용노동부 경기지방고용노동청 및 협력사 110곳과 산업안전 공동선언식을 개최했다. 19일 기아에 따르면 회사는 전날 경기 화성 오토랜드 화성에서 '내 일터 안전하게, 내일 더...",
+   "url": "https://sateconomy.co.kr/news/view/1065590900476721",
+   "orig": "https://sateconomy.co.kr/news/view/1065590900476721",
+   "source": "sateconomy.co.kr",
+   "published": "2026-11-19T14:40+09:00",
+   "cat": "law",
+   "id": "ed27d74eca30",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "요꼬가와, 브라질 철광석 기업 사마르코에 제어·안전 시스템 공급",
+   "summary": "마르코 피게이라(Marco Figueira) Yokogawa America do Sul 사장 겸 최고경영자(CEO)는 “공정 산업의 제어·안전 시스템 분야에서 축적한 전문성과 남미 광산 분야의 경험을 바탕으로 사마르코의 안전한 조업과 생산...",
+   "url": "https://kidd.co.kr/news/248203",
+   "orig": "https://kidd.co.kr/news/248203",
+   "source": "kidd.co.kr",
+   "published": "2026-11-19T14:36+09:00",
+   "cat": "tech",
+   "id": "9230fc89f7e6",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "토스씨엑스, 품질·환경·안전보건 ISO 인증 3종 취득",
+   "summary": "ISO 14001은 기업 활동이 환경에 미치는 영향을 관리하는 환경경영시스템, ISO 45001은 산업재해를 예방하기 위한 안전보건경영시스템을 평가한다. 토스씨엑스는 이번 인증을 통해 상담 서비스의 품질관리뿐 아니라...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487613?sid=101",
+   "orig": "https://www.etnews.com/20261119000298",
+   "source": "전자신문",
+   "published": "2026-11-19T14:32+09:00",
+   "cat": "tech",
+   "id": "2bd0a59c20a1",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "여수산단 사고 100건…정기보수 앞두고 위험 작업은 누가 확인하나",
+   "summary": "올해에도 4월 정기보수 현장에서 노동자가 추락해 숨졌고, 5월에는 노동자가 낙하물에 맞아 숨졌다. 송하진... 올해 추락과 낙하물 사망사고 뒤 작업 절차가 어떻게 바뀌었는지부터 확인할 필요가 있다.",
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=74873",
+   "orig": "https://www.newswhoplus.com/news/articleView.html?idxno=74873",
+   "source": "newswhoplus.com",
+   "published": "2026-11-19T14:30+09:00",
+   "cat": "acc",
+   "id": "cd7b3ca27a2a",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "[단독] 가스안전 시험까지 뚫렸다…4년간 0건→올해 12건 터졌다",
+   "summary": "넘어 산업현장의 안전 문제로 이어질 수 있다는 우려가 나오는 이유다. 김성원 의원은 \"오늘 수험생들이 정직하게 쌓아 온 실력으로 시험을 치르는 동안에도 우리 시험 관리는 여전히 감독관의 눈에 기대고 있다\"며...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005355826?sid=102",
+   "orig": "https://www.hankyung.com/article/202611197242H",
+   "source": "한국경제",
+   "published": "2026-11-19T14:25+09:00",
+   "cat": "law",
+   "id": "06974f6630d4",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "'검증 노쇼' 리트 만점자 이진우, 심정지 상태 발견 [뉴스퀘어 2PM]",
+   "summary": "한국산업인력공단에서는 AI 인스펙터들이라도 최소한 교육을 시켜서 들여보내고 있거든요. 그런데 교육부에서는 1년 전에 수능을 계획했음에도 불구하고 이런 스마트 기술을 이용한 부정행위에 대해서 최소한 감독을 할 수...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002435128?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202611191424276253",
+   "source": "YTN",
+   "published": "2026-11-19T14:24+09:00",
+   "cat": "sev",
+   "id": "535ab0252869",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "식약처, AIㆍ스마트 안전관리...현장 수요 반영한 R&Dㆍ수출 지원 강화",
+   "summary": "및 기술 지원 등 3대 추진 축 중심의 R&D를 추진하고 있다. 특히 기존 스마트 식품안전관리 사업이 2028년 종료됨에 따라, 2027년부터 5년간 'AIㆍ디지털 기반 스마트 식품안전관리 활성화' 사업을 새롭게 추진한다. 이를...",
+   "url": "http://www.foodnews.co.kr/news/articleView.html?idxno=121071",
+   "orig": "http://www.foodnews.co.kr/news/articleView.html?idxno=121071",
+   "source": "foodnews.co.kr",
+   "published": "2026-11-19T14:14+09:00",
+   "cat": "tech",
+   "id": "4f2c1c9d9609",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "건설사 12곳 불러 세웠지만…현장 사망 106명, 안전은 제자리",
+   "summary": "보였지만 추락은 여전히 주요 사망 유형으로 남아 있다. 정부의 점검을 앞두고도 현장 사고는 이어졌다. 지난 18일 서울 마포구 공덕1구역 재건축 현장에서는 ㈜한화가 시공하는 공사장에서 하청업체 소속 36세 노동자가...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505823",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=505823",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-19T14:12+09:00",
+   "cat": "sev",
+   "id": "20da2bff4219",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "건설현장 사망사고 절반은 추락사… 국토부, 안전관리 강화",
+   "summary": "이에 국토부는 추락방호망·안전난간 등 추락방지시설의 설치 및 관리, 작업자의 안전대 착용 등 기본적인 안전수칙 준수 방안을 중점적으로 논의한다는 구상이다. 아울러 건설기계 관련 끼임·부딪힘 사고, 토사...",
+   "url": "https://www.arunews.com/news/articleView.html?idxno=69749",
+   "orig": "https://www.arunews.com/news/articleView.html?idxno=69749",
+   "source": "arunews.com",
+   "published": "2026-11-19T14:08+09:00",
+   "cat": "sev",
+   "id": "efcce229f987",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "태영건설, 워크아웃 졸업 앞두고 '안전 암초'···공공수주마저 흔들리...",
+   "summary": "사고 직후 병원으로 옮겨졌지만 치료 나흘 만인 16일 사망했다. 태영건설은 17일 중대재해 발생 사실을 공시했다. 해당 현장에서 태영건설은 공동도급 지분 40.37%를 보유하고 있다. 잇따른 사고로 현장 안전관리 체계에...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=159919",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=159919",
+   "source": "smartbizn.com",
+   "published": "2026-11-19T14:06+09:00",
+   "cat": "law",
+   "id": "1f15311d7904",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "부전~마산 터널 붕괴, 한계치 20배 압력 탓… 균열 확인하고도 공사 지...",
+   "summary": "당시 작업자 3명이 사고 직전 대피해 인명피해는 발생하지 않았다. 사조위는 사고의 주요 원인으로 사전검증 없이 적용한 차수 그라우팅 공법의 부적정성과 과도한 주입압력에 따른 지반변위 및 터널 구조물 파손을...",
+   "url": "https://www.ajunews.com/view/20261119095711293",
+   "orig": "https://www.ajunews.com/view/20261119095711293",
+   "source": "아주경제",
+   "published": "2026-11-19T14:02+09:00",
+   "cat": "acc",
+   "id": "51d5903ea0b3",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "국토부 “부전~마산 터널 붕괴, 지반 보강재 과다 주입이 원인”… 사고...",
+   "summary": "압력 기준 없이 주입량만 관리 균열·누수 이상징후에도 작업 지속 “내년 4월 부분 개통 차질없이 추진”... 3번 통로를 뚫던 중 사고가 발생했다. 사조위에 따르면 시공사는 기존 지반 보강재의 방수 성능을 보완하기...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001205964?sid=101",
+   "orig": "https://biz.chosun.com/policy/policy_sub/2026/11/19/L3HQA6GQLZBIDOUQO2B2PVTDTE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-19T14:01+09:00",
+   "cat": "acc",
+   "id": "0e7d176b0bf9",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "낙동1터널 붕괴…허용 압력 20배 주입",
+   "summary": "굴착하던 중 터널이 무너졌다. 당시 공정률은 99%에 달했지만 사고로 공사가 중단되면서 당초 2021년 초로... 그럼에도 작업은 반복됐다. 실제 주입 압력은 최대 9000kPa까지 올라갔다. 지반의 파괴와 변형을 고려한 한계...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007459",
+   "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261119010007459",
+   "source": "아시아투데이",
+   "published": "2026-11-19T14:00+09:00",
+   "cat": "acc",
+   "id": "0a606dae44cf",
+   "related": [
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003157178?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1717146/?sc=Naver",
+     "title": "부전~마산 터널 붕괴, 허용치 최대 20배 압력 주입이 결정적 원인"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009299049?sid=101",
+     "orig": "https://www.news1.kr/realestate/general/6359186",
+     "title": "부전~마산 낙동1터널 붕괴, 한계 20배 고압 주입 탓"
+    }
+   ],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "코레일 김태승號, 통합 두 달만 '총파업' 암초…재무·안전 '첩첩산중'",
+   "summary": "코레일은 2017년 광운대역 사고 이후 ▲도보 입환 ▲무선 원격 제어 ▲선로전환기 자동화 등 '입환 무사고' 대책을 추진했지만, 지난 9년간 입환 작업 사고 피해자는 34명에 달했다. 문제는 국토교통부가 의왕역 사고 이후...",
+   "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=130969",
+   "orig": "https://www.ntoday.co.kr/news/articleView.html?idxno=130969",
+   "source": "시사오늘",
+   "published": "2026-11-19T14:00+09:00",
+   "cat": "tech",
+   "id": "e4d7b46244ce",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "부전~마산 복선전철 낙동1터널 붕괴…부적정 공법·부실 시공이 원인",
+   "summary": "공공의 안전관리 감독체계 강화 ▲설계 및 구조안전 측면에서 손상된 터널 구조물의 후속 굴착 시... 현행 건설산업기본법에 따른 영업정지는 고의나 과실로 부실 시공한 경우 중대 건설사고가 발생한 경우에는 국토부가...",
+   "url": "https://www.newspim.com/news/view/20261119000571",
+   "orig": "https://www.newspim.com/news/view/20261119000571",
+   "source": "뉴스핌",
+   "published": "2026-11-19T14:00+09:00",
+   "cat": "acc",
+   "id": "9356df3e4a33",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "“26일 중 하루만 쉬고 일하다 사망”…법원, 70대 조리원 산재 불승인...",
+   "summary": "유족은 장시간 노동으로 과로와 스트레스가 누적됐다며 산재를 신청했다. 공단은 업무와 사망 사이의 상당인과관계를 인정하기 어렵다며 지급을 거부했다. 유족은 올해 1월 공단을 상대로 소송을 제기했다. 재판...",
+   "url": "https://ilyo.co.kr/?ac=article_view&entry_id=513703",
+   "orig": "https://ilyo.co.kr/?ac=article_view&entry_id=513703",
+   "source": "ilyo.co.kr",
+   "published": "2026-11-19T13:58+09:00",
+   "cat": "sev",
+   "id": "e64de2d2472d",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
+  {
+   "title": "마산회원구, 수험생 안전한 입실 돕고 골목상권 응원하고",
+   "summary": "수험생들의 안전한 입실을 도왔다. 특히 수험생들이 정해진 시간 내 차질 없이 도착할 수 있도록 시험장 주변... 이어 참석자들은 소상공인들이 현장에서 겪는 경영 애로사항과 지역경제 현안에 대해 의견을 나누고, 회원...",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720266",
+   "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=720266",
+   "source": "뉴스프리존",
+   "published": "2026-11-19T13:58+09:00",
+   "cat": "tech",
+   "id": "b8e1321d948c",
+   "related": [],
+   "day": "2026-11-19",
+   "watch": []
+  },
   {
    "title": "반도체 공장의 심장 '화학물질 공급실'에서…병들고 죽는 하청 노동자[...",
    "summary": "2013년 11라인 불산 누출로 1명이 사망했고, 2016년 고 황모 씨가 악성 림프종 투병 중 숨졌고, 2025년 42세 PM... 물질 정보 모르는데 역학조사 안 하고 산재 기각 현재까지 CCSS룸에서 어떤 성분의 물질을 취급하는지는 정확히...",
@@ -151,6 +424,12 @@
      "url": "https://n.news.naver.com/mnews/article/138/0002249202?sid=105",
      "orig": "https://www.ddaily.co.kr/page/view/2026111913460738767",
      "title": "위밋모빌리티, 물류현장 안전관제로 국민안전 LBS 솔루션 최우수상"
+    },
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065589504041010",
+     "orig": "https://idsn.co.kr/news/view/1065589504041010",
+     "title": "위밋모빌리티, 국민안전 LBS 솔루션 대상 ‘최우수상’ 수상"
     }
    ],
    "day": "2026-11-19",
@@ -471,7 +750,14 @@
    "published": "2026-11-19T11:45+09:00",
    "cat": "tech",
    "id": "1e1b8102dc5e",
-   "related": [],
+   "related": [
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=2026111913360142522aa6f4cdad_1",
+     "orig": "https://www.g-enews.com/view.php?ud=2026111913360142522aa6f4cdad_1",
+     "title": "[건설 한눈에] 반도건설, 우수협력사 14곳 포상…한신공영·에스앤아이..."
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -516,6 +802,12 @@
      "url": "https://www.newspim.com/news/view/20261119000649",
      "orig": "https://www.newspim.com/news/view/20261119000649",
      "title": "한신공영, 터널 굴착 현장 특별안전점검…중대재해 6년 연속 '제로' 총력"
+    },
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005355825?sid=101",
+     "orig": "https://www.hankyung.com/article/202611197389i",
+     "title": "한신공영, 터널 현장 특별점검…‘중대재해 0’ 6년 연속 목표"
     }
    ],
    "day": "2026-11-19",
@@ -739,7 +1031,14 @@
    "published": "2026-11-19T10:54+09:00",
    "cat": "tech",
    "id": "a02c9f86dae5",
-   "related": [],
+   "related": [
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005606874?sid=101",
+     "orig": "https://www.fnnews.com/news/202611191426579053",
+     "title": "에스앤아이, 법무법인 율촌과 '건물관리 중대재해 예방·대응 고도화' 맞..."
+    }
+   ],
    "day": "2026-11-19",
    "watch": []
   },
@@ -888,6 +1187,18 @@
      "url": "https://www.thelec.kr/news/articleView.html?idxno=65650",
      "orig": "https://www.thelec.kr/news/articleView.html?idxno=65650",
      "title": "LG이노텍 구미 기숙사 직원 사망, 중대재해 미해당 종결"
+    },
+    {
+     "source": "smartbizn.com",
+     "url": "https://www.smartbizn.com/news/articleView.html?idxno=159956",
+     "orig": "https://www.smartbizn.com/news/articleView.html?idxno=159956",
+     "title": "LG이노텍 구미 기숙사 직원 사망 사고, '중대재해 미해당' 결론"
+    },
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885161",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885161",
+     "title": "LG이노텍 기숙사 사망 사고, 중대재해 미해당 결론"
     }
    ],
    "day": "2026-11-19",
@@ -960,6 +1271,12 @@
      "url": "https://www.fetv.co.kr/news/articleView.html?idxno=313958",
      "orig": "https://www.fetv.co.kr/news/articleView.html?idxno=313958",
      "title": "NH농협금융, '2026년 제2차 ESG전략협의회' 개최…지속가능금융 전략 논..."
+    },
+    {
+     "source": "EBN",
+     "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732292",
+     "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1732292",
+     "title": "NH농협금융, 지속가능금융으로 성장 모색…ESG전략협의회 개최"
     }
    ],
    "day": "2026-11-19",
@@ -1604,6 +1921,12 @@
      "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326610",
      "orig": "https://www.pointdaily.co.kr/news/articleView.html?idxno=326610",
      "title": "토스씨엑스, ISO 인증 3종 동시 획득"
+    },
+    {
+     "source": "thefirstmedia.net",
+     "url": "http://www.thefirstmedia.net/news/articleView.html?idxno=214113",
+     "orig": "http://www.thefirstmedia.net/news/articleView.html?idxno=214113",
+     "title": "토스씨엑스, 품질·환경·안전보건 국제표준 인증 3종 동시 취득"
     }
    ],
    "day": "2026-11-19",
@@ -2533,6 +2856,24 @@
      "url": "https://www.gokorea.kr/news/articleView.html?idxno=886398",
      "orig": "https://www.gokorea.kr/news/articleView.html?idxno=886398",
      "title": "라스트마일, '2026 스마트건설·안전·AI 엑스포' 참가"
+    },
+    {
+     "source": "gosiweek.com",
+     "url": "https://www.gosiweek.com/article/1065589000467624",
+     "orig": "https://www.gosiweek.com/article/1065589000467624",
+     "title": "한국형냉난방시스템, ‘2026 스마트건설·안전·AI 엑스포(SCX 2026)’서 히..."
+    },
+    {
+     "source": "dhnews.co.kr",
+     "url": "https://dhnews.co.kr/news/view/1065590230804007",
+     "orig": "https://dhnews.co.kr/news/view/1065590230804007",
+     "title": "심투리얼, 스마트건설·안전·AI엑스포 2026 참가"
+    },
+    {
+     "source": "abcn.kr",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=94744",
+     "orig": "https://www.abcn.kr/news/articleView.html?idxno=94744",
+     "title": "AI 안전관제 전문기업 진인프라, '2026 스마트건설·안전·AI 엑스포(SCX ..."
     }
    ],
    "day": "2026-11-18",
@@ -2593,7 +2934,14 @@
    "published": "2026-11-18T18:01+09:00",
    "cat": "sev",
    "id": "d35f01dc66b0",
-   "related": [],
+   "related": [
+    {
+     "source": "lghellovision.net",
+     "url": "http://news.lghellovision.net/news/articleView.html?idxno=562949",
+     "orig": "http://news.lghellovision.net/news/articleView.html?idxno=562949",
+     "title": "마트서 사다리 작업하다 떨어진 외국인 노동자 치료 중 사망"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -3194,7 +3542,14 @@
    "published": "2026-11-18T16:50+09:00",
    "cat": "sev",
    "id": "a65b0c639fb9",
-   "related": [],
+   "related": [
+    {
+     "source": "e-science.co.kr",
+     "url": "https://www.e-science.co.kr/news/articleView.html?idxno=140252",
+     "orig": "https://www.e-science.co.kr/news/articleView.html?idxno=140252",
+     "title": "마포 한화 아파트 재건축 현장서 30대 노동자 추락사"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
@@ -3905,7 +4260,14 @@
    "published": "2026-11-18T15:56+09:00",
    "cat": "sev",
    "id": "ed018358893f",
-   "related": [],
+   "related": [
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=515039",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=515039",
+     "title": "한화 공덕동 재건축 현장서 하청노동자 사망…13층서 비계 해체 중 추락"
+    }
+   ],
    "day": "2026-11-18",
    "watch": []
   },
