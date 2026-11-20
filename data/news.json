@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T13:52+09:00",
+ "updatedAt": "2026-11-20T14:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 5
   },
   {
+   "id": "71a3b9032896",
+   "title": "국토부, 겨울철 교통·건설현장 안전 점검",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421021",
+   "source": "bizwork.co.kr",
+   "cat": "law",
+   "day": "2026-11-20",
+   "count": 4
+  },
+  {
    "id": "d02880e3b7d0",
    "title": "브이피케이, '2026 스마트건설·안전·AI 엑스포' 참가",
    "url": "https://www.gokorea.kr/news/articleView.html?idxno=886417",
@@ -43,34 +52,246 @@
    "count": 4
   },
   {
-   "id": "e44819530c64",
-   "title": "아이파크몰, 이촌119안전센터 환경 개선 일환 '벽화 그리기' 봉사활동 전...",
-   "url": "http://www.sisacast.kr/news/articleView.html?idxno=102131",
-   "source": "sisacast.kr",
-   "cat": "tech",
-   "day": "2026-11-20",
-   "count": 3
-  },
-  {
-   "id": "71a3b9032896",
-   "title": "국토부, 겨울철 교통·건설현장 안전 점검",
-   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421021",
-   "source": "bizwork.co.kr",
-   "cat": "law",
-   "day": "2026-11-20",
-   "count": 2
-  },
-  {
    "id": "42c0b0faa218",
    "title": "김영훈 장관, 중소 건설현장 불시점검… \"안전조치 개선될 때까지 확인...",
    "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251694",
    "source": "안전신문",
    "cat": "law",
    "day": "2026-11-20",
-   "count": 2
+   "count": 3
+  },
+  {
+   "id": "6d7233b46e8d",
+   "title": "울산항만공사, 인공지능(AI) 기반 건설현장 안전관리 확대",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
+   "source": "경상일보",
+   "cat": "tech",
+   "day": "2026-11-20",
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "노사발전 경기센터, 계약 만료 '일터 지킴이' 재취업 교육",
+   "summary": "노사발전재단 경기중장년내일센터(경기센터)가 한국산업안전보건공단과 20일 경기권 안전한 일터 지킴이 100여 명의 재취업 준비 프로그램 교육을 진행했다. 안전한 일터 지킴이 사업은 산업재해 예방을 위해 현장...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014335971?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261120_0003876865",
+   "source": "뉴시스",
+   "published": "2026-11-20T14:44+09:00",
+   "cat": "tech",
+   "id": "4b6e71472cbe",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[AI는 지금] \"AI 고용 충격 대비\"…APEC 정상들, 노동자 권리 보호 담은...",
+   "summary": "줄이고 보건 등 공공서비스에 신기술을 활용하는 방안도 선전 전망에 포함했다. 데이터 유출과 온라인 사기는 회원들이 함께 대응할 과제로 꼽았다. 시진핑 중국 국가주석은 AI를 산업 현장에 보급하려면 기업이...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002446238?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261120142917",
+   "source": "지디넷코리아",
+   "published": "2026-11-20T14:40+09:00",
+   "cat": "tech",
+   "id": "dce6f7ccfdf8",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "서울시의회 강신욱 의원, '영업이익 5% 과징금' 산안법 개정 영향 점검...",
+   "summary": "강 의원은 근로자 생명과 안전 보호가 최우선 가치라는 점을 전제하면서도, '중대재해 처벌 등에 관한 법률' 시행 이후에도 사망재해가 이어지는 상황에서 제재와 처벌 위주의 접근만으로 사고 감소 효과를 거둘 수...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107406",
+   "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107406",
+   "source": "discoverynews.kr",
+   "published": "2026-11-20T14:36+09:00",
+   "cat": "law",
+   "id": "1c93942862c5",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "10개월의 현장 안전 노하우, 다음 중장년 일자리로 연결",
+   "summary": "‘안전한 일터 지킴이’는 산업재해 사망사고를 줄이기 위해 추진된 정부 국정과제 사업이다. 풍부한 현장... 김미선 경기센터장은 “중장년 세대의 노련한 현장 경험이 산재 예방이라는 국정과제를 수행하는 데 든든한...",
+   "url": "https://bravo.etoday.co.kr/view/atc_view/20525",
+   "orig": "https://bravo.etoday.co.kr/view/atc_view/20525",
+   "source": "이투데이",
+   "published": "2026-11-20T14:34+09:00",
+   "cat": "tech",
+   "id": "383cbd2594e5",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "조폐공사 ID본부, 전통시장에 소방키트 60세트…화재 점검도",
+   "summary": "ID본부는 이번 활동으로 자체 안전관리 역량을 지역사회로 넓히고 ESG경영을 내실화했다고 설명했다. 노사가 함께 돈을 모으고 직원들이 손수 키트를 꾸린 만큼 단순 기부를 넘어선 현장형 안전 지원에 가깝다. 김철호...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565477",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=565477",
+   "source": "joongangenews.com",
+   "published": "2026-11-20T14:30+09:00",
+   "cat": "acc",
+   "id": "bf6f87bea329",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "홍지선 국토부 장관 \"겨울철 국민 안전 최우선…비상대응체계 확립\"",
+   "summary": "홍 장관은 건설현장에 대해서는 지반 동결과 가설시설 전도, 레미콘 품질 등 겨울철 위험 요인을 철저히 점검하고 사망사고가 발생한 건설사의 시공 현장에 대해서는 중대재해 재발 방지를 위한 점검과 엄정한 조치를...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119854",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119854",
+   "source": "bbsi.co.kr",
+   "published": "2026-11-20T14:26+09:00",
+   "cat": "law",
+   "id": "4d176ffe5478",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "강진 신축 태양광 발전소 보수작업 중 30대 감전",
+   "summary": "조사 결과 A 씨는 해당 신축 태양광 발전소가 한국전기안전공사의 사용전검사(준공 검사) 과정에서 전기실 상층부 누수 문제로 불합격 판정을 받자 이를 보수하는 작업을 하던 중 사고를 당한 것으로 파악됐다. 경찰은...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009301449?sid=102",
+   "orig": "https://www.news1.kr/local/gwangju-jeonnam/6360974",
+   "source": "뉴스1",
+   "published": "2026-11-20T14:25+09:00",
+   "cat": "acc",
+   "id": "96912093bef6",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "강신욱 서울시의원 “영업이익 5% 과징금이 산재 막나… 정책 실효성 재...",
+   "summary": "그러면서도 중대재해 처벌 등에 관한 법률 시행 이후에도 사망사고가 이어지는 현실에서 처벌과 금전적 제재만 높인다고 산재가 크게 줄어들지 의문이라는 뜻을 나타냈다. 실제 고용노동부 자료에 따르면 2026년 1분기...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003701587?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/local_govern/smc_movement/2026/11/20/20261120500175?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-20T14:24+09:00",
+   "cat": "law",
+   "id": "ac2cea303700",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "바다플랫폼, '우리 아이 먹거리 안전 간담회' 개최…영유아 급식안전 소...",
+   "summary": "해소와 스마트 급식관리 시스템의 단계적 도입 필요성을 제기한 바 있다. 이번 간담회는 지역 의회와 식품안전 기술기업이 영유아 먹거리 안전이라는 공동의 관심사를 바탕으로 소통했다는 점에서 의미를 더했다. 특히...",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399436",
+   "orig": "https://www.fntoday.co.kr/news/articleView.html?idxno=399436",
+   "source": "fntoday.co.kr",
+   "published": "2026-11-20T14:24+09:00",
+   "cat": "tech",
+   "id": "21aec27966f9",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[단독] 강변북로 방음벽 보수 작업자 추락…40대 남성 숨져",
+   "summary": "방음벽 보수 작업을 하던 남성이 추락해 숨졌습니다. 오늘(20일) 오전 9시쯤 서울 광진구 자양동 청담대교 북단 인근 강변북로에서 40대 남성 A 씨가 작업차에 올라타려다 떨어지는 사고가 발생했습니다. A 씨는 지난 18일...",
+   "url": "https://n.news.naver.com/mnews/article/057/0001979116?sid=102",
+   "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5231991",
+   "source": "매일경제",
+   "published": "2026-11-20T14:17+09:00",
+   "cat": "sev",
+   "id": "dc2eef5ea496",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "우아한청년들, 라이더 대상 겨울 안전용품 6000여개 지원",
+   "summary": "안전 지원 활동을 지속적으로 운영하고 있다”고 밝혔다. 우아한청년들은 정부 협력 사업과 이동노동자 지원 프로그램, 라이더 안전경영위원회 운영 등 배달 종사자 안전과 근무 환경 개선을 위한 활동을 이어가고 있다.",
+   "url": "https://www.lawissue.co.kr/view.php?ud=202611201413223852204ead0791_12",
+   "orig": "https://www.lawissue.co.kr/view.php?ud=202611201413223852204ead0791_12",
+   "source": "로이슈",
+   "published": "2026-11-20T14:16+09:00",
+   "cat": "tech",
+   "id": "2fc062721928",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "인천시, 생활폐기물 수거업체 평가에 안전·근무환경 반영",
+   "summary": "안전 분야에서는 청소차량 안전장치 설치와 작업 중 안전표지 강화, 정기 안전교육 실시 등 사고 예방 방안을 중점적으로 살폈다. 종사자 근무환경 개선을 위해서는 휴게·위생시설 확충과 야간작업 관리체계 정비, 기상...",
+   "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113333",
+   "orig": "http://www.aptn.co.kr/news/articleView.html?idxno=113333",
+   "source": "aptn.co.kr",
+   "published": "2026-11-20T14:12+09:00",
+   "cat": "tech",
+   "id": "39cc2947b203",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한국승강기안전공단, 'AI·디지털 전환 동행 워크숍' 성료… AI 기술 발...",
+   "summary": "정보시스템 유지관리사업단과 2027년 AI 전환과제 머리 맞대 고성균 이사장 \"국민 체감 승강기 안전관리 AI... 디지털지원실의 경영정보시스템 미래 발전방향 발표, AI전략실의 '2027년 KoELSA-AX 추진방향' 발표가 차례로...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344566",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344566",
+   "source": "국토일보",
+   "published": "2026-11-20T14:10+09:00",
+   "cat": "tech",
+   "id": "da954050d42d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "산업재해 예방, 이제는 디자인으로… 산업안전 패러다임 전환 모색",
+   "summary": "설비나 작업자의 주의에 의존하던 안전관리에서 벗어나, 공장 전체의 공간 구조와 이동 흐름을 분석해 위험 가능성을 사전에 개선하는 접근이라는 점에서 주목된다. 2부에서는 홍익대학교 이현성 교수가 산업재해 사고사...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205305",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205305",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-20T14:06+09:00",
+   "cat": "tech",
+   "id": "f10369ef44f4",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "부산도시공사 아르피나, ‘제25회 대한민국안전대상’ 한국소방안전원...",
+   "summary": "- 소방청 주최 안전대상서 우수관리상 부문 수상… 3단계 엄격한 검증 통과 - 취약시설 선제 점검과 전 직원 실전 대피훈련으로 현장 안전 경영 입증 지이코노미 정태율 기자 | 청소년과 시민들이 즐겨 찾는 부산 대표...",
+   "url": "https://www.geconomy.co.kr/news/article.html?no=325887",
+   "orig": "https://www.geconomy.co.kr/news/article.html?no=325887",
+   "source": "geconomy.co.kr",
+   "published": "2026-11-20T14:00+09:00",
+   "cat": "tech",
+   "id": "939b23340aa6",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[알림]이데일리 '제4회 좋은 일자리 포럼' 개최",
+   "summary": "edaily.co.kr/ ◇ 주최: 이데일리, 경제사회노동위원회, 일자리연대 ◇ 후원: 고용노동부, 한국산업인력공단, 한국산업안전보건공단, 노사발전재단, 대한산업안전협회",
+   "url": "https://n.news.naver.com/mnews/article/018/0006413133?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03093046645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-11-20T13:58+09:00",
+   "cat": "tech",
+   "id": "1ccdf729bf1b",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한파 속 제설대책 나선 국토부…눈길 안전운전하려면",
+   "summary": "안전사고 예방을 위한 제설대책 기간을 운영 중인 가운데 운전자들에게도 차량 사전점검과 감속운전... 신속한 제설작업 및 원활한 교통소통을 위해 폭설에 고립된 경우라도 차를 갓길이나 본선에 방치하지 말아야 한다....",
+   "url": "https://n.news.naver.com/mnews/article/018/0006413130?sid=102",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=03079926645647688&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-11-20T13:52+09:00",
+   "cat": "law",
+   "id": "12adcf75fea8",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "김민·윤대열, 산불 끄고 폭발 저지한 진짜 히어로 “대참사 막았다”",
    "summary": "외투가 그을리는 와중에도 산불 현장에 뛰어든 배우 김민과 이에 앞서 가스 폭발 사고의 2차 피해를 차단한... 이어 “크게 다치신 식당 사장님과 작업자분들, 피해자 가족분들이 우선이다. 부상자분들의 몸과 마음의 빠른...",
@@ -106,7 +327,14 @@
    "published": "2026-11-20T13:38+09:00",
    "cat": "tech",
    "id": "67a241ac839d",
-   "related": [],
+   "related": [
+    {
+     "source": "energydaily.co.kr",
+     "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205309",
+     "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205309",
+     "title": "승강기안전공단, 2027년 AI 안전관리 본격화…데이터·정보시스템 고도..."
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -151,6 +379,18 @@
      "url": "https://n.news.naver.com/mnews/article/629/0000554059?sid=101",
      "orig": "https://news.tf.co.kr/read/economy/2391516.htm",
      "title": "홍지선 \"겨울철 교통·건설현장 안전 최우선…비상대응체계 확립\""
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014335766?sid=101",
+     "orig": "https://www.newsis.com/view/NISX20261120_0003876720",
+     "title": "국토장관 \"겨울철 교통·건설 현장 빈틈없는 안전 확보 만전\""
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251698",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251698",
+     "title": "국토부, 소속·산하기관 겨울철 교통·건설안전 점검"
     }
    ],
    "day": "2026-11-20",
@@ -405,6 +645,12 @@
      "url": "https://www.newspim.com/news/view/20261120000529",
      "orig": "https://www.newspim.com/news/view/20261120000529",
      "title": "김영훈 노동부 장관, 건설현장 한파 안전조치 불시 점검"
+    },
+    {
+     "source": "pointe.co.kr",
+     "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88173",
+     "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=88173",
+     "title": "김영훈 노동장관, 서대문 건설현장 불시 점검…\"개선될 때까지 끝까지 ..."
     }
    ],
    "day": "2026-11-20",
@@ -516,6 +762,12 @@
      "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024640",
      "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1024640",
      "title": "울산항만공사, AI 기반 건설현장 안전관리 확대"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014335912?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261120_0003876816",
+     "title": "울산항만공사 \"AI 기반, 건설 현장 안전관리 강화\""
     }
    ],
    "day": "2026-11-20",
@@ -608,9 +860,18 @@
    "published": "2026-11-20T10:32+09:00",
    "cat": "tech",
    "id": "2990f405271a",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611201153217795be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611201153217795be44c0aacd_30",
+     "title": "안전보건공단 서울광역본부, 비알코리아와 라이더 겨울철 안전운행 지원"
+    }
+   ],
    "day": "2026-11-20",
-   "watch": []
+   "watch": [
+    "비알코리아"
+   ]
   },
   {
    "title": "코레일관광네트웍스, 광역사업 관리감독자 128명 안전교육 실시",
@@ -2028,6 +2289,12 @@
      "url": "https://n.news.naver.com/mnews/article/014/0005607206?sid=102",
      "orig": "https://www.fnnews.com/news/202611200741167972",
      "title": "대구국제공항, 항공기 사고 수습 이상 무!"
+    },
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=542625",
+     "orig": "https://www.kbsm.net/news/view.php?idx=542625",
+     "title": "대구국제공항, 항공기 사고수습 훈련 실시"
     }
    ],
    "day": "2026-11-19",
