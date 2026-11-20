@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T14:51+09:00",
+ "updatedAt": "2026-11-20T15:43+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,11 +34,29 @@
    "count": 5
   },
   {
+   "id": "dc2eef5ea496",
+   "title": "[단독] 강변북로 방음벽 보수 작업자 추락…40대 남성 숨져",
+   "url": "https://n.news.naver.com/mnews/article/057/0001979116?sid=102",
+   "source": "매일경제",
+   "cat": "sev",
+   "day": "2026-11-20",
+   "count": 4
+  },
+  {
    "id": "71a3b9032896",
    "title": "국토부, 겨울철 교통·건설현장 안전 점검",
    "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421021",
    "source": "bizwork.co.kr",
    "cat": "law",
+   "day": "2026-11-20",
+   "count": 4
+  },
+  {
+   "id": "6d7233b46e8d",
+   "title": "울산항만공사, 인공지능(AI) 기반 건설현장 안전관리 확대",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
+   "source": "경상일보",
+   "cat": "tech",
    "day": "2026-11-20",
    "count": 4
   },
@@ -50,27 +68,243 @@
    "cat": "tech",
    "day": "2026-11-20",
    "count": 4
-  },
-  {
-   "id": "42c0b0faa218",
-   "title": "김영훈 장관, 중소 건설현장 불시점검… \"안전조치 개선될 때까지 확인...",
-   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251694",
-   "source": "안전신문",
-   "cat": "law",
-   "day": "2026-11-20",
-   "count": 3
-  },
-  {
-   "id": "6d7233b46e8d",
-   "title": "울산항만공사, 인공지능(AI) 기반 건설현장 안전관리 확대",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
-   "source": "경상일보",
-   "cat": "tech",
-   "day": "2026-11-20",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "[속보] 서울 강변북로 방음벽 작업 중 40대 ‘참변’…발 헛디뎌 추락, ...",
+   "summary": "서울 광진구 강변북로에서 방음벽 보수 작업을 하던 40대 근로자가 작업차에서 추락해 숨졌다. 20일 소방 당국과 경찰 등에 따르면 이날 오전 9시 4분쯤 서울 광진구 청담대교 북단 인근 강변북로 구간에서 작업 중이던...",
+   "url": "https://n.news.naver.com/mnews/article/029/0003060257?sid=102",
+   "orig": "https://www.dt.co.kr/article/12096334?ref=naver",
+   "source": "디지털타임스",
+   "published": "2026-11-20T15:27+09:00",
+   "cat": "acc",
+   "id": "bf2c8aa1d1bd",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "점검받고도 추락방지조치 미흡…노동부, 재감독해 사법처리",
+   "summary": "있도록 작업장소와 가까운 곳에 따뜻한 쉼터를 마련하라고 지시했다. 추락·낙하 사고와 화재에 대비한... 특히 산재 예방 여력이 상대적으로 부족한 중·소규모 건설현장을 중심으로 패트롤과 불시점검을 강화하겠다고...",
+   "url": "https://www.news2day.co.kr/article/20261120500224",
+   "orig": "https://www.news2day.co.kr/article/20261120500224",
+   "source": "뉴스투데이",
+   "published": "2026-11-20T15:24+09:00",
+   "cat": "acc",
+   "id": "92b4fa0ab878",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "신임 사장 선임 절차 들어간 가스안전공사…조직쇄신·AX 과제 안은 차기...",
+   "summary": "가스안전공사는 최고경영자로서의 리더십과 비전 제시 능력, 관련 분야의 지식과 경험, 조직관리 능력, 청렴성 등을 주요 자격요건으로 내걸었다. 공사 임원추천위원회는 지원자를 대상으로 서류심사와 면접을 거쳐...",
+   "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008058",
+   "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008058",
+   "source": "아시아투데이",
+   "published": "2026-11-20T15:24+09:00",
+   "cat": "tech",
+   "id": "3a804545b81e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "근로복지공단, 내년 산재보상 대리인 예산 39억원 확정",
+   "summary": "업무상 질병(난청·진폐 등 제외)에 대한 보험급여 및 유족급여 청구에 더해 처분에 대한 이의제기(심사 또는 재심사 청구)까지 지원받을 수 있다. 또한 국가가 전문가 선임 비용을 지원하기에 본인 부담은 없다. 대리인의...",
+   "url": "http://www.aptn.co.kr/news/articleView.html?idxno=113329",
+   "orig": "http://www.aptn.co.kr/news/articleView.html?idxno=113329",
+   "source": "aptn.co.kr",
+   "published": "2026-11-20T15:20+09:00",
+   "cat": "hlt",
+   "id": "00e20ff145ce",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "성남 주택 지하 창고서 LPG 호스 절단 중 화재…70대 남성 화상",
+   "summary": "(사진= 경기도소방재난본부 제공) 20일 오전 11시 40분께 경기 성남시 중원구 하대원동의 2층 주택 지하 1층 창고에서 불이 나 작업 중이던 70대 남성 A씨가 화상을 입었다. 이 사고로 A씨는 양손에 3도 화상을 입고...",
+   "url": "https://idsn.co.kr/news/view/1065593719836277",
+   "orig": "https://idsn.co.kr/news/view/1065593719836277",
+   "source": "idsn.co.kr",
+   "published": "2026-11-20T15:18+09:00",
+   "cat": "acc",
+   "id": "f5706fbb111e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[현장] 자율주행 시대 '안전' 해법 찾는다…정부·車업계 한자리에",
+   "summary": "금호타이어의 스마트 타이어 기술은 센서를 통해 공기압과 타이어 상태, 노면 위험 요소를 감지하고 AI로 데이터를 분석해 사고 위험을 예측하는 방식이다. 차량 제어 시스템과 연동해 위험 상황에 대응하는 안전 체계...",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1732388",
+   "orig": "https://www.ebn.co.kr/news/articleView.html?idxno=1732388",
+   "source": "EBN",
+   "published": "2026-11-20T15:18+09:00",
+   "cat": "tech",
+   "id": "29ac9ee35708",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한국장학재단, 산재 발생하고도 위험성평가 부실 운영… 감사서 적발",
+   "summary": "포함해 사고보고를 했지만 이후 정기 위험성 평가 결과 보고 시엔 해당 수시 위험성평가의 결과와 그... 특히 재단의 안전 관리 및 책임이 있는 부서는 안전작업 프로그램 운영계획 등을 통해 보유 사업장으로 명시하고...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251700",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251700",
+   "source": "안전신문",
+   "published": "2026-11-20T15:16+09:00",
+   "cat": "acc",
+   "id": "97399cab32f2",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "이지에이아이, 중소기업 혁신대전 장관상 수상… 제조현장 AX 안전 성과...",
+   "summary": "혁신대전'에서 스마트제조혁신 생태계 활성화 부문 장관상을 수상했다고 20일 밝혔다. 이지에이아이는... 이지에이아이의 AI 안전관리 솔루션은 시각언어모델(VLM) 기술을 기반으로 제조·산업 현장의 공정 상황과 위험...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003484031?sid=105",
+   "orig": "https://www.khan.co.kr/article/202611201515018",
+   "source": "경향신문",
+   "published": "2026-11-20T15:15+09:00",
+   "cat": "tech",
+   "id": "ac3c9f5d1a6d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "부천 아파트 주차장 캐노피 교체하다 추락 50대, 하루 만에 숨져",
+   "summary": "김기현 이시명 기자 = 경기 부천시 한 아파트 지하 주차장 캐노피를 교체하려다 4~5m 높이에서 추락해 의식 불명 상태에 빠졌던 50대 남성 근로자가 하루 만에 숨졌다. 20일 부천원미경찰서에 따르면 A 씨는 전날(19일)...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009301620?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6361067",
+   "source": "뉴스1",
+   "published": "2026-11-20T15:11+09:00",
+   "cat": "sev",
+   "id": "79fa8c02eabf",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "점검 한 달 만에 또 걸렸다…추락방지 안 한 건설현장 사법처리",
+   "summary": "추락사고 예방조치가 제대로 이뤄졌는지 확인했습니다. 점검 결과 이 현장은 작업구역 안에 의자만 둔 형태로... 노동부는 산재 예방 여력이 상대적으로 부족한 중·소규모 건설현장을 중심으로 불시점검을 강화할...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000544971?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000347858?division=NAVER",
+   "source": "SBS",
+   "published": "2026-11-20T15:09+09:00",
+   "cat": "acc",
+   "id": "aa33a686d44c",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "홍지선 국토장관 \"도로 살얼음 예방 중요\"…새벽 결빙 대비",
+   "summary": "건설안전 분야에서는 \"지반 동결작용 영향, 가설시설 전도 방지, 레미콘 품질 확보 등 동절기 위험 요인을 철저히 점검\"하라고 지시하면서 \"사망사고 발생 건설사가 시공중인 현장에서 또다시 중대재해가 발생하지 않도록...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004212130?sid=101",
+   "orig": "https://www.nocutnews.co.kr/news/6610222?utm_source=naver&utm_medium=article&utm_campaign=20261120150614",
+   "source": "노컷뉴스",
+   "published": "2026-11-20T15:07+09:00",
+   "cat": "law",
+   "id": "43bf87c6f5e9",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "삼성바이오로직스 등 3곳, 근로자 건강증진 우수사업장 선정",
+   "summary": "/사진 = 안전보건공단 인천광역본부 제공 수도권 3개 사업장이 근로자의 신체 건강과 직무스트레스 예방을... 체계적인 모니터링이 필요하다\"며 \"이러한 우수사례가 인천권역 내 산업현장으로 확산되기를 기대한다\"고 밝혔다.",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251701",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251701",
+   "source": "안전신문",
+   "published": "2026-11-20T15:06+09:00",
+   "cat": "tech",
+   "id": "69b8babaef1d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[단독] '무면허 지게차 사고' 블랙박스 보니…작업 6초 만에 참변",
+   "summary": "업체 사무실을 압수수색하는 등 수사를 진행하고 있다. 노동 당국도 중대재해처벌법·산업안전보건법 위반 여부에 대해서 조사하고 있다. 김씨 유가족은 최근 근로복지공단에 사망사고에 따른 산업재해 보상을 신청했다.",
+   "url": "https://n.news.naver.com/mnews/article/079/0004212123?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6610211?utm_source=naver&utm_medium=article&utm_campaign=20261120150014",
+   "source": "노컷뉴스",
+   "published": "2026-11-20T15:01+09:00",
+   "cat": "acc",
+   "id": "b242560ccbca",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "건설현장 안전과 시공 품질 높인 숨은 주역들…건설기능인 유공자 포상",
+   "summary": "국토교통부, 고용노동부, 건설근로자공제회가 건설기능인의 사회적 위상을 높이고 건설산업 발전에 기여한... 철탑산업훈장은 26년간 배관공으로 근무하며 건설현장 안전관리와 시공 품질 향상에 기여한 박천수(56)씨가...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003157729?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1717689/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-20T15:01+09:00",
+   "cat": "law",
+   "id": "e48cb4d5e067",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "런던베이글뮤지엄 운영사 LBM, 인사·안전관리 체계 강화…근로환경 개...",
+   "summary": "설비와 작업 환경을 확인하고 있다. 정기적인 현장 점검과 일상적인 자체 점검을 병행해 사고 예방에 초점을... 업무 중 발생할 수 있는 부상에 대비해 단체상해보험도 운영한다. 산업재해가 발생하면 치료와 보상 절차가...",
+   "url": "https://theviewers.co.kr/View.aspx?No=4322385",
+   "orig": "https://theviewers.co.kr/View.aspx?No=4322385",
+   "source": "theviewers.co.kr",
+   "published": "2026-11-20T15:00+09:00",
+   "cat": "tech",
+   "id": "9f3abefa2462",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "“안전디자인으로 산업 재해 막는다”…작업환경 바꿔 사고 예방",
+   "summary": "이번 연구에서는 산업안전디자인 프레임워크를 수립하고 사고유형별 개발과제 중 중점 추진과제 30개를 선정해 체계적인 연구개발과 현장 확산을 위한 기반을 마련했다. 강윤주 한국디자인진흥원 원장은 “작업자가...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004684400?sid=101",
+   "orig": "https://www.sedaily.com/article/20116967?ref=naver",
+   "source": "서울경제",
+   "published": "2026-11-20T14:58+09:00",
+   "cat": "tech",
+   "id": "d4be1ad1035f",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "어촌어항공단, 경남 11개 국가어항 안전시설 정비 완료",
+   "summary": "특히 추락과 충돌 등 사고 위험이 있는 시설을 우선 보수해 어항 이용 과정에서 발생할 수 있는 위험요소를... 어항시설은 어선의 접안과 이동뿐 아니라 작업자와 방문객의 보행 안전에도 영향을 미치는 만큼, 개별 시설의...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506382",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506382",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-20T14:54+09:00",
+   "cat": "law",
+   "id": "98518da1e1e7",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "산단공, 산업재해 막는 디자인의 역할과 성과 조명",
+   "summary": "이번 세미나는 산업재해 예방을 위해 근로자가 위험을 보다 쉽게 인지하고 안전하게 행동할 수 있는 작업환... △㈜디자인와우앤파트너스는 공장 내 차량과 보행자의 충돌 사고를 예방하는 '스마트 기반 충돌사고 예방...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305860",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305860",
+   "source": "투데이에너지",
+   "published": "2026-11-20T14:52+09:00",
+   "cat": "tech",
+   "id": "04e59192ba8b",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "노사발전 경기센터, 계약 만료 '일터 지킴이' 재취업 교육",
    "summary": "노사발전재단 경기중장년내일센터(경기센터)가 한국산업안전보건공단과 20일 경기권 안전한 일터 지킴이 100여 명의 재취업 준비 프로그램 교육을 진행했다. 안전한 일터 지킴이 사업은 산업재해 예방을 위해 현장...",
@@ -145,7 +379,14 @@
    "published": "2026-11-20T14:26+09:00",
    "cat": "law",
    "id": "4d176ffe5478",
-   "related": [],
+   "related": [
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000652371?sid=101",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090198.html",
+     "title": "홍지선 국토장관 \"도로살얼음 예방 최우선…비상대응체계 확립\""
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -197,7 +438,26 @@
    "published": "2026-11-20T14:17+09:00",
    "cat": "sev",
    "id": "dc2eef5ea496",
-   "related": [],
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016454681?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261120115800004?input=1195m",
+     "title": "서울 강변북로서 방음벽 작업하던 40대 남성 추락사"
+    },
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001536972?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6867288_36918.html",
+     "title": "서울 강변북로 방음벽 보수 작업 중 40대 남성 추락사"
+    },
+    {
+     "source": "파이낸셜뉴스",
+     "url": "https://n.news.naver.com/mnews/article/014/0005607483?sid=102",
+     "orig": "https://www.fnnews.com/news/202611201511478043",
+     "title": "강변북로 방음벽 보수하던 40대 작업자 추락해 사망"
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -768,6 +1028,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014335912?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261120_0003876816",
      "title": "울산항만공사 \"AI 기반, 건설 현장 안전관리 강화\""
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7194976",
+     "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7194976",
+     "title": "울산항만공사, AI 안전 관리 확대…건설 현장 위험 요인 사전 대응"
     }
    ],
    "day": "2026-11-20",
@@ -902,7 +1168,14 @@
    "published": "2026-11-20T10:28+09:00",
    "cat": "tech",
    "id": "72d5660b2be1",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스클레임",
+     "url": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083591",
+     "orig": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3083591",
+     "title": "HS화성 건설안전 역량 입증… 안전관리 평가 'SA1' 획득"
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
