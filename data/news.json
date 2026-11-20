@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T01:00+09:00",
+ "updatedAt": "2026-11-21T08:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,42 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "e7eedab6d77d",
+   "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
+   "source": "한스경제",
+   "cat": "hlt",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
+   "id": "684675cef34e",
+   "title": "경부선 화물 탈선 사고... 천안~전의 전차선 단전에 열차 운행 차질",
+   "url": "https://www.insight.co.kr/news/582991",
+   "source": "인사이트",
+   "cat": "acc",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
+   "id": "aedde5620fd3",
+   "title": "노동당국·경찰, 환경미화원 사망 '청주시 책임 규명' 수사 본격화",
+   "url": "https://n.news.naver.com/mnews/article/421/0009302353?sid=102",
+   "source": "뉴스1",
+   "cat": "sev",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
+   "id": "a4042db133b1",
+   "title": "안전상비약 확대 토론회 이후 절차는…약사회 “협의 요청 없어”",
+   "url": "https://www.kukinews.com/article/view/kuk202611200191",
+   "source": "쿠키뉴스",
+   "cat": "law",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
    "id": "74592c50dd0a",
    "title": "한국조폐공사 ID본부, 노사 합동 지역 상생 안전망 구축",
    "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418151",
@@ -32,18 +68,100 @@
    "cat": "tech",
    "day": "2026-11-21",
    "count": 1
-  },
-  {
-   "id": "4c05fd50fc93",
-   "title": "현대차 공급망서 밀려난 하청노동자…고용도 임금도 원청 결정에 흔들렸...",
-   "url": "https://www.hinews.co.kr/view.php?ud=202611210014086927cd8b879b3c_48",
-   "source": "hinews.co.kr",
-   "cat": "tech",
-   "day": "2026-11-21",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
+   "summary": "보건 분야 186억 원, 공공질서 및 안전 분야 47억 원도 포함됐다. 시민 체감형 사업인 바로빨리사업과 생기활력사업에는 전년보다 5.9% 늘어난 156억 원을 편성했다. 지역경제 활성화를 위해 산업·중소기업 및 에너지...",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
+   "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
+   "source": "한스경제",
+   "published": "2026-11-21T08:26+09:00",
+   "cat": "hlt",
+   "id": "e7eedab6d77d",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "화순전남대병원 전라남도환경보건센터, 화순군과 환경보건 안전망 구축...",
+   "summary": "화순전남대학교병원 전라남도환경보건센터가 화순군 미래산업실과 석탄산업전환지역 환경보건 안전망 구축을 위한 업무협약을 체결했다고 20일 밝혔다. 이번 협약은 화순군 동면 폐석탄광산지역 주민의 환경유해인자...",
+   "url": "https://www.medigatenews.com/news/2544563564",
+   "orig": "https://www.medigatenews.com/news/2544563564",
+   "source": "medigatenews.com",
+   "published": "2026-11-21T08:12+09:00",
+   "cat": "hlt",
+   "id": "f17570c83d73",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "환경공단, 노사·협력사 함께 '위험요인 선제 발굴'…현장 중심 안전관...",
+   "summary": "추락·끼임·질식 등 중대재해 위험요인과 폭설·한파·화재 등 겨울철 재난요인을 선제적으로 점검하고 도급... 사업장에서 발견한 위험요인을 사진으로 제보하도록 해 실제 작업자가 체감하는 위험요소를 안전관리 개선과...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205324",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205324",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-21T08:08+09:00",
+   "cat": "hlt",
+   "id": "1ee1e44edc5a",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "경부선 화물 탈선 사고... 천안~전의 전차선 단전에 열차 운행 차질",
+   "summary": "정차한 이후 관제 지시를 받고 대기 중인 상황이다. 코레일은 현장에 초기대응팀을 급파하고 기중기 등 복구 장비를 투입해 선로 복구 작업에 착수했다. 아울러 정확한 사고 경위를 파악하기 위한 조사도 진행 중이다.",
+   "url": "https://www.insight.co.kr/news/582991",
+   "orig": "https://www.insight.co.kr/news/582991",
+   "source": "인사이트",
+   "published": "2026-11-21T07:34+09:00",
+   "cat": "acc",
+   "id": "684675cef34e",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "노동당국·경찰, 환경미화원 사망 '청주시 책임 규명' 수사 본격화",
+   "summary": "충북 청주 환경미화원 사망사고와 관련해 노동 당국과 경찰이 청주시의 안전관리 책임을 규명하기 위한 수사에 본격 착수했다. 21일 고용노동부 등에 따르면 청주고용노동부 중대재해수사과는 청주시와 청원구청...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009302353?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6361141",
+   "source": "뉴스1",
+   "published": "2026-11-21T07:00+09:00",
+   "cat": "sev",
+   "id": "aedde5620fd3",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "안전상비약 확대 토론회 이후 절차는…약사회 “협의 요청 없어”",
+   "summary": "현행 약사법 시행규칙 제19조는 보건복지부 장관이 안전상비의약품을 지정·고시할 때 보건의료·약사 분야 전문가와 공익 대표 등의 의견을 들을 수 있다고 규정한다. 전문가 의견 청취를 의무화하거나 별도 심의위원회...",
+   "url": "https://www.kukinews.com/article/view/kuk202611200191",
+   "orig": "https://www.kukinews.com/article/view/kuk202611200191",
+   "source": "쿠키뉴스",
+   "published": "2026-11-21T06:02+09:00",
+   "cat": "law",
+   "id": "a4042db133b1",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "'자격증 없어도 된다고?' 방치된 자유업…붕괴된 필라테스 시장 민낯",
+   "summary": "피트니스 산업의 생존 해법을 2회에 걸쳐 진단한다. 한때 대한민국 피트니스 시장을 집어삼킬 듯 팽창하던... 관리나 안전 감독을 피해 가는 구조가 생기기도 한다\"며 \"장기적으로는 이런 분야도 제도권 안에서 관리할 수...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004212303?sid=103",
+   "orig": "https://www.nocutnews.co.kr/news/6607242?utm_source=naver&utm_medium=article&utm_campaign=20261121060021",
+   "source": "노컷뉴스",
+   "published": "2026-11-21T06:01+09:00",
+   "cat": "acc",
+   "id": "9726766784c6",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "한국조폐공사 ID본부, 노사 합동 지역 상생 안전망 구축",
    "summary": "지역사회 안전망 구축의 모범 사례를 선보였다. 단순한 일회성 물품 기부를 넘어 노사 간의 화합, 유관기관과의 전문적인 협업, 그리고 임직원들의 자발적 참여가 어우러진 현장 중심의 ESG(환경·사회·지배구조) 경영...",
@@ -135,6 +253,12 @@
      "url": "https://n.news.naver.com/mnews/article/022/0004176886?sid=102",
      "orig": "https://www.segye.com/newsView/20261120515303?OutUrl=naver",
      "title": "새만금수목원 공사 현장서 60대 노동자 추락사"
+    },
+    {
+     "source": "jbsori.com",
+     "url": "http://www.jbsori.com/news/articleView.html?idxno=18229",
+     "orig": "http://www.jbsori.com/news/articleView.html?idxno=18229",
+     "title": "국립새만금수목원 공사 현장서 60대 노동자 5m 높이 '추락사'"
     }
    ],
    "day": "2026-11-20",
