@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T10:52+09:00",
+ "updatedAt": "2026-11-20T11:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,24 @@
    "count": 4
   },
   {
+   "id": "42c0b0faa218",
+   "title": "김영훈 장관, 중소 건설현장 불시점검… \"안전조치 개선될 때까지 확인...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251694",
+   "source": "안전신문",
+   "cat": "law",
+   "day": "2026-11-20",
+   "count": 2
+  },
+  {
+   "id": "d4a73e4cb206",
+   "title": "코레일관광네트웍스, 광역사업 관리감독자 128명 안전교육 실시",
+   "url": "https://www.handmk.com/news/articleView.html?idxno=45283",
+   "source": "handmk.com",
+   "cat": "law",
+   "day": "2026-11-20",
+   "count": 2
+  },
+  {
    "id": "bd672c2156e7",
    "title": "서천군, 관리감독자 산업안전 체험교육 실시",
    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758010",
@@ -50,18 +68,185 @@
    "cat": "law",
    "day": "2026-11-20",
    "count": 2
-  },
-  {
-   "id": "8b8f7d2d6ea4",
-   "title": "남양주에서 전기 작업하던 60대 남성 추락해 숨져",
-   "url": "https://n.news.naver.com/mnews/article/001/0016453424?sid=102",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-11-20",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "\"겨울철 산재 없도록\"…노동장관, 서대문구 공사현장 불시 방문",
+   "summary": "이번 점검은 겨울철을 앞두고 건설현장의 한파 대비 노동자 보호조치와 추락 등 주요 사고위험에 대한... 우선 휴게시설이 작업구역 내 의자만 둔 형태로 운영되고 있어, 한파 시 충분한 휴식이 어려운 점이 확인됐다. 이에...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014335453?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261120_0003876601",
+   "source": "뉴시스",
+   "published": "2026-11-20T11:46+09:00",
+   "cat": "law",
+   "id": "abbabe947d3e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "노동장관, 건설현장 불시 점검…한파쉼터 없고 추락방지 부실",
+   "summary": "추락사고에 대비한 안전 점검을 실시했다. 김 장관은 한 종교시설 신축공사 현장을 찾아 '한파 안전 5대 기본수칙'을 이행했는지와 작업발판·안전난간 등 추락 방지 조치를 했는지 집중적으로 확인했다고 노동부는 전했다....",
+   "url": "https://n.news.naver.com/mnews/article/001/0016454153?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261120081800530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-20T11:42+09:00",
+   "cat": "acc",
+   "id": "3af7e539e64d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "알콜중독 참전용사의 자식으로 사는 법 25: 잘하자? 군대라는 이상한 세...",
+   "summary": "큰 사고 없이 비교적 무난하게 군 생활을 마친 나도 이 정도인데, 전쟁터를 누비다 오신 아버지는 그 기억에... 아침 일과를 시작하며 작업자를 뽑을 때 주저 없이 손을 들어 지원함으로써 절대 고참 선까지 차례가 넘어가지...",
+   "url": "http://www.ddanzi.com/899243185",
+   "orig": "http://www.ddanzi.com/899243185",
+   "source": "ddanzi.com",
+   "published": "2026-11-20T11:30+09:00",
+   "cat": "hlt",
+   "id": "373e9e40fd45",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "김영훈 장관, 중소 건설현장 불시점검… \"안전조치 개선될 때까지 확인...",
+   "summary": "주요 사고 위험을 직접 점검하고 미흡한 안전조치에 대한 즉각적인 개선을 지시했다. 특히 중·소규모... 이날 김 장관은 종교시설 신축공사 현장을 사전 예고 없이 방문해 한파 안전 5대 기본수칙 이행 여부와 작업발판...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251694",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251694",
+   "source": "안전신문",
+   "published": "2026-11-20T11:20+09:00",
+   "cat": "law",
+   "id": "42c0b0faa218",
+   "related": [
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261120000529",
+     "orig": "https://www.newspim.com/news/view/20261120000529",
+     "title": "김영훈 노동부 장관, 건설현장 한파 안전조치 불시 점검"
+    }
+   ],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "부평구시설관리공단, 스마트 화재안전 시스템에 자연재난 감시 기능 연...",
+   "summary": "새로운 시스템에는 태양광 자가발전과 사물인터넷 기반 전용 무선통신 기술도 적용됐다. 별도의 전원선과... 공단은 이번에 구축한 자연재난 감지체계를 기존 스마트 화재안전 통합관리 시스템과 함께 운영할 계획이다....",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=659170",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=659170",
+   "source": "경인매일",
+   "published": "2026-11-20T11:20+09:00",
+   "cat": "tech",
+   "id": "786eff20db20",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "역대 최대 IPO 성공한 앤트로픽, 개발 속도 조절 약속…\"돈보다 AI 안전...",
+   "summary": "[사진: Reve AI] 다리오 아모데이(Dario Amodei) 앤트로픽 최고경영자(CEO)가 기업공개(IPO) 첫날 인공지능(AI) 개발 과정에서 안전을 최우선으로 삼겠다는 방침을 재확인했다. 그는 사업적·정치적 압력에 굴하지 않고 AI...",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716980",
+   "orig": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=716980",
+   "source": "digitaltoday.co.kr",
+   "published": "2026-11-20T11:10+09:00",
+   "cat": "tech",
+   "id": "c040afea0025",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한파 쉼터엔 의자만, 계단엔 난간도 없어…노동장관, 서대문 공사장 불...",
+   "summary": "노동부는 즉시 재감독에 착수해 산업안전보건법 위반 사항을 사법처리했다. 노동부는 내년 3월 15일까지... 한파 안전수칙을 사업주의 보건조치로 의무화하는 규칙 개정도 추진한다. 김 장관은 “특히 산재 예방 여력이...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002726198?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10943850?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-20T11:06+09:00",
+   "cat": "law",
+   "id": "78c3a1e1d30d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "넥스브이 'JIQ', AI로 근로자 위험 신호 분석… 스마트워치 기반 산재예...",
+   "summary": "단순히 스마트워치 데이터를 표시하는 서비스가 아니라, AI가 근로자의 상태와 주변 환경을 함께 분석해 위험 대응을 지원하는 솔루션\"이라며 \"실제 작업환경에서 기술을 검증하고 개인별 특성을 반영한 안전관리...",
+   "url": "https://www.itbiznews.com/news/articleView.html?idxno=232238",
+   "orig": "https://www.itbiznews.com/news/articleView.html?idxno=232238",
+   "source": "itbiznews.com",
+   "published": "2026-11-20T11:06+09:00",
+   "cat": "tech",
+   "id": "66fdae43b4f2",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "고용노동부, '노동시장 이중구조 개선반' 1차 회의 개최",
+   "summary": "노동부는 노동시장에서도 기업 규모와 고용 형태 등에 따라 임금·복지·안전 등 노동조건에 차이가 있다고... 개선반은 고용·노동정책뿐 아니라 이중구조의 근본 원인인 산업구조·거래관행 등과 관련한 정책도 함께...",
+   "url": "https://n.news.naver.com/mnews/article/448/0000652306?sid=102",
+   "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090134.html",
+   "source": "TV조선",
+   "published": "2026-11-20T11:03+09:00",
+   "cat": "law",
+   "id": "9840fc145dcf",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "\"반도체 호황, 딴 나라 얘기\" 3~4개월 '쪼개기 계약'에 갇힌 물류 노동자...",
+   "summary": "④ 웨이퍼 물류 작업자 신승희·오신봉 \"반도체 호황은 딴 나라 얘기.\" 삼성전자 화성공장 클린룸... 그래도 1년에 물류 사고는 네다섯 건씩 난다. 풉 박스를 실수로 강하게 내려놓거나, 화물차를 운전하다 급제동하는...",
+   "url": "https://n.news.naver.com/mnews/article/002/0002466794?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026111709134068645?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-11-20T10:59+09:00",
+   "cat": "hlt",
+   "id": "1b2bb5c9cab8",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "기후변화재단, 기후재난·위험 기업 대응 관리 논의",
+   "summary": "포스코홀딩스 경영전략실 리더는 태풍 힌남노 당시 포스코의 피해와 대응 경험을 공유하고, 사업장 특성과 기존 적응 노력을 반영한 신뢰도 높은 기후위험 평가의 필요성을 강조했다. 이어 강민지 삼성화재 기업안전연구...",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305838",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305838",
+   "source": "투데이에너지",
+   "published": "2026-11-20T10:56+09:00",
+   "cat": "acc",
+   "id": "0e6f94358e60",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, 인공지능(AI) 기반 건설현장 안전관리 확대",
+   "summary": "▲ 울산항만공사는 건설현장의 위험요인을 사전에 파악하고 산업재해를 예방하기 위해 인공지능(AI) 기반의 안전관리 기술을 확대 도입한다 울산항만공사(UPA, 사장 변재영)는 건설현장의 위험요인을 사전에 파악하고...",
+   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
+   "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
+   "source": "경상일보",
+   "published": "2026-11-20T10:56+09:00",
+   "cat": "tech",
+   "id": "6d7233b46e8d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, AI CCTV·안전모·위험성평가 잇는 현장 안전망 완성",
+   "summary": "울산항만공사(UPA)가 인공지능(AI) 기반 스마트 안전관리 체계를 단계적으로 확대하며 건설현장 사고 예방에 나섰다. 20일 UPA에 따르면 AI 감시 카메라와 AI 안전모에 이어 이동식 AI 카메라 및 AI 위험성평가까지 도입해...",
+   "url": "https://www.betanews.net/article/view/beta202611200090",
+   "orig": "https://www.betanews.net/article/view/beta202611200090",
+   "source": "betanews.net",
+   "published": "2026-11-20T10:54+09:00",
+   "cat": "tech",
+   "id": "0c7b09410e1e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "\"동료 마음도 지킨다\"···한수원, 원전 안전 범위 넓힌다",
    "summary": "한수원은 이번 제도를 통해 기존 설비와 절차 중심의 안전관리를 넘어 임직원의 정신건강까지 고려하는 '포용적 안전 경영'을 강화한다는 방침이다. 앞으로도 현장 중심의 심리 지원 체계를 확대하고, 직원들이 서로를...",
@@ -149,7 +334,14 @@
    "published": "2026-11-20T10:28+09:00",
    "cat": "law",
    "id": "d4a73e4cb206",
-   "related": [],
+   "related": [
+    {
+     "source": "에너지경제",
+     "url": "https://www.ekn.kr/web/view.php?key=20261120028362491",
+     "orig": "https://www.ekn.kr/web/view.php?key=20261120028362491",
+     "title": "코레일관광네트웍스, ‘2026년도 광역사업 영업직 관리감독자 교육’ 진..."
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
