@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T17:52+09:00",
+ "updatedAt": "2026-11-20T18:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,16 @@
    "source": "매일경제",
    "cat": "sev",
    "day": "2026-11-20",
-   "count": 6
+   "count": 7
+  },
+  {
+   "id": "71a3b9032896",
+   "title": "국토부, 겨울철 교통·건설현장 안전 점검",
+   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421021",
+   "source": "bizwork.co.kr",
+   "cat": "law",
+   "day": "2026-11-20",
+   "count": 5
   },
   {
    "id": "d02880e3b7d0",
@@ -52,15 +61,6 @@
    "count": 5
   },
   {
-   "id": "71a3b9032896",
-   "title": "국토부, 겨울철 교통·건설현장 안전 점검",
-   "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421021",
-   "source": "bizwork.co.kr",
-   "cat": "law",
-   "day": "2026-11-20",
-   "count": 4
-  },
-  {
    "id": "6d7233b46e8d",
    "title": "울산항만공사, 인공지능(AI) 기반 건설현장 안전관리 확대",
    "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073158",
@@ -71,6 +71,58 @@
   }
  ],
  "articles": [
+  {
+   "title": "오썸피아 ‘그리드맵 AI’ 특허 확보…공공안전·재난 관제 시장 진출",
+   "summary": "공간 인공지능(AI) 전문 기업 오썸피아(대표 민문호)가 기존 지능형 관광 플랫폼을 넘어 공공안전 및 재난... 지난 6월 등록된 특허는 하나의 장비로 관광 안내와 재난 감시를 겸하는 융합형 기술이다. 스마트 관제 장비...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000133067?sid=101",
+   "orig": "https://www.kyeonggi.com/article/20261120580281",
+   "source": "kyeonggi.com",
+   "published": "2026-11-20T18:45+09:00",
+   "cat": "tech",
+   "id": "12142db9c472",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "가스안전公, 신규채용 66% 늘렸다…'좋은 일자리 대상' 장관상",
+   "summary": "질과 산업 생태계 확장'으로 넓혔다는 점에서 의미가 있다. 한국가스안전공사(사장 박경국)는 20일 '2026 좋은 일자리 대상'에서 고용노동부 장관상을 수상했다고 밝혔다. '좋은 일자리 대상'은 경제사회노동위원회와...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205321",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205321",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-20T18:12+09:00",
+   "cat": "law",
+   "id": "22fa2fe6190e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "소주 2병 마시고 30㎞ 운전…미화원 치어 숨지게 한 50대 송치",
+   "summary": "술을 마시고 운전하다 도로에서 작업 중이던 환경미화원을 치어 숨지게 한 뒤 달아난 50대 여성이 구속... 사고 당시 환경미화원은 형광색 우의를 입고 어깨에는 불빛이 나오는 장비를 착용해 운전자가 식별할 수 있는...",
+   "url": "https://n.news.naver.com/mnews/article/057/0001979160?sid=102",
+   "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5232084",
+   "source": "매일경제",
+   "published": "2026-11-20T18:04+09:00",
+   "cat": "sev",
+   "id": "aa571d5fa3a4",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "평창 변전소서 작업하던 20대 고압선에 감전…병원 이송",
+   "summary": "20일 오전 10시 4분쯤 강원 평창 대관령면 용산리의 한 변전소에서 전기 작업 중이던 A 씨(29)가 2만 2000V 고압 전기에 감전됐다. 이 사고로 A 씨가 왼쪽 팔 전체에 2~3도, 얼굴에 1도 화상을 입어 소방헬기를 통해...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009302045?sid=102",
+   "orig": "https://www.news1.kr/local/kangwon/6361348",
+   "source": "뉴스1",
+   "published": "2026-11-20T17:56+09:00",
+   "cat": "acc",
+   "id": "334f52599b4d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "쓰레기를 막던 부표, 해수욕장의 안전선으로…비욘드오션 이종택 대표",
    "summary": "2026년 4월 부산시설공단과 협력해 과거 익사사고가 발생했던 구간에 설치한 코키퍼는 접근을 제한하는... 쓰레기가 쌓인 상태를 제때 파악하지 못하면 수거작업이 늦어질 수 있고, 로프나 연결부에 과도한 하중이 걸릴...",
@@ -694,6 +746,12 @@
      "url": "https://n.news.naver.com/mnews/article/001/0016454954?sid=102",
      "orig": "https://www.yna.co.kr/view/AKR20261120132500065?input=1195m",
      "title": "아파트 주차장 지붕서 추락한 50대 노동자, 하루 만에 숨져"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002435830?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0103_202611201803457129",
+     "title": "아파트 지하주차장 지붕 교체하다 추락한 50대, 하루 만에 사망"
     }
    ],
    "day": "2026-11-20",
@@ -891,7 +949,14 @@
    "published": "2026-11-20T14:30+09:00",
    "cat": "acc",
    "id": "bf6f87bea329",
-   "related": [],
+   "related": [
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1427571",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1427571",
+     "title": "조폐공사 ID본부 노사, 대전 송강전통시장에 소방안전키트 기부"
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -999,6 +1064,12 @@
      "url": "https://n.news.naver.com/mnews/article/055/0001404566?sid=102",
      "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008856049&plink=ORI&cooper=NAVER",
      "title": "서울 강변북로서 방음벽 작업자 1.8m 아래 추락…40대 남성 사망"
+    },
+    {
+     "source": "TV조선",
+     "url": "https://n.news.naver.com/mnews/article/448/0000652410?sid=102",
+     "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/20/2026112090237.html",
+     "title": "서울 강변북로서 방음벽 보수 작업자 추락해 숨져"
     }
    ],
    "day": "2026-11-20",
@@ -1194,6 +1265,12 @@
      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251698",
      "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251698",
      "title": "국토부, 소속·산하기관 겨울철 교통·건설안전 점검"
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=344600",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=344600",
+     "title": "홍지선 국토부 장관, \"겨울철 교통·건설현장 안전관리 강화… 비상대응..."
     }
    ],
    "day": "2026-11-20",
