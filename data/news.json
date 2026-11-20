@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T09:53+09:00",
+ "updatedAt": "2026-11-20T10:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "fe2e7eb0d96d",
+   "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
+   "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
+   "source": "뉴스1",
+   "cat": "sev",
+   "day": "2026-11-20",
+   "count": 5
+  },
+  {
    "id": "d02880e3b7d0",
    "title": "브이피케이, '2026 스마트건설·안전·AI 엑스포' 참가",
    "url": "https://www.gokorea.kr/news/articleView.html?idxno=886417",
@@ -34,43 +43,266 @@
    "count": 4
   },
   {
-   "id": "fe2e7eb0d96d",
-   "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
-   "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
-   "source": "뉴스1",
-   "cat": "sev",
-   "day": "2026-11-20",
-   "count": 3
-  },
-  {
-   "id": "81880304fbdd",
-   "title": "의료기술 재평가 대상 선정 기준 구체화…안전성·유효성 검토 강화",
-   "url": "http://www.whosaeng.com/175478",
-   "source": "whosaeng.com",
+   "id": "bd672c2156e7",
+   "title": "서천군, 관리감독자 산업안전 체험교육 실시",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758010",
+   "source": "국제뉴스",
    "cat": "law",
    "day": "2026-11-20",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "a057904977f0",
-   "title": "[종국적 산재 가이드] 폐질환 산재보상, 흡연력보다 중요한 업무관련성",
-   "url": "http://www.newsprime.co.kr/news/article.html?no=755773",
-   "source": "프라임경제",
-   "cat": "hlt",
+   "id": "8b8f7d2d6ea4",
+   "title": "남양주에서 전기 작업하던 60대 남성 추락해 숨져",
+   "url": "https://n.news.naver.com/mnews/article/001/0016453424?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
    "day": "2026-11-20",
-   "count": 1
-  },
-  {
-   "id": "f292b3b5163c",
-   "title": "남양주 도로 전신주 작업 중 60대, 2m 높이서 추락사",
-   "url": "https://n.news.naver.com/mnews/article/028/0002833147?sid=102",
-   "source": "한겨레",
-   "cat": "acc",
-   "day": "2026-11-20",
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "\"동료 마음도 지킨다\"···한수원, 원전 안전 범위 넓힌다",
+   "summary": "한수원은 이번 제도를 통해 기존 설비와 절차 중심의 안전관리를 넘어 임직원의 정신건강까지 고려하는 '포용적 안전 경영'을 강화한다는 방침이다. 앞으로도 현장 중심의 심리 지원 체계를 확대하고, 직원들이 서로를...",
+   "url": "https://www.enetnews.co.kr/news/articleView.html?idxno=56611",
+   "orig": "https://www.enetnews.co.kr/news/articleView.html?idxno=56611",
+   "source": "enetnews.co.kr",
+   "published": "2026-11-20T10:46+09:00",
+   "cat": "tech",
+   "id": "e49ec7b7c8bb",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "중부발전, 공정채용·로봇기술로 안전문화 확산 나서",
+   "summary": "한국중부발전이 공정한 채용문화 정착과 첨단 로봇기술을 활용한 산업현장 안전문화 확산에 나서고 있다. 중부발전은 지난 19일 고용노동부가 주관하고 한국산업인력공단이 시행하는 '2026년 채용문화 우수기업 어워즈...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261120024302431",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261120024302431",
+   "source": "에너지경제",
+   "published": "2026-11-20T10:44+09:00",
+   "cat": "law",
+   "id": "4a2e480afa98",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "UPA, 건설현장에 이동식 AI 카메라·AI 위험성평가 도입",
+   "summary": "울산항만공사(사장 변재영, UPA)가 건설 현장의 사고 위험을 줄이기 위해 인공지능(AI) 기반 안전관리 기술을 넓혀간다. UPA는 이달부터 유지보수 사업 일부 현장에 이동식 인공지능 감시 카메라와 인공지능 위험성평가...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003157596?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1717675/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-20T10:44+09:00",
+   "cat": "tech",
+   "id": "16b1755a115e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한국원자력안전기술원·서울문화재단·한국교통안전공단·세종문화회관...",
+   "summary": "문화예술행정 14명과 무대기계·감독 1명, 무대음향 1명, 무대조명 2명을 선발한다. 서류와 면접을 거쳐 최종 합격자를 결정하며 12월 7일 오후 5시까지 지원할 수 있다. 식품안전정보원은 올해 제3차 기간제 직원 34명을...",
+   "url": "https://www.gosiweek.com/article/1065576626627119",
+   "orig": "https://www.gosiweek.com/article/1065576626627119",
+   "source": "gosiweek.com",
+   "published": "2026-11-20T10:40+09:00",
+   "cat": "tech",
+   "id": "11ad419e721f",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "게임문화재단, 지스타 2026 개막일 '국제 게임문화 심포지엄' 개최…6개...",
+   "summary": "비판적 사고력과 윤리적 책임감을 기르는 AI 리터러시 교육이 필수적이라고 역설했다. 강경두 MBI MOVE 아동발달센터 소장은 억제조절과 작업기억, 인지유연성 등 뇌의 실행기능 강화 훈련과 또래 간 사회적 상호작용을...",
+   "url": "http://www.ttlnews.com/news/articleView.html?idxno=3164539",
+   "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3164539",
+   "source": "ttlnews.com",
+   "published": "2026-11-20T10:38+09:00",
+   "cat": "acc",
+   "id": "fd526fbea66d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 서울광역본부, 겨울철 배달노동자 안전운행 지원",
+   "summary": "/안전보건공단 서울광역본부 제공 눈길과 빙판길 등 겨울철 도로 위험에 노출되는 이륜차 배달노동자들을 위해 안전수칙을 알리고 방한용품을 지원하는 캠페인이 진행된다. 안전보건공단 서울광역본부(본부장 원방희)는...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251692",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251692",
+   "source": "안전신문",
+   "published": "2026-11-20T10:32+09:00",
+   "cat": "tech",
+   "id": "2990f405271a",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "코레일관광네트웍스, 광역사업 관리감독자 128명 안전교육 실시",
+   "summary": "광역철도 담당자 123명과 광역철도기동팀 소속 5명을 대상으로 고용노동부 지정 외부 전문교육기관 강사가 교육을 맡았다. 교육은 관리감독자의 산업안전보건 관리 역량을 높이는 데 초점을 맞췄다. 주요 내용은...",
+   "url": "https://www.handmk.com/news/articleView.html?idxno=45283",
+   "orig": "https://www.handmk.com/news/articleView.html?idxno=45283",
+   "source": "handmk.com",
+   "published": "2026-11-20T10:28+09:00",
+   "cat": "law",
+   "id": "d4a73e4cb206",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "HS화성, 건설안전관리 평가 최고 등급 'SA1' 취득… 총점 1,000점 만점에...",
+   "summary": "HS화성이 대외 전문 평가기관으로부터 건설안전관리 역량 최고 등급을 획득하며 수주 경쟁력과 안전 경영 성과를 동시에 인정받았습니다. HS화성은 기업신용평가 및 적격업체 전문 평가기관인 나이스디앤비로부터...",
+   "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119786",
+   "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4119786",
+   "source": "bbsi.co.kr",
+   "published": "2026-11-20T10:28+09:00",
+   "cat": "tech",
+   "id": "72d5660b2be1",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "서천군, 관리감독자 산업안전 체험교육 실시",
+   "summary": "교육 과정에서는 산업재해 사례를 바탕으로 추락, 감전, 질식, 화재 등 다양한 사고 상황을 직접 체험하는... 현장에 적용해 위험요인을 사전에 발견하고 개선해, 근로자가 안전하게 일할 수 있는 환경을 만들겠다\"고 말했다.",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758010",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3758010",
+   "source": "국제뉴스",
+   "published": "2026-11-20T10:12+09:00",
+   "cat": "law",
+   "id": "bd672c2156e7",
+   "related": [
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921944",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=921944",
+     "title": "서천군, 관리감독자 113명 산업안전 체험교육 실시"
+    }
+   ],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "임병택 시흥시장, 노동자 한파 안전·청년정책 현장 챙긴다",
+   "summary": "시흥=비욘드포스트 송인호 기자 임병택 시흥시장이 겨울철 산업현장의 한랭질환 예방과 청년정책 점검에... 노동지원과, 고용노동부 안산지청, 안전보건공단 서부지사 관계자 등 40여명이 참여했다. 이들은 사업장과...",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=2026112009503028334c878f8fa1_30",
+   "orig": "http://www.beyondpost.co.kr/view.php?ud=2026112009503028334c878f8fa1_30",
+   "source": "비욘드포스트",
+   "published": "2026-11-20T10:04+09:00",
+   "cat": "law",
+   "id": "740b21325a92",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "국회 기후노동위, 내년 노동부 예산 7164억 순증…특고 지원·AI 커닝 대...",
+   "summary": "내년 신설되는 울산·강원 업무상질병판정위원회와 광주동남부지사에 기관장을 배치하는 데 필요한 인건비 3억5700만원도 별도로 반영했다. 내일배움카드 사업의 하나인 첨단산업·디지털 핵심 실무인재 양성훈련...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002726132?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10943661?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-20T10:02+09:00",
+   "cat": "law",
+   "id": "d51055a29c07",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "오래 서 있는 직업병? 현대인의 다리 건강 위협하는 하지정맥류",
+   "summary": "현대 사회에서 오랜 시간 서서 일하거나 반대로 장시간 앉아서 근무하는 직장인들 사이에서 다리 저림과 부종, 피로감을 호소하는 이들이 늘고 있다. 흔히 단순한 피로 누적으로 치부하기 쉬운 이러한 다리 불편감은...",
+   "url": "https://www.biotimes.co.kr/news/articleView.html?idxno=36330",
+   "orig": "https://www.biotimes.co.kr/news/articleView.html?idxno=36330",
+   "source": "biotimes.co.kr",
+   "published": "2026-11-20T10:00+09:00",
+   "cat": "hlt",
+   "id": "5623b87924c1",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "“모유·탯줄에서부터 검출됐다”…UN이 경고한 화학물질 뭐길래",
+   "summary": "유엔환경계획·셰계보건기구 보고서 호르몬 교란 화학물질 영향력 재평가 식품 포장재·화장품·장난감 속... 셰일라 아가르왈칸 UNEP 산업경제국장은 “제품을 설계하고 만드는 기업은 어떤 화학물질을 쓸지 선택하고...",
+   "url": "https://n.news.naver.com/mnews/article/009/0005766554?sid=103",
+   "orig": "https://www.mk.co.kr/article/12214349",
+   "source": "매일경제",
+   "published": "2026-11-20T10:00+09:00",
+   "cat": "hlt",
+   "id": "4499c3b5b83d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[금주의 시흥시] 제설장비 77대 투입…겨울철 도로 안전관리 강화 外",
+   "summary": "바이오기업 종근당 관계자는 지역 산업구조 변화가 일자리와 교육에 미치는 영향을 주제로 발표할... 현장에는 장곡동 맞춤형복지팀과 장애인복지관, 의료기관, 보건소, 일자리 관련 기관 등이 참여한다. 주민들은...",
+   "url": "https://www.joongboo.com/news/articleView.html?idxno=363742886",
+   "orig": "https://www.joongboo.com/news/articleView.html?idxno=363742886",
+   "source": "중부일보",
+   "published": "2026-11-20T10:00+09:00",
+   "cat": "hlt",
+   "id": "9e218ba9cba7",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "반도체 공장 고3 실습생, 간 이식까지 받았는데 '산재 불인정'",
+   "summary": "없는 화학물질과 역한 냄새 속에서 일했다\"고 회고했다. 이어 \"그렇게 성실하게 일한 결과가 간 이식이라니... 어려웠던 노동자에게 병의 원인까지 혼자 증명하라는 것이 타당한 일이냐\"고 꼬집었다. 이어 \"노동자의...",
+   "url": "https://www.newsworks.co.kr/news/articleView.html?idxno=903780",
+   "orig": "https://www.newsworks.co.kr/news/articleView.html?idxno=903780",
+   "source": "newsworks.co.kr",
+   "published": "2026-11-20T09:56+09:00",
+   "cat": "hlt",
+   "id": "379cc9d0e3e8",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "\"약 겹쳐 먹으면 독\"…건보·의약계 '안전 투약' 머리 맞대",
+   "summary": "국민건강보험공단 서울강원지역본부(본부장 이용구)가 시민들의 안전한 약물 복용과 내년부터 달라지는... 이용구 건보공단 서울강원지역본부장은 \"국민보건 향상과 건강증진을 위해 각계 전문가들의 목소리에 더욱 귀를...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004211972?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6609982?utm_source=naver&utm_medium=article&utm_campaign=20261120095412",
+   "source": "노컷뉴스",
+   "published": "2026-11-20T09:55+09:00",
+   "cat": "tech",
+   "id": "cc0e3115034e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "지하철 2호선 복구 완료...\"사고 열차 안 승객 없었다\" [현장영상+]",
+   "summary": "선로전환기 교체 작업을 시행했습니다. 그래서 최종적으로 08시 44분까지 복구를 완료하고 열차를 출발시켜서 지금 운행이 정상 중에 있습니다. 사고 원인은 정확하게 저희가 사고조사처에서 조사를 해서 발표할...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002435532?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202611200954032543",
+   "source": "YTN",
+   "published": "2026-11-20T09:54+09:00",
+   "cat": "acc",
+   "id": "4e8cbd3306e1",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "시흥시노사민정협의회, 시화스마트허브서 한파 예방 캠페인 실시...노동...",
+   "summary": "겨울철 한파로 인한 산업현장 노동자들의 건강 피해를 예방하기 위해 시흥지역 노·사·민·정이 공동 대응에... 노동지원과, 고용노동부 안산지청, 안전보건공단 서부지사 관계자 등 40여 명이 참여했다. 참여 기관들은...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=659130",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=659130",
+   "source": "경인매일",
+   "published": "2026-11-20T09:52+09:00",
+   "cat": "tech",
+   "id": "0962bd564fcf",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "제지공장 잇단 사망사고…대전노동청 '재발 방지 총력'",
    "summary": "대전고용노동청에 따르면 관내 제지사업장에서는 2019년부터 올해까지 끼임과 추락, 매몰 등으로 인한 사망사고가 잇따라 발생했다. 2019년 4월 충남 서천의 한 제지사업장에서 하청 노동자가 스토퍼에 끼여 숨졌으며...",
@@ -384,6 +616,18 @@
      "url": "https://n.news.naver.com/mnews/article/081/0003701447?sid=102",
      "orig": "https://www.seoul.co.kr/news/society/accident/2026/11/20/20261120500034?wlog_tag3=naver",
      "title": "[속보] “전선 늘어져” 전기 작업하던 60대 추락 사망… 고소작업대가..."
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001404473?sid=102",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008855314&plink=ORI&cooper=NAVER",
+     "title": "남양주서 60대 남성 고소 작업 중 2m 아래로 추락해 사망"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251691",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251691",
+     "title": "남양주서 차량형 고소작업대 전기 작업 노동자 추락 사망"
     }
    ],
    "day": "2026-11-20",
@@ -554,7 +798,14 @@
    "published": "2026-11-20T06:25+09:00",
    "cat": "sev",
    "id": "8b8f7d2d6ea4",
-   "related": [],
+   "related": [
+    {
+     "source": "OBS",
+     "url": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544424",
+     "orig": "https://www.obsnews.co.kr/news/articleView.html?idxno=1544424",
+     "title": "남양주에서 고소 작업하던 60대 남성 추락해 숨져"
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -1676,6 +1927,12 @@
      "url": "http://www.e-platform.net/news/articleView.html?idxno=107148",
      "orig": "http://www.e-platform.net/news/articleView.html?idxno=107148",
      "title": "남부발전, '안전 기본 지키기' 내재화 총력…'전사 안전문화 워크숍' 전..."
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003157593?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1717672/?sc=Naver",
+     "title": "남부발전, '전사 안전문화 워크숍' 개최"
     }
    ],
    "day": "2026-11-19",
@@ -2820,6 +3077,12 @@
      "source": "ujeil.com",
      "url": "http://www.ujeil.com/news/articleView.html?idxno=395587",
      "orig": "http://www.ujeil.com/news/articleView.html?idxno=395587",
+     "title": "한국몰드, 새활용 안전모 '다시쓸모' 도입"
+    },
+    {
+     "source": "eroun.net",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=95957",
+     "orig": "https://www.eroun.net/news/articleView.html?idxno=95957",
      "title": "한국몰드, 새활용 안전모 '다시쓸모' 도입"
     }
    ],
