@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T08:51+09:00",
+ "updatedAt": "2026-11-20T09:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,305 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "d02880e3b7d0",
+   "title": "브이피케이, '2026 스마트건설·안전·AI 엑스포' 참가",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=886417",
+   "source": "gokorea.kr",
+   "cat": "tech",
+   "day": "2026-11-20",
+   "count": 4
+  },
+  {
    "id": "fe2e7eb0d96d",
    "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
    "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
    "source": "뉴스1",
    "cat": "sev",
    "day": "2026-11-20",
-   "count": 2
+   "count": 3
   },
   {
-   "id": "e9e47d22da80",
-   "title": "인남식 “호르무즈 협상으로 트럼프에 노벨평화상 명분 만들어줄 수도”...",
-   "url": "https://n.news.naver.com/mnews/article/308/0000039004?sid=100",
-   "source": "시사IN",
-   "cat": "tech",
+   "id": "81880304fbdd",
+   "title": "의료기술 재평가 대상 선정 기준 구체화…안전성·유효성 검토 강화",
+   "url": "http://www.whosaeng.com/175478",
+   "source": "whosaeng.com",
+   "cat": "law",
    "day": "2026-11-20",
    "count": 1
   },
   {
-   "id": "250b95d1802c",
-   "title": "[기업 상생 성적표 ②] 건설기업들, 협력사와 아름다운 '상생'...현장 안...",
-   "url": "https://www.banronbodo.com/news/articleView.html?idxno=33404",
-   "source": "banronbodo.com",
+   "id": "a057904977f0",
+   "title": "[종국적 산재 가이드] 폐질환 산재보상, 흡연력보다 중요한 업무관련성",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=755773",
+   "source": "프라임경제",
    "cat": "hlt",
    "day": "2026-11-20",
    "count": 1
   },
   {
-   "id": "1816dea6c5cd",
-   "title": "서울 지하철 2호선 성수지선 운행 중단…정지신호 위반·선로전환기 훼...",
-   "url": "https://n.news.naver.com/mnews/article/021/0002834174?sid=102",
-   "source": "문화일보",
+   "id": "f292b3b5163c",
+   "title": "남양주 도로 전신주 작업 중 60대, 2m 높이서 추락사",
+   "url": "https://n.news.naver.com/mnews/article/028/0002833147?sid=102",
+   "source": "한겨레",
    "cat": "acc",
-   "day": "2026-11-20",
-   "count": 1
-  },
-  {
-   "id": "4a34c42e6468",
-   "title": "'영업이익 최대 5%' 산재 과징금에 여론 팽팽... 찬성 46.3% vs 반대 45.2%...",
-   "url": "https://www.meconomynews.com/news/articleView.html?idxno=203882",
-   "source": "meconomynews.com",
-   "cat": "law",
    "day": "2026-11-20",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "제지공장 잇단 사망사고…대전노동청 '재발 방지 총력'",
+   "summary": "대전고용노동청에 따르면 관내 제지사업장에서는 2019년부터 올해까지 끼임과 추락, 매몰 등으로 인한 사망사고가 잇따라 발생했다. 2019년 4월 충남 서천의 한 제지사업장에서 하청 노동자가 스토퍼에 끼여 숨졌으며...",
+   "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=363268",
+   "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=363268",
+   "source": "ccreview.co.kr",
+   "published": "2026-11-20T09:50+09:00",
+   "cat": "sev",
+   "id": "063a749fec45",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[최종국 칼럼] 2027년 혁신바우처·수출바우처, 준비된 중소기업에 기회...",
+   "summary": "노무관리, 산업안전, ISO 인증, ESG 경영, 마케팅, 지식재산권 확보 등 기업 경쟁력 강화를 위해 필요한... 특히 안전보건관리체계 구축이 필요하지만 전문인력과 비용이 부족한 제조 중소기업이라면 중대재해예방...",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=399325",
+   "orig": "https://www.fntoday.co.kr/news/articleView.html?idxno=399325",
+   "source": "fntoday.co.kr",
+   "published": "2026-11-20T09:50+09:00",
+   "cat": "tech",
+   "id": "bcdf176c6827",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "아이파크몰, 이촌119안전센터 환경 개선 일환 '벽화 그리기' 봉사활동 전...",
+   "summary": "사진=IPARK몰 IPARK몰은 아이파크몰의 ESG 경영 방향 중 하나인 지역사회 환경 개선의 일환으로, 서울 용산구 이촌동에 위치한 이촌119안전센터에서 임직원들과 함께 벽화 그리기 봉사활동을 진행했다고 20일 밝혔다....",
+   "url": "http://www.sisacast.kr/news/articleView.html?idxno=102131",
+   "orig": "http://www.sisacast.kr/news/articleView.html?idxno=102131",
+   "source": "sisacast.kr",
+   "published": "2026-11-20T09:48+09:00",
+   "cat": "tech",
+   "id": "e44819530c64",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "연료전지·차량안전 연구 성과…KAIDA, '학술상' 및 '젊은 과학자상'수상...",
+   "summary": "KAIDA는 엄석기 한양대학교 기계공학부 교수와 천서형 LG경영연구원 연구위원이 각각 '제11회 KAIDA 학술상... 한국자동차모빌리티안전학회 추계학술대회'에서 각각 진행됐다. 엄석기 교수는 지난 5월...",
+   "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211733",
+   "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=211733",
+   "source": "lcnews.co.kr",
+   "published": "2026-11-20T09:48+09:00",
+   "cat": "tech",
+   "id": "82efd4257478",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "의료기술 재평가 대상 선정 기준 구체화…안전성·유효성 검토 강화",
+   "summary": "운영지침' 개정안을 고시했다.재평가 대상은 의료법 제53조에 따른 신의료기술평가를 거쳐 안전성과 유효성을... 관계 기관과 단체, 전문가, 일반 국민, 산업계 등 보건의료 관련 다양한 주체를 대상으로 수요조사를 실시해...",
+   "url": "http://www.whosaeng.com/175478",
+   "orig": "http://www.whosaeng.com/175478",
+   "source": "whosaeng.com",
+   "published": "2026-11-20T09:46+09:00",
+   "cat": "law",
+   "id": "81880304fbdd",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "건양대, 산하·수탁기관 통합 안전관리 체계 구축…중대재해 예방",
+   "summary": "중대재해처벌법은 사업주와 경영책임자 등이 안전·보건 확보 의무를 위반해 중대한 인명피해가 발생했을 때 형사처벌 등을 부과함으로써 재해를 예방하고 종사자와 시민의 생명·신체를 보호하기 위해 제정된 법률이다....",
+   "url": "https://n.news.naver.com/mnews/article/421/0009300687?sid=102",
+   "orig": "https://www.news1.kr/local/daejeon-chungnam/6360540",
+   "source": "뉴스1",
+   "published": "2026-11-20T09:40+09:00",
+   "cat": "tech",
+   "id": "84d2ea7cf24e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[위클리오늘] 여수광양항만공사(11.20)",
+   "summary": "이번 캠페인은 공사가 주관하고 여수지방해양수산청과 산업안전보건공단, 광양항만항운노동조합, 항만하역사업자 등 관계기관과 업계가 공동 참여했다. 특히 겨울철 기온 급강하에 따른 항만 작업자의 저체온증과 동상...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=802716",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=802716",
+   "source": "weeklytoday.com",
+   "published": "2026-11-20T09:38+09:00",
+   "cat": "tech",
+   "id": "33b53b062d4d",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "동절기 공동주택 건설현장 안전점검 강화",
+   "summary": "배수작업이 완료됨에 따라 지하 구조물 균열·손상, 노출 철근 부식, 배수 상태 등을 집중적으로 점검했다. 시는 점검 결과에 따라 추가 안전조치를 요청하고 관계기관과 협력해 현장 관리에 나서면서 안전사고 예방에...",
+   "url": "http://www.jeollailbo.com/news/articleView.html?idxno=817328",
+   "orig": "http://www.jeollailbo.com/news/articleView.html?idxno=817328",
+   "source": "jeollailbo.com",
+   "published": "2026-11-20T09:34+09:00",
+   "cat": "tech",
+   "id": "3880361c2534",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "한신공영, 터널 붕락·낙반 방지 특별안전점검 실시",
+   "summary": "전 대표이사는 \"터널 현장은 작은 빈틈이 대형 붕괴사고로 직결될 수 있어 그 여파가 매우 크다.\"며, \"작업 전후 구조적 안전성을 최우선으로 검토하여 안전관리에 빈틈이 없도록 해야 한다.\"고 지시했다. 이어 \"모든...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344539",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344539",
+   "source": "국토일보",
+   "published": "2026-11-20T09:34+09:00",
+   "cat": "tech",
+   "id": "dbc6531e2b87",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[종국적 산재 가이드] 폐질환 산재보상, 흡연력보다 중요한 업무관련성",
+   "summary": "안타깝게 근로자가 산재로 사망하셨을 경우 유족급여와 장례비까지 청구할 수 있다. 폐질환의 발병 원인을 흡연 하나로만 단정할 수는 없다. 특히 오랜 기간 분진이나 발암물질에 노출되는 작업을 수행했다면 흡연력이...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=755773",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=755773",
+   "source": "프라임경제",
+   "published": "2026-11-20T09:24+09:00",
+   "cat": "hlt",
+   "id": "a057904977f0",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "KAIDA, 자동차공학·모빌리티 안전 연구자 시상...\"미래차 기술 인재 지...",
+   "summary": "젊은 과학자상은 LG경영연구원 천서형 연구위원이 선정됐으며, AI 기반 차량 안전기술과 미래 모빌리티 산업 연구를 산업·정책 과제와 연결해온 점을 평가받았습니다. KAIDA는 자동차 산업의 학술·기술 발전과 미래...",
+   "url": "http://www.paxetv.com/news/articleView.html?idxno=287465",
+   "orig": "http://www.paxetv.com/news/articleView.html?idxno=287465",
+   "source": "paxetv.com",
+   "published": "2026-11-20T09:24+09:00",
+   "cat": "tech",
+   "id": "6f01d6d46c2e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "남양주 도로 전신주 작업 중 60대, 2m 높이서 추락사",
+   "summary": "ㄱ씨는 전신주 전기 작업 중 통신선을 피하려다 2m 높이 고소작업대에서 추락한 것으로 파악됐다. 같은날 오후 5시43분께에는 남양주시의 한 금속제조 공장에서 50대 노동자 ㄴ씨가 전선 절단 기계에 손이 끼이는 사고를...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002833147?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/capital/1288272.html",
+   "source": "한겨레",
+   "published": "2026-11-20T09:22+09:00",
+   "cat": "acc",
+   "id": "f292b3b5163c",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "11월 20일 오늘의 안전 상황",
+   "summary": "현장 응급조치 및 병원 이송 ▲ (추락사고) 경기 남양주시『인근 도로변』 - 13:56~14:23, 고소작업대에서 전신주 간 전기 작업 중 통신선을 피하려다 약 2m 높이에서 추락한 사고. 중상 1명. 현장 응급처치 후...",
+   "url": "http://fpn119.co.kr/259758",
+   "orig": "http://fpn119.co.kr/259758",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-20T09:14+09:00",
+   "cat": "law",
+   "id": "93314269ffb0",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "금속노조, '중대재해 부정' HD현대삼호·고용노동부 고발",
+   "summary": "청년노동자 사망사고와 관련해 금속노조가 원청의 책임 회피와 노동당국의 늑장 대응을 비판했습니다. 금속노조는 고용노동부 서울지방고용노동청 앞에서 기자회견을 열고 HD현대삼호를 중대재해처벌법 위반 혐의로...",
+   "url": "https://n.news.naver.com/mnews/article/660/0000121815?sid=102",
+   "orig": "https://www.ikbc.co.kr/article/view/kbc202611200007",
+   "source": "ikbc.co.kr",
+   "published": "2026-11-20T09:13+09:00",
+   "cat": "law",
+   "id": "b57ea3703cbb",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "자율주행 안전 경쟁, 타이어 기술이 핵심…금호타이어 개발 박차",
+   "summary": "자율주행 기술이 발전하면서 타이어의 역할도 단순한 주행 부품에서 안전 정보를 수집하고 위험을 예측하는 핵심 기술로 확대되고 있다. 금호타이어는 스마트 타이어와 에어리스 타이어 개발을 통해 미래 모빌리티...",
+   "url": "https://www.viva100.com/article/20261120500026",
+   "orig": "https://www.viva100.com/article/20261120500026",
+   "source": "브릿지경제",
+   "published": "2026-11-20T09:04+09:00",
+   "cat": "tech",
+   "id": "8eed0d595268",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "문석환 광주교통공사 사장 “모든 사람의 인권·존엄 존중하는 안전한 ...",
+   "summary": "▲인권경영시스템 인증을 계기로 안전보건경영(ISO 45001), 정보보안(ISO 27001), 개인정보보호(ISO 27701), 고객만족(ISO 10002) 등 신뢰도를 높일 수 있는 분야를 단계적으로 검토하겠다. 인증 자체가 목적이 되지 않고, 현장의 관리...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003487816?sid=102",
+   "orig": "https://www.etnews.com/20261119000447",
+   "source": "전자신문",
+   "published": "2026-11-20T09:01+09:00",
+   "cat": "tech",
+   "id": "0cdd17dac9f6",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "브이피케이, '2026 스마트건설·안전·AI 엑스포' 참가",
+   "summary": "국토교통부가 주최하는 '2026 스마트건설·안전·AI 엑스포'는 AI, BIM, 건설자동화, 디지털센싱, 스마트안전, 빅데이터·플랫폼 등 최신 스마트건설 기술을 망라하는 박람회다. 올해는 건설 현장의 안전 혁신과 더불어...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=886417",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=886417",
+   "source": "gokorea.kr",
+   "published": "2026-11-20T09:00+09:00",
+   "cat": "tech",
+   "id": "d02880e3b7d0",
+   "related": [
+    {
+     "source": "abcn.kr",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=94751",
+     "orig": "https://www.abcn.kr/news/articleView.html?idxno=94751",
+     "title": "엠케이원솔루션, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가"
+    },
+    {
+     "source": "경상일보",
+     "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073036",
+     "orig": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073036",
+     "title": "엔비랩스, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가"
+    },
+    {
+     "source": "sisunnews.co.kr",
+     "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250074",
+     "orig": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250074",
+     "title": "공간 AI 기업 메이사, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가"
+    }
+   ],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "티제이랩스, 스마트건설·안전·AI 엑스포서 공간 데이터 솔루션 선보여",
+   "summary": "국토교통부가 주최하는 이번 엑스포에서는 AI와 건설자동화, 스마트안전 관련 기술이 소개된다. AI 특별관과 실증연계(PoC) 상담회도 마련되며, 무료 사전등록은 11월24일까지다. 티제이랩스 관계자는 “스마트건설의...",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292989604543",
+   "orig": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292989604543",
+   "source": "siminilbo.co.kr",
+   "published": "2026-11-20T09:00+09:00",
+   "cat": "tech",
+   "id": "16c29bf1254e",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "남양주서 60대 전기 작업자 떨어져 숨져",
    "summary": "경기 남양주에서 전기작업 중이던 60대가 추락해 숨지는 사고가 발생했다. 20일 경찰 등에 따르면 지난 19일 오후 1시 56분께 남양주시 와부읍의 한 도로에서 차량형 고소 작업대에 올라가 일하던 A씨가 밑으로 떨어져...",
@@ -125,6 +378,12 @@
      "url": "https://n.news.naver.com/mnews/article/003/0014334710?sid=102",
      "orig": "https://www.newsis.com/view/NISX20261120_0003876060",
      "title": "남양주 차량 고소작업대서 작업하던 60대 추락사"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003701447?sid=102",
+     "orig": "https://www.seoul.co.kr/news/society/accident/2026/11/20/20261120500034?wlog_tag3=naver",
+     "title": "[속보] “전선 늘어져” 전기 작업하던 60대 추락 사망… 고소작업대가..."
     }
    ],
    "day": "2026-11-20",
@@ -3088,6 +3347,12 @@
      "url": "http://www.cctimes.kr/news/articleView.html?idxno=938029",
      "orig": "http://www.cctimes.kr/news/articleView.html?idxno=938029",
      "title": "세종시설공단 육복철 팀장, 대한민국 안전대상 국무총리상 수상"
+    },
+    {
+     "source": "뉴데일리",
+     "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/20/2026112050045.html",
+     "orig": "https://cc.newdaily.co.kr/site/data/html/2026/11/20/2026112050045.html",
+     "title": "세종시설공단 육복철 팀장 스마트 안전관리체계 구축 공로… 대한민국..."
     }
    ],
    "day": "2026-11-19",
