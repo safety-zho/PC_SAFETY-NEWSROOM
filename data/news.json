@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-20T15:43+09:00",
+ "updatedAt": "2026-11-20T15:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "dc2eef5ea496",
+   "title": "[단독] 강변북로 방음벽 보수 작업자 추락…40대 남성 숨져",
+   "url": "https://n.news.naver.com/mnews/article/057/0001979116?sid=102",
+   "source": "매일경제",
+   "cat": "sev",
+   "day": "2026-11-20",
+   "count": 5
+  },
+  {
    "id": "fe2e7eb0d96d",
    "title": "남양주서 전기 작업 60대 고소작업대 추락 사망",
    "url": "https://n.news.naver.com/mnews/article/421/0009300473?sid=102",
@@ -32,15 +41,6 @@
    "cat": "sev",
    "day": "2026-11-20",
    "count": 5
-  },
-  {
-   "id": "dc2eef5ea496",
-   "title": "[단독] 강변북로 방음벽 보수 작업자 추락…40대 남성 숨져",
-   "url": "https://n.news.naver.com/mnews/article/057/0001979116?sid=102",
-   "source": "매일경제",
-   "cat": "sev",
-   "day": "2026-11-20",
-   "count": 4
   },
   {
    "id": "71a3b9032896",
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "삼천리그룹, 현업 주도 'AI 혁신' 확산…업무효율·현장안전 함께 높인...",
+   "summary": "이를 통해 구성원이 제안한 혁신과제가 기업의 생산성 향상과 안전경영을 동시에 뒷받침하는 구조로 정착할 수 있을 것으로 기대된다. 삼천리그룹 관계자는 \"혁신 한마당은 임직원들이 빠르게 발전하는 AI 기술에...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205314",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205314",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-20T15:48+09:00",
+   "cat": "tech",
+   "id": "144c04a6937a",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "[단독] 음주 뺑소니로 환경미화원 숨지게 한 50대 운전자 구속송치...산...",
+   "summary": "고용노동부 안양지청은 금천구청으로부터 이번 사고 경위와 안전 장비 지급 및 착용 여부 등 관련 자료를 넘겨받고 구청을 상대로 산업안전보건법 위반 여부 등도 살펴보고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/437/0000521689?sid=102",
+   "orig": "https://news.jtbc.co.kr/article/NB12329060?influxDiv=NAVER",
+   "source": "JTBC",
+   "published": "2026-11-20T15:47+09:00",
+   "cat": "sev",
+   "id": "0c45ef97ec86",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "해양환경공단, 대산지사 현장 점검…근로자 휴게 환경 개선 모색",
+   "summary": "안전보건 점검과 현장 근로자 소통 간담회를 실시했다고 지난 19일 밝혔다. 이번 방문은 겨울철 작업 환경 변화에 따른 잠재적 위험 요인을 사전에 발굴해 산업재해를 예방하고, 현장 근로자의 의견을 청취해 근무환경을...",
+   "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323643",
+   "orig": "https://www.klnews.co.kr/news/articleView.html?idxno=323643",
+   "source": "klnews.co.kr",
+   "published": "2026-11-20T15:46+09:00",
+   "cat": "tech",
+   "id": "542ff4bf450a",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "해운전문지기자단, KOMSA 공영항로 안전관리 현장을 찾다",
+   "summary": "여객선에서 안전을 확인하는 현장을 직접 눈으로 살펴보고 첨단 기술을 활용해 선박의 위험 요소를 미리 살피는 스마트 검사 시설을 둘러봤다. 현장에서는 그동안 공단이 축적한 선박검사 역량과 운항관리 전문성을...",
+   "url": "https://www.klnews.co.kr/news/articleView.html?idxno=323645",
+   "orig": "https://www.klnews.co.kr/news/articleView.html?idxno=323645",
+   "source": "klnews.co.kr",
+   "published": "2026-11-20T15:46+09:00",
+   "cat": "tech",
+   "id": "7546f7943e41",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
+  {
+   "title": "조선소 떠나는 청년들…낮은 기본급·경력 단절에 업종 공동기준 논의",
+   "summary": "주최하고 고용노동부와 산업통상부가 후원했다. 토론회는 한국노동연구원이 지난 9~10월 울산 동구와... 협력사를 옮기면 경력이 단절되는 문제와 기술 전수 부족, 폭염 속 휴식·안전관리, 원·하청 간 복지 격차도 개선...",
+   "url": "https://n.news.naver.com/mnews/article/008/0005444214?sid=101",
+   "orig": "https://www.mt.co.kr/economy/2026/11/20/2026112014361328877",
+   "source": "머니투데이",
+   "published": "2026-11-20T15:40+09:00",
+   "cat": "law",
+   "id": "0dd377399b71",
+   "related": [],
+   "day": "2026-11-20",
+   "watch": []
+  },
   {
    "title": "[속보] 서울 강변북로 방음벽 작업 중 40대 ‘참변’…발 헛디뎌 추락, ...",
    "summary": "서울 광진구 강변북로에서 방음벽 보수 작업을 하던 40대 근로자가 작업차에서 추락해 숨졌다. 20일 소방 당국과 경찰 등에 따르면 이날 오전 9시 4분쯤 서울 광진구 청담대교 북단 인근 강변북로 구간에서 작업 중이던...",
@@ -223,7 +288,14 @@
    "published": "2026-11-20T15:06+09:00",
    "cat": "tech",
    "id": "69b8babaef1d",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611201504526053be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611201504526053be44c0aacd_30",
+     "title": "안전보건공단 인천광역본부, 삼성바이오로직스 등 3곳 '건강증진 우수사..."
+    }
+   ],
    "day": "2026-11-20",
    "watch": []
   },
@@ -456,6 +528,12 @@
      "url": "https://n.news.naver.com/mnews/article/014/0005607483?sid=102",
      "orig": "https://www.fnnews.com/news/202611201511478043",
      "title": "강변북로 방음벽 보수하던 40대 작업자 추락해 사망"
+    },
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014336264?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261120_0003876979",
+     "title": "서울 강변북로서 방음벽 작업 중 40대 작업자 추락사"
     }
    ],
    "day": "2026-11-20",
