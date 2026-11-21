@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T14:51+09:00",
+ "updatedAt": "2026-11-21T15:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "1cc184bf28fc",
+   "title": "고려아연 \"MBK·영풍, 홈플러스 사태·회계 위반부터 돌아봐야\"",
+   "url": "https://n.news.naver.com/mnews/article/421/0009302621?sid=101",
+   "source": "뉴스1",
+   "cat": "acc",
+   "day": "2026-11-21",
+   "count": 2
+  },
+  {
    "id": "fe0d7adc701f",
    "title": "[속보] 코레일, ‘천안~조치원~대전’ 버스 연계수송…경부선 탈선 사고...",
    "url": "https://n.news.naver.com/mnews/article/666/0000133099?sid=102",
@@ -41,33 +50,6 @@
    "cat": "law",
    "day": "2026-11-21",
    "count": 2
-  },
-  {
-   "id": "36b667507a76",
-   "title": "군포도시공사 이사회 신임 의장에 건설안전 30년 경력 김천학 이사 선임",
-   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101311",
-   "source": "upkoreanews.kr",
-   "cat": "tech",
-   "day": "2026-11-21",
-   "count": 1
-  },
-  {
-   "id": "7db2be9f99a9",
-   "title": "한화 건설현장서 또 추락사…반복되는 노동자 사망, 안전관리 책임 도마",
-   "url": "https://wemakenews.co.kr/news/view.php?no=26916",
-   "source": "wemakenews.co.kr",
-   "cat": "sev",
-   "day": "2026-11-21",
-   "count": 1
-  },
-  {
-   "id": "e7eedab6d77d",
-   "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
-   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
-   "source": "한스경제",
-   "cat": "hlt",
-   "day": "2026-11-21",
-   "count": 1
   }
  ],
  "articles": [
@@ -80,7 +62,14 @@
    "published": "2026-11-21T14:20+09:00",
    "cat": "acc",
    "id": "1cc184bf28fc",
-   "related": [],
+   "related": [
+    {
+     "source": "newswhoplus.com",
+     "url": "https://www.newswhoplus.com/news/articleView.html?idxno=75040",
+     "orig": "https://www.newswhoplus.com/news/articleView.html?idxno=75040",
+     "title": "[전문] 고려아연 \"MBK·영풍, 홈플러스 사태·중대 회계 위반 등 스스로..."
+    }
+   ],
    "day": "2026-11-21",
    "watch": []
   },
