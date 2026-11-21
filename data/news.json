@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T12:53+09:00",
+ "updatedAt": "2026-11-21T13:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,10 +34,10 @@
    "count": 2
   },
   {
-   "id": "cf44f64d3ddc",
-   "title": "시흥시노사민정협의회, 시화스마트허브서 한파 예방 캠페인",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758942",
-   "source": "국제뉴스",
+   "id": "10b21e315a6e",
+   "title": "임병택 시흥시장, 겨울철 노동자 한랭질환 예방 강화…노사민정 합동 캠...",
+   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33280",
+   "source": "fieldnews.kr",
    "cat": "tech",
    "day": "2026-11-21",
    "count": 1
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "임병택 시흥시장, 겨울철 노동자 한랭질환 예방 강화…노사민정 합동 캠...",
+   "summary": "노동지원과, 고용노동부 안산지청, 안전보건공단 서부지사 관계자 등 40여 명이 참여했다. 참여자들은 상가 일대 사업장을 방문해 노동자와 사업주에게 한파 예방 홍보물과 안내문을 배부하고, 겨울철 산업현장에서 지켜야...",
+   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33280",
+   "orig": "http://www.fieldnews.kr/news/articleView.html?idxno=33280",
+   "source": "fieldnews.kr",
+   "published": "2026-11-21T13:24+09:00",
+   "cat": "tech",
+   "id": "10b21e315a6e",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "시흥시노사민정협의회, 시화스마트허브서 한파 예방 캠페인",
    "summary": "고용노동부 안산지청, 안전보건공단 서부지사 등 40여 명이 참여해 현장 점검과 예방 활동을 함께했다. 참가자들은 시화유통상가와 시화공구상가 주변 사업장과 노동자들에게 한파 예방 홍보물과 안내문을 전달하며, 산업...",
