@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T08:52+09:00",
+ "updatedAt": "2026-11-21T09:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,20 +25,38 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "a295f89d38da",
+   "title": "'탈선 사고' 수험생들 발동동…경부선 일부 구간서 '운행 중단'",
+   "url": "https://n.news.naver.com/mnews/article/243/0000105989?sid=101",
+   "source": "economist.co.kr",
+   "cat": "acc",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
+   "id": "c0c0bea08fad",
+   "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112374",
+   "source": "ccdn.co.kr",
+   "cat": "law",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
+   "id": "9a093d249221",
+   "title": "\"교통안전공단 119명·원자력안전기술원 정규직 32명\"… 공공기관 10곳 ...",
+   "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92743",
+   "source": "woodkorea.co.kr",
+   "cat": "tech",
+   "day": "2026-11-21",
+   "count": 1
+  },
+  {
    "id": "e7eedab6d77d",
    "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
    "source": "한스경제",
    "cat": "hlt",
-   "day": "2026-11-21",
-   "count": 1
-  },
-  {
-   "id": "684675cef34e",
-   "title": "경부선 화물 탈선 사고... 천안~전의 전차선 단전에 열차 운행 차질",
-   "url": "https://www.insight.co.kr/news/582991",
-   "source": "인사이트",
-   "cat": "acc",
    "day": "2026-11-21",
    "count": 1
   },
@@ -50,27 +68,87 @@
    "cat": "sev",
    "day": "2026-11-21",
    "count": 1
-  },
-  {
-   "id": "a4042db133b1",
-   "title": "안전상비약 확대 토론회 이후 절차는…약사회 “협의 요청 없어”",
-   "url": "https://www.kukinews.com/article/view/kuk202611200191",
-   "source": "쿠키뉴스",
-   "cat": "law",
-   "day": "2026-11-21",
-   "count": 1
-  },
-  {
-   "id": "74592c50dd0a",
-   "title": "한국조폐공사 ID본부, 노사 합동 지역 상생 안전망 구축",
-   "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418151",
-   "source": "ccnnews.co.kr",
-   "cat": "tech",
-   "day": "2026-11-21",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "'탈선 사고' 수험생들 발동동…경부선 일부 구간서 '운행 중단'",
+   "summary": "수험생들은 고속열차나 다른 대체 교통수단을 이용해 달라\"고 당부했다. 현재 코레일은 초기대응팀과 기중기 등 복구 장비·인력을 현장에 급파해 긴급 복구 작업을 벌이는 한편 정확한 사고 경위를 조사하고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/243/0000105989?sid=101",
+   "orig": "https://economist.co.kr/article/view/ecn202611210003",
+   "source": "economist.co.kr",
+   "published": "2026-11-21T09:46+09:00",
+   "cat": "acc",
+   "id": "a295f89d38da",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "충남 외국인투자기업, 산업안전 강화·상생협력 네트워크 구축 나서",
+   "summary": "이날 간담회에서는 고용노동부 천안지청 박행남 산재예방지도과장이 '고용노동부 산업안전보건 정책방향'을 주제로 특별강연을 진행했다. 박 과장은 중대재해 예방을 위한 정부의 주요 정책 기조와 산업안전보건...",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112374",
+   "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112374",
+   "source": "ccdn.co.kr",
+   "published": "2026-11-21T09:38+09:00",
+   "cat": "law",
+   "id": "c0c0bea08fad",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "11월 21일 오늘의 안전 상황",
+   "summary": "(사업장사고) 11.20. 15:54 / 전북 김제시 진봉면 / 수목원 조성 공사 현장 내 정화조 피트에서 내부 수직사다리에 매달린채 작업 중 추락(추정, 약 6m) / 사망 1명(남, 60대) - (산불) 경기 연천군전곡읍(11.20. 15:28~19...",
+   "url": "http://fpn119.co.kr/259825",
+   "orig": "http://fpn119.co.kr/259825",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-21T09:28+09:00",
+   "cat": "law",
+   "id": "539e59337b5a",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "\"새마을·무궁화·ITX-마음 멈췄다\"… 주말 아침 경부선 열차 탈선 사고",
+   "summary": "코레일은 사고 발생 직후 초기대응팀과 전기 모터카, 디젤기관차, 기중기 등 복구 장비를 현장에 급파해 긴급 복구 작업을 진행하고 있으며, 복구가 완료되는 대로 정확한 궤도 이탈 원인을 조사할 방침이다.",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758927",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3758927",
+   "source": "국제뉴스",
+   "published": "2026-11-21T09:20+09:00",
+   "cat": "acc",
+   "id": "952467e84041",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "\"교통안전공단 119명·원자력안전기술원 정규직 32명\"… 공공기관 10곳 ...",
+   "summary": "식품안전정보원, 세종문화회관, 스포츠윤리센터, 한국산업기술진흥원, 한국보건의료정보원... 무대기계·감독 1명, 무대음향 1명, 무대조명 2명, 문화예술행정 14명을 선발한다. 서류와 면접 전형을 진행하며, 지원서는...",
+   "url": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92743",
+   "orig": "https://www.woodkorea.co.kr/news/articleView.html?idxno=92743",
+   "source": "woodkorea.co.kr",
+   "published": "2026-11-21T09:06+09:00",
+   "cat": "tech",
+   "id": "9a093d249221",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "삼성전자·SK하이닉스, 안전·환경경영 강화…대규모 증설 속 고도화 집...",
+   "summary": "SK하이닉스 역시 31조원이 넘는 공격적 증설 투자와 함께 곽노정 최고경영자(CEO) 직속으로 'SHE(안전·보건... 현장의 산업재해와 환경사고 예방을 밀착 지원하고 있다. 환경 부문에서도 이사회 산하인 탄소관리위원회를...",
+   "url": "https://n.news.naver.com/mnews/article/293/0000093621?sid=101",
+   "orig": "https://www.bloter.net/news/articleView.html?idxno=679235",
+   "source": "블로터",
+   "published": "2026-11-21T09:00+09:00",
+   "cat": "tech",
+   "id": "58fbff78aaca",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
    "summary": "보건 분야 186억 원, 공공질서 및 안전 분야 47억 원도 포함됐다. 시민 체감형 사업인 바로빨리사업과 생기활력사업에는 전년보다 5.9% 늘어난 156억 원을 편성했다. 지역경제 활성화를 위해 산업·중소기업 및 에너지...",
@@ -259,6 +337,12 @@
      "url": "http://www.jbsori.com/news/articleView.html?idxno=18229",
      "orig": "http://www.jbsori.com/news/articleView.html?idxno=18229",
      "title": "국립새만금수목원 공사 현장서 60대 노동자 5m 높이 '추락사'"
+    },
+    {
+     "source": "YTN",
+     "url": "https://n.news.naver.com/mnews/article/052/0002436018?sid=102",
+     "orig": "https://www.ytn.co.kr/_ln/0115_202611210943326692",
+     "title": "새만금수목원 공사 현장서 60대 근로자 추락사"
     }
    ],
    "day": "2026-11-20",
