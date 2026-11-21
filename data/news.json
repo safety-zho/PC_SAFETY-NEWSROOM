@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T17:51+09:00",
+ "updatedAt": "2026-11-21T18:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,19 +25,19 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "471614d3adb9",
-   "title": "경부선 탈선사고 영상 보니…두차례 섬광 이후 선로 이탈 전철주 충돌",
-   "url": "https://n.news.naver.com/mnews/article/001/0016455851?sid=102",
-   "source": "연합뉴스",
-   "cat": "acc",
-   "day": "2026-11-21",
-   "count": 2
-  },
-  {
    "id": "1cc184bf28fc",
    "title": "고려아연 \"MBK·영풍, 홈플러스 사태·회계 위반부터 돌아봐야\"",
    "url": "https://n.news.naver.com/mnews/article/421/0009302621?sid=101",
    "source": "뉴스1",
+   "cat": "acc",
+   "day": "2026-11-21",
+   "count": 3
+  },
+  {
+   "id": "471614d3adb9",
+   "title": "경부선 탈선사고 영상 보니…두차례 섬광 이후 선로 이탈 전철주 충돌",
+   "url": "https://n.news.naver.com/mnews/article/001/0016455851?sid=102",
+   "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-11-21",
    "count": 2
@@ -62,6 +62,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "국토부, 경부선 화물열차 탈선 사고 현장 점검··· \"원인 규명·재발 ...",
+   "summary": "정 차관은 사고 현장에서 \"KTX, ITX-새마을, 버스 등 가용한 연계 교통수단 지원을 통해 열차 이용객 불편을 최소화할 것\"을 주문했다. 이어 복구작업 과정에서 작업자의 안전을 확보하는 한편, 탈선으로 레일과 콘크리트...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=561546",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=561546",
+   "source": "dkilbo.com",
+   "published": "2026-11-21T18:44+09:00",
+   "cat": "acc",
+   "id": "0717cac1b0bf",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "새만금수목원 공사 현장서 '60대 추락 사망…하청업체 근로자",
+   "summary": "경찰과 고용노동부는 당시 작업 상황과 추락 방지조치, 산업안전보건법 및 '중대재해처벌 등에 관한 법률' 위반 여부를 조사하고 있다. 구체적인 사고 원인과 책임 소재는 아직 확정되지 않았다. 앞서 새만금개발청은...",
+   "url": "https://www.bzeronews.com/news/articleView.html?idxno=825655",
+   "orig": "https://www.bzeronews.com/news/articleView.html?idxno=825655",
+   "source": "bzeronews.com",
+   "published": "2026-11-21T18:32+09:00",
+   "cat": "sev",
+   "id": "e8cc195eb838",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "韓 조선업계 산재 사고 줄고 질병 늘었다…지난해 질병재해 1900명 육박",
+   "summary": "작업 중 발생하는 사고는 줄어드는 추세지만, 질병 산재는 오히려 늘어난 셈이다. 사망자 통계에서도 이러한 흐름이 두드러졌다. 지난해 질병 사망자는 52명으로 사고 사망자(10명)의 5.2배에 달했다. 전년과 비교해도...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003488139?sid=101",
+   "orig": "https://www.etnews.com/20261120000253",
+   "source": "전자신문",
+   "published": "2026-11-21T18:01+09:00",
+   "cat": "acc",
+   "id": "de5c9f5dea36",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "\"불꽃 튀더니 10초도 안 돼 탈선\"…경부선 화물열차 사고 순간보니",
    "summary": "한국철도공사(코레일)은 이번 사고로 전체 21량 규모의 화물열차 중 전방 2량과 후방 3량 등 총 5량이 선로를... 복구 작업에 총력을 기울이고 있다. 다만 파손된 화물칸과 전철주를 철거한 뒤 선로·전차선 재설치와...",
@@ -227,6 +266,12 @@
      "url": "https://www.newswhoplus.com/news/articleView.html?idxno=75040",
      "orig": "https://www.newswhoplus.com/news/articleView.html?idxno=75040",
      "title": "[전문] 고려아연 \"MBK·영풍, 홈플러스 사태·중대 회계 위반 등 스스로..."
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000133134?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261121580131",
+     "title": "고려아연 \"MBK·영풍, 홈플러스 사태·회계 위반부터 돌아봐야\""
     }
    ],
    "day": "2026-11-21",
