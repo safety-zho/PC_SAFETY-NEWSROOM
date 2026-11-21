@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T13:51+09:00",
+ "updatedAt": "2026-11-21T14:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,10 +34,19 @@
    "count": 2
   },
   {
-   "id": "10b21e315a6e",
-   "title": "임병택 시흥시장, 겨울철 노동자 한랭질환 예방 강화…노사민정 합동 캠...",
-   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33280",
-   "source": "fieldnews.kr",
+   "id": "a50e7b8fd527",
+   "title": "HS화성, 건설 안전관리 평가 '최고 등급 SA1' 취득",
+   "url": "https://n.news.naver.com/mnews/article/001/0016455639?sid=102",
+   "source": "연합뉴스",
+   "cat": "law",
+   "day": "2026-11-21",
+   "count": 2
+  },
+  {
+   "id": "36b667507a76",
+   "title": "군포도시공사 이사회 신임 의장에 건설안전 30년 경력 김천학 이사 선임",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101311",
+   "source": "upkoreanews.kr",
    "cat": "tech",
    "day": "2026-11-21",
    "count": 1
@@ -52,15 +61,6 @@
    "count": 1
   },
   {
-   "id": "a50e7b8fd527",
-   "title": "HS화성, 건설 안전관리 평가 '최고 등급 SA1' 취득",
-   "url": "https://n.news.naver.com/mnews/article/001/0016455639?sid=102",
-   "source": "연합뉴스",
-   "cat": "law",
-   "day": "2026-11-21",
-   "count": 1
-  },
-  {
    "id": "e7eedab6d77d",
    "title": "목포시, 1조 733억 예산안 제출…\"복지·안전 등 필수 예산 확보\"",
    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885739",
@@ -71,6 +71,32 @@
   }
  ],
  "articles": [
+  {
+   "title": "고려아연 \"MBK·영풍, 홈플러스 사태·회계 위반부터 돌아봐야\"",
+   "summary": "고려아연(010130)이 영풍·MBK파트너스를 향해 홈플러스 기업회생 사태와 영풍의 회계처리기준 위반 등 경영... 현재 온산제련소 생산능력 확대와 안전·환경 설비 고도화, 약 1500억 원 규모의 연구개발(R&D) 센터 건설, 미국...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009302621?sid=101",
+   "orig": "https://www.news1.kr/industry/general-industry/6361604",
+   "source": "뉴스1",
+   "published": "2026-11-21T14:20+09:00",
+   "cat": "acc",
+   "id": "1cc184bf28fc",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "군포도시공사 이사회 신임 의장에 건설안전 30년 경력 김천학 이사 선임",
+   "summary": "김 의장은 건축시공학 박사로서 경희대학교 테크노경영대학원 건설안전경영학과 겸임교수, 엘림주식회사 부회장, 국토안전관리원 처장과 수석전문위원, 한국산업안전공단, 한진종합건설㈜, 한국기술사회 이사 및...",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101311",
+   "orig": "https://www.upkoreanews.kr/news/articleView.html?idxno=101311",
+   "source": "upkoreanews.kr",
+   "published": "2026-11-21T14:11+09:00",
+   "cat": "tech",
+   "id": "36b667507a76",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "임병택 시흥시장, 겨울철 노동자 한랭질환 예방 강화…노사민정 합동 캠...",
    "summary": "노동지원과, 고용노동부 안산지청, 안전보건공단 서부지사 관계자 등 40여 명이 참여했다. 참여자들은 상가 일대 사업장을 방문해 노동자와 사업주에게 한파 예방 홍보물과 안내문을 배부하고, 겨울철 산업현장에서 지켜야...",
@@ -178,7 +204,14 @@
    "published": "2026-11-21T10:37+09:00",
    "cat": "law",
    "id": "a50e7b8fd527",
-   "related": [],
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002726533?sid=102",
+     "orig": "https://biz.heraldcorp.com/article/10944682?ref=naver",
+     "title": "HS화성, 건설 안전관리 평가 최고 등급 ‘SA1’ 취득"
+    }
+   ],
    "day": "2026-11-21",
    "watch": []
   },
