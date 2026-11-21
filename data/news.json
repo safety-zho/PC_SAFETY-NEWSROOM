@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-21T11:52+09:00",
+ "updatedAt": "2026-11-21T12:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,10 +34,10 @@
    "count": 2
   },
   {
-   "id": "da5446e93121",
-   "title": "광주노동청·안전보건공단, '2026 제조업 자율안전협의체 우수사례 발표...",
-   "url": "http://www.breaknews.com/1252855",
-   "source": "브레이크뉴스",
+   "id": "cf44f64d3ddc",
+   "title": "시흥시노사민정협의회, 시화스마트허브서 한파 예방 캠페인",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758942",
+   "source": "국제뉴스",
    "cat": "tech",
    "day": "2026-11-21",
    "count": 1
@@ -71,6 +71,19 @@
   }
  ],
  "articles": [
+  {
+   "title": "시흥시노사민정협의회, 시화스마트허브서 한파 예방 캠페인",
+   "summary": "고용노동부 안산지청, 안전보건공단 서부지사 등 40여 명이 참여해 현장 점검과 예방 활동을 함께했다. 참가자들은 시화유통상가와 시화공구상가 주변 사업장과 노동자들에게 한파 예방 홍보물과 안내문을 전달하며, 산업...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3758942",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3758942",
+   "source": "국제뉴스",
+   "published": "2026-11-21T12:06+09:00",
+   "cat": "tech",
+   "id": "cf44f64d3ddc",
+   "related": [],
+   "day": "2026-11-21",
+   "watch": []
+  },
   {
    "title": "서울 대학 논술시험 날에 경부선에서 탈선 사고...상경 수험생 날벼락",
    "summary": "[ 경기신문 = 권상은 기자 ] 21일 오전 세종시 소정면 경부선 소정리역 부근에서 탈선사고가 발생해 한국철도공사(코레일) 등 관계자들이 원인 파악 및 복구작업에 나서고 있다. 이날 사고는 소정리역으로 진입하는 제3810...",
@@ -447,6 +460,12 @@
      "url": "https://n.news.naver.com/mnews/article/448/0000652468?sid=102",
      "orig": "https://news.tvchosun.com/site/data/html_dir/2026/11/21/2026112190017.html",
      "title": "새만금수목원 공사 현장서 60대 근로자 추락 사망"
+    },
+    {
+     "source": "전북도민일보",
+     "url": "http://www.domin.co.kr/news/articleView.html?idxno=1576360",
+     "orig": "http://www.domin.co.kr/news/articleView.html?idxno=1576360",
+     "title": "김제 국립새만금수목원 건설 현장서 60대 근로자 추락해 숨져"
     }
    ],
    "day": "2026-11-20",
