@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T14:52+09:00",
+ "updatedAt": "2026-11-22T15:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘나 혼자 산다’ 번지점프 논란…결국 고용노동부 과태료 처분",
+   "summary": "22일 중부지방고용노동청 강원지청에 따르면 강원지청은 해당 사업장을 둘러싼 산업안전 진정 사건을 조사한 뒤 지난 18일 시정조치 5건과 과태료 부과 1건, 개선 권고 1건으로 사건을 마무리했다. 조사 결과 추락재해...",
+   "url": "https://www.mk.co.kr/article/12215511",
+   "orig": "https://www.mk.co.kr/article/12215511",
+   "source": "매일경제",
+   "published": "2026-11-22T15:25+09:00",
+   "cat": "law",
+   "id": "c8c687e85119",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "춘천시노사민정협의회, 노사민정아카데미 및 산업안전보건교육 개최",
+   "summary": "이날 권구형 고용노동부 강원지청장은 '중대재해 근절을 위한 노동조합의 역할'을 주제로 산업안전보건교육... 아울러 개정 노조법의 주요 내용과 직장 내 괴롭힘 예방을 다루며 공감·공정·공유를 바탕으로 한 신뢰의...",
+   "url": "https://n.news.naver.com/mnews/article/654/0000212622?sid=102",
+   "orig": "https://www.kado.net/news/articleView.html?idxno=2086346",
+   "source": "강원도민일보",
+   "published": "2026-11-22T15:22+09:00",
+   "cat": "law",
+   "id": "87cac64e22b3",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "가스公-가스기술公 '안전·상생·혁신' 강화…현장 우수사례 공유",
+   "summary": "주요 발표 내용은 데이터 기반 예지보전 체계 고도화, LNG 저장·압축설비 제어시스템 최적화, 스마트 안전 기술을 활용한 작업환경 개선 등 현장 성과 중심으로 구성됐다. 심사 결과 최우수 1팀, 우수 2팀, 장려 6팀이...",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=336360",
+   "orig": "http://www.e2news.com/news/articleView.html?idxno=336360",
+   "source": "이투뉴스",
+   "published": "2026-11-22T15:04+09:00",
+   "cat": "tech",
+   "id": "30645d426d54",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "지방노동감독 코앞인데…\"어디부터 살필지 계획 세워야\"",
+   "summary": "\"기존 노동감독부터 평가해야\" 경남에서는 이주노동자 사망사고를 통해 기존 감독체계의 한계를 짚었다. 이은주 마창거제산재추방운동연합 활동가는 통영에서 이주노동자가 좁은 배관 내부를 청소하다 가스 중독이...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2020215",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2020215",
+   "source": "경남도민일보",
+   "published": "2026-11-22T14:56+09:00",
+   "cat": "law",
+   "id": "ce52e118d112",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "김해시 노사민정, 고용노동부 김해지청 신설 촉구 한목소리",
+   "summary": "김해시는 지난 19일 김해시청 정책회의실에서 '2026년 김해시 노사민정협의회'를 개최하고 고용노동부... 운영 ▲산업단지 근로자 무료 통근버스 운행 활성화 ▲경남형 기초이음 프로젝트 추진 등이다. 김해시는 노동...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=587014",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=587014",
+   "source": "newsgn.com",
+   "published": "2026-11-22T14:56+09:00",
+   "cat": "law",
+   "id": "68db66b5550e",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "가스공사·가스기술공사, LNG 현장혁신 공동 확산…'안전·예지보전' 강...",
    "summary": "고장 이후 대응하는 정비에서 데이터 기반 예지보전으로 관리체계를 고도화하고 스마트 안전기술과 설비 제어 최적화를 현장에 확대함으로써 LNG 공급 안정성을 높이는 동시에 모·자회사 간 상생협력을 강화한다는...",
