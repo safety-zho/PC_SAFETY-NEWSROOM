@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T08:51+09:00",
+ "updatedAt": "2026-11-22T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,156 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "061eda206434",
-   "title": "금호타이어 정일택 “자율주행시대 타이어, 안전 완성하는 마지막 퍼즐...",
-   "url": "https://www.sentv.co.kr/article/view/sentv202611200127",
-   "source": "서울경제TV",
-   "cat": "tech",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
    "id": "f9b42b3129d9",
    "title": "지게차 사망사고 재발 방지 특별점검 추진",
    "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402583",
    "source": "jejudomin.co.kr",
    "cat": "sev",
    "day": "2026-11-22",
+   "count": 2
+  },
+  {
+   "id": "83936f99323b",
+   "title": "코레일, 소정리역 탈선 사고로 중단된 열차 운행 재개…첫 열차부터 정...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626839",
+   "source": "mdtoday.co.kr",
+   "cat": "acc",
+   "day": "2026-11-22",
    "count": 1
   },
   {
-   "id": "c54d51c1a1a6",
-   "title": "\"노인 일자리는 세금 낭비 아닌 투자…공간·인력·안전제도 개선 절실...",
-   "url": "https://n.news.naver.com/mnews/article/421/0009303020?sid=102",
+   "id": "6ed7ad5e6ffc",
+   "title": "\"무면허 운전·급정지 금지\"…제주, 지게차 안전 특별점검",
+   "url": "https://n.news.naver.com/mnews/article/421/0009303065?sid=102",
    "source": "뉴스1",
    "cat": "law",
    "day": "2026-11-22",
    "count": 1
   },
   {
-   "id": "093adcf34824",
-   "title": "\"내 집 포크레인으로 부수는 날까지 싸운다\"",
-   "url": "https://n.news.naver.com/mnews/article/002/0002466988?sid=102",
-   "source": "프레시안",
-   "cat": "hlt",
+   "id": "5b6ffd203967",
+   "title": "KT, 인파 몰려도 안전영상 전송…5G 통신망 활용 확대",
+   "url": "https://n.news.naver.com/mnews/article/001/0016456122?sid=105",
+   "source": "연합뉴스",
+   "cat": "tech",
    "day": "2026-11-22",
    "count": 1
   },
   {
-   "id": "ad9fbb225794",
-   "title": "‘어떻게 떨어졌길래’…천장 조명 교체하다 3.3m 아래 추락한 55세 노동...",
-   "url": "https://n.news.naver.com/mnews/article/021/0002834492?sid=102",
-   "source": "문화일보",
-   "cat": "acc",
+   "id": "89f08d7d599e",
+   "title": "고령군 내년 예산안 4860억원 편성…복지·재난안전에 방점",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091566",
+   "source": "경북일보",
+   "cat": "hlt",
    "day": "2026-11-22",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "무면허 지게차에 넉 달 새 2명 사망… 제주, 위험사업장 특별점검",
+   "summary": "노동당국도 산업안전보건법과 중대재해처벌법 위반 여부를 조사하고 있다. 두 사망사고는 각각 농산물 유통시설과 축산 사료 운송 현장에서 발생했다. 사업장과 작업 환경은 달랐지만 운전자가 필요한 면허를 갖추지...",
+   "url": "https://n.news.naver.com/mnews/article/014/0005607706?sid=102",
+   "orig": "https://www.fnnews.com/news/202611220920039842",
+   "source": "파이낸셜뉴스",
+   "published": "2026-11-22T09:30+09:00",
+   "cat": "sev",
+   "id": "e55618be9e77",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "경북 곳곳서 화재·축사 안전사고·교통사고 잇따라…3명 사상",
+   "summary": "중 어미소의 돌발행동으로 부상을 입은 것으로 추정된다. 신고를 받고 출동한 구조대는 A씨에게 응급처치를 한 뒤 오전 6시 56분에 병원으로 이송했다. A씨는 외상성 심정지 상태였으며, 소방과 경찰은 정확한 사고...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000554297?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2391821.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-22T09:23+09:00",
+   "cat": "sev",
+   "id": "26d8977bfc3b",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "코레일, 소정리역 탈선 사고로 중단된 열차 운행 재개…첫 열차부터 정...",
+   "summary": "복구 현장에는 코레일 인력 180명이 투입돼 밤새 작업했다. 기중기 4대, 재크키트 3대 등의 장비도 동원했다. 정부는 이번 철도 사고와 관련해 재난 위기경보를 '주의' 단계로 발령했다. 운행 중단에 따른 이용객 불편을...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626839",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626839",
+   "source": "mdtoday.co.kr",
+   "published": "2026-11-22T09:06+09:00",
+   "cat": "acc",
+   "id": "83936f99323b",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "\"무면허 운전·급정지 금지\"…제주, 지게차 안전 특별점검",
+   "summary": "제주도는 지게차 사망사고 재발을 막기 위해 오는 12월까지 무면허 운전 및 급정지·급선회 금지 등 안전수칙... 특히 '지역 중대재해 예방 사각지대 해소 사업'과 연계해 상시근로자 5인 미만 사업장과 감귤선과장, 고령...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009303065?sid=102",
+   "orig": "https://www.news1.kr/local/jeju/6361805",
+   "source": "뉴스1",
+   "published": "2026-11-22T09:02+09:00",
+   "cat": "law",
+   "id": "6ed7ad5e6ffc",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "노후자금 몰빵했는데 어쩌나…25% 추락한 ETF 정체 [김연지의 연금빌드...",
+   "summary": "주식과 채권을 섞어 '안전자산'으로 담은 상장지수펀드(ETF)마저 큰 폭으로 떨어지면서다. 내년에는... 반도체에 채권 절반 섞었는데…고점 대비 25% 하락 22일 금융감독원 퇴직연금 비교공시에 따르면 올해 3분기 말...",
+   "url": "https://n.news.naver.com/mnews/article/015/0005356649?sid=101",
+   "orig": "https://www.hankyung.com/article/2026112099766",
+   "source": "한국경제",
+   "published": "2026-11-22T09:01+09:00",
+   "cat": "acc",
+   "id": "98364972babe",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "KT, 인파 몰려도 안전영상 전송…5G 통신망 활용 확대",
+   "summary": "상황에서 안전관리용 폐쇄회로(CC)TV 영상 등 중요한 통신에 별도의 품질 정책을 적용해 안정적인 전송을 지원하는 방식을 설명했다. 부산 불꽃축제 현장에서 해당 기술을 적용한 사례도 전했다. 기업용으로는 스마트폰...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016456122?sid=105",
+   "orig": "https://www.yna.co.kr/view/AKR20261120147600017?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-22T09:00+09:00",
+   "cat": "tech",
+   "id": "5b6ffd203967",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "고령군 내년 예산안 4860억원 편성…복지·재난안전에 방점",
+   "summary": "산업·중소기업·에너지 분야에는 149억원, 교통·물류 141억원, 보건 70억원, 교육 44억원, 예비비 20억원을 각각 편성했다. 주요사업을 보면 재난 예방과 생활환경 개선에 상당한 예산이 투입된다. 자연재해위험개선지구...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091566",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091566",
+   "source": "경북일보",
+   "published": "2026-11-22T08:54+09:00",
+   "cat": "hlt",
+   "id": "89f08d7d599e",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "하나금융, 취약계층 어르신 1000명에 주거 안전·이동 편의 위한 맞춤형...",
+   "summary": "퍼블릭타임스=하나금융그룹이 취약계층 어르신 1000명을 대상으로 낙상·화재 예방을 위한 안전용품을... 필요를 반영한 사회공헌 활동을 통해 고령층의 삶의 질을 높이고 지역사회와 함께하는 상생 경영을 이어갈 계획이다.",
+   "url": "https://www.public25.com/news/articleView.html?idxno=58784",
+   "orig": "https://www.public25.com/news/articleView.html?idxno=58784",
+   "source": "public25.com",
+   "published": "2026-11-22T08:54+09:00",
+   "cat": "tech",
+   "id": "cf22de77574e",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "금호타이어 정일택 “자율주행시대 타이어, 안전 완성하는 마지막 퍼즐...",
    "summary": "정 사장은 이 같은 미래형 타이어의 상용화를 위해 기술 개발과 함께 제도적 기반이 갖춰져야 한다고 강조했다. 스마트·에어리스 타이어의 특성을 반영한 성능 및 안전 기준을 마련하고, 타이어 이상이 자율주행차의...",
@@ -93,7 +197,14 @@
    "published": "2026-11-22T08:00+09:00",
    "cat": "sev",
    "id": "f9b42b3129d9",
-   "related": [],
+   "related": [
+    {
+     "source": "headlinejeju.co.kr",
+     "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602512",
+     "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602512",
+     "title": "제주도, 지게차 사망사고 재발 방지 특별점검 실시"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
@@ -877,6 +988,19 @@
    "id": "4c05fd50fc93",
    "related": [],
    "day": "2026-11-21",
+   "watch": []
+  },
+  {
+   "title": "“고개 덜 돌리려면?” 종이 원고는 모니터 아래에",
+   "summary": "한국산업안전보건공단 산업안전보건연구원의 ‘VDT 사무작업환경에 따른 근골격계질환 유해요인 관리방안 연구’는 문서 받침대와 키보드, 마우스를 책상 높이의 정상 작업영역에 두도록 다룬다. 받침대를 몸에서 멀리...",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=408388",
+   "orig": "https://www.vegannews.co.kr/news/article.html?no=408388",
+   "source": "vegannews.co.kr",
+   "published": "2026-11-20T23:18+09:00",
+   "cat": "tech",
+   "id": "dcfad5e5d63b",
+   "related": [],
+   "day": "2026-11-20",
    "watch": []
   },
   {
