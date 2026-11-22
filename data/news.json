@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T09:52+09:00",
+ "updatedAt": "2026-11-22T10:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,11 +34,29 @@
    "count": 2
   },
   {
-   "id": "83936f99323b",
-   "title": "코레일, 소정리역 탈선 사고로 중단된 열차 운행 재개…첫 열차부터 정...",
-   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626839",
-   "source": "mdtoday.co.kr",
+   "id": "6f744f895ff1",
+   "title": "한국승강기안전공단, 내년 AI·디지털 전환 과제 논의",
+   "url": "http://www.metroseoul.co.kr/article/20261120500280",
+   "source": "metroseoul.co.kr",
+   "cat": "tech",
+   "day": "2026-11-22",
+   "count": 1
+  },
+  {
+   "id": "d0436ce90649",
+   "title": "속초해경 고성 천진해역 조업선박 해상추락자 구조",
+   "url": "https://n.news.naver.com/mnews/article/087/0001232369?sid=102",
+   "source": "강원일보",
    "cat": "acc",
+   "day": "2026-11-22",
+   "count": 1
+  },
+  {
+   "id": "31ea9f4019d0",
+   "title": "창녕군, 현업근로자 대상 정기 안전보건교육 실시",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=586946",
+   "source": "newsgn.com",
+   "cat": "hlt",
    "day": "2026-11-22",
    "count": 1
   },
@@ -50,27 +68,48 @@
    "cat": "law",
    "day": "2026-11-22",
    "count": 1
-  },
-  {
-   "id": "5b6ffd203967",
-   "title": "KT, 인파 몰려도 안전영상 전송…5G 통신망 활용 확대",
-   "url": "https://n.news.naver.com/mnews/article/001/0016456122?sid=105",
-   "source": "연합뉴스",
-   "cat": "tech",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
-   "id": "89f08d7d599e",
-   "title": "고령군 내년 예산안 4860억원 편성…복지·재난안전에 방점",
-   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091566",
-   "source": "경북일보",
-   "cat": "hlt",
-   "day": "2026-11-22",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "한국승강기안전공단, 내년 AI·디지털 전환 과제 논의",
+   "summary": "공단과 사업단은 올해 정보시스템 운영 성과를 점검하고 승강기 안전관리에 AI를 적용하기 위한 시스템 개선 과제를 살폈다. 첫날에는 사업단의 운영 성과와 내년 전환 방안, 디지털지원실의 경영정보시스템 발전...",
+   "url": "http://www.metroseoul.co.kr/article/20261120500280",
+   "orig": "http://www.metroseoul.co.kr/article/20261120500280",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-22T10:48+09:00",
+   "cat": "tech",
+   "id": "6f744f895ff1",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "속초해경 고성 천진해역 조업선박 해상추락자 구조",
+   "summary": "속초해경에 따르면 20일 오전 6시30분께 고성 천진해역에서 그물작업중이던 B호(3톤, 연안자망) A씨가 물에... 사고 당시 A씨는 구명조끼를 착용하고 있어 구조되는 과정에서 안전을 확보하는데 도움이 된 것으로...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001232369?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261120500278",
+   "source": "강원일보",
+   "published": "2026-11-22T10:29+09:00",
+   "cat": "acc",
+   "id": "d0436ce90649",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "창녕군, 현업근로자 대상 정기 안전보건교육 실시",
+   "summary": "주요 내용은 신체 보호용 개인보호구 지급 및 착용, 화학물질 취급 안전과 물질안전보건자료(MSDS)의 이해, 산업재해 발생 시 응급처치 이론, 작업 전 안전점검 방법 및 요령 등이다. 군 관계자는 \"안전은 교육장에서 배우는...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=586946",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=586946",
+   "source": "newsgn.com",
+   "published": "2026-11-22T10:24+09:00",
+   "cat": "hlt",
+   "id": "31ea9f4019d0",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "무면허 지게차에 넉 달 새 2명 사망… 제주, 위험사업장 특별점검",
    "summary": "노동당국도 산업안전보건법과 중대재해처벌법 위반 여부를 조사하고 있다. 두 사망사고는 각각 농산물 유통시설과 축산 사료 운송 현장에서 발생했다. 사업장과 작업 환경은 달랐지만 운전자가 필요한 면허를 갖추지...",
@@ -777,6 +816,12 @@
      "url": "https://n.news.naver.com/mnews/article/016/0002726533?sid=102",
      "orig": "https://biz.heraldcorp.com/article/10944682?ref=naver",
      "title": "HS화성, 건설 안전관리 평가 최고 등급 ‘SA1’ 취득"
+    },
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004177074?sid=101",
+     "orig": "https://www.segye.com/newsView/20261122503665?OutUrl=naver",
+     "title": "HS화성, 건설안전관리평가 최고등급 ‘SA1’ 획득"
     }
    ],
    "day": "2026-11-21",
