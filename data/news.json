@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T15:52+09:00",
+ "updatedAt": "2026-11-22T16:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,20 +34,29 @@
    "count": 4
   },
   {
-   "id": "0feb4951b40c",
-   "title": "[단독] ‘나혼산’ 또 시끌···구성환 번지점프 결국 과태료·시정 처...",
-   "url": "https://sports.khan.co.kr/article/202611221317003?pt=nv",
-   "source": "경향신문",
-   "cat": "acc",
-   "day": "2026-11-22",
-   "count": 2
-  },
-  {
    "id": "1fd92b2e3d6b",
    "title": "가스공사, 가스기술공사와 안전·상생 우수사례 경진대회 개최",
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086252",
    "source": "shinailbo.co.kr",
    "cat": "tech",
+   "day": "2026-11-22",
+   "count": 3
+  },
+  {
+   "id": "f99d437443da",
+   "title": "‘나 혼자 산다’ 번지점프 업체, 안전 부실 지적에 과태료 처분",
+   "url": "https://isplus.com/article/view/isp202611220053",
+   "source": "isplus.com",
+   "cat": "acc",
+   "day": "2026-11-22",
+   "count": 2
+  },
+  {
+   "id": "0feb4951b40c",
+   "title": "[단독] ‘나혼산’ 또 시끌···구성환 번지점프 결국 과태료·시정 처...",
+   "url": "https://sports.khan.co.kr/article/202611221317003?pt=nv",
+   "source": "경향신문",
+   "cat": "acc",
    "day": "2026-11-22",
    "count": 2
   },
@@ -59,18 +68,35 @@
    "cat": "law",
    "day": "2026-11-22",
    "count": 2
-  },
-  {
-   "id": "bee606165063",
-   "title": "\"한파 땐 새벽작업 피하세요\"…노동부, 건설현장 집중점검",
-   "url": "https://n.news.naver.com/mnews/article/003/0014337947?sid=102",
-   "source": "뉴시스",
-   "cat": "law",
-   "day": "2026-11-22",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "국가기술자격 540종목 대대적 정비…수요 적은 시험부터 개편",
+   "summary": "한국산업안전보건공단 등 유관기관이 나눠 실시했다. 문제는 시험 종류가 방대한 데 비해 이를 관리·감독할 인적·물적 자원은 한정돼 있다는 점이다. 산업인력공단이 국회에 제출한 자료를 보면 작년 한 해 공단 주관...",
+   "url": "https://www.kbsm.net/news/view.php?idx=542725",
+   "orig": "https://www.kbsm.net/news/view.php?idx=542725",
+   "source": "kbsm.net",
+   "published": "2026-11-22T16:50+09:00",
+   "cat": "tech",
+   "id": "b72ff83c7bb6",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "고위험 임신, 무엇을 주의해야 할까… 산전 관리부터 응급 분만까지",
+   "summary": "안전보건공단 산하 기관으로, 가정의학과 전문의와 산업간호사, 운동처방사, 물리치료사, 산업위생기사, 직무스트레스 상담사 등 전문 인력이 근로자의 건강 증진을 위한 다양한 프로그램을 운영한다. 장시간 근무와 업무...",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=848069",
+   "orig": "https://www.jemin.com/news/articleView.html?idxno=848069",
+   "source": "jemin.com",
+   "published": "2026-11-22T16:30+09:00",
+   "cat": "hlt",
+   "id": "1caf3a7d1b36",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "‘나 혼자 산다’ 번지점프 논란…결국 고용노동부 과태료 처분",
    "summary": "22일 중부지방고용노동청 강원지청에 따르면 강원지청은 해당 사업장을 둘러싼 산업안전 진정 사건을 조사한 뒤 지난 18일 시정조치 5건과 과태료 부과 1건, 개선 권고 1건으로 사건을 마무리했다. 조사 결과 추락재해...",
@@ -197,7 +223,14 @@
    "published": "2026-11-22T14:02+09:00",
    "cat": "acc",
    "id": "f99d437443da",
-   "related": [],
+   "related": [
+    {
+     "source": "tvdaily.co.kr",
+     "url": "http://www.tvdaily.co.kr/read.php3?aid=17953311491810862002",
+     "orig": "http://www.tvdaily.co.kr/read.php3?aid=17953311491810862002",
+     "title": "'나 혼자 산다' 번지점프장 업체, 추락 시정 완료·과태료 처분"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
@@ -288,6 +321,12 @@
      "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120080",
      "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4120080",
      "title": "한국가스공사·한국가스기술공사, 합동 안전·상생 우수사례 경진대회"
+    },
+    {
+     "source": "투데이에너지",
+     "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305892",
+     "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305892",
+     "title": "가스공사·가스기술공사, 현장 우수사례 공유… 안전·상생·혁신 강화"
     }
    ],
    "day": "2026-11-22",
@@ -797,7 +836,14 @@
    "published": "2026-11-21T22:20+09:00",
    "cat": "tech",
    "id": "2d177a1d22b2",
-   "related": [],
+   "related": [
+    {
+     "source": "discoverynews.kr",
+     "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107481",
+     "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107481",
+     "title": "한국환경공단, 노사·협력사 함께 안전한 일터 조성"
+    }
+   ],
    "day": "2026-11-21",
    "watch": []
   },
