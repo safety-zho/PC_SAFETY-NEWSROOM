@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T11:53+09:00",
+ "updatedAt": "2026-11-22T12:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,43 +34,156 @@
    "count": 3
   },
   {
-   "id": "3530bbb35bbb",
-   "title": "‘지각 1분=임금 15분 차감’ 런던베이글뮤지엄…과로사 의혹 속 근무환...",
-   "url": "https://n.news.naver.com/mnews/article/011/0004684749?sid=101",
-   "source": "서울경제",
-   "cat": "hlt",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
-   "id": "20177c47d58d",
-   "title": "국립낙동강생물자원관, 국제 안전보건경영시스템 인증 획득",
-   "url": "https://www.hidomin.com/news/articleView.html?idxno=730375",
-   "source": "경북도민일보",
-   "cat": "tech",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
-   "id": "d0436ce90649",
-   "title": "속초해경 고성 천진해역 조업선박 해상추락자 구조",
-   "url": "https://n.news.naver.com/mnews/article/087/0001232369?sid=102",
-   "source": "강원일보",
-   "cat": "acc",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
-   "id": "6ed7ad5e6ffc",
-   "title": "\"무면허 운전·급정지 금지\"…제주, 지게차 안전 특별점검",
-   "url": "https://n.news.naver.com/mnews/article/421/0009303065?sid=102",
-   "source": "뉴스1",
+   "id": "e3167723f2e4",
+   "title": "노동부, 한파 취약사업장 집중검검⋯5대 기본수칙 이행 확인",
+   "url": "https://www.etoday.co.kr/news/view/2651260",
+   "source": "이투데이",
    "cat": "law",
    "day": "2026-11-22",
-   "count": 1
+   "count": 2
+  },
+  {
+   "id": "bee606165063",
+   "title": "\"한파 땐 새벽작업 피하세요\"…노동부, 건설현장 집중점검",
+   "url": "https://n.news.naver.com/mnews/article/003/0014337947?sid=102",
+   "source": "뉴시스",
+   "cat": "law",
+   "day": "2026-11-22",
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "건양대 산하·수탁기관 합동 안전교육",
+   "summary": "이날 특강은 최종수 고용노동부 안양지청장이 맡아 중대재해처벌법의 핵심 내용과 경영책임자·관리자의 안전보건 확보 의무를 설명하고, 산업 현장과 다중이용시설의 사고 사례를 바탕으로 실효성 있는 예방 대책과 현장...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=938338",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=938338",
+   "source": "cctimes.kr",
+   "published": "2026-11-22T12:44+09:00",
+   "cat": "tech",
+   "id": "f493b51a3d92",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "대구 달서구, 아이 보호부터 퇴원환자 돌봄까지...‘빈틈없는 복지 안전...",
+   "summary": "달서구는 지난 19일 보건복지부 주관 ‘2026년 아동학대 공공 대응체계 운영 평가’에서 대상을 받았다고 22일... 경창산업㈜ 직원봉사단도 행사 운영을 지원해 기업과 지역사회가 함께하는 돌봄의 의미를 더했다....",
+   "url": "https://n.news.naver.com/mnews/article/002/0002466997?sid=102",
+   "orig": "https://www.pressian.com/pages/articles/2026112211425598377?utm_source=naver&utm_medium=search",
+   "source": "프레시안",
+   "published": "2026-11-22T12:23+09:00",
+   "cat": "tech",
+   "id": "0743fa3b67d3",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "예산군, 관리감독자 정기교육으로 산업재해 예방 역량 높여",
+   "summary": "교육에는 가성순 한국산업안전원 교육원장과 군 중대재해예방팀 안전관리자가 강사로 참여해 산업안전보건 관계 법령과 산업재해 예방, 관리감독자의 역할과 현장 안전점검, 도급·용역·위탁사업 담당자의 안전관리...",
+   "url": "http://www.cctimes.kr/news/articleView.html?idxno=938377",
+   "orig": "http://www.cctimes.kr/news/articleView.html?idxno=938377",
+   "source": "cctimes.kr",
+   "published": "2026-11-22T12:14+09:00",
+   "cat": "law",
+   "id": "7fb3981900a6",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "국가자격시험 정비 나선 노동부…자격증 불법 대여도 근절",
+   "summary": "적거나 산업현장에서 필요성이 낮아진 자격 종목부터 정비 대상이 될 전망이다. 22일 고용노동부 측은 현장... 이 중 대부분인 488종목을 공단이 주관 실시하고, 52종목은 대한상공회의소, 한국원자력안전기술원...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004177093?sid=102",
+   "orig": "https://www.segye.com/newsView/20261122504639?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-11-22T12:06+09:00",
+   "cat": "law",
+   "id": "506c998e22ea",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "한파 속 야외 노동자 건강보호 강화…안전수칙 위반 사업장 엄정 대응",
+   "summary": "고용노동부는 23일부터 다음달 4일까지 사업장 사전점검 기간을 운영하고 12월 7일부터 18일까지 한파... 류현철 노동부 산업안전보건본부장은 “한파는 미리 준비하면 충분히 예방할 수 있는 만큼 추위가 본격화되기 전에...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003158013?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1718105/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-22T12:01+09:00",
+   "cat": "acc",
+   "id": "d785920ac07a",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "노동부, 한파 취약사업장 집중검검⋯5대 기본수칙 이행 확인",
+   "summary": "기본 안전수칙 위반 사항에 대해서는 즉각 행정·사법 조치할 방침이다. 고용노동부는 겨울철 한랭질환과... 류현철 산업안전보건본부장은 “한파는 사전 준비로 충분히 예방할 수 있는 만큼 추위가 본격화하기 전에 현장...",
+   "url": "https://www.etoday.co.kr/news/view/2651260",
+   "orig": "https://www.etoday.co.kr/news/view/2651260",
+   "source": "이투데이",
+   "published": "2026-11-22T12:00+09:00",
+   "cat": "law",
+   "id": "e3167723f2e4",
+   "related": [
+    {
+     "source": "아주경제",
+     "url": "https://www.ajunews.com/view/20261122101941378",
+     "orig": "https://www.ajunews.com/view/20261122101941378",
+     "title": "노동부, 한파 취약사업장 집중점검…법 위반 시 과태료"
+    }
+   ],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "겨울철 한랭질환 재해 막는다…노동부, 한파 취약사업장 점검",
+   "summary": "건설현장·폐기물작업장 등 대상…한파안전 5대 수칙 확인 고용노동부는 겨울철 추위가 산업재해로 이어지는 것을 막기 위해 옥외작업이 많은 한파 취약사업장을 대상으로 집중점검에 나선다고 22일 밝혔다. 오는 23일부터...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016456359?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261121021700530?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-22T12:00+09:00",
+   "cat": "law",
+   "id": "1b51b8105363",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "\"한파 땐 새벽작업 피하세요\"…노동부, 건설현장 집중점검",
+   "summary": "고용노동부는 23일부터 내달 4일까지 사업장 사전점검 기간을 운영하고, 내달 7일부터 18일까지 한파... 류현철 노동부 산업안전보건본부장은 \"한파는 미리 준비하면 충분히 예방할 수 있는 만큼, 추위가 본격화되기 전에...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014337947?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261120_0003877432",
+   "source": "뉴시스",
+   "published": "2026-11-22T12:00+09:00",
+   "cat": "law",
+   "id": "bee606165063",
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009303261?sid=101",
+     "orig": "https://www.news1.kr/economy/employment-labor/6361454",
+     "title": "한파 때 새벽작업 조정했나…노동부, 건설현장 등 집중점검"
+    }
+   ],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "노동부 \"국가기술자격증 불법 대여 합동단속\"",
+   "summary": "노동부와 국토교통부, 산업통상부, 과학기술정보통신부, 기후에너지환경부, 소방청이 단속을 실시합니다. 국가기술자격은 해당분야의 지식과 기술을 갖추었음을 국가가 증명하는 제도로, 건설·전기·소방 등 국민안전과...",
+   "url": "https://n.news.naver.com/mnews/article/374/0000545123?sid=101",
+   "orig": "https://biz.sbs.co.kr/article_hub/20000347937?division=NAVER",
+   "source": "SBS",
+   "published": "2026-11-22T12:00+09:00",
+   "cat": "law",
+   "id": "c1b4f68438b3",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "‘지각 1분=임금 15분 차감’ 런던베이글뮤지엄…과로사 의혹 속 근무환...",
    "summary": "기획감독한 결과 인천점 개점 직전 주에 숨진 직원 외에도 동료 6명이 주 70시간 넘게 근무했다. 출근 1분 지각에 15분치 임금을 깎는 등 과소 지급한 임금은 6억 6400만원에 달했다. 직장 내 괴롭힘과 안전보건관리자...",
@@ -541,6 +654,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125363",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125363",
      "title": "전북 김제 수목원 공사 현장서 60대 근로자 추락해 사망"
+    },
+    {
+     "source": "jeonmin.co.kr",
+     "url": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450910",
+     "orig": "http://www.jeonmin.co.kr/news/articleView.html?idxno=450910",
+     "title": "새만금수목원 공사장서 60대 근로자 추락 사망"
     }
    ],
    "day": "2026-11-21",
