@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T10:52+09:00",
+ "updatedAt": "2026-11-22T11:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,13 +31,22 @@
    "source": "jejudomin.co.kr",
    "cat": "sev",
    "day": "2026-11-22",
-   "count": 2
+   "count": 3
   },
   {
-   "id": "6f744f895ff1",
-   "title": "한국승강기안전공단, 내년 AI·디지털 전환 과제 논의",
-   "url": "http://www.metroseoul.co.kr/article/20261120500280",
-   "source": "metroseoul.co.kr",
+   "id": "3530bbb35bbb",
+   "title": "‘지각 1분=임금 15분 차감’ 런던베이글뮤지엄…과로사 의혹 속 근무환...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004684749?sid=101",
+   "source": "서울경제",
+   "cat": "hlt",
+   "day": "2026-11-22",
+   "count": 1
+  },
+  {
+   "id": "20177c47d58d",
+   "title": "국립낙동강생물자원관, 국제 안전보건경영시스템 인증 획득",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=730375",
+   "source": "경북도민일보",
    "cat": "tech",
    "day": "2026-11-22",
    "count": 1
@@ -52,15 +61,6 @@
    "count": 1
   },
   {
-   "id": "31ea9f4019d0",
-   "title": "창녕군, 현업근로자 대상 정기 안전보건교육 실시",
-   "url": "https://www.newsgn.com/news/articleView.html?idxno=586946",
-   "source": "newsgn.com",
-   "cat": "hlt",
-   "day": "2026-11-22",
-   "count": 1
-  },
-  {
    "id": "6ed7ad5e6ffc",
    "title": "\"무면허 운전·급정지 금지\"…제주, 지게차 안전 특별점검",
    "url": "https://n.news.naver.com/mnews/article/421/0009303065?sid=102",
@@ -71,6 +71,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "‘지각 1분=임금 15분 차감’ 런던베이글뮤지엄…과로사 의혹 속 근무환...",
+   "summary": "기획감독한 결과 인천점 개점 직전 주에 숨진 직원 외에도 동료 6명이 주 70시간 넘게 근무했다. 출근 1분 지각에 15분치 임금을 깎는 등 과소 지급한 임금은 6억 6400만원에 달했다. 직장 내 괴롭힘과 안전보건관리자...",
+   "url": "https://n.news.naver.com/mnews/article/011/0004684749?sid=101",
+   "orig": "https://www.sedaily.com/article/20117326?ref=naver",
+   "source": "서울경제",
+   "published": "2026-11-22T11:42+09:00",
+   "cat": "hlt",
+   "id": "3530bbb35bbb",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "국립낙동강생물자원관, 국제 안전보건경영시스템 인증 획득",
+   "summary": "국립낙동강생물자원관은 2021년부터 한국산업안전보건공단의 안전보건경영시스템(KOSHA-MS) 인증을 유지해 왔으며, 이번에는 안전경영 수준을 더욱 높이고 국제적인 신뢰성과 대외 공신력을 확보하기 위해 ISO 45001...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=730375",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=730375",
+   "source": "경북도민일보",
+   "published": "2026-11-22T11:24+09:00",
+   "cat": "tech",
+   "id": "20177c47d58d",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "울산시, 연말까지 겨울철 취약시설 9617건 안전점검 실시",
+   "summary": "사진/울산시 울산시는 겨울철 화재와 안전사고를 막기 위해 다음 달 31일까지 31개 분야 9617건을 점검한다고... 국가산업단지 사업장은 전기·가스 설비와 화학물질 관리 상태, 화재 위험 작업의 안전 조치를 살핀다. 산불...",
+   "url": "http://www.metroseoul.co.kr/article/20261120500316",
+   "orig": "http://www.metroseoul.co.kr/article/20261120500316",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-22T10:52+09:00",
+   "cat": "hlt",
+   "id": "5f393b33db37",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "한국승강기안전공단, 내년 AI·디지털 전환 과제 논의",
    "summary": "공단과 사업단은 올해 정보시스템 운영 성과를 점검하고 승강기 안전관리에 AI를 적용하기 위한 시스템 개선 과제를 살폈다. 첫날에는 사업단의 운영 성과와 내년 전환 방안, 디지털지원실의 경영정보시스템 발전...",
@@ -242,6 +281,12 @@
      "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602512",
      "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602512",
      "title": "제주도, 지게차 사망사고 재발 방지 특별점검 실시"
+    },
+    {
+     "source": "newsjeju.net",
+     "url": "https://www.newsjeju.net/news/articleView.html?idxno=428779",
+     "orig": "https://www.newsjeju.net/news/articleView.html?idxno=428779",
+     "title": "지게차 사고 재발 방지...제주도, 안전관리 강화·특별점검"
     }
    ],
    "day": "2026-11-22",
@@ -490,7 +535,14 @@
    "published": "2026-11-21T18:32+09:00",
    "cat": "sev",
    "id": "e8cc195eb838",
-   "related": [],
+   "related": [
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125363",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125363",
+     "title": "전북 김제 수목원 공사 현장서 60대 근로자 추락해 사망"
+    }
+   ],
    "day": "2026-11-21",
    "watch": []
   },
