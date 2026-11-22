@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T13:51+09:00",
+ "updatedAt": "2026-11-22T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 4
   },
   {
+   "id": "0feb4951b40c",
+   "title": "[단독] ‘나혼산’ 또 시끌···구성환 번지점프 결국 과태료·시정 처...",
+   "url": "https://sports.khan.co.kr/article/202611221317003?pt=nv",
+   "source": "경향신문",
+   "cat": "acc",
+   "day": "2026-11-22",
+   "count": 2
+  },
+  {
    "id": "1fd92b2e3d6b",
    "title": "가스공사, 가스기술공사와 안전·상생 우수사례 경진대회 개최",
    "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086252",
@@ -62,6 +71,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "가스공사·가스기술공사, LNG 현장혁신 공동 확산…'안전·예지보전' 강...",
+   "summary": "고장 이후 대응하는 정비에서 데이터 기반 예지보전으로 관리체계를 고도화하고 스마트 안전기술과 설비 제어 최적화를 현장에 확대함으로써 LNG 공급 안정성을 높이는 동시에 모·자회사 간 상생협력을 강화한다는...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205327",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205327",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-22T14:34+09:00",
+   "cat": "tech",
+   "id": "9cc57a45e3f7",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "HS화성, 건설안전 관리 평가 최고 등급 'SA1'…안전관리 역량 입증",
+   "summary": "지역 대표 건설기업인 HS화성이 건설안전 관리 역량 평가에서 최상위 등급을 획득하며, 현장 중심의 안전경영 성과를 입증했다. 22일 HS화성에 따르면 최근 신용평가 및 적격 업체 전문 평가기관 나이스디앤비가...",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=730411",
+   "orig": "https://www.hidomin.com/news/articleView.html?idxno=730411",
+   "source": "경북도민일보",
+   "published": "2026-11-22T14:24+09:00",
+   "cat": "tech",
+   "id": "83fb5c9c192c",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "\"불 나기 전에 잡는다\"…충남도의회, AI 화재예방체계 구축 시동",
+   "summary": "지역별·시설별 화재 위험요인을 분석해 충남 실정에 맞는 맞춤형 안전관리 모델을 마련한다는 구상이다.... AI 스마트 화재예방 모델을 구축하겠다\"고 강조했다. 연구모임은 오는 12월 최종 연구 결과를 도출할 예정이다....",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086203",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086203",
+   "source": "shinailbo.co.kr",
+   "published": "2026-11-22T14:22+09:00",
+   "cat": "tech",
+   "id": "fa634dd4d571",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단 인천본부, 삼성바이오로직스 등 3개사 근로자 건강증진 우...",
+   "summary": "기호일보, KIHOILBO 한국산업안전보건공단 인천광역본부가 삼성바이오로직스 등 3개 사업장에 근로자 건강증진활동 우수사업장 선정서를 수여한 뒤 기념촬영을 하고 있다. 한국산업안전보건공단 인천광역본부는...",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041685",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041685",
+   "source": "기호일보",
+   "published": "2026-11-22T14:16+09:00",
+   "cat": "tech",
+   "id": "6d3ac277500f",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "‘나 혼자 산다’ 번지점프 업체, 안전 부실 지적에 과태료 처분",
+   "summary": "조사 결과 추락방지와 관련한 산업안전보건기준에 관한 규칙 위반 사항 5건은 모두 시정이 완료된 것으로 파악됐다. 구체적으로는 제32조에 따른 추락재해 예방 보호구 지급을 비롯해 제43조에 따른 추락위험이 있는...",
+   "url": "https://isplus.com/article/view/isp202611220053",
+   "orig": "https://isplus.com/article/view/isp202611220053",
+   "source": "isplus.com",
+   "published": "2026-11-22T14:02+09:00",
+   "cat": "acc",
+   "id": "f99d437443da",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "“안전한 노후 동행”…하나금융, 취약계층 어르신 1천명 맞춤 돌봄",
+   "summary": "강화 경영진의 현장 중심 ESG(환경·사회·지배구조) 행보도 이어졌다. 함영주 하나금융그룹 회장은 지난 20일 서울 양천구에 거주하는 독거 어르신 가정을 직접 방문해 주거 안전용품을 설치하고, 겨울철 한파에 대비한...",
+   "url": "https://www.globalepic.co.kr/view.php?ud=2026112213550720357cc35ccc5c_29",
+   "orig": "https://www.globalepic.co.kr/view.php?ud=2026112213550720357cc35ccc5c_29",
+   "source": "globalepic.co.kr",
+   "published": "2026-11-22T14:00+09:00",
+   "cat": "tech",
+   "id": "84ecc8d4280e",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "한파에도 새벽 작업 그대로?…건설현장 불시점검·위반 시 과태료",
    "summary": "고용노동부는 오늘(22일) 건설현장과 폐기물작업장 등 한파 취약사업장을 대상으로 다음 달 7일부터 18일까지... 류현철 노동부 산업안전보건본부장은 \"한파는 미리 준비하면 충분히 예방할 수 있다\"며 \"사업장에서는...",
@@ -97,7 +184,14 @@
    "published": "2026-11-22T13:18+09:00",
    "cat": "acc",
    "id": "0feb4951b40c",
-   "related": [],
+   "related": [
+    {
+     "source": "topstarnews.net",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16282810",
+     "orig": "https://www.topstarnews.net/news/articleView.html?idxno=16282810",
+     "title": "'나혼산' 구성환 번지점프 업체, 결국 과태료…노동부 시정조치 5건"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
@@ -352,7 +446,14 @@
    "published": "2026-11-22T09:30+09:00",
    "cat": "sev",
    "id": "e55618be9e77",
-   "related": [],
+   "related": [
+    {
+     "source": "jejumaeil.net",
+     "url": "https://www.jejumaeil.net/news/articleView.html?idxno=406987",
+     "orig": "https://www.jejumaeil.net/news/articleView.html?idxno=406987",
+     "title": "잇단 지게차 참변···도, 위험사업장 특별점검"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
