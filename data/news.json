@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-22T16:52+09:00",
+ "updatedAt": "2026-11-22T17:53+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "1fd92b2e3d6b",
+   "title": "가스공사, 가스기술공사와 안전·상생 우수사례 경진대회 개최",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086252",
+   "source": "shinailbo.co.kr",
+   "cat": "tech",
+   "day": "2026-11-22",
+   "count": 4
+  },
+  {
    "id": "f9b42b3129d9",
    "title": "지게차 사망사고 재발 방지 특별점검 추진",
    "url": "https://www.jejudomin.co.kr/news/articleView.html?idxno=402583",
@@ -34,13 +43,13 @@
    "count": 4
   },
   {
-   "id": "1fd92b2e3d6b",
-   "title": "가스공사, 가스기술공사와 안전·상생 우수사례 경진대회 개최",
-   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086252",
-   "source": "shinailbo.co.kr",
-   "cat": "tech",
+   "id": "c8c687e85119",
+   "title": "‘나 혼자 산다’ 번지점프 논란…결국 고용노동부 과태료 처분",
+   "url": "https://www.mk.co.kr/article/12215511",
+   "source": "매일경제",
+   "cat": "law",
    "day": "2026-11-22",
-   "count": 3
+   "count": 2
   },
   {
    "id": "f99d437443da",
@@ -59,18 +68,113 @@
    "cat": "acc",
    "day": "2026-11-22",
    "count": 2
-  },
-  {
-   "id": "e3167723f2e4",
-   "title": "노동부, 한파 취약사업장 집중검검⋯5대 기본수칙 이행 확인",
-   "url": "https://www.etoday.co.kr/news/view/2651260",
-   "source": "이투데이",
-   "cat": "law",
-   "day": "2026-11-22",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "자재비 안정돼도 공사비 급등…\"공사기간 늘고 안전비용 오른 탓\"",
+   "summary": "길어지고 안전관리 비용이 늘어 공사비를 끌어올렸다. 공사비가 오르면 사업주체뿐 아니라 시공사의 공사 이윤도 줄어 건설경기를 위축시키는 요인이 된다. 금융감독원 전자공시시스템에 공시된 시공능력평가...",
+   "url": "https://n.news.naver.com/mnews/article/417/0001165195?sid=101",
+   "orig": "https://www.sidae.com/article/2026112119050457990",
+   "source": "sidae.com",
+   "published": "2026-11-22T17:42+09:00",
+   "cat": "law",
+   "id": "d4c0dc58db61",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "12월 8일 지방 노동감독 시행, '임금체불' 집중 점검 [생활정보]",
+   "summary": "근로기준·안전보건의 통일적 적용, 지방노동감독관 역량 강화다. 고용노동부가 발표한 방안은 이 과정을... 사회적 이슈나 산업재해로 특정 업종·분야를 긴급 점검해야 할 때 위임 대상을 추가·변경하는 절차도 따로...",
+   "url": "https://www.wikitree.co.kr/articles/1176738",
+   "orig": "https://www.wikitree.co.kr/articles/1176738",
+   "source": "위키트리",
+   "published": "2026-11-22T17:40+09:00",
+   "cat": "law",
+   "id": "d2272f7af44d",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "간병노동자, 병원·소개소 지시받는데···'산재보험 적용'은?",
+   "summary": "있다\"며 \"시행령 개정 시 구체적인 판단 지침이나 매뉴얼을 함께 마련해야 한다\"고 했다. 또 \"산재보험법... 유현우 고용노동부 산업안전보건본부 산재보상정책과 행정사무관은 \"노동부는 국정 과제인 전 국민 산재보험의...",
+   "url": "https://www.laborplus.co.kr/news/articleView.html?idxno=41864",
+   "orig": "https://www.laborplus.co.kr/news/articleView.html?idxno=41864",
+   "source": "laborplus.co.kr",
+   "published": "2026-11-22T17:36+09:00",
+   "cat": "law",
+   "id": "aaac05c40783",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "전남광주지역 제조업 안전 노하우 한자리에",
+   "summary": "광주지방고용노동청(청장 이도영)과 안전보건공단 광주광역본부(본부장 이동원)는 최근 삼성전자... 1부 행사에서는 7개 회원사가 자율적으로 실천한 안전관리 사례를 발표했고, 산업재해 예방에 기여한 관계자에게...",
+   "url": "http://www.jndn.com/article.php?aid=1795335379443477004",
+   "orig": "http://www.jndn.com/article.php?aid=1795335379443477004",
+   "source": "jndn.com",
+   "published": "2026-11-22T17:20+09:00",
+   "cat": "tech",
+   "id": "170df32f6673",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "고용허가제 22년…이주노동자는 왜 위험한 일터를 떠나지 못하나",
+   "summary": "근로복지공단이 폐질환을 업무상 질병으로 인정하지 않자, 2024년 포천이주노동자센터의 도움으로 서울행정법원에 공단의 처분을 취소해달라는 소송을 냈다. 산재를 신청한 지 4년10개월이 지난 이날 아지트씨는 “아직도...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002833382?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/capital/1288512.html",
+   "source": "한겨레",
+   "published": "2026-11-22T17:18+09:00",
+   "cat": "hlt",
+   "id": "ede9fe380b1f",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "안성소방서, 겨울철 공장 화재 예방수칙 집중 홍보",
+   "summary": "22일 소방서에 따르면 이번 집중 홍보는 공장 내 각종 설비와 가연성 물질 등 화재 위험요인을 사전에 관리하고 화재 발생 시 근로자의 신속한 대피와 인명피해를 예방하기 위해 마련됐다. 안성소방서 겨울철 공장 화재...",
+   "url": "https://www.newspim.com/news/view/20261122000011",
+   "orig": "https://www.newspim.com/news/view/20261122000011",
+   "source": "뉴스핌",
+   "published": "2026-11-22T17:05+09:00",
+   "cat": "tech",
+   "id": "5e94f8805100",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "한파 취약사업장 내달 7~18일 집중 점검",
+   "summary": "류현철 고용노동부 산업안전보건본부장은 \"한파로 인한 산업재해는 사전에 대비하면 충분히 막을 수 있다\"며 \"각 사업장은 자율점검 기간에 5대 안전수칙의 이행 상태를 꼼꼼히 살피고 부족한 부분을 집중점검이 시작되기...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=930041",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=930041",
+   "source": "남도일보",
+   "published": "2026-11-22T16:54+09:00",
+   "cat": "law",
+   "id": "65551f038752",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "전남광주 제조업 120개사, 산재 예방 공동 대응",
+   "summary": "지역 산업현장 전반으로 확산되기를 바란다\"고 말했다. 이동원 안전보건공단 광주광역본부장은 \"우수한 안전관리 사례는 실제 현장에 적용될 때 더욱 의미가 있다\"며 \"중소규모 사업장에서도 위험성평가와 기본...",
+   "url": "https://www.namdonews.com/news/articleView.html?idxno=930039",
+   "orig": "https://www.namdonews.com/news/articleView.html?idxno=930039",
+   "source": "남도일보",
+   "published": "2026-11-22T16:54+09:00",
+   "cat": "tech",
+   "id": "64683e3e1881",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
   {
    "title": "국가기술자격 540종목 대대적 정비…수요 적은 시험부터 개편",
    "summary": "한국산업안전보건공단 등 유관기관이 나눠 실시했다. 문제는 시험 종류가 방대한 데 비해 이를 관리·감독할 인적·물적 자원은 한정돼 있다는 점이다. 산업인력공단이 국회에 제출한 자료를 보면 작년 한 해 공단 주관...",
@@ -106,7 +210,14 @@
    "published": "2026-11-22T15:25+09:00",
    "cat": "law",
    "id": "c8c687e85119",
-   "related": [],
+   "related": [
+    {
+     "source": "celuvmedia.com",
+     "url": "http://www.celuvmedia.com/article.php?aid=1795334027531360010",
+     "orig": "http://www.celuvmedia.com/article.php?aid=1795334027531360010",
+     "title": "'나혼산' 번지점프 안전 논란 업체, 고용노동부 과태료 처분"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
@@ -327,6 +438,12 @@
      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305892",
      "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305892",
      "title": "가스공사·가스기술공사, 현장 우수사례 공유… 안전·상생·혁신 강화"
+    },
+    {
+     "source": "m-i.kr",
+     "url": "https://www.m-i.kr/news/articleView.html?idxno=2021731",
+     "orig": "https://www.m-i.kr/news/articleView.html?idxno=2021731",
+     "title": "한국가스공사·가스기술공사, 안전·상생·혁신 우수사례 공유…현장 정..."
     }
    ],
    "day": "2026-11-22",
@@ -537,7 +654,14 @@
    "published": "2026-11-22T10:24+09:00",
    "cat": "hlt",
    "id": "31ea9f4019d0",
-   "related": [],
+   "related": [
+    {
+     "source": "경남도민신문",
+     "url": "http://www.gndomin.com/news/articleView.html?idxno=497822",
+     "orig": "http://www.gndomin.com/news/articleView.html?idxno=497822",
+     "title": "창녕군, 현업근로자 대상 4분기 정기 안전보건교육 실시"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
