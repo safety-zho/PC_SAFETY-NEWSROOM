@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T14:53+09:00",
+ "updatedAt": "2026-11-23T15:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,22 +25,31 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "59a6fb3e133f",
-   "title": "DL이앤씨 새만금수목원 현장서 노동자 추락사…일부 작업중지",
-   "url": "http://www.4th.kr/news/articleView.html?idxno=2122412",
-   "source": "포쓰저널",
-   "cat": "acc",
-   "day": "2026-11-23",
-   "count": 15
-  },
-  {
    "id": "b1c037dec5d8",
    "title": "HD현대중공업, 안전총괄 대표 따로 둔다…조민수 사장 선임",
    "url": "https://n.news.naver.com/mnews/article/011/0004685077?sid=102",
    "source": "서울경제",
    "cat": "tech",
    "day": "2026-11-23",
-   "count": 14
+   "count": 17
+  },
+  {
+   "id": "59a6fb3e133f",
+   "title": "DL이앤씨 새만금수목원 현장서 노동자 추락사…일부 작업중지",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2122412",
+   "source": "포쓰저널",
+   "cat": "acc",
+   "day": "2026-11-23",
+   "count": 17
+  },
+  {
+   "id": "b64c90252930",
+   "title": "한전, 전국 267개 사업장에 명예산업안전감독관 281명 위촉",
+   "url": "https://www.ajunews.com/view/20261123141108171",
+   "source": "아주경제",
+   "cat": "law",
+   "day": "2026-11-23",
+   "count": 10
   },
   {
    "id": "509a649c6910",
@@ -52,25 +61,393 @@
    "count": 10
   },
   {
-   "id": "c3fe886f6af5",
-   "title": "HD현대중, 조민수 안전총괄 대표이사 선임…\"안전 최우선 경영\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016457905?sid=101",
-   "source": "연합뉴스",
-   "cat": "tech",
-   "day": "2026-11-23",
-   "count": 6
-  },
-  {
-   "id": "7fd6931dfdc0",
-   "title": "커리어넷, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073187",
-   "source": "경상일보",
-   "cat": "tech",
+   "id": "bfc85d48d0d4",
+   "title": "한전, 전국 267개 전 사업장 근로자 대표에게 '안전 감독권' 맡긴다",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205352",
+   "source": "energydaily.co.kr",
+   "cat": "law",
    "day": "2026-11-23",
    "count": 6
   }
  ],
  "articles": [
+  {
+   "title": "한파·폭설 앞둔 건설현장 2946곳 점검…안전 사각지대 잡을까",
+   "summary": "기온 하락에 따른 가설구조물 변형과 콘크리트 품질 저하, 작업자 추락 등 계절적 위험요인을 사전에 차단하기 위해서다. 정부의 대규모 점검에도 현장에서는 안전난간 미설치와 추락방지시설 미비 등 기본적인 안전조치...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507058",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507058",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-23T15:50+09:00",
+   "cat": "law",
+   "id": "2ae28ea2c693",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "[뉴스워커_이종배 의원] '급박한 위험' 판단 어려웠던 작업중지권…행사...",
+   "summary": "국민의힘 이종배 의원(충북 충주·4선)이 근로자의 작업중지권 행사 기준을 구체화하는 '산업안전보건법 일부개정법률안'을 대표발의했다고 23일 밝혔다. 산업현장에서 위험 상황이 발생했을 때 근로자가 작업을 중지하고...",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=515634",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=515634",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-23T15:48+09:00",
+   "cat": "law",
+   "id": "4a708774c981",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "고용노동부, 2027년도 국가기술자격검정 시행계획 공고",
+   "summary": "고용노동부는 지난 23일 2027년도 국가기술자격검정 시행계획을 공고했다. 내년 시험은 종목 신설·폐지... 내년에 폐지되는 2종목은 산업통상부 소관의 포상산업기사와 석공예기능사다. 한편, 안전관리...",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127835",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127835",
+   "source": "가스신문",
+   "published": "2026-11-23T15:42+09:00",
+   "cat": "law",
+   "id": "12170e237e03",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "영주시, 겨울철 폭설 대비 도로제설 모의훈련 실시…빈틈없는 안전도로...",
+   "summary": "차량 이동 경로 점검을 통해 제설 사각지대 발생 여부를 확인하고, 작업 중 안전사고 예방을 위한 안전수칙 교육도 병행해 현장 대응 역량과 안전의식을 한층 끌어올렸다. 영주시는 겨울철 제설대책 기간인 지난...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=96246",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=96246",
+   "source": "eroun.net",
+   "published": "2026-11-23T15:40+09:00",
+   "cat": "tech",
+   "id": "ef59d87c7322",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "K방산 4사 수주잔고 100조 붕괴...정치·입찰 변수에 신규 일감 확보 '경...",
+   "summary": "지난 6월 발생한 사고로 근로자 5명이 숨지고 2명이 다친 가운데 고용노동부는 특별감독을 통해 총 473건의 산업안전보건법 위반사항을 적발했다. 향후 방위사업청의 입찰참가자격 제한 처분 여부에 따라 국내 신규...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565887",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=565887",
+   "source": "joongangenews.com",
+   "published": "2026-11-23T15:40+09:00",
+   "cat": "acc",
+   "id": "e452acb951e5",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "강원랜드, 경영공백 끝 조직 재정비…준법·안전 강화",
+   "summary": "지역경제와의 상생부터 카지노 이용자 보호, 준법·안전경영까지 핵심 기능을 재배치해 새로운 경영진의 정책 실행력을 높이겠다는 구상이다. 강원랜드는 2년 9개월간의 경영공백 이후 새 경영진 출범에 맞춰 기존 4본부...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507109",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507109",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-23T15:40+09:00",
+   "cat": "tech",
+   "id": "8951c12188ea",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "포항 북구청, 산림녹지 근로자 대상 안전보건교육",
+   "summary": "이번 교육에는 산림녹지분야 기간제근로자 24명과 산불진화대원이 참여하며, 산업안전보건법에 따른 특별안전보건교육과 정기안전보건교육으로 나눠 진행된다. 특별교육에서는 작업 현장에서 사용하는 휘발유와...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=561765",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=561765",
+   "source": "dkilbo.com",
+   "published": "2026-11-23T15:36+09:00",
+   "cat": "hlt",
+   "id": "98357cc6e61b",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "[스타트UP] 현대차도 주목한 현장 안전 솔루션…와트, 스마트글라스·AI...",
+   "summary": "‘와트’ 기술 개발의 가치입니다.” 산업현장 안전관리 솔루션 기업 와트는 스마트글라스와 AI, 클라우드를 결합해 현장 중심의 안전관리 체계를 구축하고 있다. 2020년 김진명 대표가 설립한 와트는 작업자가 양손을...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001206716?sid=101",
+   "orig": "https://biz.chosun.com/industry/business-venture/2026/11/23/EXSZY3JOPNAE7FRNFLSG6OX6TM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-23T15:35+09:00",
+   "cat": "tech",
+   "id": "7eeccf44f3c0",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "[에너지 NOW] 한국전력·한국수력원자력",
+   "summary": "◆한전, 전사업장 근로자 대표에 '안전 감독권' 맡긴다 한국전력은 산업재해 원천 차단을 위해 전국 전 업장의 전력노조 지회위원장을 '명예산업안전감독관'으로 위촉하고 노사 합동 자율안전관리 체계 구축에 나섰다고...",
+   "url": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195104",
+   "orig": "https://www.wikileaks-kr.org/news/articleView.html?idxno=195104",
+   "source": "wikileaks-kr.org",
+   "published": "2026-11-23T15:30+09:00",
+   "cat": "law",
+   "id": "1265a1d3d0bc",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "혈액안전관리 유공자 4명·우수기관 5곳, 국립장기조직혈액관리원장 표...",
+   "summary": "우수기관은 ▲삼성창원병원 수혈관리실 ▲인천광역시 보건환경연구원 매개체감염병과 ▲대한적십자사 서울동부혈액원 헌혈의집 노해로센터 ▲대한적십자사 부산혈액원 헌혈의집 서면센터 ▲대한산업보건협회...",
+   "url": "https://www.medicaltimes.com/Main/News/InformView.html?ID=11530&ref=naverpc",
+   "orig": "https://www.medicaltimes.com/Main/News/InformView.html?ID=11530&ref=naverpc",
+   "source": "메디칼타임즈",
+   "published": "2026-11-23T15:30+09:00",
+   "cat": "hlt",
+   "id": "70dcd78ac512",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "장례 못 치르고 맞은 스물여덟살 생일…HD현대삼호 사고 21일째",
+   "summary": "사고 당시 작업환경과 이산화탄소 등 유해가스 노출 위험, 안전조치 이행 여부를 조사해 결과를 공개하고, 원·하청 사업주의 산업안전보건법과 중대재해처벌법 위반 여부도 철저히 확인하라고 요구했다.",
+   "url": "https://www.kukinews.com/article/view/kuk202611230144",
+   "orig": "https://www.kukinews.com/article/view/kuk202611230144",
+   "source": "쿠키뉴스",
+   "published": "2026-11-23T15:28+09:00",
+   "cat": "acc",
+   "id": "156197c0c635",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "횡성군, 내년 본예산 7150억 편성…복지·농축산·안전 우선",
+   "summary": "민생지원금의 소비 진작 효과와 농가 경영비 절감, 재해예방시설의 안전성 확보 여부 등을 구체적으로 살펴야 한다. 특히 관광객 500만명 유치 목표가 숙박·음식점 매출과 고용 증가로 이어지도록 정책 간 연계성을...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014340187?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261123_0003879535",
+   "source": "뉴시스",
+   "published": "2026-11-23T15:25+09:00",
+   "cat": "tech",
+   "id": "b02497e2aa1e",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "평택도시공사, 도로재비산먼지 차량 운전원 안전교육 진행...가스누출·...",
+   "summary": "도로에서 작업하는 과정에서 가스누출이나 차량화재 등 비상상황에 대비할 필요가 있다. 이에 공사는 가스 분야 전문기관의 교육시설을 활용해 운전원들이 사고 유형별 대응요령을 익히고, 실제 상황에 적용할 수 있도록...",
+   "url": "https://www.ajunews.com/view/20261123151024481",
+   "orig": "https://www.ajunews.com/view/20261123151024481",
+   "source": "아주경제",
+   "published": "2026-11-23T15:24+09:00",
+   "cat": "tech",
+   "id": "a0257bd82e18",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "가스공사, 조직개편 단행…\"시설·건설·안전 기능 일원화\"",
+   "summary": "한국가스공사가 시설운영·건설·안전 기능을 일원화하고 안전 컨트롤타워 기능을 강화한다. 이를 통해... 전사 차원의 AX 전략 수립과 실행 기능을 강화하고 ESG경영처를 신설해 지속가능경영 추진체계를 정비할...",
+   "url": "https://www.g-enews.com/view.php?ud=2026112314441052441d2373fc0f_1",
+   "orig": "https://www.g-enews.com/view.php?ud=2026112314441052441d2373fc0f_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-23T15:24+09:00",
+   "cat": "tech",
+   "id": "561541e00e18",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "[단독] 평택항 케이슨 안전하다는데…판단 근거는 왜 비공개하나",
+   "summary": "본체의 안전성 판단 근거가 여전히 불명확한 만큼, 보다 구체적인 설명과 검증 가능한 정보공개가 필요하다. 뉴스투데이는 해수청의 하자검사·보수 이행 기록을 추가로 확인해 관리·감독의 적정성을 계속 취재할...",
+   "url": "https://www.news2day.co.kr/article/20261122500063",
+   "orig": "https://www.news2day.co.kr/article/20261122500063",
+   "source": "뉴스투데이",
+   "published": "2026-11-23T15:22+09:00",
+   "cat": "law",
+   "id": "8c151555676c",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "\"화재 골든타임 사수\"… 영양군청·119안전센터 합동 소방훈련 실시",
+   "summary": "◇ 오도창 군수 안전 행정 철학… \"지속적 훈련으로 무재해 안심 청사 구현\" 평소 반복적이고 체계적인 훈련만이 대형 참사를 막을 수 있다는 군 지휘부의 안전 경영 의지도 현장에서 분명히 확인됐다. 오도창 영양군수는...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495847",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2495847",
+   "source": "이뉴스투데이",
+   "published": "2026-11-23T15:22+09:00",
+   "cat": "tech",
+   "id": "1eaeae6321a0",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "첫 HODIA 디자인위크, 의회 본회의장에서 안전을 묻다",
+   "summary": "본회의장에서 '안전디자인ㆍ디자인이 없다면'을 주제로 '제1회 2026 HODIA 디자인위크'를 개최했다고 밝혔다.... (사)광주경영자총협회 본부장 등은 나눔 기부로 뜻을 보탰다. 이 밖에 디자인·학계 인사와 산업·연구·행정...",
+   "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250256",
+   "orig": "http://www.sisunnews.co.kr/news/articleView.html?idxno=250256",
+   "source": "sisunnews.co.kr",
+   "published": "2026-11-23T15:18+09:00",
+   "cat": "tech",
+   "id": "326690227ea8",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "강원 영서지역 눈·비 결빙에 교통사고 속출…40여명 부상",
+   "summary": "이날 오전 9시 59분쯤 횡성군 둔내면 현천리에서 승용차 1대가 단독 사고 후 작업 중인 펌프차의 뒤를 또 다른 승용차가 들이받으면서 4명이 중경상을 입었다. 이후 같은 곳에서 차량 4대가 추가로 추돌했다. 오전 9시...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002834839?sid=102",
+   "orig": "https://www.munhwa.com/article/11633388?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-23T15:15+09:00",
+   "cat": "acc",
+   "id": "bd749bf82ba4",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "재난 비상근무 공무원 절반 안전교육 '미실시'…\"개선 시급\"",
+   "summary": "'산업안전보건위원회에 노조 지부가 참여하지 않는다'는 응답은 61.74%, '위원회 자체가 구성되지 않았다'는 응답은 10.43%였다. '위원회 외에 안전보건 문제를 정기적으로 논의하는 협의기구가 없다'는 응답도 68.7%였다....",
+   "url": "https://n.news.naver.com/mnews/article/003/0014340154?sid=100",
+   "orig": "https://www.newsis.com/view/NISX20261123_0003879006",
+   "source": "뉴시스",
+   "published": "2026-11-23T15:14+09:00",
+   "cat": "hlt",
+   "id": "dc575b27bfe4",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "기업 안전보건 관리 수준 공개한다…산재 현황부터 예방투자까지 공시",
+   "summary": "마련하고 산업계 의견을 수렴한다. 고용노동부는 23일 서울 명동 로얄호텔에서 한국경영자총협회와 함께 안전보건 현황 공시 대상 기업 담당자를 대상으로 설명회를 개최했다. 이번 설명회는 새롭게 도입되는 안전보건...",
+   "url": "https://n.news.naver.com/mnews/article/119/0003158388?sid=102",
+   "orig": "https://www.dailian.co.kr/news/view/1718515/?sc=Naver",
+   "source": "데일리안",
+   "published": "2026-11-23T15:08+09:00",
+   "cat": "law",
+   "id": "edcf75f6db64",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "강원랜드, 조직개편 단행…지역 상생·안전 경영 중심 정비",
+   "summary": "지역경제 선도 기업 역할 강화와 카지노 이용자 권익 보호, 내부통제 고도화, 안전 경영체제 구축 등 4대 방향을 중심으로 조직을 정비했다. 우선 지역경제의 핵심 선도 기업으로서 지역사회와의 동반성장과 상생 경영을...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016458597?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261123121500062?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-23T15:08+09:00",
+   "cat": "tech",
+   "id": "db187d412c18",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "민주노총 제주본부 \"지게차 사고 대책, 홍보·교육만으론 부족\"",
+   "summary": "민주노총 제주본부는 제주도가 발표한 지게차 사망사고 재발방지 대책을 두고 \"홍보와 교육에 치중한... 따라 산재 예방 실태조사를 할 권한이 있는데도 관련 대책은 포함되지 않았다\"고 꼬집었다. 또 \"넉 달간 두 명이...",
+   "url": "https://www.jejusori.net/news/articleView.html?idxno=508573",
+   "orig": "https://www.jejusori.net/news/articleView.html?idxno=508573",
+   "source": "제주의소리",
+   "published": "2026-11-23T15:06+09:00",
+   "cat": "tech",
+   "id": "a3b2f0ee18a0",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "김해 50인 이상 업체·50억 원 이상 건설 사업장, 위험성평가 위반 땐 과...",
+   "summary": "김해시는 올해 6월 개정된 산업안전보건법과 사업장 위험성평가에 관한 지침 개정에 따라 강화되는 제도가 현장에 안정적으로 정착하도록 내년 4월까지 집중 홍보한다. 위험성평가는 사업주와 노동자가 작업장 유해...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2020303",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2020303",
+   "source": "경남도민일보",
+   "published": "2026-11-23T15:06+09:00",
+   "cat": "acc",
+   "id": "5c9971ef76de",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "한전, 전력노조 임원 281명에 안전 감독권 부여",
+   "summary": "한국전력은 전국전력노동조합과 함께 전국 267개 한전 사업장의 전력노조 지회위원장 281명을 명예산업안전감독관으로 임명하는 '명예산업안전감독관 위촉식'을 개최했다고 23일 밝혔다. 이날 충북 충주시 한국전력...",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140705",
+   "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=140705",
+   "source": "newslock.co.kr",
+   "published": "2026-11-23T15:06+09:00",
+   "cat": "law",
+   "id": "4c8594a8c051",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "김해 산재 사망 현실 못 따라가는 예방 활동",
+   "summary": "특히 올해 김해 지역 산재 사망자 11명은 전원 50인 미만 사업장에서 나왔다. 5인 미만 사업장에서 3명, 5인 이상 50인 미만 사업장에서 8명이 숨졌다. 8건이 중대재해처벌법상 중대재해로 분류된 셈이다. 사고가 난...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001408528?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026112314254242674",
+   "source": "부산일보",
+   "published": "2026-11-23T15:03+09:00",
+   "cat": "sev",
+   "id": "1243840885a7",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "주정영 김해시의원 \"대형 공사장 안전관리 시스템 강화해야\"",
+   "summary": "지난달 말 김해 신문동의 한 아파트 신축공사 현장에서 벌어진 대형 공사장비 추락사고를 두고 김해시의회가... 있던 작업자 1명이 다쳤다. 다행히 일반 보행자에 대한 피해는 없었지만 아파트의 담장과 조경시설이...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=587395",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=587395",
+   "source": "newsgn.com",
+   "published": "2026-11-23T15:02+09:00",
+   "cat": "law",
+   "id": "8e917450e9f9",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "김영훈 노동부 장관, 일하는 사람 기본법 반대 주장에 공개 반박",
+   "summary": "고용노동부의 일하는 사람 기본법을 연내 제정하겠다는 입장을 명확히 한 것이다. 정부 입장 관철 시 고용보험을 비롯해 산업안전보건법 적용 확대 등이 플랫폼 노동자, 프리랜서 등에 포용될 것으로 보인다. 김 장관은 위...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251741",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251741",
+   "source": "안전신문",
+   "published": "2026-11-23T15:00+09:00",
+   "cat": "law",
+   "id": "c2070f9a0719",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "(단독)참사 2주기 앞두고…사조위, 제주항공에 증거물 분리 요청 논란",
+   "summary": "논란은 사조위가 해당 작업을 사고 당사자인 제주항공에게 요청하면서 불거졌습니다. 사고 원인 규명에 필요한 핵심 증거물을 항공사가 직접 분리하고 운반하는 과정에서 훼손 가능성을 배제할 수 없어 증거 보존과 조사...",
+   "url": "http://www.newstomato.com/ReadNews.aspx?no=1321448&inflow=N",
+   "orig": "http://www.newstomato.com/ReadNews.aspx?no=1321448&inflow=N",
+   "source": "뉴스토마토",
+   "published": "2026-11-23T14:58+09:00",
+   "cat": "sev",
+   "id": "35ea923cbaed",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "안전조치 미이행·위험 기상상황·건강장해 등 작업중지 기준 명확화 법...",
+   "summary": "국회 기후에너지환경노동위원회 소속 국민의힘 이종배 의원(충북 충주·사진)은 23일 이같은 내용의 '산업안전보건법 일부개정법률안'을 대표발의했다고 밝혔다. 현행법은 '산업재해가 발생할 급박한 위험'이 있거나...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327595",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327595",
+   "source": "대한전문건설신문",
+   "published": "2026-11-23T14:52+09:00",
+   "cat": "law",
+   "id": "14adede06cc3",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
   {
    "title": "인니 제과공장 화재 사망자 24명으로 늘어…실종자 30명 수색",
    "summary": "소방 당국은 불에 탄 잔해 속에서 실종자 약 30명에 대한 수색 작업을 이어가고 있다고 23일 밝혔다. 불은... 스티븐 어윈 위자야 공장 CEO는 사고 당일 토요일 근무조로 약 300명이 현장에 있었다고 밝혔다. 반텐주...",
@@ -145,7 +522,14 @@
    "published": "2026-11-23T14:36+09:00",
    "cat": "law",
    "id": "18f6f729ffb7",
-   "related": [],
+   "related": [
+    {
+     "source": "newsworker.co.kr",
+     "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=515625",
+     "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=515625",
+     "title": "한전, 전 사업장 노조 지회위원장 '명예산업안전감독관' 위촉... 자율안..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -171,6 +555,32 @@
    "published": "2026-11-23T14:35+09:00",
    "cat": "law",
    "id": "cfe296984c2d",
+   "related": [
+    {
+     "source": "kfenews.co.kr",
+     "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=668554",
+     "orig": "https://www.kfenews.co.kr/news/articleView.html?idxno=668554",
+     "title": "전북도, 군산항 활성화·겨울철 안전관리 강화"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760450",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3760450",
+     "title": "이원택 도지사, 군산항 활성화·겨울철 안전 점검…체감성장 과제 발굴"
+    }
+   ],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "간호사 죽음 부른 ‘태움’, 폭행 없어도 상해혐의 적용…형사처벌 길 ...",
+   "summary": "강 씨의 ‘사망’과 괴롭힘 사이의 인과관계를 따지는 대신, 괴롭힘으로 인해 ‘중증 우울증’이 발병한 것... 질병(산재)까지 인정받은 점이 결정적 근거가 됐다. 의료계와 노동계는 이번 결정이 병원 조직문화를 바꾸는...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003764405?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261123/135073516/1",
+   "source": "동아일보",
+   "published": "2026-11-23T14:34+09:00",
+   "cat": "sev",
+   "id": "844b46a367c5",
    "related": [],
    "day": "2026-11-23",
    "watch": []
@@ -242,6 +652,12 @@
      "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629836",
      "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=629836",
      "title": "한전, 사업장 267곳 노조 지회위원장 281명 안전감독관 위촉"
+    },
+    {
+     "source": "the-biz.co.kr",
+     "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731906",
+     "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=731906",
+     "title": "한전, 노조 지회위원장 281명에 안전점검·작업중지 요청 권한"
     }
    ],
    "day": "2026-11-23",
@@ -307,6 +723,24 @@
      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=305942",
      "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=305942",
      "title": "한전, 사업장 근로자 대표에게 '안전 감독권' 맡긴다."
+    },
+    {
+     "source": "ekoreanews.co.kr",
+     "url": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89338",
+     "orig": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=89338",
+     "title": "한전, 전국 267개 전 사업장 근로자 대표에게 '안전 감독권' 맡겨"
+    },
+    {
+     "source": "문화일보",
+     "url": "https://n.news.naver.com/mnews/article/021/0002834854?sid=102",
+     "orig": "https://www.munhwa.com/article/11633403?ref=naver",
+     "title": "한전, 전국 267개 사업장 근로자 대표에게 ‘안전 감독권’ 맡긴다"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003158421?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1718556/?sc=Naver",
+     "title": "한전, 전국 267개 전 사업장 근로자 대표에게 '안전 감독권' 맡긴다"
     }
    ],
    "day": "2026-11-23",
@@ -384,6 +818,36 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009305178?sid=101",
      "orig": "https://www.news1.kr/photos/8228408",
      "title": "한전, 명예산업안전감독관 위촉식"
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760378",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3760378",
+     "title": "한전, 노조와 267개 사업장 안전감독망 구축"
+    },
+    {
+     "source": "megaeconomy.co.kr",
+     "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592501472008",
+     "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592501472008",
+     "title": "한전, 전국 267개 사업장에 '명예산업안전감독관' 배치…노사 안전관리..."
+    },
+    {
+     "source": "글로벌이코노믹",
+     "url": "https://www.g-enews.com/view.php?ud=202611231517397431d2373fc0f_1",
+     "orig": "https://www.g-enews.com/view.php?ud=202611231517397431d2373fc0f_1",
+     "title": "한전, 전국 명예산업안전감독관 281명 위촉…현장 안전 강화"
+    },
+    {
+     "source": "koreareport.co.kr",
+     "url": "https://www.koreareport.co.kr/news/articleView.html?idxno=55038",
+     "orig": "https://www.koreareport.co.kr/news/articleView.html?idxno=55038",
+     "title": "한전, 전국 267개 사업장 노조 지회위원장 명예산업안전감독관 위촉"
+    },
+    {
+     "source": "thepowernews.co.kr",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=2026112314585249626d16d784a7_7",
+     "orig": "https://www.thepowernews.co.kr/view.php?ud=2026112314585249626d16d784a7_7",
+     "title": "한전, 전국 267개 사업장 노조 지회장 281명 안전감독관 위촉"
     }
    ],
    "day": "2026-11-23",
@@ -613,7 +1077,14 @@
    "published": "2026-11-23T13:48+09:00",
    "cat": "tech",
    "id": "cc7795efe880",
-   "related": [],
+   "related": [
+    {
+     "source": "쿠키뉴스",
+     "url": "https://www.kukinews.com/article/view/kuk202611230145",
+     "orig": "https://www.kukinews.com/article/view/kuk202611230145",
+     "title": "에너토크·수자원공사, 맨홀 질식사고 막는다…지능형 안전 시스템 특허..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -815,7 +1286,14 @@
    "published": "2026-11-23T12:53+09:00",
    "cat": "law",
    "id": "e99b6974e02b",
-   "related": [],
+   "related": [
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760488",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3760488",
+     "title": "[기고] 지역을 아는 경찰, 함께하는 주민이 안전한 지역을 만든다"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -1223,6 +1701,24 @@
      "url": "https://n.news.naver.com/mnews/article/030/0003488636?sid=101",
      "orig": "https://www.etnews.com/20261123000365",
      "title": "HD현대중공업, 조민수 안전총괄 대표이사 선임"
+    },
+    {
+     "source": "컨슈머타임스",
+     "url": "https://www.cstimes.com/news/articleView.html?idxno=728994",
+     "orig": "https://www.cstimes.com/news/articleView.html?idxno=728994",
+     "title": "HD현대중공업, 조민수 안전총괄 대표이사 선임…안전 최우선 경영 강화"
+    },
+    {
+     "source": "finomy.com",
+     "url": "http://www.finomy.com/news/articleView.html?idxno=267572",
+     "orig": "http://www.finomy.com/news/articleView.html?idxno=267572",
+     "title": "HD현대중공업, 안전총괄 대표에 조민수 사장 선임"
+    },
+    {
+     "source": "뉴스투데이",
+     "url": "https://www.news2day.co.kr/article/20261123500197",
+     "orig": "https://www.news2day.co.kr/article/20261123500197",
+     "title": "HD현대중공업, 조민수 안전총괄 대표이사 선임"
     }
    ],
    "day": "2026-11-23",
@@ -1249,6 +1745,12 @@
      "url": "https://www.newspim.com/news/view/20261123000723",
      "orig": "https://www.newspim.com/news/view/20261123000723",
      "title": "평택시, 안전문화운동 추진협의회 정기총회 개최…민관 협력 강화"
+    },
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=659401",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=659401",
+     "title": "평택시, '2026년 안전문화운동 추진협의회 정기총회' 열어"
     }
    ],
    "day": "2026-11-23",
@@ -2395,6 +2897,18 @@
      "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68259",
      "orig": "http://www.newsroad.co.kr/news/articleView.html?idxno=68259",
      "title": "DL이앤씨 새만금수목원 공사장서 하청 근로자 추락사"
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125420",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125420",
+     "title": "DL이앤씨 시공 새만금수목원공사 현장서 60대 근로자 추락 사망"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086438",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5086438",
+     "title": "DL이앤씨 새만금수목원 공사 현장서 추락 사고…1명 사망"
     }
    ],
    "day": "2026-11-23",
@@ -2611,6 +3125,18 @@
      "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211817",
      "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=211817",
      "title": "소진공, ISO 45001 6년 연속 유지…전국 12개 지역본부로 확대"
+    },
+    {
+     "source": "대전일보",
+     "url": "https://n.news.naver.com/mnews/article/656/0000193288?sid=101",
+     "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2315735",
+     "title": "소진공, 6년 연속 ISO 45001 인증 유지"
+    },
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447565",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=447565",
+     "title": "소진공, ISO 45001 2차갱신 심사통과...전국 12개 지역본부로 인증 확대"
     }
    ],
    "day": "2026-11-23",
@@ -2996,7 +3522,14 @@
    "published": "2026-11-22T19:50+09:00",
    "cat": "tech",
    "id": "d888d5a57a03",
-   "related": [],
+   "related": [
+    {
+     "source": "ksg.co.kr",
+     "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148562",
+     "orig": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148562",
+     "title": "울산항만공사, 인공지능 기반 건설현장 안전관리체계 구축"
+    }
+   ],
    "day": "2026-11-22",
    "watch": []
   },
@@ -3290,6 +3823,12 @@
      "url": "https://n.news.naver.com/mnews/article/025/0003566907?sid=102",
      "orig": "https://www.joongang.co.kr/article/25480741",
      "title": "응시 적고 낡은 시험부터…국가기술자격 540종목 대대적 손질"
+    },
+    {
+     "source": "경북일보",
+     "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091680",
+     "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091680",
+     "title": "정부, 국가기술자격 540종목 정비 추진…수요 적은 종목부터 검토"
     }
    ],
    "day": "2026-11-22",
