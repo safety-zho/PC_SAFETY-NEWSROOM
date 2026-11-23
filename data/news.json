@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T17:52+09:00",
+ "updatedAt": "2026-11-23T18:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "서울경제",
    "cat": "tech",
    "day": "2026-11-23",
-   "count": 22
+   "count": 24
   },
   {
    "id": "59a6fb3e133f",
@@ -40,7 +40,7 @@
    "source": "포쓰저널",
    "cat": "acc",
    "day": "2026-11-23",
-   "count": 19
+   "count": 20
   },
   {
    "id": "b64c90252930",
@@ -71,6 +71,227 @@
   }
  ],
  "articles": [
+  {
+   "title": "무아베모션, 현대건설과 AI 안전교육 콘텐츠 개발 협력",
+   "summary": "양사는 생성형 인공지능(AI)과 인터랙션 기술을 활용해 안전보건교육 콘텐츠와 건설장비 사용법, 작업 절차... 앱 설치 없이 스마트폰으로 화면 속 안전장비를 조작하고 사고 상황별 대응 절차를 연습하는 방식이다. 향후...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003488791?sid=105",
+   "orig": "https://www.etnews.com/20261123000506",
+   "source": "전자신문",
+   "published": "2026-11-23T18:45+09:00",
+   "cat": "tech",
+   "id": "41283fe3371d",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "“사람이 죽는다” 절박한 호소에도 ‘나 몰라라’…한국 덮칠 ‘죽음의...",
+   "summary": "특히 고령층과 만성질환자, 야외 노동자는 극심한 더위에 노출되면 온열질환 위험이 커진다. 우리나라에서도 인명 피해가 나오고 있다. 질병관리청에 따르면 올해 5월 15일부터 9월 30일까지 신고된 온열질환자는...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002727294?sid=102",
+   "orig": "https://biz.heraldcorp.com/article/10946473?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-23T18:41+09:00",
+   "cat": "sev",
+   "id": "dbcdf0e3b56e",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "\"간호사 1명당 환자 수, 환자 안전 좌우한다\"… 안전한 의료환경 위한 ...",
+   "summary": "조하진 보건복지부 간호정책과장을 비롯해 박진식 혜원의료재단 세종병원 이사장, 정지연 한국소비자연맹... 김정혜 울산대학교 산업대학원 교수는 의료기관 규모와 인력 여건에 맞춰 참여 기준을 유연하게 적용하고...",
+   "url": "https://news.hidoc.co.kr/news/articleView.html?idxno=70468",
+   "orig": "https://news.hidoc.co.kr/news/articleView.html?idxno=70468",
+   "source": "hidoc.co.kr",
+   "published": "2026-11-23T18:40+09:00",
+   "cat": "hlt",
+   "id": "0d58d0292359",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "군산항 적기 준설-겨울철 건설현장 사고 예방 주문",
+   "summary": "내내 근로자의 인권 보호와 안전 관리에 소홀함이 없도록 해야 한다\"고 강조했다. 동절기 건설현장 안전 대책으로는 안전난간·추락방호망 설치, 안전대 착용 여부 등 기본 수칙과 끼임·충돌·붕괴 위험 공정을 집중적으로...",
+   "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1058088",
+   "orig": "http://www.jjn.co.kr/news/articleView.html?idxno=1058088",
+   "source": "jjn.co.kr",
+   "published": "2026-11-23T18:26+09:00",
+   "cat": "tech",
+   "id": "78f7adb2c4d4",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "AI로 보행안전 지키는 종로",
+   "summary": "AI 영상인식 기술로 신호가 건너는 사람이 있으면 최대 10초까지 보행 신호가 연장된다. 지난해 탑골공원과... 유찬종 구청장은 “스마트 교통시설 등 주민 일상과 안전에 실질적으로 도움이 되는 교통정책을...",
+   "url": "https://n.news.naver.com/mnews/article/081/0003702314?sid=102",
+   "orig": "https://www.seoul.co.kr/news/publicnews/seoul_local/news_seoul/2026/11/23/20261123500344?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-23T18:16+09:00",
+   "cat": "tech",
+   "id": "881629312a86",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "영월 정양리 도로서 다중 추돌사고…1명 구조 중",
+   "summary": "신고를 받고 출동한 소방당국은 지휘차 등 차량 7대를 투입해 구조작업을 벌이고 있다. 이 사고로 화물 차량에 타고 있던 1명이 다리가 끼어 구조작업이 진행 중이다. 경찰 및 소방당국은 사고 현장 주변 도로가 결빙돼...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001232805?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261123501580",
+   "source": "강원일보",
+   "published": "2026-11-23T18:14+09:00",
+   "cat": "acc",
+   "id": "ab16f4210076",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "“고질적 안전불감증 더해진 인재”…안전공업 손주환 대표 등 기소",
+   "summary": "대해 중대재해처벌법 위반과 업무상과실치사상 등 혐의를 적용해 기소했다고 23일 밝혔다. 손 대표에게는... 사망자 14명 가운데 9명이 동관 휴게실에서 발견된 것도 이런 원인 때문이라는 게 공소청의 판단이다....",
+   "url": "https://n.news.naver.com/mnews/article/025/0003567291?sid=102",
+   "orig": "https://www.joongang.co.kr/article/25481168",
+   "source": "중앙일보",
+   "published": "2026-11-23T18:11+09:00",
+   "cat": "hlt",
+   "id": "0013613bdbab",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "보은군, 축산농가 겨울철 피해 막기 위한 시설 보강·화재 예방 수칙 안...",
+   "summary": "결빙된 축사 주변과 작업 통로에서는 미끄럼 방지 작업화를 착용해 낙상 사고를 예방하고, 야외 작업 중에는 따뜻한 실내에서 틈틈이 휴식을 취하며 한랭질환을...",
+   "url": "http://www.breaknews.com/1253242",
+   "orig": "http://www.breaknews.com/1253242",
+   "source": "브레이크뉴스",
+   "published": "2026-11-23T18:10+09:00",
+   "cat": "tech",
+   "id": "a00dd78a1703",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "보은군농업기술센터, 110농가 맞춤형 안전 진단 마치고 성과공유회 개최",
+   "summary": "안전사고, 여름철 온열질환을 막기 위한 작업장 정비를 병행했다. 또한 농가별... 농작업 중 무너지기 쉬운 신체 균형의 중요성과 농업인들이 일상 속에서 손쉽게...",
+   "url": "http://www.breaknews.com/1253249",
+   "orig": "http://www.breaknews.com/1253249",
+   "source": "브레이크뉴스",
+   "published": "2026-11-23T18:10+09:00",
+   "cat": "tech",
+   "id": "7f680c026c58",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "정답판이 오를 때마다 숨죽인 강당…구미서 울린 안전골든벨",
+   "summary": "본격적인 대회에 앞서 홍영숙 한국산림산업안전보건협회 교수가 'AI가 똑똑해지면 우리는 덜 조심해도 될까?'를 주제로 안전교육을 진행했다. 홍 교수는 과거부터 현재, 미래로 이어지는 안전환경의 변화를 그림과 생활...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091771",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091771",
+   "source": "경북일보",
+   "published": "2026-11-23T18:10+09:00",
+   "cat": "hlt",
+   "id": "f6a320ae4adc",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "충북교육청, 광역협력부터 교실 수업·학교 안전까지 ‘AI 공교육’ 본격...",
+   "summary": "충청북도교육청이 인공지능과 디지털 기술을 학교 현장에 전면 접목해 학생들의... 학생들이 안심하고 생활할 수 있는 스마트 안전망 구축도 눈에 띈다....",
+   "url": "http://www.breaknews.com/1253247",
+   "orig": "http://www.breaknews.com/1253247",
+   "source": "브레이크뉴스",
+   "published": "2026-11-23T18:10+09:00",
+   "cat": "tech",
+   "id": "685e80615d31",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "작업 절차 준수 등 기본 조치 이행하지 않아 자주 발생 [산재, 악순환 고...",
+   "summary": "부산연구원 관계자는 “최근 배달 라이더가 늘면서 산업재해 사망에서 교통사고 비중이 폭증하고 있고, 이들이 산재로 인정받는 비율도 높다”면서도 “그래도 여전히 부산에서는 중소나 영세 사업장의 사고 비율이...",
+   "url": "https://n.news.naver.com/mnews/article/082/0001408580?sid=102",
+   "orig": "https://www.busan.com/view/busan/view.php?code=2026112318051918442",
+   "source": "부산일보",
+   "published": "2026-11-23T18:08+09:00",
+   "cat": "law",
+   "id": "8b4b717ec537",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "‘72명 사상’ 안전공업 화재 참사 책임자 무더기 기소…불법 증축에 경...",
+   "summary": "사망자 14명 중 9명 휴게실서 발견…경보 차단 관행도 피해 키워 72명의 사상자가 발생한 대전 안전공업 화재 참사의 책임자들이 무더기로 재판에 넘겨졌다. 대전지방공소청은 23일 손주환 안전공업 대표를 중대재해처벌법...",
+   "url": "https://n.news.naver.com/mnews/article/022/0004177451?sid=102",
+   "orig": "https://www.segye.com/newsView/20261123516301?OutUrl=naver",
+   "source": "세계일보",
+   "published": "2026-11-23T18:02+09:00",
+   "cat": "sev",
+   "id": "7a44a751ab92",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "14명 사망 ‘안전공업’ 임직원들 기소…“안전불감증이 부른 화재”",
+   "summary": "대전지방공소청은 사상자 72명을 낸 안전공업 화재와 관련해 손 대표를 중대재해처벌법 위반과... 사망자 9명이 나온 동관 휴게실에 대해선 “불법 증축 과정에서 방화구획이 훼손되고 방화문이 상시 개방된 탓에 화재...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002833578?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/chungcheong/1288709.html",
+   "source": "한겨레",
+   "published": "2026-11-23T18:02+09:00",
+   "cat": "sev",
+   "id": "3e20298f426d",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "부산 강서구, 고용노동부 부산북부지청 등과 '중대재해 예방' 업무 협약",
+   "summary": "구는 23일 구청 대회의실에서 고용노동부 부산북부지청, 대한산업안전협회와 '부산 강서지역 중대재해 예방과 안전문화 확산을 위한 업무협약'을 체결했다고 밝혔다. 이번 협약은 각 기관이 보유한 전문 역량과 자원을...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1024949",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1024949",
+   "source": "cnbnews.com",
+   "published": "2026-11-23T18:02+09:00",
+   "cat": "law",
+   "id": "78972c816ea9",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "\"불난 지 2분 만에 불법 휴게실로 화염 퍼져\"... '72명 사상' 안전공업 ...",
+   "summary": "대전공소청은 23일 손 대표를 중대재해처벌법위반·업무상과실치사상·산업안전보건법위반·소방시설법위반... 휴게실에서 사망자 14명 가운데 9명이 발견됐다. 손 대표 등은 화재 감지기가 가끔 오작동한다는 이유로 화재...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000967283?sid=102",
+   "orig": "https://www.hankookilbo.com/news/article/A2026112316530005073?did=NA",
+   "source": "한국일보",
+   "published": "2026-11-23T18:00+09:00",
+   "cat": "sev",
+   "id": "30b72b192791",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "한파 속 빙판길, 강원 24건 사고 속출…40여 명 중경상",
+   "summary": "같은시각 횡성군 둔내면 현천리에서는 승용차 단독 사고 이후 작업 중인 펌프차량 후미를 차량이 들이받으면서 4명이 다쳤다. 이후 4대의 차량이 추가로 들이받아 2차 사고로 이어졌다. 앞서 이날 오전 9시 53분쯤...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004212964?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6611346?utm_source=naver&utm_medium=article&utm_campaign=20261123175952",
+   "source": "노컷뉴스",
+   "published": "2026-11-23T18:00+09:00",
+   "cat": "acc",
+   "id": "10bfb08a06ba",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
   {
    "title": "[속보]고경표, 사고 9일만 포토라인 선다..경찰 오후 7시 소환 조사 통보",
    "summary": "운전하다 작업 중이던 청소차를 들이받았다. 고경표는 당시 혈중알코올 농도 0.08% 이상으로 운전면허 취소 수준이었던 것으로 확인됐다. 이 사고로 청소업체 소속 60대 직원이 경상을 입었으며, 청소 차량 일부가...",
@@ -145,7 +366,14 @@
    "published": "2026-11-23T17:30+09:00",
    "cat": "sev",
    "id": "6e8d9780fa33",
-   "related": [],
+   "related": [
+    {
+     "source": "대전일보",
+     "url": "https://n.news.naver.com/mnews/article/656/0000193326?sid=102",
+     "orig": "https://www.daejonilbo.com/news/articleView.html?idxno=2315794",
+     "title": "'14명 사망' 대전 안전공업 화재…대표이사 기소"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -353,7 +581,14 @@
    "published": "2026-11-23T17:02+09:00",
    "cat": "tech",
    "id": "bb2df584acdf",
-   "related": [],
+   "related": [
+    {
+     "source": "중부매일",
+     "url": "https://www.jbnews.com/news/articleView.html?idxno=1516735",
+     "orig": "https://www.jbnews.com/news/articleView.html?idxno=1516735",
+     "title": "[기고] \"도시의 성장, 안전도 함께 성장해야 한다\""
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -405,7 +640,14 @@
    "published": "2026-11-23T16:56+09:00",
    "cat": "sev",
    "id": "e0479a4f1ffd",
-   "related": [],
+   "related": [
+    {
+     "source": "cbci.co.kr",
+     "url": "https://www.cbci.co.kr/news/articleView.html?idxno=629919",
+     "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=629919",
+     "title": "대전 안전공업 화재 참사 72명 사상…대표 등 12명 기소, 안전관리 부실..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -610,6 +852,12 @@
      "url": "https://n.news.naver.com/mnews/article/079/0004212957?sid=102",
      "orig": "https://www.nocutnews.co.kr/news/6611339?utm_source=naver&utm_medium=article&utm_campaign=20261123174852",
      "title": "'14명 사망' 대전 안전공업 화재…대표이사 등 12명·법인 기소"
+    },
+    {
+     "source": "fpn119.co.kr",
+     "url": "http://fpn119.co.kr/259906",
+     "orig": "http://fpn119.co.kr/259906",
+     "title": "‘72명 사상’ 안전공업 화재 대표 등 12명ㆍ법인 기소"
     }
    ],
    "day": "2026-11-23",
@@ -1054,7 +1302,14 @@
    "published": "2026-11-23T15:36+09:00",
    "cat": "hlt",
    "id": "98357cc6e61b",
-   "related": [],
+   "related": [
+    {
+     "source": "eroun.net",
+     "url": "https://www.eroun.net/news/articleView.html?idxno=96315",
+     "orig": "https://www.eroun.net/news/articleView.html?idxno=96315",
+     "title": "포항시 북구청, 산업재해 예방 강화 나선다...산림녹지 근로자 안전보건..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -1554,6 +1809,12 @@
      "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731906",
      "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=731906",
      "title": "한전, 노조 지회위원장 281명에 안전점검·작업중지 요청 권한"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428092",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1428092",
+     "title": "한전, 노조 지회장에 실질적 작업 중지 요청권·안전 감독 권한 부여"
     }
    ],
    "day": "2026-11-23",
@@ -2497,6 +2758,12 @@
      "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112847",
      "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1112847",
      "title": "충주시, 환경미화 인력 224명 합동 안전교육"
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1253254",
+     "orig": "http://www.breaknews.com/1253254",
+     "title": "충주시, 생활폐기물·청소 현장 인력 224명 대상 중대재해 예방 합동 안..."
     }
    ],
    "day": "2026-11-23",
@@ -2746,6 +3013,18 @@
      "url": "http://www.metroseoul.co.kr/article/20261123500545",
      "orig": "http://www.metroseoul.co.kr/article/20261123500545",
      "title": "HD현대중공업, 조민수 안전총괄 대표이사 선임…잇단 사망사고 속 안전..."
+    },
+    {
+     "source": "조선일보",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001662",
+     "orig": "https://it.chosun.com/news/articleView.html?idxno=3000000001662",
+     "title": "HD현대重, 조민수 사장 안전총괄 대표 선임… 안전 경영 강화"
+    },
+    {
+     "source": "디지털타임스",
+     "url": "https://n.news.naver.com/mnews/article/029/0003060722?sid=101",
+     "orig": "https://www.dt.co.kr/article/12096799?ref=naver",
+     "title": "HD현대重, 안전총괄 별도 대표 둔다… 조민수 사장 선임"
     }
    ],
    "day": "2026-11-23",
@@ -2784,6 +3063,12 @@
      "url": "https://www.newstnt.com/news/articleView.html?idxno=729948",
      "orig": "https://www.newstnt.com/news/articleView.html?idxno=729948",
      "title": "평택시, 안전문화운동 추진협의회 정기총회 개최…2027년 민관 협력방안..."
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3760695",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3760695",
+     "title": "평택시, 안전문화운동 추진협의회 정기총회 개최…2027년 활동 계획 논..."
     }
    ],
    "day": "2026-11-23",
@@ -3169,6 +3454,12 @@
      "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194742",
      "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1194742",
      "title": "충주시, 생활폐기물 수거·청소 현장 작업자 합동 안전교육"
+    },
+    {
+     "source": "ccreview.co.kr",
+     "url": "https://www.ccreview.co.kr/news/articleView.html?idxno=363479",
+     "orig": "https://www.ccreview.co.kr/news/articleView.html?idxno=363479",
+     "title": "충주시, 생활폐기물 수거·청소 안전교육"
     }
    ],
    "day": "2026-11-23",
@@ -3183,7 +3474,14 @@
    "published": "2026-11-23T10:00+09:00",
    "cat": "tech",
    "id": "584a0830a7c1",
-   "related": [],
+   "related": [
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/057/0001979511?sid=101",
+     "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5232529",
+     "title": "에너토크, K-water와 ‘맨홀 질식사고 예방’ 지능형 안전 시스템 특허 ..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -3849,6 +4147,12 @@
      "url": "https://www.widedaily.com/news/articleView.html?idxno=304426",
      "orig": "https://www.widedaily.com/news/articleView.html?idxno=304426",
      "title": "소진공, 전국 12개 지역본부까지 안전보건경영시스템(ISO 45001) 인증 확대"
+    },
+    {
+     "source": "starnewsk.com",
+     "url": "http://www.starnewsk.com/news/articleView.html?idxno=61299",
+     "orig": "http://www.starnewsk.com/news/articleView.html?idxno=61299",
+     "title": "소진공, 안전보건경영시스템 인증 전국 12개 지역본부로 확대"
     }
    ],
    "day": "2026-11-23",
@@ -3997,6 +4301,12 @@
      "url": "https://www.seoulfn.com/news/articleView.html?idxno=643664",
      "orig": "https://www.seoulfn.com/news/articleView.html?idxno=643664",
      "title": "DL이앤씨 시공 국립새만금수목원 현장서 근로자 1명 추락사"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000102581",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000102581",
+     "title": "DL이앤씨, 새만금수목원 공사현장서 근로자 추락사…노동부 작업중지 명..."
     }
    ],
    "day": "2026-11-23",
