@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T15:52+09:00",
+ "updatedAt": "2026-11-23T15:55+09:00",
  "categories": [
   {
    "id": "sev",
@@ -2392,7 +2392,14 @@
    "published": "2026-11-23T09:14+09:00",
    "cat": "tech",
    "id": "141d976c60d3",
-   "related": [],
+   "related": [
+    {
+     "source": "로이슈",
+     "url": "https://www.lawissue.co.kr/view.php?ud=202611231108476372d94aa4ada6_12",
+     "orig": "https://www.lawissue.co.kr/view.php?ud=202611231108476372d94aa4ada6_12",
+     "title": "인천시, 중대시민재해 예방 국제인증 3년 연장… 갱신심사 지적사항 '0건..."
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
