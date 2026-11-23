@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-23T09:52+09:00",
+ "updatedAt": "2026-11-23T10:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,7 +40,7 @@
    "source": "경상일보",
    "cat": "tech",
    "day": "2026-11-23",
-   "count": 5
+   "count": 6
   },
   {
    "id": "3b0943b508f9",
@@ -52,25 +52,293 @@
    "count": 5
   },
   {
-   "id": "49829c443547",
-   "title": "소진공, ISO45001 인증 갱신…지역본부로 적용 범위 확대",
-   "url": "https://n.news.naver.com/mnews/article/277/0005846126?sid=101",
-   "source": "아시아경제",
+   "id": "509a649c6910",
+   "title": "신협중앙회, 국가유산 재난현장 안전 강화에 3000만원 후원",
+   "url": "http://www.beyondpost.co.kr/view.php?ud=20261123080219152846a9e4dd7f_30",
+   "source": "비욘드포스트",
+   "cat": "tech",
+   "day": "2026-11-23",
+   "count": 4
+  },
+  {
+   "id": "1d6e7d2643e7",
+   "title": "강남구, 건축공사장 관계자 400명 안전교육 실시",
+   "url": "https://n.news.naver.com/mnews/article/018/0006413890?sid=101",
+   "source": "이데일리",
    "cat": "tech",
    "day": "2026-11-23",
    "count": 3
-  },
-  {
-   "id": "afff376ec2f4",
-   "title": "엄태영 제천-단양 의원, 산재 예방 우수기업 지정·지원 법안 대표발의",
-   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759883",
-   "source": "국제뉴스",
-   "cat": "law",
-   "day": "2026-11-23",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "인니 사탕공장 화재 참사, 시신 24구 수습·실종자 37명 수색",
+   "summary": "소방 당국은 건물 붕괴 가능성 등으로 전날 중단했던 실종자 수색 작업을 이날 오전 다시 시작할 예정이다.... 인도네시아 노동부는 사고 직후 해당 공장에 대한 안전 점검 이력을 조사하겠다고 밝혔으며, 노동부 관계자는...",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=886830",
+   "orig": "https://www.gokorea.kr/news/articleView.html?idxno=886830",
+   "source": "gokorea.kr",
+   "published": "2026-11-23T10:50+09:00",
+   "cat": "sev",
+   "id": "47f82975394e",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "[속보] 중앙고속도로 춘천방향 횡성 공근면 가곡리 부근 교통사고 발생",
+   "summary": "사고 처리 작업이 진행되면서 춘천방향 후속 차량의 정체와 안전사고 우려가 커지고 있는 상황이다. 중앙고속도로 횡성군 공근면 가곡리 교통사고 실시간 현장 [사진=국토교통부 제공] 이에 따라 횡성군은 해당 구간을...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759998",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3759998",
+   "source": "국제뉴스",
+   "published": "2026-11-23T10:50+09:00",
+   "cat": "acc",
+   "id": "2c826dba7ce3",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "\"기업규모 · 업종 · 작업환경 등 고려한 산재 예방 우수기업 지정 근거...",
+   "summary": "자발적인 안전관리 노력을 정부 지원과 연계하는 방안을 담은 관련법 개정안이 나왔다. 법 위반 여부를... 내용의 '산업안전보건법' 일부개정법률안을 대표발의했다고 23일 밝혔다. 엄태영 의원은 \"산업재해를 줄이기...",
+   "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506948",
+   "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506948",
+   "source": "핀포인트뉴스",
+   "published": "2026-11-23T10:48+09:00",
+   "cat": "law",
+   "id": "2e66ca8604d2",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "DL이앤씨 시공 새만금수목원 조성현장에서 노동자 한 명 사망, 개구부로...",
+   "summary": "DL이앤씨가 시공하는 국립새만금수목원 현장에서 노동자 한 명이 추락해 목숨을 잃었다. DL이앤씨는 20일 국립새만금수목원 조성 사업 현장에서 노동자 한 명이 사망했다고 23일 밝혔다. 국립새만금수목원 조성 현장....",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=452604",
+   "orig": "https://www.businesspost.co.kr/BP?command=article_view&num=452604",
+   "source": "비즈니스포스트",
+   "published": "2026-11-23T10:44+09:00",
+   "cat": "sev",
+   "id": "9497d99b0d26",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "전기안전공사, 지역 교육봉사 대학생 56명에 장학금 지급",
+   "summary": "한국전기안전공사를 비롯한 전북 지역 5개 공공기관이 장학금 지원을 넘어 진로 탐색과 취업 역량 강화까지... 이번 사업은 공공기관의 ESG 경영이 일회성 기부나 재정 지원을 넘어 지역 인재의 성장과 사회적 가치 창출로...",
+   "url": "https://www.energydaily.co.kr/news/articleView.html?idxno=205337",
+   "orig": "https://www.energydaily.co.kr/news/articleView.html?idxno=205337",
+   "source": "energydaily.co.kr",
+   "published": "2026-11-23T10:38+09:00",
+   "cat": "tech",
+   "id": "681ccb099d63",
+   "related": [
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506946",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=506946",
+     "title": "전기안전공사 등, 전북지역 대학생 56명 장학금·취업 지원"
+    }
+   ],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "법무법인 지평, 내달 4일 중대재해 예방·안전경영 세미나 개최",
+   "summary": "이번 세미나는 최근 산업안전보건법 개정으로 경영 책임자의 안전 보건 확보 의무와 책임 범위가 구체화됨에 따라 마련됐다. 지평과 부산상공회의소는 부산 지역 기업의 중대재해 예방과 사고 대응 방안에 대해 소개할...",
+   "url": "https://n.news.naver.com/mnews/article/366/0001206618?sid=102",
+   "orig": "https://biz.chosun.com/topics/law_firm/2026/11/23/NJUW3ILL5FEOTKYQRCDUSL6LUI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-23T10:34+09:00",
+   "cat": "tech",
+   "id": "bc103d7db4e4",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "신협, 국가유산 보호 위해 안전용품 6000만원 후원",
+   "summary": "전국 국가유산 보유 사찰 354곳과 민속마을 10곳에 전달할 예정이다. 황동호 신협중앙회 ESG경영본부장은 \"이번 후원이 우리 문화재를 지키기 위해 헌신하는 현장 종사자들의 안전에 보탬이 되길 바란다\"라고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/629/0000554469?sid=101",
+   "orig": "https://news.tf.co.kr/read/economy/2392034.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-23T10:33+09:00",
+   "cat": "tech",
+   "id": "6f462bb85024",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "산재 '셀프 공시' 한다는데 … '부실 공시' 검증 대책 있나",
+   "summary": "23일 고용노동부에 따르면 산업안전보건법 제10조의2에 따른 '안전보건 현황 공시제'가 지난 8월 1일부터 시행됐다. 공시 대상은 상시근로자 500명 이상 사업주와 연간 건설공사 금액 1200억원 이상인 건설업체와 공공기관...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247782",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247782",
+   "source": "세이프타임즈",
+   "published": "2026-11-23T10:30+09:00",
+   "cat": "law",
+   "id": "c83a332e3975",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "AI 커닝 시대, '공정의 보루' 수능은 안전한가[전문가 칼럼]",
+   "summary": "아날로그식 수능 관리와 운영 체계로 혼란 초래 이미 2~3년 전부터 국가기술자격시험 현장에서 AI 기능이 탑재된 스마트 안경을 활용한 수험생들의 부정행위가 잇따라 적발되면서 우려가 커졌다. 여기에 더해 중·고등학교...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009304347?sid=110",
+   "orig": "https://www.news1.kr/society/education/6362558",
+   "source": "뉴스1",
+   "published": "2026-11-23T10:30+09:00",
+   "cat": "tech",
+   "id": "c58ba7a8f493",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "울산시, 겨울철 화재·안전사고 예방 9617건 점검",
+   "summary": "울산시가 겨울철 화재와 안전사고 예방을 위해 산업단지와 다중이용시설 등 31개 분야 9617건에 대한... 국가산업단지 사업장은 전기·가스설비와 화학물질 관리, 화재 위험 작업의 안전조치를 살핀다. 공장·창고...",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247789",
+   "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247789",
+   "source": "세이프타임즈",
+   "published": "2026-11-23T10:28+09:00",
+   "cat": "tech",
+   "id": "b24e5f805814",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "파인인포, ISO 국제표준 인증 3종 취득…IT 유통 전문기업 경쟁력 강화",
+   "summary": "ISO 45001은 근로자의 안전과 건강을 보호하고 산업재해를 예방하기 위한 안전보건경영시스템에 관한 국제표준이다. 이번 인증 취득은 메모리와 SSD를 비롯한 다양한 컴퓨터 부품 및 주변기기를 국내 시장에 공급하는...",
+   "url": "https://www.it-b.co.kr/news/articleView.html?idxno=90806",
+   "orig": "https://www.it-b.co.kr/news/articleView.html?idxno=90806",
+   "source": "it-b.co.kr",
+   "published": "2026-11-23T10:26+09:00",
+   "cat": "tech",
+   "id": "73caf23083c2",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "\"국가유산 보호부터 현장종사자 안전까지\" 신협, 재난현장 안전용 난연...",
+   "summary": "황동호 ESG경영본부장은 23일 \"이번 후원이 우리 문화재를 지키기 위해 헌신하는 현장 종사자들의 안전에 보탬이 되길 바란다\"며 \"앞으로도 국가유산의 가치를 보전하고, 지역사회와 상생할 수 있는 다양한...",
+   "url": "https://www.catchnews.kr/news/articleView.html?idxno=130850",
+   "orig": "https://www.catchnews.kr/news/articleView.html?idxno=130850",
+   "source": "catchnews.kr",
+   "published": "2026-11-23T10:23+09:00",
+   "cat": "tech",
+   "id": "35a5fcb9dee6",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "이기형 김포시장 \"자살예방은 지역사회 공동책임\"...생명안전망 강화 추...",
+   "summary": "이 시장은 자살예방 업무가 보건소 등 특정 부서에만 한정돼서는 안 된다며 복지와 노인, 일자리, 주택... 이기형 시장은 \"도시의 경쟁력은 도로와 산업단지만으로 완성되지 않는다\"며 \"가장 힘든 순간에 놓인 시민 한...",
+   "url": "https://www.ajunews.com/view/20261123100002227",
+   "orig": "https://www.ajunews.com/view/20261123100002227",
+   "source": "아주경제",
+   "published": "2026-11-23T10:20+09:00",
+   "cat": "hlt",
+   "id": "5f3561111b0a",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "엄태영 의원, 산업안전보건법 개정안 발의...산재 예방 잘하는 기업에 ...",
+   "summary": "엄태영 국민의힘 의원은 23일 기업의 산업재해 예방활동을 평가해 우수기업으로 지정하고 각종 지원 혜택을 제공할 수 있도록 하는 내용의 산업안전보건법 일부개정법률안을 대표발의했다고 밝혔다. 현행...",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=46508",
+   "orig": "http://www.financialreview.co.kr/news/articleView.html?idxno=46508",
+   "source": "financialreview.co.kr",
+   "published": "2026-11-23T10:10+09:00",
+   "cat": "law",
+   "id": "c6d87b72331a",
+   "related": [
+    {
+     "source": "세이프타임즈",
+     "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=247794",
+     "orig": "https://www.safetimes.co.kr/news/articleView.html?idxno=247794",
+     "title": "산재예방 잘하는 기업에 정부 지원 확대 … 엄태영 의원 법안 발의"
+    }
+   ],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "충주시, 생활폐기물 수거·환경미화 작업자 대상 안전교육",
+   "summary": "강사로 나선 대전지방고용노동청 충주지청 팀장은 청소차 후면 발판 탑승 금지, 차량 후진·이동 시 안전 확인, 도로 작업 중 교통사고 예방, 압착 장치 끼임 사고 예방 등 현장 안전 수칙을 설명했다. 이와 함께 작업자가...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016457492?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261123053800064?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-23T10:08+09:00",
+   "cat": "tech",
+   "id": "7501bc982d95",
+   "related": [
+    {
+     "source": "금강일보",
+     "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194742",
+     "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1194742",
+     "title": "충주시, 생활폐기물 수거·청소 현장 작업자 합동 안전교육"
+    }
+   ],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "에너토크·K-water 한강유역본부 충주수도지사, '맨홀 질식사고 예방'지...",
+   "summary": "동반 사망에 이르는 '2차 구조 사고'로 이어지는 한계가 있었다. 이러한 현장의 고질적인 문제를... 공공 상하수도 현장의 표준 플랫폼으로 확산시켜 중대재해 없는 안전한 일터를 만드는 데 앞장설 것\"이라고 강조했다.",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=565749",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=565749",
+   "source": "joongangenews.com",
+   "published": "2026-11-23T10:00+09:00",
+   "cat": "tech",
+   "id": "584a0830a7c1",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "영우테크, SCX 2026서 LTE 기반 무선 안전방송시스템 선봬",
+   "summary": "올해부터 건설업 산업안전보건관리비에서 스마트 안전장비 구입·임대 비용을 전액 인정하고, 사용 한도도 산업안전보건관리비 총액의 20%로 확대됐다. 영우테크는 2026년 4월 고용노동부 질의회신을 통해 관련 비용...",
+   "url": "https://www.handmk.com/news/articleView.html?idxno=45336",
+   "orig": "https://www.handmk.com/news/articleView.html?idxno=45336",
+   "source": "handmk.com",
+   "published": "2026-11-23T09:58+09:00",
+   "cat": "law",
+   "id": "c39204bb71e9",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "고양시, AI로 취약계층 건강·안전 관리로 돌봄 공백 줄인다",
+   "summary": "민경선 고양시장은 \"스마트 기술을 적극 활용해 건강관리 사각지대를 줄이고 시민의 건강과 안전을 확보하겠다\"고 밝혔다. 사업별 신청 대상과 운영 일정은 각 구 보건소에 따라 다르며, 자세한 사항은 고양시와 구별...",
+   "url": "https://www.discoverynews.kr/news/articleView.html?idxno=1107510",
+   "orig": "https://www.discoverynews.kr/news/articleView.html?idxno=1107510",
+   "source": "discoverynews.kr",
+   "published": "2026-11-23T09:56+09:00",
+   "cat": "tech",
+   "id": "270b961dd578",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
+   "title": "국토장관 \"겨울철 교통·건설 현장 빈틈없는 안전 확보 만전\"",
+   "summary": "특히 홍 장관은 사망사고가 발생한 건설사가 시공 중인 현장에서 또다시 중대재해가 발생하지 않도록 꼼꼼히 점검하고, 부실사항은 엄정하게 조치하라고 강조했다. 홍 장관은 \"교통·건설 안전의 시작과 끝은 현장에서의...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327591",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327591",
+   "source": "대한전문건설신문",
+   "published": "2026-11-23T09:52+09:00",
+   "cat": "law",
+   "id": "361b83c33303",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
   {
    "title": "사찰·민속마을 화재 대응 돕는다…신협중앙회, 난연복 보급에 3000만 원...",
    "summary": "황동호 신협중앙회 ESG경영본부장은 \"이번 후원이 우리 문화재를 지키기 위해 헌신하는 현장 종사자들의 안전에 보탬이 되길 바란다\"며 \"앞으로도 국가유산의 가치를 보전하고, 지역사회와 상생할 수 있는 다양한...",
@@ -144,6 +412,19 @@
    "watch": []
   },
   {
+   "title": "김해시, 위험성평가 개편 앞두고 사업장 안전교육·홍보 강화",
+   "summary": "시는 산업안전보건법과 사업장 위험성평가에 관한 지침 개정사항이 현장에 안정적으로 정착할 수 있도록 이달부터 내년 4월까지 6개월간 집중 홍보를 추진한다고 23일 밝혔다. 위험성평가는 사업주와 근로자가 작업장의...",
+   "url": "http://www.newstown.co.kr/news/articleView.html?idxno=722911",
+   "orig": "http://www.newstown.co.kr/news/articleView.html?idxno=722911",
+   "source": "newstown.co.kr",
+   "published": "2026-11-23T09:34+09:00",
+   "cat": "law",
+   "id": "3ef21539d6d9",
+   "related": [],
+   "day": "2026-11-23",
+   "watch": []
+  },
+  {
    "title": "기고/ 외국선사가 맡긴 수중작업과 중대재해처벌법상 도급인 책임의 경...",
    "summary": "그렇지 않으면, 위 판결의 내용과 달리 외국 선사가 중대재해처벌법 위반으로 기소되고 처벌될 수도 있다. 이상 정리하면, 위 판결은 사고의 위험을 실질적으로 지배 내지 통제할 수 있는 자가 결과에 대해 책임을 진다는...",
    "url": "https://www.ksg.co.kr/news/main_newsView.jsp?pNum=148546",
@@ -204,7 +485,14 @@
    "published": "2026-11-23T09:22+09:00",
    "cat": "tech",
    "id": "0ceeb611e6f1",
-   "related": [],
+   "related": [
+    {
+     "source": "metroseoul.co.kr",
+     "url": "http://www.metroseoul.co.kr/article/20261123500047",
+     "orig": "http://www.metroseoul.co.kr/article/20261123500047",
+     "title": "인천시, 안전보건경영시스템 ISO 45001 갱신…부적합·개선권고 ‘0건’"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -404,6 +692,12 @@
      "url": "https://www.gosiweek.com/article/1065601408429247",
      "orig": "https://www.gosiweek.com/article/1065601408429247",
      "title": "업사이트, ‘2026 스마트건설·안전·AI 엑스포’ 참가…공정표·일보·..."
+    },
+    {
+     "source": "abcn.kr",
+     "url": "https://www.abcn.kr/news/articleView.html?idxno=94866",
+     "orig": "https://www.abcn.kr/news/articleView.html?idxno=94866",
+     "title": "콘테크 기업 공새로, '2026 스마트건설·안전·AI 엑스포' 참가"
     }
    ],
    "day": "2026-11-23",
@@ -669,6 +963,18 @@
      "url": "https://n.news.naver.com/mnews/article/016/0002726914?sid=101",
      "orig": "https://biz.heraldcorp.com/article/10945552?ref=naver",
      "title": "신협, 국가유산 화재 대응 인력에 3000만원 후원"
+    },
+    {
+     "source": "thepowernews.co.kr",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=20261123100451887de3f0aa1be_7",
+     "orig": "https://www.thepowernews.co.kr/view.php?ud=20261123100451887de3f0aa1be_7",
+     "title": "신협, 국가유산 재난 대응 종사자 안전 위해 3000만원 후원"
+    },
+    {
+     "source": "financialpost.co.kr",
+     "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=302456",
+     "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=302456",
+     "title": "신협중앙회, 국가유산 재난 안전 위해 3000만원 지원"
     }
    ],
    "day": "2026-11-23",
@@ -683,7 +989,20 @@
    "published": "2026-11-23T08:03+09:00",
    "cat": "tech",
    "id": "1d6e7d2643e7",
-   "related": [],
+   "related": [
+    {
+     "source": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=322279",
+     "orig": "https://www.cnbizm.com/news/articleView.html?idxno=322279",
+     "title": "강남구, 관내 신축 건축공사장 관계자 약 400명 대상 하반기 특별안전교..."
+    },
+    {
+     "source": "국제뉴스",
+     "url": "https://www.gukjenews.com/news/articleView.html?idxno=3759923",
+     "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3759923",
+     "title": "강남구, 신축 공사장 관계자 400명 특별안전교육…사고 예방 역량 강화"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -1439,6 +1758,12 @@
      "url": "https://n.news.naver.com/mnews/article/001/0016456008?sid=102",
      "orig": "https://www.yna.co.kr/view/AKR20261120179900530?input=1195m",
      "title": "국가기술자격 540종목 대대적 정비…수요 적은 시험부터 손본다"
+    },
+    {
+     "source": "중앙일보",
+     "url": "https://n.news.naver.com/mnews/article/025/0003566907?sid=102",
+     "orig": "https://www.joongang.co.kr/article/25480741",
+     "title": "응시 적고 낡은 시험부터…국가기술자격 540종목 대대적 손질"
     }
    ],
    "day": "2026-11-22",
@@ -1709,6 +2034,12 @@
      "url": "https://mhnse.com/news/articleView.html?idxno=1706846",
      "orig": "https://mhnse.com/news/articleView.html?idxno=1706846",
      "title": "'나혼산' 또 터졌다…구성환 번지점프 '안전 논란'→업체에 과태료·시..."
+    },
+    {
+     "source": "newsen.com",
+     "url": "https://www.newsen.com/news_view.php?uid=202611230951530310",
+     "orig": "https://www.newsen.com/news_view.php?uid=202611230951530310",
+     "title": "‘나혼산’ 구성환 번지점프 업체, 결국 과태료+시정 처분…잊을만하면..."
     }
    ],
    "day": "2026-11-22",
@@ -1760,6 +2091,12 @@
      "url": "https://www.cstimes.com/news/articleView.html?idxno=728879",
      "orig": "https://www.cstimes.com/news/articleView.html?idxno=728879",
      "title": "가스공사, 가스기술공사와 현장 우수사례 공유…\"안전·상생·혁신 강화..."
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003158220?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1718361/?sc=Naver",
+     "title": "가스공사, 가스기술공사와 현장 우수사례 공유…안전·상생·혁신 강화"
     }
    ],
    "day": "2026-11-22",
@@ -2030,6 +2367,19 @@
    "published": "2026-11-22T09:06+09:00",
    "cat": "acc",
    "id": "83936f99323b",
+   "related": [],
+   "day": "2026-11-22",
+   "watch": []
+  },
+  {
+   "title": "‘AI 커닝’ 후폭풍…국가기술자격 540종목, 수요·실효성 따진다",
+   "summary": "한국산업안전보건공단 등에서 나눠 시행했다. 정비의 배경에는 방대한 시험 종류에 비해 관리·감독 자원이 충분하지 않다는 문제가 있다. 공단이 국회에 제출한 자료에 따르면 지난해 공단 주관 자격시험의 시험위원...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002726652?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10944909?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-22T09:06+09:00",
+   "cat": "tech",
+   "id": "103f8040961c",
    "related": [],
    "day": "2026-11-22",
    "watch": []
