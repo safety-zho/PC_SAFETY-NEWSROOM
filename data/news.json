@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T18:22+09:00",
+ "updatedAt": "2026-11-24T18:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "아시아경제",
    "cat": "tech",
    "day": "2026-11-24",
-   "count": 48
+   "count": 50
   },
   {
    "id": "3e2aca07dbe8",
@@ -40,16 +40,7 @@
    "source": "한스경제",
    "cat": "tech",
    "day": "2026-11-24",
-   "count": 26
-  },
-  {
-   "id": "1cb9333d1f2a",
-   "title": "'10개월간 4명 사망' 세아베스틸 전 대표 집행유예",
-   "url": "https://n.news.naver.com/mnews/article/052/0002437249?sid=102",
-   "source": "YTN",
-   "cat": "sev",
-   "day": "2026-11-24",
-   "count": 12
+   "count": 27
   },
   {
    "id": "2200d1c28d7b",
@@ -57,6 +48,15 @@
    "url": "https://www.etoday.co.kr/news/view/2652034",
    "source": "이투데이",
    "cat": "tech",
+   "day": "2026-11-24",
+   "count": 13
+  },
+  {
+   "id": "1cb9333d1f2a",
+   "title": "'10개월간 4명 사망' 세아베스틸 전 대표 집행유예",
+   "url": "https://n.news.naver.com/mnews/article/052/0002437249?sid=102",
+   "source": "YTN",
+   "cat": "sev",
    "day": "2026-11-24",
    "count": 12
   },
@@ -71,6 +71,71 @@
   }
  ],
  "articles": [
+  {
+   "title": "[위클리오늘] 롯데케미칼, 금호석유화학그룹(11.24)",
+   "summary": "보고서는 유해화학물질 관리와 산업안전보건, 기후변화 대응 등을 주요 과제로 다루고 관련 관리 체계와 성과 지표, 중장기 목표를 제시했다. 특히 MDI 생산 과정에서 발생하는 부산물과 폐수를 재활용해 수소·염소...",
+   "url": "http://www.weeklytoday.com/news/articleView.html?idxno=803247",
+   "orig": "http://www.weeklytoday.com/news/articleView.html?idxno=803247",
+   "source": "weeklytoday.com",
+   "published": "2026-11-24T18:48+09:00",
+   "cat": "hlt",
+   "id": "ca1fb9a36800",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "\"사업자 봐주기 판결\" …5명 숨진 세아베스틸 재판 '집유'",
+   "summary": "특수강 제조업체 세아베스틸에서 발생한 중대재해 사건의 경영 책임자들이 모두 실형을 피했다. 전주지법... 입어 사망했다. 2024년 4월에는 협력업체 노동자가 배관에 깔려 세상을 떠났다. 재판부는 피해자들의 사망이...",
+   "url": "http://www.jjn.co.kr/news/articleView.html?idxno=1058193",
+   "orig": "http://www.jjn.co.kr/news/articleView.html?idxno=1058193",
+   "source": "jjn.co.kr",
+   "published": "2026-11-24T18:46+09:00",
+   "cat": "sev",
+   "id": "b11e58ff09b2",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "우동기 전 지방시대위원장, 안전수칙 실천이 위기 대응의 핵심",
+   "summary": "기반 경영이 뒷받침돼야 한다고 덧붙였다. 우동기 전 지방시대위원장은 \"위기대응은 거창한 대책보다 현장의 기본 안전수칙을 반복 숙지하고 위험징후 발생 시 즉각 행동으로 옮기는 실천력이 핵심이다\"며 \"기업과 조직이...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091964",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091964",
+   "source": "경북일보",
+   "published": "2026-11-24T18:44+09:00",
+   "cat": "tech",
+   "id": "7a4025f9140e",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "생명안전기본법 시행 눈앞…\"조례 제정 앞서 시민사회·당사자 목소리 ...",
+   "summary": "향후 조례 제정 과정에서는 지난해 3월 발생한 창원NC파크 관중 사망사고에서 드러난 문제도 짚고 넘어가야... 이어 그는 \"조례가 실효성을 갖추려면 지역시민사회를 비롯한 산재 피해자 등 당사자들 의견도 반영할 필요가...",
+   "url": "https://www.idomin.com/news/articleView.html?idxno=2020442",
+   "orig": "https://www.idomin.com/news/articleView.html?idxno=2020442",
+   "source": "경남도민일보",
+   "published": "2026-11-24T18:30+09:00",
+   "cat": "law",
+   "id": "98083ee2f0ae",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "43번 문제 끝에 울린 골든벨…상주 일터의 안전을 묻다",
+   "summary": "고용노동부 영주고용노동지청, 안전보건공단 경북지역본부가 후원했다. 행사 전 과정은 경북일보TV 유튜브 채널을 통해 실시간 중계됐다. ◇2026 근로자 산업안전 골든벨 상주 수상자 명단 △금상 임상열(상주시청·은척면)...",
+   "url": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091958",
+   "orig": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4091958",
+   "source": "경북일보",
+   "published": "2026-11-24T18:24+09:00",
+   "cat": "tech",
+   "id": "663d8a4c3715",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
   {
    "title": "단양 공사장서 70대 근로자 토사 맞고 넘어져…병원 이송",
    "summary": "A씨는 한때 의식을 잃었다가 회복한 것으로 알려졌다. 당시 현장에서는 흙이 무너져 내리는 것을 막기 위한 토류판 설치 작업이 진행 중이었던 것으로 파악됐다. 경찰은 정확한 사고 경위를 조사하고 있다.",
@@ -1810,6 +1875,12 @@
      "url": "http://www.babytimes.co.kr/news/articleView.html?idxno=74767",
      "orig": "http://www.babytimes.co.kr/news/articleView.html?idxno=74767",
      "title": "금호미쓰이화학, 2026 지속가능성보고서상 제조 부문 우수 보고서 선정"
+    },
+    {
+     "source": "greenpostkorea.co.kr",
+     "url": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308157",
+     "orig": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=308157",
+     "title": "폐수·부산물로 핵심 원료 뽑아낸다··· 금호미쓰이화학 지속가능성보..."
     }
    ],
    "day": "2026-11-24",
@@ -3555,6 +3626,12 @@
      "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=363102",
      "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=363102",
      "title": "HD현대 GRC, 공간안전인증 획득… 그룹 안전관리 역량 강화"
+    },
+    {
+     "source": "이뉴스투데이",
+     "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496601",
+     "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496601",
+     "title": "9개월간 7개 분야 안전 검증 통과···HD현대 GRC '공간안전인증' 획득"
     }
    ],
    "day": "2026-11-24",
@@ -3979,6 +4056,18 @@
      "url": "http://www.newsdream.kr/news/articleView.html?idxno=122917",
      "orig": "http://www.newsdream.kr/news/articleView.html?idxno=122917",
      "title": "HD현대 글로벌 R&D센터(GRC), '공간안전인증' 획득"
+    },
+    {
+     "source": "newstnt.com",
+     "url": "https://www.newstnt.com/news/articleView.html?idxno=730274",
+     "orig": "https://www.newstnt.com/news/articleView.html?idxno=730274",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득…시설 안전관리 체계 우수성..."
+    },
+    {
+     "source": "더퍼블릭",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=328309",
+     "orig": "https://www.thepublic.kr/news/articleView.html?idxno=328309",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득…시설 안전관리 강화"
     }
    ],
    "day": "2026-11-24",
