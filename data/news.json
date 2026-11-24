@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T15:52+09:00",
+ "updatedAt": "2026-11-24T15:56+09:00",
  "categories": [
   {
    "id": "sev",
@@ -61,16 +61,29 @@
    "count": 11
   },
   {
-   "id": "04dddeb41edc",
-   "title": "한전KDN, 고위험 작업 모의훈련…중대재해 대응 강화",
-   "url": "https://www.koit.co.kr/news/articleView.html?idxno=210070",
-   "source": "koit.co.kr",
+   "id": "5d9f8ec89ccb",
+   "title": "HDC랩스, 제조현장 AI 안전관제 사업 잇따라 수주…AX 솔루션 적용 확대",
+   "url": "https://n.news.naver.com/mnews/article/016/0002727748?sid=101",
+   "source": "헤럴드경제",
    "cat": "tech",
    "day": "2026-11-24",
    "count": 7
   }
  ],
  "articles": [
+  {
+   "title": "가스안전공사 신임사장 선임 사실상 카운트다운",
+   "summary": "한국가스안전공사 임원추천위원회는 지난 16일 국민 안전과 미래 에너지를 선도하는 가스안전 책임기관사장 공개채용을 공고하고, 최고경영자로서의 리더십과 비전 제시 능력, 해당 분야와 관련한 지식과 경험, 조직관리...",
+   "url": "http://www.e2news.com/news/articleView.html?idxno=336451",
+   "orig": "http://www.e2news.com/news/articleView.html?idxno=336451",
+   "source": "이투뉴스",
+   "published": "2026-11-24T15:52+09:00",
+   "cat": "tech",
+   "id": "ab8bb38eb64c",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
   {
    "title": "줄이은 천안·아산 산재…노동당국 초강수",
    "summary": "▲ 고용노동부 천안지청 전경 충남 천안·아산에서 산업재해 사망사고가 잇따르자 노동당국이 현장 감독을... 이번 점검은 '권역 내 중대재해 긴급 감축 방안'에 따른 것으로 이 업체는 최근 3년간 노동당국의 감독이나...",
@@ -879,6 +892,12 @@
      "url": "https://n.news.naver.com/mnews/article/029/0003060865?sid=101",
      "orig": "https://www.dt.co.kr/article/12096934?ref=naver",
      "title": "HDC랩스, 제조현장 AI 안전관제 통합 시스템 구축·공급 확대"
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202611240204",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202611240204",
+     "title": "HDC랩스, 국내 제조기업 AI 안전관제 사업 잇달아 수주"
     }
    ],
    "day": "2026-11-24",
