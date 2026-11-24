@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T08:53+09:00",
+ "updatedAt": "2026-11-24T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,413 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "2e3c79f28dfc",
-   "title": "AWS CEO \"AI 안전 위해 에이전트마다 신원 부여해야\"",
-   "url": "https://n.news.naver.com/mnews/article/014/0005608646?sid=105",
-   "source": "파이낸셜뉴스",
+   "id": "b89547da6f89",
+   "title": "HD현대 판교 글로벌R&D센터, '공간안전인증' 획득",
+   "url": "https://n.news.naver.com/mnews/article/277/0005846815?sid=101",
+   "source": "아시아경제",
    "cat": "tech",
    "day": "2026-11-24",
-   "count": 1
+   "count": 10
   },
   {
-   "id": "271bafad3ce6",
-   "title": "실→본부로 '격상'…안전관리 조직 강화 나선 포스코이앤씨",
-   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446145",
-   "source": "einfomax.co.kr",
-   "cat": "law",
+   "id": "2200d1c28d7b",
+   "title": "HD현대 GRC, 공간안전인증 획득…시설 안전관리 역량 인정",
+   "url": "https://www.etoday.co.kr/news/view/2652034",
+   "source": "이투데이",
+   "cat": "tech",
    "day": "2026-11-24",
-   "count": 1
+   "count": 5
   },
   {
-   "id": "ed1f1779e08a",
-   "title": "구미 야산서 재선충 방제작업 50대 쓰러져…심정지로 이송",
-   "url": "https://n.news.naver.com/mnews/article/421/0009306087?sid=102",
-   "source": "뉴스1",
-   "cat": "sev",
+   "id": "4826e847748b",
+   "title": "AI·로봇 건설현장 속으로···국토부, 스마트건설·안전·AI EXPO 개최",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327607",
+   "source": "대한전문건설신문",
+   "cat": "tech",
    "day": "2026-11-24",
-   "count": 1
-  },
-  {
-   "id": "3a40265ad388",
-   "title": "에코프로비엠 헝가리 공장, 소성설비 정비 중 연기 발생…화재로 번지지...",
-   "url": "https://www.g-enews.com/view.php?ud=2026112407180123232bd56fbc3c_1",
-   "source": "글로벌이코노믹",
-   "cat": "acc",
-   "day": "2026-11-24",
-   "count": 1
-  },
-  {
-   "id": "78f15facb92e",
-   "title": "직업적 요인·개인 데이터 결합해 ‘장기적 건강 변화’ 점검",
-   "url": "https://n.news.naver.com/mnews/article/082/0001408622?sid=103",
-   "source": "부산일보",
-   "cat": "hlt",
-   "day": "2026-11-24",
-   "count": 1
+   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "위험성평가 책임 강화…김해시, 현장 교육·홍보 집중",
+   "summary": "김해시가 전 부서 관리감독자와 업무담당자 등을 대상으로 위험성평가 역량강화 교육을 진행하고 있다.... 근로자의 안전보건 업무를 맡고 있으며, 민간사업장에는 관계 부서와 협력해 산업재해 예방 교육과 홍보 등을...",
+   "url": "https://www.ziksir.com/news/articleView.html?idxno=154375",
+   "orig": "https://www.ziksir.com/news/articleView.html?idxno=154375",
+   "source": "직썰",
+   "published": "2026-11-24T09:44+09:00",
+   "cat": "tech",
+   "id": "9273c8535c8e",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "잇단 철도 탈선, 안전대책 실효성 도마…소정리 원인 규명 장기화 전망",
+   "summary": "경부선 청도역 인근 선로 작업자 사상 사고는 2025년 8월 발생해 2026년 8월 최종 조사 결과가 발표됐으며, 구로역 선로 작업자 사망사고는 2024년 8월 발생해 2025년 11월 최종 결과가 나왔다. 소정리역 사고 역시 열차 운행...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009306321?sid=102",
+   "orig": "https://www.news1.kr/local/daejeon-chungnam/6363770",
+   "source": "뉴스1",
+   "published": "2026-11-24T09:39+09:00",
+   "cat": "law",
+   "id": "700be11d5877",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "스마트건설·안전·AI 엑스포 25일 개막…킨텍스서 사흘간 개최",
+   "summary": "▲ 스마트건설 엑스포 포스터 [국토교통부 제공] 건설현장 안전관리와 작업 자동화에 활용되는 인공지능(AI)... 고소작업 추락 상황 등을 체험할 수 있다. 지난 6월부터 10월까지 진행된 스마트건설 챌린지의 우수 기술에...",
+   "url": "https://idsn.co.kr/news/view/1065573314070943",
+   "orig": "https://idsn.co.kr/news/view/1065573314070943",
+   "source": "idsn.co.kr",
+   "published": "2026-11-24T09:38+09:00",
+   "cat": "tech",
+   "id": "4dd4a1d1fdb1",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "농협파트너스, 대구권역 관리감독자 안전보건 교육 실시",
+   "summary": "이번 교육은 현장 관리감독자들의 안전보건 의식을 제고하고 ‘산업안전보건법’ ‘중대재해 처벌 등에 관한 법률(중대재해처벌법)’에 따른 안전관리 책임과 의무를 현장 관리자들에게 명확히 인식시키기 위해 마련됐다....",
+   "url": "https://n.news.naver.com/mnews/article/662/0000109148?sid=102",
+   "orig": "https://www.nongmin.com/article/20261123500615",
+   "source": "nongmin.com",
+   "published": "2026-11-24T09:32+09:00",
+   "cat": "law",
+   "id": "6e9609261175",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "'연구자 안전 지켜온 묵묵한 헌신'…금오공대 우동근 주무관, 부총리 표...",
+   "summary": "예방하는 안전관리 체계를 구축했다. 시약병에는 스마트폰으로 인식할 수 있는 QR코드를 부착해 연구자들이... 첨단기술을 활용한 안전관리뿐 아니라 사람 중심의 안전문화 정착에도 힘을 쏟았다. 정기적인 안전교육과...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000554840?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2392485.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-24T09:29+09:00",
+   "cat": "tech",
+   "id": "3c247a938875",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "[노무사 칼럼] 어선원 산재보험, 신속한 보상뿐만 아니라 육상과의 형평...",
+   "summary": "그러나 어선원재해보험은 육상의 산재보험에 비해 제도운영과 보상체계에서 여전히 미흡한 점이 많다. 지난 19일 국회 농림축산식품해양수산위원회 국정감사에서 제기된 수협중앙회의 어선원재해보상 관련 문제점을...",
+   "url": "https://idsn.co.kr/news/view/1065572766507303",
+   "orig": "https://idsn.co.kr/news/view/1065572766507303",
+   "source": "idsn.co.kr",
+   "published": "2026-11-24T09:28+09:00",
+   "cat": "law",
+   "id": "925994ef7cd4",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "김용진 GH 사장, 봄·여름 이어 겨울철 안전점검…계절별 건설현장 위험...",
+   "summary": "특히 흙을 깎거나 쌓는 절·성토 작업 구간에서는 건설기계와 근로자의 작업 동선이 겹치면서 발생할 수 있는 충돌·끼임 사고 예방 조치에 중점을 뒀다. 대형 건설기계가 운행하는 구역에 근로자가 접근하지 않도록...",
+   "url": "http://www.fieldnews.kr/news/articleView.html?idxno=33340",
+   "orig": "http://www.fieldnews.kr/news/articleView.html?idxno=33340",
+   "source": "fieldnews.kr",
+   "published": "2026-11-24T09:26+09:00",
+   "cat": "tech",
+   "id": "9fe821fb6d47",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "[패트롤]경북도-경상북도개발공사-경북교육청-경북농협-경북문화재단 콘...",
+   "summary": "바이오·푸드테크 산업 육성 협약을 맺었으며, 11월 17일에는 식품안전정보원과 협약을 체결해... 시험 감독체계 개선 등 내신평가의 공정성을 확보하기 위한 종합대책 마련에 나섰다. 경북교육청은 24일 AI와 첨단...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261124028053729",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261124028053729",
+   "source": "에너지경제",
+   "published": "2026-11-24T09:22+09:00",
+   "cat": "tech",
+   "id": "b279ff22e0a5",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "김용진 GH 사장, “건설 현장에서 근로자의 생명과 안전은 최우선 가치...",
+   "summary": "현장 사고를 미연에 방지하고, 붕괴 사고 등 중대재해 예방을 위한 동절기 대비 안전 점검을 실시했다. 이날... 사전에 철저히 차단해 모든 근로자가 안심하고 일할 수 있는 안전한 작업 환경을 조성하겠다”라고 밝혔다.",
+   "url": "https://n.news.naver.com/mnews/article/081/0003702482?sid=100",
+   "orig": "https://www.seoul.co.kr/news/publicnews/policy_admin/public_org/2026/11/24/20261124500028?wlog_tag3=naver",
+   "source": "서울신문",
+   "published": "2026-11-24T09:19+09:00",
+   "cat": "tech",
+   "id": "c6d470209598",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "11월 24일 오늘의 안전 상황",
+   "summary": "인근 작업자가 부딪힘 / 사망 1명(남, 60대) ② 15:40경 / 충남 부여군 부여읍 / 배수장 철거작업... 활동 ▲ (공 장) 경남 함안군『○○ 함안공장』 - 15:44~17:07, 페인트 공정 기계 내부에서 용접 등 부주의로...",
+   "url": "http://fpn119.co.kr/259908",
+   "orig": "http://fpn119.co.kr/259908",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-24T09:18+09:00",
+   "cat": "law",
+   "id": "152d7a871b04",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "김용진 GH 사장, 3기 신도시 건설현장 동절기 안전점검",
+   "summary": "특히 절·성토 구간에서는 건설기계와 근로자 간 충돌·끼임 사고를 막기 위한 작업구역 통제 상황 등 안전조치 이행 여부를 집중적으로 살폈다. 옹벽 설치 예정 구간의 지반 취약부 조치 현황을 점검하고, 지반 붕괴 등...",
+   "url": "https://www.joongangenews.com/news/articleView.html?idxno=566085",
+   "orig": "https://www.joongangenews.com/news/articleView.html?idxno=566085",
+   "source": "joongangenews.com",
+   "published": "2026-11-24T09:18+09:00",
+   "cat": "law",
+   "id": "68d9894dc651",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "HD현대 GRC, 공간안전인증 획득…시설 안전관리 역량 인정",
+   "summary": "이투데이=김민서 기자 | 9개월간 안전경영·소방 등 7개 분야 평가…관리 노하우 계열사 공유 HD현대 글로벌R&D센터(GRC)가 시설 안전성과 위험 관리체계를 평가하는 공간안전인증을 획득했다. HD현대는 인증 과정에서...",
+   "url": "https://www.etoday.co.kr/news/view/2652034",
+   "orig": "https://www.etoday.co.kr/news/view/2652034",
+   "source": "이투데이",
+   "published": "2026-11-24T09:18+09:00",
+   "cat": "tech",
+   "id": "2200d1c28d7b",
+   "related": [
+    {
+     "source": "businesskorea.co.kr",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281983",
+     "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281983",
+     "title": "HD현대 GRC, 소방청 감독 '공간안전인증' 획득"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=154398",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=154398",
+     "title": "HD현대 GRC, '공간안전인증' 획득…시설 안전관리 역량 인정받아"
+    },
+    {
+     "source": "에너지신문",
+     "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=230016",
+     "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=230016",
+     "title": "HD현대 GRC, 공간안전인증 획득…시설 안전관리 역량 입증"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428206",
+     "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1428206",
+     "title": "HD현대 'GRC', 안전관리 역량 인정받아"
+    }
+   ],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "현대차·기아, 3년 연속 안전관리 최우수연구실 선정·부총리 표창 수상",
+   "summary": "현대자동차·기아는 과학기술정보통신부(이하 과기부) 주관 ‘2026년 안전관리 우수연구실 인증심사’에서... 감축을 돕는 ‘선순환 온실가스 감축 상생프로그램’을 운영하는 등 친환경 경영에도 적극 나서고 있다.",
+   "url": "https://n.news.naver.com/mnews/article/016/0002727487?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10946979?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-24T09:18+09:00",
+   "cat": "tech",
+   "id": "53f549c6f254",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "김용진 GH 사장, 남양주왕숙 기업이전단지 현장 점검",
+   "summary": "특히 절·성토 구간에서는 건설기계와 근로자 간 충돌·끼임 사고를 막기 위한 작업구역 통제 상황 등 안전조치 이행 여부를 집중적으로 살폈다. 이어 옹벽 설치 예정 구간의 지반 취약부 조치 현황을 점검하고, 지반 붕괴...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005846823?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026112409173069236",
+   "source": "아시아경제",
+   "published": "2026-11-24T09:17+09:00",
+   "cat": "tech",
+   "id": "0b546321c917",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "한국가스안전공사 사장 공모…임기 3년, 27일까지 접수",
+   "summary": "지원자가 제출한 서류를 토대로 진행하며, 서류심사 합격자를 대상으로 면접심사를 실시할 예정으로 신임 사장의 임기는 3년이다. 임원추천위원회, 신임 사장 1명 공개 모집 리더십·가스안전 전문성, 경영능력 등 평가",
+   "url": "https://www.gasnews.com/news/articleView.html?idxno=127840",
+   "orig": "https://www.gasnews.com/news/articleView.html?idxno=127840",
+   "source": "가스신문",
+   "published": "2026-11-24T09:16+09:00",
+   "cat": "tech",
+   "id": "a9ba0a8f0bbf",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "울산소방, 기업 최고경영자와 안전 간담회…산단내 안전사고 예방 머리...",
+   "summary": "울산소방본부는 지난해 12월에도 울산화학재난합동방재센터, 한국소방안전협회 관계자와 산업단지 기업체 최고경영자 등 140여 명이 참석한 가운데 산업단지 기업체 최고경영자 안전 간담회를 가졌다. 울산소방본부는...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002835001?sid=102",
+   "orig": "https://www.munhwa.com/article/11633550?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-24T09:16+09:00",
+   "cat": "tech",
+   "id": "bb53ca25549e",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "2026 춘천시 노사민정 아카데미, 20일 개최",
+   "summary": "이날 권구형 고용노동부 강원지청장이 산업안전보건교육과 안전한 일터 및 상생 노사문화에 대한 특강을 진행했다. 권 지청장은 ‘중대재해 근절을 위한 노동조합의 역할’을 주제로 한 산업안전보건교육을 통해...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001232936?sid=101",
+   "orig": "https://www.kwnews.co.kr/article/20261122501319",
+   "source": "강원일보",
+   "published": "2026-11-24T09:15+09:00",
+   "cat": "law",
+   "id": "9f26514fb10f",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "농악 마당극으로 농기계 사고 예방법 익혀 …안동 농업인 안전교육",
+   "summary": "마이 대식!’으로 농작업 중 일어날 수 있는 사고를 재현했다. 지역 농악단이 식전 공연을 맡고 방송인 한기웅이 안전을 주제로 이야기를 나눴다. 전문 강사는 실제 사고 사례를 들어 농기계 운행 때 지켜야 할 교통안전...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009306200?sid=102",
+   "orig": "https://www.news1.kr/local/daegu-gyeongbuk/6363714",
+   "source": "뉴스1",
+   "published": "2026-11-24T09:13+09:00",
+   "cat": "tech",
+   "id": "cfbcd81c8619",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "[아유경제_오피니언] 소음성 난청 산재, 85dBㆍ3년 기준만으로 판단해서...",
+   "summary": "소음성 난청의 법률상 인정기준 「산업재해보상보험법」 제37조는 업무상 질병을 업무상 재해의 유형으로 규정하고 있으며, 구체적인 인정기준은 같은 법 시행령 제34조 및 별표 3에서 정하고 있다. 소음성 난청의 주요...",
+   "url": "http://www.areyou.co.kr/news/articleView.html?idxno=96441",
+   "orig": "http://www.areyou.co.kr/news/articleView.html?idxno=96441",
+   "source": "areyou.co.kr",
+   "published": "2026-11-24T09:12+09:00",
+   "cat": "hlt",
+   "id": "9c41edf791bf",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "HD현대 판교 글로벌R&D센터, '공간안전인증' 획득",
+   "summary": "평가는 안전경영과 건축방재, 소방안전, 위험물안전, 설비안전, 설비성능, 신기술 및 설비개선 등 7개 분야에 걸쳐 이뤄졌다. HD현대는 이번 인증을 계기로 시설 안전관리체계를 고도화하고 안전관리 노하우를 계열사와...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005846815?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026112409100210230",
+   "source": "아시아경제",
+   "published": "2026-11-24T09:10+09:00",
+   "cat": "tech",
+   "id": "b89547da6f89",
+   "related": [
+    {
+     "source": "hbnpress.com",
+     "url": "https://hbnpress.com/news/view/1065572042413597",
+     "orig": "https://hbnpress.com/news/view/1065572042413597",
+     "title": "HD현대 글로벌R&D센터, 한국안전인증원 '공간안전인증' 획득"
+    },
+    {
+     "source": "한스경제",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886484",
+     "orig": "http://www.hansbiz.co.kr/news/articleView.html?idxno=886484",
+     "title": "HD현대 판교 글로벌R&D센터, 공간안전인증 획득"
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507349",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=507349",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득…시설 안전관리 역량 인정"
+    },
+    {
+     "source": "데일리안",
+     "url": "https://n.news.naver.com/mnews/article/119/0003158647?sid=101",
+     "orig": "https://www.dailian.co.kr/news/view/1718823/?sc=Naver",
+     "title": "HD현대 판교 GRC, ‘공간안전인증’ 획득"
+    },
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000554843?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2392499.htm",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득"
+    },
+    {
+     "source": "seoultimes.news",
+     "url": "https://www.seoultimes.news/news/article.html?no=2000102599",
+     "orig": "https://www.seoultimes.news/news/article.html?no=2000102599",
+     "title": "HD현대 글로벌R&D센터, 한국안전인증원 공간안전인증 획득"
+    },
+    {
+     "source": "newscape.co.kr",
+     "url": "http://www.newscape.co.kr/news/articleView.html?idxno=126034",
+     "orig": "http://www.newscape.co.kr/news/articleView.html?idxno=126034",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증서 획득"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=140753",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=140753",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득...유효기간 3년"
+    },
+    {
+     "source": "econonews.co.kr",
+     "url": "http://www.econonews.co.kr/news/articleView.html?idxno=447618",
+     "orig": "http://www.econonews.co.kr/news/articleView.html?idxno=447618",
+     "title": "HD현대 글로벌R&D센터, 공간안전인증 획득"
+    }
+   ],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "TYM, ESG 평가 종합 B+… 전년 比 두 단계 ↑",
+   "summary": "아울러 안전보건경영시스템 ISO 45001을 유지하며 근로자의 산업재해와 질병을 예방하고 안전한 근무환경 조성에도 힘쓰고 있다. 사업장 중심의 환경보호와 지역사회 상생 활동도 꾸준히 이어가고 있다. 익산사업장...",
+   "url": "http://autotimes.co.kr/detail.php?number=690090&thread=27",
+   "orig": "http://autotimes.co.kr/detail.php?number=690090&thread=27",
+   "source": "autotimes.co.kr",
+   "published": "2026-11-24T09:02+09:00",
+   "cat": "tech",
+   "id": "da7bd9129fa4",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "건설근로자공제회, 중소 건설현장 700여 곳에 귀마개·핫팩 지원",
+   "summary": "건설현장은 야외 작업 시간이 길어 기온이 떨어지면 노동자가 한랭질환과 안전사고 위험에 노출되기 쉽다. 공제회는 대형 현장보다 상대적으로 안전관리 여력이 부족한 중소규모 현장을 지원 대상으로 삼고, 작업 중 쓰기...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002727466?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10946403?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-24T09:01+09:00",
+   "cat": "hlt",
+   "id": "acaaa9e57ca6",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "삼성물산 '새 판', GS·포스코·IPARK '연임 기로'...CEO 연말인사 '촉각...",
+   "summary": "그럼에도 불구하고 포스코이앤씨에 중대재해는 반복됐다. 신안산선 공사현장에서만 지난해 12월과 올해 6월 사망사고가 추가 발생했으며, 그 밖에 안전사고도 다수 일어났다. 이에 국토부가 지난 7월 영업정지 처분을...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=141176",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=141176",
+   "source": "popcornnews.net",
+   "published": "2026-11-24T09:00+09:00",
+   "cat": "hlt",
+   "id": "01c8880e43cb",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
   {
    "title": "AWS CEO \"AI 안전 위해 에이전트마다 신원 부여해야\"",
    "summary": "인공지능(AI) 에이전트 확산과 함께 에이전트 오류와 안전성에 대한 우려가 커지고 있는 가운데, 맷 가먼 아마존웹서비스(AWS) 최고경영자(CEO)가 AI 에이전트에 독자적인 디지털 신원을 부여하고 업무에 필요한 권한만...",
@@ -171,7 +532,14 @@
    "published": "2026-11-24T07:46+09:00",
    "cat": "tech",
    "id": "4826e847748b",
-   "related": [],
+   "related": [
+    {
+     "source": "bizwork.co.kr",
+     "url": "https://www.bizwork.co.kr/news/articleView.html?idxno=421089",
+     "orig": "https://www.bizwork.co.kr/news/articleView.html?idxno=421089",
+     "title": "AI·로봇 건설기술 한자리…'스마트건설·안전·AI EXPO' 개최"
+    }
+   ],
    "day": "2026-11-24",
    "watch": []
   },
@@ -574,7 +942,14 @@
    "published": "2026-11-23T21:36+09:00",
    "cat": "tech",
    "id": "799bb0b83dac",
-   "related": [],
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002727463?sid=102",
+     "orig": "https://biz.heraldcorp.com/article/10946922?ref=naver",
+     "title": "종로구, ‘바닥에 켜지는 보행신호등’으로 횡단보도 안전 강화 [종합]"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -692,7 +1067,14 @@
    "published": "2026-11-23T19:52+09:00",
    "cat": "law",
    "id": "5869e94e275a",
-   "related": [],
+   "related": [
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251754",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251754",
+     "title": "'직업병 예방' 김포근로자건강센터 문 활짝"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
@@ -1806,6 +2188,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009305633?sid=102",
      "orig": "https://www.news1.kr/local/jeonbuk/6363232",
      "title": "'근로자 5명 사망' 세아베스틸 전 대표, 중대재해처벌법 1건 추가 기소"
+    },
+    {
+     "source": "안전신문",
+     "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251756",
+     "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251756",
+     "title": "'중처법 이후 노동자 5명 사망' 세아베스틸 전 대표 추가 기소"
     }
    ],
    "day": "2026-11-23",
@@ -4435,6 +4823,12 @@
      "url": "https://www.inews365.com/news/article.html?no=944897",
      "orig": "https://www.inews365.com/news/article.html?no=944897",
      "title": "엄태영, 산재예방 잘하는 기업 혜택...'안전 우수기업 지원법' 대표발의"
+    },
+    {
+     "source": "동양일보",
+     "url": "https://www.dynews.co.kr/news/articleView.html?idxno=875290",
+     "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=875290",
+     "title": "엄태영 의원, '산재 예방 우수기업 지정' 산안법 개정안 대표발의"
     }
    ],
    "day": "2026-11-23",
@@ -4818,6 +5212,18 @@
      "url": "https://www.etoday.co.kr/news/view/2651844",
      "orig": "https://www.etoday.co.kr/news/view/2651844",
      "title": "국토부, 25일부터 '스마트건설·안전·AI 엑스포' 개최…258개 기업 참가"
+    },
+    {
+     "source": "businesskorea.co.kr",
+     "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281965",
+     "orig": "https://www.businesskorea.co.kr/news/articleView.html?idxno=281965",
+     "title": "현대경제연구원, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가"
+    },
+    {
+     "source": "gokorea.kr",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=886800",
+     "orig": "https://www.gokorea.kr/news/articleView.html?idxno=886800",
+     "title": "피아스페이스, '2026 스마트건설·안전·AI 엑스포(SCX 2026)' 참가"
     }
    ],
    "day": "2026-11-23",
