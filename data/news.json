@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-24T11:52+09:00",
+ "updatedAt": "2026-11-24T12:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "아시아경제",
    "cat": "tech",
    "day": "2026-11-24",
-   "count": 26
+   "count": 28
   },
   {
    "id": "2200d1c28d7b",
@@ -52,6 +52,15 @@
    "count": 6
   },
   {
+   "id": "1cb9333d1f2a",
+   "title": "'10개월간 4명 사망' 세아베스틸 전 대표 집행유예",
+   "url": "https://n.news.naver.com/mnews/article/052/0002437249?sid=102",
+   "source": "YTN",
+   "cat": "sev",
+   "day": "2026-11-24",
+   "count": 4
+  },
+  {
    "id": "68d9894dc651",
    "title": "김용진 GH 사장, 3기 신도시 건설현장 동절기 안전점검",
    "url": "https://www.joongangenews.com/news/articleView.html?idxno=566085",
@@ -59,18 +68,113 @@
    "cat": "law",
    "day": "2026-11-24",
    "count": 3
-  },
-  {
-   "id": "0b546321c917",
-   "title": "김용진 GH 사장, 남양주왕숙 기업이전단지 현장 점검",
-   "url": "https://n.news.naver.com/mnews/article/277/0005846823?sid=102",
-   "source": "아시아경제",
-   "cat": "tech",
-   "day": "2026-11-24",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "부영그룹, 겨울철 현장 안전관리 강화… 중대재해 예방 점검",
+   "summary": "부영그룹이 겨울철 산업재해와 중대재해 예방을 위해 사업장별 안전·보건 확보의무 이행 실태를 점검한다/ 부영그룹 제공 부영그룹이 겨울철 건설현장의 산업재해를 예방하기 위한 안전관리 점검에 나선다. 현장별...",
+   "url": "https://www.koreaittimes.com/news/articleView.html?idxno=159414",
+   "orig": "https://www.koreaittimes.com/news/articleView.html?idxno=159414",
+   "source": "koreaittimes.com",
+   "published": "2026-11-24T12:42+09:00",
+   "cat": "tech",
+   "id": "1dec59efdc1b",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "농촌진흥청, ‘농업인 안전365 캠페인 공모전’ 수상작 발표",
+   "summary": "(천안시농업기술센터) 등 6편이 선정됐다. 현장 사례 부문 대상(농촌진흥청장상)은 ‘스마트팜 안전수호팀’에게 돌아갔다. 이 팀은 온실 내부 체감온도 경고 알림이 울리면 즉시 농작업을 중지하고, 20분간 휴식을...",
+   "url": "https://www.kenews.co.kr/news/article.html?no=90227",
+   "orig": "https://www.kenews.co.kr/news/article.html?no=90227",
+   "source": "kenews.co.kr",
+   "published": "2026-11-24T12:32+09:00",
+   "cat": "tech",
+   "id": "e9ec117316ac",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "노동자 4명 숨진 세아베스틸···전 대표 징역 2년·집유 3년",
+   "summary": "이번 재판은 2022년 5월부터 2023년 3월까지 군산공장에서 발생한 중대재해 3건을 다뤘다. 2022년 5월 지게차에 치인 노동자가 숨졌고, 같은 해 9월에는 철강 제품과 트럭 적재함 사이에 끼인 노동자가 사망했다. 2023년...",
+   "url": "https://n.news.naver.com/mnews/article/032/0003484647?sid=102",
+   "orig": "https://www.khan.co.kr/article/202611241228001",
+   "source": "경향신문",
+   "published": "2026-11-24T12:28+09:00",
+   "cat": "sev",
+   "id": "e0f138a48166",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "경복대학교, '2026 OPEN CAMPUSDAY' 개최…수험생 대상 22개 전공 체험",
+   "summary": "반려동물보건과의 '반려견 기초검진(심장청진 및 맥박측정)'은 충효관 1층 반려동물임상센터에서, 산업안전보건과의 '오늘도 무사히! 산업안전체험교실'은 창조관 2층 안전교육센터에서 체험할 수 있다....",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496330",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2496330",
+   "source": "이뉴스투데이",
+   "published": "2026-11-24T12:20+09:00",
+   "cat": "tech",
+   "id": "55a39335bda3",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "박남춘 제11대 인천국제공항공사 사장 취임, \"안전·AI 기반 미래공항 전...",
+   "summary": "특히 공항 운영의 핵심인 '안전'을 경영 최우선 가치로 삼아 관련 지표를 경영성과 계약서에 반영하고, 시설·시스템 관리와 입출국 프로세스를 고도화할 방침이다. 미래 메가 트렌드인 인공지능(AI)을 접목한 'AIport'를...",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147491",
+   "orig": "https://www.boannews.com/news/articleView.html?idxno=147491",
+   "source": "boannews.com",
+   "published": "2026-11-24T12:18+09:00",
+   "cat": "tech",
+   "id": "5a76cc719faf",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "세아베스틸 \"중대재해 책임 엄중 수용…안전 최우선 경영\"",
+   "summary": "세아베스틸이 노동자 5명이 숨진 중대재해와 관련해 김철희 전 대표이사가 1심에서 집행유예를 선고받은 가운데, 사고에 대한 책임을 엄중하게 받아들이고 안전관리 체계 개선을 이어가겠다는 입장을 밝혔다....",
+   "url": "https://n.news.naver.com/mnews/article/003/0014341969?sid=101",
+   "orig": "https://www.newsis.com/view/NISX20261124_0003880886",
+   "source": "뉴시스",
+   "published": "2026-11-24T12:05+09:00",
+   "cat": "hlt",
+   "id": "7cbba7fe7cb8",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "거창군, 겨울철 한랭질환 예방을 위한 안전보건교육 실시",
+   "summary": "현장에서 적극 실천해 건강하고 안전하게 겨울을 보내길 바란다\"고 말했다. 한편 거창군은 겨울철 한파로 인한 산업재해를 예방하고 현업종사자의 건강을 보호하기 위해 사업장 안전보건점검을 지속적으로 실시할 예정이다.",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=587574",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=587574",
+   "source": "newsgn.com",
+   "published": "2026-11-24T12:00+09:00",
+   "cat": "hlt",
+   "id": "226e9a1bf3ab",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
+  {
+   "title": "[[대경일보 특별기획] 장생탄광희생자 유가족을 찾습니다③] 장생탄광 ...",
+   "summary": "1942년 2월 3일 일본 야마구치현 우베시 앞바다 장생탄광 수몰사고로 조선인 136명과 일본인 47명 등 모두... 채굴하는 작업장이었다. 희생자 명부에는 20~30대 청년들이 다수 포함돼 있고, 10대 후반의 어린 노동자와 40...",
+   "url": "https://www.dkilbo.com/news/articleView.html?idxno=561868",
+   "orig": "https://www.dkilbo.com/news/articleView.html?idxno=561868",
+   "source": "dkilbo.com",
+   "published": "2026-11-24T11:56+09:00",
+   "cat": "sev",
+   "id": "32de60f58c9b",
+   "related": [],
+   "day": "2026-11-24",
+   "watch": []
+  },
   {
    "title": "한기대, 연구실 안전 넘어 산업현장 안전까지 역량 입증",
    "summary": "산업현장의 작업환경 개선까지 안전보건 분야에서 잇따라 성과를 거뒀다. 사고 예방을 위한 안전관리 체계... 기존 유해요인조사와 개선 활동에 머무르지 않고 작업자가 일상 업무 중 직접 실천할 수 있는 예방체조를...",
@@ -93,7 +197,26 @@
    "published": "2026-11-24T11:41+09:00",
    "cat": "sev",
    "id": "1cb9333d1f2a",
-   "related": [],
+   "related": [
+    {
+     "source": "연합뉴스",
+     "url": "https://n.news.naver.com/mnews/article/001/0016460297?sid=102",
+     "orig": "https://www.yna.co.kr/view/AKR20261124091351055?input=1195m",
+     "title": "중처법 시행 후 '노동자 5명 사망'…세아베스틸 전 대표 집유(종합)"
+    },
+    {
+     "source": "조선일보",
+     "url": "https://n.news.naver.com/mnews/article/023/0004011411?sid=102",
+     "orig": "https://www.chosun.com/national/court_law/2026/11/24/OM7XDERGURAD5IPE7YDV4IBXOM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+     "title": "노동자 4명 사망 세아베스틸 전 대표, 징역 2년·집행유예 3년"
+    },
+    {
+     "source": "세계일보",
+     "url": "https://n.news.naver.com/mnews/article/022/0004177665?sid=102",
+     "orig": "https://www.segye.com/newsView/20261124508975?OutUrl=naver",
+     "title": "10개월간 노동자 4명 숨진 세아베스틸 전 대표 ‘집유’…중대재해책임..."
+    }
+   ],
    "day": "2026-11-24",
    "watch": []
   },
@@ -1202,6 +1325,18 @@
      "url": "https://n.news.naver.com/mnews/article/020/0003764712?sid=101",
      "orig": "https://www.donga.com/news/Economy/article/all/20261124/135079939/1",
      "title": "HD현대, 글로벌R&D센터 시설 안전관리 인증 획득"
+    },
+    {
+     "source": "lcnews.co.kr",
+     "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=211906",
+     "orig": "https://www.lcnews.co.kr/news/articleView.html?idxno=211906",
+     "title": "HD현대, 글로벌R&D센터 '공간안전인증' 취득"
+    },
+    {
+     "source": "the-biz.co.kr",
+     "url": "http://www.the-biz.co.kr/news/articleView.html?idxno=731975",
+     "orig": "http://www.the-biz.co.kr/news/articleView.html?idxno=731975",
+     "title": "HD현대, 판교 R&D센터 안전성 입증… '공간안전인증' 획득"
     }
    ],
    "day": "2026-11-24",
@@ -1216,7 +1351,14 @@
    "published": "2026-11-24T09:02+09:00",
    "cat": "tech",
    "id": "da7bd9129fa4",
-   "related": [],
+   "related": [
+    {
+     "source": "newsam.co.kr",
+     "url": "https://www.newsam.co.kr/news/article.html?no=44544",
+     "orig": "https://www.newsam.co.kr/news/article.html?no=44544",
+     "title": "TYM, ESG 평가서 종합등급 B+ 획득… 전년比 두 단계 상승"
+    }
+   ],
    "day": "2026-11-24",
    "watch": []
   },
@@ -1541,6 +1683,12 @@
      "url": "https://n.news.naver.com/mnews/article/001/0016460235?sid=102",
      "orig": "https://www.yna.co.kr/view/AKR20261124091300055?input=1195m",
      "title": "중처법 이후 '노동자 5명 사망'…세아베스틸 전 대표 집유"
+    },
+    {
+     "source": "jmbc.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/659/0000048981?sid=102",
+     "orig": "http://www.jmbc.co.kr/news/view_breakingnews/70003",
+     "title": "[속보] 중처법 이후 5명 사망 '세아베스틸'.. 전직 경영진 '징역형 집행..."
     }
    ],
    "day": "2026-11-24",
@@ -2339,7 +2487,14 @@
    "published": "2026-11-23T17:30+09:00",
    "cat": "tech",
    "id": "c43a019eeffb",
-   "related": [],
+   "related": [
+    {
+     "source": "newsgn.com",
+     "url": "https://www.newsgn.com/news/articleView.html?idxno=587595",
+     "orig": "https://www.newsgn.com/news/articleView.html?idxno=587595",
+     "title": "거제시, '중대재해 예방 대응 역량강화 교육' 실시"
+    }
+   ],
    "day": "2026-11-23",
    "watch": []
   },
