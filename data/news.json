@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T16:52+09:00",
+ "updatedAt": "2026-11-25T16:55+09:00",
  "categories": [
   {
    "id": "sev",
@@ -49,7 +49,7 @@
    "source": "뉴시스",
    "cat": "sev",
    "day": "2026-11-25",
-   "count": 7
+   "count": 8
   },
   {
    "id": "4191a6d957ae",
@@ -71,6 +71,32 @@
   }
  ],
  "articles": [
+  {
+   "title": "\"형 죽음에 사과 한 번 없어\" 삼성 반도체 하청노동자 동생의 질문",
+   "summary": "반올림 쪽은 \"작년 12월 1명의 백혈병 사망 피해가 발생한 것에 이어 올 8월에 김태진 님이 사망했다\"면서 \"1년도 안 되어 2명의 노동자가 같은 혈액암으로 사망한 사실은 무엇을 의미하나. 이는 명백한 중대재해이고...",
+   "url": "https://n.news.naver.com/mnews/article/047/0002537237?sid=101",
+   "orig": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003288330&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+   "source": "오마이뉴스",
+   "published": "2026-11-25T16:51+09:00",
+   "cat": "sev",
+   "id": "17ebc5804798",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "[CEO 워치] 아워홈 찾아 현장경영 나선 김승연 회장…\"식품안전 챙기고...",
+   "summary": "제조·물류 사업장의 안전 문제도 빼놓지 않았다. 김 회장은 “그 어떤 경영 성과도 우리 임직원의 생명과 안위에 앞설 수 없다”면서 “잘못된 관행은 과감히 바꾸고 안전 환경 조성을 위한 투자와 개선에 임직원 모두가...",
+   "url": "https://www.seoultimes.news/news/article.html?no=2000102702",
+   "orig": "https://www.seoultimes.news/news/article.html?no=2000102702",
+   "source": "seoultimes.news",
+   "published": "2026-11-25T16:51+09:00",
+   "cat": "tech",
+   "id": "097b9093d564",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
   {
    "title": "김승연 한화 회장 아워홈 찾아 \"식품 안전이 최우선\" 강조",
    "summary": "김 회장은 이어 제조 및 물류 현장의 안전 관리 중요성도 강조했다. 김 회장은 “그 어떤 경영 성과도 우리 임직원의 생명과 안위에 앞설 수 없다”면서 “잘못된 관행은 과감히 바꾸고 안전 환경 조성을 위한 투자와...",
@@ -313,6 +339,12 @@
      "url": "https://n.news.naver.com/mnews/article/421/0009309978?sid=101",
      "orig": "https://www.news1.kr/industry/company/6365926",
      "title": "김승연 회장 \"식품 안전에 최우선 순위\"…아워홈 연구센터 첫 방문"
+    },
+    {
+     "source": "industrynews.co.kr",
+     "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=90226",
+     "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=90226",
+     "title": "김승연 회장, 한화그룹 편입 후 아워홈 첫 방문…식품 안전·품질관리 ..."
     }
    ],
    "day": "2026-11-25",
@@ -830,6 +862,12 @@
      "url": "https://www.ccdailynews.com/news/articleView.html?idxno=2453341",
      "orig": "https://www.ccdailynews.com/news/articleView.html?idxno=2453341",
      "title": "'4명 사상' 청주 에코프로비엠 폭발 사고…전 대표 징역형 집행유예"
+    },
+    {
+     "source": "ccn.hcn.co.kr",
+     "url": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026112500070&story_seq=0&soCode=114&socttSn=NS2026112500070&socttSeq=0",
+     "orig": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026112500070&story_seq=0&soCode=114&socttSn=NS2026112500070&socttSeq=0",
+     "title": "'4명 사상 폭발사고' 에코프로비엠 전 대표 1심 집유"
     }
    ],
    "day": "2026-11-25",
@@ -946,6 +984,12 @@
      "source": "동양일보",
      "url": "https://www.dynews.co.kr/news/articleView.html?idxno=875686",
      "orig": "https://www.dynews.co.kr/news/articleView.html?idxno=875686",
+     "title": "청주상공회의소, 중대재해 예방 산업안전 세미나 개최"
+    },
+    {
+     "source": "충북일보",
+     "url": "https://www.inews365.com/news/article.html?no=945308",
+     "orig": "https://www.inews365.com/news/article.html?no=945308",
      "title": "청주상공회의소, 중대재해 예방 산업안전 세미나 개최"
     }
    ],
