@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T14:24+09:00",
+ "updatedAt": "2026-11-25T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 17
   },
   {
+   "id": "154c3649f89b",
+   "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016462574?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-11-25",
+   "count": 7
+  },
+  {
    "id": "b130096e149b",
    "title": "경인고속도로 부평IC 진입로서 크레인 넘어져…차량 정체",
    "url": "https://n.news.naver.com/mnews/article/001/0016462215?sid=102",
@@ -43,34 +52,175 @@
    "count": 6
   },
   {
-   "id": "154c3649f89b",
-   "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
-   "url": "https://n.news.naver.com/mnews/article/001/0016462574?sid=102",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-11-25",
-   "count": 5
-  },
-  {
-   "id": "4488a6026f48",
-   "title": "상주시 '2026 산업안전골든벨' 개최, 근로자 안전의식 강화",
-   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316126",
-   "source": "스트레이트뉴스",
-   "cat": "tech",
-   "day": "2026-11-25",
-   "count": 4
-  },
-  {
    "id": "1cbbcaf82b48",
    "title": "LIG D&A, 협력사 안전·건강관리 지원…상생경영 강화",
    "url": "https://www.businessplus.kr/news/articleView.html?idxno=120476",
    "source": "businessplus.kr",
    "cat": "tech",
    "day": "2026-11-25",
-   "count": 3
+   "count": 5
+  },
+  {
+   "id": "87246b1fddc3",
+   "title": "한기대, 산업안전정책 최고경영자과정 제5기 수료식",
+   "url": "https://dhnews.co.kr/news/view/1065575468152781",
+   "source": "dhnews.co.kr",
+   "cat": "law",
+   "day": "2026-11-25",
+   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "서원대 환경공학과 학생들, 화학안전 청년포럼 장려상 수상",
+   "summary": "서원대학교(총장 손석민) 환경공학과 학생들로 꾸려진 '현명한 선택'팀이 서울드래곤시티에서 진행된 '2026 화학안전정책 청년포럼'에서 장려상(한국경영자총협회장상)을 수상했다고 25일 밝혔다. 화학사고 때 재난문자를...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3762730",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3762730",
+   "source": "국제뉴스",
+   "published": "2026-11-25T14:50+09:00",
+   "cat": "tech",
+   "id": "00a4161f359d",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "NS홈쇼핑, 성남 화재 취약계층에 소화기 1875개 지원…10년째 안전 나눔",
+   "summary": "조항목 NS홈쇼핑 대표이사는 \"안전은 누구나 누려야 할 가장 기본적인 가치인 만큼, 이번 지원이 이웃들의 안전한 일상을 지키는 데 보탬이 되길 바란다\"며 \"앞으로도 안전의 가치를 더한 ESSG 경영을 기반으로 사회적...",
+   "url": "https://www.cstimes.com/news/articleView.html?idxno=729380",
+   "orig": "https://www.cstimes.com/news/articleView.html?idxno=729380",
+   "source": "컨슈머타임스",
+   "published": "2026-11-25T14:50+09:00",
+   "cat": "acc",
+   "id": "a3943dbc80a0",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "강원랜드, 안전관리 사장 직속으로 격상… 카지노 복합재난 대응 강화",
+   "summary": "다중이용시설의 특성상 재난 발생 시 신속한 초기 대응이 중요한 만큼 안전관리의 책임과 권한을 최고경영진에 집중시켜 현장 실행력을 높이겠다는 취지다. 안전관리 조직의 위상 강화가 실질적인 사고 예방과 재난 대응...",
+   "url": "https://www.sentv.co.kr/article/view/sentv202611250182",
+   "orig": "https://www.sentv.co.kr/article/view/sentv202611250182",
+   "source": "서울경제TV",
+   "published": "2026-11-25T14:50+09:00",
+   "cat": "tech",
+   "id": "aed750e75966",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "[2026 스마트건설 안전·AI 엑스포] AI·로봇이 바꾸는 건설…국토부, 규...",
+   "summary": "하 부위원장은 “사고가 난 이후에 대응하는 안전에서 사고를 미리 예측하고 예방하는 안전으로 패러다임을 완전히 바꿀 수 있다\"고 말했다. 안전관리뿐 아니라 반복 작업의 자동화, 드론과 3D 스캐닝을 활용한 공정·품질...",
+   "url": "https://www.ekn.kr/web/view.php?key=20261125028534532",
+   "orig": "https://www.ekn.kr/web/view.php?key=20261125028534532",
+   "source": "에너지경제",
+   "published": "2026-11-25T14:48+09:00",
+   "cat": "tech",
+   "id": "07990230f3db",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "응급처치부터 혈압 관리까지…LIG D&A, 협력사 건강 챙긴다",
+   "summary": "위해 산업안전 지원사업을 확대한다. 응급상황 대응을 위한 장비 보급에 이어 일상적인 건강관리까지... LIG D&A는 그동안 협력사를 대상으로 안전보건환경 컨설팅과 현장 안전점검, 생산성 향상 프로그램, ESG(환경...",
+   "url": "https://www.etoday.co.kr/news/view/2652857",
+   "orig": "https://www.etoday.co.kr/news/view/2652857",
+   "source": "이투데이",
+   "published": "2026-11-25T14:48+09:00",
+   "cat": "hlt",
+   "id": "8a1dc5e01511",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "협력사와 함께 안전 지킨다",
+   "summary": "AI를 접목해 중장비와 작업자 간 협착 사고를 막아주는 경보기와 AI 카메라로 작업자의 자세에 무리가... 특히 올해 공유된 21건의 혁신 사례 중 15건이 AI를 활용하며, 실제로 안전환경 업무 곳곳에 AI가 자리 잡은...",
+   "url": "https://monthly.chosun.com/news/articleView.html?idxno=72150",
+   "orig": "https://monthly.chosun.com/news/articleView.html?idxno=72150",
+   "source": "조선일보",
+   "published": "2026-11-25T14:46+09:00",
+   "cat": "hlt",
+   "id": "f929282b032e",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "LIG D&A, 협력사 31곳에 산업안전장비 제공",
+   "summary": "LIG D&A는 그동안 협력사 안전보건환경 컨설팅과 안전 점검 지원, 생산성 향상 프로그램, ESG기반 동반성장 교육 등 다양한 상생경영 활동을 전개해 왔다. IG D&A 관계자는 \"협력사 임직원의 건강과 안전은 K-방산 생태계가...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005847685?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026112514430905670",
+   "source": "아시아경제",
+   "published": "2026-11-25T14:43+09:00",
+   "cat": "tech",
+   "id": "75ea78898692",
+   "related": [
+    {
+     "source": "cnbizm.com",
+     "url": "https://www.cnbizm.com/news/articleView.html?idxno=322645",
+     "orig": "https://www.cnbizm.com/news/articleView.html?idxno=322645",
+     "title": "LIG D&A, 협력사 31곳에 AED·혈압계 지원… 안전보건 강화"
+    }
+   ],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "포스코이앤씨, 실적 반등 본격화…안전 경영으로 신뢰 되찾는다",
+   "summary": "추진해 중장기적이고 지속 가능한 성장 기반을 더욱 탄탄히 해 나가겠다\"고 강조했다. 그러면서 \"안전을 경영 최우선 가치로 두고 현장 중심의 철저한 안전관리와 예방 활동을 강화해 나갈 계획\"이라고 각오를 밝혔다.",
+   "url": "https://www.mediapen.com/news/view/1139932",
+   "orig": "https://www.mediapen.com/news/view/1139932",
+   "source": "미디어펜",
+   "published": "2026-11-25T14:40+09:00",
+   "cat": "tech",
+   "id": "f18579ebadb0",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "인텔리빅스, 건설현장 순찰하는 AI 로봇 시연…쓰러진 작업자도 감지",
+   "summary": "해당 시스템은 근로자 쓰러짐과 화재 등 위험상황을 24시간 감지하며 현장 안전관리자가 사고 징후를... 향후 제조공장과 발전·에너지 설비 등 다른 산업현장으로도 기술 적용을 확대할 계획이다. 인텔리빅스 관계자는...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002446873?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261125143812",
+   "source": "지디넷코리아",
+   "published": "2026-11-25T14:39+09:00",
+   "cat": "tech",
+   "id": "a9de18c5238b",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "현대차그룹, 소방관 안전 지킴이 역할 톡톡…사회공헌 성과 인정",
+   "summary": "올해 처음 시작된 시슐랭 스타는 한국경제인협회가 주관하고 산업통상부와 보건복지부가 후원하는 사회공헌 우수 기업 선정 프로그램이다. 현대차그룹은 무인소방로봇 기증과 국립소방병원 지원, 소방관 회복지원차...",
+   "url": "http://www.metroseoul.co.kr/article/20261125500320",
+   "orig": "http://www.metroseoul.co.kr/article/20261125500320",
+   "source": "metroseoul.co.kr",
+   "published": "2026-11-25T14:34+09:00",
+   "cat": "hlt",
+   "id": "d6c384555f39",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "걷기부터 맞춤형 건강관리까지…삼성바이오로직스, 건강증진 우수사업...",
+   "summary": "사진=삼성바이오로직스 제공 삼성바이오로직스는 지난 20일 한국산업안전보건공단 인천광역본부로부터 '근로자 건강증진활동 우수사업장' 선정서를 수여받았다고 25일 밝혔다. 2023년 첫 선정 후 인증기간 만료에 따른...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428209",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1428209",
+   "source": "한국아이닷컴",
+   "published": "2026-11-25T14:24+09:00",
+   "cat": "tech",
+   "id": "cc977a9c9538",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
   {
    "title": "강원랜드, 카지노에서 안전만큼은 운에 맡기지 않는다 [PS]",
    "summary": "안전 관련 주요 현안을 경영진이 직접 관리·감독하고 현장에서의 실행력을 높이기 위해서다. 김도균 대표이사는 “안전은 강원랜드가 고객과 국민에게 신뢰받는 공공형 복합리조트로 나아가기 위한 가장 기본적인...",
@@ -131,6 +281,18 @@
      "url": "https://n.news.naver.com/mnews/article/050/0000113732?sid=101",
      "orig": "https://magazine.hankyung.com/business/article/202611259508b",
      "title": "LIG D&A, 협력사 31곳 안전·건강 챙긴다…상생경영 확대"
+    },
+    {
+     "source": "catchnews.kr",
+     "url": "https://www.catchnews.kr/news/articleView.html?idxno=130987",
+     "orig": "https://www.catchnews.kr/news/articleView.html?idxno=130987",
+     "title": "LIG D&A, 31개협력사에 안전·건강관리 지원"
+    },
+    {
+     "source": "뉴스투데이",
+     "url": "https://www.news2day.co.kr/article/20261125500234",
+     "orig": "https://www.news2day.co.kr/article/20261125500234",
+     "title": "LIG D&A, 협력사 31곳에 안전·건강관리 장비 지원…상생경영 강화"
     }
    ],
    "day": "2026-11-25",
@@ -197,7 +359,14 @@
    "published": "2026-11-25T14:10+09:00",
    "cat": "sev",
    "id": "4191a6d957ae",
-   "related": [],
+   "related": [
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=921077",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=921077",
+     "title": "용인 SK하이닉스 사업장 폐수처리장서 추락 사고…근로자 1명 숨져"
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -210,7 +379,14 @@
    "published": "2026-11-25T14:10+09:00",
    "cat": "tech",
    "id": "b64cd5f7aca6",
-   "related": [],
+   "related": [
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=543244",
+     "orig": "https://www.kbsm.net/news/view.php?idx=543244",
+     "title": "구미시-구미전자정보기술원, 구미국가산업단지 스마트 안전솔루션 보급"
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -560,6 +736,18 @@
      "url": "http://www.4th.kr/news/articleView.html?idxno=2122671",
      "orig": "http://www.4th.kr/news/articleView.html?idxno=2122671",
      "title": "삼성전자 반도체 하청 노동자 혈액암 사망..\"산재 인정해야\""
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003484954?sid=102",
+     "orig": "https://www.khan.co.kr/article/202611251434011",
+     "title": "삼성 반도체 하청노동자 혈액암 사망…반올림 “화성사업장에서만 혈액..."
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125602",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125602",
+     "title": "삼성전자 반도체 하청노동자 혈액암 사망…유족·시민단체 \"산재 인정\"..."
     }
    ],
    "day": "2026-11-25",
@@ -1336,6 +1524,18 @@
      "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922862",
      "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922862",
      "title": "한국기술교육대 '산업안전정책 최고경영자과정' 제5기 수료식 성황"
+    },
+    {
+     "source": "unn.net",
+     "url": "https://news.unn.net/news/articleView.html?idxno=601363",
+     "orig": "https://news.unn.net/news/articleView.html?idxno=601363",
+     "title": "한국기술교육대, CEO·CSO 38명 수료한 산업안전정책 최고경영자과정 수..."
+    },
+    {
+     "source": "ccdn.co.kr",
+     "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1113457",
+     "orig": "https://www.ccdn.co.kr/news/articleView.html?idxno=1113457",
+     "title": "한국기술교육대, 산업안전정책 최고경영자과정 5기 수료…안전 리더 38..."
     }
    ],
    "day": "2026-11-25",
