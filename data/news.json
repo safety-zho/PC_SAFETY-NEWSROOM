@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T12:51+09:00",
+ "updatedAt": "2026-11-25T13:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,6 +43,15 @@
    "count": 6
   },
   {
+   "id": "154c3649f89b",
+   "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
+   "url": "https://n.news.naver.com/mnews/article/001/0016462574?sid=102",
+   "source": "연합뉴스",
+   "cat": "sev",
+   "day": "2026-11-25",
+   "count": 3
+  },
+  {
    "id": "b4a4972fa53a",
    "title": "인천 부평IC 인근서 전광판 작업 중 크레인 전도… 교통 정체",
    "url": "https://www.kyeongin.com/article/1775357",
@@ -59,18 +68,218 @@
    "cat": "tech",
    "day": "2026-11-25",
    "count": 3
-  },
-  {
-   "id": "29950504eced",
-   "title": "김해 남해고속도로서 트레일러 전도 후 5중 추돌…3명 심정지",
-   "url": "https://www.slist.kr/news/articleView.html?idxno=784521",
-   "source": "slist.kr",
-   "cat": "sev",
-   "day": "2026-11-25",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "경남 7개 정당 한목소리 \"한화오션, 하청노동자와 성실 교섭하라\"",
+   "summary": "중 산업안전만 다루겠다는 것은 사실상 교섭 회피\"라고 비판했다. 이어 \"중앙노동위원회가 사용자성을 인정했고, 회사 스스로도 하청노동자에게 원청과 같은 비율의 성과급을 주겠다고 발표한 만큼 임금과 고용을...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004213733?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6612413?utm_source=naver&utm_medium=article&utm_campaign=20261125134714",
+   "source": "노컷뉴스",
+   "published": "2026-11-25T13:48+09:00",
+   "cat": "law",
+   "id": "ad4b262c02ce",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "김예지 의원, 'AI 부정행위 방지법' 추진‥장애인 보조기기 안전장치 마...",
+   "summary": "최근 AI 스마트안경과 초소형 카메라, 무선통신 기기 등 첨단기술이 빠르게 발전하면서 이를 악용한 시험... 끝으로 김 의원은 \"앞으로도 기술의 발전 속에서 공정과 안전, 기본권이라는 우리 사회의 보편적 가치가 조화롭게...",
+   "url": "https://www.ablenews.co.kr/news/articleView.html?idxno=234873",
+   "orig": "https://www.ablenews.co.kr/news/articleView.html?idxno=234873",
+   "source": "ablenews.co.kr",
+   "published": "2026-11-25T13:40+09:00",
+   "cat": "tech",
+   "id": "962875cff67b",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "인천서 크레인 차량 넘어져‥다친 사람 없어",
+   "summary": "인천 계양구와 부평구는 \"크레인 전도 사고로 인근 차량 통행이 어렵다\"는 내용의 안내 문자를 배포했습니다. 경찰과 소방 당국은 고속도로 전광판 작업 중 사고가 난 것으로 보고, 정확한 사고 경위를 조사하고 있습니다.",
+   "url": "https://n.news.naver.com/mnews/article/214/0001537921?sid=102",
+   "orig": "https://imnews.imbc.com/news/2026/society/article/6868428_36918.html",
+   "source": "MBC",
+   "published": "2026-11-25T13:39+09:00",
+   "cat": "acc",
+   "id": "0dd1461d121c",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "\"다들 버티는데 나만 유난인가\"…울산 산업 노동자 '마음 경고등'",
+   "summary": "등 중대재해 위험이 상존해 근무 시간 내내 고도의 긴장 상태가 이어진다. 안성호... '2026 자살통계연보'를 보면 2024년 전국 자살사망자 1만 4872명 가운데 학생·가사·무직을 제외한 직업 보유자가 7249명(48.7%)을 차지해...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004213725?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6612397?utm_source=naver&utm_medium=article&utm_campaign=20261125133614",
+   "source": "노컷뉴스",
+   "published": "2026-11-25T13:37+09:00",
+   "cat": "law",
+   "id": "c8e1566c5f04",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "경동나비엔, 15년 전부터 지적된 배기 결함…美 사망사고 연쇄 피소로 ...",
+   "summary": "북미 시장이 경동나비엔의 주요 수익 기반으로 자리 잡은 상황에서 제품 안전관리와 제조물 책임 분쟁에 대한 본사 차원의 대응 역량이 주요 경영 과제로 부상했다. 美 캘리포니아 부부 중독사…배기 시스템·안전장치...",
+   "url": "https://www.upkoreanews.kr/news/articleView.html?idxno=101372",
+   "orig": "https://www.upkoreanews.kr/news/articleView.html?idxno=101372",
+   "source": "upkoreanews.kr",
+   "published": "2026-11-25T13:35+09:00",
+   "cat": "sev",
+   "id": "1aa660c7a0f4",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "오송참사 이어 환경미화원 사망…청주시 공무원 또 줄기소 되나",
+   "summary": "이범석 전 청주시장 역시 중대재해처벌법상 중대시민재해치사 혐의로 기소돼 재판을 받고 있다. 오송참사 관련 재판이 진행 중에 환경미화원 사망사고까지 겹치면서 청주시의 안전관리 책임 문제가 또다시 도마 위에...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009309182?sid=102",
+   "orig": "https://www.news1.kr/local/sejong-chungbuk/6365542",
+   "source": "뉴스1",
+   "published": "2026-11-25T13:31+09:00",
+   "cat": "sev",
+   "id": "b5de55de8e48",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "가스공사, 국산 AI 반도체 탑재 CCTV로 안전관리 고도화",
+   "summary": "이번 사업은 정부의 국산 AI 반도체 산업 육성 및 공공부문 활용 확대 정책에 부응하고, AI 기술을 활용해... 있는 안전하고 스마트한 천연가스 공급체계를 완성하겠다\"고 밝혔다. 한편 가스공사는 '비전 2035' 실현과 AI...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=230078",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=230078",
+   "source": "에너지신문",
+   "published": "2026-11-25T13:26+09:00",
+   "cat": "tech",
+   "id": "71f2389875ad",
+   "related": [
+    {
+     "source": "tf.co.kr",
+     "url": "https://n.news.naver.com/mnews/article/629/0000555412?sid=101",
+     "orig": "https://news.tf.co.kr/read/economy/2393195.htm",
+     "title": "가스공사, 현장에 AI CCTV 현장 구축해 안전관리 고도화"
+    }
+   ],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "로봇 제품화 공정 맞춘 직무 설계로 인재 육성 혁신…브릴스, 고용노동...",
+   "summary": "우수상인 고용노동부 장관상을 수상했다고 25일 밝혔다. 고용노동부가 주최하고 한국고용노동교육원이... 안전관제 시스템을 시연하며 플랫폼 적용 영역을 생산 자동화에서 산업 현장 안전관리 전반으로 확장하고 있다.",
+   "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95475",
+   "orig": "https://www.thefairnews.co.kr/news/articleView.html?idxno=95475",
+   "source": "더페어",
+   "published": "2026-11-25T13:22+09:00",
+   "cat": "tech",
+   "id": "6b519255ded1",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "강원랜드, 카지노 객장서 대규모 복합재난훈련…안전관리 컨트롤타워 격...",
+   "summary": "안전 관련 주요 현안에 대한 경영진의 직접적인 관리·감독을 확대하고 현장 중심의 실행력을 높이겠다는 취지다. 이번 조직개편은 안전관리를 개별 부서의 업무가 아닌 경영 전반의 핵심 과제로 다루겠다는 방향으로...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586631930414",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586631930414",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-11-25T13:20+09:00",
+   "cat": "tech",
+   "id": "44885031a725",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "인천 계양구 부평IC 인근서 크레인 넘어져...인명피해 없어",
+   "summary": "이 사고로 인명피해는 발생하지 않았다. 소방 당국은 고속도로 전광판 작업을 하던 중 크레인이 넘어진 것으로 추정하고 있다. 경찰은 정확한 사고 경위를 조사 중이다.",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042082",
+   "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042082",
+   "source": "기호일보",
+   "published": "2026-11-25T13:18+09:00",
+   "cat": "law",
+   "id": "bbfecccbb2ed",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "논산시, 외국인 계절근로자 확대 농촌 인력 지원 강화",
+   "summary": "한국이민재단과 함께하는 교육에서는 한국사회 적응에 필요한 기본 정보와 기초법질서, 산업안전, 인권 등을 안내하며, 보건소 감염병관리과와 대한결핵협회는 결핵검사를 진행해 근로자의 건강 상태를 확인할...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195471",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1195471",
+   "source": "금강일보",
+   "published": "2026-11-25T13:18+09:00",
+   "cat": "hlt",
+   "id": "6082772ce324",
+   "related": [
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=939045",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=939045",
+     "title": "논산시 외국인 계절근로자 확대 몽골 근로자 42명 입국"
+    }
+   ],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "LH, ‘스마트건설·안전·AI’ 엑스포서 사족보행 로봇 선봬",
+   "summary": "LH는 약 400㎡ 규모의 체험형 전시관을 운영하며 미래 주거, AI 안전관제, 스마트건설 등 LH의 기술 성과를 소개한다. 먼저 사족보행 로봇이 전시관을 순찰하며 위험을 감지·경고하는 피지컬 AI ‘늘봄 A-Eye’를...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002728332?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10948929?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-25T13:18+09:00",
+   "cat": "tech",
+   "id": "834305974c8f",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "시흥시 노사민정, 2026년 공동선언 채택...상생·안전·미래전환 6대 실...",
+   "summary": "시흥시노사민정협의회는 25일 위원장인 임병택 시흥시장의 마지막 서명을 끝으로 '상생·안전·미래전환을... 정원희 고용노동부 안산지청장이 참여했다. 이번 공동선언은 급변하는 산업환경과 기후위기, 저성장 및...",
+   "url": "https://www.kmaeil.com/news/articleView.html?idxno=659697",
+   "orig": "https://www.kmaeil.com/news/articleView.html?idxno=659697",
+   "source": "경인매일",
+   "published": "2026-11-25T13:16+09:00",
+   "cat": "law",
+   "id": "8ff7c28377cd",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "이승우 사장의 현장 중심 안전경영, 구리도시공사 멀티스포츠센터 대한...",
+   "summary": "구리도시공사가 운영하는 구리시 멀티스포츠센터가 소방청 주최 '제25회 대한민국 안전대상'에서 소방청장상(우수기업상)을 수상했다. 제25회 대한민국 안전대상 시상식에서 구리시 멀티스포츠센터가 소방청장상을...",
+   "url": "https://www.onews.tv/news/articleView.html?idxno=292448",
+   "orig": "https://www.onews.tv/news/articleView.html?idxno=292448",
+   "source": "onews.tv",
+   "published": "2026-11-25T13:12+09:00",
+   "cat": "tech",
+   "id": "7dbaf080fb95",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "\"울산 석유화학 노동자, 24시간 공정·사고 긴장에 수면장애 심각\"[영상...",
+   "summary": "반복·교대 작업에 우울·불안 겪는 자동차산업 노동자 ② 긴장과 압박 그리고 불안으로 지친 조선산업 노동자 ③ 대형 사고 우려 속 마음의 병 앓는 석유화학산업 노동자 (끝) ◇김유리> 울산은 국내 최대 규모의 석유화학...",
+   "url": "https://n.news.naver.com/mnews/article/079/0004213717?sid=102",
+   "orig": "https://www.nocutnews.co.kr/news/6612383?utm_source=naver&utm_medium=article&utm_campaign=20261125125913",
+   "source": "노컷뉴스",
+   "published": "2026-11-25T13:00+09:00",
+   "cat": "acc",
+   "id": "ec4544bd5374",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
   {
    "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\"",
    "summary": "삼성전자 반도체 공장에서 근무하다 혈액암으로 사망한 하청노동자의 산업재해 인정을 촉구하는... 씨의 사망에 대한 산업재해 인정과 철저한 진상규명을 요구했다. 김씨는 2011년부터 삼성전자 화성사업장에서...",
@@ -80,7 +289,20 @@
    "published": "2026-11-25T12:41+09:00",
    "cat": "sev",
    "id": "154c3649f89b",
-   "related": [],
+   "related": [
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/374/0000545807?sid=103",
+     "orig": "https://biz.sbs.co.kr/article_hub/20000348786?division=NAVER",
+     "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야\""
+    },
+    {
+     "source": "jasm.co.kr",
+     "url": "https://www.jasm.co.kr/news/view/326449/?sc=Naver",
+     "orig": "https://www.jasm.co.kr/news/view/326449/?sc=Naver",
+     "title": "삼성 반도체 하청노동자 혈액암 사망…유족 \"산재 인정해야"
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -394,7 +616,14 @@
    "published": "2026-11-25T11:24+09:00",
    "cat": "tech",
    "id": "72e1e0509e71",
-   "related": [],
+   "related": [
+    {
+     "source": "대한경제",
+     "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251320454910569",
+     "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611251320454910569",
+     "title": "AI 활용해 철도안전 확보…TS, 철도안전관리 우수사례 발표회 개최"
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -770,6 +999,19 @@
    "published": "2026-11-25T10:28+09:00",
    "cat": "hlt",
    "id": "96cf6a60c690",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "로봇이 위험 찾고 AI가 관리…LH, 스마트건설 기술 선보여",
+   "summary": "이상조 LH 스마트건설안전본부장은 “AI와 로봇 등 첨단기술을 활용한 건설 현장 안전관리와 미래 주거 기술을 선보인다”며 “스마트건설 기술 확산과 건설 산업 혁신을 추진하겠다”고 했다.",
+   "url": "https://n.news.naver.com/mnews/article/366/0001207181?sid=101",
+   "orig": "https://biz.chosun.com/real_estate/real_estate_general/2026/11/25/BCHJ36REYJC5TJOUNDXY4TIGIU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+   "source": "조선일보",
+   "published": "2026-11-25T10:28+09:00",
+   "cat": "tech",
+   "id": "865280e451b7",
    "related": [],
    "day": "2026-11-25",
    "watch": []
@@ -1261,7 +1503,14 @@
    "published": "2026-11-25T08:48+09:00",
    "cat": "tech",
    "id": "cdd61712c7c7",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261125000707",
+     "orig": "https://www.newspim.com/news/view/20261125000707",
+     "title": "에스앤아이, 건물관리업 안전보건 협의체 개최…현장 안전 노하우 공유"
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -1279,6 +1528,12 @@
      "source": "idjnews.kr",
      "url": "https://www.idjnews.kr/news/articleView.html?idxno=304204",
      "orig": "https://www.idjnews.kr/news/articleView.html?idxno=304204",
+     "title": "어기구 의원, 주유소 연료 중복규제 줄이는 화학물질관리법 개정안 대표..."
+    },
+    {
+     "source": "chungnamilbo.co.kr",
+     "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922921",
+     "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922921",
      "title": "어기구 의원, 주유소 연료 중복규제 줄이는 화학물질관리법 개정안 대표..."
     }
    ],
