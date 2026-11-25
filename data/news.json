@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-25T08:52+09:00",
+ "updatedAt": "2026-11-25T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,22 +31,31 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-11-25",
-   "count": 7
-  },
-  {
-   "id": "923d5f70dea1",
-   "title": "인천서 제설차 작업하던 60대 남성 추락…심정지로 이송",
-   "url": "https://news.ifm.kr/news/articleView.html?idxno=485411",
-   "source": "ifm.kr",
-   "cat": "sev",
-   "day": "2026-11-25",
-   "count": 2
+   "count": 12
   },
   {
    "id": "29950504eced",
    "title": "김해 남해고속도로서 트레일러 전도 후 5중 추돌…3명 심정지",
    "url": "https://www.slist.kr/news/articleView.html?idxno=784521",
    "source": "slist.kr",
+   "cat": "sev",
+   "day": "2026-11-25",
+   "count": 3
+  },
+  {
+   "id": "5df5bc7cb3e1",
+   "title": "어기구 의원, '주유소 연료 중복규제 해소·노동자 안전 강화' 법안 대표...",
+   "url": "https://www.m-economynews.com/news/article.html?no=73551",
+   "source": "m-economynews.com",
+   "cat": "law",
+   "day": "2026-11-25",
+   "count": 2
+  },
+  {
+   "id": "923d5f70dea1",
+   "title": "인천서 제설차 작업하던 60대 남성 추락…심정지로 이송",
+   "url": "https://news.ifm.kr/news/articleView.html?idxno=485411",
+   "source": "ifm.kr",
    "cat": "sev",
    "day": "2026-11-25",
    "count": 2
@@ -62,6 +71,214 @@
   }
  ],
  "articles": [
+  {
+   "title": "강원농기원, 농작업 안전관리 강화",
+   "summary": "지난 7~8월에는 고용노동부와 한국산업안전보건공단이 축사와 방울토마토 스마트팜을 대상으로 합동점검을 실시했다. 이를 통해 방유제 설치와 전기설비 접지 등 위험요인에 대한 개선조치를 완료했다. 또한 축사 지붕의...",
+   "url": "https://www.farmnmarket.com/news/article.html?no=28816",
+   "orig": "https://www.farmnmarket.com/news/article.html?no=28816",
+   "source": "farmnmarket.com",
+   "published": "2026-11-25T09:46+09:00",
+   "cat": "law",
+   "id": "504b0ae62585",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "다산안전보건포럼, 2026년 재해예방 활동 성공적 마무리",
+   "summary": "경기북부지역 건설현장의 산업재해 예방과 안전문화 확산을 위해 출범한 다산안전보건포럼이 올해 활동을 성공적으로 마무리하고 지속적인 민관 협력을 다짐했다. 고용노동부 의정부지청(지청장 정윤진)과...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251771",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251771",
+   "source": "안전신문",
+   "published": "2026-11-25T09:44+09:00",
+   "cat": "tech",
+   "id": "8a2d82ba9dff",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "에스앤아이, 안전교육시설 개방…건물관리업 중대재해 예방 논의",
+   "summary": "서울지방고용노동청과 한국산업안전보건공단 서울광역본부가 주관한 이번 행사에는 정부와 주요 건물관리업체 관계자 등 약 60명이 참석했다. 지난 23일 에스앤아이코퍼레이션 TL센터에서 열린 '2026년 건물관리업...",
+   "url": "http://www.kdfnews.com/news/articleView.html?idxno=191395",
+   "orig": "http://www.kdfnews.com/news/articleView.html?idxno=191395",
+   "source": "kdfnews.com",
+   "published": "2026-11-25T09:40+09:00",
+   "cat": "tech",
+   "id": "979b3086a717",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "서울지역 산재 사고사망자 31.7% 감소… 예방활동 강화",
+   "summary": "/사진 = 노동부 서울청 제공 올해 1~9월 서울지역 산업재해 사고사망자가 지난해 같은 기간보다 31.7% 감소한... 사고사망자는 28명으로 전년 동기 41명보다 13명 줄었다. 전국 사고사망자 감소율인 19.9%를 11.8%p 웃도는...",
+   "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251770",
+   "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251770",
+   "source": "안전신문",
+   "published": "2026-11-25T09:38+09:00",
+   "cat": "sev",
+   "id": "b6fea3dc6ce5",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "농협사료 전남지사, KOSHA-MS 사후심사 최종 적합 판정",
+   "summary": "먼저 추락·충돌 등 주요 사고 상황을 가정한 비상대응훈련을 추가 실시해 사고 발생 시 신속한 초기 대응과... 이와 함께 근로자 안전교육과 위험성평가를 내실 있게 운영하고 현장 작업자의 안전수칙 준수 여부를...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332399",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=332399",
+   "source": "aflnews.co.kr",
+   "published": "2026-11-25T09:30+09:00",
+   "cat": "tech",
+   "id": "625730a26125",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "산재ㆍ고령화ㆍ생산성 뒷걸음 건설현장 …피지컬 AIㆍ모듈러로 탈출구...",
+   "summary": "사고 사망자가 가장 많이 발생하는 업종이며, 기능 인력의 고령화와 신규 인력 유입 부족, 숙련 인력 은퇴에... [사진=현대건설] 고용노동부에 따르면 지난해 재해 조사 대상 사고 사망자 605명 중 건설업 종사자가 286명으로...",
+   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316101",
+   "orig": "https://www.straightnews.co.kr/news/articleView.html?idxno=316101",
+   "source": "스트레이트뉴스",
+   "published": "2026-11-25T09:28+09:00",
+   "cat": "law",
+   "id": "f49af66a329e",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "양승조 수공 사장, '산업 성장과 국민 안전' 행보 지속",
+   "summary": "양 사장은 취임 당시 국민 생명과 물안전 확보를 첫 번째 경영 방향으로 제시한 바 있다. 이번 사업 역시 기후변화에 따른 극한호우에 대비해 기존 물관리 시설의 안전성을 강화하는 데 목적이 있다. 1985년 완공된...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922791",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=922791",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-11-25T09:24+09:00",
+   "cat": "tech",
+   "id": "29485fc3f228",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "트러스테이·샤픈고트, 영상 AI와 재난안전 기술 결합…공동주택 생활안...",
+   "summary": "주거 플랫폼과 영상 AI, 사물인터넷(IoT) 기반 재난안전 기술을 결합한 서비스가 새로운 생활안전... 이번 협약을 통해 기존 주거 관리 서비스에 재난안전 기능을 접목하고, 스마트홈과 스마트타운을 넘어 스마트시티...",
+   "url": "https://www.venturesquare.net/1131286/",
+   "orig": "https://www.venturesquare.net/1131286/",
+   "source": "venturesquare.net",
+   "published": "2026-11-25T09:23+09:00",
+   "cat": "tech",
+   "id": "56ad1a1fe6fe",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "에스앤아이, 10년간 쌓은 안전교육 노하우 업계와 공유",
+   "summary": "참석자들은 추락·질식 등 주요 사고 사례를 공유하고 근로자 참여를 통한 위험성 평가의 실효성 제고와 외주 작업 관리 강화 방안을 논의했다. 특히 본사와 현장 간 소통을 통해 위험 요인을 발굴하고 이를 실질적인...",
+   "url": "https://www.fntimes.com/html/view.php?ud=202611250909021245048b718333_18",
+   "orig": "https://www.fntimes.com/html/view.php?ud=202611250909021245048b718333_18",
+   "source": "한국금융신문",
+   "published": "2026-11-25T09:18+09:00",
+   "cat": "tech",
+   "id": "3cca9b4472b3",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "KCC, 기후변화·인권·안전 관리 강화로 지속가능성보고서 우수보고서 ...",
+   "summary": "| 스마트비즈 = 양대규 기자 |KCC가 온실가스 감축과 사업장 안전관리, 공급망 인권 점검 등 ESG 경영 활동을 확대하고 있다. 지속가능성보고서를 통해 주요 ESG 현안에 대한 대응 전략과 성과를 공개하는 한편, 이사회...",
+   "url": "https://www.smartbizn.com/news/articleView.html?idxno=160507",
+   "orig": "https://www.smartbizn.com/news/articleView.html?idxno=160507",
+   "source": "smartbizn.com",
+   "published": "2026-11-25T09:18+09:00",
+   "cat": "tech",
+   "id": "6e8842cfb701",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "AI·데이터센터 확산에 반도체 공장 속도전…건설업계는 '인력난' 비상",
+   "summary": "공사 일정에 쫓겨 현장 안전관리가 소홀해지는 일이 없도록 설계 단계부터 산업재해 예방에 힘써 줄 것도 당부했다. 고용노동부는 반도체 공장 건설에 필요한 숙련 기능인력을 확보하기 위해 건설 분야 직업훈련 지원...",
+   "url": "http://www.issuenbiz.com/news/articleView.html?idxno=81993",
+   "orig": "http://www.issuenbiz.com/news/articleView.html?idxno=81993",
+   "source": "issuenbiz.com",
+   "published": "2026-11-25T09:12+09:00",
+   "cat": "tech",
+   "id": "4f3a83394d30",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "KCC, 지속가능성보고서상 12년 연속 수상",
+   "summary": "ESG 경영 성과를 투명하게 공개하고 글로벌 공시기준과의 연계성을 강화한 점이 높은 평가를 받았다.... 작업중지권 확대와 작업안전분석(JSA) 기반 위험성 평가 등 현장 안전관리 활동도 소개했다. 공정안전관리...",
+   "url": "https://www.asiatime.co.kr/article/20261125500044",
+   "orig": "https://www.asiatime.co.kr/article/20261125500044",
+   "source": "asiatime.co.kr",
+   "published": "2026-11-25T09:10+09:00",
+   "cat": "tech",
+   "id": "ef37d793607b",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "상주시, 산업현장 안전사고 예방···근로자 안전교육 강화",
+   "summary": "출제 범위는 산업안전보건법과 사업장 내 작업별 준수사항을 비롯해 각종 사고 예방 요령과 응급처치 등 실제 작업환경에서 활용할 수 있는 내용으로 구성됐다. 이번 프로그램은 참가자들이 문제를 풀고 답을 찾아가는...",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=756347",
+   "orig": "http://www.newsprime.co.kr/news/article.html?no=756347",
+   "source": "프라임경제",
+   "published": "2026-11-25T09:08+09:00",
+   "cat": "tech",
+   "id": "2eca3225d8c9",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "지케스-어드밴트, 스마트 도시안전사업 '맞손'",
+   "summary": "지케스는 24일 어드밴트와 AI 공공안전 융합사업 추진을 위한 업무협약(MOU)을 체결하고, 양사의 핵심 기술을 결합한 스마트 도시안전 서비스의 공동 개발 및 사업화를 추진한다고 밝혔다. 이번 협력은 지케스의 AI...",
+   "url": "https://www.koit.co.kr/news/articleView.html?idxno=210077",
+   "orig": "https://www.koit.co.kr/news/articleView.html?idxno=210077",
+   "source": "koit.co.kr",
+   "published": "2026-11-25T09:08+09:00",
+   "cat": "tech",
+   "id": "b2d89a5bbba8",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "구미산단 스마트 안전솔루션 확대…올해 8개 기업에 보급",
+   "summary": "확대했다\"며 \"입주기업들이 화재 위험에 대비할 수 있도록 현장 중심의 안전관리 지원을 이어가겠다\"고 밝혔다. 김장호 구미시장은 \"근로자와 기업이 안심하고 일할 수 있는 산업단지 환경을 만드는 것이 중요하다\"며...",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087432",
+   "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5087432",
+   "source": "shinailbo.co.kr",
+   "published": "2026-11-25T09:06+09:00",
+   "cat": "tech",
+   "id": "8be02a0d0c4e",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
+  {
+   "title": "대전노동청장·천안지청장 합동점검 및 근로감독관 일제점검 실시",
+   "summary": "사진=고용노동부천안지청 제공 대전고용노동청(청장 마성균)과 천안지청(지청장 전준현)은 24일 아산시 소재... 아울러 천안지청은 같은 시간대에 산업안전감독관을 투입해 천안·아산 지역 고위험 사업장 25개소(제조업...",
+   "url": "https://daily.hankooki.com/news/articleView.html?idxno=1428637",
+   "orig": "https://daily.hankooki.com/news/articleView.html?idxno=1428637",
+   "source": "한국아이닷컴",
+   "published": "2026-11-25T09:02+09:00",
+   "cat": "law",
+   "id": "db35b33b587e",
+   "related": [],
+   "day": "2026-11-25",
+   "watch": []
+  },
   {
    "title": "다스코 공사현장서 추락 사고…협력업체 근로자 1명 사망",
    "summary": "다스코 | 서울=한스경제 박정현 기자 | 구조용 금속 판제품 및 공작물 제조업 기업 다스코가 시공 중인 충남 아산시 음봉면 월랑 태양광발전소 공사 현장에서 추락 사고가 발생해 협력업체 근로자 1명이 숨졌다. 다스코...",
@@ -97,7 +314,14 @@
    "published": "2026-11-25T08:48+09:00",
    "cat": "law",
    "id": "5df5bc7cb3e1",
-   "related": [],
+   "related": [
+    {
+     "source": "idjnews.kr",
+     "url": "https://www.idjnews.kr/news/articleView.html?idxno=304204",
+     "orig": "https://www.idjnews.kr/news/articleView.html?idxno=304204",
+     "title": "어기구 의원, 주유소 연료 중복규제 줄이는 화학물질관리법 개정안 대표..."
+    }
+   ],
    "day": "2026-11-25",
    "watch": []
   },
@@ -331,6 +555,12 @@
      "url": "https://n.news.naver.com/mnews/article/011/0004685861?sid=102",
      "orig": "https://www.sedaily.com/article/20118573?ref=naver",
      "title": "남해고속도로서 트레일러 전도 사고로 6중 추돌… 3명 심정지·1명 중상"
+    },
+    {
+     "source": "경남도민일보",
+     "url": "https://www.idomin.com/news/articleView.html?idxno=2020486",
+     "orig": "https://www.idomin.com/news/articleView.html?idxno=2020486",
+     "title": "남해고속도로서 트레일러 전도…3명 심정지·1명 중상"
     }
    ],
    "day": "2026-11-25",
@@ -420,6 +650,36 @@
      "url": "https://n.news.naver.com/mnews/article/056/0012300612?sid=102",
      "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8721852&ref=A",
      "title": "제설차에서 60대 작업자 추락…심정지 상태로 이송"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000133675?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261125580018",
+     "title": "한국도로공사 제설차량서 60대 작업자 추락…심정지 상태로 병원 이송"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003484887?sid=101",
+     "orig": "https://www.khan.co.kr/article/202611250916001",
+     "title": "한국도로공사 60대 작업자, 제설차서 추락해 부상"
+    },
+    {
+     "source": "서울신문",
+     "url": "https://n.news.naver.com/mnews/article/081/0003702926?sid=102",
+     "orig": "https://www.seoul.co.kr/news/society/2026/11/25/20261125500022?wlog_tag3=naver",
+     "title": "한국도로공사 인천지사 제설차서 60대 추락…심정지 상태 이송"
+    },
+    {
+     "source": "delighti.co.kr",
+     "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125545",
+     "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125545",
+     "title": "한국도로공사 제설차서 60대 작업자 추락…심정지 상태로 병원 이송"
+    },
+    {
+     "source": "기호일보",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042047",
+     "orig": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3042047",
+     "title": "인천 계양구서 제설차 작업 중 60대 추락…심정지 상태로 이송"
     }
    ],
    "day": "2026-11-25",
@@ -3943,6 +4203,12 @@
      "url": "http://www.e-platform.net/news/articleView.html?idxno=107270",
      "orig": "http://www.e-platform.net/news/articleView.html?idxno=107270",
      "title": "한전KDN, 실전형 모의훈련 통해 중대재해 대응 역량 향상 '앞장'"
+    },
+    {
+     "source": "브레이크뉴스",
+     "url": "http://www.breaknews.com/1253693",
+     "orig": "http://www.breaknews.com/1253693",
+     "title": "한전KDN, '2026년 하반기 중대재해 대비 신속대응팀 모의훈련' 실시"
     }
    ],
    "day": "2026-11-24",
