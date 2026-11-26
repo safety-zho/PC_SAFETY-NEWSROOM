@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-26T11:52+09:00",
+ "updatedAt": "2026-11-26T12:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,13 +31,22 @@
    "source": "아시아경제",
    "cat": "tech",
    "day": "2026-11-26",
-   "count": 28
+   "count": 29
   },
   {
    "id": "0c099adf597f",
    "title": "롯데칠성음료, 안성공장에 스마트 해썹 구축…식품 안전관리 디지털화",
    "url": "http://www.press9.kr/news/articleView.html?idxno=87046",
    "source": "press9.kr",
+   "cat": "tech",
+   "day": "2026-11-26",
+   "count": 6
+  },
+  {
+   "id": "9997fecd5838",
+   "title": "대구시, AI기반 도시가스누출·화재 대응훈련 실시",
+   "url": "https://n.news.naver.com/mnews/article/021/0002835634?sid=102",
+   "source": "문화일보",
    "cat": "tech",
    "day": "2026-11-26",
    "count": 5
@@ -59,18 +68,165 @@
    "cat": "acc",
    "day": "2026-11-26",
    "count": 5
-  },
-  {
-   "id": "10693d899290",
-   "title": "폭우로 인니 광산 지하 100m 갱도 침수…9명 사망·17명 실종",
-   "url": "https://n.news.naver.com/mnews/article/001/0016464454?sid=104",
-   "source": "연합뉴스",
-   "cat": "sev",
-   "day": "2026-11-26",
-   "count": 4
   }
  ],
  "articles": [
+  {
+   "title": "[2026 대한민국 지속가능경영 소통대상] 하나증권, 고용노동부장관상 수...",
+   "summary": "뉴스투데이와 한국경영커뮤니케이션학회(KABC)가 주최하고, 기후에너지환경부와 고용노동부, 산업통상자원... 노사가 공동으로 참여하는 산업안전보건위원회도 정기적으로 운영해 근로환경 개선과 산업재해 예방을...",
+   "url": "https://www.news2day.co.kr/article/20261126500021",
+   "orig": "https://www.news2day.co.kr/article/20261126500021",
+   "source": "뉴스투데이",
+   "published": "2026-11-26T12:48+09:00",
+   "cat": "law",
+   "id": "067ef5442db8",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "금산군, 제조업 16개사와 산업재해 예방 협의체 출범",
+   "summary": "충남 금산군은 지난 25일 지역 제조업체 16개사, 대전지방고용노동청, 한국산업안전보건공단 대전세종광역본부와 산재예방 지역안전보건협의체를 출범했다. 출범식에서 참여 기관과 기업들은 금산 제조업 현장에서...",
+   "url": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923238",
+   "orig": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=923238",
+   "source": "chungnamilbo.co.kr",
+   "published": "2026-11-26T12:48+09:00",
+   "cat": "tech",
+   "id": "a0e878efbc87",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "[아시아라운드업 20261126] \"이란, 호르무즈 안전통항 대가로 암호화폐 ...",
+   "summary": "측과 '중대한' 접촉을 이어왔다고 보고한 것으로 전해졌음.- 그러나 이날 브리핑은 개괄적인 정보 보고에... 인도네시아 광산 폭우로 침수, 9명 사망·17명 실종- 인도네시아에서 폭우가 내린 뒤 강이 범람해 지하 100m...",
+   "url": "http://kor.theasian.asia/archives/423206",
+   "orig": "http://kor.theasian.asia/archives/423206",
+   "source": "kor.theasian.asia",
+   "published": "2026-11-26T12:42+09:00",
+   "cat": "hlt",
+   "id": "b0df014bd1b5",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "[현장] 크레인 전도로 이틀째 막힌 부평IC…통행 재개 앞뒀지만 책임 공...",
+   "summary": "협의회는 소속 회원의 크레인이 현장 책임자의 지시에 따라 작업하던 중 넘어졌지만, 발주처인 계양구와 시공사가 사고 원인과 책임 소재에 대한 조사나 보상 대책 마련에 앞서 장비 이동부터 요구하고 있다고...",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1337894",
+   "orig": "https://www.incheonilbo.com/news/articleView.html?idxno=1337894",
+   "source": "인천일보",
+   "published": "2026-11-26T12:40+09:00",
+   "cat": "law",
+   "id": "ee2d7882a62f",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "삼부토건 건설현장서 근로자 추락 사망…안전관리체계 제대로 작동했나",
+   "summary": "현재까지 구체적인 사고 원인과 산업안전보건법 및 중대재해처벌법 위반 여부는 확인되지 않았다. 근로자 사망이라는 중대한 결과가 발생한 만큼 경찰과 노동당국의 철저한 사고 원인 규명과 실효성 있는 재발방지대책...",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=323127",
+   "orig": "https://www.ppss.kr/news/articleView.html?idxno=323127",
+   "source": "ppss.kr",
+   "published": "2026-11-26T12:20+09:00",
+   "cat": "sev",
+   "id": "e51486a223cc",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "AI 데이터센터 커질수록 ‘지역사회 수용성’ 중요…네이버, UN서 ‘각’...",
+   "summary": "현장 노동자를 대상으로 안전교육과 공사 현장 점검을 실시하고 운영 단계에서는 국제 안전보건경영시스템 표준인 ISO 45001 인증을 취득하는 등 안전보건 관리체계를 구축했다. 임 리더는 초기 데이터센터 건설 당시에는...",
+   "url": "https://n.news.naver.com/mnews/article/018/0006415939?sid=105",
+   "orig": "https://www.edaily.co.kr/News/Read?newsId=02827366645649656&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+   "source": "이데일리",
+   "published": "2026-11-26T12:19+09:00",
+   "cat": "tech",
+   "id": "6616c4cf87b6",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "더 안전한 지하철을 만드는 현장의 기술…서울교통공사, 국가품질경영대...",
+   "summary": "시민의 안전한 이동을 뒷받침하는 근로자의 작업환경도 개선했다. 고덕차량사업소 ‘DNA’는 전동차 냉방기 정비 과정에 자동화 설비와 추락 방지 시설을 도입했다. 정비 위험지수를 42.9% 낮추고 작업자세 부담 평가...",
+   "url": "https://www.geconomy.co.kr/news/article.html?no=326112",
+   "orig": "https://www.geconomy.co.kr/news/article.html?no=326112",
+   "source": "geconomy.co.kr",
+   "published": "2026-11-26T12:14+09:00",
+   "cat": "tech",
+   "id": "b3aba6ac6ea5",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "'안전=경쟁력'…포스코이앤씨, 건설업계 '롤모델' 자리매김한다",
+   "summary": "최근 고용노동부가 한국경영자총협회와 함께 개최한 '안전보건 현황 공시제' 설명회도 그 맥락이다. 산업재해 발생 현황과 안전 투자 실적을 공개하도록 하는 제도가 정착된다면 기업의 안전경영 수준은 투자자와 고객...",
+   "url": "https://www.financialpost.co.kr/news/articleView.html?idxno=303374",
+   "orig": "https://www.financialpost.co.kr/news/articleView.html?idxno=303374",
+   "source": "financialpost.co.kr",
+   "published": "2026-11-26T12:12+09:00",
+   "cat": "law",
+   "id": "108293a64bdb",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "동부건설, 전 현장 연말 안전실천 캠페인 실시",
+   "summary": "임직원과 협력업체 근로자가 함께 안전의식을 다지고, 건설장비와 작업환경 전반의 위험요인을 선제적으로... 이를 통해 장비 운용 과정에서 발생할 수 있는 사고 위험을 줄이고, 현장 안전관리의 실효성을 높이는 데...",
+   "url": "http://www.ikld.kr/news/articleView.html?idxno=344934",
+   "orig": "http://www.ikld.kr/news/articleView.html?idxno=344934",
+   "source": "국토일보",
+   "published": "2026-11-26T12:06+09:00",
+   "cat": "tech",
+   "id": "8f613f35d5d2",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "노동부, 5개 지방정부에 332개 사업장 감독 권한 위임",
+   "summary": "임금체불업종 등 핀셋점검 아주경제=김유진 기자 ujeans@ajunews.com 세종시 정부세종청사 11동 고용노동부. 2023.... 노동부 장관이 의장을 맡으며 법무부, 행정안전부 차관 등이 참여하고 지방에서는 16개 시·도 부단체장이...",
+   "url": "https://www.ajunews.com/view/20261126091634273",
+   "orig": "https://www.ajunews.com/view/20261126091634273",
+   "source": "아주경제",
+   "published": "2026-11-26T12:02+09:00",
+   "cat": "law",
+   "id": "2f9494580ed0",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "조병옥 음성군수, 도로제설야적장 현장 점검 ··· 도로보수원·직원 격...",
+   "summary": "또한 강설 시 주요 도로와 결빙 취약구간에 대한 신속한 초동 대응을 주문하며, 제설작업 중 안전사고가 발생하지 않도록 현장 안전관리에 각별히 유의해 줄 것을 당부했다. 군은 내년 3월 15일까지 4개월간을 '설해대책...",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1195762",
+   "orig": "https://www.ggilbo.com/news/articleView.html?idxno=1195762",
+   "source": "금강일보",
+   "published": "2026-11-26T11:52+09:00",
+   "cat": "law",
+   "id": "229130a3d0f5",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
+  {
+   "title": "울산시, '세이프 커넥트 2026' 개최… 첨단 재난안전산업 중심도시 도약",
+   "summary": "행사장에서는 재난안전 기술 갤러리와 전시 상담회를 통해 우수 제품과 기술을 선보인다. 스마트 라운지에서는 수요기관과 기술 공급기업 간 맞춤형 일대일 상담을 운영해 실질적인 사업 협력 기회를 제공한다....",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497486",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2497486",
+   "source": "이뉴스투데이",
+   "published": "2026-11-26T11:45+09:00",
+   "cat": "tech",
+   "id": "df1f0728af2f",
+   "related": [],
+   "day": "2026-11-26",
+   "watch": []
+  },
   {
    "title": "부평IC 인근 크레인 전도 이틀째··· 절단 등 철거 작업 시작",
    "summary": "인천투데이=이형성 기자│지난 25일 오전 부평IC 인근에서 전광판 교체 작업 중이던 크레인이 넘어지는 사고... 크레인은 계양구가 발주한 부평IC 노후 전광판 교체 작업 중 넘어진 것으로 확인됐다. 그러나 외주업체와...",
@@ -457,7 +613,14 @@
    "published": "2026-11-26T10:46+09:00",
    "cat": "tech",
    "id": "bc6a44e21024",
-   "related": [],
+   "related": [
+    {
+     "source": "경인매일",
+     "url": "https://www.kmaeil.com/news/articleView.html?idxno=659867",
+     "orig": "https://www.kmaeil.com/news/articleView.html?idxno=659867",
+     "title": "인천시교육청, ISO 45001 사후심사 통과...부적합 사항 '0건'"
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
@@ -496,7 +659,14 @@
    "published": "2026-11-26T10:42+09:00",
    "cat": "law",
    "id": "9fa45889ba3b",
-   "related": [],
+   "related": [
+    {
+     "source": "kbsm.net",
+     "url": "https://www.kbsm.net/news/view.php?idx=543473",
+     "orig": "https://www.kbsm.net/news/view.php?idx=543473",
+     "title": "영양군, 중대재해 예방 관리감독자 안전보건교육 실시"
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
@@ -528,6 +698,12 @@
      "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088143",
      "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088143",
      "title": "금산군, 제조업 16개사와 산재예방 지역안전보건협의체 출범"
+    },
+    {
+     "source": "cctimes.kr",
+     "url": "http://www.cctimes.kr/news/articleView.html?idxno=939253",
+     "orig": "http://www.cctimes.kr/news/articleView.html?idxno=939253",
+     "title": "금산군 산재예방 협의체 출범"
     }
    ],
    "day": "2026-11-26",
@@ -1009,6 +1185,12 @@
      "url": "https://www.m-i.kr/news/articleView.html?idxno=2023710",
      "orig": "https://www.m-i.kr/news/articleView.html?idxno=2023710",
      "title": "대구시, 도시가스 누출·화재 대응 합동훈련…유관기관 공조 강화"
+    },
+    {
+     "source": "뉴스핌",
+     "url": "https://www.newspim.com/news/view/20261126000711",
+     "orig": "https://www.newspim.com/news/view/20261126000711",
+     "title": "대구시, 달서구서 도시가스 누출·화재 대응 합동훈련"
     }
    ],
    "day": "2026-11-26",
@@ -1151,6 +1333,12 @@
      "url": "https://www.joongangenews.com/news/articleView.html?idxno=566669",
      "orig": "https://www.joongangenews.com/news/articleView.html?idxno=566669",
      "title": "롯데칠성음료, 스마트 해썹 선도모델 구축…식품안전관리 디지털 전환 ..."
+    },
+    {
+     "source": "KPI뉴스",
+     "url": "https://www.kpinews.kr/newsView/1065579920952482",
+     "orig": "https://www.kpinews.kr/newsView/1065579920952482",
+     "title": "롯데칠성음료, 안성공장 '스마트 해썹' 구축…식품안전 관리 디지털화"
     }
    ],
    "day": "2026-11-26",
@@ -1528,6 +1716,12 @@
      "url": "https://www.delighti.co.kr/news/articleView.html?idxno=125663",
      "orig": "https://www.delighti.co.kr/news/articleView.html?idxno=125663",
      "title": "삼성전자서비스, 서비스 기술 경진대회 개최…안전혁신 사례도 경연"
+    },
+    {
+     "source": "joongangenews.com",
+     "url": "https://www.joongangenews.com/news/articleView.html?idxno=566672",
+     "orig": "https://www.joongangenews.com/news/articleView.html?idxno=566672",
+     "title": "삼성전자서비스, 제31회 기술경진·안전혁신대회 개최…AI 시대 서비스 ..."
     }
    ],
    "day": "2026-11-26",
@@ -5237,6 +5431,12 @@
      "url": "https://www.todayenergy.kr/news/articleView.html?idxno=306086",
      "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=306086",
      "title": "가스공사, AI CCTV 구축으로 현장 안전 관리 고도화"
+    },
+    {
+     "source": "boannews.com",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147559",
+     "orig": "https://www.boannews.com/news/articleView.html?idxno=147559",
+     "title": "한국가스공사, 국산 NPU 기반 AI CCTV 도입으로 안전관리 고도화"
     }
    ],
    "day": "2026-11-25",
