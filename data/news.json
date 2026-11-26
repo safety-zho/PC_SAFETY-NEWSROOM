@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T03:18+09:00",
+ "updatedAt": "2026-11-27T08:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,34 +25,258 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "afae4fa27182",
-   "title": "산업안전 디지털전환 주도… “그래도 최후 보루는 결국 사람”",
-   "url": "https://n.news.naver.com/mnews/article/005/0001887772?sid=101",
-   "source": "국민일보",
+   "id": "ea616fdacc38",
+   "title": "LPG가스 절단기 작업 중 폭발…40대 중상 이송",
+   "url": "https://n.news.naver.com/mnews/article/003/0014348483?sid=102",
+   "source": "뉴시스",
+   "cat": "acc",
+   "day": "2026-11-27",
+   "count": 2
+  },
+  {
+   "id": "88796b799e45",
+   "title": "석유공사, 재난 대비 '현장 중심 안전관리 역량' 강화",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=306148",
+   "source": "투데이에너지",
    "cat": "tech",
    "day": "2026-11-27",
    "count": 1
   },
   {
-   "id": "4755888d9b0e",
-   "title": "고용부 강릉지청 안전기원제 참석",
-   "url": "https://n.news.naver.com/mnews/article/654/0000213760?sid=102",
-   "source": "강원도민일보",
+   "id": "6a6e66b39950",
+   "title": "박영사, '산재 프로파일링 노트' 출간",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027990",
+   "source": "nbntv.co.kr",
    "cat": "law",
    "day": "2026-11-27",
    "count": 1
   },
   {
-   "id": "c9f09c971309",
-   "title": "울산, 폭염대응 특화 거점 구축...재난안전산업 새 성장동력으로",
-   "url": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1073754",
-   "source": "경상일보",
-   "cat": "tech",
+   "id": "bff73ff4996a",
+   "title": "5명 사망 세아베스틸 '면죄부', 판결문엔 또 \"유족과 합의\"",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237957",
+   "source": "매일노동뉴스",
+   "cat": "sev",
    "day": "2026-11-27",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "석유공사, 재난 대비 '현장 중심 안전관리 역량' 강화",
+   "summary": "특히 이번 상시 훈련에는 안전보건공단 중앙사고조사단이 최초로 참여했다. 조사단은 사고 원인 규명과 재발 방지 대책 수립 등 임무를 수행했다. 이를 통해 재난 이후 수습·복구 단계에서 대응 전문성을 한층 높였다....",
+   "url": "https://www.todayenergy.kr/news/articleView.html?idxno=306148",
+   "orig": "https://www.todayenergy.kr/news/articleView.html?idxno=306148",
+   "source": "투데이에너지",
+   "published": "2026-11-27T08:44+09:00",
+   "cat": "tech",
+   "id": "88796b799e45",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"한국형 임업기계화\" 속도 낸다…\"청년 오퍼레이터, 안전·보상 보장돼...",
+   "summary": "오재헌 국립산림과학원 산림기술경영연구소 실장은 산림 사망사고의 78.8%가 벌목·집재 작업에서 발생하고... 3,000시간과 안전·법규 교육을 의무화해 단계별 성장 경로를 제시하는 체계적인 훈련 시스템이 중요하다\"고...",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=68556",
+   "orig": "http://www.newsroad.co.kr/news/articleView.html?idxno=68556",
+   "source": "newsroad.co.kr",
+   "published": "2026-11-27T08:06+09:00",
+   "cat": "tech",
+   "id": "a5076b596a61",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[칼럼] 포스코, 외풍 끊고 철강 위기 넘을 적임자는",
+   "summary": "그동안 안전경영을 외쳤지만, 건설 현장 등을 중심으로 중대재해와 사망 사고가 잇따르며 한계를 드러냈다. 특히 포스코이앤씨에서 반복된 사망 사고는 그룹 전체의 안전관리 체계에 대한 불신을 키웠다. 대통령이 직접...",
+   "url": "https://www.autodaily.co.kr/news/articleView.html?idxno=602488",
+   "orig": "https://www.autodaily.co.kr/news/articleView.html?idxno=602488",
+   "source": "autodaily.co.kr",
+   "published": "2026-11-27T08:00+09:00",
+   "cat": "tech",
+   "id": "9910acc90f38",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "박영사, '산재 프로파일링 노트' 출간",
+   "summary": "출판사 박영사는 김가람·서수완·이영만 저자의 신간 '산재 프로파일링 노트'를 출간했다. 공인노무사와... 사망 원인이 자살로 결론 났던 조선소 노동자의 사건에서는 현장과 주변 정황을 다시 추적했다. 버스 운전기사의...",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027990",
+   "orig": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027990",
+   "source": "nbntv.co.kr",
+   "published": "2026-11-27T08:00+09:00",
+   "cat": "law",
+   "id": "6a6e66b39950",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "소화기 구입·임대비용은 안전시설비 항목으로 사용 가능한가?",
+   "summary": "회시 : 화재 위험작업(용접, 전기, 인화성물질 취급 등) 중 근로자 보호 목적이 아닌 분전반, 사무실 등에... 이에 따르면 △산업재해 예방을 위한 안전난간, 추락방호망, 안전대 부착설비, 방호장치(기계·기구와 방호장치가...",
+   "url": "https://www.koscaj.com/news/articleView.html?idxno=327656",
+   "orig": "https://www.koscaj.com/news/articleView.html?idxno=327656",
+   "source": "대한전문건설신문",
+   "published": "2026-11-27T08:00+09:00",
+   "cat": "tech",
+   "id": "308202db2eaf",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[박유나 칼럼] 산재 과징금 ‘영업이익 5%’..중소기업이 30억원 상한을...",
+   "summary": "2027년 4월 28일 이후 의무를 위반해 노동자가 사망한 경우부터 적용한다. 고용노동부가 설명한 원칙적 상한은... 유형의 중대재해가 반복된 기업은 특별감독에 준하는 강도로 살피라고 지시했다. 지금 준비할 세 가지로는...",
+   "url": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63312",
+   "orig": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=63312",
+   "source": "dailycar.co.kr",
+   "published": "2026-11-27T07:30+09:00",
+   "cat": "law",
+   "id": "dcc6d0a507c4",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "서울시설공단, AI로 교량 콘크리트 떨어짐 사고 막는다…위험 진단기술...",
+   "summary": "점검 결과의 신뢰도를 높이는 동시에 근로자의 추락 위험과 차로 통제에 따른 교통 혼잡을 줄일 수 있다는 게 공단의 설명이다. 실제 교량 2곳을 대상으로 현장 실증을 진행한 결과, 전체 107개 측정 지점 중 106개 지점(약...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002835891?sid=102",
+   "orig": "https://www.munhwa.com/article/11634489?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-27T07:02+09:00",
+   "cat": "acc",
+   "id": "602deb08174a",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "전태일이 던진 질문, AI시대에도 유효하다[경향 80년 아카이브]",
+   "summary": "경향신문은 2018년부터 2019년 9월까지 발생한 중대재해 사망자 1200명의 명단을 1면에 담았다. 노동자의 죽음을 단순한 사고 통계가 아니라 한 사람의 삶으로 바라보게 한 보도였다. 산업재해와 비정규직, 플랫폼 노동은...",
+   "url": "https://n.news.naver.com/mnews/article/144/0001151947?sid=103",
+   "orig": "https://sports.khan.co.kr/article/202611270700003?pt=nv",
+   "source": "경향신문",
+   "published": "2026-11-27T07:01+09:00",
+   "cat": "tech",
+   "id": "b9783fd5b5a8",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "LPG가스 절단기 작업 중 폭발…40대 중상 이송",
+   "summary": "27일 제주소방안전본부에 따르면 전날 오후 5시53분께 제주시 도두동 한 작업장에서 LPG가스 절단 작업 중 폭발사고가 발생했다는 신고가 접수됐다. 이 사고로 작업자 A(40대)씨가 얼굴 등에 화상을 입고 크게 다쳐...",
+   "url": "https://n.news.naver.com/mnews/article/003/0014348483?sid=102",
+   "orig": "https://www.newsis.com/view/NISX20261127_0003885424",
+   "source": "뉴시스",
+   "published": "2026-11-27T06:41+09:00",
+   "cat": "acc",
+   "id": "ea616fdacc38",
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009313381?sid=102",
+     "orig": "https://www.news1.kr/local/jeju/6367838",
+     "title": "제주서 LPG 가스절단기 작업 중 폭발…40대 중상"
+    }
+   ],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "5명 사망 세아베스틸 '면죄부', 판결문엔 또 \"유족과 합의\"",
+   "summary": "세아베스틸 군산공장에서는 2022년 1월 중대재해처벌법 시행 이후 약 2년간 중대재해 4건이 발생해 노동자 5명이 사망했다. 2022년 5월 퇴근하던 50대 세아베스틸 노동자가 하청업체 지게차에 치여 숨졌다. 같은해 9월에는...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237957",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237957",
+   "source": "매일노동뉴스",
+   "published": "2026-11-27T06:34+09:00",
+   "cat": "sev",
+   "id": "bff73ff4996a",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[숫자로 본 중대재해 ②] 사망사고에서 기소까지 얼마나 걸렸을까",
+   "summary": "<편집자> 사망사고를 발생일부터 기소일까지 걸린 기간이 짧은 순으로 한 줄에 세우면, 가운뎃값은 547일이다. 약 1년6개월이 걸렸다는 말이다. 매일노동뉴스가 중대재해 감시 플랫폼에서 사고일과 기소일이...",
+   "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237958",
+   "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237958",
+   "source": "매일노동뉴스",
+   "published": "2026-11-27T06:34+09:00",
+   "cat": "sev",
+   "id": "3722d7b6cf85",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[이용우의 공정경제] 안전해야 달린다? 달려야 안전해진다",
+   "summary": "마차업자를 지키려다 자동차 산업을 놓쳤다는 이야기가 따라붙고, 이재웅 전 쏘카 대표도 타다 금지법을 이... 결국 '감독 필요'를 덧붙이고서야 판매 정지를 피했다. 연방 도로교통안전국(NHTSA)은 신호 위반 사례로 290만...",
+   "url": "https://www.ajunews.com/view/20261122113310612",
+   "orig": "https://www.ajunews.com/view/20261122113310612",
+   "source": "아주경제",
+   "published": "2026-11-27T06:02+09:00",
+   "cat": "law",
+   "id": "8246658986e0",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "서울시설공단, AI 활용 교량 낙하사고 예방…안전점검 장비 개발",
+   "summary": "이 과정에서 차로 통제에 따른 교통 혼잡과 작업자의 추락 위험, 숙련도에 따른 판정 편차 등이 문제로 지적됐다. 공단이 개발한 장비는 고소점검차 없이 지상에서 교량 바닥판 하부를 두드린 뒤 발생한 소리를 AI...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009313253?sid=102",
+   "orig": "https://www.news1.kr/local/moi/6367632",
+   "source": "뉴스1",
+   "published": "2026-11-27T06:00+09:00",
+   "cat": "tech",
+   "id": "28d223659bc1",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "공심약국 매출·보조금 월 1천만원 시대...심야 보건안전망 강화 탄력",
+   "summary": "특히 행정안전부 지정 인구감소지역은 시간당 지원금이 기존 6만원에서 7만원으로 상향될 경우 월 최대... 월 처방전 1천건 약국과 비교…지원금만 450만~630만원 약국 경영 지표와 비교해도 공공심야약국의 지원금 규모는...",
+   "url": "https://www.pharmnews.com/news/articleView.html?idxno=308108",
+   "orig": "https://www.pharmnews.com/news/articleView.html?idxno=308108",
+   "source": "pharmnews.com",
+   "published": "2026-11-27T06:00+09:00",
+   "cat": "tech",
+   "id": "519157889845",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "“마을 전체가 생명 지키는 실습실”… 서정대, 주민과 함께 지역 안전...",
+   "summary": "회천1동 덕정6통에서는 공장과 주거지가 가까운 환경에 주목했다. 응급구조과 학생들은 거동이 불편한... 천일페인트와 크로바가구 근로자, 주민들과 함께 경로당 화재를 가정한 모의훈련도 실시했다. 도움이 필요한...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003765582?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261126/135090771/2",
+   "source": "동아일보",
+   "published": "2026-11-27T04:32+09:00",
+   "cat": "tech",
+   "id": "d94a08372c01",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "전쟁·참사·죽음의 장면을 찍는 동안, 읽은 책을 떠올렸다 [주용성 작가...",
+   "summary": "작가는 작업 주제를 정하면 관련된 책부터 산다. 지식을 얻을 목적도 있지만, 현장을 예민하게 볼 수 있도록... 주 작가는 “아버지는 책을 한두 권씩 안 사고, 서점에 가서 서가 단위로 사오셨다”고 했다. 아버지가...",
+   "url": "https://n.news.naver.com/mnews/article/469/0000968071?sid=103",
+   "orig": "https://www.hankookilbo.com/news/article/A2026110914360004651?did=NA",
+   "source": "한국일보",
+   "published": "2026-11-27T04:31+09:00",
+   "cat": "sev",
+   "id": "2b59f68c0f5f",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "산업안전 디지털전환 주도… “그래도 최후 보루는 결국 사람”",
    "summary": "안전 사고도 없었고 지금까지 문제 없이 잘해왔는데 굳이 왜 (시스템을) 바꿔야 하느냐’는 식의 반응이 흔하다”고 전했다. 장 실장은 오전 고정 업무를 마치면 공장 곳곳을 돌며 작업자들과 대화를 나누며 일과를...",
@@ -263,6 +487,12 @@
      "url": "https://mpmbc.co.kr/NewsArticle/1547555",
      "orig": "https://mpmbc.co.kr/NewsArticle/1547555",
      "title": "“밀폐공간 아니다”라더니…회사 안전교육 영상엔"
+    },
+    {
+     "source": "ysmbc.co.kr",
+     "url": "https://ysmbc.co.kr/NewsArticle/1547635",
+     "orig": "https://ysmbc.co.kr/NewsArticle/1547635",
+     "title": "“밀폐공간 아니다”라더니… 회사 안전교육 영상엔"
     }
    ],
    "day": "2026-11-26",
@@ -3277,7 +3507,14 @@
    "published": "2026-11-26T10:10+09:00",
    "cat": "tech",
    "id": "84769a8169b7",
-   "related": [],
+   "related": [
+    {
+     "source": "globalepic.co.kr",
+     "url": "https://www.globalepic.co.kr/view.php?ud=2026112614163852375f69d33b22_29",
+     "orig": "https://www.globalepic.co.kr/view.php?ud=2026112614163852375f69d33b22_29",
+     "title": "민경선 고양시장 “사전대응 강화해 시민안전 지키겠다”…겨울철 재난..."
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
@@ -4348,7 +4585,14 @@
    "published": "2026-11-26T07:48+09:00",
    "cat": "tech",
    "id": "97e469f29d0a",
-   "related": [],
+   "related": [
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202611270003",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202611270003",
+     "title": "원주시시설관리공단, 국제 안전보건경영 인증 유지… 현장 안전관리 강..."
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
