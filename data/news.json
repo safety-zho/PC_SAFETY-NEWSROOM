@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T13:58+09:00",
+ "updatedAt": "2026-11-27T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,6 +31,15 @@
    "source": "bosa.co.kr",
    "cat": "tech",
    "day": "2026-11-27",
+   "count": 6
+  },
+  {
+   "id": "0446859a1ca4",
+   "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
+   "source": "뉴스프리존",
+   "cat": "tech",
+   "day": "2026-11-27",
    "count": 5
   },
   {
@@ -43,10 +52,10 @@
    "count": 5
   },
   {
-   "id": "0446859a1ca4",
-   "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
-   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
-   "source": "뉴스프리존",
+   "id": "2670dca37af7",
+   "title": "쿤텍, 글로벌 인증기관 DNV와 산업 안전·보안 평가 협력",
+   "url": "https://n.news.naver.com/mnews/article/366/0001207719?sid=105",
+   "source": "조선일보",
    "cat": "tech",
    "day": "2026-11-27",
    "count": 4
@@ -59,18 +68,224 @@
    "cat": "tech",
    "day": "2026-11-27",
    "count": 3
-  },
-  {
-   "id": "2670dca37af7",
-   "title": "쿤텍, 글로벌 인증기관 DNV와 산업 안전·보안 평가 협력",
-   "url": "https://n.news.naver.com/mnews/article/366/0001207719?sid=105",
-   "source": "조선일보",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "화재보험협회, 녹산국가산단 소규모 공장 12곳 아크감지센서 지원…전기...",
+   "summary": "이정열 화재보험협회 본부장은 “이번 지원이 소규모 공장 사업주와 근로자들이 안심하고 일할 수 있는 환경을 만드는 데 실질적인 도움이 되길 바란다”며 “앞으로도 한국산업단지공단과 협력해 AIoT 기술을 활용한...",
+   "url": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591910341447",
+   "orig": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591910341447",
+   "source": "megaeconomy.co.kr",
+   "published": "2026-11-27T14:50+09:00",
+   "cat": "acc",
+   "id": "aa0c10d633dd",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "중대재해처벌법, 안전보건관리체계 구축부터 사고 후 노동청·경찰 수사...",
+   "summary": "한편, 사고가 발생하면 평소 정해 둔 작업중지와 대피 절차부터 가동해야 하는데 산업안전보건법상 중대재해가 발생한 경우 사업주는 즉시 해당 작업을 중지시키고 근로자를 대피시키는 등 필요한 조치를 해야 하며 사고...",
+   "url": "https://www.lawleader.co.kr/news/articleView.html?idxno=20520",
+   "orig": "https://www.lawleader.co.kr/news/articleView.html?idxno=20520",
+   "source": "lawleader.co.kr",
+   "published": "2026-11-27T14:46+09:00",
+   "cat": "sev",
+   "id": "0901930c02b7",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "제주도 민선 9기 두번째 조직개편 추진...\"민생경제·재난안전 강화\"",
+   "summary": "민생경제·재난안전·주민 생활 분야의 행정 수요에 대응하기 위해 조직과 인력을 보강한다. 특히 읍·면... 양 행정시는 지역 상권 활성화 기능을 보강해 소상공인의 경영환경을 개선하고 골목상권에 활력을 더할 계획이다....",
+   "url": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602877",
+   "orig": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=602877",
+   "source": "headlinejeju.co.kr",
+   "published": "2026-11-27T14:44+09:00",
+   "cat": "tech",
+   "id": "7e55fc34f992",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "국제사이버대, 한국어교육 전문가 양성…신중년 재취업 지원",
+   "summary": "국제사이버대는 전국에서 외국인 인구가 가장 많은 경기도의 지역적 특성을 고려해 외국인 근로자와 결혼이민자, 외국인 유학생 등을 대상으로 산업안전보건·미용·요양보호 분야의 직무 한국어교육 과정을 개발했다....",
+   "url": "https://www.socialvalue.kr/news/view/1065591401132168",
+   "orig": "https://www.socialvalue.kr/news/view/1065591401132168",
+   "source": "socialvalue.kr",
+   "published": "2026-11-27T14:38+09:00",
+   "cat": "tech",
+   "id": "090ebd0a6469",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "산림조합 전남광주지역본부, '중대재해 예방과 안전사고 저감 대책회의...",
+   "summary": "산림조합중앙회 전남광주지역본부(본부장 임재영)는 지난 25일 지역본부에서 전남광주 산림조합 상무와 경영과장을 대상으로 '중대재해 예방과 안전사고 저감 대책회의'를 개최했다. 이번 회의는 산림사업 현장의...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332594",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=332594",
+   "source": "aflnews.co.kr",
+   "published": "2026-11-27T14:36+09:00",
+   "cat": "tech",
+   "id": "710839bb8a55",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[공기업 센터] 신용보증기금·한국농어촌공사·한국식품안전관리인증원",
+   "summary": "햇빛소득마을과 공동영농법인 6곳을 지원하고 농촌융복합산업 스타트업 22개사의 투자 유치를 도왔다.... 한국식품안전관리인증원은 지난달 20일부터 이달 27일까지 총 4회에 걸쳐 대구농업마이스터고등학교 재학생 100여...",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=173248",
+   "orig": "http://www.iminju.net/news/articleView.html?idxno=173248",
+   "source": "iminju.net",
+   "published": "2026-11-27T14:34+09:00",
+   "cat": "tech",
+   "id": "53c90212425d",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "해썹인증원, 식품안전 기록 자동화 지원",
+   "summary": "한상배 해썹인증원장은 \"스마트 해썹의 핵심은 식품안전관리 기록을 자동화하는 데 그치지 않고, 현장에서... 관계없이 스마트 해썹을 손쉽게 도입하고 안정적으로 운영할 수 있도록 맞춤형 기술지원을 아끼지 않겠다\"고...",
+   "url": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83985",
+   "orig": "https://www.chukkyung.co.kr/news/articleView.html?idxno=83985",
+   "source": "chukkyung.co.kr",
+   "published": "2026-11-27T14:28+09:00",
+   "cat": "tech",
+   "id": "017568330eab",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"기습 폭설에 선제 대응\" 의정부시, 겨울철 제설체계 전면 점검",
+   "summary": "공무원뿐 아니라 민간 부문 근로자도 눈과 얼음으로 인한 미끄러짐, 작업 중 안전사고 등에 노출될 수 있는 만큼 작업 환경과 안전수칙을 철저히 살펴야 한다는 취지다. 제설 작업의 속도만큼이나 현장 인력의 안전을...",
+   "url": "https://www.wikitree.co.kr/articles/1178307",
+   "orig": "https://www.wikitree.co.kr/articles/1178307",
+   "source": "위키트리",
+   "published": "2026-11-27T14:22+09:00",
+   "cat": "law",
+   "id": "a40f8e00982e",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"외주비 0원에 AI 챗봇까지 직접 짰다\"…학교법인 건국대, 10개 산하기관...",
+   "summary": "또한 분기별 산업안전보건위원회 소집, 수급업체 반기 평가, 정기 위험성평가처럼 마감 시한이 정해진 법정... 등록된 법령 데이터는 국가법령정보센터와 매일 연동돼 개정 여부를 상시 추적하며 조문이 바뀔 때마다...",
+   "url": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133265",
+   "orig": "http://www.dailysmart.co.kr/news/articleView.html?idxno=133265",
+   "source": "dailysmart.co.kr",
+   "published": "2026-11-27T14:16+09:00",
+   "cat": "tech",
+   "id": "2d887fadfbf9",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "현대제철 비정규직 노동자, 5년 만의 원청교섭 상견례 앞두고 기자회견",
+   "summary": "어렵다\"며 \"중대재해처벌법 시행 이후에도 하청 노동자 7명이 사망했다\"고 산업안전 문제의 심각성을 강조했다. 이어 \"간접고용 구조에서 발생하는 문제가 노동자 개인뿐만 아니라 가족과 지역사회에도 영향을 미치고...",
+   "url": "https://www.idjnews.kr/news/articleView.html?idxno=304285",
+   "orig": "https://www.idjnews.kr/news/articleView.html?idxno=304285",
+   "source": "idjnews.kr",
+   "published": "2026-11-27T14:10+09:00",
+   "cat": "law",
+   "id": "098838012421",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "티오피퍼니처, 사람 중심의 상생경영 실천",
+   "summary": "산업현장의 안전과 근로자 보호에도 힘쓰고 있다. 2024년 노동안전보건 우수기업 인증에 이어 2026년 안전보건경영시스템 ISO 45001 인증을 획득했다. 외국인 근로자를 위한 다국어 안전수칙 안내와 현장 안전교육...",
+   "url": "https://n.news.naver.com/mnews/article/310/0000142136?sid=101",
+   "orig": "https://www.womennews.co.kr/news/articleView.html?idxno=284588",
+   "source": "womennews.co.kr",
+   "published": "2026-11-27T14:10+09:00",
+   "cat": "tech",
+   "id": "cb8b4967e909",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "문화예술 공연·어린이집 개보수·헌혈·순직경찰관 자녀 학자금 지원 ...",
+   "summary": "지난 23일 르 포엠 아르모니크의 예술감독 뱅상 뒤메스트르와 주요 단원들이 국립창원대학교에서... 이에 롯데건설은 아동들이 안전한 공간에서 돌봄을 받을 수 있도록 세이브더칠드런과 함께 '꿈나무어린이집'의 내...",
+   "url": "http://www.wsobi.com/news/articleView.html?idxno=322746",
+   "orig": "http://www.wsobi.com/news/articleView.html?idxno=322746",
+   "source": "wsobi.com",
+   "published": "2026-11-27T14:08+09:00",
+   "cat": "sev",
+   "id": "fa2d735419f1",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "학교법인 건국대, 10개 기관 통합 안전관리 시스템 본격 가동",
+   "summary": "지난 11월 26일 열린 ‘학교법인 건국대학교 안전관리자 워크숍’에서 홍성철 안전경영부장이 산하기관 실무자들을 대상으로 ‘KU SAFE ON’ 사용 방법을 설명하고 있다. 사진=건국대 제공 학교법인 건국대학교가 대학...",
+   "url": "https://dhnews.co.kr/news/view/1065589320126204",
+   "orig": "https://dhnews.co.kr/news/view/1065589320126204",
+   "source": "dhnews.co.kr",
+   "published": "2026-11-27T14:06+09:00",
+   "cat": "tech",
+   "id": "6db6acb78d37",
+   "related": [
+    {
+     "source": "unn.net",
+     "url": "https://news.unn.net/news/articleView.html?idxno=601604",
+     "orig": "https://news.unn.net/news/articleView.html?idxno=601604",
+     "title": "\"안전경영에 진심\" 학교법인 건국대, 10개 기관 통합 안전관리 시스템 ..."
+    }
+   ],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "허태정 대전시장, 트램 2호선 공사현장 점검…\"불편을 겪고 계신 시민께...",
+   "summary": "안전사고를 미리 막기 위한 행보다. 허 시장은 이날 가장 먼저 도안대로 8공구 현장을 찾았다. 전체 공구 중... 국립중앙과학관 인근 탄동천교(5공구) 신설 현장에서도 작업자 및 보행자 안전관리를 거듭 당부했다. 동구...",
+   "url": "https://cc.newdaily.co.kr/site/data/html/2026/11/27/2026112750179.html",
+   "orig": "https://cc.newdaily.co.kr/site/data/html/2026/11/27/2026112750179.html",
+   "source": "뉴데일리",
+   "published": "2026-11-27T14:04+09:00",
+   "cat": "law",
+   "id": "bc958b4342d5",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"안전관리 직원이 피지컬 AI 구현\"…아모레, 바이브 코딩으로 AX 가속",
+   "summary": "전문 개발자가 아니더라도 업무에 필요한 프로그램을 직접 구현할 수 있다는 점에서 최근 다양한 산업... 대상은 안전보건사무국의 '피지컬 AI, 누구나 만들 수 있습니다'가 차지했다. 안전관리 담당자가 대화형 AI를...",
+   "url": "https://n.news.naver.com/mnews/article/123/0002394988?sid=101",
+   "orig": "http://www.joseilbo.com/news/news_read.php?uid=580606&class=17&grp=",
+   "source": "joseilbo.com",
+   "published": "2026-11-27T14:02+09:00",
+   "cat": "tech",
+   "id": "e00c4df3e0dc",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "데이터센터로 첫 안전대상…LG CNS, 부산 DC로 국무총리상 수상",
+   "summary": "안전관리 평가제도인 '공간안전인증(Safety Zone Certification)'을 데이터센터 업계 최초로 취득한 바 있다. 행정안전부 '재해경감 우수기업 인증'도 보유하고 있어 안전경영과 관리체계의 우수성을 꾸준히 인정받아 왔다.",
+   "url": "https://n.news.naver.com/mnews/article/138/0002250165?sid=105",
+   "orig": "https://www.ddaily.co.kr/page/view/2026112711150036436",
+   "source": "디지털데일리",
+   "published": "2026-11-27T14:00+09:00",
+   "cat": "tech",
+   "id": "0debe77492d3",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "우체국물류지원단, 운송 협력업체와 상생·안전을 위한 협의체 개최",
    "summary": "우체국물류지원단(이사장 오기호)은 이러한 협의체를 통해 \"협력업체의 애로사항을 듣고 현안사항에 대해 소통 · 협력해 우편물류서비스를 효율적으로 운영하겠다\"며 \"협력업체와 함께 안전 경영을 실천하고 안전사고와...",
@@ -119,6 +334,19 @@
    "published": "2026-11-27T13:28+09:00",
    "cat": "tech",
    "id": "51dc5955d1fe",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"당신은 '안전한' 나라에서 살고 있습니까\" 12월 3일, '국민 생명' 대전...",
+   "summary": "재난 피해자들, 산재 피해자들. 그런데 대부분이 이 초반에 어떤 도움이 있는지를 알기가 거의 어려웠다는... 일단 사망 지표라는 결과 지표가 있겠죠. 재난이 줄었냐 자살이 줄었냐, 근데 사실 이런 결과 지표라는 것만으로...",
+   "url": "https://n.news.naver.com/mnews/article/052/0002438958?sid=102",
+   "orig": "https://www.ytn.co.kr/_ln/0103_202611271325594860",
+   "source": "YTN",
+   "published": "2026-11-27T13:25+09:00",
+   "cat": "law",
+   "id": "0da280985726",
    "related": [],
    "day": "2026-11-27",
    "watch": []
@@ -710,6 +938,12 @@
      "url": "http://www.newslock.co.kr/news/articleView.html?idxno=141167",
      "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=141167",
      "title": "캠코, 협력업체와 '안전한 일터' 만든다…관리 사업장 위험성평가 인정..."
+    },
+    {
+     "source": "핀포인트뉴스",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508879",
+     "orig": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=508879",
+     "title": "캠코, 협력업체 안전관리 지원…위험성평가 인정 획득"
     }
    ],
    "day": "2026-11-27",
@@ -866,6 +1100,12 @@
      "url": "http://www.ikld.kr/news/articleView.html?idxno=345034",
      "orig": "http://www.ikld.kr/news/articleView.html?idxno=345034",
      "title": "쿤텍-DNV, 산업 안전·보안 평가 협력 MOU 체결"
+    },
+    {
+     "source": "hellot.net",
+     "url": "https://www.hellot.net/news/article.html?no=116705",
+     "orig": "https://www.hellot.net/news/article.html?no=116705",
+     "title": "쿤텍, DNV와 산업 안전·보안 평가 협력…철도·항공·로봇으로 확대"
     }
    ],
    "day": "2026-11-27",
@@ -1009,6 +1249,12 @@
      "url": "https://www.k-health.com/news/articleView.html?idxno=102491",
      "orig": "https://www.k-health.com/news/articleView.html?idxno=102491",
      "title": "고대구로병원 박일호 교수, 식약처장 표창 수상…의료기기 안전관리 공..."
+    },
+    {
+     "source": "서울경제TV",
+     "url": "https://www.sentv.co.kr/article/view/sentv202611270160",
+     "orig": "https://www.sentv.co.kr/article/view/sentv202611270160",
+     "title": "박일호 고려대 구로병원 교수, 의료기기 안전관리 공로 식약처장 표창"
     }
    ],
    "day": "2026-11-27",
@@ -1075,6 +1321,12 @@
      "url": "https://www.medigatenews.com/news/2745687517",
      "orig": "https://www.medigatenews.com/news/2745687517",
      "title": "HLB그룹 'AI 시대, 기술과 사고의 진화' 세미나 개최"
+    },
+    {
+     "source": "직썰",
+     "url": "https://www.ziksir.com/news/articleView.html?idxno=154945",
+     "orig": "https://www.ziksir.com/news/articleView.html?idxno=154945",
+     "title": "HLB그룹, 'AI 시대, 기술과 사고의 진화' 세미나 개최"
     }
    ],
    "day": "2026-11-27",
@@ -1467,7 +1719,14 @@
    "published": "2026-11-27T06:00+09:00",
    "cat": "tech",
    "id": "28d223659bc1",
-   "related": [],
+   "related": [
+    {
+     "source": "idsn.co.kr",
+     "url": "https://idsn.co.kr/news/view/1065589989268202",
+     "orig": "https://idsn.co.kr/news/view/1065589989268202",
+     "title": "교량 콘크리트 떨어짐 사고 AI로 예방...서울시설공단, 점검장비 개발"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -2892,6 +3151,12 @@
      "url": "https://www.safetynews.co.kr/news/articleView.html?idxno=251838",
      "orig": "https://www.safetynews.co.kr/news/articleView.html?idxno=251838",
      "title": "안전보건공단 경기광역본부, 외국인 안전리더 간담회"
+    },
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611271412577996be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611271412577996be44c0aacd_30",
+     "title": "안전보건공단 경기광역본부, 외국인 안전리더 간담회…내년 사업 실효성..."
     }
    ],
    "day": "2026-11-26",
