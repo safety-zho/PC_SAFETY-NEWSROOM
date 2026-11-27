@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T11:52+09:00",
+ "updatedAt": "2026-11-27T12:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,6 +25,15 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
+   "id": "e67ce7c0f2e8",
+   "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공 식약처장 표창",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017518",
+   "source": "bosa.co.kr",
+   "cat": "tech",
+   "day": "2026-11-27",
+   "count": 5
+  },
+  {
    "id": "ea616fdacc38",
    "title": "LPG가스 절단기 작업 중 폭발…40대 중상 이송",
    "url": "https://n.news.naver.com/mnews/article/003/0014348483?sid=102",
@@ -34,13 +43,13 @@
    "count": 5
   },
   {
-   "id": "e67ce7c0f2e8",
-   "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공 식약처장 표창",
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017518",
-   "source": "bosa.co.kr",
+   "id": "0446859a1ca4",
+   "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
+   "source": "뉴스프리존",
    "cat": "tech",
    "day": "2026-11-27",
-   "count": 4
+   "count": 3
   },
   {
    "id": "d87a9173fd71",
@@ -59,18 +68,178 @@
    "cat": "tech",
    "day": "2026-11-27",
    "count": 2
-  },
-  {
-   "id": "0446859a1ca4",
-   "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
-   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
-   "source": "뉴스프리존",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "“비개발자가 AI로 안전로봇까지 짰다”…아모레퍼시픽, ‘바이브 코딩...",
+   "summary": "이번 해커톤에는 영업과 이커머스, 생산, 개발, 경영지원 등 전 부서에서 총 56건의 과제가 출품돼 예선을 통과한 10개 팀이 본선에 올랐다. 이날 대상은 안전보건사무국의 ‘피지컬 AI, 누구나 만들 수 있습니다’가...",
+   "url": "https://n.news.naver.com/mnews/article/117/0004128623?sid=103",
+   "orig": "https://www.mydaily.co.kr/page/view/2026112712354279023",
+   "source": "마이데일리",
+   "published": "2026-11-27T12:37+09:00",
+   "cat": "tech",
+   "id": "15dd013ad7d1",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "캠코, 협력업체 근로자까지 안전관리 확대 눈길",
+   "summary": "시설관리와 미화, 경비 등 외부 협력업체 근로자들이 작업 과정에서 마주하는 위험요인을 스스로 찾아 개선하도록 지원한 결과, 관리 사업장이 한국산업안전보건공단의 위험성평가 인정사업장으로 선정됐다. 캠코는 27일...",
+   "url": "https://www.g-enews.com/view.php?ud=20261127114258679037f21df127_1",
+   "orig": "https://www.g-enews.com/view.php?ud=20261127114258679037f21df127_1",
+   "source": "글로벌이코노믹",
+   "published": "2026-11-27T12:28+09:00",
+   "cat": "tech",
+   "id": "e6c9ee5fc42e",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "'인력난·안전사고' 조선·플랜트… 국립부경대·부산정보기술협회, '피...",
+   "summary": "필요한 안전 기준과 기술 조건을 점검했다. 주제발표는 제조와 교육, 조선 현장을 축으로 진행됐다. 신동윤... 이어진 패널토론에서는 스마트 조선소와 지능형 설비, 플랜트 자동화 분야의 실제 수요가 도마에 올랐다....",
+   "url": "https://n.news.naver.com/mnews/article/277/0005848821?sid=102",
+   "orig": "https://view.asiae.co.kr/article/2026112712285486985",
+   "source": "아시아경제",
+   "published": "2026-11-27T12:28+09:00",
+   "cat": "tech",
+   "id": "dba231b0dc47",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "박종필 노사발전재단 사무총장 “혼자 앓지 마세요…노동권 사각지대 우...",
+   "summary": "사업주는 5인 미만 사업장이라 산업재해 보상이 어렵다며 병원비는 내주되 일하지 못한 기간의 임금은... 고용노동부 근로감독정책단장, 근로기준정책관, 기획조정실장, 대변인 등을 역임한 노동정책 전문가로 지난해 4월...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002729544?sid=101",
+   "orig": "https://biz.heraldcorp.com/article/10951764?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-27T12:26+09:00",
+   "cat": "law",
+   "id": "09706641caf5",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "콘크리트 품질부터 철도 안전까지… 현대건설, AI 기술 경쟁력 입증",
+   "summary": "단지·주택, BIM, 철도, 도로, 안전관리 등 5개 분야를 대상으로 기술 경쟁력을 평가한다. 올해는 '2026 스마트건설·안전·AI 엑스포'와 연계해 시상식과 수상작 발표회가 진행됐다. 단지·주택 분야에서 혁신상을 받은...",
+   "url": "https://www.newsmap.co.kr/news/articleView.html?idxno=5917",
+   "orig": "https://www.newsmap.co.kr/news/articleView.html?idxno=5917",
+   "source": "newsmap.co.kr",
+   "published": "2026-11-27T12:24+09:00",
+   "cat": "tech",
+   "id": "e978ddf4cfc9",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "중소기업 안전자립 돕는 ‘키다리 아저씨’",
+   "summary": "재단은 대·중소기업 간 안전보건 격차를 줄이기 위해 지난 2022년 10월 현대자동차그룹 6개사 출연으로 설립된 산업안전보건 전문 비영리 공익법인이다. 27일 재단 및 중소기업 업계에 따르면, 재단의 핵심 사업인...",
+   "url": "https://n.news.naver.com/mnews/article/021/0002836071?sid=102",
+   "orig": "https://www.munhwa.com/article/11634674?ref=naver",
+   "source": "문화일보",
+   "published": "2026-11-27T12:16+09:00",
+   "cat": "hlt",
+   "id": "5d3b34d1def8",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "“AI로 품질 잡고 철도 안전 높인다”…현대건설, 스마트건설 3개 분야...",
+   "summary": "현장의 품질 혁신을 실현해 온 기술력을 다시 한번 인정받은 결과”라며 “AI 기반 자동화와 BIM, 디지털 플랫폼의 현장 적용을 확대해 안전과 품질을 최우선으로 하는 스마트건설 생태계 조성에 앞장서겠다”고 말했다.",
+   "url": "https://n.news.naver.com/mnews/article/138/0002250149?sid=101",
+   "orig": "https://www.ddaily.co.kr/page/view/2026112712135653207",
+   "source": "디지털데일리",
+   "published": "2026-11-27T12:15+09:00",
+   "cat": "tech",
+   "id": "fa42adf777bf",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "1.1조 투입 ‘한국새빛가속기’…건설현장 안전 확보 총력",
+   "summary": "현장 근로자들은 미끄러짐·빙판길, 화재, 한랭질환, 중장비·추락 등 겨울철 주요 위험 요인을 직접 선정하는 스티커 투표를 통해 안전관리 취약 요인을 점검했다. 한랭질환 예방을 위한 방한용품 배부와 우수...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002729537?sid=105",
+   "orig": "https://biz.heraldcorp.com/article/10951744?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-27T12:08+09:00",
+   "cat": "hlt",
+   "id": "e19a8427d111",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "\"데이터센터 갈등 해법 찾는다\"…네이버, UN서 '각' 조명",
+   "summary": "공사 현장 안전교육과 점검을 비롯해 운영 단계에서 국제 안전보건경영시스템(ISO 45001) 인증을 획득한... 데이터센터를 둘러싼 이해관계 조정은 글로벌 AI 산업의 주요 현안이기도 하다. 국제에너지기구(IEA)에 따르면...",
+   "url": "https://n.news.naver.com/mnews/article/138/0002250147?sid=105",
+   "orig": "https://www.ddaily.co.kr/page/view/2026112712014373532",
+   "source": "디지털데일리",
+   "published": "2026-11-27T12:03+09:00",
+   "cat": "tech",
+   "id": "e172e57f4305",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "도로 무너지기 전 ‘위험신호’ 포착…싱크홀 사고 막는다",
+   "summary": "인프라 안전관리에 활용될 것으로 기대된다. 박선규 건설연 원장은 “기후변화로 국지성 집중호우가 잦아지는 환경에서 이번 성과는 도심지 도로 함몰 사고를 사전에 차단하고 스마트 지하 인프라 관리 기술을...",
+   "url": "https://n.news.naver.com/mnews/article/016/0002729536?sid=105",
+   "orig": "https://biz.heraldcorp.com/article/10951742?ref=naver",
+   "source": "헤럴드경제",
+   "published": "2026-11-27T12:02+09:00",
+   "cat": "acc",
+   "id": "04501685b77e",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[위기 속 기회 K건설]드론이 안전관리·AI가 현장통역…더 스마트한 '아...",
+   "summary": "일상 작업 전반에 대해 사고 예방 시스템을 지속해서 고도화하는 중\"이라고 했다. 사람 중심 관제의 한계를 보완하기 위해 AI CCTV 기반의 지능형 영상 관제 시스템 도입도 추진하고 있다. 본사에서는 권역별 경영진 현장...",
+   "url": "https://n.news.naver.com/mnews/article/277/0005848809?sid=101",
+   "orig": "https://view.asiae.co.kr/article/2026112710510180804",
+   "source": "아시아경제",
+   "published": "2026-11-27T12:00+09:00",
+   "cat": "tech",
+   "id": "aeca3eb1e456",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "英 덱소리, 창고안전 규제준수 모듈 '덱소리뷰인스펙트' 출시",
+   "summary": "미국 노동통계국(BLS)에 따르면 2025년 창고 및 보관 부문에서 7만 2800건의 산업재해 및 직업병이 발생했으며, 영국 보건안전청(HSE)은 운송 및 보관 부문에서 매년 약 4만명의 근로자가 치명적이지 않은 작업장 부상을...",
+   "url": "https://www.irobotnews.com/news/articleView.html?idxno=49837",
+   "orig": "https://www.irobotnews.com/news/articleView.html?idxno=49837",
+   "source": "irobotnews.com",
+   "published": "2026-11-27T11:58+09:00",
+   "cat": "hlt",
+   "id": "5ea340c01869",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "교보생명, 강동경희대병원 손잡고 설계사 의료비 부담 완화",
+   "summary": "한편 보험설계사는 산업안전보건법 시행령 제67조에 따른 특수형태근로종사자에 해당한다. 한국산업안전보건공단은 보험설계사 등을 대상으로 직종별 건강진단 비용지원 사업을 운영하고 있으며, 1·2차 건강진단 비용의...",
+   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51641",
+   "orig": "https://www.1conomynews.co.kr/news/articleView.html?idxno=51641",
+   "source": "1conomynews.co.kr",
+   "published": "2026-11-27T11:58+09:00",
+   "cat": "hlt",
+   "id": "42234d0db607",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "안덕면, 근로자 대상 산업안전보건교육 실시",
    "summary": "안덕면(면장 박호찬)은 지난 26일 안덕생활체육관 소회의실에서 안덕면 소속 근로자를 대상으로 산업안전보건교육을 실시했다. 이날 공무직, 기간제근로자, 공공근로 등 안덕면 소속 근로자들이 참여했으며 근골격계질환...",
@@ -405,6 +574,12 @@
      "url": "https://n.news.naver.com/mnews/article/082/0001409243?sid=102",
      "orig": "https://www.busan.com/view/busan/view.php?code=2026112710290605621",
      "title": "캠코, 협력업체와 안전한 일터 조성… ‘위험성평가 인정 사업장’ 획득"
+    },
+    {
+     "source": "시사온",
+     "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206462",
+     "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=206462",
+     "title": "캠코, 한화생명 수원빌딩 '위험성평가 인정사업장' 획득"
     }
    ],
    "day": "2026-11-27",
@@ -685,6 +860,12 @@
      "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721690",
      "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721690",
      "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공으로 표창"
+    },
+    {
+     "source": "k-health.com",
+     "url": "https://www.k-health.com/news/articleView.html?idxno=102491",
+     "orig": "https://www.k-health.com/news/articleView.html?idxno=102491",
+     "title": "고대구로병원 박일호 교수, 식약처장 표창 수상…의료기기 안전관리 공..."
     }
    ],
    "day": "2026-11-27",
@@ -1020,6 +1201,26 @@
    "published": "2026-11-27T07:02+09:00",
    "cat": "acc",
    "id": "602deb08174a",
+   "related": [
+    {
+     "source": "대한전문건설신문",
+     "url": "https://www.koscaj.com/news/articleView.html?idxno=327694",
+     "orig": "https://www.koscaj.com/news/articleView.html?idxno=327694",
+     "title": "서울시설공단, 교량 콘크리트 떨어짐 사고 예방 AI 장비 개발"
+    }
+   ],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[더벨][Sanction Radar] DL이앤씨, 시험대 오른 안전관리 역량",
+   "summary": "DL이앤씨가 현장에서 올해 들어 세 번째 사망사고가 발생했다. 본사 직원을 공사 현장에 파견해 위험작업을... 임원 핵심성과지표(KPI)에는 안전점검 횟수와 중대재해자 수를 반영한다. 작업별 안전 기준도 마련돼 있다....",
+   "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611231656491800105322",
+   "orig": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202611231656491800105322",
+   "source": "더벨",
+   "published": "2026-11-27T07:02+09:00",
+   "cat": "law",
+   "id": "a328762c29c4",
    "related": [],
    "day": "2026-11-27",
    "watch": []
