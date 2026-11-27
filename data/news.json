@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T10:52+09:00",
+ "updatedAt": "2026-11-27T11:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 5
   },
   {
+   "id": "e67ce7c0f2e8",
+   "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공 식약처장 표창",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017518",
+   "source": "bosa.co.kr",
+   "cat": "tech",
+   "day": "2026-11-27",
+   "count": 4
+  },
+  {
    "id": "d87a9173fd71",
    "title": "국민체육진흥공단, 2026년 체육시설 안전 경영 인증 시설 선정",
    "url": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2394015",
@@ -43,6 +52,15 @@
    "count": 3
   },
   {
+   "id": "2b6fc478cc73",
+   "title": "체육공단, 체육시설 안전 경영 인증 시설 13곳 선정…인증서와 현판 수...",
+   "url": "https://www.globalepic.co.kr/view.php?ud=2026112710231591804ee4ea3d05_29",
+   "source": "globalepic.co.kr",
+   "cat": "tech",
+   "day": "2026-11-27",
+   "count": 2
+  },
+  {
    "id": "0446859a1ca4",
    "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
    "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
@@ -50,27 +68,178 @@
    "cat": "tech",
    "day": "2026-11-27",
    "count": 2
-  },
-  {
-   "id": "2670dca37af7",
-   "title": "쿤텍, 글로벌 인증기관 DNV와 산업 안전·보안 평가 협력",
-   "url": "https://n.news.naver.com/mnews/article/366/0001207719?sid=105",
-   "source": "조선일보",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 2
-  },
-  {
-   "id": "e67ce7c0f2e8",
-   "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공 식약처장 표창",
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017518",
-   "source": "bosa.co.kr",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 2
   }
  ],
  "articles": [
+  {
+   "title": "안덕면, 근로자 대상 산업안전보건교육 실시",
+   "summary": "안덕면(면장 박호찬)은 지난 26일 안덕생활체육관 소회의실에서 안덕면 소속 근로자를 대상으로 산업안전보건교육을 실시했다. 이날 공무직, 기간제근로자, 공공근로 등 안덕면 소속 근로자들이 참여했으며 근골격계질환...",
+   "url": "https://www.newsjeju.net/news/articleView.html?idxno=429039",
+   "orig": "https://www.newsjeju.net/news/articleView.html?idxno=429039",
+   "source": "newsjeju.net",
+   "published": "2026-11-27T11:44+09:00",
+   "cat": "hlt",
+   "id": "4777a2762302",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[행정家] 식품의약품안전처 ⑦ㅣ 국민 건강·안전 관리 강화…급식 위생...",
+   "summary": "이외에도 건강진단 미실시 2건, 조리장 내 위생적 취급 기준 위반 1건, 보존식 미보관 1건이 확인됐다.... 또한 식품 광고에 사용할 수 없는 '한방', '특수제법', '주문쇄도', '단체추천' 등 표현에 대한 행정처분 기준이...",
+   "url": "https://www.cbci.co.kr/news/articleView.html?idxno=631295",
+   "orig": "https://www.cbci.co.kr/news/articleView.html?idxno=631295",
+   "source": "cbci.co.kr",
+   "published": "2026-11-27T11:44+09:00",
+   "cat": "hlt",
+   "id": "a3a40d24be08",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "에이아이프로, 공공시설·발전소에 AI 영상분석 공급…현장별 안전관리...",
+   "summary": "컴퓨터 비전과 영상처리 분야의 연구 성과를 제품으로 구현해 공공시설과 산업 현장의 안전관리 및 운영을... 현재는 '초격차 스타트업 1000+' 사업을 통해 여러 딥러닝 모델을 현장 기기에서 구동하는 온디바이스...",
+   "url": "https://n.news.naver.com/mnews/article/030/0003490677?sid=105",
+   "orig": "https://www.etnews.com/20261127000167",
+   "source": "전자신문",
+   "published": "2026-11-27T11:40+09:00",
+   "cat": "tech",
+   "id": "6a3b76c4aaae",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "예산군, 공장·창고 896개 동 화재안전 실태조사 추진",
+   "summary": "관내 공장·창고시설 896개 동을 대상으로 대대적인 화재안전 실태조사를 추진하고 있다고 27일 밝혔다. 이번... 사업주와 근로자가 안심할 수 있는 안전한 사업장 환경 조성을 위해 최선을 다하겠다는 뜻을 분명히 했다.",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=516584",
+   "orig": "https://www.newsworker.co.kr/news/articleView.html?idxno=516584",
+   "source": "newsworker.co.kr",
+   "published": "2026-11-27T11:20+09:00",
+   "cat": "acc",
+   "id": "e5f776c1949c",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "LG CNS, 데이터센터 국내 최초 안전대상 수상…해외 공략도 가속",
+   "summary": "행정안전부 '재해경감 우수기업 인증'도 보유하고 있어 안전경영과 관리체계 우수성을 꾸준히 인정받아 왔다. LG CNS는 국내에서 확보한 데이터센터 구축·운영 역량을 해외 DBO 사업에도 접목하고 있다. 최근 완공한...",
+   "url": "https://n.news.naver.com/mnews/article/092/0002447244?sid=105",
+   "orig": "https://zdnet.co.kr/view/?no=20261127111238",
+   "source": "지디넷코리아",
+   "published": "2026-11-27T11:15+09:00",
+   "cat": "tech",
+   "id": "740b656410b4",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[초점] 포스코 장인화, 녹록지 않은 연임 가도…사업장 사망사고·노사...",
+   "summary": "우선 장 회장 취임 후에도 사망사고를 비롯한 중대재해가 사업장 내에서 빈번하게 발생했다는 지적이 제기된다. 지난해 포스코 철강 사업장에서 6명이, 포스코이앤씨에서는 신안산선 공사 현장 사고 등으로 노동자...",
+   "url": "http://www.newswatch.kr/news/articleView.html?idxno=82101",
+   "orig": "http://www.newswatch.kr/news/articleView.html?idxno=82101",
+   "source": "newswatch.kr",
+   "published": "2026-11-27T11:12+09:00",
+   "cat": "sev",
+   "id": "cf9299a73deb",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "고용부, 전국 8개 권역서 건설기계･장비별 사고 예방 노하우 공유",
+   "summary": "특히 최근 항타기 등 대형 장비가 넘어지는 사례와 함께 롤러, 굴착기 등 건설기계･장비 관련 사망사고가 지속적으로 발생했다. 이에 고용부가 지방고용노동관서의 건설산재예방감독과와 안전보건공단...",
+   "url": "https://www.kmecnews.co.kr/news/articleView.html?idxno=53020",
+   "orig": "https://www.kmecnews.co.kr/news/articleView.html?idxno=53020",
+   "source": "kmecnews.co.kr",
+   "published": "2026-11-27T11:12+09:00",
+   "cat": "tech",
+   "id": "82288105974f",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[포토뉴스]원주시, 동절기 제설장비 운용 특수형태근로종사자 안전보건...",
+   "summary": "이번 교육은 근로자와 유사하게 노무를 제공함에도 ‘근로기준법’의 적용을 받지 못해 안전 사각지대에 놓이기 쉬운 특수형태근로종사자를 보호하고, ‘산업안전보건법’ 제77조에 따른 사업주의 안전·보건조치...",
+   "url": "https://n.news.naver.com/mnews/article/087/0001233913?sid=102",
+   "orig": "https://www.kwnews.co.kr/article/20261127500044",
+   "source": "강원일보",
+   "published": "2026-11-27T11:11+09:00",
+   "cat": "hlt",
+   "id": "3d8e00207fd6",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "추미애 “위험물 안전관리 사각지대 해소”…소량 위험물까지 관리체계...",
+   "summary": "개선 작업에 착수했다. 가장 먼저 추진하는 과제는 공장 등록과 연계한 위험물 정보관리체계 구축이다.... 사업장 관계자와 소방대원이 위험물 현황을 쉽게 확인할 수 있도록 해 사고 예방과 현장 대응력을 높이겠다는...",
+   "url": "https://n.news.naver.com/mnews/article/031/0001079011?sid=102",
+   "orig": "http://www.inews24.com/view/2031193",
+   "source": "아이뉴스24",
+   "published": "2026-11-27T11:08+09:00",
+   "cat": "tech",
+   "id": "7c5f333387ee",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "오뚜기, 해외 매출 두 자릿수 성장에도 수익성·안전관리 과제 부각",
+   "summary": "같은 기간 임직원 중대재해 발생 건수와 사망자 수는 모두 0건으로 집계됐다. 안전 점검 횟수는 2023년 298건에서 2025년 328건으로 늘었고 안전 개선 조치 건수도 2024년 508건에서 2025년 900건으로 증가했다. 안전 개선...",
+   "url": "http://www.popcornnews.net/news/articleView.html?idxno=141831",
+   "orig": "http://www.popcornnews.net/news/articleView.html?idxno=141831",
+   "source": "popcornnews.net",
+   "published": "2026-11-27T11:02+09:00",
+   "cat": "law",
+   "id": "e25b294c4770",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "안전보건공단, 청렴과 안전 잇는 내부통제 역량 강화",
+   "summary": "한국산업안전보건공단(KOSHA)이 청렴문화 확산과 자율적 내부통제 역량 강화에 나섰다. 안전보건공단은 26일부터 27일까지 이틀간 경주에서 '청렴의 시작, 안전의 완성!'을 주제로 2026년도 감사인 및 준감사인 합동 워크숍을...",
+   "url": "https://www.energy-news.co.kr/news/articleView.html?idxno=230139",
+   "orig": "https://www.energy-news.co.kr/news/articleView.html?idxno=230139",
+   "source": "에너지신문",
+   "published": "2026-11-27T10:54+09:00",
+   "cat": "tech",
+   "id": "301d9085e8ca",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "임업 기계화 더딘 한국 산림…청년 인력 유입 막는 낮은 보상·안전 문제",
+   "summary": "안전 문제도 기계화 전환의 주요 배경으로 제시됐다. 오재헌 국립산림과학원 산림기술경영연구소 실장은 산림 사망사고의 78.8%가 벌목·집재 작업에서 발생한다고 설명했다. 굴착기를 기반으로 한 다목적 장비에 가선계를...",
+   "url": "https://www.straightnews.co.kr/news/articleView.html?idxno=316391",
+   "orig": "https://www.straightnews.co.kr/news/articleView.html?idxno=316391",
+   "source": "스트레이트뉴스",
+   "published": "2026-11-27T10:54+09:00",
+   "cat": "tech",
+   "id": "d69acf3e41df",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "강원 26~27일 사건‧사고 현황",
+   "summary": "(안전사고) 덤프트럭(삼척 적노동 공장)1동 부분소(3717만1천 원), 인명피해 없음, 오전 10시26~10시53분 토사 덤핑 작업 중 전도, 경상 1명(남, 69세/경북 포항) 운전자, 좌측 측두부 부종 및 갈비뼈 통증 삼척의료원...",
+   "url": "https://www.eroun.net/news/articleView.html?idxno=96728",
+   "orig": "https://www.eroun.net/news/articleView.html?idxno=96728",
+   "source": "eroun.net",
+   "published": "2026-11-27T10:52+09:00",
+   "cat": "acc",
+   "id": "b87b3568926a",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "The 스마트한 미래건설 ‘2026 스마트건설·안전·AI 엑스포’ 성료",
    "summary": "매일건설신문=홍제진 기자│인공지능(AI)과 로봇 등 첨단 건설기술을 한자리에서 볼 수 있는 ‘2026 스마트건설·안전·AI EXPO’가 25일 27일까지 일산 킨텍스에서 성황리에 개최됐다. 국토교통부 주최, 한국도로공사...",
@@ -210,7 +379,14 @@
    "published": "2026-11-27T10:32+09:00",
    "cat": "tech",
    "id": "2b6fc478cc73",
-   "related": [],
+   "related": [
+    {
+     "source": "아시아투데이",
+     "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010735",
+     "orig": "https://www.asiatoday.co.kr/kn/view.php?key=20261127010010735",
+     "title": "체육공단, '안전 경영' 전국 13개 체육시설 인증서 수여"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -419,7 +595,14 @@
    "published": "2026-11-27T09:44+09:00",
    "cat": "tech",
    "id": "6c209dc429ab",
-   "related": [],
+   "related": [
+    {
+     "source": "헤럴드경제",
+     "url": "https://n.news.naver.com/mnews/article/016/0002729382?sid=101",
+     "orig": "https://biz.heraldcorp.com/article/10951466?ref=naver",
+     "title": "산단공, AI로 산업재해 막는다…적극행정 경진대회 인사혁신처장상"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -490,6 +673,18 @@
      "url": "https://www.apsk.co.kr/news/articleView.html?idxno=541170",
      "orig": "https://www.apsk.co.kr/news/articleView.html?idxno=541170",
      "title": "고대구로병원 박일호 교수, 의료기기 안전관리 공로 식약처장 표창"
+    },
+    {
+     "source": "한국아이닷컴",
+     "url": "https://weekly.hankooki.com/news/articleView.html?idxno=7196050",
+     "orig": "https://weekly.hankooki.com/news/articleView.html?idxno=7196050",
+     "title": "박일호 고려대 구로병원 교수, 의료기기 안전관리 공로 식약처장 표창"
+    },
+    {
+     "source": "뉴스프리존",
+     "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721690",
+     "orig": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721690",
+     "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공으로 표창"
     }
    ],
    "day": "2026-11-27",
@@ -504,7 +699,14 @@
    "published": "2026-11-27T09:36+09:00",
    "cat": "tech",
    "id": "a5d09ba73c67",
-   "related": [],
+   "related": [
+    {
+     "source": "머니투데이",
+     "url": "https://n.news.naver.com/mnews/article/008/0005447316?sid=101",
+     "orig": "https://www.mt.co.kr/living/2026/11/27/2026112709413320598",
+     "title": "아모레퍼시픽 직원이 AI로 만든 안전장비, 해커톤 대상"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -1799,6 +2001,12 @@
      "url": "https://www.newsjeju.net/news/articleView.html?idxno=429016",
      "orig": "https://www.newsjeju.net/news/articleView.html?idxno=429016",
      "title": "JDC, 전통시장·소상공인 120개소에 '소방안전 키트' 전달"
+    },
+    {
+     "source": "제주의소리",
+     "url": "https://www.jejusori.net/news/articleView.html?idxno=508741",
+     "orig": "https://www.jejusori.net/news/articleView.html?idxno=508741",
+     "title": "JDC, 제주 전통시장·소상공인에 '소방안전 키트' 전달 따뜻한 동행"
     }
    ],
    "day": "2026-11-26",
@@ -2797,7 +3005,14 @@
    "published": "2026-11-26T14:09+09:00",
    "cat": "tech",
    "id": "32ce48b34851",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴스1",
+     "url": "https://www.news1.kr/sports/general-sport/6368230",
+     "orig": "https://www.news1.kr/sports/general-sport/6368230",
+     "title": "체육공단, 체육시설 안전 경영 인증 시설 13곳 선정"
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
