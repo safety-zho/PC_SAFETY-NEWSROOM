@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T03:01+09:00",
+ "updatedAt": "2026-11-28T08:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,52 +25,73 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "0446859a1ca4",
-   "title": "캠코, 협력업체 안전관리 지원 확대···위험성평가 인정사업장 획득",
-   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=721669",
-   "source": "뉴스프리존",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 7
-  },
-  {
-   "id": "e67ce7c0f2e8",
-   "title": "고대구로병원 박일호 교수, 의료기기 안전관리 유공 식약처장 표창",
-   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3017518",
-   "source": "bosa.co.kr",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 6
-  },
-  {
-   "id": "ea616fdacc38",
-   "title": "LPG가스 절단기 작업 중 폭발…40대 중상 이송",
-   "url": "https://n.news.naver.com/mnews/article/003/0014348483?sid=102",
-   "source": "뉴시스",
+   "id": "f58f889ab386",
+   "title": "인천 강화도 축사 지붕서 추락해 중상…60대 헬기 이송",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468631?sid=102",
+   "source": "연합뉴스",
    "cat": "acc",
-   "day": "2026-11-27",
-   "count": 5
+   "day": "2026-11-28",
+   "count": 1
   },
   {
-   "id": "2670dca37af7",
-   "title": "쿤텍, 글로벌 인증기관 DNV와 산업 안전·보안 평가 협력",
-   "url": "https://n.news.naver.com/mnews/article/366/0001207719?sid=105",
-   "source": "조선일보",
+   "id": "d938564fa7e2",
+   "title": "포스코이앤씨, AI로 건설현장 바꾼다…품질·안전·업무 자동화 확대",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315073?sid=101",
+   "source": "뉴스1",
    "cat": "tech",
-   "day": "2026-11-27",
-   "count": 4
+   "day": "2026-11-28",
+   "count": 1
   },
   {
-   "id": "6db6acb78d37",
-   "title": "학교법인 건국대, 10개 기관 통합 안전관리 시스템 본격 가동",
-   "url": "https://dhnews.co.kr/news/view/1065589320126204",
-   "source": "dhnews.co.kr",
-   "cat": "tech",
-   "day": "2026-11-27",
-   "count": 3
+   "id": "4b468de59ba0",
+   "title": "치아 보호 위한 ‘입속 안전벨트’…스캐너 사용해 1시간에 제작 완료 ...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002834366?sid=103",
+   "source": "한겨레",
+   "cat": "law",
+   "day": "2026-11-28",
+   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "인천 강화도 축사 지붕서 추락해 중상…60대 헬기 이송",
+   "summary": "이 사고로 다리 등을 크게 다친 A씨는 소방헬기에 실려 인천 내륙 대학병원으로 옮겨졌다. 경찰과 소방 당국은 A씨가 축사 지붕에서 작업하던 중 추락한 것으로 보고 구체적인 경위를 확인하고 있다. 소방 당국자는...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468631?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261128019100065?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-28T08:42+09:00",
+   "cat": "acc",
+   "id": "f58f889ab386",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "포스코이앤씨, AI로 건설현장 바꾼다…품질·안전·업무 자동화 확대",
+   "summary": "작업자의 행동과 위험 상황뿐 아니라 추락 방지 덮개와 안전난간대 등 안전 가시설의 설치 상태도 영상으로 확인한다. 이상 징후가 감지되면 스마트 세이프티 플랫폼을 통해 관리자에게 알림을 전달해 조치가...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315073?sid=101",
+   "orig": "https://www.news1.kr/realestate/general/6368557",
+   "source": "뉴스1",
+   "published": "2026-11-28T07:05+09:00",
+   "cat": "tech",
+   "id": "d938564fa7e2",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "치아 보호 위한 ‘입속 안전벨트’…스캐너 사용해 1시간에 제작 완료 ...",
+   "summary": "야구 경기 중 날아온 공에 얼굴을 맞거나 자전거를 타다 넘어져 앞니가 부러지고 깨지는 사고가 끊이지... 폴리싱 작업까지 마치면 약 1시간 만에 완성된다. 김대운 원장은 “정밀도나 치아 보호 기능 자체는 기존 본뜨기...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002834366?sid=103",
+   "orig": "https://www.hani.co.kr/arti/hanihealth/medical/1289509.html",
+   "source": "한겨레",
+   "published": "2026-11-28T05:02+09:00",
+   "cat": "law",
+   "id": "4b468de59ba0",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "쿤텍-DNV, 산업 안전·보안 MOU",
    "summary": "기능안전 평가 경험을 더해 공정·발전 등 OT 환경과 철도·항공·AI·로봇·기계 분야의 평가 방법을 함께 검토한다. 쿤텍은 해양 분야에서 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진한 스마트선박...",
