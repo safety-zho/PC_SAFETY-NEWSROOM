@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T12:52+09:00",
+ "updatedAt": "2026-11-27T13:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -49,7 +49,7 @@
    "source": "뉴스프리존",
    "cat": "tech",
    "day": "2026-11-27",
-   "count": 3
+   "count": 4
   },
   {
    "id": "d87a9173fd71",
@@ -61,16 +61,120 @@
    "count": 3
   },
   {
-   "id": "2b6fc478cc73",
-   "title": "체육공단, 체육시설 안전 경영 인증 시설 13곳 선정…인증서와 현판 수...",
-   "url": "https://www.globalepic.co.kr/view.php?ud=2026112710231591804ee4ea3d05_29",
-   "source": "globalepic.co.kr",
+   "id": "2670dca37af7",
+   "title": "쿤텍, 글로벌 인증기관 DNV와 산업 안전·보안 평가 협력",
+   "url": "https://n.news.naver.com/mnews/article/366/0001207719?sid=105",
+   "source": "조선일보",
    "cat": "tech",
    "day": "2026-11-27",
-   "count": 2
+   "count": 3
   }
  ],
  "articles": [
+  {
+   "title": "한난, 상생협력·안전관리 두 축 강화… 수상 이어져",
+   "summary": "한난은 해외 동반진출과 중소기업 기술혁신·보호, 창업·벤처 지원 등으로 상생협력 범위를 넓혀왔다. 이... 시설물 안전관리시스템과 스마트안전관리 플랫폼을 활용해 위험요인을 선제적으로 관리해온 점도 주요 성과로...",
+   "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=363322",
+   "orig": "http://www.biztribune.co.kr/news/articleView.html?idxno=363322",
+   "source": "biztribune.co.kr",
+   "published": "2026-11-27T13:48+09:00",
+   "cat": "tech",
+   "id": "702f8b0f6d58",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "캠코, 관리 사업장 위험성평가 인정… 국유재산 재난대응도 강화",
+   "summary": "위험성평가와 시설 개선, 실전형 재난훈련을 병행해 사고 예방과 대응 역량을 높이는 데 초점을 맞추고 있다.... 시설·미화·경비 분야 근로자 14명도 직접 참여해 작업별 위험요인을 발굴하고 개선 조치를 이행했다. 캠코는...",
+   "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45750",
+   "orig": "https://www.s-journal.co.kr/news/articleView.html?idxno=45750",
+   "source": "s-journal.co.kr",
+   "published": "2026-11-27T13:42+09:00",
+   "cat": "tech",
+   "id": "f47f33abed09",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[ESG 칼럼] 에코바디스(EcoVadis) 평가, 단순한 평가를 넘어 기업 경쟁력...",
+   "summary": "ISO 14001(환경경영), ISO 45001(안전보건경영), ISO 27001(정보보안경영), ISO 37001(부패방지경영) 등 관련 인증과... 산업안전과 중대재해 예방을 위한 위험성평가, ISO 45001 인증, 근로자 권리 보호를 위한 인권경영시스템(HRMS)...",
+   "url": "https://www.fntoday.co.kr/news/articleView.html?idxno=400929",
+   "orig": "https://www.fntoday.co.kr/news/articleView.html?idxno=400929",
+   "source": "fntoday.co.kr",
+   "published": "2026-11-27T13:28+09:00",
+   "cat": "tech",
+   "id": "51dc5955d1fe",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "5년 만에 원청 교섭하는 현대제철 비정규직… “직접 고용 쟁취하자”",
+   "summary": "간접고용 노동자의 원청 교섭권을 확대한 노란봉투법(노동조합 및 노동관계조정법 2·3 조 개정안)... 공동 산업안전보건위원회 단체협약 명문화 등을 이루겠다고 했다. 최명식 현대제철 비정규직지회장은 “당진공장에...",
+   "url": "https://n.news.naver.com/mnews/article/028/0002834278?sid=102",
+   "orig": "https://www.hani.co.kr/arti/area/chungcheong/1289419.html",
+   "source": "한겨레",
+   "published": "2026-11-27T13:08+09:00",
+   "cat": "law",
+   "id": "db503a60178f",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "국제사이버대, 특수목적 한국어교육으로 신중년 일자리 창출 나서",
+   "summary": "국제사이버대는 전국에서 외국인 인구가 가장 많은 경기도에 주목해 외국인 근로자, 결혼이민자, 외국인 유학생 등을 대상으로 산업안전보건·미용·요양보호 분야 직무 한국어교육 과정을 개발했다. 특히 신중년의 기존...",
+   "url": "https://www.viva100.com/article/20261127500353",
+   "orig": "https://www.viva100.com/article/20261127500353",
+   "source": "브릿지경제",
+   "published": "2026-11-27T13:08+09:00",
+   "cat": "tech",
+   "id": "cf23b5e0fe42",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[건설산업 안전지표] 사고사망만인율의 분모부터 현실화해야 한다",
+   "summary": "어느 정도의 산재가 발생했는지를 보여주는 대표적인 지표 중 하나가 ‘사고사망만인율’이다. 일하는 사람들 중에서 1만명당 몇 명이나 사고로 사망했는지를 알려준다. 건설업의 산업안전정책과 공공건설공사 입...",
+   "url": "https://www.naeil.com/news/read/610341?ref=naver",
+   "orig": "https://www.naeil.com/news/read/610341?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-27T13:06+09:00",
+   "cat": "sev",
+   "id": "83dba403ea21",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "[시스템 지능으로 안전선진화] 언어 밖의 산업재해 현장",
+   "summary": "그리고 안전 예산은 실질적인 사고 예방과 건강 확보가 아니라 법적 면책을 위한 컨설팅과 서류 작업으로 새어나간다. 법집행 기관의 현장 이해 부족과 처벌에 대한 집착은 재해 감소를 가로막는 커다란 장애물이다....",
+   "url": "https://www.naeil.com/news/read/610339?ref=naver",
+   "orig": "https://www.naeil.com/news/read/610339?ref=naver",
+   "source": "naeil.com",
+   "published": "2026-11-27T13:06+09:00",
+   "cat": "tech",
+   "id": "acae566db693",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "승강기안전공단, '올해의 상생기업 대상' 중기부 장관 표창 수상",
+   "summary": "한국승강기안전공단 승강기안전기술원은 지난 26일 서울 코엑스 마곡에서 열린 '2026 올해의 상생기업 대상... 특히 중소기업과 공동으로 기술을 개발하고 성과를 공유해 기술 경쟁력을 높였으며, 국내외 판로 확대와 경영...",
+   "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025659",
+   "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1025659",
+   "source": "cnbnews.com",
+   "published": "2026-11-27T12:54+09:00",
+   "cat": "tech",
+   "id": "6699ffcbcfab",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "“비개발자가 AI로 안전로봇까지 짰다”…아모레퍼시픽, ‘바이브 코딩...",
    "summary": "이번 해커톤에는 영업과 이커머스, 생산, 개발, 경영지원 등 전 부서에서 총 56건의 과제가 출품돼 예선을 통과한 10개 팀이 본선에 올랐다. 이날 대상은 안전보건사무국의 ‘피지컬 AI, 누구나 만들 수 있습니다’가...",
@@ -171,7 +275,14 @@
    "published": "2026-11-27T12:08+09:00",
    "cat": "hlt",
    "id": "e19a8427d111",
-   "related": [],
+   "related": [
+    {
+     "source": "ccnnews.co.kr",
+     "url": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418535",
+     "orig": "http://www.ccnnews.co.kr/news/articleView.html?idxno=418535",
+     "title": "KBSI, 한국새빛가속기 건설현장 안전문화 캠페인"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -580,6 +691,12 @@
      "url": "https://www.sisaon.co.kr/news/articleView.html?idxno=206462",
      "orig": "https://www.sisaon.co.kr/news/articleView.html?idxno=206462",
      "title": "캠코, 한화생명 수원빌딩 '위험성평가 인정사업장' 획득"
+    },
+    {
+     "source": "newslock.co.kr",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=141167",
+     "orig": "http://www.newslock.co.kr/news/articleView.html?idxno=141167",
+     "title": "캠코, 협력업체와 '안전한 일터' 만든다…관리 사업장 위험성평가 인정..."
     }
    ],
    "day": "2026-11-27",
@@ -730,6 +847,12 @@
      "url": "https://byline.network/?p=9004111222629408",
      "orig": "https://byline.network/?p=9004111222629408",
      "title": "쿤텍, DNV와 산업 기능안전·보안 연계 평가 협력"
+    },
+    {
+     "source": "국토일보",
+     "url": "http://www.ikld.kr/news/articleView.html?idxno=345034",
+     "orig": "http://www.ikld.kr/news/articleView.html?idxno=345034",
+     "title": "쿤텍-DNV, 산업 안전·보안 평가 협력 MOU 체결"
     }
    ],
    "day": "2026-11-27",
@@ -816,7 +939,14 @@
    "published": "2026-11-27T09:40+09:00",
    "cat": "tech",
    "id": "fc1cf90f3cbd",
-   "related": [],
+   "related": [
+    {
+     "source": "naeil.com",
+     "url": "https://www.naeil.com/news/read/610309?ref=naver",
+     "orig": "https://www.naeil.com/news/read/610309?ref=naver",
+     "title": "건설기계 사망사고 예방 릴레이 마무리"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -3212,6 +3342,12 @@
      "url": "https://www.news1.kr/sports/general-sport/6368230",
      "orig": "https://www.news1.kr/sports/general-sport/6368230",
      "title": "체육공단, 체육시설 안전 경영 인증 시설 13곳 선정"
+    },
+    {
+     "source": "shinailbo.co.kr",
+     "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088590",
+     "orig": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5088590",
+     "title": "영월골프연습장, 체육시설 안전경영 인증 획득"
     }
    ],
    "day": "2026-11-26",
