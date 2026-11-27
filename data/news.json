@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T16:46+09:00",
+ "updatedAt": "2026-11-27T16:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -1725,6 +1725,12 @@
      "url": "https://n.news.naver.com/mnews/article/008/0005447316?sid=101",
      "orig": "https://www.mt.co.kr/living/2026/11/27/2026112709413320598",
      "title": "아모레퍼시픽 직원이 AI로 만든 안전장비, 해커톤 대상"
+    },
+    {
+     "source": "ttlnews.com",
+     "url": "http://www.ttlnews.com/news/articleView.html?idxno=3167028",
+     "orig": "http://www.ttlnews.com/news/articleView.html?idxno=3167028",
+     "title": "아모레퍼시픽, 제3회 바이브 코딩 해커톤 개최… 위험 상황 감지 AI 안전..."
     }
    ],
    "day": "2026-11-27",
