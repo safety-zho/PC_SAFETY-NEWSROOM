@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-27T17:52+09:00",
+ "updatedAt": "2026-11-27T18:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "뉴스프리존",
    "cat": "tech",
    "day": "2026-11-27",
-   "count": 6
+   "count": 7
   },
   {
    "id": "e67ce7c0f2e8",
@@ -71,6 +71,123 @@
   }
  ],
  "articles": [
+  {
+   "title": "한국구조물안전연구원, 신철식 신임 대표이사 취임",
+   "summary": "신 대표이사는 드론과 인공지능(AI), 사물인터넷(IoT) 등 첨단 스마트기술 분야의 풍부한 경험과 전문성을 보유해 안전진단과 구조물 모니터링 역량이 한층 강화될 전망이다. 회사 관계자는 “신임 대표이사 취임을...",
+   "url": "http://mcnews.co.kr/86986",
+   "orig": "http://mcnews.co.kr/86986",
+   "source": "mcnews.co.kr",
+   "published": "2026-11-27T18:44+09:00",
+   "cat": "tech",
+   "id": "26822171e0f4",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "HD현대삼호 하청 노동자 사망…노조, 목포노동지청장 '직무유기 혐의' ...",
+   "summary": "이에 대해 목포지청 산재예방감독과 관계자는 노동자의 정확한 사망 원인이 밝혀지지 않은 상황에서 법적 강제력을 수반하는 작업중지 명령을 내리기는 어렵다고 밝혔다. 이어 \"사고 발생 지점에 대해서는 회사 측에...",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628220",
+   "orig": "https://www.mdtoday.co.kr/news/articleView.html?idxno=628220",
+   "source": "mdtoday.co.kr",
+   "published": "2026-11-27T18:40+09:00",
+   "cat": "sev",
+   "id": "ea5960073018",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "양승조 수자원공사 사장, \"접경지역 물안전 확보, 한반도 평화 첫걸음\"",
+   "summary": "특히, 임진강과 북한강처럼 남북이 함께 이용하는 하천의 경우 상류 댐 운영이 하류 주민 안전과 직결되는... 지난 13일 취임한 양 사장은 6대 경영방향 가운데 하나로 '성과 기반 양극화 해소'를 제시한 바 있다....",
+   "url": "https://www.s-journal.co.kr/news/articleView.html?idxno=45763",
+   "orig": "https://www.s-journal.co.kr/news/articleView.html?idxno=45763",
+   "source": "s-journal.co.kr",
+   "published": "2026-11-27T18:36+09:00",
+   "cat": "tech",
+   "id": "a7a09af2b523",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "2026 ESG 평가서 대동 'A등급'·TYM 'B+ 등급' 획득",
+   "summary": "안전보건경영시스템 ISO45001을 유지하며 근로자 산업재해와 질병을 예방하는 안전 근무 환경 조성에도 힘쓰고 있다. 서준석 대동 그룹 ESG/IR팀장은 \"2년 연속 통합 A등급을 획득한 것은 ESG 경영 체계를 지속적으로...",
+   "url": "https://www.aflnews.co.kr/news/articleView.html?idxno=332674",
+   "orig": "https://www.aflnews.co.kr/news/articleView.html?idxno=332674",
+   "source": "aflnews.co.kr",
+   "published": "2026-11-27T18:24+09:00",
+   "cat": "tech",
+   "id": "d9958ddedc9d",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "KCC, ‘국가품질경영대회’ 8관왕…안전·ESG 경영도 두각",
+   "summary": "국가품질경영대회서 은상 2개·동상 6개…8개 분임조 수상 지속가능성보고서 12년 연속 선정…색채대상도 4년째 수상 ▲ [KCC] KCC가 제조 현장 개선과 지속가능경영, 산업안전 디자인 분야에서 잇따라 상을 받았다....",
+   "url": "https://sateconomy.co.kr/news/view/1065587855911222",
+   "orig": "https://sateconomy.co.kr/news/view/1065587855911222",
+   "source": "sateconomy.co.kr",
+   "published": "2026-11-27T18:16+09:00",
+   "cat": "tech",
+   "id": "9aea6be3ec42",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "임도 분류, 규모 따라 1~4급으로 변경…안전성 강화 규정 도입",
+   "summary": "5년마다 지역임도계획 수립하고 정기 점검·안전 진단 취약지 관리 최소 기울기·횡단수로 기준 마련 내년... 김 사무관은 \"임도는 산림 경영을 위해 조성하지만, 현재 분류는 명칭 때문에 특정 기능으로만 활용된다고...",
+   "url": "https://www.agrinet.co.kr/news/articleView.html?idxno=409228",
+   "orig": "https://www.agrinet.co.kr/news/articleView.html?idxno=409228",
+   "source": "agrinet.co.kr",
+   "published": "2026-11-27T18:14+09:00",
+   "cat": "tech",
+   "id": "11382d37af94",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "아이티유, SCX 2026서 외국인 철도 유학생 대상 ‘AI 스마트 안전 통합 ...",
+   "summary": "-국토부 주관 플로우투어 통해 우송대 글로벌철도학과 등 38명 방문 -통합 관제·AI 중장비 안전·다국어 음성 번역까지 현장 적용 기술 소개 AI 스마트 안전 솔루션 전문기업 ㈜아이티유가 지난 26일 ‘2026 스마트건설...",
+   "url": "https://n.news.naver.com/mnews/article/243/0000106404?sid=101",
+   "orig": "https://economist.co.kr/article/view/ecn202611270058",
+   "source": "economist.co.kr",
+   "published": "2026-11-27T17:59+09:00",
+   "cat": "tech",
+   "id": "85af25eb42fb",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "울산항만공사, 안전·현장·법률 전문가 수혈로 항만위원회 진용 완성",
+   "summary": "울산항만공사(UPA)가 안전경영·항만운영·법률 분야 전문가 3명을 항만위원으로 새로 맞아들이며 울산항 운영의 전문성과 경영 투명성 강화에 나섰다. UPA는 지난 26일 열린 제211차 항만위원회에서 신규 항만위원 3명을...",
+   "url": "https://www.pointe.co.kr/news/articleView.html?idxno=88582",
+   "orig": "https://www.pointe.co.kr/news/articleView.html?idxno=88582",
+   "source": "pointe.co.kr",
+   "published": "2026-11-27T17:54+09:00",
+   "cat": "tech",
+   "id": "957fbfac0a1b",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
+  {
+   "title": "화재보험협, 부산 녹산단지에 안전물품 기증",
+   "summary": "이정열 화재보험협회 본부장은 \"이번 지원이 소규모 공장 사업주와 근로자들이 안심하고 일할 수 있는 환경을 만드는 데 실질적인 도움이 되길 바란다\"며 \"앞으로도 한국산업단지공단과 협력해 AIoT 기술을 활용한 화재...",
+   "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498263",
+   "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498263",
+   "source": "이뉴스투데이",
+   "published": "2026-11-27T17:52+09:00",
+   "cat": "acc",
+   "id": "2594ebd7cfc9",
+   "related": [],
+   "day": "2026-11-27",
+   "watch": []
+  },
   {
    "title": "전주페이퍼, 노사상생 성과 인정…고용노동부장관상 수상",
    "summary": "개선과 산업안전 강화 등 노사상생 성과를 인정받았다. 전주페이퍼(대표이사 심철식)는 지난 24일 노사발전재단 주관 '2026년 상생파트너십 종합지원사업 우수사례 경진대회'에서 우수상인 고용노동부장관상을 수상했다고...",
@@ -825,7 +942,14 @@
    "published": "2026-11-27T14:10+09:00",
    "cat": "law",
    "id": "098838012421",
-   "related": [],
+   "related": [
+    {
+     "source": "매일노동뉴스",
+     "url": "https://www.labortoday.co.kr/news/articleView.html?idxno=237975",
+     "orig": "https://www.labortoday.co.kr/news/articleView.html?idxno=237975",
+     "title": "현대제철 하청노동자, 5년 만에 원청과 교섭"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
@@ -1598,6 +1722,12 @@
      "url": "http://www.sisacast.kr/news/articleView.html?idxno=102459",
      "orig": "http://www.sisacast.kr/news/articleView.html?idxno=102459",
      "title": "캠코, 안전보건공단 '위험성평가 인정사업장' 획득…협력업체 안전관리..."
+    },
+    {
+     "source": "cnbnews.com",
+     "url": "https://www.cnbnews.com/news/articleView.html?idxno=1025744",
+     "orig": "https://www.cnbnews.com/news/articleView.html?idxno=1025744",
+     "title": "캠코, 협력업체 안전관리 지원…관리 사업장 '위험성평가 인정'"
     }
    ],
    "day": "2026-11-27",
@@ -1677,7 +1807,14 @@
    "published": "2026-11-27T10:06+09:00",
    "cat": "tech",
    "id": "9eca0aa3eb91",
-   "related": [],
+   "related": [
+    {
+     "source": "비욘드포스트",
+     "url": "http://www.beyondpost.co.kr/view.php?ud=202611271740499074be44c0aacd_30",
+     "orig": "http://www.beyondpost.co.kr/view.php?ud=202611271740499074be44c0aacd_30",
+     "title": "안전보건공단, 감사인·준감사인 합동 워크숍…자율적 내부통제 강화"
+    }
+   ],
    "day": "2026-11-27",
    "watch": []
   },
