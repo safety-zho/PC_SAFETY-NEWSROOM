@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T13:52+09:00",
+ "updatedAt": "2026-11-28T14:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -3547,7 +3547,14 @@
    "published": "2026-11-26T17:42+09:00",
    "cat": "tech",
    "id": "b24debe1f95f",
-   "related": [],
+   "related": [
+    {
+     "source": "한국경제",
+     "url": "https://n.news.naver.com/mnews/article/015/0005359069?sid=101",
+     "orig": "https://www.hankyung.com/article/202611274909i",
+     "title": "한국산업단지공단, ‘2026 적극행정 우수사례 경진대회’ 인사혁신처장..."
+    }
+   ],
    "day": "2026-11-26",
    "watch": []
   },
