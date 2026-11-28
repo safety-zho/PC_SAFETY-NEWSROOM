@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T16:51+09:00",
+ "updatedAt": "2026-11-28T17:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,7 +31,7 @@
    "source": "연합뉴스",
    "cat": "sev",
    "day": "2026-11-28",
-   "count": 7
+   "count": 9
   },
   {
    "id": "90e1b3ac4e29",
@@ -40,7 +40,7 @@
    "source": "뉴스1",
    "cat": "acc",
    "day": "2026-11-28",
-   "count": 4
+   "count": 6
   },
   {
    "id": "f58f889ab386",
@@ -62,6 +62,84 @@
   }
  ],
  "articles": [
+  {
+   "title": "SQ엔지니어링, 中 북경과학기술대 초청 심포지엄 참석… 한ㆍ중 안전ㆍ...",
+   "summary": "또 시설물 안전관리와 재난 예방의 중요성이 세계적으로 커지는 흐름에 맞춰 AIㆍ드론ㆍ증강현실(AR)ㆍ디지털 트윈 등 신기술을 접목한 스마트 안전진단 기술 현황과 적용 사례도 공유했다. 양측은 각국의 시설물...",
+   "url": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611281736157520030",
+   "orig": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611281736157520030",
+   "source": "대한경제",
+   "published": "2026-11-28T17:40+09:00",
+   "cat": "tech",
+   "id": "88b390279269",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "'45주년' 병원약사회, 병동전담약사 통한 환자안전 강화 모색",
+   "summary": "입원환자에게 안전하고 효과적인 치료를 제공하기 위해서는 의사, 약사, 간호사 등 보건의료 인력이 각자의... (한국보훈복지의료공단 중앙보훈병원), 김윤희(분당서울대병원), 윤보현(전북대병원) ▲미래병원약사상...",
+   "url": "https://www.medipana.com/news/articleView.html?idxno=422872",
+   "orig": "https://www.medipana.com/news/articleView.html?idxno=422872",
+   "source": "medipana.com",
+   "published": "2026-11-28T17:28+09:00",
+   "cat": "tech",
+   "id": "f8915545ad94",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "독도 앞바다서 다친 외국인 선원…해경, 악천후 뚫고 구조",
+   "summary": "베트남 국적의 30대 선원 B씨는 작업 중 왼쪽 발목을 다쳐 골절이 의심되는 상태였습니다. 당시 사고 해역에는 풍랑주의보가 발효돼 파도가 높게 이는 등 기상 여건이 매우 좋지 않았습니다. 동해해경은 신고 접수 즉시...",
+   "url": "https://n.news.naver.com/mnews/article/055/0001406561?sid=102",
+   "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867970&plink=ORI&cooper=NAVER",
+   "source": "SBS",
+   "published": "2026-11-28T17:25+09:00",
+   "cat": "acc",
+   "id": "335230c60703",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "\"나눔으로 함께 행복한 경남\" 경남도, '제15회 경상남도 나눔대회' 개최",
+   "summary": "보건복지부 장관 표창은 사회복지법인 희연 김해중 자원봉사자와 한국전력공사 경남본부, 한국산업기술시험원 등 개인 1명과 단체 2곳이 받았다. 도지사 표창은 거창군삶의쉼터 정현숙 자원봉사자 등 12명의 유공자와...",
+   "url": "https://www.newsgn.com/news/articleView.html?idxno=588455",
+   "orig": "https://www.newsgn.com/news/articleView.html?idxno=588455",
+   "source": "newsgn.com",
+   "published": "2026-11-28T17:10+09:00",
+   "cat": "acc",
+   "id": "33b65468c252",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "독도 해상 어선서 다친 외국인 선원, 악천후 속 해경 긴급 이송",
+   "summary": "베트남 국적의 30대 선원 B씨는 작업 중 왼쪽 발목을 다쳐 골절이 의심되는 상태였다. 당시 사고 해역에는 풍랑주의보가 발효돼 파도가 높게 이는 등 기상 여건이 매우 좋지 않았다. 동해해경은 신고 접수 즉시 1천500t급...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468909?sid=101",
+   "orig": "https://www.yna.co.kr/view/AKR20261128041500062?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-28T17:05+09:00",
+   "cat": "acc",
+   "id": "45f1f87f828a",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "광명 소하동 공사장서 사다리 추락 사고… 60대 근로자 숨져",
+   "summary": "광명시 소하동의 아파트 신축 공사장에서 사다리 위 작업을 하던 60대 근로자가 추락해 숨지는 사고가 발생했다. 28일 광명경찰서에 따르면 전날 오전 7시42분께 소하동 아파트 신축 현장 지하주차장에서 사다리 위에...",
+   "url": "https://n.news.naver.com/mnews/article/666/0000134167?sid=102",
+   "orig": "https://www.kyeonggi.com/article/20261128580105",
+   "source": "kyeonggi.com",
+   "published": "2026-11-28T16:58+09:00",
+   "cat": "sev",
+   "id": "85a169cd7d0c",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "광명 아파트 현장서 하청 근로자 사망…환풍기 작업 중 4m 추락",
    "summary": "경기 광명시의 아파트 공사 현장에서 60대 남성 근로자가 사다리에서 추락해 숨졌다. 28일 광명경찰서에 따르면 전날 오전 7시 42분경 광명시 소하동 소재 아파트 지하 주차장 공사 현장에 설치된 사다리에서 60대...",
@@ -133,6 +211,18 @@
      "url": "https://www.kyeongin.com/article/1775559",
      "orig": "https://www.kyeongin.com/article/1775559",
      "title": "광명 아파트 신축 공사장서 60대 노동자 추락사… 경찰 수사"
+    },
+    {
+     "source": "joygm.com",
+     "url": "http://www.joygm.com/news/articleView.html?idxno=215634",
+     "orig": "http://www.joygm.com/news/articleView.html?idxno=215634",
+     "title": "광명 소하동 아파트 신축 현장서 60대 노동자 추락사"
+    },
+    {
+     "source": "부산일보",
+     "url": "https://n.news.naver.com/mnews/article/082/0001409367?sid=102",
+     "orig": "https://www.busan.com/view/busan/view.php?code=2026112815335472063",
+     "title": "[속보] 광명 아파트 신축 공사장서 사다리 작업 중 60대 추락해 숨져"
     }
    ],
    "day": "2026-11-28",
@@ -191,6 +281,18 @@
      "url": "https://n.news.naver.com/mnews/article/057/0001980273?sid=102",
      "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233435",
      "title": "광명 아파트 공사 현장서 60대 작업자 추락해 숨져"
+    },
+    {
+     "source": "위키트리",
+     "url": "https://www.wikitree.co.kr/articles/1178609",
+     "orig": "https://www.wikitree.co.kr/articles/1178609",
+     "title": "환풍구 작업하던 60대 근로자 4m 아래로 추락… 광명 아파트 공사 현장..."
+    },
+    {
+     "source": "경기신문",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=921523",
+     "orig": "https://www.kgnews.co.kr/news/article.html?no=921523",
+     "title": "광명 아파트 신축 공사현장서 60대 작업자 추락사"
     }
    ],
    "day": "2026-11-28",
