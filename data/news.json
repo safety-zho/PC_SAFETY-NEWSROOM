@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T14:52+09:00",
+ "updatedAt": "2026-11-28T15:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -34,6 +34,15 @@
    "count": 4
   },
   {
+   "id": "90e1b3ac4e29",
+   "title": "광명 아파트 공사 현장서 환풍기 실리콘 작업하던 60대 추락사",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315317?sid=102",
+   "source": "뉴스1",
+   "cat": "acc",
+   "day": "2026-11-28",
+   "count": 3
+  },
+  {
    "id": "a7599ffdcb66",
    "title": "노동부 \"연속 야간노동 3일 이하 제한은 새 규제 아닌 기존 권고\"",
    "url": "https://n.news.naver.com/mnews/article/421/0009315140?sid=101",
@@ -41,18 +50,74 @@
    "cat": "law",
    "day": "2026-11-28",
    "count": 2
-  },
-  {
-   "id": "c4cd9945ec2c",
-   "title": "\"병동전담약사로 안전 강화를\"...병원약사대회 1천여명 집결",
-   "url": "https://www.dailypharm.com/user/news/345142?REFERER=NP",
-   "source": "데일리팜",
-   "cat": "tech",
-   "day": "2026-11-28",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "광명 아파트 신축 공사현장서 60대 작업자 추락해 숨져",
+   "summary": "경기 광명시의 아파트 신축 공사현장에서 60대 작업자가 추락해 숨졌다. 28일 광명경찰서에 따르면 전날 오전 7시 42분께 광명시 소하동의 한 아파트 신축 공사현장 지하주차장에서 사다리 위에 올라가 작업하던 A씨가 4ｍ...",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468852?sid=102",
+   "orig": "https://www.yna.co.kr/view/AKR20261128037500061?input=1195m",
+   "source": "연합뉴스",
+   "published": "2026-11-28T15:24+09:00",
+   "cat": "sev",
+   "id": "81056c51bc34",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "“밤 10시 실적 부진·사망사고 질책”…이해욱 DL 회장, 직원 400명 심야...",
+   "summary": "이달 전북 김제시 국립새만금수목원 조성사업 현장에서도 근로자 1명이 추락해 숨졌다. 다만 수주 부진과 수익성 악화에는 발주처의 투자 지연과 공사비 상승 등 외부 요인뿐 아니라 경영진의 사업 전략도 영향을...",
+   "url": "https://n.news.naver.com/mnews/article/138/0002250222?sid=101",
+   "orig": "https://www.ddaily.co.kr/page/view/2026112815180742399",
+   "source": "디지털데일리",
+   "published": "2026-11-28T15:19+09:00",
+   "cat": "sev",
+   "id": "21fb220891e3",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "[현장] 더 빠르게 더 안전하게…건설현장 파고드는 AI·로봇",
+   "summary": "작업자 접근을 감지해 사고 위험을 알리는 AI 카메라부터 공사 진행 상황을 점검하는 사족보행 로봇... 코오롱글로벌 건설현장 6곳에서 30일간 진행한 실증에서는 AI가 탐지한 위험 상황 4967건 중 462건을 오경보로...",
+   "url": "https://bizhankook.com/articles/ai-robots-in-construction.html",
+   "orig": "https://bizhankook.com/articles/ai-robots-in-construction.html",
+   "source": "비즈한국",
+   "published": "2026-11-28T15:06+09:00",
+   "cat": "tech",
+   "id": "b926c5475dd6",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "광명 아파트 공사 현장서 환풍기 실리콘 작업하던 60대 추락사",
+   "summary": "경기 광명시 한 아파트 공사 현장에서 60대 남성 근로자가 사다리에서 추락해 사망했다. 28일 광명경찰서에 따르면 전날 오전 7시 42분께 광명시 소하동 소재 아파트 지하 주차장 공사 현장에 설치된 사다리에서 A 씨가 약...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315317?sid=102",
+   "orig": "https://www.news1.kr/local/gyeonggi/6369138",
+   "source": "뉴스1",
+   "published": "2026-11-28T14:54+09:00",
+   "cat": "acc",
+   "id": "90e1b3ac4e29",
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014350757?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261128_0003887172",
+     "title": "광명 아파트 신축 현장서 60대 작업자 추락사"
+    },
+    {
+     "source": "경향신문",
+     "url": "https://n.news.naver.com/mnews/article/032/0003485621?sid=102",
+     "orig": "https://www.khan.co.kr/article/202611281548001",
+     "title": "경기 광명 아파트 공사현장서 60대 노동자 추락사"
+    }
+   ],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "\"병동전담약사로 안전 강화를\"...병원약사대회 1천여명 집결",
    "summary": "안전하고 효과적인 약물치료는 어느 한 직종의 노력만으로 충분하지 않다”며 “의사, 간호사, 약사 등 보건... (한국보훈복지의료공단 중앙보훈병원), 김윤희(분당서울대병원), 윤보현(전북대병원) ▲미래병원약사상...",
