@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T15:52+09:00",
+ "updatedAt": "2026-11-28T16:51+09:00",
  "categories": [
   {
    "id": "sev",
@@ -25,13 +25,13 @@
  "watchLabel": "SPC그룹",
  "highlights": [
   {
-   "id": "f58f889ab386",
-   "title": "인천 강화도 축사 지붕서 추락해 중상…60대 헬기 이송",
-   "url": "https://n.news.naver.com/mnews/article/001/0016468631?sid=102",
+   "id": "81056c51bc34",
+   "title": "광명 아파트 신축 공사현장서 60대 작업자 추락해 숨져",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468852?sid=102",
    "source": "연합뉴스",
-   "cat": "acc",
+   "cat": "sev",
    "day": "2026-11-28",
-   "count": 4
+   "count": 7
   },
   {
    "id": "90e1b3ac4e29",
@@ -40,7 +40,16 @@
    "source": "뉴스1",
    "cat": "acc",
    "day": "2026-11-28",
-   "count": 3
+   "count": 4
+  },
+  {
+   "id": "f58f889ab386",
+   "title": "인천 강화도 축사 지붕서 추락해 중상…60대 헬기 이송",
+   "url": "https://n.news.naver.com/mnews/article/001/0016468631?sid=102",
+   "source": "연합뉴스",
+   "cat": "acc",
+   "day": "2026-11-28",
+   "count": 4
   },
   {
    "id": "a7599ffdcb66",
@@ -54,6 +63,32 @@
  ],
  "articles": [
   {
+   "title": "광명 아파트 현장서 하청 근로자 사망…환풍기 작업 중 4m 추락",
+   "summary": "경기 광명시의 아파트 공사 현장에서 60대 남성 근로자가 사다리에서 추락해 숨졌다. 28일 광명경찰서에 따르면 전날 오전 7시 42분경 광명시 소하동 소재 아파트 지하 주차장 공사 현장에 설치된 사다리에서 60대...",
+   "url": "https://n.news.naver.com/mnews/article/020/0003765913?sid=102",
+   "orig": "https://www.donga.com/news/Society/article/all/20261128/135107557/1",
+   "source": "동아일보",
+   "published": "2026-11-28T16:45+09:00",
+   "cat": "sev",
+   "id": "54b48930676a",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "[ESG경영 사례분석] 포스코홀딩스, 장인화 회장의 '안전 경영' 지속...사...",
+   "summary": "2025년 재해율이 전년보다 낮아진 것은 장인화 회장의 안전경영에 긍정적인 지표로 평가된다. 안전 평가 강화가 지난해 9월부터 시행된 만큼, 2026년에도 재해율 하락세가 이어질지 여부가 주목된다. 포스코홀딩스...",
+   "url": "https://www.news2day.co.kr/article/20261124500270",
+   "orig": "https://www.news2day.co.kr/article/20261124500270",
+   "source": "뉴스투데이",
+   "published": "2026-11-28T16:02+09:00",
+   "cat": "tech",
+   "id": "7d461ce5c48f",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
    "title": "광명 아파트 신축 공사현장서 60대 작업자 추락해 숨져",
    "summary": "경기 광명시의 아파트 신축 공사현장에서 60대 작업자가 추락해 숨졌다. 28일 광명경찰서에 따르면 전날 오전 7시 42분께 광명시 소하동의 한 아파트 신축 공사현장 지하주차장에서 사다리 위에 올라가 작업하던 A씨가 4ｍ...",
    "url": "https://n.news.naver.com/mnews/article/001/0016468852?sid=102",
@@ -62,7 +97,44 @@
    "published": "2026-11-28T15:24+09:00",
    "cat": "sev",
    "id": "81056c51bc34",
-   "related": [],
+   "related": [
+    {
+     "source": "MBC",
+     "url": "https://n.news.naver.com/mnews/article/214/0001538665?sid=102",
+     "orig": "https://imnews.imbc.com/news/2026/society/article/6869310_36918.html",
+     "title": "경기 광명 아파트 신축 공사현장서 60대 노동자 추락해 숨져"
+    },
+    {
+     "source": "SBS",
+     "url": "https://n.news.naver.com/mnews/article/055/0001406542?sid=102",
+     "orig": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867910&plink=ORI&cooper=NAVER",
+     "title": "광명 아파트 신축 공사현장서 60대 작업자 추락해 숨져"
+    },
+    {
+     "source": "천지일보",
+     "url": "https://www.newscj.com/news/articleView.html?idxno=3452891",
+     "orig": "https://www.newscj.com/news/articleView.html?idxno=3452891",
+     "title": "광명 아파트 신축현장서 60대 사다리 작업 중 추락사"
+    },
+    {
+     "source": "KBS",
+     "url": "https://n.news.naver.com/mnews/article/056/0012303134?sid=102",
+     "orig": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8725148&ref=A",
+     "title": "광명 신축 아파트 공사 현장서 60대 작업자 추락해 숨져"
+    },
+    {
+     "source": "bbsi.co.kr",
+     "url": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121609",
+     "orig": "https://news.bbsi.co.kr/news/articleView.html?idxno=4121609",
+     "title": "광명 아파트 신축 공사현장서 60대 작업자 추락해 숨져"
+    },
+    {
+     "source": "경인일보",
+     "url": "https://www.kyeongin.com/article/1775559",
+     "orig": "https://www.kyeongin.com/article/1775559",
+     "title": "광명 아파트 신축 공사장서 60대 노동자 추락사… 경찰 수사"
+    }
+   ],
    "day": "2026-11-28",
    "watch": []
   },
@@ -113,6 +185,12 @@
      "url": "https://n.news.naver.com/mnews/article/032/0003485621?sid=102",
      "orig": "https://www.khan.co.kr/article/202611281548001",
      "title": "경기 광명 아파트 공사현장서 60대 노동자 추락사"
+    },
+    {
+     "source": "매일경제",
+     "url": "https://n.news.naver.com/mnews/article/057/0001980273?sid=102",
+     "orig": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5233435",
+     "title": "광명 아파트 공사 현장서 60대 작업자 추락해 숨져"
     }
    ],
    "day": "2026-11-28",
