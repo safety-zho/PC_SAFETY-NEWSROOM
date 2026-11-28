@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T12:52+09:00",
+ "updatedAt": "2026-11-28T13:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -43,16 +43,55 @@
    "count": 2
   },
   {
-   "id": "423c20ae1af4",
-   "title": "충남 태안 곰섬선착장서 CCTV 작업자 밀물에 고립…1명 구조",
-   "url": "https://n.news.naver.com/mnews/article/421/0009315159?sid=102",
-   "source": "뉴스1",
+   "id": "c4cd9945ec2c",
+   "title": "\"병동전담약사로 안전 강화를\"...병원약사대회 1천여명 집결",
+   "url": "https://www.dailypharm.com/user/news/345142?REFERER=NP",
+   "source": "데일리팜",
    "cat": "tech",
    "day": "2026-11-28",
    "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "\"병동전담약사로 안전 강화를\"...병원약사대회 1천여명 집결",
+   "summary": "안전하고 효과적인 약물치료는 어느 한 직종의 노력만으로 충분하지 않다”며 “의사, 간호사, 약사 등 보건... (한국보훈복지의료공단 중앙보훈병원), 김윤희(분당서울대병원), 윤보현(전북대병원) ▲미래병원약사상...",
+   "url": "https://www.dailypharm.com/user/news/345142?REFERER=NP",
+   "orig": "https://www.dailypharm.com/user/news/345142?REFERER=NP",
+   "source": "데일리팜",
+   "published": "2026-11-28T13:26+09:00",
+   "cat": "tech",
+   "id": "c4cd9945ec2c",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "캠코, 협력업체와 안전한 일터 조성…관리 사업장 \"위험성평가 인정\" 획...",
+   "summary": "/제공=자산관리공사 캠코는 기업 유동성 지원을 위해 인수한 한화생명 수원빌딩이 최근 한국산업안전보건공단으로부터 '위험성평가 인정사업장'으로 인정받았다고 27일 밝혔다. 이번 시범사업은 협력업체가 작업 현장의...",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3766051",
+   "orig": "https://www.gukjenews.com/news/articleView.html?idxno=3766051",
+   "source": "국제뉴스",
+   "published": "2026-11-28T13:02+09:00",
+   "cat": "tech",
+   "id": "c7817b00dad4",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "11월 28일 오늘의 안전 상황",
+   "summary": "07:42경 / 경기 광명시 소하동 / 아파트 공사현장에서 작업자 추락(약 4.5m) / 사망 1명(남, 60대) ○(산불) ① 세종시 전동면노장리(11.27.23:32~11.28.01:30 / 원인 및 피해면적 조사 중) ※ 북북서풍 1.2m/s / 재난문자...",
+   "url": "http://fpn119.co.kr/260190",
+   "orig": "http://fpn119.co.kr/260190",
+   "source": "fpn119.co.kr",
+   "published": "2026-11-28T12:58+09:00",
+   "cat": "law",
+   "id": "a9735e676634",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "군산시, 공장·창고시설 2,898개 동 화재안전 실태조사 추진",
    "summary": "이번 조사는 최근 잇따른 공장화재로 대규모 인명피해가 발생함에 따라 국토교통부가 관계부처 합동으로... 협력해 화재 위험요인을 면밀히 살피고, 이번 조사를 계기로 시민과 근로자 모두가 안심할 수 있는 안전한...",
