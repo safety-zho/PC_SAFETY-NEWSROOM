@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T09:52+09:00",
+ "updatedAt": "2026-11-28T10:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -40,12 +40,12 @@
    "source": "뉴스1",
    "cat": "law",
    "day": "2026-11-28",
-   "count": 1
+   "count": 2
   },
   {
-   "id": "d938564fa7e2",
-   "title": "포스코이앤씨, AI로 건설현장 바꾼다…품질·안전·업무 자동화 확대",
-   "url": "https://n.news.naver.com/mnews/article/421/0009315073?sid=101",
+   "id": "423c20ae1af4",
+   "title": "충남 태안 곰섬선착장서 CCTV 작업자 밀물에 고립…1명 구조",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315159?sid=102",
    "source": "뉴스1",
    "cat": "tech",
    "day": "2026-11-28",
@@ -53,6 +53,45 @@
   }
  ],
  "articles": [
+  {
+   "title": "충남 태안 곰섬선착장서 CCTV 작업자 밀물에 고립…1명 구조",
+   "summary": "소방 당국은 구조대원을 손가락 통증을 호소한 A 씨에게 응급처치한 뒤 병원으로 이송했다. 사고는 선착장에서 작업하던 중 밀물로 바닷물이 차오르면서 퇴로가 차단돼 발생한 것으로 파악됐다.",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315159?sid=102",
+   "orig": "https://www.news1.kr/local/daejeon-chungnam/6369054",
+   "source": "뉴스1",
+   "published": "2026-11-28T10:13+09:00",
+   "cat": "tech",
+   "id": "423c20ae1af4",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "경북 곳곳서 교통사고·추락·화재 잇따라…중상 5명·경상 11명",
+   "summary": "경북지역에서 교통사고와 작업장 추락사고, 아파트 화재, 산불 등이 잇따라 발생해 모두 16명의 인명... 추돌사고가 발생했다. 코란도 차량이 유턴하던 중 직진 및 유턴 대기 중이던 코나와 렉스턴, G80 차량을 잇달아...",
+   "url": "https://n.news.naver.com/mnews/article/629/0000556440?sid=102",
+   "orig": "https://news.tf.co.kr/read/national/2394526.htm",
+   "source": "tf.co.kr",
+   "published": "2026-11-28T10:11+09:00",
+   "cat": "acc",
+   "id": "ffe973cc517e",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "경남도, 농업·안전·임업 '겹경사'…전국 경쟁력 입증",
+   "summary": "도는 추가 사업비를 활용해 농가의 경영비 부담을 줄이고 시설원예 산업의 생산 경쟁력을 강화할 방침이다. 노후건축물 안전 사각지대 해소 성과 경남도는 27일 국토교통부가 주최한 '2026년 건축물관리제도 이행...",
+   "url": "https://www.industrynews.co.kr/news/articleView.html?idxno=90389",
+   "orig": "https://www.industrynews.co.kr/news/articleView.html?idxno=90389",
+   "source": "industrynews.co.kr",
+   "published": "2026-11-28T10:06+09:00",
+   "cat": "tech",
+   "id": "172e1491e932",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "노동부 \"연속 야간노동 3일 이하 제한은 새 규제 아닌 기존 권고\"",
    "summary": "고용노동부는 지난해 12월 실노동시간 단축 로드맵 추진단에서 노·사·정이 야간노동자 건강보호 방안 마련에 합의했고, 이에 따라 노동법·산업안전보건 등 분야 전문가, 노·사와 함께 야간노동 실태를 파악하고 현장...",
@@ -62,7 +101,14 @@
    "published": "2026-11-28T09:40+09:00",
    "cat": "law",
    "id": "a7599ffdcb66",
-   "related": [],
+   "related": [
+    {
+     "source": "한국일보",
+     "url": "https://n.news.naver.com/mnews/article/469/0000968276?sid=102",
+     "orig": "https://www.hankookilbo.com/news/article/A2026112810250002892?did=NA",
+     "title": "노동부 \"연속 야간노동 3일까지만, 새 규제 아닌 기존 권고 종합\""
+    }
+   ],
    "day": "2026-11-28",
    "watch": []
   },
@@ -2081,6 +2127,12 @@
      "url": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498000",
      "orig": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2498000",
      "title": "국민체육진흥공단, '2026 체육시설 안전 경영 인증 수여식' 개최"
+    },
+    {
+     "source": "마이데일리",
+     "url": "https://www.mydaily.co.kr/page/view/2026112716564610009",
+     "orig": "https://www.mydaily.co.kr/page/view/2026112716564610009",
+     "title": "서울올림픽기념국민체육진흥공단, 2026년 체육시설 안전 경영 인증 시설..."
     }
    ],
    "day": "2026-11-27",
