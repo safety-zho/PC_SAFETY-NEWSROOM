@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-11-28T08:52+09:00",
+ "updatedAt": "2026-11-28T09:52+09:00",
  "categories": [
   {
    "id": "sev",
@@ -31,6 +31,15 @@
    "source": "연합뉴스",
    "cat": "acc",
    "day": "2026-11-28",
+   "count": 4
+  },
+  {
+   "id": "a7599ffdcb66",
+   "title": "노동부 \"연속 야간노동 3일 이하 제한은 새 규제 아닌 기존 권고\"",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315140?sid=101",
+   "source": "뉴스1",
+   "cat": "law",
+   "day": "2026-11-28",
    "count": 1
   },
   {
@@ -41,18 +50,48 @@
    "cat": "tech",
    "day": "2026-11-28",
    "count": 1
-  },
-  {
-   "id": "4b468de59ba0",
-   "title": "치아 보호 위한 ‘입속 안전벨트’…스캐너 사용해 1시간에 제작 완료 ...",
-   "url": "https://n.news.naver.com/mnews/article/028/0002834366?sid=103",
-   "source": "한겨레",
-   "cat": "law",
-   "day": "2026-11-28",
-   "count": 1
   }
  ],
  "articles": [
+  {
+   "title": "노동부 \"연속 야간노동 3일 이하 제한은 새 규제 아닌 기존 권고\"",
+   "summary": "고용노동부는 지난해 12월 실노동시간 단축 로드맵 추진단에서 노·사·정이 야간노동자 건강보호 방안 마련에 합의했고, 이에 따라 노동법·산업안전보건 등 분야 전문가, 노·사와 함께 야간노동 실태를 파악하고 현장...",
+   "url": "https://n.news.naver.com/mnews/article/421/0009315140?sid=101",
+   "orig": "https://www.news1.kr/economy/employment-labor/6369043",
+   "source": "뉴스1",
+   "published": "2026-11-28T09:40+09:00",
+   "cat": "law",
+   "id": "a7599ffdcb66",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "고령 배수로 정비현장서 작업하던 50대 근로자 추락....헬기로 이송",
+   "summary": "경북 고령의 한 배수로 정비 현장에서 50대 근로자가 작업 중 추락해 중상을 입고 병원으로 이송됐다. 28일 경북소방본부에 따르면 전날 오후 3시 30분쯤 고령군 다산면 호촌리의 한 배수로 정비 현장에서 A(50대) 씨가...",
+   "url": "https://www.newspim.com/news/view/20261128000026",
+   "orig": "https://www.newspim.com/news/view/20261128000026",
+   "source": "뉴스핌",
+   "published": "2026-11-28T09:10+09:00",
+   "cat": "acc",
+   "id": "a4e8e9126bea",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
+  {
+   "title": "식약처 허가받았는데 고시 위반?…의료 AI 규제 엇박자",
+   "summary": "에이아이트릭스 도입 의료기관 184곳 조사 복지부 고시 해석 이견...진료비 반환 소송도 식품의약품안전처의 허가를 받아 의료 현장에서 사용 중인 인공지능(AI) 의료기기가 보건복지부 고시 위반 논란에 휩싸였다....",
+   "url": "https://n.news.naver.com/mnews/article/024/0000109953?sid=101",
+   "orig": "https://www.mk.co.kr/article/12220382",
+   "source": "매일경제",
+   "published": "2026-11-28T09:01+09:00",
+   "cat": "acc",
+   "id": "4533fbeae243",
+   "related": [],
+   "day": "2026-11-28",
+   "watch": []
+  },
   {
    "title": "인천 강화도 축사 지붕서 추락해 중상…60대 헬기 이송",
    "summary": "이 사고로 다리 등을 크게 다친 A씨는 소방헬기에 실려 인천 내륙 대학병원으로 옮겨졌다. 경찰과 소방 당국은 A씨가 축사 지붕에서 작업하던 중 추락한 것으로 보고 구체적인 경위를 확인하고 있다. 소방 당국자는...",
@@ -62,7 +101,26 @@
    "published": "2026-11-28T08:42+09:00",
    "cat": "acc",
    "id": "f58f889ab386",
-   "related": [],
+   "related": [
+    {
+     "source": "뉴시스",
+     "url": "https://n.news.naver.com/mnews/article/003/0014350466?sid=102",
+     "orig": "https://www.newsis.com/view/NISX20261128_0003887006",
+     "title": "강화도 축사 지붕서 추락한 60대 중상…헬기 이송"
+    },
+    {
+     "source": "kyeonggi.com",
+     "url": "https://n.news.naver.com/mnews/article/666/0000134136?sid=102",
+     "orig": "https://www.kyeonggi.com/article/20261128580053",
+     "title": "인천 강화군 축사 지붕서 60대 추락해 중상…헬기로 병원 이송"
+    },
+    {
+     "source": "뉴스1",
+     "url": "https://n.news.naver.com/mnews/article/421/0009315141?sid=102",
+     "orig": "https://www.news1.kr/local/incheon/6369044",
+     "title": "인천 강화서 축사 지붕 작업하던 60대 추락…소방헬기 이송"
+    }
+   ],
    "day": "2026-11-28",
    "watch": []
   },
